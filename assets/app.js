@@ -9,6 +9,7 @@
     query: "",
     mode: "parallel",
     glossary: null,
+    progression: null,
     glossaryById: new Map(),
     tooltipCounter: 0,
     cache: new Map(),
@@ -91,15 +92,21 @@
     element.append(document.createTextNode(value.slice(cursor)));
   }
 
+  function completedChapters(chapterSlug) {
+    const completed = new Set();
+    const visit = (slug) => {
+      const normalized = String(slug || "").toUpperCase();
+      if (!normalized || completed.has(normalized)) return;
+      completed.add(normalized);
+      for (const required of state.progression.chapters[normalized] || []) visit(required);
+    };
+    visit(chapterSlug);
+    return completed;
+  }
+
   function recordIsUnlocked(record, chapterSlug) {
-    const chapterPosition = state.index.chapters.findIndex(
-      (chapter) => chapter.slug === chapterSlug,
-    );
-    if (chapterPosition < 0) return false;
-    const results = record.requires.map((slug) => {
-      const position = state.index.chapters.findIndex((chapter) => chapter.slug === slug);
-      return position >= 0 && position <= chapterPosition;
-    });
+    const completed = completedChapters(chapterSlug);
+    const results = record.requires.map((slug) => completed.has(slug.toUpperCase()));
     return record.requireAll ? results.every(Boolean) : results.some(Boolean);
   }
 
@@ -480,9 +487,10 @@
 
   async function init() {
     try {
-      [state.index, state.glossary] = await Promise.all([
+      [state.index, state.glossary, state.progression] = await Promise.all([
         fetchJson(`data/index.json?v=${Date.now()}`),
         fetchJson(`data/glossary.json?v=${Date.now()}`),
+        fetchJson(`data/scenario-progression.json?v=${Date.now()}`),
       ]);
       state.glossaryById = new Map(
         state.glossary.groups.map((group) => [group.id, group]),

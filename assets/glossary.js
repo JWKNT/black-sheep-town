@@ -4,6 +4,7 @@
   const state = {
     index: null,
     glossary: null,
+    progression: null,
     chapter: null,
     query: "",
   };
@@ -32,12 +33,21 @@
     return state.index.chapters.findIndex((chapter) => chapter.slug === slug);
   }
 
+  function completedChapters(chapterSlug) {
+    const completed = new Set();
+    const visit = (slug) => {
+      const normalized = String(slug || "").toUpperCase();
+      if (!normalized || completed.has(normalized)) return;
+      completed.add(normalized);
+      for (const required of state.progression.chapters[normalized] || []) visit(required);
+    };
+    visit(chapterSlug);
+    return completed;
+  }
+
   function recordIsUnlocked(record) {
-    const current = chapterPosition(state.chapter);
-    const results = record.requires.map((slug) => {
-      const required = chapterPosition(slug);
-      return required >= 0 && required <= current;
-    });
+    const completed = completedChapters(state.chapter);
+    const results = record.requires.map((slug) => completed.has(slug.toUpperCase()));
     return record.requireAll ? results.every(Boolean) : results.some(Boolean);
   }
 
@@ -224,9 +234,10 @@
 
   async function init() {
     try {
-      [state.index, state.glossary] = await Promise.all([
+      [state.index, state.glossary, state.progression] = await Promise.all([
         fetchJson(`data/index.json?v=${Date.now()}`),
         fetchJson(`data/glossary.json?v=${Date.now()}`),
+        fetchJson(`data/scenario-progression.json?v=${Date.now()}`),
       ]);
       const params = new URLSearchParams(window.location.search);
       const requested = params.get("chapter");

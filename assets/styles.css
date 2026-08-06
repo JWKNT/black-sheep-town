@@ -128,6 +128,7 @@ mark { padding: 0; background: #f4e9b8; color: inherit; }
 .english-reader-mode .script-line + .script-line { display: block; margin: 0 0 1.45em; border: 0; }
 .english-reader-mode .line-number,
 .english-reader-mode .language-column.japanese { display: none; }
+.english-reader-mode .language-label { display: none; }
 .english-reader-mode .language-column.english { padding: 0; border: 0; }
 .english-reader-mode .speaker { min-height: 0; margin: 0 0 5px; color: var(--blue); font-size: 11px; font-variant: small-caps; letter-spacing: .3px; }
 .english-reader-mode .speaker:empty { display: none; }

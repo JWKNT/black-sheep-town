@@ -122,6 +122,53 @@ test("generated glossary contains every evolving game record", async () => {
       assert.ok(record.jpDescription.length > 0);
     }
   }
+
+  const greatHoleManju = glossary.groups.find((group) => group.id === 71);
+  assert.equal(greatHoleManju.enTitle, "Great Hole Manju");
+  assert.equal(greatHoleManju.records.length, 1);
+  assert.deepEqual(greatHoleManju.records[0].requires, ["A1"]);
+});
+
+test("glossary versions follow the game's scenario dependency graph", async () => {
+  const dataRoot = new URL("data/", root);
+  const index = JSON.parse(await readFile(new URL("index.json", dataRoot), "utf8"));
+  const glossary = JSON.parse(await readFile(new URL("glossary.json", dataRoot), "utf8"));
+  const progression = JSON.parse(
+    await readFile(new URL("scenario-progression.json", dataRoot), "utf8"),
+  );
+
+  for (const chapter of index.chapters) {
+    assert.ok(chapter.slug in progression.chapters, `missing progression for ${chapter.slug}`);
+  }
+  for (const [chapter, requirements] of Object.entries(progression.chapters)) {
+    for (const required of requirements) {
+      assert.ok(required in progression.chapters, `${chapter} requires unknown ${required}`);
+    }
+  }
+
+  const completedChapters = (chapter) => {
+    const completed = new Set();
+    const visit = (slug) => {
+      if (completed.has(slug)) return;
+      completed.add(slug);
+      for (const required of progression.chapters[slug] || []) visit(required);
+    };
+    visit(chapter);
+    return completed;
+  };
+  const activeRecord = (groupId, chapter) => {
+    const completed = completedChapters(chapter);
+    return glossary.groups.find((group) => group.id === groupId).records
+      .filter((record) => {
+        const unlocked = record.requires.map((slug) => completed.has(slug));
+        return record.requireAll ? unlocked.every(Boolean) : unlocked.some(Boolean);
+      })
+      .sort((a, b) => b.priority - a.priority)[0];
+  };
+
+  assert.equal(activeRecord(1, "E3").priority, 1);
+  assert.equal(activeRecord(1, "A6").priority, 3);
+  assert.equal(activeRecord(71, "A1").recordId, 156);
 });
 
 test("client rendering treats script text as text, not HTML", async () => {
@@ -134,6 +181,7 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(appendHighlighted, /element\.textContent\s*=\s*value/);
   assert.match(app, /data\/index\.json\?v=/);
   assert.match(app, /data\/glossary\.json\?v=/);
+  assert.match(app, /data\/scenario-progression\.json\?v=/);
   assert.match(app, /makeGlossaryTerm/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
@@ -186,6 +234,7 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
   assert.match(css, /\.chapter-menu \{[^}]*grid-template-columns: repeat\(3,/s);
   assert.match(css, /\.english-reader-mode \.language-column\.japanese \{ display: none; \}/);
+  assert.match(css, /\.english-reader-mode \.language-label \{ display: none; \}/);
   assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);
   assert.match(css, /\.english-reader-mode \.line-text \{[^}]*font-size: 18px[^}]*text-wrap: pretty/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
