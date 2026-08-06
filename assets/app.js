@@ -71,7 +71,7 @@
   function appendHighlighted(element, text, terms) {
     const value = cleanText(text);
     if (!terms.length) {
-      element.textContent = value;
+      element.append(document.createTextNode(value));
       return;
     }
 

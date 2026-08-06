@@ -66,6 +66,21 @@ test("generated chapter index agrees with its chapter files", async () => {
       assert.equal(typeof line.en, "string");
       assert.ok(line.jp.length > 0);
       assert.ok(line.en.length > 0);
+      for (const field of ["jp", "en"]) {
+        const openingTips = line[field].match(/<tips=\d+>/g) || [];
+        const closingTips = line[field].match(/<\/tips>/g) || [];
+        assert.equal(
+          openingTips.length,
+          closingTips.length,
+          `unbalanced glossary markup in ${line.id} ${field}`,
+        );
+        if (openingTips.length > 0) {
+          assert.ok(
+            line[field].replace(/<\/?tips(?:=\d+)?>/g, "").trim().length > 0,
+            `empty glossary-marked text in ${line.id} ${field}`,
+          );
+        }
+      }
       assert.ok(!seenIds.has(line.id), `duplicate line ID: ${line.id}`);
       seenIds.add(line.id);
     }
@@ -111,7 +126,12 @@ test("generated glossary contains every evolving game record", async () => {
 
 test("client rendering treats script text as text, not HTML", async () => {
   const app = await readFile(new URL("assets/app.js", root), "utf8");
-  assert.match(app, /textContent = value/);
+  const appendHighlighted = app.slice(
+    app.indexOf("function appendHighlighted"),
+    app.indexOf("function recordIsUnlocked"),
+  );
+  assert.match(appendHighlighted, /element\.append\(document\.createTextNode\(value\)\)/);
+  assert.doesNotMatch(appendHighlighted, /element\.textContent\s*=\s*value/);
   assert.match(app, /data\/index\.json\?v=/);
   assert.match(app, /data\/glossary\.json\?v=/);
   assert.match(app, /makeGlossaryTerm/);
@@ -119,6 +139,41 @@ test("client rendering treats script text as text, not HTML", async () => {
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
+});
+
+test("plain script segments append without erasing glossary terms", async () => {
+  const app = await readFile(new URL("assets/app.js", root), "utf8");
+  const functionSource = app.slice(
+    app.indexOf("function appendHighlighted"),
+    app.indexOf("function recordIsUnlocked"),
+  );
+  const mockDocument = {
+    createTextNode(value) {
+      return { type: "text", value };
+    },
+  };
+  const appendHighlighted = Function(
+    "document",
+    "cleanText",
+    `"use strict"; ${functionSource}; return appendHighlighted;`,
+  )(mockDocument, (value) => String(value));
+  const target = {
+    nodes: [],
+    append(...nodes) {
+      this.nodes.push(...nodes);
+    },
+  };
+  const glossaryTerm = { type: "term", value: "Runway Street" };
+
+  appendHighlighted(target, "Despite it being the middle of a weekday, ", []);
+  target.append(glossaryTerm);
+  appendHighlighted(target, " is bustling.", []);
+
+  assert.deepEqual(target.nodes, [
+    { type: "text", value: "Despite it being the middle of a weekday, " },
+    glossaryTerm,
+    { type: "text", value: " is bustling." },
+  ]);
 });
 
 test("script rows form a continuous bordered grid", async () => {
@@ -131,5 +186,7 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
   assert.match(css, /\.chapter-menu \{[^}]*grid-template-columns: repeat\(3,/s);
   assert.match(css, /\.english-reader-mode \.language-column\.japanese \{ display: none; \}/);
+  assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);
+  assert.match(css, /\.english-reader-mode \.line-text \{[^}]*font-size: 18px[^}]*text-wrap: pretty/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
 });
