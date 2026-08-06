@@ -13,11 +13,9 @@ from pathlib import Path
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_TRANSLATION_ROOT = REPOSITORY_ROOT.parent / "BST_MTL" / "work" / "translation"
-SPEAKER_OVERRIDES_PATH = REPOSITORY_ROOT / "tools" / "speaker_overrides.tsv"
 
-# Correct two target labels that collapsed the individually named Wong sisters
-# into their collective identity. All other game-provided English labels come
-# from the translation workspace and its proper-noun authority.
+# Correct two English translations of official game speaker labels that had
+# collapsed the individually named Wong sisters into their collective identity.
 GAME_SPEAKER_EN_OVERRIDES = {
     "黄天明": "Tinming Wong",
     "黄天祥": "Tinchen Wong",
@@ -29,35 +27,10 @@ def read_tsv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle, delimiter="\t"))
 
 
-def read_speaker_overrides(path: Path) -> dict[str, tuple[str, str]]:
-    overrides: dict[str, tuple[str, str]] = {}
-    for row in read_tsv(path):
-        line_id = (row.get("line_id") or "").strip()
-        speaker_jp = (row.get("speaker_jp") or "").strip()
-        speaker_en = (row.get("speaker_en") or "").strip()
-        if not line_id or not speaker_jp or not speaker_en:
-            raise SystemExit(f"Incomplete speaker override in {path}: {row}")
-        if line_id in overrides:
-            raise SystemExit(f"Duplicate speaker override: {line_id}")
-        overrides[line_id] = (speaker_jp, speaker_en)
-    return overrides
-
-
-def is_standalone_spoken_line(text: str) -> bool:
-    """Return true for a complete Japanese dialogue line, not an inline quote."""
-    stripped = text.strip(" \t\u3000")
-    return stripped.startswith("「") and stripped.endswith("」")
-
-
 def resolve_speaker(
     source_row: dict[str, str],
     target_row: dict[str, str],
-    speaker_overrides: dict[str, tuple[str, str]],
 ) -> tuple[str, str]:
-    line_id = target_row["line_id"]
-    if line_id in speaker_overrides:
-        return speaker_overrides[line_id]
-
     game_speaker = (source_row.get("speaker") or "").strip()
     if game_speaker:
         translated_speaker = GAME_SPEAKER_EN_OVERRIDES.get(
@@ -69,21 +42,15 @@ def resolve_speaker(
             translated_speaker,
         )
 
-    if is_standalone_spoken_line(target_row.get("jp_text") or ""):
-        # The game deliberately omits the speaker marker for viewpoint dialogue.
-        # A neutral label avoids exposing identity twists before the script does.
-        return ("語り手", "Narrator")
-
     return ("", "")
 
 
 def compact_line(
     source_row: dict[str, str],
     target_row: dict[str, str],
-    speaker_overrides: dict[str, tuple[str, str]],
     sequence: int,
 ) -> dict[str, object]:
-    speaker_jp, speaker_en = resolve_speaker(source_row, target_row, speaker_overrides)
+    speaker_jp, speaker_en = resolve_speaker(source_row, target_row)
     return {
         "id": target_row["line_id"],
         "i": sequence,
@@ -107,7 +74,6 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     if not manifest_path.is_file():
         raise SystemExit(f"Chapter manifest not found: {manifest_path}")
 
-    speaker_overrides = read_speaker_overrides(SPEAKER_OVERRIDES_PATH)
     chapters: list[dict[str, object]] = []
     translated_total = 0
 
@@ -127,9 +93,7 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
             if (row.get("en_text") or "").strip()
         ]
         translated = [
-            compact_line(
-                source_rows[row["line_id"]], row, speaker_overrides, sequence
-            )
+            compact_line(source_rows[row["line_id"]], row, sequence)
             for sequence, row in enumerate(translated_rows, start=1)
         ]
         if not translated:

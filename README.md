@@ -13,7 +13,7 @@ python3 tools/build_data.py ../BST_MTL/work/translation
 npm test
 ```
 
-The builder reads `chapter_manifest.tsv`, copies every row with non-empty English text from `targets_by_sheet/`, and rewrites `data/index.json` plus one JSON file per translated chapter. Game-provided speaker labels remain authoritative. Because the game deliberately leaves viewpoint dialogue unnamed, those lines receive the spoiler-safe label `Narrator`; inferred off-screen, telephone, and pre-introduction speakers live in `tools/speaker_overrides.tsv`. Names in that file follow `work/notes/proper_nouns_names_key_items.md`, and unrevealed identities use scene-appropriate role labels. Newly started chapters appear automatically; chapter completion is calculated from the manifest.
+The builder reads `chapter_manifest.tsv`, copies every row with non-empty English text from `targets_by_sheet/`, and rewrites `data/index.json` plus one JSON file per translated chapter. Speaker names appear only where the shipped game provides an explicit speaker label; the site does not infer viewpoint, telephone, or off-screen speakers. English forms follow `work/notes/proper_nouns_names_key_items.md`. Newly started chapters appear automatically; chapter completion is calculated from the manifest.
 
 You can also set `BST_TRANSLATION_ROOT` instead of passing the path:
 

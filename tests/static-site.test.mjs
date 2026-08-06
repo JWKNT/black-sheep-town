@@ -46,11 +46,6 @@ test("generated chapter index agrees with its chapter files", async () => {
       assert.equal(typeof line.en, "string");
       assert.ok(line.jp.length > 0);
       assert.ok(line.en.length > 0);
-      const japanese = line.jp.trim();
-      if (japanese.startsWith("「") && japanese.endsWith("」")) {
-        assert.ok(line.sj.length > 0, `missing Japanese speaker: ${line.id}`);
-        assert.ok(line.se.length > 0, `missing English speaker: ${line.id}`);
-      }
       assert.ok(!seenIds.has(line.id), `duplicate line ID: ${line.id}`);
       seenIds.add(line.id);
     }
@@ -65,11 +60,11 @@ test("generated chapter index agrees with its chapter files", async () => {
     );
     for (const line of payload.lines) lineById.set(line.id, line);
   }
-  assert.equal(lineById.get("A1:0090")?.se, "Waiter");
-  assert.equal(lineById.get("A1:0111")?.se, "Narrator");
-  assert.equal(lineById.get("A1:0232")?.se, "Ma Ming");
-  assert.equal(lineById.get("A1:0254")?.se, "Man's Voice");
-  assert.equal(lineById.get("A1:0159")?.se, "");
+  assert.equal(lineById.get("A1:0090")?.se, "");
+  assert.equal(lineById.get("A1:0111")?.se, "");
+  assert.equal(lineById.get("A1:0232")?.se, "");
+  assert.equal(lineById.get("A1:0254")?.se, "");
+  assert.equal(lineById.get("A1:0258")?.se, "Michio Mido");
 });
 
 test("client rendering treats script text as text, not HTML", async () => {
@@ -78,4 +73,12 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /data\/index\.json\?v=/);
   assert.match(app, /state\.index\.generatedAt/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
+});
+
+test("script rows form a continuous bordered grid", async () => {
+  const css = await readFile(new URL("assets/styles.css", root), "utf8");
+  assert.match(css, /\.script-line \{[^}]*border: 1px solid var\(--line-strong\)/s);
+  assert.match(css, /\.script-line \+ \.script-line \{ border-top: 0; \}/);
+  assert.match(css, /\.line-number \{[^}]*border-right: 1px solid var\(--line-strong\)/s);
+  assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
 });
