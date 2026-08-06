@@ -131,7 +131,7 @@
 
     const lineNumber = article.querySelector(".line-number");
     lineNumber.href = `?chapter=${encodeURIComponent(meta.slug)}#${anchorId}`;
-    lineNumber.textContent = includeChapter ? line.id : String(line.n);
+    lineNumber.textContent = includeChapter ? `${meta.title} · ${line.i}` : String(line.i);
     lineNumber.setAttribute("aria-label", `Link to ${line.id}`);
 
     const jp = article.querySelector(".japanese");

@@ -20,9 +20,10 @@ def read_tsv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle, delimiter="\t"))
 
 
-def compact_line(row: dict[str, str]) -> dict[str, object]:
+def compact_line(row: dict[str, str], sequence: int) -> dict[str, object]:
     return {
         "id": row["line_id"],
+        "i": sequence,
         "n": int(row["row_index"]),
         "sj": row.get("speaker_jp", ""),
         "se": row.get("speaker_en", ""),
@@ -51,10 +52,14 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
         if not target_path.is_file():
             continue
 
-        translated = [
-            compact_line(row)
+        translated_rows = [
+            row
             for row in read_tsv(target_path)
             if (row.get("en_text") or "").strip()
+        ]
+        translated = [
+            compact_line(row, sequence)
+            for sequence, row in enumerate(translated_rows, start=1)
         ]
         if not translated:
             continue

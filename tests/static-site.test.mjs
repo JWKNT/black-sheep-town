@@ -37,8 +37,9 @@ test("generated chapter index agrees with its chapter files", async () => {
     assert.deepEqual(payload.chapter, chapter);
     assert.equal(payload.lines.length, chapter.translatedLines);
     assert.ok(chapter.translatedLines <= chapter.totalLines);
-    for (const line of payload.lines) {
+    for (const [position, line] of payload.lines.entries()) {
       assert.equal(typeof line.id, "string");
+      assert.equal(line.i, position + 1);
       assert.equal(typeof line.n, "number");
       assert.equal(typeof line.jp, "string");
       assert.equal(typeof line.en, "string");
