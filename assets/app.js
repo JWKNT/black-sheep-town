@@ -7,6 +7,10 @@
     chapter: null,
     scope: "chapter",
     query: "",
+    mode: "parallel",
+    glossary: null,
+    glossaryById: new Map(),
+    tooltipCounter: 0,
     cache: new Map(),
     searchToken: 0,
   };
@@ -26,6 +30,9 @@
     scriptLines: document.querySelector("#script-lines"),
     emptyState: document.querySelector("#empty-state"),
     lineTemplate: document.querySelector("#line-template"),
+    parallelMode: document.querySelector("#parallel-mode"),
+    englishMode: document.querySelector("#english-mode"),
+    glossaryLink: document.querySelector("#glossary-link"),
   };
 
   const number = new Intl.NumberFormat("en-US");
@@ -81,6 +88,84 @@
     element.append(document.createTextNode(value.slice(cursor)));
   }
 
+  function recordIsUnlocked(record, chapterSlug) {
+    const chapterPosition = state.index.chapters.findIndex(
+      (chapter) => chapter.slug === chapterSlug,
+    );
+    if (chapterPosition < 0) return false;
+    const results = record.requires.map((slug) => {
+      const position = state.index.chapters.findIndex((chapter) => chapter.slug === slug);
+      return position >= 0 && position <= chapterPosition;
+    });
+    return record.requireAll ? results.every(Boolean) : results.some(Boolean);
+  }
+
+  function glossaryEntry(tipsId, chapterSlug) {
+    const group = state.glossaryById.get(Number(tipsId));
+    if (!group) return null;
+    const record = [...group.records]
+      .filter((candidate) => recordIsUnlocked(candidate, chapterSlug))
+      .sort((a, b) => b.priority - a.priority)[0];
+    return record ? { ...group, record } : null;
+  }
+
+  function shortened(value, limit = 220) {
+    const text = cleanText(value).replace(/\s+/g, " ").trim();
+    return text.length > limit ? `${text.slice(0, limit).trimEnd()}…` : text;
+  }
+
+  function makeGlossaryTerm(tipsId, visibleText, meta, terms) {
+    const entry = glossaryEntry(tipsId, meta.slug);
+    if (!entry) {
+      const fragment = document.createDocumentFragment();
+      appendHighlighted(fragment, visibleText, terms);
+      return fragment;
+    }
+
+    const link = document.createElement("a");
+    link.className = "glossary-term";
+    link.href = `glossary.html?chapter=${encodeURIComponent(meta.slug)}#tip-${entry.id}`;
+    const tooltipId = `tip-preview-${meta.slug}-${entry.id}-${++state.tooltipCounter}`;
+    link.setAttribute("aria-describedby", tooltipId);
+    appendHighlighted(link, visibleText, terms);
+
+    const popover = document.createElement("span");
+    popover.className = "glossary-popover";
+    popover.id = tooltipId;
+    popover.setAttribute("role", "tooltip");
+
+    const title = document.createElement("strong");
+    title.textContent = entry.enTitle;
+    const japanese = document.createElement("span");
+    japanese.className = "glossary-popover-japanese";
+    japanese.lang = "ja";
+    japanese.textContent = `${entry.record.jpTitle}${entry.record.pronunciation ? ` · ${entry.record.pronunciation}` : ""}`;
+    const description = document.createElement("span");
+    description.className = "glossary-popover-description";
+    description.lang = entry.record.enDescription ? "en" : "ja";
+    description.textContent = shortened(
+      entry.record.enDescription || entry.record.jpDescription,
+    );
+    const action = document.createElement("span");
+    action.className = "glossary-popover-action";
+    action.textContent = "Open full glossary entry →";
+    popover.append(title, japanese, description, action);
+    link.append(popover);
+    return link;
+  }
+
+  function appendRichText(element, text, terms, meta) {
+    const source = String(text || "").replace(/<br\s*\/?>/gi, "\n");
+    const tipsPattern = /<tips=(\d+)>([\s\S]*?)<\/tips>/giu;
+    let cursor = 0;
+    for (const match of source.matchAll(tipsPattern)) {
+      appendHighlighted(element, source.slice(cursor, match.index), terms);
+      element.append(makeGlossaryTerm(match[1], cleanText(match[2]), meta, terms));
+      cursor = match.index + match[0].length;
+    }
+    appendHighlighted(element, source.slice(cursor), terms);
+  }
+
   async function fetchJson(path) {
     const response = await fetch(path);
     if (!response.ok) throw new Error(`Could not load ${path}`);
@@ -110,7 +195,16 @@
     else url.searchParams.delete("q");
     if (state.scope === "all") url.searchParams.set("scope", "all");
     else url.searchParams.delete("scope");
+    if (state.mode === "english") url.searchParams.set("mode", "en");
+    else url.searchParams.delete("mode");
+    elements.glossaryLink.href = `glossary.html?chapter=${encodeURIComponent(state.chapter)}`;
     history.replaceState(null, "", `${url.pathname}${url.search}${url.hash}`);
+  }
+
+  function updateReadingMode() {
+    document.body.classList.toggle("english-reader-mode", state.mode === "english");
+    elements.parallelMode.setAttribute("aria-pressed", String(state.mode === "parallel"));
+    elements.englishMode.setAttribute("aria-pressed", String(state.mode === "english"));
   }
 
   function updateChapterControls() {
@@ -141,11 +235,12 @@
 
     const jp = article.querySelector(".japanese");
     appendHighlighted(jp.querySelector(".speaker"), line.sj, terms);
-    appendHighlighted(jp.querySelector(".line-text"), line.jp, terms);
+    appendRichText(jp.querySelector(".line-text"), line.jp, terms, meta);
 
     const en = article.querySelector(".english");
     appendHighlighted(en.querySelector(".speaker"), line.se, terms);
-    appendHighlighted(en.querySelector(".line-text"), line.en, terms);
+    appendRichText(en.querySelector(".line-text"), line.en, terms, meta);
+    article.classList.toggle("has-speaker", Boolean(cleanText(line.se)));
     return article;
   }
 
@@ -282,6 +377,16 @@
       elements.search.focus();
       render();
     });
+    elements.parallelMode.addEventListener("click", () => {
+      state.mode = "parallel";
+      updateReadingMode();
+      updateUrl();
+    });
+    elements.englishMode.addEventListener("click", () => {
+      state.mode = "english";
+      updateReadingMode();
+      updateUrl();
+    });
     document.querySelectorAll('input[name="search-scope"]').forEach((radio) => {
       radio.addEventListener("change", () => {
         state.scope = radio.value;
@@ -298,18 +403,26 @@
 
   async function init() {
     try {
-      state.index = await fetchJson(`data/index.json?v=${Date.now()}`);
+      [state.index, state.glossary] = await Promise.all([
+        fetchJson(`data/index.json?v=${Date.now()}`),
+        fetchJson(`data/glossary.json?v=${Date.now()}`),
+      ]);
+      state.glossaryById = new Map(
+        state.glossary.groups.map((group) => [group.id, group]),
+      );
       const params = new URLSearchParams(window.location.search);
       const requestedChapter = params.get("chapter");
       state.chapter = chapterMeta(requestedChapter) ? requestedChapter : state.index.chapters[0].slug;
       state.query = params.get("q") || "";
       state.scope = params.get("scope") === "all" ? "all" : "chapter";
+      state.mode = params.get("mode") === "en" ? "english" : "parallel";
 
       elements.search.value = state.query;
       document.querySelector(`input[name="search-scope"][value="${state.scope}"]`).checked = true;
       elements.chapterCount.textContent = number.format(state.index.chapters.length);
       elements.lineCount.textContent = number.format(state.index.translatedLines);
       elements.updatedAt.textContent = state.index.updated;
+      updateReadingMode();
       populateChapterSelect();
       bindEvents();
       await changeChapter(state.chapter, { scroll: false });

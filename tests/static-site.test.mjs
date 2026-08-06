@@ -13,12 +13,28 @@ test("reader HTML exposes the required controls and regions", async () => {
     "script-search",
     "script-lines",
     "line-template",
+    "parallel-mode",
+    "english-mode",
+    "glossary-link",
   ]) {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
+});
+
+test("glossary HTML exposes progress, search, and entry regions", async () => {
+  const html = await readFile(new URL("glossary.html", root), "utf8");
+  for (const id of [
+    "glossary-chapter",
+    "glossary-search",
+    "glossary-list",
+    "glossary-entry-template",
+  ]) {
+    assert.match(html, new RegExp(`id=["']${id}["']`));
+  }
+  assert.match(html, /assets\/glossary\.js\?v=/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
@@ -67,12 +83,38 @@ test("generated chapter index agrees with its chapter files", async () => {
   assert.equal(lineById.get("A1:0258")?.se, "Michio Mido");
 });
 
+test("generated glossary contains every evolving game record", async () => {
+  const dataRoot = new URL("data/", root);
+  const index = JSON.parse(await readFile(new URL("index.json", dataRoot), "utf8"));
+  const glossary = JSON.parse(await readFile(new URL("glossary.json", dataRoot), "utf8"));
+  assert.equal(glossary.groups.length, 98);
+  assert.equal(index.glossaryGroups, glossary.groups.length);
+  assert.equal(
+    glossary.groups.reduce((total, group) => total + group.records.length, 0),
+    211,
+  );
+  for (const group of glossary.groups) {
+    assert.equal(typeof group.id, "number");
+    assert.ok(group.enTitle.length > 0);
+    assert.ok(group.records.length > 0);
+    for (const record of group.records) {
+      assert.ok(record.requires.length > 0);
+      assert.ok(record.jpTitle.length > 0);
+      assert.ok(record.jpDescription.length > 0);
+    }
+  }
+});
+
 test("client rendering treats script text as text, not HTML", async () => {
   const app = await readFile(new URL("assets/app.js", root), "utf8");
   assert.match(app, /textContent = value/);
   assert.match(app, /data\/index\.json\?v=/);
-  assert.match(app, /state\.index\.generatedAt/);
+  assert.match(app, /data\/glossary\.json\?v=/);
+  assert.match(app, /makeGlossaryTerm/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
+
+  const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
+  assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 
 test("script rows form a continuous bordered grid", async () => {
@@ -81,4 +123,6 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.script-line \+ \.script-line \{ border-top: 0; \}/);
   assert.match(css, /\.line-number \{[^}]*border-right: 1px solid var\(--line-strong\)/s);
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
+  assert.match(css, /\.english-reader-mode \.language-column\.japanese \{ display: none; \}/);
+  assert.match(css, /\.glossary-term:hover \.glossary-popover/);
 });

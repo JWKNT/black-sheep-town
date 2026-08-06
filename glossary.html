@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="The spoiler-aware in-game glossary for Black Sheep Town.">
+    <meta name="theme-color" content="#ffffff">
+    <title>Black Sheep Town Glossary</title>
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.3">
+  </head>
+  <body>
+    <a class="skip-link" href="#glossary-list">Skip to glossary</a>
+
+    <header class="site-header">
+      <a class="site-title" href="./">Black Sheep Town</a>
+      <nav aria-label="Site links">
+        <a href="./">Reader</a>
+        <a href="glossary.html" aria-current="page">Glossary</a>
+        <a href="https://github.com/JWKNT/black-sheep-town" target="_blank" rel="noreferrer">GitHub</a>
+      </nav>
+    </header>
+
+    <main class="glossary-shell">
+      <section class="glossary-intro">
+        <div>
+          <h1>Glossary</h1>
+          <p>The game’s glossary as it exists after the selected chapter. Later definitions remain hidden.</p>
+        </div>
+        <p class="glossary-count" id="glossary-count">Loading…</p>
+      </section>
+
+      <section class="glossary-controls" aria-label="Glossary controls">
+        <label for="glossary-chapter">
+          Progress through
+          <select id="glossary-chapter"></select>
+        </label>
+        <label for="glossary-search">
+          Search unlocked entries
+          <input id="glossary-search" type="search" autocomplete="off" placeholder="English, Japanese, or reading">
+        </label>
+      </section>
+
+      <p class="glossary-note">Definitions are the original Japanese in-game text. Standardized English titles are shown alongside them.</p>
+      <section class="glossary-list" id="glossary-list" aria-live="polite"></section>
+
+      <div class="empty-state" id="glossary-empty" hidden>
+        <h2>No matching entries</h2>
+        <p>Try another search or a later chapter.</p>
+      </div>
+    </main>
+
+    <footer>
+      <p>Unofficial, noncommercial fan translation. Please support the creators and own a legal Japanese copy of <cite>Black Sheep Town</cite>.</p>
+    </footer>
+
+    <template id="glossary-entry-template">
+      <article class="glossary-entry">
+        <header>
+          <span class="glossary-id"></span>
+          <div>
+            <h2 class="glossary-en-title"></h2>
+            <p><span class="glossary-jp-title" lang="ja"></span><span class="glossary-reading" lang="ja"></span></p>
+          </div>
+          <a class="glossary-back-link">View in reader ↗</a>
+        </header>
+        <div class="glossary-description" lang="ja"></div>
+        <p class="glossary-unlock"></p>
+      </article>
+    </template>
+
+    <script src="assets/glossary.js?v=20260806.1"></script>
+  </body>
+</html>

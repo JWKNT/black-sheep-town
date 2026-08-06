@@ -7,6 +7,7 @@ import argparse
 import csv
 import json
 import os
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -69,6 +70,73 @@ def write_json(path: Path, payload: object) -> None:
         handle.write("\n")
 
 
+def read_glossary_titles(path: Path) -> dict[int, str]:
+    titles: dict[int, str] = {}
+    pattern = re.compile(
+        r"^\|\s*(\d+)\s*\|\s*[^|]+?\s*\|\s*\*\*([^*]+)\*\*\s*\|"
+    )
+    for line in path.read_text(encoding="utf-8").splitlines():
+        match = pattern.match(line)
+        if match:
+            titles[int(match.group(1))] = match.group(2).strip()
+    return titles
+
+
+def build_glossary(
+    translation_root: Path, output_root: Path, generated_at: datetime
+) -> int:
+    workspace_root = translation_root.parent
+    records_path = workspace_root / "compiled_export" / "tips_records.tsv"
+    names_path = workspace_root / "notes" / "proper_nouns_names_key_items.md"
+    if not records_path.is_file() or not names_path.is_file():
+        raise SystemExit("Glossary source files were not found in the BST workspace")
+
+    english_titles = read_glossary_titles(names_path)
+    groups: dict[int, dict[str, object]] = {}
+    for row in read_tsv(records_path):
+        group_id = int(row["tips_group_id"])
+        if group_id not in english_titles:
+            raise SystemExit(f"Missing standardized glossary title for Tips ID {group_id}")
+        group = groups.setdefault(
+            group_id,
+            {
+                "id": group_id,
+                "enTitle": english_titles[group_id],
+                "records": [],
+            },
+        )
+        requirements = [
+            row[f"need_file_{index}"].strip().upper()
+            for index in range(1, 4)
+            if row[f"need_file_{index}"].strip()
+        ]
+        group["records"].append(
+            {
+                "recordId": int(row["record_id"]),
+                "priority": int(row["priority"]),
+                "requires": requirements,
+                "requireAll": row["and_condition"] == "1",
+                "pronunciation": row["pronunciation"],
+                "jpTitle": row["jp_title"],
+                "jpDescription": row["jp_description"],
+                "enTitle": row["en_title"],
+                "enDescription": row["en_description"],
+            }
+        )
+
+    glossary_groups = [groups[group_id] for group_id in sorted(groups)]
+    for group in glossary_groups:
+        group["records"].sort(key=lambda record: record["priority"])
+    write_json(
+        output_root / "glossary.json",
+        {
+            "generatedAt": generated_at.isoformat(timespec="seconds"),
+            "groups": glossary_groups,
+        },
+    )
+    return len(glossary_groups)
+
+
 def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     manifest_path = translation_root / "chapter_manifest.tsv"
     if not manifest_path.is_file():
@@ -117,11 +185,13 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
         translated_total += len(translated)
 
     generated_at = datetime.now(timezone.utc)
+    glossary_groups = build_glossary(translation_root, output_root, generated_at)
     index = {
         "version": 1,
         "updated": generated_at.strftime("%Y-%m-%d"),
         "generatedAt": generated_at.isoformat(timespec="seconds"),
         "translatedLines": translated_total,
+        "glossaryGroups": glossary_groups,
         "chapters": chapters,
     }
     write_json(output_root / "index.json", index)

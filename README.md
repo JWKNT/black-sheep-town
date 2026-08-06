@@ -1,6 +1,6 @@
 # Black Sheep Town Script Reader
 
-A minimal, searchable Japanese/English reader for the ongoing *Black Sheep Town* machine-assisted fan translation.
+A minimal, searchable Japanese/English reader for the ongoing *Black Sheep Town* machine-assisted fan translation. It includes a clean English-only reading mode and the shipped game glossary with chapter-aware unlock states.
 
 The site is plain HTML, CSS, JavaScript, and chapter-split JSON. It has no runtime dependencies and is ready to serve from GitHub Pages.
 
@@ -13,7 +13,7 @@ python3 tools/build_data.py ../BST_MTL/work/translation
 npm test
 ```
 
-The builder reads `chapter_manifest.tsv`, copies every row with non-empty English text from `targets_by_sheet/`, and rewrites `data/index.json` plus one JSON file per translated chapter. Speaker names appear only where the shipped game provides an explicit speaker label; the site does not infer viewpoint, telephone, or off-screen speakers. English forms follow `work/notes/proper_nouns_names_key_items.md`. Newly started chapters appear automatically; chapter completion is calculated from the manifest.
+The builder reads `chapter_manifest.tsv`, copies every row with non-empty English text from `targets_by_sheet/`, and rewrites `data/index.json` plus one JSON file per translated chapter. It also combines `compiled_export/tips_records.tsv` with the standardized titles in `notes/proper_nouns_names_key_items.md` to produce all 98 glossary groups and their 211 evolving, chapter-gated definitions. Speaker names appear only where the shipped game provides an explicit speaker label; the site does not infer viewpoint, telephone, or off-screen speakers. Newly started chapters appear automatically; chapter completion is calculated from the manifest.
 
 You can also set `BST_TRANSLATION_ROOT` instead of passing the path:
 

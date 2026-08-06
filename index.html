@@ -11,7 +11,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Script Reader</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.2">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.3">
   </head>
   <body>
     <a class="skip-link" href="#script-lines">Skip to script</a>
@@ -19,6 +19,8 @@
     <header class="site-header">
       <a class="site-title" href="./">Black Sheep Town</a>
       <nav aria-label="Site links">
+        <a href="./" aria-current="page">Reader</a>
+        <a href="glossary.html">Glossary</a>
         <a href="https://github.com/JWKNT/black-sheep-town" target="_blank" rel="noreferrer">GitHub</a>
       </nav>
     </header>
@@ -44,6 +46,12 @@
           </div>
         </dl>
       </section>
+
+      <nav class="view-switcher" aria-label="Reading mode">
+        <button id="parallel-mode" type="button" aria-pressed="true">JP / EN comparison</button>
+        <button id="english-mode" type="button" aria-pressed="false">English reader</button>
+        <a href="glossary.html" id="glossary-link">Full glossary →</a>
+      </nav>
 
       <section class="reader-controls" id="reader-controls" aria-label="Reader controls">
         <div class="chapter-control">
@@ -106,6 +114,6 @@
       </article>
     </template>
 
-    <script src="assets/app.js?v=20260806.2"></script>
+    <script src="assets/app.js?v=20260806.3"></script>
   </body>
 </html>
