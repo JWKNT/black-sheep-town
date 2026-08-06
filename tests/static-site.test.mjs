@@ -53,7 +53,7 @@ test("generated chapter index agrees with its chapter files", async () => {
   const index = JSON.parse(await readFile(new URL("index.json", dataRoot), "utf8"));
   const files = await readdir(new URL("chapters/", dataRoot));
 
-  assert.ok(index.chapters.length > 0);
+  assert.equal(index.chapters.length, 63);
   assert.equal(files.filter((name) => name.endsWith(".json")).length, index.chapters.length);
 
   let translatedLines = 0;
@@ -64,7 +64,7 @@ test("generated chapter index agrees with its chapter files", async () => {
     );
     assert.deepEqual(payload.chapter, chapter);
     assert.equal(payload.lines.length, chapter.translatedLines);
-    assert.ok(chapter.translatedLines <= chapter.totalLines);
+    assert.equal(chapter.translatedLines, chapter.totalLines);
     for (const [position, line] of payload.lines.entries()) {
       assert.equal(typeof line.id, "string");
       assert.equal(line.i, position + 1);
@@ -107,6 +107,26 @@ test("generated chapter index agrees with its chapter files", async () => {
   assert.equal(lineById.get("A1:0232")?.se, "");
   assert.equal(lineById.get("A1:0254")?.se, "");
   assert.equal(lineById.get("A1:0258")?.se, "Michio Mido");
+});
+
+test("repository JSON is pretty-printed for review", async () => {
+  const jsonFiles = [
+    new URL("package.json", root),
+    new URL("data/index.json", root),
+    new URL("data/glossary.json", root),
+    new URL("data/scenario-progression.json", root),
+  ];
+  const chapterFiles = await readdir(new URL("data/chapters/", root));
+  jsonFiles.push(...chapterFiles
+    .filter((name) => name.endsWith(".json"))
+    .map((name) => new URL(`data/chapters/${name}`, root)));
+
+  for (const file of jsonFiles) {
+    const source = await readFile(file, "utf8");
+    assert.ok(source.split("\n").length > 2, `${file.pathname} is not pretty-printed`);
+    assert.match(source, /^\{\n {2}"/);
+    assert.doesNotThrow(() => JSON.parse(source));
+  }
 });
 
 test("generated glossary contains every evolving game record", async () => {

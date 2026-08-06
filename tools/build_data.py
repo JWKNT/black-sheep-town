@@ -66,7 +66,7 @@ def compact_line(
 def write_json(path: Path, payload: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8", newline="\n") as handle:
-        json.dump(payload, handle, ensure_ascii=False, separators=(",", ":"))
+        json.dump(payload, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
 
 

@@ -1,0 +1,2612 @@
+{
+  "chapter": {
+    "slug": "X9",
+    "title": "X9",
+    "part": "X",
+    "translatedLines": 289,
+    "totalLines": 289
+  },
+  "lines": [
+    {
+      "id": "X9:0007",
+      "i": 1,
+      "n": 7,
+      "sj": "",
+      "se": "",
+      "jp": "　あまり<tips=9>Y地区</tips>のニュースを取り上げないメディアも、さすがにフェルナンデス一家殺害は取り上げた。",
+      "en": "Even media outlets that rarely covered news from <tips=9>Y District</tips> reported the murder of the Fernandez family."
+    },
+    {
+      "id": "X9:0008",
+      "i": 2,
+      "n": 8,
+      "sj": "",
+      "se": "",
+      "jp": "　また、<tips=9>Y地区</tips>の街のなかでも、この事件は話題となった。",
+      "en": "The incident also became the chief subject of conversation within <tips=9>Y District</tips> itself."
+    },
+    {
+      "id": "X9:0009",
+      "i": 3,
+      "n": 9,
+      "sj": "",
+      "se": "",
+      "jp": "　故人は<tips=9>Y地区</tips>を代表するギャングの一人であり、二人の娘もこの街では美女の例えとして持ち出されるほどの有名人である。それが自宅で無惨に殺害されたとなれば、騒ぎにならないはずがない。",
+      "en": "The dead man had been one of <tips=9>Y District</tips>'s foremost gangsters, and his two daughters were so famous that people invoked them as the very image of beauty in the town. Their brutal murder inside their own home could hardly fail to cause an uproar."
+    },
+    {
+      "id": "X9:0010",
+      "i": 4,
+      "n": 10,
+      "sj": "",
+      "se": "",
+      "jp": "　そして犯人が見つかっていないとなれば、様々な憶測が飛び交うのもまた当然の成り行きである。無責任な街の人々の間でいくつも生まれた陰謀説のなかで、もっとも信憑性が高く、多くの人々が信じたのが<tips=1>謝亮</tips>犯人説ではないだろうか。",
+      "en": "And with the killers still unknown, speculation naturally ran rampant. Of the many conspiracy theories invented by irresponsible townspeople, the most plausible—and most widely believed—was probably the theory that <tips=1>Tse Long</tips> was responsible."
+    },
+    {
+      "id": "X9:0011",
+      "i": 5,
+      "n": 11,
+      "sj": "",
+      "se": "",
+      "jp": "　何と言っても<tips=75>フェルナンデス・ファミリー</tips>が<tips=7>ＹＳ</tips>を離脱した直後の事件である。身内の粛清などで過激な活動が目立ちはじめていた<tips=1>亮</tips>が第一に犯人として疑われるのは無理のない話で、事情に暗いものも通じたものも、彼の陰謀であるのは間違いないと断言するものが多かった。",
+      "en": "After all, it happened immediately after the <tips=75>Fernandez Family</tips> withdrew from <tips=7>YS</tips>. It was natural that <tips=1>Long</tips>, whose increasingly radical acts included purges within his own ranks, would be the first suspect. People both ignorant of the circumstances and well versed in them confidently declared it must have been his plot."
+    },
+    {
+      "id": "X9:0012",
+      "i": 6,
+      "n": 12,
+      "sj": "",
+      "se": "",
+      "jp": "　その噂は街の無関係な人々だけでなく、裏社会の人間たち、もっと言えば<tips=7>ＹＳ</tips>のメンバーでさえそう信じているものが少なくない。",
+      "en": "The rumor was believed not only by uninvolved townspeople, but by members of the underworld—and more specifically, by a considerable number of <tips=7>YS</tips> members themselves."
+    },
+    {
+      "id": "X9:0013",
+      "i": 7,
+      "n": 13,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らは事件直後に<tips=1>亮</tips>が現場へ急行し、そして犯人の捜索を行っていることは知っていたが、それさえもこの狡猾な<tips=81>龍頭</tips>の偽装行為であると信じているようだった。",
+      "en": "They knew that <tips=1>Long</tips> had rushed to the scene immediately and was searching for the killers, but seemed to believe even that was a deception staged by the cunning <tips=81>Longtou</tips>."
+    },
+    {
+      "id": "X9:0014",
+      "i": 8,
+      "n": 14,
+      "sj": "",
+      "se": "",
+      "jp": "「やっぱり、あれをやったのは<tips=81>龍頭</tips>ですよね？」",
+      "en": "It was the <tips=81>Longtou</tips> who did it, wasn't it?"
+    },
+    {
+      "id": "X9:0015",
+      "i": 9,
+      "n": 15,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>も、部下にそう訊ねられた時には驚く他なかった。",
+      "en": "<tips=28>Thomas</tips> could only stare in amazement when one of his subordinates asked him that."
+    },
+    {
+      "id": "X9:0016",
+      "i": 10,
+      "n": 16,
+      "sj": "",
+      "se": "",
+      "jp": "　彼はそんなわけがないと噂を否定したが、部下は信じようとしない。それどころか、",
+      "en": "He denied the rumor and insisted it was impossible, but the man would not believe him. On the contrary, he continued."
+    },
+    {
+      "id": "X9:0017",
+      "i": 11,
+      "n": 17,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=81>龍頭</tips>を信じちゃ駄目ですよ。あれは用無しになったり、邪魔になった人間はすぐに消すじゃないですか。<tips=35>フェルナンデス</tips>の件もそうでしょうな。……やはり、我々は独立をした方がいいのではないですか？　そして、他の華僑たちと連合して新しい組織を作りましょう。この街には<tips=7>ＹＳ</tips>とは違う華僑だけの組織が必要です」",
+      "en": "You mustn't trust the <tips=81>Longtou</tips>. He disposes of anyone the moment they cease to be useful or get in his way. That's what happened to <tips=35>Fernandez</tips>, surely... Wouldn't we be better off declaring our independence? Then we could unite with the other overseas Chinese and form a new organization. This town needs an organization solely for Chinese people, distinct from <tips=7>YS</tips>."
+    },
+    {
+      "id": "X9:0018",
+      "i": 12,
+      "n": 18,
+      "sj": "",
+      "se": "",
+      "jp": "　部下は本気でそれが最善の方法だと考えているらしく、<tips=28>トーマス</tips>もなだめるのに骨を折った。",
+      "en": "The subordinate appeared entirely sincere in believing this was their best course, and <tips=28>Thomas</tips> struggled to calm him."
+    },
+    {
+      "id": "X9:0019",
+      "i": 13,
+      "n": 19,
+      "sj": "",
+      "se": "",
+      "jp": "　そもそも、今回の事件がなくとも、もう一度<tips=74>廖ファミリー</tips>の独立を希望する声は組織のなかに根強く残っている。",
+      "en": "Even without the present incident, a persistent faction within the organization wanted the <tips=74>Liao Family</tips> to regain its independence."
+    },
+    {
+      "id": "X9:0020",
+      "i": 14,
+      "n": 20,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はこうやって独立を口に出されるたびに、内心閉口しながら、<tips=1>亮</tips>に協力することの意味と必然性を説明するのだった。",
+      "en": "Whenever someone proposed independence, <tips=28>Thomas</tips> suppressed his exasperation and explained why cooperation with <tips=1>Long</tips> was both meaningful and necessary."
+    },
+    {
+      "id": "X9:0021",
+      "i": 15,
+      "n": 21,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>謝亮</tips>という人間はそこまで非情ではない――とは思うのだが、ただ難しいのは、今回の事件においては、<tips=28>トーマス</tips>でさえも完全にその可能性を否定しきれないというところだ。",
+      "en": "He believed <tips=1>Tse Long</tips> was not so heartless. The difficulty, however, was that even <tips=28>Thomas</tips> could not entirely rule out the possibility in this case."
+    },
+    {
+      "id": "X9:0022",
+      "i": 16,
+      "n": 22,
+      "sj": "",
+      "se": "",
+      "jp": "（あれだけフェルナンデス家を警戒していたんだ。<tips=2>阿亮</tips>ならやりかねないんじゃないか？）",
+      "en": "(He was so wary of the Fernandez family. Could <tips=2>Ah Long</tips> have done it after all?)"
+    },
+    {
+      "id": "X9:0023",
+      "i": 17,
+      "n": 23,
+      "sj": "",
+      "se": "",
+      "jp": "　そんな疑念が、頭の片隅をよぎる瞬間もある。",
+      "en": "At times, that suspicion flitted through a corner of his mind."
+    },
+    {
+      "id": "X9:0024",
+      "i": 18,
+      "n": 24,
+      "sj": "",
+      "se": "",
+      "jp": "　だが、そんな風に思ってしまったときは慌ててその考えを否定し、<tips=1>亮</tips>を疑ってしまった自分を恥じるのだ。",
+      "en": "Whenever it did, he hurriedly rejected the thought and felt ashamed of himself for doubting <tips=1>Long</tips>."
+    },
+    {
+      "id": "X9:0025",
+      "i": 19,
+      "n": 25,
+      "sj": "",
+      "se": "",
+      "jp": "　確かに<tips=1>亮</tips>は必要があれば戦うと言っていたが、幼なじみの<tips=36>アウロラ</tips>や、<tips=37>アナ・クララ</tips>を無慈悲に殺害するような人間だとは、やはり<tips=28>トーマス</tips>には思えないのである。",
+      "en": "<tips=1>Long</tips> had certainly said that he would fight if necessary, but <tips=28>Thomas</tips> still could not believe he was a man who would mercilessly murder his childhood friends <tips=36>Aurora</tips> and <tips=37>Ana Clara</tips>."
+    },
+    {
+      "id": "X9:0033",
+      "i": 20,
+      "n": 33,
+      "sj": "",
+      "se": "",
+      "jp": "　そんな噂が飛び交うなか、<tips=7>ＹＳ</tips>は襲撃犯の一人を特定した。",
+      "en": "Amid the spreading rumors, <tips=7>YS</tips> identified one of the attackers."
+    },
+    {
+      "id": "X9:0034",
+      "i": 21,
+      "n": 34,
+      "sj": "",
+      "se": "",
+      "jp": "　名前はミゲル。",
+      "en": "His name was Miguel."
+    },
+    {
+      "id": "X9:0035",
+      "i": 22,
+      "n": 35,
+      "sj": "",
+      "se": "",
+      "jp": "　ブラジル出身の二十三才の<tips=17>タイプB</tips>で、かつては<tips=35>フェルナンデス</tips>の世話になっていたが、組織の決まり事が守れず除名。<tips=57>滑走路通り</tips>をうろついて観光客を狙ったスリやひったくりでその日暮らしをしている男だ。",
+      "en": "A twenty-three-year-old <tips=17>Type B</tips> man from Brazil, he had once been taken in by <tips=35>Fernandez</tips> but was expelled for refusing to obey the organization's rules. He survived day to day by prowling <tips=57>Runway Street</tips> and pickpocketing or snatching bags from tourists."
+    },
+    {
+      "id": "X9:0036",
+      "i": 23,
+      "n": 36,
+      "sj": "",
+      "se": "",
+      "jp": "　そんな彼が、サブマシンガンを入手して、酒場で見せびらかして自慢をしていたという情報が入った。",
+      "en": "Information came in that he had acquired a submachine gun and had been showing it off in a bar."
+    },
+    {
+      "id": "X9:0037",
+      "i": 24,
+      "n": 37,
+      "sj": "",
+      "se": "",
+      "jp": "　ちんけな泥棒にしては、あまりにも物々しい武器である。この街なら手に入れることが不可能ではないが、安価ではない。",
+      "en": "It was an absurdly formidable weapon for a petty thief. Though not impossible to obtain in this town, it was far from cheap."
+    },
+    {
+      "id": "X9:0038",
+      "i": 25,
+      "n": 38,
+      "sj": "",
+      "se": "",
+      "jp": "　その時期もフェルナンデス家襲撃のタイミングと符合する。",
+      "en": "The timing also corresponded with the attack on the Fernandez home."
+    },
+    {
+      "id": "X9:0050",
+      "i": 26,
+      "n": 50,
+      "sj": "",
+      "se": "",
+      "jp": "　情報を得るために<tips=25>馬世傑</tips>が仲間と共に彼が寝床としている<tips=58>パラシュート通り</tips>の簡易宿泊所を訪ねた。",
+      "en": "Seeking information, <tips=25>Ma Sai-ki</tips> and several companions visited the cheap lodging house on <tips=58>Parachute Street</tips> where Miguel slept."
+    },
+    {
+      "id": "X9:0051",
+      "i": 27,
+      "n": 51,
+      "sj": "",
+      "se": "",
+      "jp": "　ミゲルはベッドの上でぐにゃぐにゃになって笑っていた。その手元には注射器。",
+      "en": "Miguel lay sprawled limply across his bed, laughing. A syringe rested near his hand."
+    },
+    {
+      "id": "X9:0052",
+      "i": 28,
+      "n": 52,
+      "sj": "",
+      "se": "",
+      "jp": "　麻薬を楽しんでいたのである。",
+      "en": "He had been enjoying narcotics."
+    },
+    {
+      "id": "X9:0053",
+      "i": 29,
+      "n": 53,
+      "sj": "",
+      "se": "",
+      "jp": "　すっかり薬でイカれているミゲルは侵入者たちが部屋を物色し始めてもあらがう術がない。",
+      "en": "Thoroughly addled by the drug, Miguel could do nothing to resist when the intruders began searching his room."
+    },
+    {
+      "id": "X9:0054",
+      "i": 30,
+      "n": 54,
+      "sj": "",
+      "se": "",
+      "jp": "　はたして、彼の部屋からは銃と血のついた札束が見つかり、即刻<tips=41>グランドタワー</tips>に連行されることになる。",
+      "en": "They found a gun and bloodstained bundles of cash, and promptly hauled him to <tips=41>Grand Tower</tips>."
+    },
+    {
+      "id": "X9:0066",
+      "i": 31,
+      "n": 66,
+      "sj": "",
+      "se": "",
+      "jp": "　ミゲルは臆病な小心者で、彼に口を割らせるのに薬剤や拷問は必要なかった。",
+      "en": "Miguel was a craven coward. No drugs or torture were needed to make him talk."
+    },
+    {
+      "id": "X9:0067",
+      "i": 32,
+      "n": 67,
+      "sj": "",
+      "se": "",
+      "jp": "　窓のない暗い部屋で椅子に縛り付けて少し脅しただけでぺらぺらと喋り出し、それによってフェルナンデス一家殺人事件の全容が明らかになった。",
+      "en": "They merely tied him to a chair in a dark, windowless room and threatened him a little. He immediately began babbling, and the full story of the Fernandez family murders came to light."
+    },
+    {
+      "id": "X9:0068",
+      "i": 33,
+      "n": 68,
+      "sj": "",
+      "se": "",
+      "jp": "　主謀者はダヴィという二十一才の若者である。",
+      "en": "The mastermind was a twenty-one-year-old man named Davi."
+    },
+    {
+      "id": "X9:0069",
+      "i": 34,
+      "n": 69,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=17>タイプB</tips>で、少年のころに発症しており時々幻覚に襲われることがあった。そのためトラブルが多く、故郷を追われ、あちこちを彷徨い、<tips=35>フェルナンデス</tips>という面倒見の良い親分がいるとききつけこの街にやって来たのが去年のことだ。",
+      "en": "He was <tips=17>Type B</tips> and had developed symptoms in adolescence, including occasional hallucinations. The resulting trouble had driven him from his homeland. After wandering from place to place, he heard of a generous boss called <tips=35>Fernandez</tips> and came to this town the previous year."
+    },
+    {
+      "id": "X9:0070",
+      "i": 35,
+      "n": 70,
+      "sj": "",
+      "se": "",
+      "jp": "　そこでダヴィは境遇に同情した<tips=35>フェルナンデス</tips>によって非常に親切な扱いを受け、屋敷に居候させて貰いながら彼の紹介した仕事場で働くことになった。",
+      "en": "<tips=35>Fernandez</tips> sympathized with Davi's plight and treated him with great kindness, allowing him to live at the mansion while working at a job Fernandez found for him."
+    },
+    {
+      "id": "X9:0071",
+      "i": 36,
+      "n": 71,
+      "sj": "",
+      "se": "",
+      "jp": "　しかし、どの仕事場でも彼は長続きしなかった。理由は症状だけでなく、盗癖があり、店や同僚のものを盗んでしまうからだった。",
+      "en": "But Davi never lasted long at any workplace. His symptoms were not the only reason. He was a compulsive thief who stole from shops and coworkers."
+    },
+    {
+      "id": "X9:0072",
+      "i": 37,
+      "n": 72,
+      "sj": "",
+      "se": "",
+      "jp": "　このことが知れても<tips=35>フェルナンデス</tips>は家から追い出したりしようとはせず、彼の更生を期待して説教をしたり、彼のために労力を割いたがそれは報われなかった。結局ダヴィ自身がその生活に嫌気がさし、何も言わずに姿を消した。",
+      "en": "Even after learning this, <tips=35>Fernandez</tips> did not throw him out. Hoping to reform him, Fernandez lectured him and spent considerable effort on his behalf, but nothing worked. In the end, Davi himself grew tired of the life and vanished without a word."
+    },
+    {
+      "id": "X9:0073",
+      "i": 38,
+      "n": 73,
+      "sj": "",
+      "se": "",
+      "jp": "　そして街でこそ泥などをして暮らしていると、同じような境遇のミゲルと知り合った。",
+      "en": "While living as a petty thief in the streets, he met Miguel, whose circumstances were much like his own."
+    },
+    {
+      "id": "X9:0074",
+      "i": 39,
+      "n": 74,
+      "sj": "",
+      "se": "",
+      "jp": "　ダヴィはミゲルに対し、よく<tips=35>フェルナンデス</tips>のことを語ったが、いずれも嫉妬と憎悪に塗れたものであった。",
+      "en": "Davi often spoke to Miguel about <tips=35>Fernandez</tips>, but every word was steeped in jealousy and hatred."
+    },
+    {
+      "id": "X9:0075",
+      "i": 40,
+      "n": 75,
+      "sj": "",
+      "se": "",
+      "jp": "　フェルナンデス家の豊かな財産、美しく仲の良い娘たちとの幸福な家庭、どんな命令にも従う忠実な部下と、彼らから得る敬意、そして<tips=17>タイプB</tips>の苦しみとは無縁なノーマルとして生まれついていること。いずれも、ダヴィが渇望してもけして手に入れることなど出来ないものだ。彼はフェルナンデス家に優しくされるたび、屈辱と憎悪をつのらせていたのである。",
+      "en": "The Fernandez family's wealth. His happy home with beautiful daughters who loved one another. His loyal subordinates, who obeyed every command, and the respect they gave him. His good fortune in being born Normal, untouched by the suffering of <tips=17>Type B</tips>. All were things Davi could crave but never possess. Every kindness from the Fernandez family only deepened his humiliation and hatred."
+    },
+    {
+      "id": "X9:0076",
+      "i": 41,
+      "n": 76,
+      "sj": "",
+      "se": "",
+      "jp": "　この屈折した感情が具体的な犯行計画に変わるのに、そう長い時間はかからなかった。",
+      "en": "It did not take long for those twisted emotions to become a concrete criminal plan."
+    },
+    {
+      "id": "X9:0077",
+      "i": 42,
+      "n": 77,
+      "sj": "",
+      "se": "",
+      "jp": "　武器を買い、泥棒仲間をさらに二人加え、着々と準備が進められた。目的はファミリーの殺害と、金品の奪取。屋敷で居候していたダヴィは、金がどこにあって、どのようなルートなら襲撃が成功しやすいかを知っていた。ミゲルはあの<tips=75>フェルナンデス・ファミリー</tips>の本拠地を襲撃することに尻込みしたが、襲撃成功後の豊かな生活を何度も語られるうち、いつしかうんと頷いていた。",
+      "en": "He bought weapons, recruited two more fellow thieves, and steadily prepared. Their aims were to murder the family and steal its valuables. Having lived in the mansion, Davi knew where the money was and which route gave the attack its best chance of success. Miguel recoiled at the idea of attacking the <tips=75>Fernandez Family</tips>'s headquarters, but after hearing Davi repeatedly describe the rich life awaiting them afterward, he eventually nodded his agreement."
+    },
+    {
+      "id": "X9:0078",
+      "i": 43,
+      "n": 78,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてあの夜、計画は実行に移されたのである。",
+      "en": "On that night, the plan was put into action."
+    },
+    {
+      "id": "X9:0079",
+      "i": 44,
+      "n": 79,
+      "sj": "",
+      "se": "",
+      "jp": "　四人は泥棒が専門で、殺人などの経験がない。恐怖を吹き飛ばすために興奮剤を注射してからの犯行となったが、みな無我夢中だった。",
+      "en": "All four specialized in theft and had no experience of murder. They injected stimulants to drive away their fear before committing the crime, and every one of them acted in a frenzy."
+    },
+    {
+      "id": "X9:0080",
+      "i": 45,
+      "n": 80,
+      "sj": "",
+      "se": "",
+      "jp": "　現場の状況も、想定とは少し違う。本当ならば屋敷の各部屋をまわって家族を一人ずつ殺してゆく筈だったのだが、深夜にもかかわらずにフェルナンデス一家はリビングルームに集まっていた。",
+      "en": "Conditions at the scene differed somewhat from their plan. They had intended to move from room to room through the mansion, killing the family one by one, but despite the late hour, the Fernandez family had gathered in the living room."
+    },
+    {
+      "id": "X9:0081",
+      "i": 46,
+      "n": 81,
+      "sj": "",
+      "se": "",
+      "jp": "　無事建物に侵入したところで彼らはそれに気がついた。",
+      "en": "They noticed this after successfully entering the building."
+    },
+    {
+      "id": "X9:0082",
+      "i": 47,
+      "n": 82,
+      "sj": "",
+      "se": "",
+      "jp": "　全員揃っているなら都合がいいと、深く考えずに興奮剤の勢いでそのまま突入をする。歴戦の勇者がそこにいなかったのが彼らにとって幸いだった。浮かされたような気持ちのままばらまかれた銃弾はけして精度が高いわけではなかったが、ほとんど明け方に近い時刻、アルコールも入り、もう眠ろうとしている人々を殺害するには充分だった。",
+      "en": "Deciding it was convenient to find everyone together, they charged in without another thought, propelled by the stimulants. They were fortunate no battle-hardened fighter was present. The bullets they sprayed in their fevered state were hardly accurate, but near dawn, with their victims drinking and preparing for sleep, they were accurate enough to kill."
+    },
+    {
+      "id": "X9:0083",
+      "i": 48,
+      "n": 83,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らが銃弾を撃ち尽くすと、家族は物言わぬ死体となり、部屋のなかは静まりかえった。<tips=38>リタ</tips>がその場にいないことには気がついていたが、その静寂は彼らの感情を呼び起こし、急に怖くなった。そこで彼らは<tips=38>リタ</tips>の殺害を断念すると、金庫を破壊して金を盗み、現場から逃げ出したのである。",
+      "en": "When the attackers exhausted their ammunition, the family had become silent corpses and the room fell still. They realized <tips=38>Rita</tips> was absent, but the silence awakened their emotions and terror abruptly seized them. Abandoning their plan to kill <tips=38>Rita</tips>, they broke open the safe, stole the money, and fled."
+    },
+    {
+      "id": "X9:0084",
+      "i": 49,
+      "n": 84,
+      "sj": "",
+      "se": "",
+      "jp": "　その後は奪ったものを分配してバラバラになったので、他の実行犯がどうしているかはミゲルも知らなかった。",
+      "en": "Afterward they divided the loot and scattered, so Miguel did not know what the other perpetrators were doing."
+    },
+    {
+      "id": "X9:0096",
+      "i": 50,
+      "n": 96,
+      "sj": "",
+      "se": "",
+      "jp": "　この報告を受け、<tips=7>ＹＳ</tips>は動く。",
+      "en": "Upon receiving this report, <tips=7>YS</tips> moved."
+    },
+    {
+      "id": "X9:0097",
+      "i": 51,
+      "n": 97,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=81>龍頭</tips>の<tips=1>謝亮</tips>は即座に残りの実行犯の捕縛を<tips=25>世傑</tips>に命じた。",
+      "en": "The <tips=81>Longtou</tips>, <tips=1>Tse Long</tips>, immediately ordered <tips=25>Sai-ki</tips> to capture the remaining perpetrators."
+    },
+    {
+      "id": "X9:0104",
+      "i": 52,
+      "n": 104,
+      "sj": "",
+      "se": "",
+      "jp": "　共犯者の一人、ペドロはカジノで遊んでいるところを発見される。",
+      "en": "One accomplice, Pedro, was found gambling in a casino."
+    },
+    {
+      "id": "X9:0105",
+      "i": 53,
+      "n": 105,
+      "sj": "",
+      "se": "",
+      "jp": "　素手で抵抗したが体術の達人である<tips=25>世傑</tips>にはかなわず瞬く間に失神させられ、<tips=41>グランドタワー</tips>に運ばれた。",
+      "en": "He resisted barehanded, but was no match for the martial arts master <tips=25>Sai-ki</tips>. Sai-ki knocked him unconscious in moments and carried him to <tips=41>Grand Tower</tips>."
+    },
+    {
+      "id": "X9:0108",
+      "i": 54,
+      "n": 108,
+      "sj": "",
+      "se": "",
+      "jp": "　もう一人、ジョアンは売春宿から出て来たところを<tips=25>世傑</tips>の部下が接触。銃撃戦になりその場で死亡させてしまうが、遺体として回収される。",
+      "en": "The other, Joao, was intercepted by <tips=25>Sai-ki</tips>'s men as he left a brothel. A gunfight erupted and he was killed on the spot, but his body was recovered."
+    },
+    {
+      "id": "X9:0111",
+      "i": 55,
+      "n": 111,
+      "sj": "",
+      "se": "",
+      "jp": "　そして主犯者のダヴィは<tips=59>暗闇通り</tips>で見つかり、一旦は逃げることに成功したが、その後街から脱出しようと試みたところで、<tips=40>黄天明</tips>、<tips=40>天祥</tips>の人間レーダー姉妹に発見される。<tips=25>世傑</tips>本人に銃を突きつけられると大人しく降伏し、<tips=41>グランドタワー</tips>に連行された。",
+      "en": "The principal offender, Davi, was found on <tips=59>Darkness Street</tips> and initially escaped. Later, while attempting to flee the town, he was detected by the human-radar sisters, <tips=40>Tinming Wong</tips> and <tips=40>Tinchen Wong</tips>. When <tips=25>Sai-ki</tips> himself leveled a gun at him, Davi surrendered quietly and was taken to <tips=41>Grand Tower</tips>."
+    },
+    {
+      "id": "X9:0116",
+      "i": 56,
+      "n": 116,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らは<tips=81>龍頭</tips>である<tips=1>謝亮</tips>自らによる尋問を受けた。",
+      "en": "They were interrogated by <tips=1>Tse Long</tips>, the <tips=81>Longtou</tips>, in person."
+    },
+    {
+      "id": "X9:0117",
+      "i": 57,
+      "n": 117,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてフェルナンデス一家殺害に関与したことが明らかになると、<tips=75>フェルナンデス・ファミリー</tips>に身柄を引き渡されることになった。",
+      "en": "Once their involvement in murdering the Fernandez family was established, they were handed over to the <tips=75>Fernandez Family</tips>."
+    },
+    {
+      "id": "X9:0118",
+      "i": 58,
+      "n": 118,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=35>ジョゼ・フェルナンデス</tips>亡きあとのファミリーは、一時的な措置としてあの口ひげの幹部――<tips=96>エンゾ・アラーニャ・エ・シウバ</tips>が指揮を執っている。",
+      "en": "Following <tips=35>Jose Fernandez</tips>'s death, the mustached senior officer, <tips=96>Enzo Aranha e Silva</tips>, had taken temporary command of the family."
+    },
+    {
+      "id": "X9:0119",
+      "i": 59,
+      "n": 119,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は他の幹部や<tips=38>リタ</tips>との協議の末、最大の罪を犯したもののみに行われる、伝統的な手法で彼らを処刑することを決定した。",
+      "en": "After consulting the other officers and <tips=38>Rita</tips>, he decided to execute the men by a traditional method reserved for the gravest offenders."
+    },
+    {
+      "id": "X9:0120",
+      "i": 60,
+      "n": 120,
+      "sj": "",
+      "se": "",
+      "jp": "　三人の襲撃者は赤く熱した鉄の棒で滅多打ちにされ、やがて死亡が確認されると鉈によって首を切断される。こうして出来上がった三つの斬首死体は、先に死んでいるジョアンの遺体とあわせ、<tips=59>暗闇通り</tips>の路上に放置されることになった。",
+      "en": "The three attackers were beaten savagely with red-hot iron rods. Once their deaths were confirmed, their heads were severed with machetes. The three resulting decapitated bodies, together with Joao's corpse, were then abandoned in the road on <tips=59>Darkness Street</tips>."
+    },
+    {
+      "id": "X9:0121",
+      "i": 61,
+      "n": 121,
+      "sj": "",
+      "se": "",
+      "jp": "　ワゴン車で運んできた遺体をアスファルトの上に蹴り落とす場面には<tips=1>謝亮</tips>も同行し、四人の襲撃犯の無惨な最後を見届けた。",
+      "en": "<tips=1>Tse Long</tips> accompanied the van carrying the corpses and watched as they were kicked onto the asphalt, witnessing the wretched end of all four attackers."
+    },
+    {
+      "id": "X9:0122",
+      "i": 62,
+      "n": 122,
+      "sj": "",
+      "se": "",
+      "jp": "　遺体の胴体はうつぶせに並べられ、切り取られた頭部はその背中の上に置かれる。",
+      "en": "The torsos were arranged face-down, and each severed head was placed upon its owner's back."
+    },
+    {
+      "id": "X9:0123",
+      "i": 63,
+      "n": 123,
+      "sj": "",
+      "se": "",
+      "jp": "　ギリギリまで冷静を保ってこの設置作業を見守っていた<tips=38>リタ</tips>も、去る間際には我慢が出来なくなり、涙を流しながら遺体に石を投げつけた。",
+      "en": "<tips=38>Rita</tips> maintained her composure almost until the end as she watched the display being arranged. Just before leaving, she could bear it no longer and hurled stones at the bodies through her tears."
+    },
+    {
+      "id": "X9:0124",
+      "i": 64,
+      "n": 124,
+      "sj": "",
+      "se": "",
+      "jp": "　こうして一件が落着すると、<tips=38>リタ</tips>が父の跡を継いで新しいボスに就任し、<tips=96>エンゾ</tips>のサポートを受けながらファミリーを率いてゆくことが決定した。",
+      "en": "With the affair settled, it was decided that <tips=38>Rita</tips> would succeed her father as the new boss and lead the family with <tips=96>Enzo</tips>'s support."
+    },
+    {
+      "id": "X9:0138",
+      "i": 65,
+      "n": 138,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=59>暗闇通り</tips>からほど近く、一見すると何の変哲もないその民家こそが、<tips=9>Y地区</tips>中の<tips=17>タイプB</tips>たちが加盟しているという秘密結社『<tips=21>八龍会</tips>』の本拠地だ。",
+      "en": "Not far from <tips=59>Darkness Street</tips>, this entirely ordinary-looking house was the headquarters of the secret society known as the <tips=21>Dragon Club</tips>, to which <tips=17>Type B</tips> people throughout <tips=9>Y District</tips> supposedly belonged."
+    },
+    {
+      "id": "X9:0139",
+      "i": 66,
+      "n": 139,
+      "sj": "",
+      "se": "",
+      "jp": "　何かの祝い事の日には近所の<tips=17>タイプB</tips>の子供が集まってパーティを行ったり、平日の昼間に<tips=17>タイプB</tips>のカウンセラーや主婦たちが集まって彼らならではの悩み事を打ち明け合ったり、明るく健康的な活動の反面、夜にはギャング組織の幹部などがとりまきを引き連れて出入りしたりもしている。そして<tips=17>タイプB</tips>たちに、症状を和らげる薬物を、合法非合法限らずに安く販売もする。",
+      "en": "On holidays, neighborhood <tips=17>Type B</tips> children gathered there for parties. On weekday afternoons, <tips=17>Type B</tips> counselors and homemakers met to share concerns unique to their condition. Alongside such bright and wholesome activities, gang officers and their entourages came and went at night. The Club also sold <tips=17>Type B</tips> people drugs that eased their symptoms, legal or otherwise, at low prices."
+    },
+    {
+      "id": "X9:0140",
+      "i": 67,
+      "n": 140,
+      "sj": "",
+      "se": "",
+      "jp": "　その家の主は三人の老人で、東洋人、黒人、白人とそれぞれ違った人種であり、三人の間に上下はない。",
+      "en": "The house belonged to three old men: one Asian, one Black, and one white. None ranked above the others."
+    },
+    {
+      "id": "X9:0141",
+      "i": 68,
+      "n": 141,
+      "sj": "",
+      "se": "",
+      "jp": "　裏社会の表立った支配者が<tips=7>ＹＳ</tips>であり、その<tips=81>龍頭</tips>である<tips=1>謝亮</tips>だとするならば、裏社会のさらに裏の支配者と言えばこの三人になるだろう。この街ではあらゆる組織に<tips=17>タイプB</tips>が入り込んでおり、彼らはそれに強い影響力を持っている。",
+      "en": "If the public rulers of the underworld were <tips=7>YS</tips> and its <tips=81>Longtou</tips>, <tips=1>Tse Long</tips>, then these three were the rulers behind the underworld. <tips=17>Type B</tips> members had penetrated every organization in town, and the elders wielded immense influence over them."
+    },
+    {
+      "id": "X9:0142",
+      "i": 69,
+      "n": 142,
+      "sj": "",
+      "se": "",
+      "jp": "　フェルナンデス一家が殺害されてから数日後のことだ。",
+      "en": "This took place several days after the murder of the Fernandez family."
+    },
+    {
+      "id": "X9:0143",
+      "i": 70,
+      "n": 143,
+      "sj": "",
+      "se": "",
+      "jp": "　昼下がり、この三人の老人はのんびりと麻雀に興じていた。屋敷に遊びに来たゲストなどもよく使う古い全自動卓は、来客のない時でも三人によって酷使され、塗装のあちこちに剥げなどが目立つ。",
+      "en": "One afternoon, the three old men were leisurely playing mahjong. Their aged automatic table, also often used by visitors to the house, was worked hard by the three even when no guests came. Its paint had peeled away in many places."
+    },
+    {
+      "id": "X9:0144",
+      "i": 71,
+      "n": 144,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らの遊んでいるルールは、一般的によく知られている四人で遊ぶものではなく、<ruby=サンマ>三麻</ruby>とよばれる三人麻雀であった。しかも一局ごとに点数を精算するタイプのルールを採用している。",
+      "en": "They were not playing the familiar four-player form of the game, but a three-player variant called <ruby=サンマ>sanma</ruby>. Their rules also settled the score after every hand."
+    },
+    {
+      "id": "X9:0145",
+      "i": 72,
+      "n": 145,
+      "sj": "",
+      "se": "",
+      "jp": "　点数が高く、しかも展開の早い刺激的なルールで、よく遊ばれている半荘制のように大きなゲームの区切りがないからいつまでも遊んでいられる。<tips=22>老人たち</tips>はこのルールを非常に好んでおり、滅多に四人打ちでは遊ばない。",
+      "en": "It was a thrilling ruleset with high scores and rapid play. Unlike the commonly played half-game format, it had no large natural endpoint, allowing them to continue indefinitely. The <tips=22>Elders</tips> greatly preferred these rules and rarely played with four people."
+    },
+    {
+      "id": "X9:0146",
+      "i": 73,
+      "n": 146,
+      "sj": "",
+      "se": "",
+      "jp": "　現に今日も、<tips=10>見土道夫</tips>がいるのに、彼を見学させたまま三人でゲームを繰り返している。",
+      "en": "Indeed, even with <tips=10>Michio Mido</tips> present today, they had left him watching while the three of them played game after game."
+    },
+    {
+      "id": "X9:0156",
+      "i": 74,
+      "n": 156,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=10>道夫</tips>、お前はまだやくたいもない饅頭売りをしているのかい？」",
+      "en": "<tips=10>Michio</tips>, are you still wasting your time selling steamed buns?"
+    },
+    {
+      "id": "X9:0157",
+      "i": 75,
+      "n": 157,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は牌を一枚取り、そのまま卓の上に捨てるという動作をしながら言った。",
+      "en": "<tips=90>Mr. Chen</tips> spoke while drawing a tile and immediately discarding it onto the table."
+    },
+    {
+      "id": "X9:0158",
+      "i": 76,
+      "n": 158,
+      "sj": "",
+      "se": "",
+      "jp": "　彼はリーチをしており、あとはあがるための牌を持って来るか、他のメンツが出すのを待つだけである。",
+      "en": "He had declared riichi and now needed only to draw his winning tile or wait for another player to discard it."
+    },
+    {
+      "id": "X9:0159",
+      "i": 77,
+      "n": 159,
+      "sj": "",
+      "se": "",
+      "jp": "「やくたいもないって言い方はないでしょう」",
+      "en": "You don't have to call it a waste of time."
+    },
+    {
+      "id": "X9:0160",
+      "i": 78,
+      "n": 160,
+      "sj": "",
+      "se": "",
+      "jp": "「まるで成果が出ていないようじゃないか」",
+      "en": "You seem to have achieved nothing at all."
+    },
+    {
+      "id": "X9:0161",
+      "i": 79,
+      "n": 161,
+      "sj": "",
+      "se": "",
+      "jp": "　三人の牌を取り、捨てるテンポは早く、すぐに<tips=90>ミスター・チェン</tips>の手番が回ってくる。",
+      "en": "The three drew and discarded at a rapid pace, and soon it was <tips=90>Mr. Chen</tips>'s turn again."
+    },
+    {
+      "id": "X9:0162",
+      "i": 80,
+      "n": 162,
+      "sj": "",
+      "se": "",
+      "jp": "「これからですよ。これから。やっと目処がついてきたところなんですから」",
+      "en": "The results are coming. They are. Things are finally starting to take shape."
+    },
+    {
+      "id": "X9:0163",
+      "i": 81,
+      "n": 163,
+      "sj": "",
+      "se": "",
+      "jp": "「ふん、いつも同じことばかり言っていますね」",
+      "en": "Hmph. You always say the same thing."
+    },
+    {
+      "id": "X9:0164",
+      "i": 82,
+      "n": 164,
+      "sj": "",
+      "se": "",
+      "jp": "　白い顔の<tips=91>ミスター・スミス</tips>は持って来た牌を見て、手を止める。そして<tips=90>ミスター・チェン</tips>が捨てた牌の列を眺めている。",
+      "en": "The pale-faced <tips=91>Mr. Smith</tips> looked at the tile he had drawn and paused. Then he studied the row of tiles <tips=90>Mr. Chen</tips> had discarded."
+    },
+    {
+      "id": "X9:0165",
+      "i": 83,
+      "n": 165,
+      "sj": "",
+      "se": "",
+      "jp": "「遅いよ。下手な考え休むに似たりね」",
+      "en": "Too slow. Empty thought is no better than sleep."
+    },
+    {
+      "id": "X9:0166",
+      "i": 84,
+      "n": 166,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>がそう煽ると、彼は眉間に皺を寄せ、",
+      "en": "When <tips=90>Mr. Chen</tips> taunted him, Smith furrowed his brow."
+    },
+    {
+      "id": "X9:0167",
+      "i": 85,
+      "n": 167,
+      "sj": "",
+      "se": "",
+      "jp": "「これは通るはずです」",
+      "en": "This should be safe."
+    },
+    {
+      "id": "X9:0168",
+      "i": 86,
+      "n": 168,
+      "sj": "",
+      "se": "",
+      "jp": "　悩んだ末に結局掴んだ牌を捨てた。",
+      "en": "After deliberating, he finally discarded the tile he had drawn."
+    },
+    {
+      "id": "X9:0169",
+      "i": 87,
+      "n": 169,
+      "sj": "",
+      "se": "",
+      "jp": "　それは当たりの牌ではなかったようで、次の番となる<tips=89>ミスター・アーノルド</tips>が卓の上の牌に手を伸ばす。",
+      "en": "Apparently it was not a winning tile. The next player, <tips=89>Mr. Arnold</tips>, reached toward the table."
+    },
+    {
+      "id": "X9:0170",
+      "i": 88,
+      "n": 170,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=7>ＹＳ</tips>は世代交代をして、<tips=35>フェルナンデス</tips>のところも娘があとを継いだ。そろそろお前にも、重要な役割についてほしいと私たちは思っているんだよ」",
+      "en": "<tips=7>YS</tips> has entered a new generation, and <tips=35>Fernandez</tips>'s daughter has succeeded him. We think it is time you took on an important role as well."
+    },
+    {
+      "id": "X9:0171",
+      "i": 89,
+      "n": 171,
+      "sj": "",
+      "se": "",
+      "jp": "　アーノルドは言うと、持って来た牌を自分の手の牌と取り替えて卓の上に横向きに並べ、自分の引き出しから赤丸ひとつが印字された点棒を一本放り投げる。",
+      "en": "Arnold exchanged the tile he drew for one from his hand, placed his discard sideways on the table, and tossed out a point stick marked with a single red circle from his drawer."
+    },
+    {
+      "id": "X9:0172",
+      "i": 90,
+      "n": 172,
+      "sj": "",
+      "se": "",
+      "jp": "「リーチ」",
+      "en": "Riichi."
+    },
+    {
+      "id": "X9:0173",
+      "i": 91,
+      "n": 173,
+      "sj": "",
+      "se": "",
+      "jp": "「あいやー、ずいぶんと強気だねー」",
+      "en": "Aiya, how aggressive."
+    },
+    {
+      "id": "X9:0174",
+      "i": 92,
+      "n": 174,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は苦笑しながら牌をとる。",
+      "en": "<tips=90>Mr. Chen</tips> drew a tile with a wry smile."
+    },
+    {
+      "id": "X9:0175",
+      "i": 93,
+      "n": 175,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=67>カミラ</tips>と、ジョン、そしてお前の三人で幹部になるんだ。我々の後継者としてな。この組織は、黒、白、黄色という三人でバランス良くやっていかなきゃいけない。そうでなければ、この街に住む様々な肌の色の<tips=17>タイプB</tips>が、気後れなく参加することは出来ないからな」",
+      "en": "<tips=67>Camilla</tips>, John, and you will become the three leaders who succeed us. This organization must maintain a balance among three people—Black, white, and Asian. Otherwise, the <tips=17>Type B</tips> people of every skin color in this town will not feel equally welcome to join."
+    },
+    {
+      "id": "X9:0176",
+      "i": 94,
+      "n": 176,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>は傍らのサイドテーブルに置いたコーヒーカップを手に取るとそう言った。",
+      "en": "<tips=89>Mr. Arnold</tips> said this as he picked up the coffee cup from the side table beside him."
+    },
+    {
+      "id": "X9:0177",
+      "i": 95,
+      "n": 177,
+      "sj": "",
+      "se": "",
+      "jp": "「……そりゃ、手伝いくらいはしますが、そんなに本格的には出来ませんよ。何度も言ってますが」",
+      "en": "...I'll help out, of course, but I can't commit myself that completely. I've told you that many times."
+    },
+    {
+      "id": "X9:0178",
+      "i": 96,
+      "n": 178,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が困って頭を掻くと、",
+      "en": "<tips=10>Michio</tips> scratched his head in discomfort."
+    },
+    {
+      "id": "X9:0179",
+      "i": 97,
+      "n": 179,
+      "sj": "",
+      "se": "",
+      "jp": "「ロン！」",
+      "en": "Ron!"
+    },
+    {
+      "id": "X9:0180",
+      "i": 98,
+      "n": 180,
+      "sj": "",
+      "se": "",
+      "jp": "　鋭く発声したのは、<tips=91>ミスター・スミス</tips>であった。",
+      "en": "The sharp call came from <tips=91>Mr. Smith</tips>."
+    },
+    {
+      "id": "X9:0181",
+      "i": 99,
+      "n": 181,
+      "sj": "",
+      "se": "",
+      "jp": "「あっ、テンパイしていたのか！　しかも倍満か？」",
+      "en": "What? You were in tenpai? And that's a baiman?!"
+    },
+    {
+      "id": "X9:0182",
+      "i": 100,
+      "n": 182,
+      "sj": "",
+      "se": "",
+      "jp": "　スミスが倒した手牌を見て、その思ったよりも高い得点に頭を抱えたのは振り込む形となった<tips=90>ミスター・チェン</tips>である。",
+      "en": "Seeing Smith's revealed hand and its unexpectedly high score, <tips=90>Mr. Chen</tips> clutched his head. It was his discard that had dealt Smith in."
+    },
+    {
+      "id": "X9:0183",
+      "i": 101,
+      "n": 183,
+      "sj": "",
+      "se": "",
+      "jp": "「降りても良かったし、手代わりを待っても良かったんですが、高いやつを出してくれましたからね。これで今日のトータルは私がトップになりましたね」",
+      "en": "I could have folded or waited for my hand to change, but you discarded an expensive tile. This puts me in first place for the day."
+    },
+    {
+      "id": "X9:0184",
+      "i": 102,
+      "n": 184,
+      "sj": "",
+      "se": "",
+      "jp": "　普段通りの無表情でスミスはそう言った。",
+      "en": "Smith spoke with his usual expressionless face."
+    },
+    {
+      "id": "X9:0185",
+      "i": 103,
+      "n": 185,
+      "sj": "",
+      "se": "",
+      "jp": "「何、これからよ」",
+      "en": "The day is young."
+    },
+    {
+      "id": "X9:0186",
+      "i": 104,
+      "n": 186,
+      "sj": "",
+      "se": "",
+      "jp": "　チェンは舌打ちをして牌を崩した。",
+      "en": "Chen clicked his tongue and broke apart his hand."
+    },
+    {
+      "id": "X9:0187",
+      "i": 105,
+      "n": 187,
+      "sj": "",
+      "se": "",
+      "jp": "　三人は両手を伸ばして今使った牌をじゃらじゃらと卓の中央のくぼみへ落とし込む。そうしてボタンを押すと、新しい牌がすぐゲームを開始できるように二段の列となってせり上がってくるのが全自動卓というものなのだが、何度押しても動かない。",
+      "en": "The three reached out with both hands and rattled the used tiles into the hollow at the center of the table. Ordinarily, pressing the button would make fresh tiles rise in two neat rows, ready to begin the next game. No matter how many times they pressed it, however, nothing moved."
+    },
+    {
+      "id": "X9:0188",
+      "i": 106,
+      "n": 188,
+      "sj": "",
+      "se": "",
+      "jp": "「また故障！　三日前に修理して貰ったばかりなのに！」",
+      "en": "Broken again! We only had it repaired three days ago!"
+    },
+    {
+      "id": "X9:0189",
+      "i": 107,
+      "n": 189,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は顔を真っ赤にして卓の端を手のひらで叩く。",
+      "en": "Face bright red, <tips=90>Mr. Chen</tips> slapped the edge of the table with his palm."
+    },
+    {
+      "id": "X9:0190",
+      "i": 108,
+      "n": 190,
+      "sj": "",
+      "se": "",
+      "jp": "「今日はもうやめよう。私はすこし疲れた」",
+      "en": "Let us stop for today. I am somewhat tired."
+    },
+    {
+      "id": "X9:0191",
+      "i": 109,
+      "n": 191,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>はコーヒーを飲みながら醒めた表情で言う。",
+      "en": "<tips=89>Mr. Arnold</tips> spoke coolly while drinking his coffee."
+    },
+    {
+      "id": "X9:0192",
+      "i": 110,
+      "n": 192,
+      "sj": "",
+      "se": "",
+      "jp": "「アナタは浮きも沈みもしていないからそれでいいだろうけれど、私はこれでは引っ込みつかないよ……」",
+      "en": "Easy for you to say when you're neither up nor down. I can't walk away like this..."
+    },
+    {
+      "id": "X9:0193",
+      "i": 111,
+      "n": 193,
+      "sj": "",
+      "se": "",
+      "jp": "「頭が熱くなったままゲームをたって負けが込むだけだ。それに、どうやるつもりだ？　手積みでは面倒で仕方がない」",
+      "en": "Keep playing while your head is hot and you will only lose more. Besides, how would you play? Stacking the tiles by hand is intolerably tedious."
+    },
+    {
+      "id": "X9:0194",
+      "i": 112,
+      "n": 194,
+      "sj": "",
+      "se": "",
+      "jp": "「勝ったから言うわけではないですが、私ももう十分です。また修理が終わったらやればいいじゃないですか」",
+      "en": "I don't say this merely because I won, but I have had enough too. We can play again once it is repaired."
+    },
+    {
+      "id": "X9:0195",
+      "i": 113,
+      "n": 195,
+      "sj": "",
+      "se": "",
+      "jp": "　二人に諭されると、<tips=90>ミスター・チェン</tips>は渋々引き下がる他なかった。",
+      "en": "With both men admonishing him, <tips=90>Mr. Chen</tips> had no choice but to withdraw reluctantly."
+    },
+    {
+      "id": "X9:0196",
+      "i": 114,
+      "n": 196,
+      "sj": "",
+      "se": "",
+      "jp": "「じゃあ、そういうことで、おれも<tips=66>コンタ</tips>一人に店番させてるから、そろそろ……」",
+      "en": "In that case, I should go too. I left <tips=66>Konta</tips> tending the shop alone, so..."
+    },
+    {
+      "id": "X9:0197",
+      "i": 115,
+      "n": 197,
+      "sj": "",
+      "se": "",
+      "jp": "　このタイミングに<tips=10>道夫</tips>はそう言って席を外そうとしたのだが、",
+      "en": "<tips=10>Michio</tips> seized the moment and started to rise."
+    },
+    {
+      "id": "X9:0198",
+      "i": 116,
+      "n": 198,
+      "sj": "",
+      "se": "",
+      "jp": "「いや、お前には残って貰う。会って貰いたい人間がいるのでな」",
+      "en": "No. You will remain. There is someone we want you to meet."
+    },
+    {
+      "id": "X9:0199",
+      "i": 117,
+      "n": 199,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>が釘を刺すので、浮かしかけた腰をまた降ろす。",
+      "en": "<tips=89>Mr. Arnold</tips>'s firm warning made Michio lower himself back into his chair."
+    },
+    {
+      "id": "X9:0200",
+      "i": 118,
+      "n": 200,
+      "sj": "",
+      "se": "",
+      "jp": "「『またか』って顔をしているね。そうなんだよ、またなんだ。すまないね」",
+      "en": "You look as though you're thinking, 'Again?' Yes, again. Forgive us."
+    },
+    {
+      "id": "X9:0201",
+      "i": 119,
+      "n": 201,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は苦笑して言った。",
+      "en": "<tips=90>Mr. Chen</tips> gave a wry smile."
+    },
+    {
+      "id": "X9:0202",
+      "i": 120,
+      "n": 202,
+      "sj": "",
+      "se": "",
+      "jp": "　まったく、<tips=10>道夫</tips>からすればうんざりするようなやり方である。",
+      "en": "From <tips=10>Michio</tips>'s perspective, it was an utterly exasperating method."
+    },
+    {
+      "id": "X9:0203",
+      "i": 121,
+      "n": 203,
+      "sj": "",
+      "se": "",
+      "jp": "　はじめから人と会わせたいと言ったら来ないのがわかっているから、顔を見たいだの、体調がよろしくなくて不安だの、人情に訴えかける放っておけない理由をつけて呼び出すのだ。",
+      "en": "They knew he would refuse if told from the start that they wanted him to meet someone. Instead, they summoned him with appeals to his sympathy that he could not ignore, claiming they wanted to see his face or felt unwell and anxious."
+    },
+    {
+      "id": "X9:0204",
+      "i": 122,
+      "n": 204,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はわかっていても、この手の誘い文句には弱い。",
+      "en": "Even knowing what they were doing, <tips=10>Michio</tips> was weak to such invitations."
+    },
+    {
+      "id": "X9:0205",
+      "i": 123,
+      "n": 205,
+      "sj": "",
+      "se": "",
+      "jp": "　可愛い女の子がこういう理由を使うならまだしも、なんだって食えない爺さんどもの見え見えの嘘とわかりながら、のこのこやって来てしまうのか、自分でもそう思いはするのだが。",
+      "en": "It might have made sense if a pretty girl used such an excuse. He often wondered why he came running even when he knew perfectly well that these crafty old men were telling transparent lies."
+    },
+    {
+      "id": "X9:0206",
+      "i": 124,
+      "n": 206,
+      "sj": "",
+      "se": "",
+      "jp": "　そうして、ここのところ何度も人と会わされている。",
+      "en": "They had made him meet people this way many times recently."
+    },
+    {
+      "id": "X9:0207",
+      "i": 125,
+      "n": 207,
+      "sj": "",
+      "se": "",
+      "jp": "　相手は<tips=57>滑走路通り</tips>の商業ビルのオーナーやら、ギャングのお偉いさんやら、銀行の頭取やら様々な社会的地位を持つ人間だ。",
+      "en": "The visitors held all manner of social positions: owners of commercial buildings on <tips=57>Runway Street</tips>, high-ranking gangsters, bank presidents, and more."
+    },
+    {
+      "id": "X9:0208",
+      "i": 126,
+      "n": 208,
+      "sj": "",
+      "se": "",
+      "jp": "　自分たちがいついなくなってもいいよう、若い会員たちを皆引き合わせるのが目的だと、<tips=22>老人たち</tips>は言うが、こうして引っ張り出されるのは<tips=10>道夫</tips>ばかりであり、どうしても腑に落ちない。",
+      "en": "The <tips=22>Elders</tips> claimed they wanted to introduce all the younger members to such people in case the elders disappeared at any time. Yet <tips=10>Michio</tips> was always the one dragged out for the meetings, and he could not make sense of it."
+    },
+    {
+      "id": "X9:0209",
+      "i": 127,
+      "n": 209,
+      "sj": "",
+      "se": "",
+      "jp": "　今日もまたどこぞの名士さまに引き合わされるのかと思うとうんざりする。",
+      "en": "The prospect of being introduced to yet another local dignitary today filled him with dread."
+    },
+    {
+      "id": "X9:0210",
+      "i": 128,
+      "n": 210,
+      "sj": "",
+      "se": "",
+      "jp": "　早々と諦めてしまった<tips=22>老人たち</tips>をよそに、故障してしまった麻雀卓を隙間からのぞいたり、ドライバーで中をつついたりしてどうにか直らないかと試行錯誤していると、はたしてその人物がやって来た。",
+      "en": "While the <tips=22>Elders</tips> quickly gave up, Michio peered into gaps in the broken mahjong table and poked inside with a screwdriver, trying one thing after another to repair it. Eventually, the expected visitor arrived."
+    },
+    {
+      "id": "X9:0220",
+      "i": 129,
+      "n": 220,
+      "sj": "",
+      "se": "",
+      "jp": "　幾人ものボディーガードを引き連れて屋敷の玄関をくぐったのは、誰あろう、<tips=7>ＹＳ</tips>の第三代<tips=81>龍頭</tips><tips=1>謝亮</tips>であった。高級なスーツを身につけ、屈強な男たちに囲まれた姿はどこからどう見ても若きマフィアの頭目であり、<tips=10>道夫</tips>としてもうかつに声をかけにくい雰囲気があった。",
+      "en": "The man who entered the house surrounded by several bodyguards was none other than the third <tips=81>Longtou</tips> of <tips=7>YS</tips>, <tips=1>Tse Long</tips>. Dressed in an expensive suit and encircled by powerful men, he looked every inch the young head of a mafia family. Even <tips=10>Michio</tips> found the atmosphere around him difficult to approach."
+    },
+    {
+      "id": "X9:0221",
+      "i": 130,
+      "n": 221,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>の方も、<tips=10>道夫</tips>を横目でちらりと見ただけで何も言わない。",
+      "en": "For his part, <tips=1>Long</tips> merely glanced sideways at <tips=10>Michio</tips> and said nothing."
+    },
+    {
+      "id": "X9:0222",
+      "i": 131,
+      "n": 222,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「やあ、よく来てくれたね」",
+      "en": "Ah, thank you for coming."
+    },
+    {
+      "id": "X9:0223",
+      "i": 132,
+      "n": 223,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らを部屋に招き入れると、<tips=90>ミスター・チェン</tips>は目を細めた。",
+      "en": "After ushering the group into the room, <tips=90>Mr. Chen</tips> narrowed his eyes in a smile."
+    },
+    {
+      "id": "X9:0224",
+      "i": 133,
+      "n": 224,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「若き<tips=81>龍頭</tips>どのと、そちらに居るのは馬君のところの倅さんだね。最近随分活躍しているそうじゃないか。若い人が出て来ると頼もしいねえ」",
+      "en": "The young <tips=81>Longtou</tips>, and beside you must be the son of young Ma. I hear you have been remarkably active of late. It is reassuring to see the young stepping forward."
+    },
+    {
+      "id": "X9:0225",
+      "i": 134,
+      "n": 225,
+      "sj": "",
+      "se": "",
+      "jp": "　丸いテーブルを挟んで、三人の老人と<tips=1>謝亮</tips>が向かい合って座っている。それを取り囲むように<tips=25>馬世傑</tips>と双方のボディーガードが立っていた。いつもの客よりお互いが連れている人間が多く、緊張感がある。",
+      "en": "The three elders sat facing <tips=1>Tse Long</tips> across a round table. Around them stood <tips=25>Ma Sai-ki</tips> and the bodyguards from both sides. Each party had brought more people than the usual visitor, lending the room an air of tension."
+    },
+    {
+      "id": "X9:0226",
+      "i": 135,
+      "n": 226,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はすこし離れたところに椅子を置いて状況を見守りながら、その不思議な緊張感に首を捻っていた。",
+      "en": "<tips=10>Michio</tips> placed a chair some distance away and watched, puzzled by the strange tension."
+    },
+    {
+      "id": "X9:0227",
+      "i": 136,
+      "n": 227,
+      "sj": "",
+      "se": "",
+      "jp": "　最近は饅頭屋の活動に力を入れていて、裏社会の動きをあまり知らない。フェルナンデス一家の殺害や、その犯人の遺体が路上に晒されたことなどは聞いているが、詳細な事情は聞いていない。<tips=21>八龍会</tips>の動きに関しては、<tips=22>老人たち</tips>は極端な秘密主義なので親切に<tips=10>道夫</tips>に説明することはなかった。どこで何をしているのかわからない。",
+      "en": "He had been focusing lately on his steamed-bun business and knew little about movements in the underworld. He had heard of the Fernandez family's murder and the killers' bodies being displayed in the street, but not the details. The <tips=22>Elders</tips> were intensely secretive about the <tips=21>Dragon Club</tips>'s activities and never kindly explained them to <tips=10>Michio</tips>. He had no idea what they were doing or where."
+    },
+    {
+      "id": "X9:0228",
+      "i": 137,
+      "n": 228,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「一体何のつもりで私たちを呼んだ？　何か釈明でもしてもらえるのかな」",
+      "en": "Why have you summoned us? Do you intend to offer some explanation?"
+    },
+    {
+      "id": "X9:0229",
+      "i": 138,
+      "n": 229,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>の態度は最初からトゲトゲしかった。",
+      "en": "<tips=1>Long</tips>'s manner was hostile from the outset."
+    },
+    {
+      "id": "X9:0230",
+      "i": 139,
+      "n": 230,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「ほっほっほ、何を釈明しろと」",
+      "en": "Ho ho ho. What should we explain?"
+    },
+    {
+      "id": "X9:0231",
+      "i": 140,
+      "n": 231,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は真っ白い口ひげを撫でながらそう笑う。",
+      "en": "<tips=90>Mr. Chen</tips> laughed as he stroked his pure-white mustache."
+    },
+    {
+      "id": "X9:0232",
+      "i": 141,
+      "n": 232,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は知らなかったが、このとき<tips=21>八龍会</tips>は<tips=9>Y地区</tips>中の有力者たちに<tips=7>ＹＳ</tips>を非難する声明文を送りつけていた。",
+      "en": "Unknown to <tips=10>Michio</tips>, the <tips=21>Dragon Club</tips> had by then sent a statement condemning <tips=7>YS</tips> to influential figures throughout <tips=9>Y District</tips>."
+    },
+    {
+      "id": "X9:0233",
+      "i": 142,
+      "n": 233,
+      "sj": "",
+      "se": "",
+      "jp": "　その内容は、フェルナンデス一家の殺害事件についてである。",
+      "en": "It concerned the murder of the Fernandez family."
+    },
+    {
+      "id": "X9:0234",
+      "i": 143,
+      "n": 234,
+      "sj": "",
+      "se": "",
+      "jp": "　もとより<tips=1>謝亮</tips>の陰謀説があるこの事件だが、その噂は犯人たちが死亡した後も消えることがなかった。",
+      "en": "Although the incident had inspired theories of a plot by <tips=1>Tse Long</tips> from the outset, the rumors did not vanish after the perpetrators died."
+    },
+    {
+      "id": "X9:0235",
+      "i": 144,
+      "n": 235,
+      "sj": "",
+      "se": "",
+      "jp": "　余りにも早く殺人犯が見つかったことから、この犯人たちは真犯人を隠す替え玉、あるいは<tips=7>ＹＳ</tips>に雇われた者たちだという説も生まれた。",
+      "en": "Because the murderers were found so quickly, new theories held that they were patsies used to conceal the true culprit, or men hired by <tips=7>YS</tips>."
+    },
+    {
+      "id": "X9:0236",
+      "i": 145,
+      "n": 236,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=21>八龍会</tips>の声明は、それらの陰謀説を前提とした形での非難であった。",
+      "en": "The <tips=21>Dragon Club</tips>'s statement condemned YS on the assumption that these conspiracy theories were true."
+    },
+    {
+      "id": "X9:0237",
+      "i": 146,
+      "n": 237,
+      "sj": "",
+      "se": "",
+      "jp": "　犯人たちはいずれも<tips=17>タイプB</tips>であり、しかも発症して精神が不安定な状態にあった。",
+      "en": "Every perpetrator had been <tips=17>Type B</tips> and had developed symptoms that left him mentally unstable."
+    },
+    {
+      "id": "X9:0238",
+      "i": 147,
+      "n": 238,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=7>ＹＳ</tips>はこれらにつけ込んで、彼らを利用した。",
+      "en": "<tips=7>YS</tips> had exploited their condition and used them."
+    },
+    {
+      "id": "X9:0239",
+      "i": 148,
+      "n": 239,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=17>タイプB</tips>を守る立場の<tips=21>八龍会</tips>としては到底これを容認することが出来ない。",
+      "en": "As the protector of <tips=17>Type B</tips> people, the <tips=21>Dragon Club</tips> could never tolerate this."
+    },
+    {
+      "id": "X9:0240",
+      "i": 149,
+      "n": 240,
+      "sj": "",
+      "se": "",
+      "jp": "　この街は<tips=17>タイプB</tips>を含めたミュータントとノーマルが協力して支え合って成り立っているのであり、このような非人道的な行いをする<tips=81>龍頭</tips><tips=1>謝亮</tips>は到底許されるものではない。",
+      "en": "This town survived through cooperation and mutual support between Normals and mutants, including <tips=17>Type B</tips>. The <tips=81>Longtou</tips> <tips=1>Tse Long</tips>, who committed such an inhumane act, could never be forgiven."
+    },
+    {
+      "id": "X9:0241",
+      "i": 150,
+      "n": 241,
+      "sj": "",
+      "se": "",
+      "jp": "　というのが<tips=21>八龍会</tips>の言い分である。",
+      "en": "Such was the <tips=21>Dragon Club</tips>'s argument."
+    },
+    {
+      "id": "X9:0242",
+      "i": 151,
+      "n": 242,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「面白いことを言う。釈明するならばアナタの方でしょう？」",
+      "en": "An interesting accusation. But if anyone owes an explanation, surely it is you."
+    },
+    {
+      "id": "X9:0243",
+      "i": 152,
+      "n": 243,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は笑顔を絶やさずに言う。",
+      "en": "<tips=90>Mr. Chen</tips> spoke without losing his smile."
+    },
+    {
+      "id": "X9:0244",
+      "i": 153,
+      "n": 244,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「馬鹿馬鹿しい」",
+      "en": "Absurd."
+    },
+    {
+      "id": "X9:0245",
+      "i": 154,
+      "n": 245,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は一顧だにせず吐き捨てた。",
+      "en": "<tips=1>Long</tips> spat the word without giving the claim a moment's consideration."
+    },
+    {
+      "id": "X9:0246",
+      "i": 155,
+      "n": 246,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「考えてみたらどうですか？　<tips=7>ＹＳ</tips>から離脱した途端にフェルナンデス家に襲撃者が現れ、そしてすぐにそれが発症した<tips=17>タイプB</tips>だと判明する。突き止めたのは<tips=7>ＹＳ</tips>だ。これはあまりに出来すぎています」",
+      "en": "Think about it. The moment the Fernandez family leaves <tips=7>YS</tips>, attackers appear. They are then immediately identified as symptomatic <tips=17>Type B</tips> men—and it is <tips=7>YS</tips> that identifies them. It is far too convenient."
+    },
+    {
+      "id": "X9:0247",
+      "i": 156,
+      "n": 247,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>はくすりともせずに言う。",
+      "en": "<tips=89>Mr. Arnold</tips> spoke without the slightest smile."
+    },
+    {
+      "id": "X9:0248",
+      "i": 157,
+      "n": 248,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「ただの作り話だね。そういう話でいいなら、私は別の話を知っている」",
+      "en": "That is only a story. If stories suffice, I know another one."
+    },
+    {
+      "id": "X9:0249",
+      "i": 158,
+      "n": 249,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は不機嫌そうだった。",
+      "en": "<tips=1>Long</tips> looked displeased."
+    },
+    {
+      "id": "X9:0250",
+      "i": 159,
+      "n": 250,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「犯人たちが死んだ後我々も少し調査をしたのだけれど、面白いことがわかったんだ」",
+      "en": "We carried out a little further investigation after the perpetrators died, and discovered something interesting."
+    },
+    {
+      "id": "X9:0251",
+      "i": 160,
+      "n": 251,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「面白いこと？」",
+      "en": "Something interesting?"
+    },
+    {
+      "id": "X9:0252",
+      "i": 161,
+      "n": 252,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>が問い返す。",
+      "en": "<tips=90>Mr. Chen</tips> echoed the phrase."
+    },
+    {
+      "id": "X9:0253",
+      "i": 162,
+      "n": 253,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「どうも不思議なんだ。事件のあとに連中が豪遊していた内容と、残った金を計算すると、<tips=35>フェルナンデス</tips>の屋敷から盗んだ金よりあきらかに多いんだよ。計画前に、武器を買うのさえ借金しなければならないようなすかんぴんどもが、どこにお金を隠していたんだろうねえ」",
+      "en": "There is a curious discrepancy. When we total what the men spent on their revelry after the incident and the money left over, it clearly exceeds what they stole from <tips=35>Fernandez</tips>'s mansion. Before the plan, those penniless wretches had to borrow even to buy their weapons. Where could they have hidden so much money?"
+    },
+    {
+      "id": "X9:0254",
+      "i": 163,
+      "n": 254,
+      "sj": "ミスター・スミス",
+      "se": "Mr. Smith",
+      "jp": "「何が言いたい」",
+      "en": "What are you suggesting?"
+    },
+    {
+      "id": "X9:0255",
+      "i": 164,
+      "n": 255,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=91>ミスター・スミス</tips>は額にしわをよせて訊ねた。",
+      "en": "<tips=91>Mr. Smith</tips> asked, creasing his forehead."
+    },
+    {
+      "id": "X9:0256",
+      "i": 165,
+      "n": 256,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「誰かが彼らに<tips=35>フェルナンデス</tips>襲撃を依頼していたんじゃないか？　金が多いのは、その報酬を受け取ったのさ。依頼者が誰だとは言わないが、彼らの部屋からは白い薬が大量に見つかっている。この<tips=9>Y地区</tips>で麻薬を扱っている組織はひとつしかない。そして、その組織はつい最近とんでもない新薬を仕入れて街中の会員にばらまいているそうだ」",
+      "en": "Perhaps someone hired them to attack <tips=35>Fernandez</tips>. The extra money was their payment. I will not name the client, but large quantities of a white drug were found in their rooms. Only one organization sells narcotics in <tips=9>Y District</tips>. And I hear that very organization recently obtained a remarkable new drug and distributed it to members all across town."
+    },
+    {
+      "id": "X9:0257",
+      "i": 166,
+      "n": 257,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は風邪でもひいているのか、鼻を啜る仕草をして、",
+      "en": "<tips=1>Long</tips> sniffed as though he had a cold."
+    },
+    {
+      "id": "X9:0258",
+      "i": 167,
+      "n": 258,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「<tips=17>タイプB</tips>を利用するってさっきあんたは言ったけれども、それにかけちゃもっと歴史の古い組織がこの街には存在すると思うんだがね？」",
+      "en": "You spoke just now of exploiting <tips=17>Type B</tips> people. I believe this town contains another organization with a much longer history of that particular practice."
+    },
+    {
+      "id": "X9:0259",
+      "i": 168,
+      "n": 259,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「これは驚いた！　我々を疑っているんだネ？」",
+      "en": "What a surprise! You suspect us?"
+    },
+    {
+      "id": "X9:0260",
+      "i": 169,
+      "n": 260,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「あんたらの作り話よりは、こちらの方がよっぽど現実味があると思わないかい？」",
+      "en": "Doesn't my story sound considerably more realistic than yours?"
+    },
+    {
+      "id": "X9:0261",
+      "i": 170,
+      "n": 261,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「言いがかりはやめてもらいたいネ。この街の<tips=17>タイプB</tips>は多かれ少なかれ我々と関わりを持っているものがほとんどだ。我々はどんな素性であっても、<tips=17>タイプB</tips>である限りは拒まないからネ。そのなかには不心得者もいるだろうが、全部我々のせいにされてはたまらない」",
+      "en": "Kindly stop making false accusations. Almost every <tips=17>Type B</tips> person in this town has some connection to us. We reject no one, whatever their origins, so long as they are <tips=17>Type B</tips>. There will naturally be some scoundrels among them, but we cannot be blamed for everything they do."
+    },
+    {
+      "id": "X9:0262",
+      "i": 171,
+      "n": 262,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は呆れて顔をしかめる。",
+      "en": "<tips=90>Mr. Chen</tips> grimaced in exasperation."
+    },
+    {
+      "id": "X9:0263",
+      "i": 172,
+      "n": 263,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「何だっていいさ。ただ、この件に関しては徹底的にやるつもりだ。<tips=35>フェルナンデス</tips>は最後こそ離脱したが、まぎれもない<tips=7>ＹＳ</tips>の功労者だからね。そして私にとっては父の盟友だ。組織の誇りにかけてでも復讐は果たされねばならない。まだどこかに隠れている真の主謀者は、あのこそ泥たちのように路上で蛆虫の餌になるだろう」",
+      "en": "Think what you like. I intend to pursue this matter to the very end. <tips=35>Fernandez</tips> may have withdrawn at the last, but he unquestionably rendered great service to <tips=7>YS</tips>. To me, he was also my father's sworn ally. For the honor of the organization, he must be avenged. The true mastermind still hiding somewhere will feed maggots in the street, just like those petty thieves."
+    },
+    {
+      "id": "X9:0264",
+      "i": 173,
+      "n": 264,
+      "sj": "ミスター・スミス",
+      "se": "Mr. Smith",
+      "jp": "「威勢のいいことだな」",
+      "en": "Bold words."
+    },
+    {
+      "id": "X9:0265",
+      "i": 174,
+      "n": 265,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=91>ミスター・スミス</tips>はその白目の多い大きな目を見開いて、ぎろりと<tips=1>亮</tips>の顔を睨み付ける。",
+      "en": "<tips=91>Mr. Smith</tips> opened his large eyes, their whites prominently exposed, and glared at <tips=1>Long</tips>."
+    },
+    {
+      "id": "X9:0266",
+      "i": 175,
+      "n": 266,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「まあ、まあ、ここは穏やかに。今日は、その話をしたいわけではないんだからネ」",
+      "en": "Now, now, let us remain calm. That is not what we came to discuss today."
+    },
+    {
+      "id": "X9:0267",
+      "i": 176,
+      "n": 267,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>がそう言って苛立ちが露わになった<tips=91>ミスター・スミス</tips>をとりなす。",
+      "en": "<tips=90>Mr. Chen</tips> soothed the visibly irritated <tips=91>Mr. Smith</tips>."
+    },
+    {
+      "id": "X9:0268",
+      "i": 177,
+      "n": 268,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「まず第一に、我々はアナタのことをとても高く評価しているっていうことを理解して欲しいノ」",
+      "en": "First, I want you to understand that we hold you in very high regard."
+    },
+    {
+      "id": "X9:0269",
+      "i": 178,
+      "n": 269,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は椅子に座り直すと、穏やかな表情で<tips=1>亮</tips>に語りかける。",
+      "en": "<tips=90>Mr. Chen</tips> settled himself in his chair again and addressed <tips=1>Long</tips> with a gentle expression."
+    },
+    {
+      "id": "X9:0270",
+      "i": 179,
+      "n": 270,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「もの知らずどもはアナタが突然<tips=81>龍頭</tips>になったと思っているけれど、少し事情に明るい人間はそうじゃないことを知っている。もちろん我々だって<tips=10>道夫</tips>と仲が良かった<tips=1>菅原亮</tips>のことは忘れていない。まあ、当時はあの<tips=3>クリス・ツェー</tips>の子供だと知っていたわけじゃないがネ」",
+      "en": "Ignorant people imagine you suddenly became <tips=81>Longtou</tips>, but anyone familiar with the circumstances knows otherwise. We certainly have not forgotten <tips=1>Ryo Sugawara</tips>, who was such a good friend to <tips=10>Michio</tips>. Though at the time, we did not know he was the child of <tips=3>Chris Tse</tips>."
+    },
+    {
+      "id": "X9:0271",
+      "i": 180,
+      "n": 271,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はチェンの言葉を、少し眠そうな顔で聞いている。この表情は、相手を疑っているときのものだと<tips=10>道夫</tips>は知っている。",
+      "en": "<tips=1>Long</tips> listened to Chen with a slightly sleepy expression. <tips=10>Michio</tips> knew this was the look he wore when he distrusted someone."
+    },
+    {
+      "id": "X9:0272",
+      "i": 181,
+      "n": 272,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「アナタは子供時代、<tips=81>龍頭</tips>の息子だからという理由で不良少年たちのリーダーになったわけじゃない。アナタは定食屋の息子として、自分の才覚だけで、裏通りの少年なら誰でも知っている存在になった。アナタは生まれながらのギャングなんだ。しかも父親譲りの才能がある」",
+      "en": "As a child, you did not become the leader of those young delinquents because you were the <tips=81>Longtou</tips>'s son. As the son of a humble diner owner, you used your own talents to become known to every backstreet boy in town. You are a born gangster, with a talent inherited from your father."
+    },
+    {
+      "id": "X9:0273",
+      "i": 182,
+      "n": 273,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「老人の話はまわりくどくてたまらないな。お褒め頂いて光栄だが、さっさと本題に入ってもらいたい」",
+      "en": "Old men speak in intolerable circles. I am honored by your praise, but kindly come to the point."
+    },
+    {
+      "id": "X9:0274",
+      "i": 183,
+      "n": 274,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はそう言って顔を顰めた。",
+      "en": "<tips=1>Long</tips> frowned."
+    },
+    {
+      "id": "X9:0275",
+      "i": 184,
+      "n": 275,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「まあ、焦らずゆっくり聞きなさい。私はとても重要な話をしているんだからネ」",
+      "en": "Do not rush. Listen patiently. What I am saying is very important."
+    },
+    {
+      "id": "X9:0276",
+      "i": 185,
+      "n": 276,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は大げさに肩をすくめてそう言うと、",
+      "en": "<tips=90>Mr. Chen</tips> gave an exaggerated shrug."
+    },
+    {
+      "id": "X9:0277",
+      "i": 186,
+      "n": 277,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「とにかくネ、<tips=58>パラシュート通り</tips>の<tips=1>菅原亮</tips>を知っている我々のような人間ならば、<tips=81>龍頭</tips>になってからのアナタの活躍も、いまやろうとしている<tips=7>ＹＳ</tips>の統合計画も、驚いたりはしないんだよ。アナタは優秀で、とても支配したがりだ。子供の時に路地ごとに分かれていた子供のグループを統一して支配したように、ギャングを効率よく支配しようと考えているんだろう？　父親よりももっと徹底的に」",
+      "en": "In any case, people like us who knew <tips=1>Ryo Sugawara</tips> of <tips=58>Parachute Street</tips> are not surprised by what you have accomplished since becoming <tips=81>Longtou</tips>, or by your present plan to unify <tips=7>YS</tips>. You are exceptionally capable and very fond of control. Just as you unified and ruled the children's groups once divided alley by alley, you now mean to rule the gangs efficiently, don't you? More thoroughly even than your father."
+    },
+    {
+      "id": "X9:0278",
+      "i": 187,
+      "n": 278,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は不本意そうだが、議論の面倒くささが先に立つのか、何も言わずに聞いている。",
+      "en": "<tips=1>Long</tips> looked displeased, but perhaps found the prospect of arguing too tiresome. He listened without speaking."
+    },
+    {
+      "id": "X9:0279",
+      "i": 188,
+      "n": 279,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は遠慮せず話を続ける。",
+      "en": "<tips=90>Mr. Chen</tips> continued without restraint."
+    },
+    {
+      "id": "X9:0280",
+      "i": 189,
+      "n": 280,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「確かに、アナタのお父さんの功績は偉大だったヨ。彼が<tips=7>ＹＳ</tips>を作って街を支配したおかげで、目に余るような悲惨な話は少なくなった。……しかしもう役割は終わったんだヨ。この街にギャングは必要ない。<tips=7>ＹＳ</tips>も、<tips=75>フェルナンデス・ファミリー</tips>も、何もかもネ」",
+      "en": "Your father's achievements were certainly great. Because he founded <tips=7>YS</tips> and ruled the town, truly appalling tragedies became less common... But that role is finished. This town no longer needs gangs. Not <tips=7>YS</tips>, not the <tips=75>Fernandez Family</tips>—none of them."
+    },
+    {
+      "id": "X9:0281",
+      "i": 190,
+      "n": 281,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「驚いたな。それは我々に対する宣戦布告なのかい？」",
+      "en": "How surprising. Is that a declaration of war against us?"
+    },
+    {
+      "id": "X9:0282",
+      "i": 191,
+      "n": 282,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は薄笑いを浮かべて言う。",
+      "en": "<tips=1>Long</tips> spoke with a faint smile."
+    },
+    {
+      "id": "X9:0283",
+      "i": 192,
+      "n": 283,
+      "sj": "ミスター・スミス",
+      "se": "Mr. Smith",
+      "jp": "「お前たちギャングはいつもそういう単純な考え方しかできない」",
+      "en": "You gangsters can never think beyond such simple terms."
+    },
+    {
+      "id": "X9:0284",
+      "i": 193,
+      "n": 284,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=91>ミスター・スミス</tips>は呆れたように溜息をつき、",
+      "en": "<tips=91>Mr. Smith</tips> sighed in exasperation."
+    },
+    {
+      "id": "X9:0285",
+      "i": 194,
+      "n": 285,
+      "sj": "ミスター・スミス",
+      "se": "Mr. Smith",
+      "jp": "「これまでのように暴力と恐怖で君臨するのは時代遅れだと言っている。幸い、今やお前らの事業の大部分は合法化されている。誘拐や強盗で稼ぐのは三流の小さな組織だけだ。そのまま大人しくしていればいい。これ以上街を血で汚すのはやめるんだ」",
+      "en": "I am saying that ruling through violence and fear as you have until now is obsolete. Fortunately, most of your businesses are legal today. Only third-rate little gangs still profit from kidnapping and robbery. Remain quiet and conduct those businesses. Stop staining the town with blood."
+    },
+    {
+      "id": "X9:0286",
+      "i": 195,
+      "n": 286,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「ははは！　これは傑作だ。私たちを表社会に追いやって、街を自分たちの麻薬で染め上げようっていうのかい？　<tips=46>ネオ・ローズ</tips>だかなんだか知らないが、<tips=45>ローズ</tips>のときにやらかしたのをもう忘れたのか」",
+      "en": "Ha ha ha! What a masterpiece. You mean to drive us into polite society while dyeing the town with your drugs? Neo-something—<tips=46>Neo-Rose</tips>, was it? Have you already forgotten what happened with <tips=45>Rose</tips>?"
+    },
+    {
+      "id": "X9:0287",
+      "i": 196,
+      "n": 287,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>が声を立てて嘲笑すると、<tips=91>ミスター・スミス</tips>は鬼のような形相になって彼を睨み付ける。",
+      "en": "When <tips=1>Long</tips> laughed aloud in mockery, <tips=91>Mr. Smith</tips> glared at him with a demonic expression."
+    },
+    {
+      "id": "X9:0288",
+      "i": 197,
+      "n": 288,
+      "sj": "",
+      "se": "",
+      "jp": "　その代わりに、<tips=89>ミスター・アーノルド</tips>が口を開いた。",
+      "en": "Instead, <tips=89>Mr. Arnold</tips> spoke."
+    },
+    {
+      "id": "X9:0289",
+      "i": 198,
+      "n": 289,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「いずれ<tips=10>道夫</tips>は我々<tips=21>八龍会</tips>の指導者になります。きみは昔のように<tips=10>道夫</tips>をサポートして、共に<tips=9>Y地区</tips>を率いて行くんですよ」",
+      "en": "One day, <tips=10>Michio</tips> will become the leader of our <tips=21>Dragon Club</tips>. You will support <tips=10>Michio</tips> as you did in the old days, and together you will lead <tips=9>Y District</tips>."
+    },
+    {
+      "id": "X9:0290",
+      "i": 199,
+      "n": 290,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「つまり<tips=7>ＹＳ</tips>は<tips=21>八龍会</tips>の支配下におさまれと？」",
+      "en": "In other words, <tips=7>YS</tips> is to submit to the <tips=21>Dragon Club</tips>?"
+    },
+    {
+      "id": "X9:0291",
+      "i": 200,
+      "n": 291,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「あくまでも我々の良きパートナーとして働いて欲しいというだけですよ。<tips=21>八龍会</tips>は<tips=17>タイプB</tips>以外の入会を認めていないですからね。その、きみたちギャングがやるような吸収とか、上下関係というものではありません」",
+      "en": "We merely want you to work as our valued partner. The <tips=21>Dragon Club</tips> admits no one who is not <tips=17>Type B</tips>. This is not absorption or a hierarchy of the kind you gangsters employ."
+    },
+    {
+      "id": "X9:0292",
+      "i": 201,
+      "n": 292,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「結局同じことだろう。よくそんな話が出来るものだと呆れるね」",
+      "en": "It amounts to the same thing. I am astonished you can make such a proposal with a straight face."
+    },
+    {
+      "id": "X9:0293",
+      "i": 202,
+      "n": 293,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は溜息をついて首を振る。",
+      "en": "<tips=1>Long</tips> sighed and shook his head."
+    },
+    {
+      "id": "X9:0294",
+      "i": 203,
+      "n": 294,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「勘違いしてはいけませんよ。<tips=7>ＹＳ</tips>が<tips=21>八龍会</tips>より強い力を持ったことなど一度もないのです。きみのお父さんもそれをよくわかっていて、実にお行儀が良かった……」",
+      "en": "Do not misunderstand. <tips=7>YS</tips> has never possessed more power than the <tips=21>Dragon Club</tips>. Your father understood that very well and behaved himself admirably..."
+    },
+    {
+      "id": "X9:0295",
+      "i": 204,
+      "n": 295,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>は青い目に憂いを浮かべて言う。",
+      "en": "<tips=89>Mr. Arnold</tips> spoke with sorrow in his blue eyes."
+    },
+    {
+      "id": "X9:0296",
+      "i": 205,
+      "n": 296,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「きみのお父さんは物事の順序というものをよくわきまえていました。それに比べると、きみは少しお行儀が悪すぎるようです。もしお父さんだったら、きみのように身内や年長者を次々と殺したりはしないでしょう。私たちはきみのその若さゆえのお行儀の悪さが少々気にかかっていましてね」",
+      "en": "Your father understood the proper order of things. By comparison, your behavior is rather too poor. Your father would never have killed his own people and elders one after another as you have. Your youthful lack of discipline concerns us somewhat."
+    },
+    {
+      "id": "X9:0297",
+      "i": 206,
+      "n": 297,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「私は何よりも争いごとがきらいでね。ただ将来の争いの種を排除しているだけなんだ。あなたたちとも争うつもりはない。妙な挑発はやめてもらおう」",
+      "en": "I dislike conflict above all else. I merely remove the seeds of future conflict. I have no wish to fight you either. Kindly stop these peculiar provocations."
+    },
+    {
+      "id": "X9:0298",
+      "i": 207,
+      "n": 298,
+      "sj": "ミスター・スミス",
+      "se": "Mr. Smith",
+      "jp": "「面白い冗談だ」",
+      "en": "An amusing joke."
+    },
+    {
+      "id": "X9:0299",
+      "i": 208,
+      "n": 299,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=91>ミスター・スミス</tips>はそう言って笑う。",
+      "en": "<tips=91>Mr. Smith</tips> laughed."
+    },
+    {
+      "id": "X9:0300",
+      "i": 209,
+      "n": 300,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「私たちも、<tips=7>ＹＳ</tips>と争うつもりなんか全然ないんだヨ」",
+      "en": "We have absolutely no intention of fighting <tips=7>YS</tips> either."
+    },
+    {
+      "id": "X9:0301",
+      "i": 210,
+      "n": 301,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>はにこやかなままだった。",
+      "en": "<tips=90>Mr. Chen</tips> remained all smiles."
+    },
+    {
+      "id": "X9:0302",
+      "i": 211,
+      "n": 302,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「ただほんのちょっと、我々にとって便利な存在になってくれないかと思ってネ」",
+      "en": "We merely thought you might make yourself a little more useful to us."
+    },
+    {
+      "id": "X9:0303",
+      "i": 212,
+      "n": 303,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>謝亮</tips>はそれにはこたえない。無言で立ち上がると、",
+      "en": "<tips=1>Tse Long</tips> did not answer. He rose in silence."
+    },
+    {
+      "id": "X9:0304",
+      "i": 213,
+      "n": 304,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「時間の無駄だったようだ。失礼する」",
+      "en": "It seems this was a waste of time. Excuse me."
+    },
+    {
+      "id": "X9:0306",
+      "i": 214,
+      "n": 306,
+      "sj": "",
+      "se": "",
+      "jp": "　そして部屋のドアへ歩き始めたのだが、",
+      "en": "He began walking toward the door."
+    },
+    {
+      "id": "X9:0307",
+      "i": 215,
+      "n": 307,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「きみのお母さんは<tips=17>タイプＢ</tips>でしたね」",
+      "en": "Your mother was <tips=17>Type B</tips>, was she not?"
+    },
+    {
+      "id": "X9:0308",
+      "i": 216,
+      "n": 308,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=89>ミスター・アーノルド</tips>の言葉で足を止める。",
+      "en": "<tips=89>Mr. Arnold</tips>'s words stopped him."
+    },
+    {
+      "id": "X9:0309",
+      "i": 217,
+      "n": 309,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「そして、きみの妹さんも<tips=17>タイプＢ</tips>だと聞いています」",
+      "en": "And I hear your younger sister is <tips=17>Type B</tips> as well."
+    },
+    {
+      "id": "X9:0311",
+      "i": 218,
+      "n": 311,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は振り返って<tips=89>ミスター・アーノルド</tips>を睨み付ける。今日来てから彼が見せた表情のうちで、あきらかに最も感情のこもった表情だ。",
+      "en": "<tips=1>Long</tips> turned and glared at <tips=89>Mr. Arnold</tips>. It was plainly the most emotion he had shown since arriving."
+    },
+    {
+      "id": "X9:0312",
+      "i": 219,
+      "n": 312,
+      "sj": "ミスター・アーノルド",
+      "se": "Mr. Arnold",
+      "jp": "「我々<tips=21>八龍会</tips>は、きみの妹さんのことはいつだって受け入れますよ。その方が、<tips=17>タイプＢ</tips>として確かな人生を送っていけるでしょう。それに、もしきみが今後<tips=17>タイプＢ</tips>になったとしても、遠慮なく相談してください。同じ血をうけたきみにもその可能性はあるわけですからね。……そして、その時は我々もきみのことを新しい家族として歓迎するでしょう」",
+      "en": "Our <tips=21>Dragon Club</tips> will always welcome your sister. With us, she can live a secure life as <tips=17>Type B</tips>. And should you develop into <tips=17>Type B</tips> in the future, do not hesitate to consult us. You share the same blood, so the possibility exists... When that day comes, we will welcome you as a new member of our family as well."
+    },
+    {
+      "id": "X9:0313",
+      "i": 220,
+      "n": 313,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はそう言って微笑を浮かべる<tips=89>ミスター・アーノルド</tips>をしばらく睨み付けた後、",
+      "en": "<tips=1>Long</tips> stared for several moments at the smiling <tips=89>Mr. Arnold</tips>."
+    },
+    {
+      "id": "X9:0314",
+      "i": 221,
+      "n": 314,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「失礼」",
+      "en": "Excuse me."
+    },
+    {
+      "id": "X9:0315",
+      "i": 222,
+      "n": 315,
+      "sj": "",
+      "se": "",
+      "jp": "　とだけ言ってその場を後にした。",
+      "en": "With only those words, he left."
+    },
+    {
+      "id": "X9:0318",
+      "i": 223,
+      "n": 318,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>の姿が見えなくなると、<tips=10>道夫</tips>はそれまでたまっていたものを吐き出すように溜息をつく。",
+      "en": "Once <tips=1>Long</tips> disappeared from sight, <tips=10>Michio</tips> released a sigh as though expelling everything he had held inside."
+    },
+    {
+      "id": "X9:0319",
+      "i": 224,
+      "n": 319,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は、この場では一言も言葉を発さなかった。口を挟みたい場面もあったが、裏社会の出来事に対して、どんな形での関与も嫌ったのである。",
+      "en": "He had not spoken a single word during the meeting. There were moments when he wanted to intervene, but he loathed becoming involved in underworld affairs in any form."
+    },
+    {
+      "id": "X9:0320",
+      "i": 225,
+      "n": 320,
+      "sj": "",
+      "se": "",
+      "jp": "　しかし会合がこうして終わってみると、何か口を出すべきだったかもしれないといくらか後悔をしていた。",
+      "en": "Now that the meeting had ended this way, however, he somewhat regretted not saying something."
+    },
+    {
+      "id": "X9:0321",
+      "i": 226,
+      "n": 321,
+      "sj": "",
+      "se": "",
+      "jp": "　今話されたことは彼にとってこの場で初めて知る新事実ばかりだったが、<tips=22>老人たち</tips>がこのようなことを考え、実行しているとは思わなかった。",
+      "en": "Everything discussed had been new information to him. He had never imagined the <tips=22>Elders</tips> were thinking or acting this way."
+    },
+    {
+      "id": "X9:0322",
+      "i": 227,
+      "n": 322,
+      "sj": "",
+      "se": "",
+      "jp": "　まさか<tips=7>ＹＳ</tips>を公然と非難し、しかもこの様に<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>に直接要求までするとは。",
+      "en": "They had openly condemned <tips=7>YS</tips> and even made demands directly of the <tips=81>Longtou</tips> of <tips=7>YS</tips>."
+    },
+    {
+      "id": "X9:0323",
+      "i": 228,
+      "n": 323,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=7>ＹＳ</tips>の代が変わって揉めているのは知っているが、<tips=21>八龍会</tips>までもその火中に飛び込もうとしているとは。",
+      "en": "He knew the transition within <tips=7>YS</tips> had caused turmoil, but had never expected the <tips=21>Dragon Club</tips> to leap into the flames as well."
+    },
+    {
+      "id": "X9:0324",
+      "i": 229,
+      "n": 324,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「驚いたかい？」",
+      "en": "Surprised?"
+    },
+    {
+      "id": "X9:0325",
+      "i": 230,
+      "n": 325,
+      "sj": "",
+      "se": "",
+      "jp": "　他の二人は別室に休憩をしに行ってしまったが、一番喋った<tips=90>ミスター・チェン</tips>だけがその場に残り、自動卓の牌を取り出して一人遊びを始めていた。",
+      "en": "The other two had gone to rest in another room, but <tips=90>Mr. Chen</tips>, who had done most of the talking, remained. He removed tiles from the automatic table and began playing solitaire with them."
+    },
+    {
+      "id": "X9:0326",
+      "i": 231,
+      "n": 326,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そりゃ驚きますよ。ギャングとはずっとつかず離れずのポジションで行くんじゃなかったんですか？」",
+      "en": "Of course I'm surprised. Weren't we supposed to keep the gangs at arm's length?"
+    },
+    {
+      "id": "X9:0327",
+      "i": 232,
+      "n": 327,
+      "sj": "",
+      "se": "",
+      "jp": "　考え込んでしまって帰るタイミングを失っていた<tips=10>道夫</tips>はそう答えた。",
+      "en": "Having lost the right moment to leave while he sat thinking, <tips=10>Michio</tips> answered."
+    },
+    {
+      "id": "X9:0328",
+      "i": 233,
+      "n": 328,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「ほっほっほ、それは今まで結果的にそうなっていただけなんだよ。<tips=3>クリス</tips>がボスの時は手を出しにくかったからね」",
+      "en": "Ho ho ho. That was merely how circumstances worked out until now. It was difficult to interfere while <tips=3>Chris</tips> was boss."
+    },
+    {
+      "id": "X9:0329",
+      "i": 234,
+      "n": 329,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「お家騒動で弱体化してるから、チャンスと見たわけですか」",
+      "en": "So you saw an opportunity because their internal struggle weakened them."
+    },
+    {
+      "id": "X9:0330",
+      "i": 235,
+      "n": 330,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「それもある。が、それだけじゃない。……なあ<tips=10>道夫</tips>、この街は昔に比べて良くなったと思うかい？　悪くなったと思うかい？」",
+      "en": "That is part of it, but not all... Tell me, <tips=10>Michio</tips>, do you think this town has grown better or worse than it once was?"
+    },
+    {
+      "id": "X9:0331",
+      "i": 236,
+      "n": 331,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>はそう言って、じっと<tips=10>道夫</tips>の表情をうかがう。",
+      "en": "<tips=90>Mr. Chen</tips> studied <tips=10>Michio</tips>'s expression intently."
+    },
+    {
+      "id": "X9:0332",
+      "i": 237,
+      "n": 332,
+      "sj": "",
+      "se": "",
+      "jp": "　その質問には何らかの罠がありそうな予感もしたが、<tips=10>道夫</tips>は気にせず思った通りの回答を口にした。",
+      "en": "Sensing some trap in the question, <tips=10>Michio</tips> nevertheless answered honestly."
+    },
+    {
+      "id": "X9:0333",
+      "i": 238,
+      "n": 333,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そりゃ良くなったでしょうよ。治安が良くなり<tips=57>滑走路通り</tips>には誰でも気軽に足を踏み入れられるようになった。人種やギャング同士の対立も減った。景気も良くなって、おかしな死に方をするものも減った。まだまだ足りないところはありますが、昔よりは確実に良くなっている」",
+      "en": "Better, obviously. Public safety has improved, and anyone can walk down <tips=57>Runway Street</tips> without fear. Conflict between races and gangs has declined. The economy is stronger, and fewer people die strange deaths. There is still plenty to improve, but things are unquestionably better than before."
+    },
+    {
+      "id": "X9:0334",
+      "i": 239,
+      "n": 334,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「オッホッホ、浅いのう」",
+      "en": "Ohoho! How shallow."
+    },
+    {
+      "id": "X9:0335",
+      "i": 240,
+      "n": 335,
+      "sj": "",
+      "se": "",
+      "jp": "　案の定<tips=90>ミスター・チェン</tips>は小馬鹿にしたように笑う。",
+      "en": "As expected, <tips=90>Mr. Chen</tips> laughed at him contemptuously."
+    },
+    {
+      "id": "X9:0336",
+      "i": 241,
+      "n": 336,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「どう浅いって言うんですか」",
+      "en": "What is shallow about it?"
+    },
+    {
+      "id": "X9:0337",
+      "i": 242,
+      "n": 337,
+      "sj": "",
+      "se": "",
+      "jp": "　否定されるのは言う前からわかってはいたが、やはり腹立たしく、<tips=10>道夫</tips>はしかめっ面になった。",
+      "en": "He had known before speaking that Chen would reject his answer, but it still irritated him, and <tips=10>Michio</tips> scowled."
+    },
+    {
+      "id": "X9:0338",
+      "i": 243,
+      "n": 338,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「お前の言ってることは、全部ノーマルや<tips=16>タイプA</tips>の世界のことだ。我々龍の血を引く者たちには当てはまらない」",
+      "en": "Everything you describe concerns the world of Normals and <tips=16>Type A</tips>. It does not apply to those of us who bear the blood of dragons."
+    },
+    {
+      "id": "X9:0339",
+      "i": 244,
+      "n": 339,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「治安が良くなったり、活気づくのは誰にとってもいいことでしょうよ」",
+      "en": "Better safety and prosperity benefit everyone."
+    },
+    {
+      "id": "X9:0340",
+      "i": 245,
+      "n": 340,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「違う」",
+      "en": "No."
+    },
+    {
+      "id": "X9:0341",
+      "i": 246,
+      "n": 341,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>の語調は思いの外に強かった。",
+      "en": "<tips=90>Mr. Chen</tips>'s tone was unexpectedly forceful."
+    },
+    {
+      "id": "X9:0342",
+      "i": 247,
+      "n": 342,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「かつてこの街が荒れ果てていたころ、我々はこの優れた肉体によって一定の地位を得ていた。しかし、平和になれば我々はただの厄介ものに過ぎない。さらに、金と一緒によそ者が沢山この街に入り込み、そしてよそ者の価値観が流れ込んできた。よそ者たちは我々を出来損ないとしか思っていない」",
+      "en": "When this town lay in ruins, our superior bodies earned us a certain status. In peace, we are merely nuisances. Money has drawn countless outsiders into town, and their values have flowed in with them. Those outsiders see us as nothing but defects."
+    },
+    {
+      "id": "X9:0343",
+      "i": 248,
+      "n": 343,
+      "sj": "",
+      "se": "",
+      "jp": "　それは、<tips=10>道夫</tips>にも否定が出来ない事実だ。",
+      "en": "It was a truth even <tips=10>Michio</tips> could not deny."
+    },
+    {
+      "id": "X9:0344",
+      "i": 249,
+      "n": 344,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「……ここには子供たちがよく遊びに来るが、昔よりもいじめが増えているようだネ。いくら平和になっても、栄えても、尊厳が踏みにじられ、いわれなく子供がいじめられるような街が良い街だと思うか？　子供だけではない。どこへ行っても、金色の目を見られたらもうおしまいだ。昔はそんなことはなかったというのに……」",
+      "en": "...Children often come here to play, but bullying seems more common than before. However peaceful and prosperous a town may be, can you call it good when dignity is trampled and children are bullied through no fault of their own? And not only children. Wherever you go, the moment someone sees your golden eyes, it is over. It was never like that in the old days..."
+    },
+    {
+      "id": "X9:0345",
+      "i": 250,
+      "n": 345,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は溜息をつき、首を左右に振る。",
+      "en": "He sighed and shook his head."
+    },
+    {
+      "id": "X9:0346",
+      "i": 251,
+      "n": 346,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「尊厳を踏みにじられたら生きてはいけないのだよ。お前は、無垢な瞳でどうして人間扱いされないのかと問う子供に、金のために我慢しろと言えるかい？」",
+      "en": "A person cannot live when stripped of dignity. Could you tell a child who asks with innocent eyes why no one treats them as human to endure it for the sake of money?"
+    },
+    {
+      "id": "X9:0347",
+      "i": 252,
+      "n": 347,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は普段笑ってばかりの顔に、別人のようなすさまじい怒りを浮かべている。",
+      "en": "The face of <tips=90>Mr. Chen</tips>, ordinarily forever laughing, now held the terrible fury of a different man."
+    },
+    {
+      "id": "X9:0348",
+      "i": 253,
+      "n": 348,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「言ってることはわかりますが、大げさだな。今だって、街の外よりはずっと居心地の良い場所です。普通に楽しく暮らしてる<tips=17>タイプB</tips>もたくさんいる。よそから来た人が驚くくらいですよ」",
+      "en": "I understand what you're saying, but you're exaggerating. Even now, this town is far more comfortable than anywhere outside. Plenty of <tips=17>Type B</tips> people live ordinary, happy lives here. Visitors are surprised by how many."
+    },
+    {
+      "id": "X9:0349",
+      "i": 254,
+      "n": 349,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は困って溜息をついた。",
+      "en": "<tips=10>Michio</tips> sighed in frustration."
+    },
+    {
+      "id": "X9:0350",
+      "i": 255,
+      "n": 350,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「……だから、おれだって頑張ってるんですよ。<tips=17>タイプB</tips>でも誇りを持って働ける場所を作りたくて、今の仕事をやってるんだ」",
+      "en": "...That's exactly why I'm working so hard. I'm doing this because I want to create a place where <tips=17>Type B</tips> people can work with pride."
+    },
+    {
+      "id": "X9:0351",
+      "i": 256,
+      "n": 351,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「それがやくたいもないと言っている」",
+      "en": "And I am telling you that work is pointless."
+    },
+    {
+      "id": "X9:0352",
+      "i": 257,
+      "n": 352,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>がきっぱり言うと、<tips=10>道夫</tips>はむっとして顔を顰める。",
+      "en": "When <tips=90>Mr. Chen</tips> declared it flatly, <tips=10>Michio</tips> frowned in anger."
+    },
+    {
+      "id": "X9:0353",
+      "i": 258,
+      "n": 353,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「なあ<tips=10>道夫</tips>。我々は混沌のなかでしか生きられないのだよ。ノーマルの作り出す秩序は結局いわれのない差別を生み出す。……こんなことなら、<tips=7>ＹＳ</tips>に加担して<tips=18>ローズ・クラブ</tips>や<tips=68>木下組</tips>を追い出すのではなかった」",
+      "en": "Listen, <tips=10>Michio</tips>. We can live only within chaos. The order Normals create inevitably breeds groundless discrimination... We should never have helped <tips=7>YS</tips> drive out the <tips=18>Rose Club</tips> and the <tips=68>Kinoshita-gumi</tips>."
+    },
+    {
+      "id": "X9:0354",
+      "i": 259,
+      "n": 354,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はその考えには賛同出来ないが、口には出さなかった。",
+      "en": "<tips=10>Michio</tips> could not agree, but said nothing."
+    },
+    {
+      "id": "X9:0355",
+      "i": 260,
+      "n": 355,
+      "sj": "",
+      "se": "",
+      "jp": "　今<tips=90>ミスター・チェン</tips>が話している価値観は、彼だけでなく他の<tips=22>老人たち</tips>にも共有されている、いわば<tips=21>八龍会</tips>の核心的な思想と言って良い。<tips=10>道夫</tips>も形をかえて、何度も繰り返し聞かされていた。",
+      "en": "The values <tips=90>Mr. Chen</tips> expressed were shared by the other <tips=22>Elders</tips>. They could be called the central doctrine of the <tips=21>Dragon Club</tips>. <tips=10>Michio</tips> had heard them repeated many times in different forms."
+    },
+    {
+      "id": "X9:0356",
+      "i": 261,
+      "n": 356,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「<tips=7>ＹＳ</tips>があまりにも大きくなりすぎて、どうにも出来なかった。しかし、今は<tips=46>ネオ・ローズ</tips>がある。これがあれば我々はノーマルや<tips=16>タイプA</tips>どもに全く劣らないどころか、彼らより優れた存在となる。ついにチャンスが訪れたんだよ」",
+      "en": "<tips=7>YS</tips> grew too large for us to do anything. But now we have <tips=46>Neo-Rose</tips>. With it, we will not merely equal Normals and <tips=16>Type A</tips>—we will surpass them. At last, our opportunity has come."
+    },
+    {
+      "id": "X9:0357",
+      "i": 262,
+      "n": 357,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>は目をぎらぎらさせてそう言った。",
+      "en": "<tips=90>Mr. Chen</tips>'s eyes glittered as he spoke."
+    },
+    {
+      "id": "X9:0358",
+      "i": 263,
+      "n": 358,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そういったよくわからないものを過信するのもどうかと思いますがね」",
+      "en": "I don't know if you should put so much faith in something so poorly understood."
+    },
+    {
+      "id": "X9:0359",
+      "i": 264,
+      "n": 359,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「お前はまだそんなことを言うのか？　<tips=10>道夫</tips>、我々は生まれたままでは生きてはいけない存在なんだよ。何らかの方法で欠点を克服しなければ、ノーマルや<tips=16>タイプＡ</tips>と同じスタート地点に立つことも出来ない」",
+      "en": "Do you still say such things? <tips=10>Michio</tips>, we are beings unable to live as we were born. Unless we overcome our defects somehow, we cannot even stand at the same starting line as Normals and <tips=16>Type A</tips>."
+    },
+    {
+      "id": "X9:0360",
+      "i": 265,
+      "n": 360,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「その考えは否定するわけじゃないですが……」",
+      "en": "I don't deny that, but..."
+    },
+    {
+      "id": "X9:0361",
+      "i": 266,
+      "n": 361,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が言葉を濁すのが、<tips=90>ミスター・チェン</tips>には不本意なようだった。",
+      "en": "<tips=90>Mr. Chen</tips> appeared dissatisfied with <tips=10>Michio</tips>'s evasive answer."
+    },
+    {
+      "id": "X9:0362",
+      "i": 267,
+      "n": 362,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「そんな考え方じゃこまる」",
+      "en": "That attitude will not do."
+    },
+    {
+      "id": "X9:0363",
+      "i": 268,
+      "n": 363,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は溜息をついて、",
+      "en": "He sighed."
+    },
+    {
+      "id": "X9:0364",
+      "i": 269,
+      "n": 364,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「そうか、親友の<tips=1>謝亮</tips>と敵対するのがいやなんじゃないか？」",
+      "en": "Ah, perhaps you dislike the idea of opposing your dear friend <tips=1>Tse Long</tips>?"
+    },
+    {
+      "id": "X9:0365",
+      "i": 270,
+      "n": 365,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「勿論それはあります」",
+      "en": "Of course that's part of it."
+    },
+    {
+      "id": "X9:0366",
+      "i": 271,
+      "n": 366,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「気持ちはわかる。お前は友人を大切にするものな。それはとても素晴らしい美徳だ。しかし、<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>となった以上、彼の存在はお前の友人であるというだけでは済まない、重大な意味を持ちすぎてしまったんだ」",
+      "en": "I understand. You treasure your friends. That is a wonderful virtue. But now that he is <tips=81>Longtou</tips> of <tips=7>YS</tips>, his existence carries far too much significance for him to be merely your friend."
+    },
+    {
+      "id": "X9:0367",
+      "i": 272,
+      "n": 367,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「それも、わかってます」",
+      "en": "I understand that too."
+    },
+    {
+      "id": "X9:0368",
+      "i": 273,
+      "n": 368,
+      "sj": "ミスター・チェン",
+      "se": "Mr. Chen",
+      "jp": "「そうだろう。まあ、まずはあの小せがれのお手なみ拝見といったところだな。彼はまだ組織をまとめきっておらず、さらに今、我々という心配事まで増えた。なかなか忙しい局面だ。お前もよく見ておけ。彼から学べるところは学ぶんだ」",
+      "en": "Naturally. For now, we shall see what that little whelp can do. He has not yet brought his organization fully under control, and now he has us to worry about as well. It is a busy moment for him. Watch closely. Learn whatever you can from him."
+    },
+    {
+      "id": "X9:0369",
+      "i": 274,
+      "n": 369,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=90>ミスター・チェン</tips>はそう言うと、手元に視線を落として一人遊びの続きを行う。その表情からはさきほどの怒りは完全に消えて、いつも通りのおどけた笑みが浮かんでいる。",
+      "en": "With that, <tips=90>Mr. Chen</tips> lowered his eyes to his hands and resumed arranging tiles alone. The anger had vanished entirely from his face, replaced by his usual clownish smile."
+    },
+    {
+      "id": "X9:0371",
+      "i": 275,
+      "n": 371,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は黙っていた。彼が危惧しているのは友人の<tips=1>亮</tips>が敵にまわるという、それだけではなかった。",
+      "en": "<tips=10>Michio</tips> remained silent. He was concerned about more than his friend <tips=1>Long</tips> becoming an enemy."
+    },
+    {
+      "id": "X9:0372",
+      "i": 276,
+      "n": 372,
+      "sj": "",
+      "se": "",
+      "jp": "　今回の判断そのものに対して、強い疑念がある。",
+      "en": "He harbored serious doubts about this decision itself."
+    },
+    {
+      "id": "X9:0373",
+      "i": 277,
+      "n": 373,
+      "sj": "",
+      "se": "",
+      "jp": "　このような、<tips=22>老人たち</tips>のきなくさい行動は、<tips=21>八龍会</tips>のすべての会員が受け入れられるというようなものではないだろう。その多くは平凡に暮らす市民なのだ。",
+      "en": "The <tips=22>Elders</tips>' ominous actions could hardly be acceptable to every member of the <tips=21>Dragon Club</tips>. Most were ordinary citizens."
+    },
+    {
+      "id": "X9:0374",
+      "i": 278,
+      "n": 374,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=7>ＹＳ</tips>のような過激なギャングたちと対立などして、抗争に身を投じるのをよしとするものばかりではないはずだ。このようなことを推し進めれば、八龍会自体に混乱が生まれる。いくらある程度の混沌が必要だとしても、<tips=21>八龍会</tips>のなかで乱れていたらどうにもならない。",
+      "en": "Surely not all of them wanted to oppose violent gangsters like <tips=7>YS</tips> and plunge into a gang war. Pursuing this course would create turmoil within the Dragon Club itself. Some chaos might be necessary, but chaos inside the <tips=21>Dragon Club</tips> would help no one."
+    },
+    {
+      "id": "X9:0375",
+      "i": 279,
+      "n": 375,
+      "sj": "",
+      "se": "",
+      "jp": "　そんなこと、<tips=10>道夫</tips>が言わずとも<tips=22>老人たち</tips>だって理解しているはずなのだ。",
+      "en": "The <tips=22>Elders</tips> surely understood that without <tips=10>Michio</tips> having to tell them."
+    },
+    {
+      "id": "X9:0376",
+      "i": 280,
+      "n": 376,
+      "sj": "",
+      "se": "",
+      "jp": "　あまり考えたくはなかったが、彼らはただ焦っているのではないだだろうか？",
+      "en": "He disliked considering it, but were they simply panicking?"
+    },
+    {
+      "id": "X9:0377",
+      "i": 281,
+      "n": 377,
+      "sj": "",
+      "se": "",
+      "jp": "　それは老いによる衰えか、<tips=17>タイプB</tips>の発症が近づいているのか。",
+      "en": "Was it the decline of age, or the approach of their <tips=17>Type B</tips> symptoms?"
+    },
+    {
+      "id": "X9:0378",
+      "i": 282,
+      "n": 378,
+      "sj": "",
+      "se": "",
+      "jp": "　とにかく何か追い詰められていて、こんな性急な方法を選ぼうとしているように思えてならない。",
+      "en": "He could not escape the feeling that something had driven them into a corner and made them choose such a hasty course."
+    },
+    {
+      "id": "X9:0379",
+      "i": 283,
+      "n": 379,
+      "sj": "",
+      "se": "",
+      "jp": "（いや、何かおれにわからない考えがあるのだろう）",
+      "en": "(No. They must see something I don't.)"
+    },
+    {
+      "id": "X9:0380",
+      "i": 284,
+      "n": 380,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は頭を掻いて、心の中で一人呟く。",
+      "en": "<tips=10>Michio</tips> scratched his head and murmured inwardly."
+    },
+    {
+      "id": "X9:0381",
+      "i": 285,
+      "n": 381,
+      "sj": "",
+      "se": "",
+      "jp": "　そして憂鬱に黙り込んでしまうと、ふと、背後で誰かが呼んだような気がして後ろを振り向いた。",
+      "en": "As he sank into gloomy silence, he suddenly thought someone had called from behind and turned around."
+    },
+    {
+      "id": "X9:0382",
+      "i": 286,
+      "n": 382,
+      "sj": "",
+      "se": "",
+      "jp": "　しかしそこには誰もいない。確かに、自分を呼ぶかすれた女の声が聞こえたのに。",
+      "en": "No one was there. Yet he had distinctly heard a hoarse woman's voice calling him."
+    },
+    {
+      "id": "X9:0383",
+      "i": 287,
+      "n": 383,
+      "sj": "",
+      "se": "",
+      "jp": "（疲れてるのかな）",
+      "en": "(Am I tired?)"
+    },
+    {
+      "id": "X9:0384",
+      "i": 288,
+      "n": 384,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は溜息をつき、椅子に背中をもたれさせる。",
+      "en": "<tips=10>Michio</tips> sighed and leaned back in his chair."
+    },
+    {
+      "id": "X9:0385",
+      "i": 289,
+      "n": 385,
+      "sj": "",
+      "se": "",
+      "jp": "　そして眠そうな目で、背中を丸めてしわしわのやせ細った指先で一つ一つ麻雀牌を並べる<tips=90>ミスター・チェン</tips>の姿を眺め続けた。",
+      "en": "With sleepy eyes, he continued watching <tips=90>Mr. Chen</tips> hunch over the table and arrange the mahjong tiles one by one with his thin, wrinkled fingers."
+    }
+  ]
+}

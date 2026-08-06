@@ -1,0 +1,3881 @@
+{
+  "chapter": {
+    "slug": "X10",
+    "title": "X10",
+    "part": "X",
+    "translatedLines": 430,
+    "totalLines": 430
+  },
+  "lines": [
+    {
+      "id": "X10:0010",
+      "i": 1,
+      "n": 10,
+      "sj": "",
+      "se": "",
+      "jp": "　まっすぐと伸びた通路の左右にいくつものドアが並んでいる。",
+      "en": "Doors lined both sides of a long, straight corridor."
+    },
+    {
+      "id": "X10:0011",
+      "i": 2,
+      "n": 11,
+      "sj": "",
+      "se": "",
+      "jp": "　天井にも壁にもくすみやシミが目立つ汚れた内装。窓はなく、天井の薄暗い照明がなければ一筋の光も差さない。そして静まりかえっている。",
+      "en": "The dingy interior showed discoloration and stains across its walls and ceiling. There were no windows; without the dim ceiling lights, not a single ray would enter. Everything was silent."
+    },
+    {
+      "id": "X10:0012",
+      "i": 3,
+      "n": 12,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>と<tips=28>トーマス・リャオ</tips>はこの人気のない通路で、壁に張り付くようにして並んで立っていた。",
+      "en": "<tips=29>Ice</tips> and <tips=28>Thomas Liao</tips> stood side by side in the deserted corridor, pressing themselves against the wall."
+    },
+    {
+      "id": "X10:0013",
+      "i": 4,
+      "n": 13,
+      "sj": "",
+      "se": "",
+      "jp": "　二人の手はしっかりと握られている。",
+      "en": "Their hands were clasped tightly."
+    },
+    {
+      "id": "X10:0014",
+      "i": 5,
+      "n": 14,
+      "sj": "",
+      "se": "",
+      "jp": "　奥から足音がして、Tシャツ姿の屈強な男がやって来る。彼の腰には大口径の拳銃が牛革のホルスターで吊られている。いくら治安の悪いこの街でも、このように銃器を剥き出しにして歩いているのは普通ではない。",
+      "en": "Footsteps approached from deeper within. A powerful man in a T-shirt appeared, a large-caliber handgun hanging at his waist in a cowhide holster. Even in this dangerous town, openly carrying a firearm like that was unusual."
+    },
+    {
+      "id": "X10:0015",
+      "i": 6,
+      "n": 15,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は二人の目の前まで来て、そして視線をやることもなくそのまま通り過ぎ、二人のすぐ横にあるエレベーターに乗り込む。",
+      "en": "He came directly toward them, passed without so much as a glance, and entered the elevator beside them."
+    },
+    {
+      "id": "X10:0016",
+      "i": 7,
+      "n": 16,
+      "sj": "",
+      "se": "",
+      "jp": "　男の目には二人の姿は映っていない。アイスが透明化の能力を使っているのだ。",
+      "en": "The man could not see them. Ice was using her power of invisibility."
+    },
+    {
+      "id": "X10:0017",
+      "i": 8,
+      "n": 17,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女はしっかりと両目を閉じ、そして二人とも黙っている。",
+      "en": "Her eyes were firmly closed, and both remained silent."
+    },
+    {
+      "id": "X10:0018",
+      "i": 9,
+      "n": 18,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>が目を開いたり、二人のどちらかが言葉を発すれば能力は解除されてしまう。つまり、言葉やアイコンタクトで意思の疎通を行うことが出来ないということだ。",
+      "en": "If <tips=29>Ice</tips> opened her eyes or either of them spoke, the ability would end. In other words, they could communicate neither verbally nor through eye contact."
+    },
+    {
+      "id": "X10:0019",
+      "i": 10,
+      "n": 19,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はこの通路の奥に行きたかった。",
+      "en": "<tips=28>Thomas</tips> wanted to proceed farther down the corridor."
+    },
+    {
+      "id": "X10:0020",
+      "i": 11,
+      "n": 20,
+      "sj": "",
+      "se": "",
+      "jp": "　しかし、通路の向こうの隅にどうやら監視カメラが仕掛けられている。<tips=29>アイス</tips>の能力は肉眼からはその姿を消すことが出来るが、機械の目には効果がなく、カメラを通すとはっきりとその姿が見えてしまう。だから、カメラの視界に入らぬよう、こうして壁の出っ張りの内側に隠れているのだ。",
+      "en": "But there appeared to be a security camera mounted in a corner at the far end. <tips=29>Ice</tips>'s ability could hide them from the naked eye, but it did not affect machines. A camera would capture them clearly. They therefore remained hidden behind a projection in the wall, outside its field of view."
+    },
+    {
+      "id": "X10:0021",
+      "i": 12,
+      "n": 21,
+      "sj": "",
+      "se": "",
+      "jp": "　どこかしらのドアの向こうで、ガタガタと物音がし、誰かが囁き声をあげた。",
+      "en": "Something rattled behind one of the doors, and someone whispered."
+    },
+    {
+      "id": "X10:0022",
+      "i": 13,
+      "n": 22,
+      "sj": "",
+      "se": "",
+      "jp": "　ここは<tips=9>Y地区</tips>の外れに建てられたホテルだった。",
+      "en": "This was a hotel built on the outskirts of <tips=9>Y District</tips>."
+    },
+    {
+      "id": "X10:0023",
+      "i": 14,
+      "n": 23,
+      "sj": "",
+      "se": "",
+      "jp": "　といっても、普通のホテルではなく、いわゆるラブホテルとかブティックホテルというやつである。",
+      "en": "It was no ordinary hotel, but the kind called a love hotel or boutique hotel."
+    },
+    {
+      "id": "X10:0024",
+      "i": 15,
+      "n": 24,
+      "sj": "",
+      "se": "",
+      "jp": "　男女が、あるいは男同士や女同士がその密やかな楽しみの行為を行うというのが本来の使い方なのだろうが、この街では殺人現場になったり、不法滞在者のたまり場になっていたり、麻薬の回し打ちが行われていたりと、実に用途の幅が広い。",
+      "en": "Its intended use was presumably for secret pleasures between men and women, two men, or two women. In this town, however, such hotels served an impressive range of purposes: murder scenes, gathering places for illegal residents, venues for sharing narcotics, and much else."
+    },
+    {
+      "id": "X10:0025",
+      "i": 16,
+      "n": 25,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>たちがいるこのホテルも、今現在そのような特別な用途に使われているようだ。",
+      "en": "The hotel where <tips=28>Thomas</tips> now stood appeared to be serving one such special purpose."
+    },
+    {
+      "id": "X10:0026",
+      "i": 17,
+      "n": 26,
+      "sj": "",
+      "se": "",
+      "jp": "　普通のラブホテルには、銃を剥き出しにした男が部屋に出たり入ったりしてはいないし、あんなふうに目立つ場所に監視カメラがついていたりはしない。盗撮用のカメラが仕掛けられていることはあるが、そういったものは客室の目立たぬ場所に隠されているものだ。そもそも、このホテルでも別の階にはこのようなカメラは設置されていないのだ。この階だけ、このような装置が仕掛けられている。",
+      "en": "Ordinary love hotels did not have men with exposed guns entering and leaving rooms, nor did they mount security cameras in conspicuous places like that one. Hidden cameras might be concealed in discreet corners of guest rooms, but those were another matter. Indeed, this hotel had no such visible cameras on any other floor. Only this floor had been fitted with them."
+    },
+    {
+      "id": "X10:0027",
+      "i": 18,
+      "n": 27,
+      "sj": "",
+      "se": "",
+      "jp": "　出入りする人間を厳しくチェックしなくてはならない何かが、この階にはあるということだ。",
+      "en": "Something on this floor required strict monitoring of everyone who entered or left."
+    },
+    {
+      "id": "X10:0028",
+      "i": 19,
+      "n": 28,
+      "sj": "",
+      "se": "",
+      "jp": "　もし、あのカメラの映像に<tips=7>ＹＳ</tips>幹部<tips=28>トーマス・リャオ</tips>の姿が残って、それを誰かが見ることになればいらぬ騒ぎになる可能性がある。",
+      "en": "If that camera recorded <tips=28>Thomas Liao</tips>, a senior officer of <tips=7>YS</tips>, and someone later saw the footage, it could cause needless trouble."
+    },
+    {
+      "id": "X10:0029",
+      "i": 20,
+      "n": 29,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は迷っていた。",
+      "en": "<tips=28>Thomas</tips> hesitated."
+    },
+    {
+      "id": "X10:0030",
+      "i": 21,
+      "n": 30,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は場数を踏んだ人間ではない。彼はギャングの息子であるという素性からは考えられぬほどまっとうに生きて来た。",
+      "en": "He was not a man seasoned by dangerous situations. Despite being the son of a gangster, he had lived an almost impossibly honest life."
+    },
+    {
+      "id": "X10:0031",
+      "i": 22,
+      "n": 31,
+      "sj": "",
+      "se": "",
+      "jp": "　万引きをしたこともなければ、学校を休むのにうその理由を口にしたこともなく、財布が落ちていれば中身も見ずに交番に届けてしまうような、こんな若者が今時いるだろうか。その財布を届けられた警官が自分のポケットにしまいこんでしまうような世の中なのである。",
+      "en": "He had never shoplifted, never lied to excuse an absence from school, and would deliver a lost wallet to a police box without even looking inside. Did young men like that still exist? This was a world where the police officer receiving the wallet might simply pocket it."
+    },
+    {
+      "id": "X10:0032",
+      "i": 23,
+      "n": 32,
+      "sj": "",
+      "se": "",
+      "jp": "　だから人を騙したり裏をかいたりというこの世界の人間なら誰でも身につけているはずのテクニックに欠けている。彼もそうした自分をよく自覚している。",
+      "en": "Consequently, he lacked the skills of deception and outmaneuvering others that everyone in this world was expected to possess. He knew this failing well."
+    },
+    {
+      "id": "X10:0033",
+      "i": 24,
+      "n": 33,
+      "sj": "",
+      "se": "",
+      "jp": "　だから、このように忍び込むといった場面で、リスクを適切に評価する自信がなかった。",
+      "en": "In a situation involving infiltration, he had no confidence in his ability to assess the risks properly."
+    },
+    {
+      "id": "X10:0034",
+      "i": 25,
+      "n": 34,
+      "sj": "",
+      "se": "",
+      "jp": "　かつて盗みを生業としていた<tips=29>アイス</tips>には何かアイデアがあるかもしれない。",
+      "en": "<tips=29>Ice</tips>, who had once lived by theft, might have an idea."
+    },
+    {
+      "id": "X10:0035",
+      "i": 26,
+      "n": 35,
+      "sj": "",
+      "se": "",
+      "jp": "　しかし、口を開くことが出来ない以上、彼女とは相談が出来ない。一旦引き返して策を練るという手もあるが、それはあまりに情けないのではないだろうかと、<tips=28>トーマス</tips>は考えた。彼の方からここに入ろうと言い出したのである。",
+      "en": "But while neither could speak, he could not consult her. They could withdraw and devise a plan, but <tips=28>Thomas</tips> thought that would be far too pathetic. He was the one who had proposed entering."
+    },
+    {
+      "id": "X10:0036",
+      "i": 27,
+      "n": 36,
+      "sj": "",
+      "se": "",
+      "jp": "　それに、いくら能力があるとは言え、あまり頻繁に出たり入ったりしているのも危険に思える。<tips=29>アイス</tips>の能力は強力だが、前述のように万能ではないのだ。",
+      "en": "Besides, ability or no ability, entering and leaving too often seemed dangerous. <tips=29>Ice</tips>'s power was formidable, but as already noted, it was not infallible."
+    },
+    {
+      "id": "X10:0037",
+      "i": 28,
+      "n": 37,
+      "sj": "",
+      "se": "",
+      "jp": "　リーダーなのだから適切に決断しなければいけないと、気負うばかりで何のアイデアも出ない。",
+      "en": "He only burdened himself with the thought that a leader must make the right decision, without producing a single idea."
+    },
+    {
+      "id": "X10:0038",
+      "i": 29,
+      "n": 38,
+      "sj": "",
+      "se": "",
+      "jp": "　こうして悩んで立ち止まっていること自体が悪手のようにも思う。",
+      "en": "Even standing here to agonize seemed like a bad move."
+    },
+    {
+      "id": "X10:0039",
+      "i": 30,
+      "n": 39,
+      "sj": "",
+      "se": "",
+      "jp": "　手慣れた人間ならば、進むにしろ戻るにしろするりと身体を動かしているに違いない。そして、どちらを選んだにしろ、素早い判断というそれ自体が正解になるのかもしれない。",
+      "en": "Someone experienced would surely have slipped away at once, whether forward or back. Whichever direction they chose, the speed of the decision might itself have made it correct."
+    },
+    {
+      "id": "X10:0040",
+      "i": 31,
+      "n": 40,
+      "sj": "",
+      "se": "",
+      "jp": "　思わぬ時間そこで立ち止まってしまったわけだが、この状況、目をつぶり手を引かれるままにしている<tips=29>アイス</tips>の気持ちを思うと心が痛む。",
+      "en": "They had stopped longer than expected. Thinking of how <tips=29>Ice</tips> must feel standing with her eyes shut and letting him lead her by the hand made his heart ache."
+    },
+    {
+      "id": "X10:0041",
+      "i": 32,
+      "n": 41,
+      "sj": "",
+      "se": "",
+      "jp": "　不安ではないだろうか？　それとも、主人の不甲斐なさに内心で溜息をついているだろうか？",
+      "en": "Was she anxious? Or silently sighing over her master's uselessness?"
+    },
+    {
+      "id": "X10:0042",
+      "i": 33,
+      "n": 42,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>も溜息をつきたいような気分だったが、ここで弱気になってはいけない。なんとかして、状況を打開しなくてはいけない。",
+      "en": "<tips=28>Thomas</tips> wanted to sigh himself, but this was no time for timidity. He had to break the deadlock somehow."
+    },
+    {
+      "id": "X10:0043",
+      "i": 34,
+      "n": 43,
+      "sj": "",
+      "se": "",
+      "jp": "　もしかしたら、その行動に<tips=7>ＹＳ</tips>――いや、この街の運命がかかっているのかもしれないのだから。",
+      "en": "The fate of <tips=7>YS</tips>—no, of the entire town—might depend upon what he did."
+    },
+    {
+      "id": "X10:0051",
+      "i": 35,
+      "n": 51,
+      "sj": "",
+      "se": "",
+      "jp": "　こんな状況に陥ってしまった発端は、一週間ほど前に遡る。",
+      "en": "The events that brought them to this predicament had begun about a week earlier."
+    },
+    {
+      "id": "X10:0052",
+      "i": 36,
+      "n": 52,
+      "sj": "",
+      "se": "",
+      "jp": "　午前中は<tips=41>グランドタワー</tips>の<tips=1>亮</tips>の執務室で会議が行われていた。",
+      "en": "That morning, a meeting was held in <tips=1>Long</tips>'s office at <tips=41>Grand Tower</tips>."
+    },
+    {
+      "id": "X10:0053",
+      "i": 37,
+      "n": 53,
+      "sj": "",
+      "se": "",
+      "jp": "　出席者は、<tips=1>謝亮</tips>、<tips=28>トーマス</tips>、先代の<tips=84>マイケル・ツェー</tips>、そして<tips=4>馬明</tips>と<tips=25>馬世傑</tips>の親子である。部屋の隅の方には<tips=40>天明</tips>、<tips=40>天祥</tips>のサイキック姉妹が待機して常に不意の来訪者を警戒している。",
+      "en": "Those present were <tips=1>Tse Long</tips>, <tips=28>Thomas</tips>, the former leader <tips=84>Michael Tse</tips>, and father and son <tips=4>Ma Ming</tips> and <tips=25>Ma Sai-ki</tips>. The psychic sisters <tips=40>Tinming</tips> and <tips=40>Tinchen</tips> waited in a corner, constantly alert for unexpected visitors."
+    },
+    {
+      "id": "X10:0054",
+      "i": 38,
+      "n": 54,
+      "sj": "",
+      "se": "",
+      "jp": "　いつもの面々とでも言うべき顔ぶれで、重要な話をするときはこれに<tips=31>エリー・ホワイト</tips>が加わったり加わらなかったりする。",
+      "en": "They were the usual group. For especially important discussions, <tips=31>Ellie White</tips> sometimes joined them and sometimes did not."
+    },
+    {
+      "id": "X10:0055",
+      "i": 39,
+      "n": 55,
+      "sj": "",
+      "se": "",
+      "jp": "　話題は、<tips=7>ＹＳ</tips>への批判を続ける『<tips=22>老人たち</tips>』の件であった。",
+      "en": "Their subject was the <tips=22>Elders</tips>, who continued to condemn <tips=7>YS</tips>."
+    },
+    {
+      "id": "X10:0056",
+      "i": 40,
+      "n": 56,
+      "sj": "",
+      "se": "",
+      "jp": "　会議と言っても、実際は<tips=1>謝亮</tips>が何か考えをまとめたり、自分の考えを通達するための場で、参加者同士の議論で何かを決めるというわけでもない。議論はあくまでも<tips=1>亮</tips>が判断するための材料にすぎない。",
+      "en": "Though called a meeting, it was really a forum for <tips=1>Tse Long</tips> to organize his thoughts or communicate decisions. Nothing was settled through discussion among the participants. Their arguments merely provided <tips=1>Long</tips> with material for his judgment."
+    },
+    {
+      "id": "X10:0057",
+      "i": 41,
+      "n": 57,
+      "sj": "",
+      "se": "",
+      "jp": "　その時はみなで<tips=17>タイプB</tips>への対応を意見しあい、<tips=1>亮</tips>はそれを黙って聞いていた。うつろに目を閉じ、半分居眠りをしているように見える。",
+      "en": "At the time, everyone was sharing opinions on how to deal with <tips=17>Type B</tips> people while <tips=1>Long</tips> listened in silence. His eyes were vacantly half closed, making him appear half asleep."
+    },
+    {
+      "id": "X10:0058",
+      "i": 42,
+      "n": 58,
+      "sj": "",
+      "se": "",
+      "jp": "　それを見咎めて<tips=4>馬明</tips>が意地悪く質問などをすると、すらすらと答える。学校の授業なども、こうやって眠りながらでも聞くことが出来るタイプなのだろう。自分とは正反対だと<tips=28>トーマス</tips>は思った。",
+      "en": "Whenever <tips=4>Ma Ming</tips> noticed and spitefully tested him with a question, Long answered fluently. He was probably the kind who could listen to lessons at school while asleep. <tips=28>Thomas</tips> thought he could not be more different from himself."
+    },
+    {
+      "id": "X10:0059",
+      "i": 43,
+      "n": 59,
+      "sj": "",
+      "se": "",
+      "jp": "　とにかく<tips=21>八龍会</tips>は危険すぎるという点で、全員の意見は一致している。",
+      "en": "Everyone agreed that the <tips=21>Dragon Club</tips> was far too dangerous."
+    },
+    {
+      "id": "X10:0060",
+      "i": 44,
+      "n": 60,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=21>八龍会</tips>の会員はどこにでも隠れているし、<tips=7>ＹＳ</tips>のなかにもいるだろう。彼らは同じ<tips=17>タイプB</tips>に生まれたという強い繋がりがあり、また、現実的に薬の力で支配されてもいる。たとえ<tips=7>ＹＳ</tips>のなかにいようとも、<tips=21>八龍会</tips>の指示があればそれに従うかもしれない。",
+      "en": "Members of the <tips=21>Dragon Club</tips> were hidden everywhere, likely even within <tips=7>YS</tips>. Their shared birth as <tips=17>Type B</tips> created a powerful bond, and in practical terms the Club also controlled them through drugs. Even those inside <tips=7>YS</tips> might obey an order from the <tips=21>Dragon Club</tips>."
+    },
+    {
+      "id": "X10:0061",
+      "i": 45,
+      "n": 61,
+      "sj": "",
+      "se": "",
+      "jp": "　つまり<tips=21>八龍会</tips>と敵対するということは、街に潜むすべての<tips=17>タイプB</tips>を敵に回すのと近い。",
+      "en": "Thus, opposing the <tips=21>Dragon Club</tips> came close to making enemies of every <tips=17>Type B</tips> person hidden throughout the town."
+    },
+    {
+      "id": "X10:0062",
+      "i": 46,
+      "n": 62,
+      "sj": "",
+      "se": "",
+      "jp": "　やはり彼らが独占して麻薬の売買を行っているというのが一番の問題で、それによって金と奴隷の両方を手に入れている。",
+      "en": "Their monopoly on the drug trade remained the greatest problem. It gave them both money and slaves."
+    },
+    {
+      "id": "X10:0063",
+      "i": 47,
+      "n": 63,
+      "sj": "",
+      "se": "",
+      "jp": "　そこを崩さなければ組織としての力を奪うことは出来ない。",
+      "en": "Unless that monopoly was broken, the organization's power could not be taken away."
+    },
+    {
+      "id": "X10:0064",
+      "i": 48,
+      "n": 64,
+      "sj": "",
+      "se": "",
+      "jp": "　そういった話し合いを、<tips=1>亮</tips>は一言も意見を口にすることなく聞いていた。",
+      "en": "<tips=1>Long</tips> listened to this discussion without voicing a single opinion."
+    },
+    {
+      "id": "X10:0065",
+      "i": 49,
+      "n": 65,
+      "sj": "馬明",
+      "se": "Ma Ming",
+      "jp": "「どうにかしなくてはならん。やつらはやる気だ。<tips=35>フェルナンデス</tips>の件だって、裏で糸を引いている可能性もある」",
+      "en": "We must do something. They mean to act. They may even have pulled the strings behind the <tips=35>Fernandez</tips> affair."
+    },
+    {
+      "id": "X10:0066",
+      "i": 50,
+      "n": 66,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=4>馬明</tips>がそう言った時、はじめて<tips=1>亮</tips>は意見を口にした。",
+      "en": "When <tips=4>Ma Ming</tips> said that, <tips=1>Long</tips> finally spoke."
+    },
+    {
+      "id": "X10:0067",
+      "i": 51,
+      "n": 67,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「前にも言ったかもしれないが、あの事件には『<tips=22>老人たち</tips>』は絡んでいない」",
+      "en": "I may have said this before, but the <tips=22>Elders</tips> had nothing to do with that incident."
+    },
+    {
+      "id": "X10:0068",
+      "i": 52,
+      "n": 68,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=36>アウロラ</tips>の名前が出ると<tips=28>トーマス</tips>などは事件を思い出して悲しい気持ちになってしまうが、表情を見る限り<tips=1>亮</tips>にはそのような感傷はなさそうだった。その態度の裏では彼も自分と同様悲しんでいるに違いないと<tips=28>トーマス</tips>は思っている。",
+      "en": "At the mention of <tips=36>Aurora</tips>, <tips=28>Thomas</tips> remembered the incident and grew sad. Judging by his expression, <tips=1>Long</tips> felt no such sentiment. <tips=28>Thomas</tips> believed that beneath the surface, Long must be grieving just as he was."
+    },
+    {
+      "id": "X10:0069",
+      "i": 53,
+      "n": 69,
+      "sj": "",
+      "se": "",
+      "jp": "　確証は何もないが。",
+      "en": "He had no evidence of it."
+    },
+    {
+      "id": "X10:0070",
+      "i": 54,
+      "n": 70,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「誰かの指示があったとは思えない。もしそうだったら、あんなチンピラ、死ぬ前に依頼主を吐いてるさ。一言も言わないで死んでいったんだ。ほぼ間違いないね。<tips=21>八龍会</tips>側には、あわよくばあの件を利用してやろうという下心はあるようだけれど、直接の繋がりはない」",
+      "en": "I do not believe anyone ordered them. Had that been the case, lowlifes like those would have named their employer before they died. They died without saying a word. I am nearly certain. The <tips=21>Dragon Club</tips> clearly hopes to exploit the affair if possible, but it has no direct connection."
+    },
+    {
+      "id": "X10:0071",
+      "i": 55,
+      "n": 71,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はよほど自信があるらしく、きっぱりと言った。",
+      "en": "<tips=1>Long</tips> stated it decisively, apparently very confident."
+    },
+    {
+      "id": "X10:0072",
+      "i": 56,
+      "n": 72,
+      "sj": "馬明",
+      "se": "Ma Ming",
+      "jp": "「そんなに強く言い切れるのか？　<tips=21>八龍会</tips>は昔から陰謀が得意じゃないか。いつもああやって、どこかの組織に仲間を送り込んで『爆発』させるんだよ。おれたちが若い時も大分苦労させられた」",
+      "en": "Can you really be so certain? The <tips=21>Dragon Club</tips> has always excelled at conspiracies. They are forever planting members inside organizations and making them 'explode.' They caused us plenty of trouble when we were young."
+    },
+    {
+      "id": "X10:0073",
+      "i": 57,
+      "n": 73,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=4>馬明</tips>は疑わしげにそう訊ねる。彼は<tips=1>亮</tips>が<tips=81>龍頭</tips>になってから、最高幹部のなかで一回り年長という立場になったせいか、苦言を呈す役割になることが増えていた。",
+      "en": "<tips=4>Ma Ming</tips> questioned him suspiciously. Since <tips=1>Long</tips> became <tips=81>Longtou</tips>, Ma Ming had become a generation older than the other senior leaders and increasingly assumed the role of admonishing them."
+    },
+    {
+      "id": "X10:0074",
+      "i": 58,
+      "n": 74,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「だって、意味がないじゃないか。<tips=21>八龍会</tips>としては、<tips=35>フェルナンデス</tips>は健在のまま<tips=7>ＹＳ</tips>と対立させた方が都合が良かったはずだ。彼らが襲撃を受けて死んだのは<tips=7>ＹＳ</tips>にとってはむしろ都合がいい」",
+      "en": "Because it makes no sense. It would have served the <tips=21>Dragon Club</tips> better to keep <tips=35>Fernandez</tips> alive and in conflict with <tips=7>YS</tips>. His death in that attack actually benefits <tips=7>YS</tips>."
+    },
+    {
+      "id": "X10:0075",
+      "i": 59,
+      "n": 75,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は淡々と説明をする。",
+      "en": "<tips=1>Long</tips> explained dispassionately."
+    },
+    {
+      "id": "X10:0076",
+      "i": 60,
+      "n": 76,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「偉大なるカリスマ、<tips=35>ジョゼ・フェルナンデス</tips>が死んで、なんの実績もない<tips=38>リタ</tips>がリーダーじゃ、当面は身内をまとめるので手一杯だ。もつれれば、もう一度<tips=7>ＹＳ</tips>に呼び戻す目が出て来るかもしれない。そうなればもう我々には逆らえないだろう。そうはならなくとも、しばらく活動は鈍る。……いずれにしろ、当面は彼らの脅威はなくなったわけだ。<tips=22>老人たち</tips>が僕の仕業だと騒ぎたくなるのもわかる。客観的に見ても僕らがやったと考えたほうが自然なのさ」",
+      "en": "With the great and charismatic <tips=35>Jose Fernandez</tips> dead and the untested <tips=38>Rita</tips> in command, she will be fully occupied keeping her own people together. If things go badly, we may gain an opportunity to invite them back into <tips=7>YS</tips>. Then they could never defy us again. Even if that does not happen, their activity will slow for some time... Either way, they no longer pose an immediate threat. I understand why the <tips=22>Elders</tips> want to accuse me. Objectively, it is more natural to assume we did it."
+    },
+    {
+      "id": "X10:0077",
+      "i": 61,
+      "n": 77,
+      "sj": "馬世傑",
+      "se": "Ma Sai-ki",
+      "jp": "「まさか本当に<tips=81>龍頭</tips>の差し金ってことはないですよねえ？」",
+      "en": "You truly didn't order it, did you, <tips=81>Longtou</tips>?"
+    },
+    {
+      "id": "X10:0078",
+      "i": 62,
+      "n": 78,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=25>世傑</tips>が本気だか冗談のつもりだかわからない中途半端な表情で訊ねる。",
+      "en": "<tips=25>Sai-ki</tips> asked with an ambiguous expression that made it impossible to tell whether he was serious or joking."
+    },
+    {
+      "id": "X10:0079",
+      "i": 63,
+      "n": 79,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「ないよ。僕としては円満で合併が最善だったし、その可能性はまだあったんだから。それにね、何度も言うが僕は平和主義なんだよ。人が死なないで済むならそれよりいいことはないじゃないか」",
+      "en": "I did not. An amicable merger was the best outcome for me, and it remained possible. Besides, as I have said many times, I am a pacifist. If people can avoid dying, what could be better?"
+    },
+    {
+      "id": "X10:0080",
+      "i": 64,
+      "n": 80,
+      "sj": "馬世傑",
+      "se": "Ma Sai-ki",
+      "jp": "「なるほど」",
+      "en": "I see."
+    },
+    {
+      "id": "X10:0081",
+      "i": 65,
+      "n": 81,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=25>世傑</tips>は笑って頷く。この青年にとっては、組織同士の陰謀や勢力争いなどどうでも良く、年下のボスの個性が面白くて仕方がないのだろう。",
+      "en": "<tips=25>Sai-ki</tips> smiled and nodded. Conspiracies and power struggles between organizations likely meant nothing to him; he simply found his younger boss endlessly entertaining."
+    },
+    {
+      "id": "X10:0082",
+      "i": 66,
+      "n": 82,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「結局、<tips=2>阿亮</tips>はどうするつもりなんだい？　これから、<tips=17>タイプB</tips>を敵にしようとしているのかい？」",
+      "en": "So what do you intend to do, <tips=2>Ah Long</tips>? Are you going to make enemies of <tips=17>Type B</tips> people?"
+    },
+    {
+      "id": "X10:0083",
+      "i": 67,
+      "n": 83,
+      "sj": "",
+      "se": "",
+      "jp": "　と質問したのは<tips=28>トーマス</tips>だった。",
+      "en": "It was <tips=28>Thomas</tips> who asked."
+    },
+    {
+      "id": "X10:0084",
+      "i": 68,
+      "n": 84,
+      "sj": "",
+      "se": "",
+      "jp": "　彼としては、<tips=17>タイプB</tips>はあくまでも不幸な運命を背負った人々であり、彼らと戦うような事態はどうしても気が進まないのだ。",
+      "en": "To him, <tips=17>Type B</tips> people were victims burdened with a tragic fate. The prospect of fighting them was deeply distasteful."
+    },
+    {
+      "id": "X10:0085",
+      "i": 69,
+      "n": 85,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は首を振って否定する。",
+      "en": "<tips=1>Long</tips> shook his head."
+    },
+    {
+      "id": "X10:0086",
+      "i": 70,
+      "n": 86,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「そんな単純な構図にはならない。<tips=22>老人たち</tips>もよほど愚かじゃなければ、あまり大々的な抗争にはしたくないはずだ。もっとじわじわとコントロールしようとするはずだよ。いくらでもスパイがいるんだからね」",
+      "en": "It will not be so simple. Unless the <tips=22>Elders</tips> are exceptionally foolish, they will not want an open war. They will try to control us gradually. They have spies everywhere."
+    },
+    {
+      "id": "X10:0087",
+      "i": 71,
+      "n": 87,
+      "sj": "馬明",
+      "se": "Ma Ming",
+      "jp": "「そっちの方が厄介だな……。組織内の<tips=17>タイプB</tips>たちに監視を付けるか……」",
+      "en": "That may be worse... Perhaps we should place the <tips=17>Type B</tips> members inside the organization under surveillance..."
+    },
+    {
+      "id": "X10:0088",
+      "i": 72,
+      "n": 88,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=4>馬明</tips>は腕組みをし、難しい顔で言う。",
+      "en": "<tips=4>Ma Ming</tips> folded his arms, his expression grave."
+    },
+    {
+      "id": "X10:0089",
+      "i": 73,
+      "n": 89,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「そんなことをしたら、本当に<tips=17>タイプB</tips>全部が敵になってしまう。僕は別に<tips=17>タイプB</tips>と戦いたいわけじゃない。彼らの待遇は今まで通りで何も変えない」",
+      "en": "Do that, and every <tips=17>Type B</tips> person really will become our enemy. I have no desire to fight <tips=17>Type B</tips> people. Their treatment will remain exactly as it has been."
+    },
+    {
+      "id": "X10:0090",
+      "i": 74,
+      "n": 90,
+      "sj": "馬明",
+      "se": "Ma Ming",
+      "jp": "「じゃあ、ジジイたちの挑発に対し何の手も打たないってことか？　あそこまで言われて」",
+      "en": "Then you mean to do nothing about the old men's provocation? After everything they said?"
+    },
+    {
+      "id": "X10:0091",
+      "i": 75,
+      "n": 91,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=4>馬明</tips>は渋い顔をする。",
+      "en": "<tips=4>Ma Ming</tips> looked displeased."
+    },
+    {
+      "id": "X10:0092",
+      "i": 76,
+      "n": 92,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「見過ごしはしないよ。……まあ慌てなくていいさ。僕が思うに、これはピンチじゃなくてチャンスなんだよ。なんでだろうな？　みんな勝手に自分たちが有利だと思い込んで軽率なことばかりしてくれている。元<tips=69>義勝</tips>の爺さんたちもそうだし、今回の<tips=22>老人たち</tips>の挑発だってそうさ。僕を舐めているんだろうけど、あんな風に自分の欲望を相手に見せつけるなんて、簡単にしてはいけないのさ」",
+      "en": "I will not overlook it... But there is no need to hurry. In my view, this is an opportunity, not a crisis. Why, I wonder, does everyone assume they hold the advantage and rush into reckless acts? The old men of former <tips=69>Yi Shen</tips> did the same, and now the <tips=22>Elders</tips> have offered this provocation. They may look down on me, but openly displaying one's desires to an opponent is never something to do lightly."
+    },
+    {
+      "id": "X10:0093",
+      "i": 77,
+      "n": 93,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は眠そうに半目を閉じたまま笑って、",
+      "en": "<tips=1>Long</tips> smiled with his sleepy eyes still half closed."
+    },
+    {
+      "id": "X10:0094",
+      "i": 78,
+      "n": 94,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「<tips=22>老人たち</tips>の野心はわかったんだから、見過ごしたりはしない。いつかは決着をつけるつもりだよ。しかし、それには時期がある。その時になったら改めて何か言うよ。当面は僕らも自分の組織を整えよう。うちだってまだごちゃごちゃとしているからね」",
+      "en": "Now that I understand the <tips=22>Elders</tips>' ambitions, I will not ignore them. I intend to settle matters eventually. But everything has its proper time. I will say more when that time comes. For now, we should put our own organization in order. Ours is still something of a mess."
+    },
+    {
+      "id": "X10:0095",
+      "i": 79,
+      "n": 95,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はついにあくびを堪えきれなくなって大きな口を開けると、手を振って一同に退出するよう命じた。",
+      "en": "At last unable to suppress a yawn, <tips=1>Long</tips> opened his mouth wide and waved everyone out."
+    },
+    {
+      "id": "X10:0103",
+      "i": 80,
+      "n": 103,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は何か考えがあるようで、今は焦る必要がないとも言うが、<tips=28>トーマス</tips>はそう落ち着いてもいられない。",
+      "en": "<tips=1>Long</tips> apparently had a plan and said there was no need to hurry, but <tips=28>Thomas</tips> could not remain so calm."
+    },
+    {
+      "id": "X10:0104",
+      "i": 81,
+      "n": 104,
+      "sj": "",
+      "se": "",
+      "jp": "　彼の部下には<tips=17>タイプB</tips>も少なくない。祖父の代では関係者は客家人の華僑ばかりだったが、父の<tips=27>廖志明</tips>は国籍や人種、ミュータントかノーマルかにそれほどのこだわりもなく、有能な人間を積極的に採用した。当然反発もあったはずだが、彼がどんな魔術を使って周囲を納得させたのかはわからない。とにかく、結果として<tips=76>旧義勝</tips>などよりはバラエティ豊かな顔ぶれが揃っている。",
+      "en": "Many of his subordinates were <tips=17>Type B</tips>. In his grandfather's day, everyone involved had been Hakka overseas Chinese. His father, <tips=27>Chimin Liao</tips>, cared little about nationality, race, or whether someone was mutant or Normal, and actively recruited capable people. There must have been resistance, though Thomas did not know what magic his father used to win everyone over. Whatever the method, the result was a roster more diverse than groups such as <tips=76>Old Yi Shen</tips>."
+    },
+    {
+      "id": "X10:0105",
+      "i": 82,
+      "n": 105,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=21>八龍会</tips>との緊張が高まりつつある現在、<tips=28>トーマス</tips>としてはそうした部下たちのことが気になって仕方がないのだ。",
+      "en": "With tensions rising between them and the <tips=21>Dragon Club</tips>, <tips=28>Thomas</tips> could think of little but those subordinates."
+    },
+    {
+      "id": "X10:0106",
+      "i": 83,
+      "n": 106,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=9>Y地区</tips>には大小さまざまな組織があるが、彼ほど細やかに部下のことを考えているものも少ないだろう。",
+      "en": "<tips=9>Y District</tips> held organizations large and small, but few leaders considered their subordinates as thoughtfully as he did."
+    },
+    {
+      "id": "X10:0107",
+      "i": 84,
+      "n": 107,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は口に出して言うことはなかったが、部下に対して引け目に近い責任を感じている。その時は父の命を救うためという気持ちが強く、勢いで決めてしまった部分もあるのだが、冷静に考えてみれば<tips=28>トーマス</tips>の行動というのは組織を<tips=1>亮</tips>に売り渡したのと同じことだ。部下たちは何も言わないし、<tips=1>亮</tips>も責任をもって厚遇で迎え入れてくれたが、やはり不満を抱えているものもいるかもしれない。",
+      "en": "Though he never said it aloud, he felt a responsibility toward them bordering on guilt. At the time, saving his father's life had filled his mind, and in the heat of the moment he had made his decision. Viewed coolly, however, <tips=28>Thomas</tips>'s act amounted to selling the organization to <tips=1>Long</tips>. His subordinates said nothing, and <tips=1>Long</tips> took responsibility and welcomed them with generous treatment. Even so, some might harbor resentment."
+    },
+    {
+      "id": "X10:0108",
+      "i": 85,
+      "n": 108,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=7>ＹＳ</tips>は多くのファミリーの集まりだが、どこも自分のファミリーに誇りがある。<tips=74>廖ファミリー</tips>のものたちも、これまでずっと<tips=28>トミー</tips>の父<tips=27>廖志明</tips>のために頑張って来たのに、彼が追放され<tips=76>香港派</tips>に取り込まれてしまったということで、やるせない思いを抱くものも少なくないはずだ。",
+      "en": "<tips=7>YS</tips> was a gathering of many families, each proud of its own. Members of the <tips=74>Liao Family</tips> had long labored for <tips=28>Tommy</tips>'s father, <tips=27>Chimin Liao</tips>. Now he had been exiled and they had been absorbed into the <tips=76>Hong Kong Faction</tips>. Surely more than a few felt bitter and helpless."
+    },
+    {
+      "id": "X10:0109",
+      "i": 86,
+      "n": 109,
+      "sj": "",
+      "se": "",
+      "jp": "　世間の人々は<tips=74>廖ファミリー</tips>は結束が弱いと言うし、実際比較するとそうなのだろうが、しかし<tips=28>トーマス</tips>の目からすると忠誠心が皆無だとも思えない。",
+      "en": "People said the <tips=74>Liao Family</tips> lacked unity, and by comparison that was likely true. Yet from <tips=28>Thomas</tips>'s perspective, neither did they lack all loyalty."
+    },
+    {
+      "id": "X10:0110",
+      "i": 87,
+      "n": 110,
+      "sj": "",
+      "se": "",
+      "jp": "　なのに、組織を売り渡したこの自分がリーダーになったのに、誰も不平を言わない。",
+      "en": "And yet no one complained when he, the man who sold their organization, became its leader."
+    },
+    {
+      "id": "X10:0111",
+      "i": 88,
+      "n": 111,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>ほどの人物でも、組織の古株や世間にはなかなか評価されずに、小僧扱いされていたりする。なのに、<tips=74>廖ファミリー</tips>の部下はこれまで通り忠実で、父の時と変わらず働いてくれている。",
+      "en": "Even a man as capable as <tips=1>Long</tips> struggled to earn respect from the organization's veterans and the public, who dismissed him as a boy. Yet the members of the <tips=74>Liao Family</tips> remained as loyal as ever and worked for Thomas just as they had for his father."
+    },
+    {
+      "id": "X10:0112",
+      "i": 89,
+      "n": 112,
+      "sj": "",
+      "se": "",
+      "jp": "　それに対して、何かのかたちで部下に報いてやらなければいけないと、<tips=28>トミー</tips>はいつも思っているのだ。",
+      "en": "<tips=28>Tommy</tips> always felt he must repay his subordinates somehow."
+    },
+    {
+      "id": "X10:0113",
+      "i": 90,
+      "n": 113,
+      "sj": "",
+      "se": "",
+      "jp": "　そういうわけで彼は、今回の<tips=21>八龍会</tips>との件で、自分の部下たちがどう感じているのかが非常に気になっていた。彼の部下にも、<tips=17>タイプＢ</tips>や、本人がそうでなくとも家族に<tips=17>タイプＢ</tips>を持つものは多い。彼らを後悔させるような決断はしたくない。",
+      "en": "For that reason, he was deeply concerned about how they felt regarding the present conflict with the <tips=21>Dragon Club</tips>. Many of his subordinates were <tips=17>Type B</tips>, or had <tips=17>Type B</tips> family members even if they were not themselves. He did not want to make a decision they would regret."
+    },
+    {
+      "id": "X10:0114",
+      "i": 91,
+      "n": 114,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=41>グランドタワー</tips>を出るといつものように部下が経営しているヤミ金事務所や輸入乾物店などをまわり、特に<tips=17>タイプB</tips>の声に耳を傾けた。それは直接的な部下だけでなく、取引のある飲食店などにも及んだ。",
+      "en": "After leaving <tips=41>Grand Tower</tips>, he made his usual rounds of loan offices, imported-dry-goods shops, and other businesses operated by his subordinates, listening especially closely to <tips=17>Type B</tips> voices. He spoke not only to direct subordinates but also to restaurants and other businesses that dealt with them."
+    },
+    {
+      "id": "X10:0115",
+      "i": 92,
+      "n": 115,
+      "sj": "",
+      "se": "",
+      "jp": "　そして数日後に訪れたある店で、驚くべき情報を耳にしたのである。",
+      "en": "Several days later, at one such establishment, he heard astonishing information."
+    },
+    {
+      "id": "X10:0122",
+      "i": 93,
+      "n": 122,
+      "sj": "",
+      "se": "",
+      "jp": "「確かに今バーロンが配ってる新薬は<tips=17>タイプB</tips>にいい薬なんでしょうが、あれは個人的にはどうかと思いますねえ」",
+      "en": "The new drug the Dragon Club is distributing may indeed be good medicine for <tips=17>Type B</tips> people, but personally, I have my doubts."
+    },
+    {
+      "id": "X10:0123",
+      "i": 94,
+      "n": 123,
+      "sj": "",
+      "se": "",
+      "jp": "　おしぼりや花代……つまり守り料を納めさせている、違法ガールズバーの店主はそう言って首を捻った。",
+      "en": "The owner of an illegal girls' bar, from whom the family collected towel and flower fees—in other words, protection money—cocked his head."
+    },
+    {
+      "id": "X10:0124",
+      "i": 95,
+      "n": 124,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=21>八龍会</tips>の新薬『<tips=46>ネオ・ローズ</tips>』は、街全体で話題になっており、<tips=17>タイプB</tips>のみならず関心を集めている。この店主もノーマルではあったが、聞いてもいないのにその話をはじめた。",
+      "en": "The <tips=21>Dragon Club</tips>'s new drug, <tips=46>Neo-Rose</tips>, was the talk of the entire town and drew interest even beyond <tips=17>Type B</tips> people. Though Normal himself, the proprietor began discussing it without being asked."
+    },
+    {
+      "id": "X10:0125",
+      "i": 96,
+      "n": 125,
+      "sj": "",
+      "se": "",
+      "jp": "「うちの女の子なんかも、あれに頼ってる子が何人かいるんですよ。幻覚でどうしようもなくなってた子が、しゃきっとして、今までどんよりとしてた目で死んだような顔だったのが、いきいきと接客してるのを見ると、そりゃ効果は認めなくちゃいけませんが、麻薬は麻薬でしょう？　どうしても『<tips=45>ローズ</tips>』のことを思い出すんですよね」",
+      "en": "Several girls here rely on it. Girls whose hallucinations made them completely helpless straighten right up. When you see someone whose eyes were once dull and whose face looked dead serving customers with real energy, you have to acknowledge that it works. But a narcotic is still a narcotic, isn't it? I can't help remembering <tips=45>Rose</tips>."
+    },
+    {
+      "id": "X10:0126",
+      "i": 97,
+      "n": 126,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は手に持った白い布でグラスを一つ一つ拭いながら言う。",
+      "en": "He spoke while polishing glasses one by one with the white cloth in his hand."
+    },
+    {
+      "id": "X10:0127",
+      "i": 98,
+      "n": 127,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=17>タイプB</tips>が元気になって本来の力を取り戻すってことですよね。本当なら確かに素晴らしい薬ですが、しかしそれでもどうなんですかね。幻覚の世界で遊んでた連中が、突然正気になって、いやそれどころか薬でハイになって、ポジティブな気分でこっちの世界に戻ってくるわけでしょう？　なんだか気持ち悪い感じもしますなあ。……あ、そうだ、リャオさん知ってますか？」",
+      "en": "They say it gives <tips=17>Type B</tips> people their energy and natural strength back. If that's true, it certainly is wonderful medicine. Even so, I wonder. People who were playing in worlds of hallucination suddenly become lucid—or more than lucid, high on the drug—and return to this world full of optimism. There's something unsettling about it... Oh, that's right. Mr. Liao, did you know?"
+    },
+    {
+      "id": "X10:0128",
+      "i": 99,
+      "n": 128,
+      "sj": "",
+      "se": "",
+      "jp": "　そこで彼は声を落とし、<tips=28>トーマス</tips>に耳打ちをするように口を近づけると、",
+      "en": "He lowered his voice and leaned close to whisper in <tips=28>Thomas</tips>'s ear."
+    },
+    {
+      "id": "X10:0129",
+      "i": 100,
+      "n": 129,
+      "sj": "",
+      "se": "",
+      "jp": "「はす向かいの角のあのホテル、あれ、先週か先々週あたりにリャオさんの会社が売ったやつですよね？　売った相手は、<tips=17>タイプＢ</tips>だったでしょう？」",
+      "en": "That hotel on the corner diagonally across from us—your company sold it last week or the week before, didn't it? The buyers were <tips=17>Type B</tips>, weren't they?"
+    },
+    {
+      "id": "X10:0130",
+      "i": 101,
+      "n": 130,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そ、そこまではちょっと、僕にはわからないですね」",
+      "en": "I-I'm afraid I don't know that much."
+    },
+    {
+      "id": "X10:0131",
+      "i": 102,
+      "n": 131,
+      "sj": "",
+      "se": "",
+      "jp": "「あれを買ったの、ついこの間まで路上で寝転がってヘラヘラ笑いながら幻覚と戯れていたような連中なんですよ。それが誰かに<tips=46>ネオ・ローズ</tips>を使って貰って社会復帰したってわけなんですが……どうも良くない噂があるんです」",
+      "en": "The men who bought it were lying in the street grinning and playing with their hallucinations until quite recently. Then someone gave them <tips=46>Neo-Rose</tips>, and they rejoined society... But there are some ugly rumors."
+    },
+    {
+      "id": "X10:0132",
+      "i": 103,
+      "n": 132,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「良くない噂ってなんです？」",
+      "en": "What sort of ugly rumors?"
+    },
+    {
+      "id": "X10:0133",
+      "i": 104,
+      "n": 133,
+      "sj": "",
+      "se": "",
+      "jp": "「ホテルを買う資金なんて、すぐにためられるわけないでしょう？　それでおかしな仕事をしてると……。どうも、スラムで貧しい家の子供を買って、業者に売りさばいてるとか……」",
+      "en": "No one saves enough money to buy a hotel overnight, do they? People say they're doing strange work... Buying children from poor families in the slums and selling them on to traffickers..."
+    },
+    {
+      "id": "X10:0134",
+      "i": 105,
+      "n": 134,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「それって、つまり、人身売買……！」",
+      "en": "You mean human trafficking?!"
+    },
+    {
+      "id": "X10:0135",
+      "i": 106,
+      "n": 135,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は驚いて大きな声をあげると、店主は唇に人差し指を当てて静かにするよう促し、",
+      "en": "When <tips=28>Thomas</tips> cried out in shock, the owner put an index finger to his lips and urged him to lower his voice."
+    },
+    {
+      "id": "X10:0136",
+      "i": 107,
+      "n": 136,
+      "sj": "",
+      "se": "",
+      "jp": "「あくまでも、噂ですがね。でも、深夜に子供をあのホテルに連れ込んでいるところを、うちの女の子も見ているんです。おかしいでしょう。子供をあんなところに……」",
+      "en": "It is only a rumor. But one of my girls saw them taking children into that hotel late at night. That's strange, isn't it? Children in a place like that..."
+    },
+    {
+      "id": "X10:0137",
+      "i": 108,
+      "n": 137,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「それだけじゃなんとも言えませんが、何か怪しい感じはしますね。もし人身売買がらみだとしたら、これは大問題です」",
+      "en": "That alone doesn't prove anything, but it certainly sounds suspicious. If human trafficking is involved, this is extremely serious."
+    },
+    {
+      "id": "X10:0138",
+      "i": 109,
+      "n": 138,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=7>ＹＳ</tips>の方針として、人身売買業者の街への立ち入りは許していない。また、そういう業者と関係を持ったものに対しても容赦なく排除するという態度をとっている。",
+      "en": "As a matter of <tips=7>YS</tips> policy, human traffickers were forbidden from entering the town. Anyone who formed ties with such traffickers was likewise eliminated without mercy."
+    },
+    {
+      "id": "X10:0139",
+      "i": 110,
+      "n": 139,
+      "sj": "",
+      "se": "",
+      "jp": "　これは初代<tips=3>クリス・ツェー</tips>が<tips=18>ローズ・クラブ</tips>、及び<tips=68>木下組</tips>を街から排除したときにまっさきに決めた街のルールのひとつであった。それ以来ルール違反で処罰されたものはなくはないが、片手で数えられるほどに留まっている。みな<tips=7>ＹＳ</tips>を恐れていたのだ。",
+      "en": "This was among the first rules established by the original leader, <tips=3>Chris Tse</tips>, when he expelled the <tips=18>Rose Club</tips> and <tips=68>Kinoshita-gumi</tips> from town. Some had been punished for violating it since, but their number could be counted on one hand. Everyone feared <tips=7>YS</tips>."
+    },
+    {
+      "id": "X10:0140",
+      "i": 111,
+      "n": 140,
+      "sj": "",
+      "se": "",
+      "jp": "　それが本当に行われているとすれば、初代が死に、ごたごたが続く<tips=7>ＹＳ</tips>の影響力が落ちたのか、それとも店長が言うようにアウトローが<tips=46>ネオ・ローズ</tips>の効果で勢いづいてしまった結果なのかはわからない。とにかく、事実をはっきりさせる必要がある。",
+      "en": "If trafficking truly was taking place, he did not know whether the first leader's death and continuing turmoil had weakened <tips=7>YS</tips>'s influence, or whether, as the proprietor said, <tips=46>Neo-Rose</tips> had emboldened outlaws. Whatever the cause, the truth had to be established."
+    },
+    {
+      "id": "X10:0148",
+      "i": 112,
+      "n": 148,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「これはどうすべきか……」",
+      "en": "What should I do about this...?"
+    },
+    {
+      "id": "X10:0149",
+      "i": 113,
+      "n": 149,
+      "sj": "",
+      "se": "",
+      "jp": "　店主との会話を終え路上に出た<tips=28>トーマス</tips>は考え込んでしまった。",
+      "en": "After finishing his conversation with the proprietor and stepping into the street, <tips=28>Thomas</tips> sank into thought."
+    },
+    {
+      "id": "X10:0150",
+      "i": 114,
+      "n": 150,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「まず<tips=81>龍頭</tips>に報告なさってはいかがでしょう？」",
+      "en": "Perhaps you should report it to the <tips=81>Longtou</tips> first."
+    },
+    {
+      "id": "X10:0151",
+      "i": 115,
+      "n": 151,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>がそう提案する。",
+      "en": "<tips=29>Ice</tips> offered the suggestion."
+    },
+    {
+      "id": "X10:0152",
+      "i": 116,
+      "n": 152,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そりゃ、<tips=2>阿亮</tips>に報告したらいいのかもしれないけど、でも、まだ噂の段階だし……」",
+      "en": "Perhaps I should tell <tips=2>Ah Long</tips>, but it's still only a rumor..."
+    },
+    {
+      "id": "X10:0153",
+      "i": 117,
+      "n": 153,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は首を捻ってから、",
+      "en": "He cocked his head."
+    },
+    {
+      "id": "X10:0154",
+      "i": 118,
+      "n": 154,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「うん、やっぱり<tips=2>阿亮</tips>に頼むのはやめよう。彼はものすごく忙しいし、なんでもかんでも頼むのは間違ってる。僕だってそれなりの立場の人間なんだ。出来ることはやらなきゃいけないよね」",
+      "en": "No, I won't ask <tips=2>Ah Long</tips> after all. He's incredibly busy, and it would be wrong to rely on him for everything. I hold a position of some responsibility too. I should do what I can myself."
+    },
+    {
+      "id": "X10:0155",
+      "i": 119,
+      "n": 155,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は一人でそう頷くと、自分の美しいボディーガードを振り返り、",
+      "en": "<tips=28>Thomas</tips> nodded to himself and turned toward his beautiful bodyguard."
+    },
+    {
+      "id": "X10:0156",
+      "i": 120,
+      "n": 156,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「ちょっと、そのホテルを調べてみよう。僕らで。きみも手伝ってくれるかい？」",
+      "en": "Let's investigate that hotel ourselves. Will you help me?"
+    },
+    {
+      "id": "X10:0157",
+      "i": 121,
+      "n": 157,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「はい、もちろん。<tips=28>トーマス</tips>様のご命令ならば」",
+      "en": "Yes, of course. If that is Master <tips=28>Thomas</tips>'s order."
+    },
+    {
+      "id": "X10:0158",
+      "i": 122,
+      "n": 158,
+      "sj": "",
+      "se": "",
+      "jp": "　すぐに返事をしたものの、<tips=29>アイス</tips>の顔は不安げだった。",
+      "en": "Though she answered at once, <tips=29>Ice</tips> looked uneasy."
+    },
+    {
+      "id": "X10:0159",
+      "i": 123,
+      "n": 159,
+      "sj": "",
+      "se": "",
+      "jp": "　その顔を見ながら<tips=28>トーマス</tips>は、こんなとき、こんな表情をされる男であってはいけないと、奮起したものである。",
+      "en": "Seeing her expression, <tips=28>Thomas</tips> roused himself with the thought that a man must not inspire such a look at a time like this."
+    },
+    {
+      "id": "X10:0160",
+      "i": 124,
+      "n": 160,
+      "sj": "",
+      "se": "",
+      "jp": "　そうと決めると<tips=28>トーマス</tips>はその場で部下に電話をした。",
+      "en": "Having decided, <tips=28>Thomas</tips> called a subordinate on the spot."
+    },
+    {
+      "id": "X10:0161",
+      "i": 125,
+      "n": 161,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=41>グランドタワー</tips>の執務室ではなく、かつて父も使っていた街中の事務所である。不動産の売買などはそちらで管理しており、疑惑のホテルの情報がそこにはあった。",
+      "en": "He called the office in town once used by his father, rather than his office at <tips=41>Grand Tower</tips>. Real-estate transactions and similar matters were managed there, and it held information about the suspect hotel."
+    },
+    {
+      "id": "X10:0162",
+      "i": 126,
+      "n": 162,
+      "sj": "",
+      "se": "",
+      "jp": "　そのホテルは元々は<tips=9>Y地区</tips>の大地主の一人が所有していたものだが、ギャンブル狂いの当主がカジノで大きな借金を作ってしまったため、債権を買い取った<tips=74>廖ファミリー</tips>の所有となった。<tips=9>Y地区</tips>で金を借りればどんなに良心的に見える窓口であっても、最終的には確実にギャングに売られると考えた方が良い。",
+      "en": "The hotel had originally belonged to one of <tips=9>Y District</tips>'s major landowners. When the gambling-addicted head of the household amassed enormous casino debts, the <tips=74>Liao Family</tips> purchased the claim and took ownership. Anyone borrowing money in <tips=9>Y District</tips> would be wise to assume that even the most respectable-looking lender would eventually sell the debt to a gang."
+    },
+    {
+      "id": "X10:0163",
+      "i": 127,
+      "n": 163,
+      "sj": "",
+      "se": "",
+      "jp": "　もちろんファミリーでホテルを経営するつもりはないから、すぐに新たな買い手を探すことになる。幸いすぐに売却先は見つかった。",
+      "en": "The family naturally had no intention of operating a hotel and immediately sought a new buyer. Fortunately, one soon appeared."
+    },
+    {
+      "id": "X10:0164",
+      "i": 128,
+      "n": 164,
+      "sj": "",
+      "se": "",
+      "jp": "　相手の名義はご大層な会社の名前になっているが、現れたのはどこにでもいそうな若者二人で、うさんくさくはあったが現金を持って来たのでファミリーとしては断る理由がなかった。",
+      "en": "The buyer of record bore the grand name of a corporation, but the people who appeared were two utterly ordinary young men. They seemed suspicious, but brought cash, leaving the family no reason to refuse."
+    },
+    {
+      "id": "X10:0165",
+      "i": 129,
+      "n": 165,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「その二人は<tips=17>タイプＢ</tips>だったかい？」",
+      "en": "Were those two <tips=17>Type B</tips>?"
+    },
+    {
+      "id": "X10:0166",
+      "i": 130,
+      "n": 166,
+      "sj": "",
+      "se": "",
+      "jp": "『いやあ、それはちょっとわかりませんでしたね。ただやたらとテンションが高くて、金が出来たから事業をしようと思ったとかなんとか、聞いてもいないのにベラベラと喋っていました』",
+      "en": "I couldn't say. They were unusually excited, though, babbling without being asked about coming into money and wanting to start a business."
+    },
+    {
+      "id": "X10:0167",
+      "i": 131,
+      "n": 167,
+      "sj": "",
+      "se": "",
+      "jp": "　売買契約を担当した部下はそのように説明をした。",
+      "en": "That was how the subordinate responsible for the sale described them."
+    },
+    {
+      "id": "X10:0168",
+      "i": 132,
+      "n": 168,
+      "sj": "",
+      "se": "",
+      "jp": "　話からすると今<tips=17>タイプＢ</tips>に流行っているという薬の影響のようにも思えるが、これから事業をはじめようとする夢のある青年ならそんなものなのかもしれない。",
+      "en": "It sounded as though they might have been affected by the drug now popular among <tips=17>Type B</tips> people. Then again, perhaps any young man with dreams of beginning a business would behave that way."
+    },
+    {
+      "id": "X10:0169",
+      "i": 133,
+      "n": 169,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「金が出来た理由はきいたかい？」",
+      "en": "Did you ask where the money came from?"
+    },
+    {
+      "id": "X10:0170",
+      "i": 134,
+      "n": 170,
+      "sj": "",
+      "se": "",
+      "jp": "『いや、そこまではちょっと……』",
+      "en": "No, I'm afraid I didn't go that far..."
+    },
+    {
+      "id": "X10:0171",
+      "i": 135,
+      "n": 171,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「わかった。ありがとう。この後すぐに、僕の携帯にホテルの見取り図を送って欲しい。それから、その売った相手についてこれから少し調べてくれないか？　素性とか、前にしていた仕事とか」",
+      "en": "I understand. Thank you. Please send the hotel's floor plan to my phone immediately. Then could you investigate the buyers a little? Their backgrounds and previous work, for example."
+    },
+    {
+      "id": "X10:0172",
+      "i": 136,
+      "n": 172,
+      "sj": "",
+      "se": "",
+      "jp": "『わかりました』",
+      "en": "Understood."
+    },
+    {
+      "id": "X10:0173",
+      "i": 137,
+      "n": 173,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「なんだか、いつもごめんね」",
+      "en": "I'm sorry I'm always asking so much."
+    },
+    {
+      "id": "X10:0174",
+      "i": 138,
+      "n": 174,
+      "sj": "",
+      "se": "",
+      "jp": "『そんなこと言わないでください。<tips=7>ＹＳ</tips>直属になっても、我々のリーダーは<tips=28>トーマス</tips>様だけです』",
+      "en": "Please don't say that. Even now that we report directly to <tips=7>YS</tips>, our only leader is Master <tips=28>Thomas</tips>."
+    },
+    {
+      "id": "X10:0175",
+      "i": 139,
+      "n": 175,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は通話を切ると、首をひねる。",
+      "en": "After ending the call, <tips=28>Thomas</tips> cocked his head."
+    },
+    {
+      "id": "X10:0176",
+      "i": 140,
+      "n": 176,
+      "sj": "",
+      "se": "",
+      "jp": "　彼はいつも不思議に思う。どうして自分の部下たちはこれほどに自分を慕ってくれるのだろう？　頼りなすぎて、保護欲を刺激されるとか、そういうやつなんだろうか？　いいことなんか何もしてやったことがない、どころか、迷惑をかけてばかりだ。",
+      "en": "He always wondered why his subordinates were so devoted to him. Was he so unreliable that he aroused their protective instincts? He had never done anything good for them. If anything, he caused them constant trouble."
+    },
+    {
+      "id": "X10:0177",
+      "i": 141,
+      "n": 177,
+      "sj": "",
+      "se": "",
+      "jp": "　自分の判断ミスで失敗などをしたときも、かわりに<tips=2>阿亮</tips>に叱られてくれたり、うまい言い訳を考えてくれたりする。",
+      "en": "Even when his poor judgment caused a failure, they accepted a scolding from <tips=2>Ah Long</tips> in his place or devised clever excuses for him."
+    },
+    {
+      "id": "X10:0178",
+      "i": 142,
+      "n": 178,
+      "sj": "",
+      "se": "",
+      "jp": "　自分はまわりの人間に恵まれている、と、ただ喜んでいるだけでいいのだろうかこれは？　",
+      "en": "Was it truly enough simply to rejoice that the people around him were so good?"
+    },
+    {
+      "id": "X10:0179",
+      "i": 143,
+      "n": 179,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「どうしますか？」",
+      "en": "What will you do?"
+    },
+    {
+      "id": "X10:0180",
+      "i": 144,
+      "n": 180,
+      "sj": "",
+      "se": "",
+      "jp": "　腕組みをして考え込んでいると、<tips=29>アイス</tips>が訊ねる。",
+      "en": "As he stood thinking with arms folded, <tips=29>Ice</tips> asked."
+    },
+    {
+      "id": "X10:0181",
+      "i": 145,
+      "n": 181,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そうだね。思ったより大した情報がなかった。これはやっぱり、直接のりこんで調査しなくちゃいけないと思う。<tips=29>アイス</tips>は手伝ってくれるかい？」",
+      "en": "The information was less useful than I hoped. I think we'll have to enter and investigate directly after all. Will you help me, <tips=29>Ice</tips>?"
+    },
+    {
+      "id": "X10:0182",
+      "i": 146,
+      "n": 182,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「<tips=28>トーマス</tips>様みずからそんなことをするのですか？」",
+      "en": "Will Master <tips=28>Thomas</tips> truly do such a thing in person?"
+    },
+    {
+      "id": "X10:0183",
+      "i": 147,
+      "n": 183,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>は驚いて言った。",
+      "en": "<tips=29>Ice</tips> asked in surprise."
+    },
+    {
+      "id": "X10:0184",
+      "i": 148,
+      "n": 184,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そうとも、僕らにはきみの特別な能力があるんだし、誰かにやらせるより僕ときみでやったほうがうまく行く」",
+      "en": "Of course. We have your special power, and you and I can do it more effectively than anyone we might send."
+    },
+    {
+      "id": "X10:0185",
+      "i": 149,
+      "n": 185,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はにっこりと笑う。",
+      "en": "<tips=28>Thomas</tips> beamed."
+    },
+    {
+      "id": "X10:0186",
+      "i": 150,
+      "n": 186,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「でも、私の能力は万能ではなく、欠点もあります。この間も、<tips=81>龍頭</tips>に見破られたばかりではないですか」",
+      "en": "But my ability is not infallible. It has weaknesses. The <tips=81>Longtou</tips> saw through it only recently."
+    },
+    {
+      "id": "X10:0187",
+      "i": 151,
+      "n": 187,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「<tips=2>阿亮</tips>は特別だよ。それに、僕も一回やって学んだから、もっと慎重に動けるはずだ。鏡と、カメラに気をつければいいんでしょ？」",
+      "en": "<tips=2>Ah Long</tips> is exceptional. And I learned from that first attempt, so I can act more carefully. We only need to watch out for mirrors and cameras, right?"
+    },
+    {
+      "id": "X10:0188",
+      "i": 152,
+      "n": 188,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「しかし、調査なら私だけでも……」",
+      "en": "But if it is only an investigation, I could go alone..."
+    },
+    {
+      "id": "X10:0189",
+      "i": 153,
+      "n": 189,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「女の子を一人で行かせるわけにはいかない。きみは立場上は僕の部下かも知れないが、僕からすれば、かけがえのない世界で一番大事なパートナーなんだ」",
+      "en": "I can't send a girl in alone. Officially you may be my subordinate, but to me, you are my irreplaceable partner—the most important person in the world."
+    },
+    {
+      "id": "X10:0190",
+      "i": 154,
+      "n": 190,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は真顔である。",
+      "en": "<tips=28>Thomas</tips> was perfectly serious."
+    },
+    {
+      "id": "X10:0191",
+      "i": 155,
+      "n": 191,
+      "sj": "",
+      "se": "",
+      "jp": "　この場面でこんな言葉を冗談でなく言う人間を、<tips=29>アイス</tips>はどんな言葉で思いなおさせればいいのかを知らない。",
+      "en": "<tips=29>Ice</tips> did not know what words could make a man reconsider when he said such a thing in complete sincerity at a moment like this."
+    },
+    {
+      "id": "X10:0192",
+      "i": 156,
+      "n": 192,
+      "sj": "",
+      "se": "",
+      "jp": "　過去の経験的に言っても、こんな時の<tips=28>トーマス</tips>はけして意見を撤回しない。楽観的というか、頑固というか、これは正しいと決めたら絶対に後には引かないのがこのおっとりとした青年の別の一面である。",
+      "en": "Past experience told her that <tips=28>Thomas</tips> never withdrew an opinion at such times. Optimistic or stubborn, once this mild young man decided something was right, he absolutely refused to retreat. It was another side of him."
+    },
+    {
+      "id": "X10:0193",
+      "i": 157,
+      "n": 193,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「それに、僕もこの目でもっと色んな物を見ないとね。思うに僕には経験が必要なんだよ。<tips=2>阿亮</tips>はあとからこの世界に入ったのに、僕よりもずっとテキパキといろんなことをこなしている。<tips=26>劉建志</tips>の襲撃にだって行ったんだよ？　僕にだってこれくらいのことは出来るはずだ。……<tips=29>アイス</tips>は心配しないで大丈夫。うまくやるから」",
+      "en": "Besides, I need to see more of the world with my own eyes. I think I need experience. <tips=2>Ah Long</tips> entered this world after I did, but he handles everything far more efficiently. He even went on the attack against <tips=26>Kenshi Ryu</tips>, remember? I should be capable of this much... Don't worry, <tips=29>Ice</tips>. I'll do it properly."
+    },
+    {
+      "id": "X10:0194",
+      "i": 158,
+      "n": 194,
+      "sj": "",
+      "se": "",
+      "jp": "　自信満々の主人の顔をしばらく見つめたのちに、",
+      "en": "She studied her confident master's face for some time."
+    },
+    {
+      "id": "X10:0195",
+      "i": 159,
+      "n": 195,
+      "sj": "アイス",
+      "se": "Ice",
+      "jp": "「……わかりました。行きましょう」",
+      "en": "...Very well. Let us go."
+    },
+    {
+      "id": "X10:0196",
+      "i": 160,
+      "n": 196,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>からすれば賢明とは言えない冒険に思えたろうが、この愛すべき主人はこう見えて頑固であることを知っている。しつこく反論するのは諦めて、溜息をついた。",
+      "en": "To <tips=29>Ice</tips>, it must have seemed an unwise adventure. But she knew that lovable as her master was, he could be stubborn. Abandoning further objections, she sighed."
+    },
+    {
+      "id": "X10:0206",
+      "i": 161,
+      "n": 206,
+      "sj": "",
+      "se": "",
+      "jp": "　そして能力を使う<tips=29>アイス</tips>の手を引いて、<tips=28>トーマス</tips>はホテルの右手の小さなドアから侵入したのであった。",
+      "en": "And so, leading <tips=29>Ice</tips> by the hand while she used her ability, <tips=28>Thomas</tips> entered through a small door on the hotel's right side."
+    },
+    {
+      "id": "X10:0207",
+      "i": 162,
+      "n": 207,
+      "sj": "",
+      "se": "",
+      "jp": "　磨りガラスのはまった重い木のドアを押し開けて足を踏み入れると、こうしたホテルにはよく有る、客同士の顔が視認しにくいほど薄暗い照明だった。",
+      "en": "He pushed open the heavy wooden door with its frosted-glass pane. Inside was the dim lighting common to such hotels, dark enough to keep guests from clearly seeing one another's faces."
+    },
+    {
+      "id": "X10:0208",
+      "i": 163,
+      "n": 208,
+      "sj": "",
+      "se": "",
+      "jp": "　その暗くて狭い通路を半分手探りで進むと、ロビーに辿り着く。その右手には部屋を選ぶためのパネルが、左手には受付のカウンターがある。",
+      "en": "Half feeling his way through the narrow, dark corridor, he reached the lobby. A panel for selecting rooms stood to the right, and the reception counter to the left."
+    },
+    {
+      "id": "X10:0209",
+      "i": 164,
+      "n": 209,
+      "sj": "",
+      "se": "",
+      "jp": "（ああいうのを見ながら、カップルで部屋を選ぶのか……）",
+      "en": "(So couples look at one of those together and choose a room...)"
+    },
+    {
+      "id": "X10:0210",
+      "i": 165,
+      "n": 210,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はこの様な場所に足を踏み入れるのが初めてで、このような光景を見るのも当然初めてであった。",
+      "en": "It was <tips=28>Thomas</tips>'s first time inside such an establishment, and naturally his first time seeing such a sight."
+    },
+    {
+      "id": "X10:0211",
+      "i": 166,
+      "n": 211,
+      "sj": "",
+      "se": "",
+      "jp": "　目的は違うが、自分もいま若い女性の手を握ってこの空間にいる。それを思うと、今の任務とは別の意味で緊張し、ごくりと生唾を飲み込んだ。",
+      "en": "His purpose was different, but he too now stood in this space holding a young woman's hand. The thought made him nervous for reasons unrelated to the mission, and he swallowed hard."
+    },
+    {
+      "id": "X10:0212",
+      "i": 167,
+      "n": 212,
+      "sj": "",
+      "se": "",
+      "jp": "　ロビーには、受付前が映るように監視カメラが取り付けられているのを知っている。",
+      "en": "He knew a security camera had been positioned to record the area before reception."
+    },
+    {
+      "id": "X10:0213",
+      "i": 168,
+      "n": 213,
+      "sj": "",
+      "se": "",
+      "jp": "　彼はそれに映らないように受付の横に回ってバックルームのドアを開け、足を踏み入れた。",
+      "en": "Keeping out of its view, he circled beside the desk, opened the back-room door, and stepped inside."
+    },
+    {
+      "id": "X10:0214",
+      "i": 169,
+      "n": 214,
+      "sj": "",
+      "se": "",
+      "jp": "　まず彼が最初に調べようと思っているのは、従業員たちが使用するそのスペースである。もちろん今もそこに従業員がいるだろうが、<tips=29>アイス</tips>の力があれば問題なく調査が出来るはずだ。",
+      "en": "The employee space was the first place he meant to search. Staff members were surely present, but <tips=29>Ice</tips>'s power should allow them to investigate without difficulty."
+    },
+    {
+      "id": "X10:0215",
+      "i": 170,
+      "n": 215,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>を引き入れたあと後手でドアを閉めてふと右を見れば、椅子に座って退屈を持てあますフロント係員の後ろ姿がある。",
+      "en": "After pulling <tips=29>Ice</tips> inside and closing the door behind him, he glanced right and saw the back of a bored receptionist seated in a chair."
+    },
+    {
+      "id": "X10:0216",
+      "i": 171,
+      "n": 216,
+      "sj": "",
+      "se": "",
+      "jp": "　薄くなったつむじをこちらに向け、カウンターの裏側に設置された小さなテレビ画面に見入っている。夕方の再放送ドラマがそこには映っていた。去年大ヒットした作品で、<tips=28>トーマス</tips>も知っている。<tips=16>タイプA</tips>の青年が死んだ恋人の幽霊と出会う悲しい物語で、主題歌にはこの街の出身であるムニラの曲が使われている。",
+      "en": "The man's thinning crown faced them as he stared at a small television behind the counter. It showed an evening rerun of a drama that had been a tremendous hit the previous year, one <tips=28>Thomas</tips> knew. It was the tragic story of a <tips=16>Type A</tips> young man who met the ghost of his dead lover, with a theme song by Munira, a singer from this town."
+    },
+    {
+      "id": "X10:0217",
+      "i": 172,
+      "n": 217,
+      "sj": "",
+      "se": "",
+      "jp": "　ちょうどその曲が流れているところで、従業員は音にあわせて鼻歌をうたっていた。",
+      "en": "The song was playing at that moment, and the employee hummed along."
+    },
+    {
+      "id": "X10:0218",
+      "i": 173,
+      "n": 218,
+      "sj": "",
+      "se": "",
+      "jp": "　すぐ後ろでこのような物音を立てれば普通なら気配に気がつくだろうが、彼にはそのような様子がない。<tips=29>アイス</tips>の能力が効いている。いまここで<tips=28>トーマス</tips>が棚の上に置いてある花瓶を掴んで床に叩きつけたとしても、別の理由で彼が振り返るまではそれに気がつかないだろう。",
+      "en": "Ordinarily, making such noise directly behind a person would alert him to their presence, but he showed no sign of noticing. <tips=29>Ice</tips>'s ability was working. Even if <tips=28>Thomas</tips> seized the vase from the shelf and smashed it against the floor, the man would not notice until something else caused him to turn around."
+    },
+    {
+      "id": "X10:0219",
+      "i": 174,
+      "n": 219,
+      "sj": "",
+      "se": "",
+      "jp": "　ドラマの映ったテレビの横にはパソコンがあり、入室状況が一覧出来るようになっている。",
+      "en": "Beside the television showing the drama stood a computer displaying the occupancy of every room."
+    },
+    {
+      "id": "X10:0220",
+      "i": 175,
+      "n": 220,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、さらにその隣には白黒画面のモニターがあった。四分割された画面に監視カメラの映像が表示されている。",
+      "en": "Next to that was a black-and-white monitor divided into four security-camera feeds."
+    },
+    {
+      "id": "X10:0221",
+      "i": 176,
+      "n": 221,
+      "sj": "",
+      "se": "",
+      "jp": "　一つは、正面エントランスの映像。もう一つは、受付前の映像。これで、入って来る客の確認と、金銭をやりとりする場所の監視を行っているのだろう。",
+      "en": "One showed the main entrance. Another showed the area before reception. They presumably used these to identify arriving guests and monitor the place where money changed hands."
+    },
+    {
+      "id": "X10:0222",
+      "i": 177,
+      "n": 222,
+      "sj": "",
+      "se": "",
+      "jp": "　そして残り二つはそれぞれ別のエレベーターの内部に取り付けられたものらしく、狭い密室を斜め上から見下ろす構図になっている。",
+      "en": "The remaining two appeared to be cameras inside different elevators, each looking down upon the cramped enclosure from a high angle."
+    },
+    {
+      "id": "X10:0223",
+      "i": 178,
+      "n": 223,
+      "sj": "",
+      "se": "",
+      "jp": "　部下にメールで送らせた見取り図で確認をする。売り渡した時点では、この四台がこのホテルの監視カメラのすべてだということになっている。客室や、各階の廊下にはカメラは取り付けられていなかった。",
+      "en": "Thomas checked the floor plan his subordinate had emailed him. At the time of sale, these four devices had supposedly been the hotel's only security cameras. None were installed in the guest rooms or the corridors on each floor."
+    },
+    {
+      "id": "X10:0224",
+      "i": 179,
+      "n": 224,
+      "sj": "",
+      "se": "",
+      "jp": "　カメラさえなければ<tips=29>アイス</tips>の力で自由に行き来出来る。最悪一階ずつしらみつぶしに調べることになっても、この能力が機能する限りリスクは低いだろう。もっとも、その時は他人の行為を覗き見することになってしまうから、<tips=28>トーマス</tips>としてはもっと効率的に調べたいところであったが。",
+      "en": "Without cameras, they could move freely using <tips=29>Ice</tips>'s power. Even if they had to search every floor room by room, the risk would remain low so long as her ability worked. That would mean witnessing other people's intimate acts, however, so <tips=28>Thomas</tips> hoped for a more efficient approach."
+    },
+    {
+      "id": "X10:0230",
+      "i": 180,
+      "n": 230,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は従業員の後ろを通り抜け、まず奥にある事務室兼従業員用休憩室を調べることにした。",
+      "en": "<tips=28>Thomas</tips> passed behind the employee and decided to search the office and staff lounge at the back first."
+    },
+    {
+      "id": "X10:0231",
+      "i": 181,
+      "n": 231,
+      "sj": "",
+      "se": "",
+      "jp": "　窓際には事務用の机が置かれ、手前のソファーには仮眠で使うのか毛布が乱雑に折りたたまれていた。その他には、冷蔵庫、金庫、電気ポットなど、オフィス用のものと日常生活用のものが混じり合って設置されている。",
+      "en": "An office desk stood beside the window, while a blanket, perhaps used for naps, lay carelessly folded on the sofa in front. A refrigerator, safe, electric kettle, and other equipment for both office work and daily life shared the room."
+    },
+    {
+      "id": "X10:0232",
+      "i": 182,
+      "n": 232,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はまず壁際の棚の前に立ち、そこに並べられたファイルをざっと眺めた。",
+      "en": "<tips=28>Thomas</tips> first stood before a shelf along the wall and quickly surveyed its files."
+    },
+    {
+      "id": "X10:0233",
+      "i": 183,
+      "n": 233,
+      "sj": "",
+      "se": "",
+      "jp": "　その背表紙のラベルにボールペンで書かれた文字を見る限り、アルバイト応募者の履歴書や、従業員の日報など、ごく当たり前の書類しかそこにはしまわれていないようである。下の段の引き出しを開いてみても、机の上に並んだ書類にも、机の引き出しにも怪しいものは何もない。",
+      "en": "Judging by the handwritten labels on their spines, they contained only ordinary documents such as job applications and employees' daily reports. He found nothing suspicious in the lower drawers, the papers on the desk, or the desk drawers."
+    },
+    {
+      "id": "X10:0234",
+      "i": 184,
+      "n": 234,
+      "sj": "",
+      "se": "",
+      "jp": "　違法行為でも帳簿のようなものはあるはずだし、その他何でも、何かの手がかりになるものがあれば良かったのだが、見つからない。",
+      "en": "Even an illegal business should keep ledgers of some kind. He had hoped to find anything that might provide a lead, but found nothing."
+    },
+    {
+      "id": "X10:0235",
+      "i": 185,
+      "n": 235,
+      "sj": "",
+      "se": "",
+      "jp": "　やはり犯罪の証拠となるようなものは、もっと厳重に扱われているのだろうか？　鍵のかかった引き出しのなかか、金庫のなかか、それとも別の場所にあるのか。データとなってパソコンや記憶媒体のなかにあるという可能性もある。",
+      "en": "Perhaps evidence of crimes was handled more carefully. It might be inside a locked drawer, in the safe, or elsewhere. It could also exist as data on the computer or some storage medium."
+    },
+    {
+      "id": "X10:0236",
+      "i": 186,
+      "n": 236,
+      "sj": "",
+      "se": "",
+      "jp": "　散らかした部屋に立って呆然としていると、廊下側のドアが開き、作業服を着た中年女が顔をタオルで拭いながら入って来た。",
+      "en": "As he stood dumbfounded in the room he had disordered, the corridor door opened. A middle-aged woman in work clothes entered, wiping her face with a towel."
+    },
+    {
+      "id": "X10:0237",
+      "i": 187,
+      "n": 237,
+      "sj": "",
+      "se": "",
+      "jp": "「まあ」",
+      "en": "Oh my."
+    },
+    {
+      "id": "X10:0238",
+      "i": 188,
+      "n": 238,
+      "sj": "",
+      "se": "",
+      "jp": "　と、彼女は目を丸くして部屋の惨状に驚いている。",
+      "en": "Her eyes widened at the state of the room."
+    },
+    {
+      "id": "X10:0239",
+      "i": 189,
+      "n": 239,
+      "sj": "",
+      "se": "",
+      "jp": "　当然のことだが、二人の姿は見えなくとも散らかった部屋は見えるのだ。",
+      "en": "Naturally, though she could not see the two intruders, she could see the mess they had made."
+    },
+    {
+      "id": "X10:0240",
+      "i": 190,
+      "n": 240,
+      "sj": "",
+      "se": "",
+      "jp": "　このまま調査を続けても良かったが、何もしていないのに散らかり続ける部屋を見せて女にショックを与えるのも忍びなかったので、<tips=28>トーマス</tips>は受付に引き返した。",
+      "en": "They could have continued searching, but <tips=28>Thomas</tips> could not bear to distress the woman by showing her a room growing messier by itself. He returned to reception."
+    },
+    {
+      "id": "X10:0247",
+      "i": 191,
+      "n": 247,
+      "sj": "",
+      "se": "",
+      "jp": "　受付の従業員が誰かと言葉を交わしている。",
+      "en": "The receptionist was speaking with someone."
+    },
+    {
+      "id": "X10:0249",
+      "i": 192,
+      "n": 249,
+      "sj": "",
+      "se": "",
+      "jp": "　相手はアジア人の若者で、彼は小さな子供を一人連れていた。",
+      "en": "The other person was a young Asian man accompanied by a small child."
+    },
+    {
+      "id": "X10:0250",
+      "i": 193,
+      "n": 250,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は会話をするだけで、金銭のやりとりをするでも、ルームキーの受け渡しをするでもなく、そのままエレベーターの方へと向かう。",
+      "en": "The man only spoke. He exchanged neither money nor a room key before heading toward the elevator."
+    },
+    {
+      "id": "X10:0252",
+      "i": 194,
+      "n": 252,
+      "sj": "",
+      "se": "",
+      "jp": "　従業員もパソコンを操作して入室状況などを変更することもなく、元のテレビ鑑賞に戻ってしまう。今の相手は客ではなかったのだ。",
+      "en": "The receptionist did not operate the computer or change the occupancy display, but simply returned to his television. The visitor had not been a guest."
+    },
+    {
+      "id": "X10:0253",
+      "i": 195,
+      "n": 253,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は男が乗り込んだエレベーターの模様を映した監視カメラの映像に目をやる。",
+      "en": "<tips=28>Thomas</tips> looked at the security feed from the elevator the man had entered."
+    },
+    {
+      "id": "X10:0254",
+      "i": 196,
+      "n": 254,
+      "sj": "",
+      "se": "",
+      "jp": "　男と子供は二人で並んで立っていた。男の口元が動いているが、子供の顔に動きはない。何か一方的に話しかけている。",
+      "en": "The man and child stood side by side. The man's mouth moved, but the child's face remained still. He appeared to be talking at the child without receiving an answer."
+    },
+    {
+      "id": "X10:0255",
+      "i": 197,
+      "n": 255,
+      "sj": "",
+      "se": "",
+      "jp": "　そして男たちは部屋から出て行った。受付の目の前のエレベーターの電光掲示板を見ると、七階で止まっている。",
+      "en": "Then they left the room. The illuminated elevator indicator in front of reception showed that it had stopped on the seventh floor."
+    },
+    {
+      "id": "X10:0256",
+      "i": 198,
+      "n": 256,
+      "sj": "",
+      "se": "",
+      "jp": "　これは確かめるしかない。",
+      "en": "He had no choice but to investigate."
+    },
+    {
+      "id": "X10:0257",
+      "i": 199,
+      "n": 257,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は<tips=29>アイス</tips>の手を引いて受付を出かけてから、一旦戻ってモニターの下にあるスイッチに触れた。何度か押していると操作の仕組みがわかったので、二つあるエレベーターの画面に、両方同じエレベーターのカメラ映像を表示させるようにした。これで、もう片方のエレベーターを利用しても姿を記録されることはない。",
+      "en": "<tips=28>Thomas</tips> started from reception, leading <tips=29>Ice</tips> by the hand, then doubled back and touched the switches beneath the monitor. After several attempts, he understood the controls and set both elevator feeds to display the same car. They could now use the other elevator without being recorded."
+    },
+    {
+      "id": "X10:0258",
+      "i": 200,
+      "n": 258,
+      "sj": "",
+      "se": "",
+      "jp": "　その操作が終わると、モニターの脇のフックにぶら下がった鍵を探って、『客室マスターキー』と書かれたプラスチックタグのついたものを一つポケットに失敬した。",
+      "en": "When he finished, he searched the keys hanging from hooks beside the monitor and helped himself to one with a plastic tag reading \"Guest Room Master Key.\""
+    },
+    {
+      "id": "X10:0259",
+      "i": 201,
+      "n": 259,
+      "sj": "",
+      "se": "",
+      "jp": "　そして受付を出る。監視カメラの死角に隠れながら、モニターに映らない方のエレベーターの前に辿り着いた。",
+      "en": "Then they left reception. Keeping to the security camera's blind spots, they reached the elevator not shown on the monitor."
+    },
+    {
+      "id": "X10:0267",
+      "i": 202,
+      "n": 267,
+      "sj": "",
+      "se": "",
+      "jp": "　丁度誰かが降りて来るところで、チンと音がなってドアがゆっくりと開く。",
+      "en": "Someone happened to be descending. A chime sounded and the doors slowly opened."
+    },
+    {
+      "id": "X10:0268",
+      "i": 203,
+      "n": 268,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は出て来た中年カップルとすれ違うようにエレベーターに入り、『７』の数字を押した。",
+      "en": "<tips=28>Thomas</tips> slipped into the elevator past a middle-aged couple coming out and pressed the button marked seven."
+    },
+    {
+      "id": "X10:0270",
+      "i": 204,
+      "n": 270,
+      "sj": "",
+      "se": "",
+      "jp": "　エレベーターの中には先客の香水の残り香が残っている。<tips=28>トーマス</tips>はそこでふうと溜息をつくと、",
+      "en": "The lingering perfume of the previous passengers remained inside. <tips=28>Thomas</tips> exhaled."
+    },
+    {
+      "id": "X10:0271",
+      "i": 205,
+      "n": 271,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=29>アイス</tips>、子供連れの客を見つけたから、今からそれを追うよ」",
+      "en": "<tips=29>Ice</tips>, I found someone with a child. We're going to follow them now."
+    },
+    {
+      "id": "X10:0272",
+      "i": 206,
+      "n": 272,
+      "sj": "",
+      "se": "",
+      "jp": "「はい」",
+      "en": "Yes."
+    },
+    {
+      "id": "X10:0273",
+      "i": 207,
+      "n": 273,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>は頷いた。",
+      "en": "<tips=29>Ice</tips> nodded."
+    },
+    {
+      "id": "X10:0274",
+      "i": 208,
+      "n": 274,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=28>トーマス</tips>様のことは信じていますが、くれぐれも、無茶はなさらぬよう」",
+      "en": "I trust Master <tips=28>Thomas</tips>, but please do not take any reckless risks."
+    },
+    {
+      "id": "X10:0275",
+      "i": 209,
+      "n": 275,
+      "sj": "",
+      "se": "",
+      "jp": "「わかってる」",
+      "en": "I understand."
+    },
+    {
+      "id": "X10:0277",
+      "i": 210,
+      "n": 277,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、エレベーターは七階に到着した。",
+      "en": "The elevator arrived at the seventh floor."
+    },
+    {
+      "id": "X10:0284",
+      "i": 211,
+      "n": 284,
+      "sj": "",
+      "se": "",
+      "jp": "　監視カメラを避けて出っ張りの裏に隠れていた時間は実際にはそう長い間ではなかった。",
+      "en": "In reality, they had not spent very long hidden behind the projection to avoid the camera."
+    },
+    {
+      "id": "X10:0285",
+      "i": 212,
+      "n": 285,
+      "sj": "",
+      "se": "",
+      "jp": "　銃を持った男が通り過ぎたあと、精々一分か二分であろう。<tips=28>トーマス</tips>はカメラに姿を映されても、その時はその時だと開き直り、探索を再開することにした。",
+      "en": "At most a minute or two passed after the armed man went by. <tips=28>Thomas</tips> resigned himself to being seen if it came to that and decided to resume the search."
+    },
+    {
+      "id": "X10:0286",
+      "i": 213,
+      "n": 286,
+      "sj": "",
+      "se": "",
+      "jp": "　そして物陰を出ようとしたところで、携帯電話が胸ポケットのなかで振動した。",
+      "en": "Just as he stepped from hiding, the phone in his breast pocket vibrated."
+    },
+    {
+      "id": "X10:0287",
+      "i": 214,
+      "n": 287,
+      "sj": "",
+      "se": "",
+      "jp": "　部下からのメールを着信している。そこには、ホテルを売り払った者たちのデータがあった。",
+      "en": "An email had arrived from his subordinate containing information about the men who had bought the hotel."
+    },
+    {
+      "id": "X10:0288",
+      "i": 215,
+      "n": 288,
+      "sj": "",
+      "se": "",
+      "jp": "　相手は広瀬平太と孝司の兄弟である。年齢は兄の平太が二十五才で、弟の孝司が二十三才。二人は街のチンピラだったが二年前に揃って<tips=17>タイプB</tips>の発症をし、暴力行為や奇異行動を繰り返したため家族に捨てられる。",
+      "en": "They were brothers named Heita and Koji Hirose. Heita, the elder, was twenty-five, and Koji was twenty-three. Both had been street thugs, but two years earlier they developed <tips=17>Type B</tips> symptoms. After repeated violence and bizarre behavior, their family abandoned them."
+    },
+    {
+      "id": "X10:0289",
+      "i": 216,
+      "n": 289,
+      "sj": "",
+      "se": "",
+      "jp": "　その後は路地裏をねぐらとして、彼らを古くから知るものから憐れみの小銭などを恵まれたり、ボランティアの炊き出しを与えられるなどして暮らしていたらしい。",
+      "en": "After that, the alleys became their home. They apparently survived on pity money from longtime acquaintances and meals provided by volunteers."
+    },
+    {
+      "id": "X10:0290",
+      "i": 217,
+      "n": 290,
+      "sj": "",
+      "se": "",
+      "jp": "　症状は悪化し続け、三ヶ月前にはもう知人の顔の区別もつかず、言葉もろくに喋れなくなって中空を見ながら笑い、独り言をぶつぶつと呟く姿が目撃されている。典型的な末期症状である。",
+      "en": "Their symptoms continued to worsen. By three months ago, witnesses saw them unable to recognize acquaintances or speak properly, staring into empty space as they laughed and muttered to themselves. These were typical terminal symptoms."
+    },
+    {
+      "id": "X10:0291",
+      "i": 218,
+      "n": 291,
+      "sj": "",
+      "se": "",
+      "jp": "　それが先月ごろから急に正気に戻って、シャンとして受け答えなどをするようになった。そして、事業を始めるといって<tips=27>廖</tips>たちが所有するホテルを買い取ったのが十二日前のことだ。",
+      "en": "Then around the previous month, they abruptly regained their senses and began answering questions coherently. Twelve days ago, they announced they were starting a business and purchased the hotel owned by <tips=27>Liao</tips>'s people."
+    },
+    {
+      "id": "X10:0292",
+      "i": 219,
+      "n": 292,
+      "sj": "",
+      "se": "",
+      "jp": "　その資金源などは不明だ。彼の家族は貧しく、資産家とつき合いがあるとも思えない境遇であり、たとえヤミ金であっても彼らのような経歴にこれだけの大金を出すとは思えない。",
+      "en": "The source of their funds was unknown. Their family was poor, they had no apparent connections to anyone wealthy, and even a loan shark would be unlikely to lend such a vast sum to men with their history."
+    },
+    {
+      "id": "X10:0293",
+      "i": 220,
+      "n": 293,
+      "sj": "",
+      "se": "",
+      "jp": "　添付された画像によると、さきほど子供を連れて受付に来ていたのは兄の平太のようだ。",
+      "en": "According to the attached photograph, the man who had arrived at reception with the child was the elder brother, Heita."
+    },
+    {
+      "id": "X10:0294",
+      "i": 221,
+      "n": 294,
+      "sj": "",
+      "se": "",
+      "jp": "　ほんの僅かな時間の間に調べたデータにしては詳細だった。そして、これは<tips=28>トーマス</tips>が指示したわけではなかったが、部下が察してくれたらしく、ホテルに人間を向かわせているとも書いてある。",
+      "en": "The information was remarkably detailed for research completed in so little time. Though <tips=28>Thomas</tips> had not ordered it, his subordinate had apparently anticipated the need and wrote that he was sending men to the hotel."
+    },
+    {
+      "id": "X10:0295",
+      "i": 222,
+      "n": 295,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はメールの返信で、それらの人員にホテルの出入り口を見張りながら待機するよう指示を出してから、携帯電話をしまった。",
+      "en": "<tips=28>Thomas</tips> replied with instructions for them to wait while watching the hotel's entrances, then put away his phone."
+    },
+    {
+      "id": "X10:0296",
+      "i": 223,
+      "n": 296,
+      "sj": "",
+      "se": "",
+      "jp": "　自分はいい部下に囲まれている。",
+      "en": "He was surrounded by excellent subordinates."
+    },
+    {
+      "id": "X10:0297",
+      "i": 224,
+      "n": 297,
+      "sj": "",
+      "se": "",
+      "jp": "　若きリーダーは自分の幸運に感謝しながら、<tips=29>アイス</tips>の手を引いて物陰を出た。",
+      "en": "Grateful for his good fortune, the young leader took <tips=29>Ice</tips> by the hand and stepped out from hiding."
+    },
+    {
+      "id": "X10:0298",
+      "i": 225,
+      "n": 298,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は廊下を進むと、先ほどからやたらとゴトゴト音がする部屋の前に立ち、受付から持って来たマスターキーを取り出した。",
+      "en": "He proceeded down the corridor, stopped before the room that had been making repeated thumping noises, and produced the master key taken from reception."
+    },
+    {
+      "id": "X10:0299",
+      "i": 226,
+      "n": 299,
+      "sj": "",
+      "se": "",
+      "jp": "　鍵穴に差し込み、ガチャリと捻ったとき、ドアの向こうからどっと笑い声が聞こえて動作を止める。",
+      "en": "He inserted it into the lock and began to turn. A burst of laughter from beyond the door stopped his hand."
+    },
+    {
+      "id": "X10:0300",
+      "i": 227,
+      "n": 300,
+      "sj": "",
+      "se": "",
+      "jp": "　笑い声は、およそこういったホテルには似つかわしくない、いくつもの子供たちの声であった。実に楽しそうな雰囲気である。",
+      "en": "It was the laughter of several children, a sound altogether out of place in such a hotel. They sounded genuinely happy."
+    },
+    {
+      "id": "X10:0306",
+      "i": 228,
+      "n": 306,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は戸惑いながらドアを開ける。",
+      "en": "Perplexed, <tips=28>Thomas</tips> opened the door."
+    },
+    {
+      "id": "X10:0307",
+      "i": 229,
+      "n": 307,
+      "sj": "",
+      "se": "",
+      "jp": "　その向こうは広々としたワンルームとなっている。廊下とはうって変わって明るい場所だ。大きな窓からは日差しが差し込み、健康的な光が室内を満たしている。",
+      "en": "Beyond it lay a spacious single room. In stark contrast to the corridor, it was bright. Sunlight poured through a large window, filling the interior with healthy light."
+    },
+    {
+      "id": "X10:0308",
+      "i": 230,
+      "n": 308,
+      "sj": "",
+      "se": "",
+      "jp": "　部屋の手前にはテーブルやらソファーやらがあったが、その奥のスペースはまるで修学旅行のようにいくつもの布団が敷き詰められてあり、その上で子供たちが輪になってカードゲームのようなものに興じていた。彼らのまわりには、ゲーム機や、漫画本、飲みかけの清涼飲料水のペットボトルなどが散らばっている。",
+      "en": "Tables and sofas occupied the front of the room. In the space beyond, bedding covered the floor like accommodations on a school trip. Children sat in a circle atop it playing what looked like a card game. Game consoles, comic books, and half-finished bottles of soda lay scattered around them."
+    },
+    {
+      "id": "X10:0310",
+      "i": 231,
+      "n": 310,
+      "sj": "",
+      "se": "",
+      "jp": "　そのなかには一人だけ、大人が混じっていた。彼の顔は、先ほど送られたメールに添付されていた画像で見ていた。それは弟である広瀬孝司だった。彼も他の子供たちと同じように、黄色い歯をむきだした笑顔でカードをめくったりしている。",
+      "en": "Only one adult sat among them. Thomas recognized his face from the photograph attached to the email: the younger brother, Koji Hirose. Like the children, he grinned with yellow teeth as he turned over cards."
+    },
+    {
+      "id": "X10:0311",
+      "i": 232,
+      "n": 311,
+      "sj": "",
+      "se": "",
+      "jp": "　確かに子供たちはいる。が、想像していたよりもずっと明るく楽しげな光景である。<tips=28>トーマス</tips>は若干面くらいながら部屋の中に足を踏み入れ、そして、テーブルの上に広げられた書類に視線を落とした。",
+      "en": "There certainly were children, but the scene was far brighter and happier than <tips=28>Thomas</tips> had imagined. Somewhat taken aback, he entered and lowered his gaze to the documents spread across the table."
+    },
+    {
+      "id": "X10:0313",
+      "i": 233,
+      "n": 313,
+      "sj": "",
+      "se": "",
+      "jp": "　子供の顔をアップにした画像と、全身を写し取った画像が上の方に掲載されており、そして他のスペースには、名前、生年月日、身長と体重、使用可能な言語、両親の人種と職業、性格や得意な運動など、それはまるで、車やパソコンを買うカタログの様に、ことこまかいスペックが書かれていた。いや、実際カタログなのだろう。ここで本当に人身売買が行われているのだとすれば。",
+      "en": "Close-up photographs of a child's face and full body appeared at the top. The remaining space listed a name, date of birth, height and weight, languages spoken, parents' races and occupations, personality, athletic talents, and other detailed specifications, like a catalog for buying a car or computer. No—if human trafficking truly occurred here, that was exactly what it was."
+    },
+    {
+      "id": "X10:0314",
+      "i": 234,
+      "n": 314,
+      "sj": "",
+      "se": "",
+      "jp": "　そうしたカタログは何枚もあり、明らかに今この部屋にいる子供の数よりも多かった。すでに売れた子供のカタログもあるのかもしれない。",
+      "en": "There were many such catalog sheets, clearly more than the number of children now in the room. Some might describe children already sold."
+    },
+    {
+      "id": "X10:0315",
+      "i": 235,
+      "n": 315,
+      "sj": "",
+      "se": "",
+      "jp": "　カタログのいくつかには、クリップでメモが止めてある。そこには人名と、電話番号、メールアドレス、そして￥マークのついた金額のような数字がボールペンの文字で書かれていた。",
+      "en": "Notes had been clipped to several sheets. In ballpoint pen, they listed names, telephone numbers, email addresses, and figures preceded by yen signs."
+    },
+    {
+      "id": "X10:0316",
+      "i": 236,
+      "n": 316,
+      "sj": "",
+      "se": "",
+      "jp": "　これは購入者の情報だろうか？",
+      "en": "Was this information about the buyers?"
+    },
+    {
+      "id": "X10:0317",
+      "i": 237,
+      "n": 317,
+      "sj": "",
+      "se": "",
+      "jp": "（やっぱり！）",
+      "en": "(I knew it!)"
+    },
+    {
+      "id": "X10:0318",
+      "i": 238,
+      "n": 318,
+      "sj": "",
+      "se": "",
+      "jp": "　他には、金の出入りを記録する帳簿のような書類もあった。<tips=9>Y地区</tips>でなら一生遊んで暮らせそうなほど、大きな金が動いている。",
+      "en": "Other papers resembled ledgers recording money entering and leaving. The sums involved were vast enough to support a lifetime of leisure in <tips=9>Y District</tips>."
+    },
+    {
+      "id": "X10:0319",
+      "i": 239,
+      "n": 319,
+      "sj": "",
+      "se": "",
+      "jp": "　そうした書類を一枚手にとって見ると、下には紙幣の束が無造作に転がっている。",
+      "en": "When he picked up one of the documents, he found bundles of banknotes lying carelessly beneath it."
+    },
+    {
+      "id": "X10:0320",
+      "i": 240,
+      "n": 320,
+      "sj": "",
+      "se": "",
+      "jp": "（落ち着け、落ち着くんだ……）",
+      "en": "(Stay calm. Calm down...)"
+    },
+    {
+      "id": "X10:0321",
+      "i": 241,
+      "n": 321,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は緊張で鼓動が早くなる自分にそう言い聞かせながら、携帯電話を取り出すと、その書類や札束を撮影し、そして遊んでいる子供と広瀬孝司の姿も同じように複数撮った。",
+      "en": "<tips=28>Thomas</tips> told himself this as tension quickened his heartbeat. He took out his phone, photographed the documents and bundles of cash, then took several pictures of Koji Hirose and the children at play."
+    },
+    {
+      "id": "X10:0322",
+      "i": 242,
+      "n": 322,
+      "sj": "",
+      "se": "",
+      "jp": "　画像を確認すると孝司たちの方はぼやけていたので、勇気を出して近づき、すぐ目の前から彼ら一人一人の顔や、今居る場所がわかるよう構図を考えながら撮影をした。",
+      "en": "When he checked the images, Koji and the others were blurred. Summoning his courage, he approached and photographed each face from directly in front, framing the shots to make their location clear."
+    },
+    {
+      "id": "X10:0323",
+      "i": 243,
+      "n": 323,
+      "sj": "",
+      "se": "",
+      "jp": "「いてっ」",
+      "en": "Ow!"
+    },
+    {
+      "id": "X10:0324",
+      "i": 244,
+      "n": 324,
+      "sj": "",
+      "se": "",
+      "jp": "　途中子供が思わぬ動きをしてトーマスにぶつかり、ひどく肝を冷やしたが、子供は不審げにきょろきょろと辺りを見回すだけで、部屋に入り込んだ<tips=28>トーマス</tips>と<tips=29>アイス</tips>には気がつかない。",
+      "en": "A child moved unexpectedly and collided with Thomas, nearly stopping his heart. The child only looked around suspiciously and failed to notice the intruding <tips=28>Thomas</tips> and <tips=29>Ice</tips>."
+    },
+    {
+      "id": "X10:0326",
+      "i": 245,
+      "n": 326,
+      "sj": "",
+      "se": "",
+      "jp": "「どうした？」",
+      "en": "What's wrong?"
+    },
+    {
+      "id": "X10:0327",
+      "i": 246,
+      "n": 327,
+      "sj": "",
+      "se": "",
+      "jp": "　孝司が笑いながら訊ねると、",
+      "en": "Koji asked with a laugh."
+    },
+    {
+      "id": "X10:0328",
+      "i": 247,
+      "n": 328,
+      "sj": "",
+      "se": "",
+      "jp": "「なんでもないみたい」",
+      "en": "I guess it was nothing."
+    },
+    {
+      "id": "X10:0329",
+      "i": 248,
+      "n": 329,
+      "sj": "",
+      "se": "",
+      "jp": "　子供はそう答え、またゲームに戻った。",
+      "en": "The child answered and returned to the game."
+    },
+    {
+      "id": "X10:0331",
+      "i": 249,
+      "n": 331,
+      "sj": "",
+      "se": "",
+      "jp": "（よし、ちゃんと出来てるぞ。やり残しはないか？　こういう緊張している場面って、自分でやったつもりでもうまく出来ていなかったりするからな……）",
+      "en": "(Good. I'm doing this properly. Have I missed anything? In a tense situation, things you think you've done often aren't done correctly...)"
+    },
+    {
+      "id": "X10:0332",
+      "i": 250,
+      "n": 332,
+      "sj": "",
+      "se": "",
+      "jp": "　トーマスはこの部屋ですべきことはもうないか、心の中で何度も確認してから、そっと部屋を出る。これだけでも彼らの行為を証明するのには充分な証拠となるが、しかし<tips=28>トーマス</tips>は調査をこれで終わりにするつもりはなかった。どうしても、気にかかることがあるのだ。",
+      "en": "Thomas mentally reviewed the room several times before quietly leaving. He already had enough evidence to prove their crimes, but <tips=28>Thomas</tips> did not intend to end the investigation there. Something still troubled him."
+    },
+    {
+      "id": "X10:0333",
+      "i": 251,
+      "n": 333,
+      "sj": "",
+      "se": "",
+      "jp": "　部屋には兄の平太がいなかった。そして、彼が連れていた子供も。",
+      "en": "The elder brother, Heita, had not been in the room. Neither had the child who accompanied him."
+    },
+    {
+      "id": "X10:0334",
+      "i": 252,
+      "n": 334,
+      "sj": "",
+      "se": "",
+      "jp": "　兄弟を断罪するのが目的だけなら、これ以上の証拠は必要ないが、兄が何をしているか気になる。いやな胸騒ぎがするのだ。",
+      "en": "If his only goal were to condemn the brothers, he needed no further evidence. But he wanted to know what Heita was doing. He felt a terrible premonition."
+    },
+    {
+      "id": "X10:0342",
+      "i": 253,
+      "n": 342,
+      "sj": "",
+      "se": "",
+      "jp": "　他の部屋も見ておかなくてはならない。",
+      "en": "They had to inspect the other rooms."
+    },
+    {
+      "id": "X10:0343",
+      "i": 254,
+      "n": 343,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はマスターキーを握りしめて一つずつ点検を開始する。",
+      "en": "Clutching the master key, <tips=28>Thomas</tips> began checking them one by one."
+    },
+    {
+      "id": "X10:0344",
+      "i": 255,
+      "n": 344,
+      "sj": "",
+      "se": "",
+      "jp": "　すぐとなりの部屋は、照明が切れた真っ暗な部屋で、元々となりの部屋にあったものと思われるベッドなどが乱雑に詰め込まれていた。",
+      "en": "The room next door was pitch-black with a broken light. Beds and other furnishings apparently removed from the neighboring room had been piled haphazardly inside."
+    },
+    {
+      "id": "X10:0345",
+      "i": 256,
+      "n": 345,
+      "sj": "",
+      "se": "",
+      "jp": "　そこには誰もいない。ここで一旦能力を解除し、<tips=29>アイス</tips>にこれまでの経緯を説明する。彼女は黙って頷き、<tips=28>トーマス</tips>の行動に従う意志を示した。",
+      "en": "No one was there. They temporarily ended the ability, allowing <tips=28>Thomas</tips> to explain everything so far to <tips=29>Ice</tips>. She nodded silently, showing her willingness to follow his lead."
+    },
+    {
+      "id": "X10:0346",
+      "i": 257,
+      "n": 346,
+      "sj": "",
+      "se": "",
+      "jp": "　再び能力を発動させるとゆっくりと部屋を出て、さらにそのとなりの部屋に足を踏み入れる。",
+      "en": "After activating her ability again, they slowly left and entered the next room."
+    },
+    {
+      "id": "X10:0347",
+      "i": 258,
+      "n": 347,
+      "sj": "",
+      "se": "",
+      "jp": "　そこは広瀬兄弟のどちらかの居住する部屋らしく、衣服や食べかけの弁当が散らばっていた。ここにも何もないようだ。",
+      "en": "It appeared to be the living quarters of one Hirose brother. Clothes and half-eaten boxed meals lay scattered about. Nothing seemed to be there either."
+    },
+    {
+      "id": "X10:0348",
+      "i": 259,
+      "n": 348,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてさらに次の部屋で、遂に兄の広瀬平太の姿を見つけた。",
+      "en": "In the following room, at last, they found the elder brother, Heita Hirose."
+    },
+    {
+      "id": "X10:0356",
+      "i": 260,
+      "n": 356,
+      "sj": "",
+      "se": "",
+      "jp": "　その部屋のベッドや内装は、ホテルの設備そのままの普通の客室であったが、まわりにはいくつもの三脚が立てられ、撮影用の照明や、レフ板、そしてベッドの方を向いて固定されたハンディカメラが設置されている。",
+      "en": "Its bed and interior were those of an ordinary guest room, unchanged from the hotel's original equipment. Around it, however, stood several tripods, filming lights, reflectors, and a handheld camera fixed toward the bed."
+    },
+    {
+      "id": "X10:0357",
+      "i": 261,
+      "n": 357,
+      "sj": "",
+      "se": "",
+      "jp": "　暗い部屋のなか、そこだけ明るく照らし出されたベッドの上には先ほど下で見た肌の浅黒い子供がうつろな表情で座っていた。その目の前で広瀬平太がビデオカメラを弄っている。",
+      "en": "In the dark room, the bed alone was brightly illuminated. The brown-skinned child Thomas had seen downstairs sat upon it with a vacant expression while Heita Hirose adjusted a video camera in front of her."
+    },
+    {
+      "id": "X10:0358",
+      "i": 262,
+      "n": 358,
+      "sj": "",
+      "se": "",
+      "jp": "　子供は髪が短くてわからなかったが、良く見ると女の子のようであった。",
+      "en": "The child's short hair had obscured it at first, but a closer look showed that she was a girl."
+    },
+    {
+      "id": "X10:0359",
+      "i": 263,
+      "n": 359,
+      "sj": "",
+      "se": "",
+      "jp": "　どうもここはスタジオのようであるが、わざわざこんな場所を用意するとなれば、普通の撮影ではないのは明白だ。",
+      "en": "This was clearly a studio, and the trouble taken to prepare it made equally clear that no ordinary filming occurred here."
+    },
+    {
+      "id": "X10:0360",
+      "i": 264,
+      "n": 360,
+      "sj": "",
+      "se": "",
+      "jp": "　ベッドと反対側の壁際には、いくつものモニターや編集機材が設置されている。",
+      "en": "Several monitors and pieces of editing equipment had been installed along the wall opposite the bed."
+    },
+    {
+      "id": "X10:0361",
+      "i": 265,
+      "n": 361,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は近づき、作業台のまわりに散らばっていた写真の一枚を手に取った。そこには、白人の少女が裸で男と絡み合う姿が写し出されている。胸が痛くなる。",
+      "en": "<tips=28>Thomas</tips> approached and picked up one of the photographs scattered around the workbench. It showed a naked white girl entangled with a man. His heart ached."
+    },
+    {
+      "id": "X10:0362",
+      "i": 266,
+      "n": 362,
+      "sj": "",
+      "se": "",
+      "jp": "「リーサ、薬を飲むか？　少しラクになる」",
+      "en": "Lisa, do you want some medicine? It'll make things a little easier."
+    },
+    {
+      "id": "X10:0363",
+      "i": 267,
+      "n": 363,
+      "sj": "",
+      "se": "",
+      "jp": "　平太がそう話しかけて白い錠剤を差し出すと、少女は無言で首を横に振る。",
+      "en": "Heita offered a white tablet as he spoke. The girl silently shook her head."
+    },
+    {
+      "id": "X10:0364",
+      "i": 268,
+      "n": 364,
+      "sj": "",
+      "se": "",
+      "jp": "「金は取らないぞ。サービスだ」",
+      "en": "I won't charge you. It's on the house."
+    },
+    {
+      "id": "X10:0365",
+      "i": 269,
+      "n": 365,
+      "sj": "",
+      "se": "",
+      "jp": "　無理矢理押しつけるように錠剤を手渡すと、少女は手のひらの上のそれをしばらく見つめてから、手慣れた仕草で口に放り込み、脇に転がっていたボトルの口を開けて直接唇をつけて水を流し込んだ。",
+      "en": "He forced the tablet into her hand. She stared at it for a moment, then tossed it expertly into her mouth, opened a bottle lying nearby, and drank directly from it."
+    },
+    {
+      "id": "X10:0366",
+      "i": 270,
+      "n": 366,
+      "sj": "",
+      "se": "",
+      "jp": "「OKそれでいい。ちょっとの間だけ我慢すれば、金を持って帰ってお父さんとお母さんを喜ばせられる」",
+      "en": "Okay, good. Endure it for a little while, and you can take the money home and make your father and mother happy."
+    },
+    {
+      "id": "X10:0367",
+      "i": 271,
+      "n": 367,
+      "sj": "",
+      "se": "",
+      "jp": "　リーサと呼ばれた少女は無表情にその言葉を聞いている。",
+      "en": "The girl called Lisa listened without expression."
+    },
+    {
+      "id": "X10:0368",
+      "i": 272,
+      "n": 368,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はもうこの場面がどういうものか完全に理解した。今からここでこの少女のポルノビデオを撮影しようというのだ。",
+      "en": "<tips=28>Thomas</tips> now understood the scene completely. They intended to film pornography featuring this girl."
+    },
+    {
+      "id": "X10:0369",
+      "i": 273,
+      "n": 369,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は思わず声をあげそうになった。なんて悲しいことをしようとしているのだろう？　少女が冷淡に受け入れようとしているのが、なおさら絶望的だ。彼女にとってこれはごくあたりまえの現実なのだ。泣いたり騒いだりするようなものではないのだ。",
+      "en": "He nearly cried out. What a tragic thing they were about to do. Her detached acceptance made it more hopeless still. To her, this was ordinary reality—not something worth crying or protesting over."
+    },
+    {
+      "id": "X10:0370",
+      "i": 274,
+      "n": 370,
+      "sj": "",
+      "se": "",
+      "jp": "　少女の顔つきはまだ幼いのに、そこに浮かんだ表情はもうすべてを失った大人のものである。",
+      "en": "Her face was still childish, but its expression belonged to an adult who had already lost everything."
+    },
+    {
+      "id": "X10:0371",
+      "i": 275,
+      "n": 371,
+      "sj": "",
+      "se": "",
+      "jp": "　この街にはこういう顔をした子供が多い。それを見るたび<tips=28>トーマス</tips>は息苦しくなる。",
+      "en": "Many children in this town wore such faces. Each time he saw one, <tips=28>Thomas</tips> struggled to breathe."
+    },
+    {
+      "id": "X10:0372",
+      "i": 276,
+      "n": 372,
+      "sj": "",
+      "se": "",
+      "jp": "（僕は彼らのような苦しみもなく育ってしまったんだ。ただ生まれが違うというだけで）",
+      "en": "(I grew up knowing none of their suffering, only because I was born somewhere different.)"
+    },
+    {
+      "id": "X10:0373",
+      "i": 277,
+      "n": 373,
+      "sj": "",
+      "se": "",
+      "jp": "　父と母は離婚した。でもどちらも自分を愛し、母は無理矢理自分をアメリカまでつれて行ったし、父親はそのあとも何度も母を説得して呼び戻した。どちらの家に居るときも、両親は自分を溺愛してくれていた。",
+      "en": "His parents had divorced. Yet both loved him. His mother had forcibly taken him as far as America, and afterward his father repeatedly tried to persuade her to return. Whichever household he lived in, his parents doted on him."
+    },
+    {
+      "id": "X10:0374",
+      "i": 278,
+      "n": 374,
+      "sj": "",
+      "se": "",
+      "jp": "　父も母も世間での評判は良くなかったけれど、それでも自分に対しては特別に優しかった。父の<tips=27>廖</tips>は、街を追放された今でも週に一度は連絡をしてきて、「元気にやってるか？」と心配したり、「<tips=2>阿亮</tips>とうまくいっていないなら、お父さんが帰ってやっつけてやる」なんて、本気だか冗談だかわからないことを言う。",
+      "en": "Neither parent had a good reputation in society, but both were exceptionally kind to him. Even in exile, his father <tips=27>Liao</tips> called once a week to ask if he was well, or say something impossible to classify as serious or joking: \"If things aren't going well with <tips=2>Ah Long</tips>, Father will come back and beat him up for you.\""
+    },
+    {
+      "id": "X10:0375",
+      "i": 279,
+      "n": 375,
+      "sj": "",
+      "se": "",
+      "jp": "　それが<tips=28>トーマス</tips>にとっての家族というものだった。",
+      "en": "That was what family meant to <tips=28>Thomas</tips>."
+    },
+    {
+      "id": "X10:0376",
+      "i": 280,
+      "n": 376,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=9>Y地区</tips>の子供たちはどうしてなんだろう？　寂しそうな顔をした子供ばかりだ。親が子供を売り、子供が親を時に殺す。それが貧しさというものなのだろうか。でも、それだけではないように思う。",
+      "en": "Why was it different for the children of <tips=9>Y District</tips>? So many wore lonely expressions. Parents sold children, and children sometimes killed parents. Was that simply poverty? He felt there was more to it."
+    },
+    {
+      "id": "X10:0377",
+      "i": 281,
+      "n": 377,
+      "sj": "",
+      "se": "",
+      "jp": "（たとえば<tips=2>阿亮</tips>だってそうだ）",
+      "en": "(<tips=2>Ah Long</tips> is another example.)"
+    },
+    {
+      "id": "X10:0378",
+      "i": 282,
+      "n": 378,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=81>龍頭</tips>の息子という立派な身分だけど、親戚の家に預けられて、父親とはほとんど会うことがなかったし、母親は<tips=17>タイプB</tips>で、忙しい父や<tips=17>タイプB</tips>を嫌悪する親戚たちのかわりに彼は自らその面倒をみたという。<tips=17>タイプB</tips>発作で精神をわずらった母の面倒をみるというのはなんて過酷な運命なんだろう！　<tips=2>阿亮</tips>の強さというのはそこから来ているのかもしれない。",
+      "en": "Though born to the lofty status of the <tips=81>Longtou</tips>'s son, he was left with relatives and rarely saw his father. His mother was <tips=17>Type B</tips>, and in place of his busy father and relatives who despised <tips=17>Type B</tips> people, he cared for her himself. What a cruel fate, tending a mother driven mentally ill by <tips=17>Type B</tips> episodes. Perhaps <tips=2>Ah Long</tips>'s strength came from that."
+    },
+    {
+      "id": "X10:0379",
+      "i": 283,
+      "n": 379,
+      "sj": "",
+      "se": "",
+      "jp": "　こうして可哀想な少女を見ていると、<tips=28>トーマス</tips>は何か訳のわからないものに打ちのめされたような気持ちになり、涙がとめどもなくあふれてしまう。",
+      "en": "Watching this poor girl, <tips=28>Thomas</tips> felt crushed by something he could not understand, and tears flowed without end."
+    },
+    {
+      "id": "X10:0380",
+      "i": 284,
+      "n": 380,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、世界からこんな可哀想な子供が一人もいなくなって、みな幸福にならなければいけないと、強く思うのだ。",
+      "en": "He felt with all his heart that not one such miserable child should remain in the world—that every child must be happy."
+    },
+    {
+      "id": "X10:0381",
+      "i": 285,
+      "n": 381,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬はカメラのチェックをしているらしい。背面のモニターを見ながら画質の調整をしていた。",
+      "en": "Hirose appeared to be checking the camera. He watched the rear monitor while adjusting the image."
+    },
+    {
+      "id": "X10:0382",
+      "i": 286,
+      "n": 382,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてそのまま、くるりと後ろに振り返る。どうやらそこに置いてあった飲みかけの缶ビールを取ろうとしたようなのだが、その時彼はおかしなものを見つけてしまった。",
+      "en": "Then he turned around, apparently reaching for a half-finished can of beer behind him. At that moment, he noticed something strange."
+    },
+    {
+      "id": "X10:0383",
+      "i": 287,
+      "n": 383,
+      "sj": "",
+      "se": "",
+      "jp": "　モニターのなかに、手を繋いで目から涙を流す白人の青年と、顔を半分髪の毛で隠したアジア人の若い女が映っているのである。",
+      "en": "The monitor showed a white young man with tears running from his eyes holding hands with a young Asian woman whose face was half concealed by her hair."
+    },
+    {
+      "id": "X10:0384",
+      "i": 288,
+      "n": 384,
+      "sj": "",
+      "se": "",
+      "jp": "　驚いて顔を上げても、そこには誰もいない。",
+      "en": "He looked up in shock, but no one was there."
+    },
+    {
+      "id": "X10:0385",
+      "i": 289,
+      "n": 385,
+      "sj": "",
+      "se": "",
+      "jp": "　目をぱちくりさせてもう一度カメラのモニターを見ると、確かにそこに人が映っているというのに。",
+      "en": "He blinked and checked the camera monitor again. Two people were unquestionably visible upon it."
+    },
+    {
+      "id": "X10:0386",
+      "i": 290,
+      "n": 386,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は動揺して後ずさる。何度目の前のその空間を見ても、誰もいないのだ。",
+      "en": "Hirose stumbled backward in alarm. No matter how often he looked at the space before him, no one was there."
+    },
+    {
+      "id": "X10:0387",
+      "i": 291,
+      "n": 387,
+      "sj": "",
+      "se": "",
+      "jp": "　モニターのなかにしか見えないその青年は、ジャケットの胸元に手を入れて、拳銃を取り出すとこちらに向けた。",
+      "en": "The young man visible only on the monitor reached inside his jacket, drew a pistol, and aimed it at him."
+    },
+    {
+      "id": "X10:0395",
+      "i": 292,
+      "n": 395,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「あなたは広瀬平太だね」",
+      "en": "You are Heita Hirose, correct?"
+    },
+    {
+      "id": "X10:0396",
+      "i": 293,
+      "n": 396,
+      "sj": "",
+      "se": "",
+      "jp": "　その声と共に、<tips=29>アイス</tips>の能力は効果を失って二人は姿を現す。",
+      "en": "With those words, <tips=29>Ice</tips>'s ability ended, and the two appeared."
+    },
+    {
+      "id": "X10:0397",
+      "i": 294,
+      "n": 397,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「騒いではいけない。僕は<tips=7>ＹＳ</tips>の<tips=28>トーマス・リャオ</tips>。<tips=27>廖志明</tips>の長男と言えばわかるかい？」",
+      "en": "Do not make a sound. I am <tips=28>Thomas Liao</tips> of <tips=7>YS</tips>. Does it help if I say I am <tips=27>Chimin Liao</tips>'s eldest son?"
+    },
+    {
+      "id": "X10:0398",
+      "i": 295,
+      "n": 398,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は突然のことに混乱してしまい、カメラを持ったまま呆然とその場に立ち尽くしている。",
+      "en": "Overwhelmed by the sudden development, Hirose stood frozen in place, still holding the camera."
+    },
+    {
+      "id": "X10:0399",
+      "i": 296,
+      "n": 399,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「きみら兄弟がやろうとしていることは、はっきりとこの目で見させて貰った。見逃すことは出来ない。変な気を起こしたらいけないよ。きみは本物のギャングのボスの前にいるんだ」",
+      "en": "I have seen exactly what you brothers are doing with my own eyes. I cannot overlook it. Don't try anything strange. You stand before the boss of a real gang."
+    },
+    {
+      "id": "X10:0400",
+      "i": 297,
+      "n": 400,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はそう言って目を細める。",
+      "en": "<tips=28>Thomas</tips> narrowed his eyes."
+    },
+    {
+      "id": "X10:0401",
+      "i": 298,
+      "n": 401,
+      "sj": "",
+      "se": "",
+      "jp": "　目のまわりはまだ涙で濡れていたが、もう興奮はしていなかった。人に拳銃を向けるのは初めてだが、泣いたせいで、さほど緊張しないのは有り難い。",
+      "en": "The skin around them was still wet with tears, but his excitement had passed. It was his first time pointing a gun at someone, yet crying had eased his nerves, for which he was grateful."
+    },
+    {
+      "id": "X10:0402",
+      "i": 299,
+      "n": 402,
+      "sj": "",
+      "se": "",
+      "jp": "　隣の<tips=29>アイス</tips>はもう目を見開いており、彼の濡れた横顔を見ている。もう能力もとけており、手を繋いでいる必要はないのだが、彼はそれには気がつかず今も握りしめたままだった。その手のひらが汗だくになっている。",
+      "en": "Beside him, <tips=29>Ice</tips>'s eyes were already open, studying his wet profile. Her ability had ended, and they no longer needed to hold hands, but he had not noticed and still clutched hers. His palm was drenched in sweat."
+    },
+    {
+      "id": "X10:0403",
+      "i": 300,
+      "n": 403,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=29>アイス</tips>は何も言わずに視線を辺りに走らせ、素早く状況を確認すると自分の拳銃を抜いた。",
+      "en": "Without speaking, <tips=29>Ice</tips> swept her gaze around, rapidly assessed the situation, and drew her own handgun."
+    },
+    {
+      "id": "X10:0404",
+      "i": 301,
+      "n": 404,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「まず話を聞こう。きみと弟はスラムから子供を連れて来て、ポルノを撮影したり、街の外の人間に売り飛ばしている。……これは間違いがないね？」",
+      "en": "First, you will explain. You and your brother bring children here from the slums, film pornography, and sell them to people outside town... That is correct, isn't it?"
+    },
+    {
+      "id": "X10:0405",
+      "i": 302,
+      "n": 405,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬はまだ硬直がとけず、ぎょろりと目を剥いたまま黙っている。",
+      "en": "Hirose remained frozen and silent, his eyes bulging."
+    },
+    {
+      "id": "X10:0406",
+      "i": 303,
+      "n": 406,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「僕は向こうの部屋で遊んでいる子供たちや、売買の書類も確認している。言い逃れは出来ないよ」",
+      "en": "I have seen the children playing in the other room and the sale documents. You cannot talk your way out of this."
+    },
+    {
+      "id": "X10:0407",
+      "i": 304,
+      "n": 407,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「ち、違う」",
+      "en": "N-no, that's wrong."
+    },
+    {
+      "id": "X10:0408",
+      "i": 305,
+      "n": 408,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「何が違うの？　あなたたち兄弟は子供を食い物にしてる。それが事実だよ」",
+      "en": "What is wrong? You brothers exploit children. That is the fact."
+    },
+    {
+      "id": "X10:0409",
+      "i": 306,
+      "n": 409,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は相手を見つめて、いつものおっとりとした口調ながらも彼なりの憤りを込めてはっきりと言った。",
+      "en": "<tips=28>Thomas</tips> looked directly at him and spoke clearly in his usual gentle tone, but with all the anger he could muster."
+    },
+    {
+      "id": "X10:0410",
+      "i": 307,
+      "n": 410,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「違うんだ。ほらっ、この怪我を見ろ！　この子は毎晩のように<tips=59>暗闇通り</tips>に立って客を取っていた。親の命令でだ。だけど、この撮影を一回やれば三ヶ月は客を取らないで済むだけの金が手に入る」",
+      "en": "You're wrong. Look at these injuries! This girl stood on <tips=59>Darkness Street</tips> taking customers almost every night, on her parents' orders. But doing one shoot earns enough money that she won't need another customer for three months."
+    },
+    {
+      "id": "X10:0411",
+      "i": 308,
+      "n": 411,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は少女の手を掴んで、その腕についた痣を見せた。",
+      "en": "Hirose seized the girl's hand and displayed the bruises on her arm."
+    },
+    {
+      "id": "X10:0412",
+      "i": 309,
+      "n": 412,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「それに、向こうの部屋の子供たちだって、人身売買なんてもんじゃない。ただ、養子が欲しい金持ちに紹介してやっているだけだ。子供たちだって、美味しいものが沢山食べられると聞いて大喜びしているし、親だって大金が手に入る。おれたちは良いことをしてやってるんだよ」",
+      "en": "And the children in the other room aren't being trafficked. We only introduce them to rich people who want to adopt. The kids are delighted when they hear they'll eat all the delicious food they want, and their parents receive a fortune. We're doing something good for them."
+    },
+    {
+      "id": "X10:0413",
+      "i": 310,
+      "n": 413,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「ポルノに関しては難しい問題だね」",
+      "en": "The pornography is a difficult matter."
+    },
+    {
+      "id": "X10:0414",
+      "i": 311,
+      "n": 414,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は顔をしかめる。",
+      "en": "<tips=28>Thomas</tips> frowned."
+    },
+    {
+      "id": "X10:0415",
+      "i": 312,
+      "n": 415,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「そ、そうだろう？」",
+      "en": "R-right?"
+    },
+    {
+      "id": "X10:0416",
+      "i": 313,
+      "n": 416,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「でも、少なくとも養子縁組は間違ってるよ。だって、本当に養子が欲しくて、育てる資格がある人間だったら、正規の手続きをして施設の子を貰うでしょう。なのに、どうしてこの街の、戸籍もないような、書類上存在しないことになってる子供を大金払って買うんだと思う？　善意の人もいるかもしれないけれど、そうでない訳ありの客がいることくらい想像出来るはずじゃないか。きみは誤魔化しを言っているだけだ」",
+      "en": "But the adoptions are certainly wrong. Anyone who genuinely wanted a child and was fit to raise one would follow the proper process and adopt from an institution. Why do you think someone would pay a fortune for a child from this town who has no family register and officially does not exist? Some buyers may have good intentions, but you must realize others have sinister reasons for avoiding scrutiny. You are only making excuses."
+    },
+    {
+      "id": "X10:0417",
+      "i": 314,
+      "n": 417,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は反論できずに黙り込んでしまう。",
+      "en": "Unable to answer, Hirose fell silent."
+    },
+    {
+      "id": "X10:0418",
+      "i": 315,
+      "n": 418,
+      "sj": "",
+      "se": "",
+      "jp": "（……この人、あまりこういう仕事に慣れていないのかな？）",
+      "en": "(Is this man inexperienced at work like this?)"
+    },
+    {
+      "id": "X10:0419",
+      "i": 316,
+      "n": 419,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>の知っているギャングたちというものは、こんなに簡単にうなだれたりはしない。",
+      "en": "The gangsters <tips=28>Thomas</tips> knew did not hang their heads so easily."
+    },
+    {
+      "id": "X10:0420",
+      "i": 317,
+      "n": 420,
+      "sj": "",
+      "se": "",
+      "jp": "　素人なのだろうか？",
+      "en": "Was he an amateur?"
+    },
+    {
+      "id": "X10:0421",
+      "i": 318,
+      "n": 421,
+      "sj": "",
+      "se": "",
+      "jp": "　それに、今言ったのが本当に彼の考えなら、これくらいの反論で諦めてしまうものなのだろうか？",
+      "en": "And if the argument he had given truly reflected his beliefs, would so slight an objection make him abandon it?"
+    },
+    {
+      "id": "X10:0422",
+      "i": 319,
+      "n": 422,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「ねえ、一つ聞きたいんだけど、今の意見、誰かから聞いたの？　なんだか、きみの意見じゃないような気がするんだ」",
+      "en": "Let me ask you something. Did you hear that opinion from someone else? It doesn't sound like your own."
+    },
+    {
+      "id": "X10:0423",
+      "i": 320,
+      "n": 423,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「それは……」",
+      "en": "That..."
+    },
+    {
+      "id": "X10:0424",
+      "i": 321,
+      "n": 424,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は一旦口ごもったが、すぐにまた言葉を続ける。",
+      "en": "Hirose faltered, then quickly continued."
+    },
+    {
+      "id": "X10:0425",
+      "i": 322,
+      "n": 425,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「女にそう言われたんだよ」",
+      "en": "A woman told us."
+    },
+    {
+      "id": "X10:0426",
+      "i": 323,
+      "n": 426,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「女？」",
+      "en": "A woman?"
+    },
+    {
+      "id": "X10:0427",
+      "i": 324,
+      "n": 427,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「そう、路上で転がっていたおれたちに『<tips=46>ネオ・ローズ</tips>』を注射してくれたのもそいつだ。そう、何もかもあの女が悪いんだよ！」",
+      "en": "Yes. She was the one who injected us with <tips=46>Neo-Rose</tips> when we were lying in the street. That's right—everything is that woman's fault!"
+    },
+    {
+      "id": "X10:0428",
+      "i": 325,
+      "n": 428,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬の顔は感情の高ぶりによって茹でたように赤くなった。",
+      "en": "Emotion flushed Hirose's face boiling red."
+    },
+    {
+      "id": "X10:0429",
+      "i": 326,
+      "n": 429,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「頼んでもいないのに、おれたちに薬を使って、正気に戻しやがった！　おかげでおれたちは、人に恵んで貰うことも出来なくなった。かといって、今更まともな仕事も出来やしねえ。それがわかってて、そそのかしたんだ。……おれたちみたいなクズでも、みんなのためになって、誰よりも金持ちになる仕事があるって」",
+      "en": "We never asked her to drug us and restore our sanity! Afterward, people wouldn't give us charity anymore. But it was too late for us to work honest jobs. She knew that and tempted us. She said even scum like us could help everyone and become richer than anyone else."
+    },
+    {
+      "id": "X10:0430",
+      "i": 327,
+      "n": 430,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「どんな女なんだい？」",
+      "en": "What sort of woman?"
+    },
+    {
+      "id": "X10:0431",
+      "i": 328,
+      "n": 431,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「若い女だ。黒い髪のアジア人で、日本語と英語を使ってた。良い服を着て、金を沢山持ってるみたいだった。おれたちに最初の資金を提供してくれたのもそいつだ」",
+      "en": "Young. An Asian woman with black hair. She spoke Japanese and English, wore fine clothes, and seemed to have plenty of money. She provided our starting capital too."
+    },
+    {
+      "id": "X10:0432",
+      "i": 329,
+      "n": 432,
+      "sj": "",
+      "se": "",
+      "jp": "　どうにもおだやかじゃない話になってきた。",
+      "en": "The account was taking an ominous turn."
+    },
+    {
+      "id": "X10:0433",
+      "i": 330,
+      "n": 433,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「資金を……その女のこと、詳しく教えてくれないか？」",
+      "en": "She provided the money... Can you tell me more about her?"
+    },
+    {
+      "id": "X10:0434",
+      "i": 331,
+      "n": 434,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「わからない。連絡先は知らせずに、いつも向こうから会いに来る。金のやりとりも、現金を手渡されただけで何の書類もなかった。名前さえ名乗ろうとしない」",
+      "en": "I don't know. She never gave us any contact information and always came to see us herself. She handed over cash without any documents. She wouldn't even tell us her name."
+    },
+    {
+      "id": "X10:0435",
+      "i": 332,
+      "n": 435,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「その女が、このビルを買い取って、この仕事をやれと指示したのかい？」",
+      "en": "Did this woman order you to buy the building and run this business?"
+    },
+    {
+      "id": "X10:0436",
+      "i": 333,
+      "n": 436,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「そう、そうだ。おれたちはあの女にそそのかされただけなんだよ！　はじめは子供をつかって稼いで……それで金が出来たら、ホテルの営業をやめてビル全体を娯楽施設にするんだって。昔にあった、<tips=18>ローズ・クラブ</tips>みたいな……。子供を売る相手の見つけ方とか、ビデオを市場に流すやりかたとか、全部あの女から教わったんだ！　おれたちだけじゃ、とてもこんな仕事が出来るわけないじゃないか。出鱈目を言ってるんじゃなくて、その女が主謀者なんだよ。おれたちはただ、言いなりになっただけで……」",
+      "en": "Yes, yes! We were only tempted by that woman! At first, we'd make money using children... Once we had enough, we'd stop operating the hotel and turn the entire building into an entertainment complex. Like the old <tips=18>Rose Club</tips>... She taught us everything: how to find buyers for children and how to distribute videos to the market! We could never have run a business like this ourselves. I'm not making it up. That woman is the mastermind. We only did what she told us..."
+    },
+    {
+      "id": "X10:0437",
+      "i": 334,
+      "n": 437,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は昂ぶって、涙を流し始める。",
+      "en": "Overcome with emotion, Hirose began to weep."
+    },
+    {
+      "id": "X10:0438",
+      "i": 335,
+      "n": 438,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「こんなはずじゃなかったんだ。どうしておれたちを正気にしたんだ？　あのまま狂っていた方が、罪を犯さずに済んだのに……」",
+      "en": "It wasn't supposed to be like this. Why did she restore our sanity? If we'd stayed mad, we never would have committed these crimes..."
+    },
+    {
+      "id": "X10:0439",
+      "i": 336,
+      "n": 439,
+      "sj": "",
+      "se": "",
+      "jp": "　嗚咽をはじめた広瀬を見て、<tips=28>トーマス</tips>は溜息をつく。",
+      "en": "Watching Hirose sob, <tips=28>Thomas</tips> sighed."
+    },
+    {
+      "id": "X10:0440",
+      "i": 337,
+      "n": 440,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「このビルは僕ら<tips=7>ＹＳ</tips>のテリトリーのなかにある。きみと弟がやっていたポルノビデオの制作は我々の領域をおかしており、しかも子供の人身売買は僕らがもっとも嫌っているものだ。それくらい、この街で育ったなら知っているよね？」",
+      "en": "This building lies inside the territory of our <tips=7>YS</tips>. The pornographic videos you and your brother made infringed on our business, and trafficking children is what we despise above all. You grew up in this town, so you know that much, don't you?"
+    },
+    {
+      "id": "X10:0441",
+      "i": 338,
+      "n": 441,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「知っているさ！　知っているけど、そんなの守られてないじゃないか。おれたちだって、子供のころは大人たちに食い物にされて来たんだ。どうして、大人になったからといって、我慢しなくちゃいけないんだい？　あんたにおれたちの気持ちがわかるのか？」",
+      "en": "Of course I know! But no one follows those rules. Adults exploited us when we were children too. Why should we be the ones to exercise restraint now that we're adults? Can you understand how we feel?"
+    },
+    {
+      "id": "X10:0442",
+      "i": 339,
+      "n": 442,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬は涙目でそう叫ぶ。",
+      "en": "Hirose shouted through tearful eyes."
+    },
+    {
+      "id": "X10:0443",
+      "i": 340,
+      "n": 443,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は口ごもってしまう。",
+      "en": "<tips=28>Thomas</tips> faltered."
+    },
+    {
+      "id": "X10:0444",
+      "i": 341,
+      "n": 444,
+      "sj": "",
+      "se": "",
+      "jp": "（確かに、僕には彼らの気持ちがわからない）",
+      "en": "(He's right. I don't understand how they feel.)"
+    },
+    {
+      "id": "X10:0445",
+      "i": 342,
+      "n": 445,
+      "sj": "",
+      "se": "",
+      "jp": "　彼も子供の時は被害者であり続けたのだろう。それが彼らにとって当たり前だったのだ。だから、大人になってそれをするのも『仕方ない』ことで、何が悪いのかわからないかもしれない。",
+      "en": "He too must have spent his childhood as a victim. To them, that was ordinary. Perhaps doing the same after becoming adults felt inevitable, and they could not understand why it was wrong."
+    },
+    {
+      "id": "X10:0446",
+      "i": 343,
+      "n": 446,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は、隣の部屋で子供と楽しそうに遊んでいた男の姿や、今この部屋で少女に気遣いを見せていた広瀬の態度を思い出す。",
+      "en": "<tips=28>Thomas</tips> recalled the man happily playing with the children next door, and Hirose's concern for the girl in this room."
+    },
+    {
+      "id": "X10:0447",
+      "i": 344,
+      "n": 447,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、口を開いた。",
+      "en": "Then he spoke."
+    },
+    {
+      "id": "X10:0448",
+      "i": 345,
+      "n": 448,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「通例通りならば、こういうケースだと極めて重い罰が与えられる。<tips=81>龍頭</tips>に報告すれば、きみらは間違いなく殺されるだろう」",
+      "en": "Under normal practice, a case like this demands an exceptionally severe punishment. If I report you to the <tips=81>Longtou</tips>, both of you will unquestionably be killed."
+    },
+    {
+      "id": "X10:0449",
+      "i": 346,
+      "n": 449,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬はうなだれたまま無反応に聞いている。",
+      "en": "Hirose listened without reaction, head hanging."
+    },
+    {
+      "id": "X10:0450",
+      "i": 347,
+      "n": 450,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「しかし、きみの話にも同情出来るところがある。ある意味きみらもこの街の犠牲者と言えるだろう。これから僕が言う約束を守ってくれるなら、命だけは助けよう」",
+      "en": "But parts of your account deserve sympathy. In a sense, you too are victims of this town. If you keep the promise I am about to demand, I will at least spare your lives."
+    },
+    {
+      "id": "X10:0451",
+      "i": 348,
+      "n": 451,
+      "sj": "",
+      "se": "",
+      "jp": "　広瀬はそこで顔を上げる。",
+      "en": "Hirose raised his head."
+    },
+    {
+      "id": "X10:0452",
+      "i": 349,
+      "n": 452,
+      "sj": "",
+      "se": "",
+      "jp": "　隣の<tips=29>アイス</tips>も驚きを浮かべて、主人の横顔を見る。",
+      "en": "Beside him, <tips=29>Ice</tips> looked at her master's profile in surprise."
+    },
+    {
+      "id": "X10:0453",
+      "i": 350,
+      "n": 453,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「今すぐ街を出るんだ。そして、もうここに戻って来てはいけない。それを約束できるのなら、この件は僕の胸におさめよう」",
+      "en": "Leave town immediately. Never return. If you can promise that, I will keep this affair to myself."
+    },
+    {
+      "id": "X10:0454",
+      "i": 351,
+      "n": 454,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「ほ、本当かい？」",
+      "en": "A-are you serious?"
+    },
+    {
+      "id": "X10:0455",
+      "i": 352,
+      "n": 455,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「僕は嘘はつかない」",
+      "en": "I do not lie."
+    },
+    {
+      "id": "X10:0456",
+      "i": 353,
+      "n": 456,
+      "sj": "広瀬平太",
+      "se": "Heita Hirose",
+      "jp": "「あ、ありがとうございますっ……」",
+      "en": "Th-thank you..."
+    },
+    {
+      "id": "X10:0457",
+      "i": 354,
+      "n": 457,
+      "sj": "",
+      "se": "",
+      "jp": "　そして広瀬は<tips=28>トーマス</tips>の足元にひれ伏すようにして泣いた。",
+      "en": "Hirose prostrated himself at <tips=28>Thomas</tips>'s feet and wept."
+    },
+    {
+      "id": "X10:0472",
+      "i": 355,
+      "n": 472,
+      "sj": "",
+      "se": "",
+      "jp": "　そのあと<tips=28>トーマス</tips>は広瀬を銃で脅しながら、弟孝司が子供と遊んでいた部屋へ行き、驚く彼に同じように説明をする。",
+      "en": "Afterward, <tips=28>Thomas</tips> threatened Hirose with the gun and took him to the room where Koji was playing with the children. He gave the startled brother the same explanation."
+    },
+    {
+      "id": "X10:0473",
+      "i": 356,
+      "n": 473,
+      "sj": "",
+      "se": "",
+      "jp": "　子供たちは、さすが<tips=9>Y地区</tips>で生まれ育ったと言うべきか、このように銃が出て来る場面での振る舞い方を幼いながらに心得ており、無用に騒いだりせずに黙って大人たちのやりとりを聞いていた。",
+      "en": "Perhaps because they had been born and raised in <tips=9>Y District</tips>, the children knew even at their young age how to behave when guns appeared. They did not cause a commotion, but listened silently to the adults."
+    },
+    {
+      "id": "X10:0474",
+      "i": 357,
+      "n": 474,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「他に経営に関わった人間はいるかい？」",
+      "en": "Was anyone else involved in running this business?"
+    },
+    {
+      "id": "X10:0475",
+      "i": 358,
+      "n": 475,
+      "sj": "",
+      "se": "",
+      "jp": "　説明を終えて、<tips=28>トーマス</tips>はそう訊ねる。",
+      "en": "After finishing his explanation, <tips=28>Thomas</tips> asked."
+    },
+    {
+      "id": "X10:0476",
+      "i": 359,
+      "n": 476,
+      "sj": "広瀬孝司",
+      "se": "Koji Hirose",
+      "jp": "「じ、自分と兄貴だけです。あとはただのアルバイトで、深く関わってはいません」",
+      "en": "J-just me and my brother. Everyone else is only part-time staff. They aren't deeply involved."
+    },
+    {
+      "id": "X10:0477",
+      "i": 360,
+      "n": 477,
+      "sj": "",
+      "se": "",
+      "jp": "　すっかり生気を失った兄のかわりに、孝司がビクビクしながらそう答えた。",
+      "en": "In place of his brother, who had lost all vitality, Koji answered with a frightened tremor."
+    },
+    {
+      "id": "X10:0478",
+      "i": 361,
+      "n": 478,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「わかった」",
+      "en": "I understand."
+    },
+    {
+      "id": "X10:0479",
+      "i": 362,
+      "n": 479,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はテーブルの上から札束を一つ掴むと、兄弟の方に向かって放り投げる。",
+      "en": "<tips=28>Thomas</tips> seized a bundle of cash from the table and tossed it toward the brothers."
+    },
+    {
+      "id": "X10:0480",
+      "i": 363,
+      "n": 480,
+      "sj": "",
+      "se": "",
+      "jp": "　それを、孝司が取り落としそうになりながらもなんとかキャッチする。",
+      "en": "Koji nearly dropped it but managed to catch it."
+    },
+    {
+      "id": "X10:0481",
+      "i": 364,
+      "n": 481,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「外に出たら、それを当面の生活費にしてまともな仕事を探すんだ。まだ若いんだし、きっと見つかるはずだよ。役所には<tips=17>タイプB</tips>の支援係があるから、そこで相談するのもいい。この街の役所よりはまともに仕事をしてくれると思うから。わかったね？」",
+      "en": "Once outside, use that for living expenses while you seek honest work. You're both still young. I'm sure you can find something. Government offices have support desks for <tips=17>Type B</tips> people, so you might consult one. I expect they function more properly outside this town. Do you understand?"
+    },
+    {
+      "id": "X10:0482",
+      "i": 365,
+      "n": 482,
+      "sj": "広瀬孝司",
+      "se": "Koji Hirose",
+      "jp": "「わ、わかりましたっ」",
+      "en": "Y-yes!"
+    },
+    {
+      "id": "X10:0483",
+      "i": 366,
+      "n": 483,
+      "sj": "",
+      "se": "",
+      "jp": "　孝司は首の骨が外れたかのように、ガクガクと何度も頭を揺らして頷いた。",
+      "en": "Koji nodded so violently that his head looked ready to fall from his neck."
+    },
+    {
+      "id": "X10:0484",
+      "i": 367,
+      "n": 484,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そうしたら、このまままっすぐにこの街を出るんだ。荷物を取りに行ったり、誰かに別れを告げたり、そんな寄り道をしてはいけない。この街でのきみたちは今この瞬間に死んだ。もし少しでも余計なことをしたら、僕の使いがあらわれてきみたちに本来の罰を与えるだろう。それは僕としても悲しい。僕を悲しませないよう、言うことを聞いてくれるね？」",
+      "en": "Then leave this town directly. Do not take detours to collect belongings or say goodbye to anyone. As of this moment, you have died within this town. If you do anything unnecessary, my agents will appear and deliver the punishment you originally deserved. That would make me sad as well. You will obey me and avoid making me sad, won't you?"
+    },
+    {
+      "id": "X10:0485",
+      "i": 368,
+      "n": 485,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>の言葉に、兄弟は真っ青な顔で頷いた。",
+      "en": "The brothers nodded at <tips=28>Thomas</tips>'s words, faces deathly pale."
+    },
+    {
+      "id": "X10:0487",
+      "i": 369,
+      "n": 487,
+      "sj": "",
+      "se": "",
+      "jp": "　二人が部屋を出て行くと、<tips=28>トーマス</tips>はホテルの近くで待機しているはずの部下に連絡をした。そして、人数のうち半分が街を出て行く兄弟を見届け、のこり半分は兄弟が出て行った後にホテルに入って七階まであがって来るよう指示した。",
+      "en": "After they left, <tips=28>Thomas</tips> contacted the subordinates waiting near the hotel. He ordered half to watch the brothers leave town, while the remainder were to enter the hotel after their departure and come to the seventh floor."
+    },
+    {
+      "id": "X10:0488",
+      "i": 370,
+      "n": 488,
+      "sj": "",
+      "se": "",
+      "jp": "　連絡を終えると<tips=28>トーマス</tips>は溜息をついた。",
+      "en": "When the call ended, <tips=28>Thomas</tips> sighed."
+    },
+    {
+      "id": "X10:0489",
+      "i": 371,
+      "n": 489,
+      "sj": "",
+      "se": "",
+      "jp": "　ひとまずこれで決着はついた。正しいかどうかはわからないが、これが自分のやり方だ。この判断が自分自身をあやうくするかもしれないが、それならそれで仕方ない。きっと、人生何回生まれ変わってこの選択の場面に来ても、同じ選択をするだろう。",
+      "en": "For the moment, the matter was settled. He did not know if his choice was correct, but this was his way. The decision might endanger him personally, but so be it. Even if he lived life over countless times and returned to this choice, he would surely choose the same path."
+    },
+    {
+      "id": "X10:0490",
+      "i": 372,
+      "n": 490,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、子供たちに向き直る。",
+      "en": "Then he faced the children."
+    },
+    {
+      "id": "X10:0491",
+      "i": 373,
+      "n": 491,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「これから怖いおじちゃんたちがあがってくるけど、心配しないでいい。彼らはきみたちを送り届けるのが仕事だからね」",
+      "en": "Some frightening-looking men will come upstairs soon, but don't worry. Their job is to take you home."
+    },
+    {
+      "id": "X10:0492",
+      "i": 374,
+      "n": 492,
+      "sj": "",
+      "se": "",
+      "jp": "　彼の温和な表情と口調は子供たちに安心感を与えたようだった。",
+      "en": "His gentle face and tone appeared to reassure them."
+    },
+    {
+      "id": "X10:0493",
+      "i": 375,
+      "n": 493,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らはしばし戸惑いお互いの顔を見合って、ボソボソと何か呟いた後、一人の少女が口を開いた。",
+      "en": "They hesitated, looking at one another and muttering, until one girl spoke."
+    },
+    {
+      "id": "X10:0494",
+      "i": 376,
+      "n": 494,
+      "sj": "",
+      "se": "",
+      "jp": "「私たち、家に帰れるの？」",
+      "en": "Can we go home?"
+    },
+    {
+      "id": "X10:0495",
+      "i": 377,
+      "n": 495,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そうだよ。帰るときには少しずつお金を渡す。あと、大事なことだけど、リャオの家の息子に貰ったって言うといい。きみたちはそれぞれいろんな事情があるだろうけど、そうしたら、きみのお父さんもお母さんも、あたたかく受け入れてくれるだろう。そうしたらもう今回のことは終わりだ。全部忘れて、誰にも喋らないようにするんだ」",
+      "en": "Yes. Each of you will receive some money when you leave. This is important: tell your families you received it from the son of the Liao household. You each have different circumstances, but if you say that, your fathers and mothers should welcome you warmly. Then this affair will be over. Forget everything and tell no one."
+    },
+    {
+      "id": "X10:0496",
+      "i": 378,
+      "n": 496,
+      "sj": "",
+      "se": "",
+      "jp": "　子供たちはそれでようやく状況を理解したようだった。",
+      "en": "At last, the children appeared to understand the situation."
+    },
+    {
+      "id": "X10:0497",
+      "i": 379,
+      "n": 497,
+      "sj": "",
+      "se": "",
+      "jp": "　彼ら同士で話し合うのをよそに、<tips=28>トーマス</tips>はその子供たちの輪に入れない少女――撮影の現場からつれてきたリーサに向かって話しかける。",
+      "en": "While they discussed it among themselves, <tips=28>Thomas</tips> addressed the girl unable to join their circle—Lisa, whom he had brought from the filming room."
+    },
+    {
+      "id": "X10:0498",
+      "i": 380,
+      "n": 498,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「リーサ、きみは家に帰りたくなければ、ここに残ってもいい。そしたら僕が面倒を見よう」",
+      "en": "Lisa, if you don't want to go home, you may stay here. In that case, I'll look after you."
+    },
+    {
+      "id": "X10:0499",
+      "i": 381,
+      "n": 499,
+      "sj": "リーサ",
+      "se": "Lisa",
+      "jp": "「いいわ。私、家がいい」",
+      "en": "No. I want my home."
+    },
+    {
+      "id": "X10:0500",
+      "i": 382,
+      "n": 500,
+      "sj": "",
+      "se": "",
+      "jp": "　親に虐待されているのを危惧した<tips=28>トーマス</tips>の申し出だったが、少女はきっぱりとそう言った。",
+      "en": "<tips=28>Thomas</tips> had made the offer out of concern that her parents abused her, but the girl answered decisively."
+    },
+    {
+      "id": "X10:0501",
+      "i": 383,
+      "n": 501,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「そうか、それなら無理強いはしないよ。きみも立派なレディだからね。意志を尊重しよう。でも、つらいことがあったらいつでも連絡してくれよ」",
+      "en": "I see. Then I won't force you. You are a proper young lady, after all, and I will respect your decision. But if anything painful happens, contact me at any time."
+    },
+    {
+      "id": "X10:0502",
+      "i": 384,
+      "n": 502,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>はそう言って自分の電話番号をテーブルにあった紙片にメモし、手渡そうとしたが、少女は受け取ろうとせずにこちらをじっと見つめている。",
+      "en": "<tips=28>Thomas</tips> wrote his telephone number on a scrap of paper from the table and tried to hand it to her. She made no move to take it, but stared at him."
+    },
+    {
+      "id": "X10:0503",
+      "i": 385,
+      "n": 503,
+      "sj": "リーサ",
+      "se": "Lisa",
+      "jp": "「あなたたち、さっき、急に出て来たけどユーレイなの？」",
+      "en": "You two appeared all of a sudden. Are you ghosts?"
+    },
+    {
+      "id": "X10:0504",
+      "i": 386,
+      "n": 504,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「違うよ。僕は正義のギャング・ヒーローだよ。この街を良い街にするために、いつも姿を消して、みんなの生活を見守っているんだ」",
+      "en": "No. I am a righteous gangster hero. I always make myself invisible and watch over everyone's lives so I can make this town a better place."
+    },
+    {
+      "id": "X10:0505",
+      "i": 387,
+      "n": 505,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は穏やかに微笑みかけ、",
+      "en": "<tips=28>Thomas</tips> smiled gently."
+    },
+    {
+      "id": "X10:0506",
+      "i": 388,
+      "n": 506,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「だから、けっして悪いことをしたらいけないよ。僕はいつだって見張ってるんだから」",
+      "en": "So you must never do anything bad. I'm always watching."
+    },
+    {
+      "id": "X10:0507",
+      "i": 389,
+      "n": 507,
+      "sj": "リーサ",
+      "se": "Lisa",
+      "jp": "「……そんなの嘘だよ」",
+      "en": "...That's a lie."
+    },
+    {
+      "id": "X10:0508",
+      "i": 390,
+      "n": 508,
+      "sj": "",
+      "se": "",
+      "jp": "　少女は眉間に皺を寄せて言った。",
+      "en": "The girl furrowed her brow."
+    },
+    {
+      "id": "X10:0509",
+      "i": 391,
+      "n": 509,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「どうしてそう思う？」",
+      "en": "Why do you think so?"
+    },
+    {
+      "id": "X10:0510",
+      "i": 392,
+      "n": 510,
+      "sj": "リーサ",
+      "se": "Lisa",
+      "jp": "「だって、そうなら、なんで今までずっと助けてくれなかったの……」",
+      "en": "Because if it were true, why didn't you ever help me before...?"
+    },
+    {
+      "id": "X10:0512",
+      "i": 393,
+      "n": 512,
+      "sj": "",
+      "se": "",
+      "jp": "　少女はそう言うと、それまで無表情だった顔が急にしわくちゃに崩れて、ボロボロと涙をこぼし、泣き始めた。",
+      "en": "At those words, her expressionless face suddenly crumpled. Tears streamed down her cheeks and she began to cry."
+    },
+    {
+      "id": "X10:0528",
+      "i": 394,
+      "n": 528,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「<tips=28>トミー</tips>、きみは、人身売買というものが、死をもってしか贖えない重い罪だってことを忘れたわけではないよね？」",
+      "en": "<tips=28>Tommy</tips>, you haven't forgotten that human trafficking is a grave crime atonable only by death, have you?"
+    },
+    {
+      "id": "X10:0529",
+      "i": 395,
+      "n": 529,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=41>グランドタワー</tips>の最上階、<tips=81>龍頭</tips>の執務室で<tips=1>謝亮</tips>は眉一つ動かさぬ冷たい表情のままそう言った。",
+      "en": "On the top floor of <tips=41>Grand Tower</tips>, in the <tips=81>Longtou</tips>'s office, <tips=1>Tse Long</tips> spoke without moving an eyebrow, his expression cold."
+    },
+    {
+      "id": "X10:0531",
+      "i": 396,
+      "n": 531,
+      "sj": "",
+      "se": "",
+      "jp": "　目の前には<tips=28>トーマス</tips>が立っている。",
+      "en": "<tips=28>Thomas</tips> stood before him."
+    },
+    {
+      "id": "X10:0532",
+      "i": 397,
+      "n": 532,
+      "sj": "",
+      "se": "",
+      "jp": "　かれは日が明けるとすぐここへ訪れて、昨日の広瀬兄弟の件を彼に報告していた。",
+      "en": "He had come as soon as morning broke to report the previous day's affair with the Hirose brothers."
+    },
+    {
+      "id": "X10:0533",
+      "i": 398,
+      "n": 533,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「もちろん、忘れちゃいないよ」",
+      "en": "Of course I haven't forgotten."
+    },
+    {
+      "id": "X10:0534",
+      "i": 399,
+      "n": 534,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>といえども、こうしたかたちで<tips=1>謝亮</tips>の前に立つとなれば萎縮しないわけにはいかなかった。",
+      "en": "Even <tips=28>Thomas</tips> could not avoid shrinking when made to stand before <tips=1>Tse Long</tips> in this way."
+    },
+    {
+      "id": "X10:0535",
+      "i": 400,
+      "n": 535,
+      "sj": "",
+      "se": "",
+      "jp": "　この第三代<tips=81>龍頭</tips><tips=1>謝亮</tips>はルールに厳格で、たとえ親しい間柄の血族でも、新しく入ったばかりの下部構成員でも、区別なく公平な判断を下すことはよく知られている。",
+      "en": "The third <tips=81>Longtou</tips>, <tips=1>Tse Long</tips>, was known for strict adherence to rules and for judging everyone impartially, whether a close blood relative or the lowest member newly admitted to the organization."
+    },
+    {
+      "id": "X10:0536",
+      "i": 401,
+      "n": 536,
+      "sj": "",
+      "se": "",
+      "jp": "　もちろん、幼なじみである自分に対してもそれは変わらないだろう。",
+      "en": "Naturally, his childhood friend would receive no exception."
+    },
+    {
+      "id": "X10:0537",
+      "i": 402,
+      "n": 537,
+      "sj": "",
+      "se": "",
+      "jp": "　最近皆がこの何かと決断癖のある新しい<tips=81>龍頭</tips>の能力と人格を理解し、畏怖しはじめているが、今<tips=28>トーマス</tips>はその気持ちを肌で感じていた。",
+      "en": "People had recently begun to understand and fear the ability and character of the new <tips=81>Longtou</tips>, a man so quick to decide. <tips=28>Thomas</tips> now felt that fear firsthand."
+    },
+    {
+      "id": "X10:0538",
+      "i": 403,
+      "n": 538,
+      "sj": "",
+      "se": "",
+      "jp": "（やっぱり、<tips=2>阿亮</tips>ってこわいな）",
+      "en": "(<tips=2>Ah Long</tips> really is frightening.)"
+    },
+    {
+      "id": "X10:0539",
+      "i": 404,
+      "n": 539,
+      "sj": "",
+      "se": "",
+      "jp": "　かつてこの評判の幼なじみを見くびったことはないし、わかっていたつもりではあったが、再確認させられている。",
+      "en": "He had never underestimated his renowned childhood friend and thought he already understood him, but the point was being driven home again."
+    },
+    {
+      "id": "X10:0540",
+      "i": 405,
+      "n": 540,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>本人にとっては特別な意味のない仏頂面や冷淡な物言いなのだろうし、昔から何一つ変わってはいないのだが、<tips=81>龍頭</tips>となった彼のそういった細かい動作は周囲の人間にとってはいちいち意味のあるものに感じられてしまうのだ。それが、権力のある人間の影響力というものなのだろう。",
+      "en": "To <tips=1>Long</tips>, the sullen expression and cold speech likely meant nothing special and had not changed since childhood. Now that he was <tips=81>Longtou</tips>, however, every small gesture appeared laden with meaning to those around him. Such, perhaps, was the influence of power."
+    },
+    {
+      "id": "X10:0541",
+      "i": 406,
+      "n": 541,
+      "sj": "",
+      "se": "",
+      "jp": "　いくらリーダー格といっても、基本的には友だち繋がりである不良グループにいた時とは違う形の人間関係が<tips=81>龍頭</tips>となった<tips=1>亮</tips>のまわりに出来はじめている。彼自身もいずれその効果を理解してゆくのだろうが、この頃はまだそういった自分の存在が自然と生み出す作用について自覚が薄かったのかもしれない。",
+      "en": "His present relationships differed from those surrounding <tips=1>Long</tips> when he was merely the leader of a delinquent group bound chiefly by friendship. A new kind had begun to form around him as <tips=81>Longtou</tips>. He would surely come to understand the effect, but at this stage may still have possessed little awareness of what his very presence naturally created."
+    },
+    {
+      "id": "X10:0542",
+      "i": 407,
+      "n": 542,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「本来だったらその兄弟は処刑しなくてはいけないんだ。だから厳密に言えばきみのやったことはアウトだけれど、その謎の女のことが気になる。そんな存在がこの街に潜んでいるなら、広瀬兄弟なんかよりそちらの方が大問題だからね。もしかしたら、今後兄弟の情報が必要になることがあるかもしれない。……つまり、死んだことにして追放したのは悪くない判断だ。咄嗟にそんな機転が利くなんてやるじゃないか」",
+      "en": "Ordinarily, those brothers would have to be executed. Strictly speaking, what you did was unacceptable. But this mysterious woman concerns me. If someone like that is hiding in town, she poses a far greater problem than the Hirose brothers. We may need their information in the future... In other words, declaring them dead and exiling them was not a bad judgment. I am impressed you showed such presence of mind on the spot."
+    },
+    {
+      "id": "X10:0543",
+      "i": 408,
+      "n": 543,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>が淡々と言うと、<tips=28>トーマス</tips>は内心で安堵の溜息をつく。",
+      "en": "As <tips=1>Long</tips> delivered the judgment dispassionately, <tips=28>Thomas</tips> sighed with relief inside."
+    },
+    {
+      "id": "X10:0544",
+      "i": 409,
+      "n": 544,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「でも、本当に僕もびっくりしたよ。まさか今時<tips=18>ローズ・クラブ</tips>どうこうを言い出す人間がいるだなんて」",
+      "en": "I was truly astonished too. I never imagined anyone today would speak of reviving the <tips=18>Rose Club</tips>."
+    },
+    {
+      "id": "X10:0545",
+      "i": 410,
+      "n": 545,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「そうだね」",
+      "en": "Indeed."
+    },
+    {
+      "id": "X10:0546",
+      "i": 411,
+      "n": 546,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は椅子をぐるりと回して片肘を机につくと、",
+      "en": "<tips=1>Long</tips> swiveled his chair and rested one elbow on the desk."
+    },
+    {
+      "id": "X10:0547",
+      "i": 412,
+      "n": 547,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「今の<tips=9>Y地区</tips>であんな施設を作ろうなんてのは妄想もいいところだけれど、どんな人間が言っているのかは気になる。過去からの亡霊か、それとも、広瀬兄弟みたいに何年かぶりに正気に返った浦島太郎か……」",
+      "en": "Attempting to build such a facility in today's <tips=9>Y District</tips> is pure fantasy, but I am curious what sort of person proposes it. A ghost from the past, or some Rip Van Winkle who, like the Hirose brothers, returned to sanity after several years..."
+    },
+    {
+      "id": "X10:0548",
+      "i": 413,
+      "n": 548,
+      "sj": "",
+      "se": "",
+      "jp": "　そう言って人の悪い笑みを薄い唇に浮かべる。",
+      "en": "A malicious smile touched his thin lips."
+    },
+    {
+      "id": "X10:0549",
+      "i": 414,
+      "n": 549,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「何にしろ想定外だね。これに引っかき回されるようなことになると、僕は非常に困る」",
+      "en": "Either way, it was unexpected. I will be greatly inconvenienced if it throws my plans into disarray."
+    },
+    {
+      "id": "X10:0550",
+      "i": 415,
+      "n": 550,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は感情の読めないのんびりとした口調で言った。",
+      "en": "<tips=1>Long</tips> spoke in his leisurely, unreadable tone."
+    },
+    {
+      "id": "X10:0551",
+      "i": 416,
+      "n": 551,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「まだ何か話があるのかい？」",
+      "en": "Is there something else?"
+    },
+    {
+      "id": "X10:0552",
+      "i": 417,
+      "n": 552,
+      "sj": "",
+      "se": "",
+      "jp": "　一通りの報告を終えたあともまだもじもじとして<tips=1>亮</tips>の前に立っている<tips=28>トーマス</tips>に、彼はそう問いかける。",
+      "en": "Though his report was complete, <tips=28>Thomas</tips> still stood fidgeting before <tips=1>Long</tips>, prompting the question."
+    },
+    {
+      "id": "X10:0553",
+      "i": 418,
+      "n": 553,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「<tips=2>阿亮</tips>、僕はこの仕事のことをちゃんと理解してなかったのかもしれない」",
+      "en": "<tips=2>Ah Long</tips>, perhaps I never properly understood this work."
+    },
+    {
+      "id": "X10:0554",
+      "i": 419,
+      "n": 554,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>が重い口調でそう言うと、これから何を言い始めるのかと<tips=1>亮</tips>は怪訝に目を細める。",
+      "en": "When <tips=28>Thomas</tips> spoke heavily, <tips=1>Long</tips> narrowed his eyes, puzzled by what might follow."
+    },
+    {
+      "id": "X10:0555",
+      "i": 420,
+      "n": 555,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「ただ、父さんの跡を継いで、そして出来ればこの街をよくしたいなと思ってた。ギャングというのは恐ろしい仕事だけど、<tips=7>ＹＳ</tips>ならこの街の色んなものを変えられる。それだけしか考えてなかったんだよ」",
+      "en": "I only wanted to succeed Father and, if possible, make this town better. Being a gangster is frightening work, but <tips=7>YS</tips> can change so many things here. That was all I considered."
+    },
+    {
+      "id": "X10:0556",
+      "i": 421,
+      "n": 556,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>の青みがかった目には、不安と、それに負けない意志の輝きが浮かんでいる。",
+      "en": "Anxiety shone in <tips=28>Thomas</tips>'s bluish eyes, together with a determination no less bright."
+    },
+    {
+      "id": "X10:0557",
+      "i": 422,
+      "n": 557,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「その理想自体は変わっていない……だけど、今回僕もちゃんと『ギャング』にならなければいけないんだと思った。それが現実を受け止めるってことだと思う。手も汚さなくちゃいけない時もあるんだろう。……それでも、目的さえ忘れなければ、ただのギャングじゃない何かになれると思うんだ。ねえ、僕はこの街のみんなに幸せになってほしいんだよ」",
+      "en": "That ideal hasn't changed... But this affair made me realize I must properly become a 'gangster' too. I think that means facing reality. There will be times when I must dirty my hands... Even so, if I never forget my purpose, I believe I can become something more than an ordinary gangster. You see, I want everyone in this town to be happy."
+    },
+    {
+      "id": "X10:0558",
+      "i": 423,
+      "n": 558,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「それは立派な決意だけど、今ここで僕に報告するような話かい？」",
+      "en": "An admirable resolution, but is it something you need to report to me here and now?"
+    },
+    {
+      "id": "X10:0559",
+      "i": 424,
+      "n": 559,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は苦笑を見せる。",
+      "en": "<tips=1>Long</tips> gave a wry smile."
+    },
+    {
+      "id": "X10:0560",
+      "i": 425,
+      "n": 560,
+      "sj": "トーマス・リャオ",
+      "se": "Thomas Liao",
+      "jp": "「それは、わからないけど……でも<tips=2>阿亮</tips>にも聞いて欲しかったんだ」",
+      "en": "I don't know... But I wanted you to hear it too, <tips=2>Ah Long</tips>."
+    },
+    {
+      "id": "X10:0561",
+      "i": 426,
+      "n": 561,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=28>トーマス</tips>は気持ちに突き動かされてつい口にしてしまったものの、こうして<tips=1>亮</tips>に指摘されると自分の行動の脈絡のなさに気がつき、恥ずかしそうに俯いた。",
+      "en": "Moved by his emotions, <tips=28>Thomas</tips> had spoken without thinking. Now that <tips=1>Long</tips> pointed it out, he realized how disconnected his declaration had been and lowered his head in embarrassment."
+    },
+    {
+      "id": "X10:0562",
+      "i": 427,
+      "n": 562,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「悩める青年だね」",
+      "en": "A troubled young man indeed."
+    },
+    {
+      "id": "X10:0563",
+      "i": 428,
+      "n": 563,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は肩をすくめて、",
+      "en": "<tips=1>Long</tips> shrugged."
+    },
+    {
+      "id": "X10:0564",
+      "i": 429,
+      "n": 564,
+      "sj": "謝亮",
+      "se": "Tse Long",
+      "jp": "「ま、悩むことが出来るうちは悩めばいいよ」",
+      "en": "Well, while you still can agonize over such things, go ahead and agonize."
+    },
+    {
+      "id": "X10:0565",
+      "i": 430,
+      "n": 565,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、正体不明の苦笑を浮かべた。",
+      "en": "He smiled an inscrutable, crooked smile."
+    }
+  ]
+}

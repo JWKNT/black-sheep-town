@@ -1,0 +1,2963 @@
+{
+  "chapter": {
+    "slug": "X12",
+    "title": "x12",
+    "part": "X",
+    "translatedLines": 328,
+    "totalLines": 328
+  },
+  "lines": [
+    {
+      "id": "x12:0009",
+      "i": 1,
+      "n": 9,
+      "sj": "",
+      "se": "",
+      "jp": "　その頃は今よりもはっきりとした四季があった。",
+      "en": "In those days, the four seasons were more clearly defined than they are now."
+    },
+    {
+      "id": "x12:0010",
+      "i": 2,
+      "n": 10,
+      "sj": "",
+      "se": "",
+      "jp": "　六月も終わりになればすっかり蒸し暑くなって、<tips=9>Y地区</tips>の裏通りはどこもかしこも用水路のヘドロから漂う腐敗臭がにおいはじめる。",
+      "en": "By the end of June, the weather had become thoroughly hot and humid, and every backstreet in <tips=9>Y District</tips> began to reek of decaying sludge from the drainage canals."
+    },
+    {
+      "id": "x12:0011",
+      "i": 3,
+      "n": 11,
+      "sj": "",
+      "se": "",
+      "jp": "　七月になり、本格的な夏が訪れると、貧しい家の子供たちはほとんど半裸で、裾や襟の伸びきったTシャツを埃だらけにし、白い歯を剥き出しにしてサッカーやら喧嘩やらに明け暮れた。",
+      "en": "When July brought summer in earnest, children from poor homes went nearly half naked. Their T-shirts, collars and hems stretched out of shape, grew filthy with dust as they spent their days playing soccer and fighting, flashing white-toothed grins."
+    },
+    {
+      "id": "x12:0012",
+      "i": 4,
+      "n": 12,
+      "sj": "",
+      "se": "",
+      "jp": "　豊かな家の子供たちは洗いたてのきれいな服を着て、はじめは日陰からそのサッカーを眺めているが、いつのまにか彼らと混じって埃だらけになり、汗で濡れたシャツを脱ぎ捨て、最終的にはどちらがどちらだったかわからなくなり、同じような顔で笑うのだった。",
+      "en": "Children from wealthy homes wore clean, freshly washed clothes and at first watched the soccer from the shade. Before long they joined in, became covered in dust, and threw off shirts soaked with sweat. By the end, no one could tell which children had come from which homes, and all laughed with the same faces."
+    },
+    {
+      "id": "x12:0013",
+      "i": 5,
+      "n": 13,
+      "sj": "",
+      "se": "",
+      "jp": "　いつの時代でもどの場所でも子供たちはグループを作るものだが、その頃の<tips=9>Y地区</tips>の子供たちは地域や人種ごとにチームを作り、大人さながらに街の覇権をかけて争いあっていた。いやむしろ、<tips=7>ＹＳ</tips>が街を支配するようになってからギャング同士の抗争はめっきり減少していたため、大人以上の熾烈な争いだったと言えるかもしれない。",
+      "en": "Children form groups in every place and age. In the <tips=9>Y District</tips> of that time, they formed teams by neighborhood and race, battling like adults for supremacy over the town. Indeed, since gang warfare had sharply declined after <tips=7>YS</tips> came to rule the streets, one might say the children's struggles were fiercer than those of the adults."
+    },
+    {
+      "id": "x12:0014",
+      "i": 6,
+      "n": 14,
+      "sj": "",
+      "se": "",
+      "jp": "　子供たちの勢力争いは数年で大人になってゆくため世代交代が早い。今はギャングとなった<tips=26>劉建志</tips>が<tips=59>暗闇通り</tips>の不良少年を束ねて一大グループを築いていたのが第一世代だとしたら、彼らの世代は第三世代と言えるだろう。",
+      "en": "Because children become adults within a few years, generations changed rapidly in their contest for power. If the first generation was the great group of <tips=59>Darkness Street</tips> delinquents once united by the future gangster <tips=26>Kenshi Ryu</tips>, then their generation could be called the third."
+    },
+    {
+      "id": "x12:0015",
+      "i": 7,
+      "n": 15,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、彼ら以降こうした少年同士のグループ争いはほとんどなくなるから、最後の世代といっていいかもしれない。",
+      "en": "And because struggles between boys' groups would almost disappear after them, they might also be called the last generation."
+    },
+    {
+      "id": "x12:0016",
+      "i": 8,
+      "n": 16,
+      "sj": "",
+      "se": "",
+      "jp": "　ここで『彼ら』というのは、後に<tips=21>八龍会</tips>の代表となる<tips=10>見土道夫</tips>や、<tips=7>ＹＳ</tips>の第三代<tips=81>龍頭</tips>となる<tips=1>菅原亮</tips>たちのことである。",
+      "en": "Here, \"they\" means people such as <tips=10>Michio Mido</tips>, who would later represent the <tips=21>Dragon Club</tips>, and <tips=1>Ryo Sugawara</tips>, who would become the third <tips=81>Longtou</tips> of <tips=7>YS</tips>."
+    },
+    {
+      "id": "x12:0017",
+      "i": 9,
+      "n": 17,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=26>劉建志</tips>が<tips=7>ＹＳ</tips>の一員となって自分のチームを解散した時点までが第一世代で、その後小さなグループがいくつも乱立していたのが第二世代だった。この第二世代の多くはギャングと結びつき、いかに有力なバックをつけるかをお互いに競い合った。",
+      "en": "The first generation ended when <tips=26>Kenshi Ryu</tips> joined <tips=7>YS</tips> and dissolved his team. The second was the period when numerous small groups sprang up afterward. Many second-generation groups allied with gangs and competed to secure the most powerful patron."
+    },
+    {
+      "id": "x12:0018",
+      "i": 10,
+      "n": 18,
+      "sj": "",
+      "se": "",
+      "jp": "　この頃は丁度『<tips=45>ローズ</tips>』のレシピが公開され、世界中で流行しはじめた時期で、後には悪魔の薬と呼ばれることになるこの薬は、<tips=17>タイプB</tips>には奇跡の薬として、その他の若者たちにはイージーなドラッグとして流行の兆しを見せ始めていた。",
+      "en": "This was just when the recipe for <tips=45>Rose</tips> was made public and the drug began spreading around the world. Later called the devil's drug, it first showed signs of popularity as a miracle cure among <tips=17>Type B</tips> people and an easy high among other young people."
+    },
+    {
+      "id": "x12:0019",
+      "i": 11,
+      "n": 19,
+      "sj": "",
+      "se": "",
+      "jp": "　第二世代の不良少年たちはこの『<tips=45>ローズ</tips>』と最も深く関わった少年たちだろう。ギャングたちとのつき合いのなかで、これを仲間に売って小銭稼ぎをしていた。買う方としても深く関わり、中毒者となってしまったものも多い。その結果、大人たちにていよく労働力や性を搾取され、命を落とすものも少なくなかった。",
+      "en": "The second-generation delinquents were probably the boys most deeply involved with <tips=45>Rose</tips>. Through their relationships with gangs, they sold it to friends for pocket money. Many were deeply involved as buyers too and became addicted. Consequently, adults conveniently exploited them for labor and sex, and more than a few lost their lives."
+    },
+    {
+      "id": "x12:0025",
+      "i": 12,
+      "n": 25,
+      "sj": "",
+      "se": "",
+      "jp": "　第三世代はそうした状況のなか、近所の子供が集まった遊び仲間の輪から生まれた。",
+      "en": "The third generation arose amid those circumstances from circles of neighborhood playmates."
+    },
+    {
+      "id": "x12:0026",
+      "i": 13,
+      "n": 26,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らは第二世代とは対照的に、仲間同士での団結力が強く、親や大人との繋がりが薄かった。そして、この結束の力で街にドラッグを流行らせた元凶と言っても良い第二世代の少年たちを駆逐していったのだ。ここで中心的な役割を果たしたのが、わずか十四才で<tips=59>暗闇通り</tips>の子供たちのリーダーとなった<tips=10>見土道夫</tips>だった。",
+      "en": "Unlike the second generation, they were strongly united with one another and had few ties to parents or adults. Through that solidarity, they drove out the second-generation boys who could fairly be called responsible for spreading drugs through town. The central figure was <tips=10>Michio Mido</tips>, who became leader of the children of <tips=59>Darkness Street</tips> at only fourteen."
+    },
+    {
+      "id": "x12:0028",
+      "i": 14,
+      "n": 28,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>見土道夫</tips>は<tips=17>タイプB</tips>の身体能力と<tips=16>タイプA</tips>の超能力を兼ね揃えており、勇気に満ちあふれ、リーダーになるべくしてなった少年だった。",
+      "en": "<tips=10>Michio Mido</tips> combined the physical capabilities of <tips=17>Type B</tips> with the psychic powers of <tips=16>Type A</tips>. Overflowing with courage, he was a boy born to lead."
+    },
+    {
+      "id": "x12:0029",
+      "i": 15,
+      "n": 29,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は孤児であった。幼い頃に親を失い、<tips=21>八龍会</tips>の<tips=22>老人たち</tips>に引きとられ、肉親の愛情を知らぬまま育った。その頃は近所の日本人大工の家に預けられ、普段はその現場で手伝いをしていた。",
+      "en": "He was an orphan. After losing his parents when very young, he was taken in by the <tips=22>Elders</tips> of the <tips=21>Dragon Club</tips> and raised without knowing a blood relative's love. At the time, he was placed with a Japanese carpenter in the neighborhood and usually helped at his worksites."
+    },
+    {
+      "id": "x12:0030",
+      "i": 16,
+      "n": 30,
+      "sj": "",
+      "se": "",
+      "jp": "　荒くれ者の肉体労働者たちのなかで暮らした彼は喧嘩が滅法強く、同年代はもとより、大人と戦っても一歩もひけをとらなかった。彼はそうして自ら力を示すことによって仲間を増やし、自分のグループを築き上げたのである。",
+      "en": "Living among rough manual laborers made him an exceptional fighter. He yielded not one step to boys his age or even grown men. By proving his strength this way, he gained comrades and built his own group."
+    },
+    {
+      "id": "x12:0031",
+      "i": 17,
+      "n": 31,
+      "sj": "",
+      "se": "",
+      "jp": "　また、<tips=10>見土</tips>は正義感も強かった。",
+      "en": "<tips=10>Mido</tips> also possessed a powerful sense of justice."
+    },
+    {
+      "id": "x12:0032",
+      "i": 18,
+      "n": 32,
+      "sj": "",
+      "se": "",
+      "jp": "　当時<tips=59>暗闇通り</tips>はヤンという十八才の少年が率いるグループが仕切っていた。第二世代にあたる彼らはギャングと組んで売春組織を作っており、近くの少女たちを騙したり脅したりして不当に働かせていた。",
+      "en": "At the time, <tips=59>Darkness Street</tips> was controlled by a group led by an eighteen-year-old boy named Yang. As members of the second generation, they had partnered with a gang to create a prostitution ring, deceiving and threatening local girls into working under unfair conditions."
+    },
+    {
+      "id": "x12:0033",
+      "i": 19,
+      "n": 33,
+      "sj": "",
+      "se": "",
+      "jp": "　この被害にあった少女が幼なじみに相談した。これが<tips=10>見土道夫</tips>少年であり、彼は当然憤慨した。",
+      "en": "One victim confided in her childhood friend. That friend was the young <tips=10>Michio Mido</tips>, and he was naturally furious."
+    },
+    {
+      "id": "x12:0034",
+      "i": 20,
+      "n": 34,
+      "sj": "",
+      "se": "",
+      "jp": "　仲間たちと徒党を組んで<tips=59>暗闇通り</tips>に乗り込むと、ヤンの仲間を見かけるたびに襲って叩きのめした。その結果ヤンたちは<tips=10>道夫</tips>の姿を見かけると逃げ回るようになり、その姿は子供たちの物笑いの種となる。",
+      "en": "He gathered his comrades and invaded <tips=59>Darkness Street</tips>, attacking and beating Yang's friends whenever he saw them. Eventually, Yang's people fled at the sight of <tips=10>Michio</tips>, becoming objects of ridicule among the children."
+    },
+    {
+      "id": "x12:0035",
+      "i": 21,
+      "n": 35,
+      "sj": "",
+      "se": "",
+      "jp": "　すっかり評判の落ちたヤンたちを恐れるものはなく、少女を集められなくなった。ヤンは起死回生を狙って空き地に<tips=10>道夫</tips>たちを呼び出し決闘をするも、そこでも散々な目にあって敗北し、結果、ヤンのグループは消滅することになる。",
+      "en": "With their reputation destroyed, no one feared Yang's group and they could no longer recruit girls. Hoping to reverse his fortunes, Yang summoned <tips=10>Michio</tips>'s group to a vacant lot for a duel. He suffered another crushing defeat, and his group ceased to exist."
+    },
+    {
+      "id": "x12:0036",
+      "i": 22,
+      "n": 36,
+      "sj": "",
+      "se": "",
+      "jp": "　その後ヤンは一時<tips=10>道夫</tips>の子分のような立場でチームに混じっていたが、やがてチームを抜けて飲食店に就職、そこで心を入れ替えてコツコツと働き、今はタイ人の妻と結婚して四人もの子を持つ親になっているがそれはずっと後の話である。",
+      "en": "For a time afterward, Yang joined <tips=10>Michio</tips>'s team in something like the position of a subordinate. Eventually, he left and found work at a restaurant, reformed, and worked steadily. Today he is married to a Thai woman and the father of four children, but that was much later."
+    },
+    {
+      "id": "x12:0037",
+      "i": 23,
+      "n": 37,
+      "sj": "",
+      "se": "",
+      "jp": "　とにかく、この結果<tips=10>道夫</tips>はヤンに変わって<tips=59>暗闇通り</tips>を支配下に置いた。そうすると<tips=10>道夫</tips>のグループは<tips=9>Y地区</tips>のなかでも有力なチームの一つという立場になる。このときから、第二世代が陰りを見せ始め、第三世代の時代が始まったいうことになるのだろう。",
+      "en": "In any case, <tips=10>Michio</tips> replaced Yang as the ruler of <tips=59>Darkness Street</tips>. <tips=10>Michio</tips>'s group thereby became one of the most powerful teams in <tips=9>Y District</tips>. The second generation began to decline, and the age of the third began."
+    },
+    {
+      "id": "x12:0045",
+      "i": 24,
+      "n": 45,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「ねえ帰ろうよ<tips=10>道夫</tips>君。たった二人で、見つかったらどうすんのさ」",
+      "en": "Let's go home, <tips=10>Michio</tips>. There are only two of us. What if they find us?"
+    },
+    {
+      "id": "x12:0046",
+      "i": 25,
+      "n": 46,
+      "sj": "",
+      "se": "",
+      "jp": "　地元の住民が夕食の材料を買い求めて行き来する<tips=58>パラシュート通り</tips>。人の間をすり抜けて歩いている<tips=66>田中紺太</tips>は不安げにキョロキョロと辺りを見回しながら先を行く背の高い少年にそう呼びかけた。",
+      "en": "Residents moved along <tips=58>Parachute Street</tips> buying ingredients for dinner. Weaving between them, <tips=66>Konta Tanaka</tips> anxiously looked around and called to the tall boy ahead."
+    },
+    {
+      "id": "x12:0047",
+      "i": 26,
+      "n": 47,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「帰るなら一人で帰ってもいいんだぜ？」",
+      "en": "If you want to go home, you can go alone."
+    },
+    {
+      "id": "x12:0048",
+      "i": 27,
+      "n": 48,
+      "sj": "",
+      "se": "",
+      "jp": "　その少年――<tips=10>見土道夫</tips>は不敵に笑ってそう応える。",
+      "en": "The boy, <tips=10>Michio Mido</tips>, answered with a fearless grin."
+    },
+    {
+      "id": "x12:0049",
+      "i": 28,
+      "n": 49,
+      "sj": "",
+      "se": "",
+      "jp": "　染めたての金色の髪の毛は赤みがかった太陽の光を反射してキラキラと光っていた。",
+      "en": "His freshly dyed golden hair glittered in the reddish sunlight."
+    },
+    {
+      "id": "x12:0050",
+      "i": 29,
+      "n": 50,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「そういうわけにはいかないよ……。ここを歩くなら、せめて、みんなを呼ぼうよ」",
+      "en": "I can't do that... If we're going to walk around here, we should at least call everyone else."
+    },
+    {
+      "id": "x12:0051",
+      "i": 30,
+      "n": 51,
+      "sj": "",
+      "se": "",
+      "jp": "　この<tips=58>パラシュート通り</tips>は彼らの縄張りではなく、別の少年グループのものだった。",
+      "en": "<tips=58>Parachute Street</tips> was not their territory. It belonged to another group of boys."
+    },
+    {
+      "id": "x12:0052",
+      "i": 31,
+      "n": 52,
+      "sj": "",
+      "se": "",
+      "jp": "　そのグループとは現在緊張関係にあるというわけでもなかったが、この頃の<tips=9>Y地区</tips>の不良少年の社会ではよそのグループの縄張りには勝手に足を踏み入れないことが不文律のようになっており、それを破ったことがきっかけとなって、抗争に発展することも少なくない。",
+      "en": "The two groups were not currently in a tense relationship. Yet in the society of <tips=9>Y District</tips>'s young delinquents, entering another group's territory without permission was an unwritten taboo. Violating it often sparked a conflict."
+    },
+    {
+      "id": "x12:0053",
+      "i": 32,
+      "n": 53,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は口は達者だが、喧嘩には自信がなかった。彼も一応<tips=17>タイプＢ</tips>ではあるが、<tips=72>傾向値</tips>が低く興奮してもほとんど<tips=95>金眼</tips>にならない上に、なっても身体能力はさほど変わらない。どれくらい弱いかというと、平均的なノーマル相手でもこてんぱんに負かされるくらいの弱さだ。",
+      "en": "<tips=66>Konta</tips> was a smooth talker but had no confidence in a fight. He was technically <tips=17>Type B</tips>, but his <tips=72>Type B Tendency Index</tips> was low. Even when excited, his eyes almost never underwent the <tips=95>Golden-Eye Phenomenon</tips>, and when they did, his physical abilities barely changed. He was so weak that even an average Normal could beat him senseless."
+    },
+    {
+      "id": "x12:0054",
+      "i": 33,
+      "n": 54,
+      "sj": "",
+      "se": "",
+      "jp": "　さらに今日は新しい黒いシャツをおろしたばかりで、汚したくないという事情もある。",
+      "en": "Furthermore, he was wearing a new black shirt for the first time today and did not want to dirty it."
+    },
+    {
+      "id": "x12:0055",
+      "i": 34,
+      "n": 55,
+      "sj": "",
+      "se": "",
+      "jp": "　売春する母親に客を引いて手伝っている彼は歩合で小遣いを貰っており、他の<tips=59>暗闇通り</tips>の子供に比べればずっと裕福ではあったが、好きなものを好きなだけ買えるほどの金を持っているわけではなかった。",
+      "en": "He helped his prostitute mother by finding customers and received an allowance on commission. He was far wealthier than other children of <tips=59>Darkness Street</tips>, but not rich enough to buy everything he wanted."
+    },
+    {
+      "id": "x12:0056",
+      "i": 35,
+      "n": 56,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「いいんだよ。これは偵察なんだ。殴り込みじゃない」",
+      "en": "It's fine. This is reconnaissance, not a raid."
+    },
+    {
+      "id": "x12:0057",
+      "i": 36,
+      "n": 57,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は<tips=66>紺太</tips>の不安を意に介そうともしない。",
+      "en": "<tips=10>Michio</tips> paid no attention to <tips=66>Konta</tips>'s concern."
+    },
+    {
+      "id": "x12:0058",
+      "i": 37,
+      "n": 58,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「こんなに目立つ偵察ってないよ」",
+      "en": "No reconnaissance could be more conspicuous."
+    },
+    {
+      "id": "x12:0059",
+      "i": 38,
+      "n": 59,
+      "sj": "",
+      "se": "",
+      "jp": "　それに関しては、<tips=66>紺太</tips>が呆れる通りだった。",
+      "en": "On that point, <tips=66>Konta</tips>'s exasperation was justified."
+    },
+    {
+      "id": "x12:0060",
+      "i": 39,
+      "n": 60,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はTシャツの半袖を肩までまくり上げ、その年の少年にしては逞しい両腕を露出しているが、右の方は肘から先が真っ黒に染まっている。",
+      "en": "<tips=10>Michio</tips> had rolled the short sleeves of his T-shirt to his shoulders, exposing arms powerful for a boy his age. His right arm, however, was dyed pitch-black from the elbow down."
+    },
+    {
+      "id": "x12:0061",
+      "i": 40,
+      "n": 61,
+      "sj": "",
+      "se": "",
+      "jp": "　それは何かの塗料を使ったような普通の黒さではなく、何かまるきり別の物質のような、なんの光も反射しない完全な黒だった。",
+      "en": "It was not the ordinary black of paint, but a perfect black that reflected no light, as though the arm were made of another substance entirely."
+    },
+    {
+      "id": "x12:0062",
+      "i": 41,
+      "n": 62,
+      "sj": "",
+      "se": "",
+      "jp": "　これを見れば誰でも彼がその身に異形の呪いをうけた<tips=16>タイプA</tips>であることを一目で理解し、そして少しこの地域の事情に詳しければ彼が最近少年たちの間でよく話題になる<tips=10>見土道夫</tips>だと気がつくだろう。",
+      "en": "Anyone who saw it immediately understood that he was <tips=16>Type A</tips>, bearing a monstrous curse upon his body. Anyone familiar with local affairs would recognize him as <tips=10>Michio Mido</tips>, recently a common subject among the town's boys."
+    },
+    {
+      "id": "x12:0063",
+      "i": 42,
+      "n": 63,
+      "sj": "",
+      "se": "",
+      "jp": "　すぐ先日も、北街のブロイアーという喧嘩の強いことで知られる年上の少年に決闘を挑んで勝ちを収め、その縄張りを手に入れている。",
+      "en": "Only days earlier, he had challenged and defeated an older boy named Breuer from North Town, renowned for his fighting ability, and claimed his territory."
+    },
+    {
+      "id": "x12:0064",
+      "i": 43,
+      "n": 64,
+      "sj": "",
+      "se": "",
+      "jp": "　その時に出来た青あざが彼の頬にはあり、切れた唇の端にはかさぶたが出来ていた。",
+      "en": "A bruise from that fight remained on his cheek, and a scab covered the split corner of his lip."
+    },
+    {
+      "id": "x12:0065",
+      "i": 44,
+      "n": 65,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「だって、どんなやつか見てみたいじゃないか。その<tips=1>菅原亮</tips>ってやつはおれたちと同い年なんだろ？」",
+      "en": "I want to see what he's like. This <tips=1>Ryo Sugawara</tips> is our age, isn't he?"
+    },
+    {
+      "id": "x12:0066",
+      "i": 45,
+      "n": 66,
+      "sj": "",
+      "se": "",
+      "jp": "　そう、彼が今日この場所へ足を踏み入れたのは、<tips=58>パラシュート通り</tips>を縄張りにする少年グループのリーダー、<tips=1>菅原亮</tips>に会うためであった。",
+      "en": "Indeed, he had entered this place today to meet <tips=1>Ryo Sugawara</tips>, leader of the boys who controlled <tips=58>Parachute Street</tips>."
+    },
+    {
+      "id": "x12:0067",
+      "i": 46,
+      "n": 67,
+      "sj": "",
+      "se": "",
+      "jp": "　このとき<tips=57>滑走路通り</tips>に周という少年のグループがあった。彼は引退した<tips=26>劉建志</tips>の弟分で、そのグループは<tips=57>滑走路通り</tips>で最大の勢力を誇っていた。<tips=26>劉</tips>のツテもあって<tips=7>ＹＳ</tips>との関係も良好で、彼らの下請けとして飲食店のボディーガードを手伝うなどというようなこともしている。少年でありながら、なかば大人のようなことをしているのは、第二世代らしいところだ。",
+      "en": "At this time, a boy named Zhou led a group on <tips=57>Runway Street</tips>. He had been a junior associate of the retired <tips=26>Kenshi Ryu</tips>, and his group was the strongest on <tips=57>Runway Street</tips>. Through <tips=26>Ryu</tips>'s connections, they enjoyed a good relationship with <tips=7>YS</tips> and acted as subcontractors, helping guard restaurants. Doing half-adult work while still boys was typical of the second generation."
+    },
+    {
+      "id": "x12:0068",
+      "i": 47,
+      "n": 68,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=57>滑走路通り</tips>は<tips=9>Y地区</tips>のメインストリートであるから、そこで最大の勢力を持つということは、街で最も勢いのある組織と言っていいだろう。",
+      "en": "Because <tips=57>Runway Street</tips> was <tips=9>Y District</tips>'s main thoroughfare, holding the greatest power there made them arguably the most ascendant organization in town."
+    },
+    {
+      "id": "x12:0069",
+      "i": 48,
+      "n": 69,
+      "sj": "",
+      "se": "",
+      "jp": "　実際、周のグループの威勢の良さというのは相当なもので、揃いの色のハンカチを腕に巻き付け、<tips=57>滑走路通り</tips>を我が物顔で練り歩いた。",
+      "en": "Zhou's group did indeed swagger with remarkable confidence. They tied matching colored handkerchiefs around their arms and paraded down <tips=57>Runway Street</tips> as though it belonged to them."
+    },
+    {
+      "id": "x12:0070",
+      "i": 49,
+      "n": 70,
+      "sj": "",
+      "se": "",
+      "jp": "　そして、<tips=57>滑走路通り</tips>のすぐそばには<tips=58>パラシュート通り</tips>があり、周の仲間たちはちょくちょくそちらへもやって来た。",
+      "en": "<tips=58>Parachute Street</tips> lay immediately beside <tips=57>Runway Street</tips>, and Zhou's friends frequently visited it as well."
+    },
+    {
+      "id": "x12:0071",
+      "i": 50,
+      "n": 71,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=58>パラシュート通り</tips>も、<tips=57>滑走路通り</tips>ほどではないが賑やかで人の多い地域である。住民の人種も多様で、少し歩いただけで雰囲気がコロコロと変わり、いくつもの国を渡り歩いているような気持ちになる。",
+      "en": "Though not as busy as <tips=57>Runway Street</tips>, <tips=58>Parachute Street</tips> was a lively, crowded neighborhood. Its residents came from many races, and the atmosphere changed every few steps, making a walk feel like a journey through several countries."
+    },
+    {
+      "id": "x12:0072",
+      "i": 51,
+      "n": 72,
+      "sj": "",
+      "se": "",
+      "jp": "　このように多様性のある通りのため、なかなかグループというものが出来にくかった。そのため、<tips=57>滑走路通り</tips>の連中が何人かでちょっかいを出しに来ると、このあたりの少年はどこかに隠れるしかなかった。捕まれば、その時持っている小遣いは全て巻き上げられることになる。",
+      "en": "This diversity made stable groups difficult to form. When boys from <tips=57>Runway Street</tips> came looking for trouble in numbers, local boys could only hide. Anyone caught lost every coin of his allowance."
+    },
+    {
+      "id": "x12:0073",
+      "i": 52,
+      "n": 73,
+      "sj": "",
+      "se": "",
+      "jp": "　こうした状況を変えたのが、<tips=1>菅原亮</tips>という少年らしい。",
+      "en": "A boy named <tips=1>Ryo Sugawara</tips> had apparently changed that."
+    },
+    {
+      "id": "x12:0074",
+      "i": 53,
+      "n": 74,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>菅原亮</tips>は<tips=58>パラシュート通り</tips>に店を開く定食屋の息子で、彼の仲間も同じように何らかの商売をしている家の子ばかりである。彼らは比較的裕福で、身体は大きいが勇気がなく、喧嘩が弱いというのが暗闇通りの少年たちの評価だったが、それが<tips=59>暗闇通り</tips>の少年たちでもちょっと手が出せない周たちに勝ったというのだ。しかも、この<tips=1>菅原亮</tips>は<tips=10>道夫</tips>と同い年だという。",
+      "en": "<tips=1>Ryo Sugawara</tips> was the son of a diner owner on <tips=58>Parachute Street</tips>, and his friends likewise came from families running businesses. The boys of <tips=59>Darkness Street</tips> considered them relatively wealthy, large in body, but cowardly and weak in a fight. Yet they had defeated Zhou's group, whom even Darkness Street's boys hesitated to touch. Moreover, this <tips=1>Ryo Sugawara</tips> was the same age as <tips=10>Michio</tips>."
+    },
+    {
+      "id": "x12:0075",
+      "i": 54,
+      "n": 75,
+      "sj": "",
+      "se": "",
+      "jp": "　となれば、<tips=10>道夫</tips>が興味を持つのも当然のことだろう。",
+      "en": "Naturally, <tips=10>Michio</tips> was interested."
+    },
+    {
+      "id": "x12:0076",
+      "i": 55,
+      "n": 76,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「なあに、心配することはない。最悪でも、お前だけは逃がしてやるから大丈夫だ。……もし相手が危険な武器を持ってきたら、おれも、この妖刀ムラサメの封印を解くことになるかもしれないが……」",
+      "en": "Don't worry. At worst, I'll make sure you escape... If they bring dangerous weapons, I may have to break the seal on my cursed blade, Murasame..."
+    },
+    {
+      "id": "x12:0077",
+      "i": 56,
+      "n": 77,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は格好つけた口ぶりでそう言いながら、うしろを歩く<tips=66>紺太</tips>に真っ黒な腕を見せつける。",
+      "en": "Speaking theatrically, <tips=10>Michio</tips> displayed his black arm to <tips=66>Konta</tips> walking behind him."
+    },
+    {
+      "id": "x12:0078",
+      "i": 57,
+      "n": 78,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「こないだは、魔剣フェンなんとかって言ってなかったっけ？」",
+      "en": "Didn't you call it the demon sword Fen-something the other day?"
+    },
+    {
+      "id": "x12:0079",
+      "i": 58,
+      "n": 79,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は溜息をつく。",
+      "en": "<tips=66>Konta</tips> sighed."
+    },
+    {
+      "id": "x12:0080",
+      "i": 59,
+      "n": 80,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「こっちの名前の方がカッコいいと思わないか？」",
+      "en": "Don't you think this name sounds cooler?"
+    },
+    {
+      "id": "x12:0081",
+      "i": 60,
+      "n": 81,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が同意を求めたが、<tips=66>紺太</tips>は冷たい視線を返すだけだ。",
+      "en": "<tips=10>Michio</tips> sought agreement, but <tips=66>Konta</tips> only gave him a cold look."
+    },
+    {
+      "id": "x12:0082",
+      "i": 61,
+      "n": 82,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「<tips=10>道夫</tips>君はさあ、自信があるっていうか、自信過剰だよね。そんな、いつだって勝てるとはかぎらないじゃん」",
+      "en": "You know, <tips=10>Michio</tips>, there's confidence, and then there's overconfidence. You can't assume you'll always win."
+    },
+    {
+      "id": "x12:0083",
+      "i": 62,
+      "n": 83,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「おれを信用してないのか？」",
+      "en": "You don't trust me?"
+    },
+    {
+      "id": "x12:0084",
+      "i": 63,
+      "n": 84,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「だって、周のやつらを追い返すなんて普通じゃないよ。周のところにはさ、馬鹿みたいに怪力の<tips=17>タイプＢ</tips>も結構いたはずだぜ？　<tips=1>菅原</tips>ってやつはサイキックなんじゃないかなあ。もしわけのわからない力を持ってたら、<tips=10>道夫</tips>君でも勝てるかどうか……」",
+      "en": "Driving off Zhou's people isn't normal. Zhou had plenty of absurdly strong <tips=17>Type B</tips> guys, didn't he? Maybe this <tips=1>Sugawara</tips> is psychic. If he has some incomprehensible power, even you might not win, <tips=10>Michio</tips>..."
+    },
+    {
+      "id": "x12:0085",
+      "i": 64,
+      "n": 85,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「フ、それならそれで面白い」",
+      "en": "Hmph. That would be interesting."
+    },
+    {
+      "id": "x12:0086",
+      "i": 65,
+      "n": 86,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は目をつむり、ぐっと手を握りしめ、",
+      "en": "<tips=10>Michio</tips> closed his eyes and clenched his fist."
+    },
+    {
+      "id": "x12:0087",
+      "i": 66,
+      "n": 87,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「相手が恐ろしいサイキックなら、おれもこのおそろしい力を使うことが出来るだろう」",
+      "en": "If my opponent is a terrifying psychic, then I can finally use this terrible power myself."
+    },
+    {
+      "id": "x12:0088",
+      "i": 67,
+      "n": 88,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「えっ、そしたら殺し合いになっちゃうじゃん」",
+      "en": "What? Then you'll kill each other!"
+    },
+    {
+      "id": "x12:0089",
+      "i": 68,
+      "n": 89,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「サイキックが相手なら仕方ないだろう？　おれは、全然こわくないぜ。だって、やっと本気を出せるんだ。いままで、いつだって力を抑えながら戦っていたんだ。それでも連戦連勝してしまうのが、おれの罪深さなんだが……。まあ、正直なところ最近勝つことに飽きてしまってね。楽しめるなら、これより嬉しいことはない。やっぱり男は、全力を出さなくちゃ」",
+      "en": "If he's psychic, it can't be helped. I'm not afraid at all. At last, I could fight seriously. Until now, I've always held back, and yet my sinful strength still brought victory after victory... Honestly, I've grown bored of winning lately. Nothing would please me more than a fight I could enjoy. A man has to use his full strength."
+    },
+    {
+      "id": "x12:0090",
+      "i": 69,
+      "n": 90,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「そ、そう……」",
+      "en": "R-right..."
+    },
+    {
+      "id": "x12:0091",
+      "i": 70,
+      "n": 91,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は眉間にしわを寄せて複雑な表情で相槌を打つ。<tips=10>道夫</tips>のこういったセンスにはついていけないところがあるのだが、はっきりとそうは言えない。しかし、かといって表情を器用に取り繕って笑ってもやれない。",
+      "en": "<tips=66>Konta</tips> frowned and responded with a conflicted expression. He could not follow <tips=10>Michio</tips>'s taste for such theatrics, but could not say so plainly. Neither was he deft enough to conceal it behind a smile."
+    },
+    {
+      "id": "x12:0092",
+      "i": 71,
+      "n": 92,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「でも、喧嘩となったら、本当にひどいことになっちゃうかもしれないんだよなあ。だって、<tips=1>菅原</tips>は残酷なやつらしいからね。おれの知り合いの話じゃ、<tips=1>菅原</tips>ってやつはね、目の前で敵の足とか腕をボキボキに折らせて、その様子を笑いながら見てたんだってさ」",
+      "en": "Still, if this turns into a fight, it may get truly horrible. They say <tips=1>Sugawara</tips> is cruel. An acquaintance told me this <tips=1>Sugawara</tips> had his enemies' arms and legs snapped in front of him and watched with a smile."
+    },
+    {
+      "id": "x12:0093",
+      "i": 72,
+      "n": 93,
+      "sj": "",
+      "se": "",
+      "jp": "　そう言われると<tips=10>道夫</tips>もさすがに顔をしかめたが、",
+      "en": "That made even <tips=10>Michio</tips> grimace."
+    },
+    {
+      "id": "x12:0094",
+      "i": 73,
+      "n": 94,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「そんなひどいやつなら、やっぱり少しでも早くやっつけないといけないな」",
+      "en": "Then if he's truly so terrible, we must defeat him all the sooner."
+    },
+    {
+      "id": "x12:0095",
+      "i": 74,
+      "n": 95,
+      "sj": "",
+      "se": "",
+      "jp": "　消沈するどころかなおさら彼の情熱をかき立ててしまったようだった。",
+      "en": "Far from discouraging him, the story only inflamed his passion."
+    },
+    {
+      "id": "x12:0102",
+      "i": 75,
+      "n": 102,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=58>パラシュート通り</tips>の端の方に「菅原食堂」と、ペンキ文字の看板が掛かったこぢんまりとした中華料理店がある。",
+      "en": "Near one end of <tips=58>Parachute Street</tips> stood a modest Chinese restaurant with a hand-painted sign reading \"Sugawara Diner.\""
+    },
+    {
+      "id": "x12:0103",
+      "i": 76,
+      "n": 103,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>と<tips=66>紺太</tips>はその前に立ち、あまりにも堂々と路面に晒されている敵リーダーの名前をあんぐりと口を開けて眺めた。",
+      "en": "<tips=10>Michio</tips> and <tips=66>Konta</tips> stood outside, mouths hanging open as they stared at the enemy leader's name displayed so brazenly to the street."
+    },
+    {
+      "id": "x12:0104",
+      "i": 77,
+      "n": 104,
+      "sj": "",
+      "se": "",
+      "jp": "　今は営業時間の筈だが、昼食と夕食の間の時間帯の暇な時間帯のせいか、入り口の傷だらけのアルミサッシの脇には「準備中」の札が下がっている。",
+      "en": "It should have been business hours, but perhaps because this was the quiet interval between lunch and dinner, a sign reading \"Preparing\" hung beside the scratched aluminum-framed entrance."
+    },
+    {
+      "id": "x12:0105",
+      "i": 78,
+      "n": 105,
+      "sj": "",
+      "se": "",
+      "jp": "　かといって誰もいないというわけでもないらしく、磨りガラスの向こうで何者かが動いている気配があった。",
+      "en": "That did not mean the place was empty. Someone appeared to be moving behind the frosted glass."
+    },
+    {
+      "id": "x12:0106",
+      "i": 79,
+      "n": 106,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「なかにはいろうぜ」",
+      "en": "Let's go inside."
+    },
+    {
+      "id": "x12:0107",
+      "i": 80,
+      "n": 107,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は磨りガラスを見通そうでもするかのように目をこらしつつ、隣の<tips=66>紺太</tips>に囁く。",
+      "en": "<tips=10>Michio</tips> squinted as though trying to see through the frosted glass and whispered to <tips=66>Konta</tips>."
+    },
+    {
+      "id": "x12:0108",
+      "i": 81,
+      "n": 108,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「正面から、堂々と？　いくらなんでも無茶だよ。今日は偵察って話じゃないか」",
+      "en": "Straight through the front? That's reckless even for you. Wasn't today supposed to be reconnaissance?"
+    },
+    {
+      "id": "x12:0109",
+      "i": 82,
+      "n": 109,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>が慌てる一方、<tips=10>道夫</tips>は平然とした表情で、",
+      "en": "While <tips=66>Konta</tips> panicked, <tips=10>Michio</tips> remained perfectly calm."
+    },
+    {
+      "id": "x12:0110",
+      "i": 83,
+      "n": 110,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「ここで看板を眺めていてもなんの偵察にもならない。……それに、ここまで来たら血が騒いで来たのさ」",
+      "en": "Staring at the sign tells us nothing... And now that we've come this far, my blood is stirring."
+    },
+    {
+      "id": "x12:0111",
+      "i": 84,
+      "n": 111,
+      "sj": "",
+      "se": "",
+      "jp": "　唇の端を歪めてニヤリと笑った。",
+      "en": "He twisted one corner of his mouth into a grin."
+    },
+    {
+      "id": "x12:0112",
+      "i": 85,
+      "n": 112,
+      "sj": "",
+      "se": "",
+      "jp": "　また<tips=10>道夫</tips>の病気が出たのかと<tips=66>紺太</tips>は思った。",
+      "en": "<tips=66>Konta</tips> thought <tips=10>Michio</tips>'s old sickness was acting up again."
+    },
+    {
+      "id": "x12:0113",
+      "i": 86,
+      "n": 113,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「<tips=1>菅原亮</tips>ってやつに挨拶をしてやるぞ」",
+      "en": "I'm going to greet this <tips=1>Ryo Sugawara</tips>."
+    },
+    {
+      "id": "x12:0114",
+      "i": 87,
+      "n": 114,
+      "sj": "",
+      "se": "",
+      "jp": "　もうすっかり偵察であることなど頭にないのであろうと思われる台詞を吐きながらドアに近づいてゆく<tips=10>道夫</tips>。<tips=66>紺太</tips>は仕方なくその後を追った。",
+      "en": "Uttering words that showed reconnaissance had entirely left his mind, <tips=10>Michio</tips> approached the door. <tips=66>Konta</tips> had no choice but to follow."
+    },
+    {
+      "id": "x12:0115",
+      "i": 88,
+      "n": 115,
+      "sj": "",
+      "se": "",
+      "jp": "　そして<tips=10>道夫</tips>は勇ましく胸を張ってガラリと入り口の戸を開ける。",
+      "en": "<tips=10>Michio</tips> thrust out his chest heroically and slid the entrance door open."
+    },
+    {
+      "id": "x12:0124",
+      "i": 89,
+      "n": 124,
+      "sj": "",
+      "se": "",
+      "jp": "　店内はカウンター席といくつかのテーブル席がある、どこにでもあるようなごく普通の定食屋だった。建物や家具は古く所々に染みついた汚れや黄ばみがあったが掃除自体は行き届いている。",
+      "en": "Inside was an utterly ordinary diner with counter seats and several tables. The building and furniture were old, stained and yellowed in places, but meticulously clean."
+    },
+    {
+      "id": "x12:0135",
+      "i": 90,
+      "n": 135,
+      "sj": "",
+      "se": "",
+      "jp": "　従業員らしきものはおらず、カウンターの向こうの調理場にも人はいない。けれど客席のテーブルに、少年と少女が向かい合っていた。少女の目の前には透明なガラスの器に盛られたバニラアイスがあり、手前の少年はこちらに背を向けながら少女の食べるところを見守っているようだった。",
+      "en": "No employees were visible, nor was anyone in the kitchen beyond the counter. A boy and girl, however, sat facing each other at a table. Before the girl stood a clear glass dish of vanilla ice cream. The boy nearer the entrance sat with his back to them, apparently watching her eat."
+    },
+    {
+      "id": "x12:0136",
+      "i": 91,
+      "n": 136,
+      "sj": "",
+      "se": "",
+      "jp": " 　<tips=10>道夫</tips>がドアを開けた音で、彼らは二人ともこちらを見る。",
+      "en": "At the sound of <tips=10>Michio</tips> opening the door, both looked over."
+    },
+    {
+      "id": "x12:0137",
+      "i": 92,
+      "n": 137,
+      "sj": "",
+      "se": "",
+      "jp": "（あ、美人）",
+      "en": "(She's beautiful.)"
+    },
+    {
+      "id": "x12:0138",
+      "i": 93,
+      "n": 138,
+      "sj": "",
+      "se": "",
+      "jp": "　こういう場合やはり異性の方に先に視線がゆくもので、少女の顔を見た<tips=10>道夫</tips>と<tips=66>紺太</tips>はほとんど同時に同じ言葉を心のなかで呟いた。",
+      "en": "In a situation like this, one's eyes naturally went first to the opposite sex. Seeing the girl, <tips=10>Michio</tips> and <tips=66>Konta</tips> thought nearly the same words at the same moment."
+    },
+    {
+      "id": "x12:0139",
+      "i": 94,
+      "n": 139,
+      "sj": "",
+      "se": "",
+      "jp": "　少女は事実整った顔立ちであった。西洋人形のようにまったく表情のない冷たい顔をしていたが、それがますます美貌を引き立てており、うぶな少年ならぞくりと背中に冷たいものを感じながらたちまち恋に落ちてしまいそうな容姿である。ただ、その目は金色に輝いており、否が応でも<tips=10>道夫</tips>たちの警戒心を呼び起こした。",
+      "en": "The girl truly had exquisite features. Her cold face was as expressionless as a Western doll, which only enhanced her beauty. An innocent boy might have felt a chill run down his back and fallen instantly in love. Her eyes, however, shone gold, inevitably arousing <tips=10>Michio</tips>'s wariness."
+    },
+    {
+      "id": "x12:0140",
+      "i": 95,
+      "n": 140,
+      "sj": "",
+      "se": "",
+      "jp": "　振り返った少年も、少女に負けず劣らずの美しい容貌を持っていた。彼はその切れ長の目でこちらを見ると怪訝な表情をした。",
+      "en": "The boy who turned possessed features no less beautiful than the girl's. He regarded them with narrow eyes and a puzzled expression."
+    },
+    {
+      "id": "x12:0141",
+      "i": 96,
+      "n": 141,
+      "sj": "",
+      "se": "",
+      "jp": "「お前が<tips=1>菅原亮</tips>だな」",
+      "en": "You're <tips=1>Ryo Sugawara</tips>."
+    },
+    {
+      "id": "x12:0142",
+      "i": 97,
+      "n": 142,
+      "sj": "",
+      "se": "",
+      "jp": "　目的の人物にすぐ会えた興奮を抑えつつ<tips=10>道夫</tips>は低い声で問うと、相手は頷く。",
+      "en": "Suppressing his excitement at meeting his target so quickly, <tips=10>Michio</tips> asked in a low voice. The other boy nodded."
+    },
+    {
+      "id": "x12:0143",
+      "i": 98,
+      "n": 143,
+      "sj": "",
+      "se": "",
+      "jp": "　やはりこの少年が噂の<tips=1>菅原亮</tips>なのか。見た感じ相手に<tips=77>特質変異</tips>は見えず、サイキックかどうかは確認出来ない。華奢というほどではないが細身で、強そうにも見えない。",
+      "en": "So this really was the rumored <tips=1>Ryo Sugawara</tips>. He displayed no visible <tips=77>Trait Mutation</tips>, so whether he was psychic could not be determined. He was slender without being frail and did not look strong."
+    },
+    {
+      "id": "x12:0144",
+      "i": 99,
+      "n": 144,
+      "sj": "",
+      "se": "",
+      "jp": "　しかし<tips=10>道夫</tips>にとってはどこかで見覚えがある顔だった。",
+      "en": "Yet <tips=10>Michio</tips> felt he had seen the face somewhere before."
+    },
+    {
+      "id": "x12:0145",
+      "i": 100,
+      "n": 145,
+      "sj": "",
+      "se": "",
+      "jp": "「おれが誰かわかるか」",
+      "en": "Do you know who I am?"
+    },
+    {
+      "id": "x12:0146",
+      "i": 101,
+      "n": 146,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はそう言って黒い右腕を出して見せる。",
+      "en": "<tips=10>Michio</tips> displayed his black right arm."
+    },
+    {
+      "id": "x12:0147",
+      "i": 102,
+      "n": 147,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=10>見土道夫</tips>だね」",
+      "en": "You're <tips=10>Michio Mido</tips>."
+    },
+    {
+      "id": "x12:0148",
+      "i": 103,
+      "n": 148,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はこともなげに言い、",
+      "en": "<tips=1>Ryo</tips> said it casually."
+    },
+    {
+      "id": "x12:0149",
+      "i": 104,
+      "n": 149,
+      "sj": "",
+      "se": "",
+      "jp": "「お前のことは知ってる。たしか、燕町三丁目の大工の居候だっけ？　<tips=59>暗闇通り</tips>のガキどものリーダーだね。……ハイブリッドで、超能力は<tips=77>特質変異</tips>のある右腕による切断。趣味はTVアニメで、その時影響された技の名前をしょっちゅう自分の能力に借用する。隣の家に住む二つ年上の盲目の女性に片思いをしていて……」",
+      "en": "I know about you. You're staying with the carpenter in Tsubamemachi Third District, aren't you? Leader of the <tips=59>Darkness Street</tips> brats. A hybrid whose psychic ability is cutting with a right arm affected by <tips=77>Trait Mutation</tips>. You enjoy television anime and constantly borrow names for your ability from whichever techniques recently impressed you. You have an unrequited love for the blind woman two years older who lives next door..."
+    },
+    {
+      "id": "x12:0150",
+      "i": 105,
+      "n": 150,
+      "sj": "",
+      "se": "",
+      "jp": "「しっ、知りすぎだろ！」",
+      "en": "Y-you know too much!"
+    },
+    {
+      "id": "x12:0151",
+      "i": 106,
+      "n": 151,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は慌てて遮る。そのうしろでは<tips=66>紺太</tips>が驚きを浮かべている。",
+      "en": "<tips=10>Michio</tips> hurriedly interrupted. Behind him, <tips=66>Konta</tips> looked astonished."
+    },
+    {
+      "id": "x12:0152",
+      "i": 107,
+      "n": 152,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=10>道夫</tips>君って、ルーシーさんに片思いを……」",
+      "en": "You have a crush on Lucy, <tips=10>Michio</tips>...?"
+    },
+    {
+      "id": "x12:0153",
+      "i": 108,
+      "n": 153,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>のつぶやきを<tips=10>道夫</tips>は無視しながら、",
+      "en": "Ignoring <tips=66>Konta</tips>'s murmur, <tips=10>Michio</tips> continued."
+    },
+    {
+      "id": "x12:0154",
+      "i": 109,
+      "n": 154,
+      "sj": "",
+      "se": "",
+      "jp": "「ふん、おれのことを調べたというわけか。やっぱりお前もライバルのことが気になっていたんだな」",
+      "en": "Hmph. So you investigated me. I knew you were interested in your rival too."
+    },
+    {
+      "id": "x12:0155",
+      "i": 110,
+      "n": 155,
+      "sj": "",
+      "se": "",
+      "jp": "「ただの風の噂だよ。……そっちの彼の噂も知ってるよ。<tips=66>田中紺太</tips>、あんたは……」",
+      "en": "Only rumors on the wind... I've heard rumors about him too. <tips=66>Konta Tanaka</tips>, you are..."
+    },
+    {
+      "id": "x12:0156",
+      "i": 111,
+      "n": 156,
+      "sj": "",
+      "se": "",
+      "jp": "「お、おれのことはどうでもいい」",
+      "en": "I-it doesn't matter who I am."
+    },
+    {
+      "id": "x12:0157",
+      "i": 112,
+      "n": 157,
+      "sj": "",
+      "se": "",
+      "jp": "「そうか」",
+      "en": "I see."
+    },
+    {
+      "id": "x12:0158",
+      "i": 113,
+      "n": 158,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は興味なさそうに素っ気なく答えるとまた少女の方を振り返り、",
+      "en": "He answered curtly without interest and turned back to the girl."
+    },
+    {
+      "id": "x12:0159",
+      "i": 114,
+      "n": 159,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=55>松子</tips>は気にしないで食べなよ」",
+      "en": "Keep eating, <tips=55>Matsuko</tips>. Don't mind them."
+    },
+    {
+      "id": "x12:0160",
+      "i": 115,
+      "n": 160,
+      "sj": "",
+      "se": "",
+      "jp": "　その言葉に<tips=55>松子</tips>と呼ばれた少女は頷き、小さなスプーンでアイスを掬って口に入れる。甘いものを目の前にした女の子にしては無表情で、その動作もまるで機械仕掛けのようだった。",
+      "en": "The girl called <tips=55>Matsuko</tips> nodded, scooped ice cream with a small spoon, and put it into her mouth. She was expressionless for a girl presented with sweets, and her motions seemed mechanical."
+    },
+    {
+      "id": "x12:0161",
+      "i": 116,
+      "n": 161,
+      "sj": "",
+      "se": "",
+      "jp": "「どんな味がする？」",
+      "en": "What does it taste like?"
+    },
+    {
+      "id": "x12:0162",
+      "i": 117,
+      "n": 162,
+      "sj": "",
+      "se": "",
+      "jp": "「甘くて、冷たい」",
+      "en": "Sweet and cold."
+    },
+    {
+      "id": "x12:0163",
+      "i": 118,
+      "n": 163,
+      "sj": "",
+      "se": "",
+      "jp": "　少女は表情を変化させずにそう応える。",
+      "en": "The girl answered without changing expression."
+    },
+    {
+      "id": "x12:0164",
+      "i": 119,
+      "n": 164,
+      "sj": "",
+      "se": "",
+      "jp": "「美味しい？」",
+      "en": "Is it good?"
+    },
+    {
+      "id": "x12:0165",
+      "i": 120,
+      "n": 165,
+      "sj": "",
+      "se": "",
+      "jp": "「……美味しいってどんな味？」",
+      "en": "...What does 'good' taste like?"
+    },
+    {
+      "id": "x12:0166",
+      "i": 121,
+      "n": 166,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=55>松子</tips>は困ったように首をかたむける。<tips=1>亮</tips>は残念そうに溜息をつく。",
+      "en": "<tips=55>Matsuko</tips> tilted her head in confusion. <tips=1>Ryo</tips> sighed with disappointment."
+    },
+    {
+      "id": "x12:0167",
+      "i": 122,
+      "n": 167,
+      "sj": "",
+      "se": "",
+      "jp": "「おい」",
+      "en": "Hey."
+    },
+    {
+      "id": "x12:0168",
+      "i": 123,
+      "n": 168,
+      "sj": "",
+      "se": "",
+      "jp": "　奇妙な二人のやりとりに、思わず見入っていた<tips=10>道夫</tips>は、そこで我に返って呼びかける。",
+      "en": "Absorbed in the strange exchange, <tips=10>Michio</tips> finally returned to himself and called out."
+    },
+    {
+      "id": "x12:0169",
+      "i": 124,
+      "n": 169,
+      "sj": "",
+      "se": "",
+      "jp": "「準備中の札がかかってたろ？　今はなんの料理も出せないよ。店主が昼寝をしているんだ」",
+      "en": "You saw the sign saying we're preparing, didn't you? We can't serve anything now. The owner is taking a nap."
+    },
+    {
+      "id": "x12:0170",
+      "i": 125,
+      "n": 170,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は背中を向けたままそう告げる。",
+      "en": "<tips=1>Ryo</tips> told him this without turning around."
+    },
+    {
+      "id": "x12:0171",
+      "i": 126,
+      "n": 171,
+      "sj": "",
+      "se": "",
+      "jp": "「おれは客として来たんじゃない。お前に用があって来たんだ」",
+      "en": "I didn't come as a customer. I came for you."
+    },
+    {
+      "id": "x12:0172",
+      "i": 127,
+      "n": 172,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>の言葉に、<tips=1>亮</tips>は眉間にしわを寄せ、いかにも面倒だという態度を露わにしながら振り向いた。",
+      "en": "At <tips=10>Michio</tips>'s words, <tips=1>Ryo</tips> furrowed his brow and turned with every sign that this was a nuisance."
+    },
+    {
+      "id": "x12:0173",
+      "i": 128,
+      "n": 173,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=1>菅原亮</tips>。お前は<tips=58>パラシュート通り</tips>の悪餓鬼どものボスだ。そしておれは<tips=59>暗闇通り</tips>を仕切っている。これから二人でどっちが強いか決着をつけよう。そして勝った方が相手のチームを奪うんだ」",
+      "en": "<tips=1>Ryo Sugawara</tips>, you're the boss of the <tips=58>Parachute Street</tips> brats. I control <tips=59>Darkness Street</tips>. Now we'll decide which of us is stronger. The winner takes the loser's team."
+    },
+    {
+      "id": "x12:0174",
+      "i": 129,
+      "n": 174,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は眉の片方をつり上げて怪訝な表情をする。しかし、驚いたのは彼だけではない。",
+      "en": "<tips=1>Ryo</tips> raised one eyebrow in bewilderment. He was not the only one surprised."
+    },
+    {
+      "id": "x12:0175",
+      "i": 130,
+      "n": 175,
+      "sj": "",
+      "se": "",
+      "jp": "「み、<tips=10>道夫</tips>君、そんなの聞いてないよ。どうして偵察のはずが挨拶になって、決闘になるのさ」",
+      "en": "M-<tips=10>Michio</tips>, you never mentioned this. How did reconnaissance become a greeting, and then a duel?"
+    },
+    {
+      "id": "x12:0176",
+      "i": 131,
+      "n": 176,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は無情にも<tips=66>紺太</tips>の言葉を無視する。",
+      "en": "<tips=10>Michio</tips> mercilessly ignored <tips=66>Konta</tips>."
+    },
+    {
+      "id": "x12:0177",
+      "i": 132,
+      "n": 177,
+      "sj": "",
+      "se": "",
+      "jp": "「なあ<tips=1>菅原</tips>よ。お前はギャングが好きか？」",
+      "en": "Tell me, <tips=1>Sugawara</tips>. Do you like gangs?"
+    },
+    {
+      "id": "x12:0178",
+      "i": 133,
+      "n": 178,
+      "sj": "",
+      "se": "",
+      "jp": "「ギャングは嫌いだ。それで？」",
+      "en": "I hate gangs. So what?"
+    },
+    {
+      "id": "x12:0179",
+      "i": 134,
+      "n": 179,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は即答し、冷たい視線で<tips=10>道夫</tips>の顔を見つめる。",
+      "en": "<tips=1>Ryo</tips> answered at once, fixing <tips=10>Michio</tips> with a cold gaze."
+    },
+    {
+      "id": "x12:0180",
+      "i": 135,
+      "n": 180,
+      "sj": "",
+      "se": "",
+      "jp": "「じゃあ、わかるだろ？　今この街は、お前がやっつけた周みたいな、ギャングとつるんだアホが餓鬼の世界を仕切ってる。そのせいで、ろくでもないことが沢山起きてるだろ？　おれは、この状況が納得出来ないんだ。それを変えたいと思っている。だが、そのためには戦力が必要なんだよ。だからおれは今、仲間と一緒にあちこちに出向いて、いろんなボスと決闘をしたり、戦争をして仲間を増やしているところなのさ」",
+      "en": "Then you understand. Idiots allied with gangs, like that Zhou you defeated, control the children's world in this town. That's why so many rotten things happen. I can't accept it. I want to change the situation, but I need strength. So my friends and I are visiting different places, dueling bosses and waging wars to gain more allies."
+    },
+    {
+      "id": "x12:0181",
+      "i": 136,
+      "n": 181,
+      "sj": "",
+      "se": "",
+      "jp": "「戦争とは大げさだな」",
+      "en": "'War' is rather grandiose."
+    },
+    {
+      "id": "x12:0182",
+      "i": 137,
+      "n": 182,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は溜息をつく。",
+      "en": "<tips=1>Ryo</tips> sighed."
+    },
+    {
+      "id": "x12:0183",
+      "i": 138,
+      "n": 183,
+      "sj": "",
+      "se": "",
+      "jp": "「実際戦争だよ。命がけなんだ」",
+      "en": "It is war. We risk our lives."
+    },
+    {
+      "id": "x12:0184",
+      "i": 139,
+      "n": 184,
+      "sj": "",
+      "se": "",
+      "jp": "「まあ、なんでもいいさ。とにかく、お前は僕に決闘を挑んで<tips=58>パラシュート通り</tips>を縄張りにしようってわけだね？」",
+      "en": "Call it whatever you like. In short, you're challenging me to a duel so you can claim <tips=58>Parachute Street</tips> as your territory."
+    },
+    {
+      "id": "x12:0185",
+      "i": 140,
+      "n": 185,
+      "sj": "",
+      "se": "",
+      "jp": "「そうだ。おれとお前、一対一で戦うんだ。そして勝った方が負けた方のチームを吸収する。おれはこの虎の目の力も、超能力も使わない。この身体だけで戦ってやる。だからお前も素手で立ち向かってこい。男同士のプライドをかけた決闘だぜ。さあ、わかったなら今すぐ表に出ろ！」",
+      "en": "Exactly. You and I fight one on one, and the winner absorbs the loser's team. I won't use the power of my tiger eyes or my psychic ability. I'll fight with this body alone, so face me barehanded. A duel between men with our pride at stake! If you understand, come outside at once!"
+    },
+    {
+      "id": "x12:0186",
+      "i": 141,
+      "n": 186,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は興奮して高らかに宣言をするが、<tips=1>亮</tips>は対照的にさも億劫そうに頭をかいてから、",
+      "en": "<tips=10>Michio</tips> made the excited proclamation. In stark contrast, <tips=1>Ryo</tips> scratched his head with obvious reluctance."
+    },
+    {
+      "id": "x12:0187",
+      "i": 142,
+      "n": 187,
+      "sj": "",
+      "se": "",
+      "jp": "「断る。だから……」",
+      "en": "I refuse. So..."
+    },
+    {
+      "id": "x12:0188",
+      "i": 143,
+      "n": 188,
+      "sj": "",
+      "se": "",
+      "jp": "　言おうとしたその言葉を<tips=10>道夫</tips>はむきになって遮った。",
+      "en": "<tips=10>Michio</tips> heatedly cut him off."
+    },
+    {
+      "id": "x12:0189",
+      "i": 144,
+      "n": 189,
+      "sj": "",
+      "se": "",
+      "jp": "「おい、逃げる気か？　よく考えろ。お前が拒否すればチーム同士の戦争になる。そしたら、けが人が沢山出てやつらにつけこまれる隙を作ることに……」",
+      "en": "Are you running away? Think carefully. If you refuse, our teams go to war. Many people will be hurt, and we'll give them an opening to exploit..."
+    },
+    {
+      "id": "x12:0190",
+      "i": 145,
+      "n": 190,
+      "sj": "",
+      "se": "",
+      "jp": "「そうじゃない。話をきけよ」",
+      "en": "That's not what I mean. Listen."
+    },
+    {
+      "id": "x12:0191",
+      "i": 146,
+      "n": 191,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は溜息をつくと、",
+      "en": "<tips=1>Ryo</tips> sighed."
+    },
+    {
+      "id": "x12:0192",
+      "i": 147,
+      "n": 192,
+      "sj": "",
+      "se": "",
+      "jp": "「決闘なんかしない。僕の負けでいい。お前にチームは譲るから帰ってもらおうか」",
+      "en": "I won't duel. You can call it my defeat. I'll give you the team, so please go home."
+    },
+    {
+      "id": "x12:0193",
+      "i": 148,
+      "n": 193,
+      "sj": "",
+      "se": "",
+      "jp": "「はあ？」",
+      "en": "What?"
+    },
+    {
+      "id": "x12:0194",
+      "i": 149,
+      "n": 194,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は口をあんぐりと開いて問い返す。",
+      "en": "<tips=10>Michio</tips>'s mouth fell open."
+    },
+    {
+      "id": "x12:0195",
+      "i": 150,
+      "n": 195,
+      "sj": "",
+      "se": "",
+      "jp": "「いいかい？　僕は別にリーダーでもなんでもないんだ。このあたりを<tips=57>滑走路通り</tips>の馬鹿がうろついてムカついたから、別の馬鹿を集めて追い払っただけさ。そうしたら、馬鹿たちがおかしな感じにまつりあげてきて迷惑してる。挙げ句の果てにはお前らみたいな馬鹿の総大将が家まで押しかけてきやがった。一体この馬鹿騒ぎはなんだ？　ほっといてくれ」",
+      "en": "Listen. I'm not a leader or anything else. I was annoyed by the idiots from <tips=57>Runway Street</tips> wandering around here, so I gathered other idiots and drove them away. Then those idiots began worshiping me in some strange way, which has been nothing but trouble. Finally, a supreme commander of idiots like you comes barging into my home. What is this idiotic uproar? Leave me alone."
+    },
+    {
+      "id": "x12:0196",
+      "i": 151,
+      "n": 196,
+      "sj": "",
+      "se": "",
+      "jp": "　――この<tips=1>菅原亮</tips>という人間がどういった人物なのかまだはっきりとは掴めないが、仲間も敵もひっくるめて「馬鹿」と連呼するところをみると、性格が相当悪いのは間違いない。",
+      "en": "They still could not clearly grasp what kind of person <tips=1>Ryo Sugawara</tips> was. But judging by how he called ally and enemy alike an idiot, there was no doubt his personality was dreadful."
+    },
+    {
+      "id": "x12:0197",
+      "i": 152,
+      "n": 197,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>も<tips=66>紺太</tips>も同時にそう理解した。",
+      "en": "<tips=10>Michio</tips> and <tips=66>Konta</tips> reached that conclusion simultaneously."
+    },
+    {
+      "id": "x12:0198",
+      "i": 153,
+      "n": 198,
+      "sj": "",
+      "se": "",
+      "jp": "「ねえ、僕は暴力は嫌いなんだ。最低最悪の解決方法だからね。ガキとギャングは程度が低いからすぐこの原始的な解決方法に頼ろうとする。もううんざりだ」",
+      "en": "I hate violence. It is the worst possible solution. Children and gangsters are crude, so they immediately resort to this primitive method. I'm sick of it."
+    },
+    {
+      "id": "x12:0199",
+      "i": 154,
+      "n": 199,
+      "sj": "",
+      "se": "",
+      "jp": "「お前もガキじゃないか」",
+      "en": "You're a child too."
+    },
+    {
+      "id": "x12:0200",
+      "i": 155,
+      "n": 200,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はそう呟くが、<tips=1>亮</tips>は気にせず、すまし顔で続ける。",
+      "en": "<tips=10>Michio</tips> muttered, but <tips=1>Ryo</tips> ignored him and continued with a composed face."
+    },
+    {
+      "id": "x12:0201",
+      "i": 156,
+      "n": 201,
+      "sj": "",
+      "se": "",
+      "jp": "「だから、お前がみんなのリーダーを引き受けてくれるならこれほど嬉しいことはない。よろこんで譲るから、それで<tips=9>Y地区</tips>の統一をするなり、日本の大番長になるなり、好きにやってくれ」",
+      "en": "So nothing would make me happier than for you to take responsibility for leading everyone. I gladly surrender. Unify <tips=9>Y District</tips>, become Japan's supreme delinquent leader, or do whatever else you please."
+    },
+    {
+      "id": "x12:0202",
+      "i": 157,
+      "n": 202,
+      "sj": "",
+      "se": "",
+      "jp": "「な、なんて卑怯なやつだ！」",
+      "en": "Y-you coward!"
+    },
+    {
+      "id": "x12:0203",
+      "i": 158,
+      "n": 203,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は言って、どんと拳で傍らの壁を叩く。すると、上の方に画鋲で貼りつけられた品書きのボール紙が揺れる。",
+      "en": "<tips=10>Michio</tips> slammed a fist into the wall. A cardboard menu pinned higher up trembled."
+    },
+    {
+      "id": "x12:0204",
+      "i": 159,
+      "n": 204,
+      "sj": "",
+      "se": "",
+      "jp": "「見損なったぞ<tips=1>菅原亮</tips>！　お前には情熱がないのか！」",
+      "en": "I misjudged you, <tips=1>Ryo Sugawara</tips>! Have you no passion?"
+    },
+    {
+      "id": "x12:0205",
+      "i": 160,
+      "n": 205,
+      "sj": "",
+      "se": "",
+      "jp": "「ない」",
+      "en": "None."
+    },
+    {
+      "id": "x12:0206",
+      "i": 161,
+      "n": 206,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は苦々しい表情で荒ぶる<tips=10>道夫</tips>を眺めながら、",
+      "en": "<tips=1>Ryo</tips> watched the raging <tips=10>Michio</tips> with a bitter expression."
+    },
+    {
+      "id": "x12:0207",
+      "i": 162,
+      "n": 207,
+      "sj": "",
+      "se": "",
+      "jp": "「お前は暴力のことを一種のスポーツみたいに考えているようだけど、僕はそんなふうには解釈できない。くだらない殴り合いなんかしたくないんだよ。僕は一人で好きなことについて考えていたり、この子と遊んでいた方がずっと楽しい。……そろそろ美味しいって感覚がわかってきた？」",
+      "en": "You seem to view violence as a kind of sport, but I cannot interpret it that way. I have no desire for pointless fistfights. I'd far rather think alone about things I enjoy or play with this girl... Are you beginning to understand what 'delicious' feels like?"
+    },
+    {
+      "id": "x12:0208",
+      "i": 163,
+      "n": 208,
+      "sj": "",
+      "se": "",
+      "jp": "「ううん」",
+      "en": "No."
+    },
+    {
+      "id": "x12:0209",
+      "i": 164,
+      "n": 209,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>の問いかけに、少女は首を左右に振る。",
+      "en": "In answer to <tips=1>Ryo</tips>'s question, the girl shook her head."
+    },
+    {
+      "id": "x12:0210",
+      "i": 165,
+      "n": 210,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は言い返したいが、すぐに言葉が浮かんで来ずに、二人のやりとりを睨み付けている。",
+      "en": "<tips=10>Michio</tips> wanted to fire back, but no words came to him at once, so he could only glare as the two continued their exchange."
+    },
+    {
+      "id": "x12:0211",
+      "i": 166,
+      "n": 211,
+      "sj": "",
+      "se": "",
+      "jp": "「そっか。お腹がすいていてもダメか。まだ<tips=55>松子</tips>には早かったかな……」",
+      "en": "“I see. So being hungry isn’t enough. Maybe it’s still too soon for <tips=55>Matsuko</tips>...”"
+    },
+    {
+      "id": "x12:0212",
+      "i": 167,
+      "n": 212,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は残念そうに言うと、空になった少女の食器を持って立ち上がった。",
+      "en": "<tips=1>Ryo</tips> spoke with disappointment, then picked up the girl’s empty dishes and stood."
+    },
+    {
+      "id": "x12:0213",
+      "i": 168,
+      "n": 213,
+      "sj": "",
+      "se": "",
+      "jp": "「お、おい、どこへ行く気だ！」",
+      "en": "“H-Hey! Where do you think you’re going?”"
+    },
+    {
+      "id": "x12:0214",
+      "i": 169,
+      "n": 214,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は慌てて呼び止めた。",
+      "en": "<tips=10>Michio</tips> hurriedly called after him."
+    },
+    {
+      "id": "x12:0215",
+      "i": 170,
+      "n": 215,
+      "sj": "",
+      "se": "",
+      "jp": "「食器の片付けと、それから食事の用意をしようと思ってね。僕らはまだ昼食をとっていないんだ」",
+      "en": "“To clear away the dishes, then make something to eat. We haven’t had lunch yet.”"
+    },
+    {
+      "id": "x12:0216",
+      "i": 171,
+      "n": 216,
+      "sj": "",
+      "se": "",
+      "jp": "「こっちの話はまだ終わっていない」",
+      "en": "“We’re not finished talking.”"
+    },
+    {
+      "id": "x12:0217",
+      "i": 172,
+      "n": 217,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が食い下がると、<tips=1>亮</tips>は苛立ちを浮かべてきっと睨み、",
+      "en": "When <tips=10>Michio</tips> persisted, <tips=1>Ryo</tips> glared sharply at him, irritation flashing across his face."
+    },
+    {
+      "id": "x12:0218",
+      "i": 173,
+      "n": 218,
+      "sj": "",
+      "se": "",
+      "jp": "「それはお前の都合だろ？　こっちにはこっちの都合がある。静かに午後を過ごしているところに土足で入ってきたお前らにここまでつき合ってやったんだから少しは譲れよ。それとも、<tips=10>見土道夫</tips>というやつは、偉そうな口をきくわりに最低限の礼儀も知らないのか？」",
+      "en": "“That’s your problem, isn’t it? We have our own concerns. You barged in with your shoes on while we were enjoying a quiet afternoon, and I’ve already indulged you this long. The least you can do is give a little. Or does the great <tips=10>Michio Mido</tips> not even know basic manners despite all his big talk?”"
+    },
+    {
+      "id": "x12:0219",
+      "i": 174,
+      "n": 219,
+      "sj": "",
+      "se": "",
+      "jp": "　これまで穏やかな口調で対応していた<tips=1>亮</tips>の突然の怒りに、<tips=10>道夫</tips>は思わず気圧され、",
+      "en": "The sudden anger from <tips=1>Ryo</tips>, who had been speaking calmly until then, cowed <tips=10>Michio</tips> despite himself."
+    },
+    {
+      "id": "x12:0220",
+      "i": 175,
+      "n": 220,
+      "sj": "",
+      "se": "",
+      "jp": "「お、おう。飯くらい好きに食えよ。その子も腹が空いているだろう」",
+      "en": "“F-Fine. Eat if you want. The kid must be hungry too.”"
+    },
+    {
+      "id": "x12:0221",
+      "i": 176,
+      "n": 221,
+      "sj": "",
+      "se": "",
+      "jp": "　不覚にもそう返事をしてしまった。",
+      "en": "Before he knew it, he had actually given his permission."
+    },
+    {
+      "id": "x12:0222",
+      "i": 177,
+      "n": 222,
+      "sj": "",
+      "se": "",
+      "jp": "「ありがとう」",
+      "en": "“Thanks.”"
+    },
+    {
+      "id": "x12:0223",
+      "i": 178,
+      "n": 223,
+      "sj": "",
+      "se": "",
+      "jp": "　すると<tips=1>亮</tips>は微笑を残し、空の食器をカウンターに上げるとその場を去ってゆく。",
+      "en": "With a faint smile, <tips=1>Ryo</tips> set the empty dishes on the counter and walked away."
+    },
+    {
+      "id": "x12:0232",
+      "i": 179,
+      "n": 232,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は想像していたのとは大分違う<tips=1>菅原亮</tips>という人間に戸惑い、苦い顔をする。",
+      "en": "<tips=10>Michio</tips> grimaced, unsettled by how different <tips=1>Ryo Sugawara</tips> was from the man he had imagined."
+    },
+    {
+      "id": "x12:0233",
+      "i": 180,
+      "n": 233,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「どうする？　出直す？」",
+      "en": "“What do we do? Come back another time?”"
+    },
+    {
+      "id": "x12:0234",
+      "i": 181,
+      "n": 234,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>が困って訊ねても、",
+      "en": "Even when <tips=66>Konta</tips> asked uncertainly,"
+    },
+    {
+      "id": "x12:0235",
+      "i": 182,
+      "n": 235,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「いや……」",
+      "en": "“No...”"
+    },
+    {
+      "id": "x12:0236",
+      "i": 183,
+      "n": 236,
+      "sj": "",
+      "se": "",
+      "jp": "　と困惑しつつ、生返事をするのが精一杯だった。",
+      "en": "Michio was so bewildered that a vague reply was all he could manage."
+    },
+    {
+      "id": "x12:0237",
+      "i": 184,
+      "n": 237,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「チームをくれるって本当かな？　そんな話って本当にあると思う？」",
+      "en": "“Do you think he really means it about giving us the team? Does anything like that actually happen?”"
+    },
+    {
+      "id": "x12:0238",
+      "i": 185,
+      "n": 238,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>はひそひそ声で<tips=10>道夫</tips>にそう尋ねる。",
+      "en": "<tips=66>Konta</tips> whispered the question to <tips=10>Michio</tips>."
+    },
+    {
+      "id": "x12:0239",
+      "i": 186,
+      "n": 239,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「嘘をついているようには思えないけれど……」",
+      "en": "“He doesn’t seem like he’s lying, but...”"
+    },
+    {
+      "id": "x12:0240",
+      "i": 187,
+      "n": 240,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が顎に手を当てて考えていると、目の前にいる<tips=55>松子</tips>と目が合ってしまう。",
+      "en": "As <tips=10>Michio</tips> put a hand to his chin and pondered, his eyes met those of <tips=55>Matsuko</tips> across from him."
+    },
+    {
+      "id": "x12:0241",
+      "i": 188,
+      "n": 241,
+      "sj": "",
+      "se": "",
+      "jp": "　アイスクリームがなくなって手持ち無沙汰になった彼女は、そこに座ったままじっと<tips=10>道夫</tips>たちを見つめていた。相変わらず無表情で、クスリともしない。目が金色だが雰囲気からすると発症しているわけでもなさそうだ。",
+      "en": "With no ice cream left to occupy her, she remained in her seat and stared fixedly at <tips=10>Michio</tips> and Konta. Her face was as blank as ever, without so much as a chuckle. Her eyes were gold, but judging by her demeanor, she did not seem to be having an episode."
+    },
+    {
+      "id": "x12:0242",
+      "i": 189,
+      "n": 242,
+      "sj": "",
+      "se": "",
+      "jp": "　かといって、さっきの<tips=1>亮</tips>とのやりとりは表情を見る限り普通の少女にも見えない。",
+      "en": "Then again, judging by her expression during that exchange with <tips=1>Ryo</tips>, she did not seem like an ordinary girl either."
+    },
+    {
+      "id": "x12:0243",
+      "i": 190,
+      "n": 243,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「お前はいったい<tips=1>菅原</tips>の……」",
+      "en": "“What exactly are you to <tips=1>Sugawara</tips>...?”"
+    },
+    {
+      "id": "x12:0245",
+      "i": 191,
+      "n": 245,
+      "sj": "",
+      "se": "",
+      "jp": "　聞こうとしたところで、奥の戸がガラガラと開いて<tips=1>亮</tips>が帰って来た。",
+      "en": "Before he could finish asking, the door in the back rattled open and <tips=1>Ryo</tips> returned."
+    },
+    {
+      "id": "x12:0246",
+      "i": 192,
+      "n": 246,
+      "sj": "",
+      "se": "",
+      "jp": "　彼はその手に首を落とされ羽をむしられた一羽の鶏を掴んでいる。",
+      "en": "In one hand, he held a whole chicken with its head removed and feathers plucked."
+    },
+    {
+      "id": "x12:0247",
+      "i": 193,
+      "n": 247,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「まだいたんだ」",
+      "en": "“You’re still here?”"
+    },
+    {
+      "id": "x12:0248",
+      "i": 194,
+      "n": 248,
+      "sj": "",
+      "se": "",
+      "jp": "　入り口の方で佇んでいる二人に一瞬だけ視線をやってからそう言うと、そのままカウンターの内側の調理場の方に足を踏み入れて、白く大きなまな板の上にその鶏をドサリと置いた。",
+      "en": "He spared the two standing by the entrance a momentary glance as he spoke, then stepped behind the counter into the kitchen and dropped the chicken onto a large white cutting board with a thud."
+    },
+    {
+      "id": "x12:0249",
+      "i": 195,
+      "n": 249,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「まるごとかよ」",
+      "en": "“The whole damn bird?”"
+    },
+    {
+      "id": "x12:0250",
+      "i": 196,
+      "n": 250,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が思わず言うと、",
+      "en": "When <tips=10>Michio</tips> blurted that out,"
+    },
+    {
+      "id": "x12:0251",
+      "i": 197,
+      "n": 251,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「昨日裏でしめたんだ」",
+      "en": "“I slaughtered it out back yesterday.”"
+    },
+    {
+      "id": "x12:0252",
+      "i": 198,
+      "n": 252,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は白いエプロンを着けながらそう返した。",
+      "en": "<tips=1>Ryo</tips> replied while tying on a white apron."
+    },
+    {
+      "id": "x12:0253",
+      "i": 199,
+      "n": 253,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「お前が料理するのか？」",
+      "en": "“You’re going to cook it?”"
+    },
+    {
+      "id": "x12:0254",
+      "i": 200,
+      "n": 254,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「そうだよ。大量に出来ちゃうからどうしようかと思ってたんだけど、お前らも食べる？　そんなに時間はかからないけど」",
+      "en": "“That’s right. It’ll make more than we can eat, and I was wondering what to do with it. You two want some? It won’t take long.”"
+    },
+    {
+      "id": "x12:0256",
+      "i": 201,
+      "n": 256,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は手にハンドソープをつけ入念に洗いながら訊ねる。",
+      "en": "<tips=1>Ryo</tips> asked while thoroughly washing his hands with soap."
+    },
+    {
+      "id": "x12:0257",
+      "i": 202,
+      "n": 257,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「あ、うん」",
+      "en": "“Uh, sure.”"
+    },
+    {
+      "id": "x12:0258",
+      "i": 203,
+      "n": 258,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「じゃあそこのテーブルに座ってなよ」",
+      "en": "“Then sit at that table.”"
+    },
+    {
+      "id": "x12:0259",
+      "i": 204,
+      "n": 259,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「す、すまん」",
+      "en": "“Th-Thanks.”"
+    },
+    {
+      "id": "x12:0260",
+      "i": 205,
+      "n": 260,
+      "sj": "",
+      "se": "",
+      "jp": "　言われたとおり<tips=10>道夫</tips>と<tips=66>紺太</tips>は<tips=55>松子</tips>の正面に腰掛けた。",
+      "en": "As instructed, <tips=10>Michio</tips> and <tips=66>Konta</tips> sat across from <tips=55>Matsuko</tips>."
+    },
+    {
+      "id": "x12:0262",
+      "i": 206,
+      "n": 262,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は業務用の巨大なコンロに火をつけると、中華鍋の揚げ油を温め、その間に鶏にとりかかる。彼の包丁を扱う手つきは慣れたもので、鶏の形をしていたものはあっというまに解体され、肉の塊に切り分けられる。",
+      "en": "<tips=1>Ryo</tips> lit an enormous commercial stove and began heating oil in a wok. While it warmed, he set to work on the chicken. His knife moved with practiced ease, and in moments, what had still looked like a chicken was dismantled and divided into cuts of meat."
+    },
+    {
+      "id": "x12:0263",
+      "i": 207,
+      "n": 263,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「まるでプロみたいだ。すごいなあ」",
+      "en": "“He’s like a professional. That’s amazing.”"
+    },
+    {
+      "id": "x12:0264",
+      "i": 208,
+      "n": 264,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>が背筋を伸ばして<tips=1>亮</tips>の手さばきに見惚れている。",
+      "en": "<tips=66>Konta</tips> sat up straight, enthralled by <tips=1>Ryo</tips>’s skillful hands."
+    },
+    {
+      "id": "x12:0265",
+      "i": 209,
+      "n": 265,
+      "sj": "",
+      "se": "",
+      "jp": "　一方隣の<tips=10>道夫</tips>は仏頂面である。",
+      "en": "Beside him, meanwhile, <tips=10>Michio</tips> wore a sullen scowl."
+    },
+    {
+      "id": "x12:0266",
+      "i": 210,
+      "n": 266,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「おい、なんでおれたちはここで<tips=1>菅原亮</tips>の料理を待っているんだ？　おれはやつと戦いに来たんだぞ？」",
+      "en": "“Hey, why are we sitting here waiting for <tips=1>Ryo Sugawara</tips> to cook for us? I came here to fight him!”"
+    },
+    {
+      "id": "x12:0267",
+      "i": 211,
+      "n": 267,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「そんなのおれに言われたって困るよ。<tips=10>道夫</tips>君がうんって言って座ったんだろ。……あ、良い匂いがしてきた。そういえばおれも昼食べてないんだよなあ」",
+      "en": "“Don’t ask me. You’re the one who said yes and sat down, <tips=10>Michio</tips>. ...Oh, something smells good. Come to think of it, I haven’t had lunch either.”"
+    },
+    {
+      "id": "x12:0268",
+      "i": 212,
+      "n": 268,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>はもう<tips=10>道夫</tips>が語る話よりも、これからどんな料理が出来上がるかの方に完全に興味がうつっているようだ。",
+      "en": "<tips=66>Konta</tips>’s interest had clearly shifted entirely away from what <tips=10>Michio</tips> was saying and toward whatever food was about to emerge from the kitchen."
+    },
+    {
+      "id": "x12:0269",
+      "i": 213,
+      "n": 269,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は腕組みをして今の状況を考える。",
+      "en": "Arms folded, <tips=10>Michio</tips> considered the situation."
+    },
+    {
+      "id": "x12:0270",
+      "i": 214,
+      "n": 270,
+      "sj": "",
+      "se": "",
+      "jp": "　こちらは決闘を申し込み、相手はそれを拒否して、こちらの条件をのんだ。つまり、チームをくれるというのだ。ということは、もう争う理由はないということになる。対立関係ではないとすれば、ここで食事をご馳走になるのもなにもおかしくはない。",
+      "en": "He had demanded a duel. His opponent had refused, yet accepted Michio’s terms—that was, he had agreed to hand over his team. That meant they no longer had any reason to fight. And if they were no longer enemies, there was nothing strange about accepting a meal here."
+    },
+    {
+      "id": "x12:0271",
+      "i": 215,
+      "n": 271,
+      "sj": "",
+      "se": "",
+      "jp": "　そのはずなのだけれども、どうも感情が納得出来ない。こんな簡単でいいのだろうか？　自分が、そして街のちょっと悪い子供たちが青春を賭けているこの戦いが、こんなにあっさり決着していいのだろうか？",
+      "en": "That ought to have settled it, yet his feelings refused to follow. Could it really be this easy? Could a battle in which he—and all the town’s slightly delinquent children—had staked their youth truly end so anticlimactically?"
+    },
+    {
+      "id": "x12:0272",
+      "i": 216,
+      "n": 272,
+      "sj": "",
+      "se": "",
+      "jp": "　いや、もめ事なく決着付けばそれはそれでいい。そのはずなのだが、なんだろうこの心の収まりのつかない感じは。もしかして自分の心が求めているのは、自分が頭で考えているものとは違うのか？",
+      "en": "No, resolving matters without conflict was a good thing. It was supposed to be. So why did his heart still feel so unsettled? Could what he truly wanted be different from what his head told him he wanted?"
+    },
+    {
+      "id": "x12:0273",
+      "i": 217,
+      "n": 273,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「うーん……」",
+      "en": "“Hmm...”"
+    },
+    {
+      "id": "x12:0274",
+      "i": 218,
+      "n": 274,
+      "sj": "",
+      "se": "",
+      "jp": "　考え込んでいると、また<tips=55>松子</tips>と目が合った。",
+      "en": "Lost in thought, he found himself meeting <tips=55>Matsuko</tips>’s eyes once again."
+    },
+    {
+      "id": "x12:0275",
+      "i": 219,
+      "n": 275,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「何か用か？」",
+      "en": "“What do you want?”"
+    },
+    {
+      "id": "x12:0276",
+      "i": 220,
+      "n": 276,
+      "sj": "汐松子（少女）",
+      "se": "Matsuko Shio",
+      "jp": "「頭でも痛いのか？　鎮痛剤あるぞ」",
+      "en": "“Does your head hurt? We have painkillers.”"
+    },
+    {
+      "id": "x12:0277",
+      "i": 221,
+      "n": 277,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=55>松子</tips>は無表情だが心配してくれているようだ。",
+      "en": "Though <tips=55>Matsuko</tips> remained expressionless, she seemed to be concerned about him."
+    },
+    {
+      "id": "x12:0278",
+      "i": 222,
+      "n": 278,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「いや、違うんだ……今ちょっと自分というものを探求していたんだ」",
+      "en": "“No, it’s not that... I was just engaged in a little exploration of the self.”"
+    },
+    {
+      "id": "x12:0279",
+      "i": 223,
+      "n": 279,
+      "sj": "汐松子（少女）",
+      "se": "Matsuko Shio",
+      "jp": "「そう」",
+      "en": "“I see.”"
+    },
+    {
+      "id": "x12:0280",
+      "i": 224,
+      "n": 280,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=55>松子</tips>は素っ気なく言い、そしてあくびをした。",
+      "en": "<tips=55>Matsuko</tips> replied curtly, then yawned."
+    },
+    {
+      "id": "x12:0282",
+      "i": 225,
+      "n": 282,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「お待たせ。大皿で悪いね」",
+      "en": "“Sorry to keep you waiting. You’ll have to share from the platter.”"
+    },
+    {
+      "id": "x12:0283",
+      "i": 226,
+      "n": 283,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は出来上がった料理を食卓の上に置く。",
+      "en": "<tips=1>Ryo</tips> set the finished dishes on the table."
+    },
+    {
+      "id": "x12:0284",
+      "i": 227,
+      "n": 284,
+      "sj": "",
+      "se": "",
+      "jp": "　一番大きな皿に盛られているのは、色良く揚がった鶏に、長葱のたっぷり入ったあんがかかったものだ。",
+      "en": "The largest plate held chicken fried to a beautiful golden brown, covered in a sauce packed with chopped scallions."
+    },
+    {
+      "id": "x12:0285",
+      "i": 228,
+      "n": 285,
+      "sj": "",
+      "se": "",
+      "jp": "　その隣の中くらいの皿にはキュウリと茄子の漬物が盛られている。そして、一人一人にわかめと卵の入った透明なスープと白米の椀が配られた。",
+      "en": "Beside it, a medium-sized plate was piled with pickled cucumber and eggplant. Each person also received a bowl of clear soup with wakame and egg, along with a bowl of white rice."
+    },
+    {
+      "id": "x12:0286",
+      "i": 229,
+      "n": 286,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「これ、から揚げか？」",
+      "en": "“Is this fried chicken?”"
+    },
+    {
+      "id": "x12:0287",
+      "i": 230,
+      "n": 287,
+      "sj": "",
+      "se": "",
+      "jp": "　もうすっかりここに来た理由を忘れた<tips=66>紺太</tips>が目を輝かせて訊ねる。",
+      "en": "Having completely forgotten why they had come, <tips=66>Konta</tips> asked with shining eyes."
+    },
+    {
+      "id": "x12:0288",
+      "i": 231,
+      "n": 288,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「油淋鶏。まあ似たようなもんだけど」",
+      "en": "“Yurinchi. It’s close enough.”"
+    },
+    {
+      "id": "x12:0289",
+      "i": 232,
+      "n": 289,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「へえ、良い匂いがするな。……食っていいのか？」",
+      "en": "“Huh. Smells great. ...Can we dig in?”"
+    },
+    {
+      "id": "x12:0290",
+      "i": 233,
+      "n": 290,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「ああ、冷めないうちに食ってくれ」",
+      "en": "“Sure. Eat it before it gets cold.”"
+    },
+    {
+      "id": "x12:0291",
+      "i": 234,
+      "n": 291,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「いただきまーす！」",
+      "en": "“Thanks for the food!”"
+    },
+    {
+      "id": "x12:0292",
+      "i": 235,
+      "n": 292,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は箸を右手に、白米のよそわれた茶碗を左手に取り、真っ先に大皿の鶏に手をつける。",
+      "en": "<tips=66>Konta</tips> took his chopsticks in his right hand and his bowl of rice in his left, then immediately reached for the chicken on the platter."
+    },
+    {
+      "id": "x12:0293",
+      "i": 236,
+      "n": 293,
+      "sj": "汐松子（少女）",
+      "se": "Matsuko Shio",
+      "jp": "「いただきます」",
+      "en": "“Thank you for the meal.”"
+    },
+    {
+      "id": "x12:0294",
+      "i": 237,
+      "n": 294,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=55>松子</tips>も丁寧に手を合わせてそう言ってから、食事をはじめる。",
+      "en": "<tips=55>Matsuko</tips> carefully pressed her hands together and said the customary words before beginning to eat."
+    },
+    {
+      "id": "x12:0295",
+      "i": 238,
+      "n": 295,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「……食べないのか？」",
+      "en": "“...Aren’t you eating?”"
+    },
+    {
+      "id": "x12:0296",
+      "i": 239,
+      "n": 296,
+      "sj": "",
+      "se": "",
+      "jp": "　そして自分も食べ始めようとした<tips=1>亮</tips>だったが、箸を目の前に置いたまま動かない<tips=10>道夫</tips>に気づくと、そう尋ねた。",
+      "en": "<tips=1>Ryo</tips> was about to start himself when he noticed <tips=10>Michio</tips> sitting motionless with his chopsticks before him, and asked."
+    },
+    {
+      "id": "x12:0297",
+      "i": 240,
+      "n": 297,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「いや、もらうよ。いただきます」",
+      "en": "“No, I’ll have some. Thanks for the food.”"
+    },
+    {
+      "id": "x12:0298",
+      "i": 241,
+      "n": 298,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は複雑な表情で箸を手に取ると、小さめの油淋鶏をひとつつまみ、いつもの食卓での癖で白米の上にちょんと一度触れさせてから口に運ぶ。",
+      "en": "With a conflicted expression, <tips=10>Michio</tips> picked up his chopsticks and took a small piece of yurinchi. Out of habit from meals at home, he touched it lightly to the top of his rice before bringing it to his mouth."
+    },
+    {
+      "id": "x12:0299",
+      "i": 242,
+      "n": 299,
+      "sj": "",
+      "se": "",
+      "jp": "　多めの長葱が入った甘酸っぱいタレが、サクサクと食感良くあがった鶏と馴染んでおり、しかも少し濃い目の味付けが白米とよくあった。",
+      "en": "The sweet-and-sour sauce, rich with scallions, blended perfectly with the crisp fried chicken, and its slightly bold seasoning complemented the white rice beautifully."
+    },
+    {
+      "id": "x12:0300",
+      "i": 243,
+      "n": 300,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「旨い。旨いなあ」",
+      "en": "“This is good. Really good.”"
+    },
+    {
+      "id": "x12:0301",
+      "i": 244,
+      "n": 301,
+      "sj": "",
+      "se": "",
+      "jp": "　隣の<tips=66>紺太</tips>は無邪気に褒めているが、<tips=10>道夫</tips>はそんな風に率直に感想を口にする気にはなれない。",
+      "en": "Beside him, <tips=66>Konta</tips> praised it with innocent delight, but <tips=10>Michio</tips> could not bring himself to voice his opinion so honestly."
+    },
+    {
+      "id": "x12:0302",
+      "i": 245,
+      "n": 302,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「なあ<tips=1>菅原</tips>」",
+      "en": "“Hey, <tips=1>Sugawara</tips>.”"
+    },
+    {
+      "id": "x12:0303",
+      "i": 246,
+      "n": 303,
+      "sj": "",
+      "se": "",
+      "jp": "　相変わらず<tips=55>松子</tips>の食べる様子ばかり気にしながら食事をしている<tips=1>亮</tips>にそう声をかけた。",
+      "en": "He addressed <tips=1>Ryo</tips>, who even as he ate kept watching how <tips=55>Matsuko</tips> was doing."
+    },
+    {
+      "id": "x12:0304",
+      "i": 247,
+      "n": 304,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「さっきの話本当か？」",
+      "en": "“Did you mean what you said before?”"
+    },
+    {
+      "id": "x12:0305",
+      "i": 248,
+      "n": 305,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「何？」",
+      "en": "“About what?”"
+    },
+    {
+      "id": "x12:0306",
+      "i": 249,
+      "n": 306,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「チームを譲るって話だよ」",
+      "en": "“Handing over your team.”"
+    },
+    {
+      "id": "x12:0307",
+      "i": 250,
+      "n": 307,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「もちろんだ。僕はそういうくだらない嘘はつかない」",
+      "en": "“Of course. I don’t tell pointless lies like that.”"
+    },
+    {
+      "id": "x12:0308",
+      "i": 251,
+      "n": 308,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「だって、そんな簡単なものじゃないだろ？」",
+      "en": "“But it can’t be that simple, can it?”"
+    },
+    {
+      "id": "x12:0309",
+      "i": 252,
+      "n": 309,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「大丈夫。混乱せずにちゃんとお前が引き継げるように、うまくみんなに伝えておく。心配しなくていいよ。チョロいもんなんだからさ」",
+      "en": "“Don’t worry. I’ll explain it to everyone properly so you can take over without any confusion. It’ll be easy. Piece of cake.”"
+    },
+    {
+      "id": "x12:0310",
+      "i": 253,
+      "n": 310,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はにこりともせずに説明をする。",
+      "en": "<tips=1>Ryo</tips> explained without the faintest smile."
+    },
+    {
+      "id": "x12:0311",
+      "i": 254,
+      "n": 311,
+      "sj": "",
+      "se": "",
+      "jp": "　その冷淡な態度が<tips=10>道夫</tips>には理解が出来ない。",
+      "en": "<tips=10>Michio</tips> could not understand his cold indifference."
+    },
+    {
+      "id": "x12:0312",
+      "i": 255,
+      "n": 312,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「おれが簡単じゃないって言ってるのは、そういう意味じゃない。みんなをおびやかしていた周をやっつけて、みんなに認められてリーダーになったんだろ？　それを、こんな、裏切りじゃないか？」",
+      "en": "“That’s not what I mean when I say it isn’t simple. You defeated Zhou when he was terrorizing everyone, and they accepted you as their leader. If you just toss them aside like this, isn’t that a betrayal?”"
+    },
+    {
+      "id": "x12:0313",
+      "i": 256,
+      "n": 313,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「説教をしたいのか？」",
+      "en": "“Are you trying to lecture me?”"
+    },
+    {
+      "id": "x12:0314",
+      "i": 257,
+      "n": 314,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は眉間にしわをよせ、",
+      "en": "<tips=1>Ryo</tips> furrowed his brow."
+    },
+    {
+      "id": "x12:0315",
+      "i": 258,
+      "n": 315,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「だって、興味がないんだから仕方がないだろ。それとも、ガキどもを空き地に並べて集会でもして、ああこいつらが自分の子分なんだなあってニヤニヤすればいいのか？　それとも、立場を利用して人に威張り散らかしたらいいのか？　世間にはそういうのが好きな人間がいるのは知っているけれど、僕はゴメンだね」",
+      "en": "“I’m not interested. I can’t help that. What do you expect me to do—line up all those brats in a vacant lot for meetings, then grin to myself about having my very own underlings? Or should I use my position to throw my weight around? I know some people enjoy that sort of thing, but count me out.”"
+    },
+    {
+      "id": "x12:0316",
+      "i": 259,
+      "n": 316,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「アイツ変わってるな。威張ったら楽しいと思うけどな……」",
+      "en": "“He’s a weird one. I bet bossing people around would be fun...”"
+    },
+    {
+      "id": "x12:0317",
+      "i": 260,
+      "n": 317,
+      "sj": "",
+      "se": "",
+      "jp": "　横で呟く<tips=66>紺太</tips>。<tips=10>道夫</tips>はそれを無視して、",
+      "en": "<tips=66>Konta</tips> muttered beside them. <tips=10>Michio</tips> ignored him."
+    },
+    {
+      "id": "x12:0318",
+      "i": 261,
+      "n": 318,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「そういう話をしてるんじゃない。お前は、おれたちの街を良くしようとは思わないのか？　このままじゃダメだろう？」",
+      "en": "“That’s not what I’m talking about. Don’t you want to make our town better? We can’t just leave it like this, can we?”"
+    },
+    {
+      "id": "x12:0319",
+      "i": 262,
+      "n": 319,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「悪いけれど、世の中をよくするためとか、社会を変えるためとか、そういう気色の悪いお題目は全然好みじゃないんだ。まさかこの街でそんな夢みたいなことを言うやつが現れるとは思わなかったけどね」",
+      "en": "“Sorry, but all those nauseating slogans about improving the world and changing society aren’t to my taste. I never thought anyone in this town would start spouting such dreamy nonsense.”"
+    },
+    {
+      "id": "x12:0320",
+      "i": 263,
+      "n": 320,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「誰も言わないから、おれが言うしかなかったんだよ」",
+      "en": "“No one else would say it, so I had to.”"
+    },
+    {
+      "id": "x12:0321",
+      "i": 264,
+      "n": 321,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>の言葉に、<tips=1>亮</tips>は溜息をついて、",
+      "en": "At <tips=10>Michio</tips>’s words, <tips=1>Ryo</tips> sighed."
+    },
+    {
+      "id": "x12:0322",
+      "i": 265,
+      "n": 322,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「そもそもさ、街を良くするってどういうことだ？　周みたいなやつらを一人残らず叩きのめしたって何も変わらないぞ。それとも、バックのギャングたちも相手にする気か？　ギャングを一人のこらず潰すなんて現実的じゃないし、そもそもこの街はそんなことを望んでいない。結局、世の中なんてのは、自分が望む形に勝手に変化してゆくものだ。<tips=3>クリス・ツェー</tips>が英雄扱いされてるけど、あれだって本人の能力というより、街の空気にのっかっただけの凧みたいなもんだよ」",
+      "en": "“What does ‘making the town better’ even mean? You could beat down every last person like Zhou and nothing would change. Or do you plan to take on the gangs behind them too? Wiping out every last gangster isn’t realistic, and this town doesn’t even want that. In the end, society changes on its own into whatever shape it wants to take. <tips=3>Chris Tse</tips> is treated like some hero, but even he was less a man of exceptional ability than a kite that happened to catch the mood of the town.”"
+    },
+    {
+      "id": "x12:0323",
+      "i": 266,
+      "n": 323,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「お前の言いたいことがよくわからないが……とにかくおれは、自分に納得出来ないものは見過ごせないし、変えられるものは変えたいんだよ。それがそんなにおかしなことか？」",
+      "en": "“I don’t really understand what you’re getting at... But I can’t ignore things I can’t accept, and if something can be changed, I want to change it. Is that really so strange?”"
+    },
+    {
+      "id": "x12:0324",
+      "i": 267,
+      "n": 324,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「おかしいとは言わないよ。お前がそれで満足ならそうすればいい。でも僕は違うってだけだ」",
+      "en": "“I didn’t say it was strange. If that makes you happy, go ahead. I’m simply not like you.”"
+    },
+    {
+      "id": "x12:0325",
+      "i": 268,
+      "n": 325,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>は苛立ちを抑えるようにこめかみの辺りを人差し指でおさえると、",
+      "en": "<tips=1>Ryo</tips> pressed an index finger to his temple as though trying to contain his irritation."
+    },
+    {
+      "id": "x12:0326",
+      "i": 269,
+      "n": 326,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「そもそも、何が不満なのさ。僕はお前が欲しいものをタダでくれてやると言っているんだぜ？　もうその話は終わりのはずだろう？」",
+      "en": "“What are you even unhappy about? I’m offering to give you what you want for free. This conversation should already be over.”"
+    },
+    {
+      "id": "x12:0327",
+      "i": 270,
+      "n": 327,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「それは、確かにそうなんだけれど……」",
+      "en": "“Well, yes, that’s true, but...”"
+    },
+    {
+      "id": "x12:0328",
+      "i": 271,
+      "n": 328,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「じゃあこの話はやめよう。飯がまずくなる」",
+      "en": "“Then let’s drop it. You’re spoiling the meal.”"
+    },
+    {
+      "id": "x12:0329",
+      "i": 272,
+      "n": 329,
+      "sj": "",
+      "se": "",
+      "jp": "　そう言って<tips=1>亮</tips>が食事を再開したのを見て、<tips=10>道夫</tips>も黙って食べ始める。",
+      "en": "When <tips=1>Ryo</tips> resumed eating, <tips=10>Michio</tips> fell silent and did the same."
+    },
+    {
+      "id": "x12:0332",
+      "i": 273,
+      "n": 332,
+      "sj": "",
+      "se": "",
+      "jp": "　全員が食べ終わる頃には<tips=1>亮</tips>が「父さん」と呼ぶこの店の主人が起きてきて、無言で調理場に入り道具の準備を始めた。",
+      "en": "By the time everyone had finished, the owner of the diner—the man <tips=1>Ryo</tips> called “Dad”—had woken up. Without a word, he entered the kitchen and began preparing his tools."
+    },
+    {
+      "id": "x12:0333",
+      "i": 274,
+      "n": 333,
+      "sj": "",
+      "se": "",
+      "jp": "　もうすぐ店を開けるというので、<tips=10>道夫</tips>と<tips=66>紺太</tips>は食器の片付けをして、店を出る。",
+      "en": "The diner would be opening soon, so <tips=10>Michio</tips> and <tips=66>Konta</tips> helped clear the dishes and headed outside."
+    },
+    {
+      "id": "x12:0341",
+      "i": 275,
+      "n": 341,
+      "sj": "",
+      "se": "",
+      "jp": "　外は大分日が傾き、オレンジ色が町並みを染めていた。",
+      "en": "The sun had sunk considerably, bathing the streets in orange."
+    },
+    {
+      "id": "x12:0342",
+      "i": 276,
+      "n": 342,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「なあ、おれ本当にお前のチームもらったのか？」",
+      "en": "“Hey, did you really give me your team?”"
+    },
+    {
+      "id": "x12:0343",
+      "i": 277,
+      "n": 343,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>がそう訊ねると、",
+      "en": "When <tips=10>Michio</tips> asked,"
+    },
+    {
+      "id": "x12:0344",
+      "i": 278,
+      "n": 344,
+      "sj": "謝亮（少年時代）",
+      "se": "Tse Long",
+      "jp": "「そうだよ。じゃあね」",
+      "en": "“I did. See you around.”"
+    },
+    {
+      "id": "x12:0345",
+      "i": 279,
+      "n": 345,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=1>亮</tips>はそっけなく言い、",
+      "en": "<tips=1>Ryo</tips> replied indifferently."
+    },
+    {
+      "id": "x12:0346",
+      "i": 280,
+      "n": 346,
+      "sj": "汐松子（少女）",
+      "se": "Matsuko Shio",
+      "jp": "「さよなら」",
+      "en": "“Goodbye.”"
+    },
+    {
+      "id": "x12:0347",
+      "i": 281,
+      "n": 347,
+      "sj": "",
+      "se": "",
+      "jp": "　その隣で<tips=55>松子</tips>も無表情に手を振る。",
+      "en": "Beside him, <tips=55>Matsuko</tips> waved with her usual blank expression."
+    },
+    {
+      "id": "x12:0348",
+      "i": 282,
+      "n": 348,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はやはりまだ納得がいっていなかったが、",
+      "en": "<tips=10>Michio</tips> was still far from satisfied, but then,"
+    },
+    {
+      "id": "x12:0349",
+      "i": 283,
+      "n": 349,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「ごちそうさま！」",
+      "en": "“Thanks for the meal!”"
+    },
+    {
+      "id": "x12:0350",
+      "i": 284,
+      "n": 350,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>が満足げにそう挨拶をすると、",
+      "en": "<tips=66>Konta</tips> called out contentedly."
+    },
+    {
+      "id": "x12:0351",
+      "i": 285,
+      "n": 351,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「どうも、ごちそうさまでした……」",
+      "en": "“Yes, uh... Thank you very much for the meal.”"
+    },
+    {
+      "id": "x12:0352",
+      "i": 286,
+      "n": 352,
+      "sj": "",
+      "se": "",
+      "jp": "　つられてそう言ってしまった。",
+      "en": "And Michio found himself following suit."
+    },
+    {
+      "id": "x12:0359",
+      "i": 287,
+      "n": 359,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「良かったね。喧嘩しないで済んで」",
+      "en": "“That went well. We didn’t have to fight.”"
+    },
+    {
+      "id": "x12:0360",
+      "i": 288,
+      "n": 360,
+      "sj": "",
+      "se": "",
+      "jp": "　二人で並んで<tips=59>暗闇通り</tips>への道を歩いていると、<tips=66>紺太</tips>がそう話しかけてくる。",
+      "en": "As they walked side by side toward <tips=59>Darkness Street</tips>, <tips=66>Konta</tips> struck up the conversation."
+    },
+    {
+      "id": "x12:0361",
+      "i": 289,
+      "n": 361,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「やっぱ、納得出来ない！」",
+      "en": "“I’m still not satisfied!”"
+    },
+    {
+      "id": "x12:0362",
+      "i": 290,
+      "n": 362,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が思わず大きな声を出してしまうと、すぐそばで娼婦に交渉していた紳士が怪訝な顔で振り返る。",
+      "en": "When <tips=10>Michio</tips> shouted without thinking, a gentleman negotiating with a prostitute nearby turned and gave him a puzzled look."
+    },
+    {
+      "id": "x12:0363",
+      "i": 291,
+      "n": 363,
+      "sj": "",
+      "se": "",
+      "jp": "　この辺りは、<tips=59>暗闇通り</tips>のような大きな通りでは商売が出来ない、個人経営の女や、わけありの女が路上に立って直接客と交渉をしている場所だった。",
+      "en": "Women working independently and others with circumstances that kept them from doing business on major thoroughfares like <tips=59>Darkness Street</tips> stood along the road here and negotiated directly with customers."
+    },
+    {
+      "id": "x12:0364",
+      "i": 292,
+      "n": 364,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「どうしてあいつはあんな素っ気ないんだ？　情熱がないのか？」",
+      "en": "“Why was he so indifferent about it? Doesn’t he have any passion?”"
+    },
+    {
+      "id": "x12:0365",
+      "i": 293,
+      "n": 365,
+      "sj": "",
+      "se": "",
+      "jp": "　さまざまな肌の色をした女が立つこの狭い路地は観光客にとっては刺激的なものだろうが、小さな時から見慣れた<tips=10>道夫</tips>たちにとっては当たり前の光景で、肌の露出が多い女たちに目もくれずに<tips=10>道夫</tips>はそう嘆く。",
+      "en": "The narrow alley, lined with scantily clad women of every complexion, might have seemed thrilling to tourists. To <tips=10>Michio</tips> and the other children who had seen it since they were little, however, it was entirely ordinary. Without sparing the women a glance, <tips=10>Michio</tips> continued to lament."
+    },
+    {
+      "id": "x12:0366",
+      "i": 294,
+      "n": 366,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「……まあ人は色々だよ。いいじゃない。あいつのことは忘れて次行こう。次。<tips=10>道夫</tips>君には、大きな夢があるんだからさ……」",
+      "en": "“...Well, people are all different. It’s fine. Forget about him and let’s move on to the next one. You have a big dream to chase, <tips=10>Michio</tips>...”"
+    },
+    {
+      "id": "x12:0367",
+      "i": 295,
+      "n": 367,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>はそうなだめるが、",
+      "en": "<tips=66>Konta</tips> tried to soothe him, but,"
+    },
+    {
+      "id": "x12:0368",
+      "i": 296,
+      "n": 368,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「いーや、納得出来ないね！」",
+      "en": "“No! I’m not satisfied at all!”"
+    },
+    {
+      "id": "x12:0369",
+      "i": 297,
+      "n": 369,
+      "sj": "",
+      "se": "",
+      "jp": "　やはり<tips=10>道夫</tips>は大きな声で否定する。",
+      "en": "Once again, <tips=10>Michio</tips> rejected the idea at the top of his lungs."
+    },
+    {
+      "id": "x12:0370",
+      "i": 298,
+      "n": 370,
+      "sj": "",
+      "se": "",
+      "jp": "「ああ、<tips=10>道夫</tips>じゃないか。こんなところを歩いているなんて珍しいねえ。どうだい、遊んでいかないかい？」",
+      "en": "“Well, if it isn’t <tips=10>Michio</tips>. Don’t often see you around here. How about stopping for a little fun?”"
+    },
+    {
+      "id": "x12:0371",
+      "i": 299,
+      "n": 371,
+      "sj": "",
+      "se": "",
+      "jp": "　顔見知りの女が声をかけるが、興奮する<tips=10>道夫</tips>の耳には届かない。",
+      "en": "A woman he knew called out to him, but her voice did not reach the agitated <tips=10>Michio</tips>’s ears."
+    },
+    {
+      "id": "x12:0372",
+      "i": 300,
+      "n": 372,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「どうして決闘を挑んだ相手にあんな対応が出来るんだ！　そしてチキンまでご馳走するなんてどういうことだ！　おれは食ってしまった！」",
+      "en": "“How could he act like that toward someone who challenged him to a duel? And then he treated us to chicken! Why would he do that? And I ate it!”"
+    },
+    {
+      "id": "x12:0373",
+      "i": 301,
+      "n": 373,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「おれなんか、お母さんの分まで包んでもらっちゃったよ」",
+      "en": "“I even got him to wrap up some for my mom.”"
+    },
+    {
+      "id": "x12:0374",
+      "i": 302,
+      "n": 374,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は言って苦笑する。げっぷをすると、まだあのタレのにおいがした。",
+      "en": "<tips=66>Konta</tips> said with an awkward smile. When he burped, he could still smell the sauce."
+    },
+    {
+      "id": "x12:0375",
+      "i": 303,
+      "n": 375,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「まったく、なんて丁寧におもてなしをされちまったんだろう！　こちらも丁寧に、ごちそうさまでしたと言ってしまった！」",
+      "en": "“What unbelievably gracious hospitality! It was so gracious, I gave him a polite ‘thank you for the meal’ in return!”"
+    },
+    {
+      "id": "x12:0376",
+      "i": 304,
+      "n": 376,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は恋に悩むウェルテルのように大げさな仕草で頭をかかえた。",
+      "en": "<tips=10>Michio</tips> clutched his head with an exaggerated gesture, like Werther tormented by love."
+    },
+    {
+      "id": "x12:0377",
+      "i": 305,
+      "n": 377,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「<tips=10>道夫</tips>君は悪ぶってるけど意外と礼儀正しいからね」",
+      "en": "“You try to act tough, but you’re surprisingly polite, <tips=10>Michio</tips>.”"
+    },
+    {
+      "id": "x12:0378",
+      "i": 306,
+      "n": 378,
+      "sj": "",
+      "se": "",
+      "jp": "　満腹になりすっかり幸福になってしまった<tips=66>紺太</tips>は穏やかに言う。",
+      "en": "Now full and thoroughly content, <tips=66>Konta</tips> spoke with serene good humor."
+    },
+    {
+      "id": "x12:0379",
+      "i": 307,
+      "n": 379,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「しかも旨かった！　つまりこれは、やつに負けてしまったということだ！」",
+      "en": "“And on top of everything, it tasted great! Which means I lost to him!”"
+    },
+    {
+      "id": "x12:0380",
+      "i": 308,
+      "n": 380,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「どうしてそうなるのさ」",
+      "en": "“How does that follow?”"
+    },
+    {
+      "id": "x12:0381",
+      "i": 309,
+      "n": 381,
+      "sj": "",
+      "se": "",
+      "jp": "　思わず笑ってしまう<tips=66>紺太</tips>の顔を、<tips=10>道夫</tips>は立ち止まってじっと見つめ、",
+      "en": "<tips=66>Konta</tips> could not help laughing. <tips=10>Michio</tips> stopped and stared hard into his face."
+    },
+    {
+      "id": "x12:0382",
+      "i": 310,
+      "n": 382,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「<tips=66>コンタ</tips>、おれはこのままじゃ引き下がれない。次こそちゃんとやつと決着をつける！」",
+      "en": "“<tips=66>Konta</tips>, I can’t back down like this. Next time, I’m going to settle things with him properly!”"
+    },
+    {
+      "id": "x12:0383",
+      "i": 311,
+      "n": 383,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「次って？　チームは譲ってくれるって言ったんだから決着をつける理由がないじゃないか」",
+      "en": "“Next time? He said he’d give you the team, so there’s nothing left to settle.”"
+    },
+    {
+      "id": "x12:0384",
+      "i": 312,
+      "n": 384,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「これじゃすっきりしない。ただで譲られるなんておれのプライドが許さないんだよ」",
+      "en": "“This doesn’t sit right with me. My pride won’t let me accept it for free.”"
+    },
+    {
+      "id": "x12:0385",
+      "i": 313,
+      "n": 385,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は舌打ちをすると、また歩きはじめる。",
+      "en": "<tips=10>Michio</tips> clicked his tongue and started walking again."
+    },
+    {
+      "id": "x12:0386",
+      "i": 314,
+      "n": 386,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「……でも、美味しい料理ご馳走になっちゃったんだよ？」",
+      "en": "“...But he treated us to that delicious meal.”"
+    },
+    {
+      "id": "x12:0387",
+      "i": 315,
+      "n": 387,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は慌てて追いかける。",
+      "en": "<tips=66>Konta</tips> hurried after him."
+    },
+    {
+      "id": "x12:0388",
+      "i": 316,
+      "n": 388,
+      "sj": "",
+      "se": "",
+      "jp": "「あ、<tips=66>コンタ</tips>じゃないか。今日お前の母さんは仕事しないのか？」",
+      "en": "“Hey, isn’t that <tips=66>Konta</tips>? Your mother isn’t working today?”"
+    },
+    {
+      "id": "x12:0389",
+      "i": 317,
+      "n": 389,
+      "sj": "",
+      "se": "",
+      "jp": "　そこに、すれ違おうとした中年男がそう声をかけて来る。",
+      "en": "A middle-aged man passing them called out."
+    },
+    {
+      "id": "x12:0390",
+      "i": 318,
+      "n": 390,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「あ、今日は休みなんで」",
+      "en": "“Oh, she has the day off.”"
+    },
+    {
+      "id": "x12:0391",
+      "i": 319,
+      "n": 391,
+      "sj": "",
+      "se": "",
+      "jp": "　と<tips=66>紺太</tips>はそう答えてから、",
+      "en": "<tips=66>Konta</tips> answered, then turned back to Michio."
+    },
+    {
+      "id": "x12:0392",
+      "i": 320,
+      "n": 392,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「あんな親切にしてもらったのに、どうして喧嘩したいのさ」",
+      "en": "“Why do you want to fight him after he was so nice to us?”"
+    },
+    {
+      "id": "x12:0393",
+      "i": 321,
+      "n": 393,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「それとこれとは別だ」",
+      "en": "“That’s got nothing to do with this.”"
+    },
+    {
+      "id": "x12:0394",
+      "i": 322,
+      "n": 394,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は仏頂面のまま首を振る。",
+      "en": "<tips=10>Michio</tips> shook his head, still scowling."
+    },
+    {
+      "id": "x12:0395",
+      "i": 323,
+      "n": 395,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「おれ、<tips=1>菅原亮</tips>ってそんなに悪い奴じゃないような気がするな……」",
+      "en": "“I don’t think <tips=1>Ryo Sugawara</tips> is really such a bad guy...”"
+    },
+    {
+      "id": "x12:0396",
+      "i": 324,
+      "n": 396,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「なんだよ。お前、すっかりヤツに手懐けられてるじゃんか。安上がりなやつだな」",
+      "en": "“What’s this? He’s already got you eating out of his hand. You’re easy to win over.”"
+    },
+    {
+      "id": "x12:0397",
+      "i": 325,
+      "n": 397,
+      "sj": "紺太（少年時代）",
+      "se": "Konta Tanaka",
+      "jp": "「い、いや、それは……」",
+      "en": "“N-No, that’s not...”"
+    },
+    {
+      "id": "x12:0398",
+      "i": 326,
+      "n": 398,
+      "sj": "",
+      "se": "",
+      "jp": "　しどろもどろになる<tips=66>紺太</tips>を横目でチラと見てから、<tips=10>道夫</tips>は親指の爪を忌々しげに噛み、",
+      "en": "Casting a sideways glance at the flustered <tips=66>Konta</tips>, <tips=10>Michio</tips> bit the nail of his thumb in frustration."
+    },
+    {
+      "id": "x12:0399",
+      "i": 327,
+      "n": 399,
+      "sj": "見土道夫（少年時代）",
+      "se": "Michio Mido",
+      "jp": "「<tips=1>菅原亮</tips>……本当にむかつくヤツだぜ。くそ、新しい作戦を考えなきゃな」",
+      "en": "“<tips=1>Ryo Sugawara</tips>... He really gets on my nerves. Damn it, I need a new plan.”"
+    },
+    {
+      "id": "x12:0400",
+      "i": 328,
+      "n": 400,
+      "sj": "",
+      "se": "",
+      "jp": "　そう呟き、さらに足を早めたのである。",
+      "en": "Muttering to himself, he quickened his pace still further."
+    }
+  ]
+}

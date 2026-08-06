@@ -1,0 +1,5366 @@
+{
+  "chapter": {
+    "slug": "X11",
+    "title": "X11",
+    "part": "X",
+    "translatedLines": 595,
+    "totalLines": 595
+  },
+  "lines": [
+    {
+      "id": "X11:0005",
+      "i": 1,
+      "n": 5,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=9>Y地区</tips>の歴史にはいくつかの転換点がある。",
+      "en": "The history of <tips=9>Y District</tips> contained several turning points."
+    },
+    {
+      "id": "X11:0006",
+      "i": 2,
+      "n": 6,
+      "sj": "",
+      "se": "",
+      "jp": "　たとえば<tips=7>ＹＳ</tips>結成の日。そしてその盟主<tips=3>クリス・ツェー</tips>の死の日も間違いなくその一つに数え上げられるであろうし、その息子<tips=1>謝亮</tips>が<tips=81>龍頭</tips>となった日も他の日と区別する必要があるだろう。",
+      "en": "The day <tips=7>YS</tips> was founded, for example. The death of its leader, <tips=3>Chris Tse</tips>, unquestionably counted as another, and the day his son <tips=1>Tse Long</tips> became <tips=81>Longtou</tips> likewise deserved distinction from ordinary days."
+    },
+    {
+      "id": "X11:0007",
+      "i": 3,
+      "n": 7,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてその日、新たにもう一つの転換点が生まれようとしていた。",
+      "en": "And on this day, another turning point was about to be born."
+    },
+    {
+      "id": "X11:0015",
+      "i": 4,
+      "n": 15,
+      "sj": "",
+      "se": "",
+      "jp": "　朝からこの街特有の雨が降り続き、<tips=57>滑走路通り</tips>や教会通りといったメインストリートにはカラフルな傘の花が咲き乱れ、裏通りに張り巡らされた未舗装の路地はぬかるんでいた。",
+      "en": "The rain peculiar to this town had fallen since morning. Colorful umbrellas bloomed across main thoroughfares such as <tips=57>Runway Street</tips> and Church Street, while the unpaved alleys webbing the backstreets turned to mud."
+    },
+    {
+      "id": "X11:0022",
+      "i": 5,
+      "n": 22,
+      "sj": "",
+      "se": "",
+      "jp": "　街の中心地から少し離れた<tips=6>国立巻河原病院</tips>の、長い年を経てくすんだ色のコンクリートの外壁にも糸のような雨が蕭々と降り付けていた。",
+      "en": "A fine, mournful rain fell against the concrete outer walls of <tips=6>National Makigawara Hospital</tips>, their color dulled by long years, some distance from the town center."
+    },
+    {
+      "id": "X11:0023",
+      "i": 6,
+      "n": 23,
+      "sj": "",
+      "se": "",
+      "jp": "　患者たちの何人かはぼんやりと窓辺に立ち、外の景色を見る。",
+      "en": "Several patients stood vacantly by the windows and watched the world outside."
+    },
+    {
+      "id": "X11:0024",
+      "i": 7,
+      "n": 24,
+      "sj": "",
+      "se": "",
+      "jp": "『<tips=6>タイプＢ収容所</tips>』という悪名で知られるこの病院の周辺には、雑木林とまばらな民家があった。人はあまり通らないが、たまに通りかかると、患者は手を振ったりする。あるいはほんの少ししか開かない窓を開けて呼びかけたりする。彼は、何の面識もない通行人を、最愛の家族や、にっくき仇敵と思い込んでしまう時があるのだ。",
+      "en": "Around this hospital, infamous as the <tips=6>Type B Asylum</tips>, lay scrub forest and scattered houses. Few people passed, but when someone did, patients sometimes waved. Others opened windows that moved only a crack and called out. At times, a patient mistook a complete stranger below for a beloved relative or a hated enemy."
+    },
+    {
+      "id": "X11:0025",
+      "i": 8,
+      "n": 25,
+      "sj": "",
+      "se": "",
+      "jp": "　高い塀の奥にあるこの病棟の小さな窓から手を振られても気がつく通行人はほとんどいないが、叫び声ならば聞こえることもある。一聴すれば正気から出たものではないとすぐわかるその調子外れの声に、大抵のものは肩をすくめて早足で通り過ぎる。",
+      "en": "Almost no passerby noticed a hand waving from the small ward windows beyond the high wall, though they sometimes heard the shouts. The discordant voice was instantly recognizable as unsound. Most people shrugged and hurried past."
+    },
+    {
+      "id": "X11:0026",
+      "i": 9,
+      "n": 26,
+      "sj": "",
+      "se": "",
+      "jp": "　看護師やヘルパーといった身のまわりの世話をする職員は、気づけばそれをたしなめるが、忙しければ気がつかないことも多い。",
+      "en": "Nurses, aides, and other care staff admonished the patients when they noticed, but their work often kept them too busy to do so."
+    },
+    {
+      "id": "X11:0032",
+      "i": 10,
+      "n": 32,
+      "sj": "",
+      "se": "",
+      "jp": "　その日三階の女子病棟では月に一度の誕生会の日で、その月に生まれた患者たちを祝うため、ホールでは職員たちが準備を行っていた。",
+      "en": "That day was the monthly birthday party in the third-floor women's ward. Staff were preparing the hall to celebrate patients born that month."
+    },
+    {
+      "id": "X11:0033",
+      "i": 11,
+      "n": 33,
+      "sj": "",
+      "se": "",
+      "jp": "　その目の前で窓を開けて叫び出したものだから、職員はすぐに気がついてやめさせた。",
+      "en": "Because the patient opened the window and began shouting directly before them, the staff noticed and stopped her immediately."
+    },
+    {
+      "id": "X11:0034",
+      "i": 12,
+      "n": 34,
+      "sj": "",
+      "se": "",
+      "jp": "　こういったイベントのある日は、患者たちはどこかそわそわとして普段と違った行動を取るものだ。",
+      "en": "On days with special events, patients became restless and behaved differently from usual."
+    },
+    {
+      "id": "X11:0035",
+      "i": 13,
+      "n": 35,
+      "sj": "",
+      "se": "",
+      "jp": "　午前だけで廊下で便失禁をするものが二人も出て、昼食時には普段むせたことのない患者が喉に食事を詰まらせて、吸引処置を行ったりもした。",
+      "en": "Two patients had already soiled themselves in the corridor that morning. At lunch, a patient who had never choked before lodged food in her throat and required suction."
+    },
+    {
+      "id": "X11:0036",
+      "i": 14,
+      "n": 36,
+      "sj": "",
+      "se": "",
+      "jp": "　イベントの準備に加えてこういったトラブルが続出するものだから、職員たちはほとんどてんてこ舞いである。",
+      "en": "With one problem after another on top of preparing the event, the staff were run ragged."
+    },
+    {
+      "id": "X11:0037",
+      "i": 15,
+      "n": 37,
+      "sj": "",
+      "se": "",
+      "jp": "　いっそ、誕生会などはもうとりやめよう、あるいは減らそうという意見も少なくはないのだが、変化のない毎日を送る患者たちにとっては数少ない楽しみであり、それを奪いたくないという職員たちの声が反対意見を上回ったので今も続けられている。",
+      "en": "More than a few argued that the birthday parties should simply end or become less frequent. Yet the patients' unchanging days held few pleasures, and the voices of staff unwilling to take one away prevailed. Thus, the tradition continued."
+    },
+    {
+      "id": "X11:0038",
+      "i": 16,
+      "n": 38,
+      "sj": "",
+      "se": "",
+      "jp": "　栄養科も特別に小さなケーキを用意してくれており、十五時のおやつの時間にそれを食べることになっていた。",
+      "en": "The nutrition department had even prepared special small cakes, which they would eat at three o'clock snack time."
+    },
+    {
+      "id": "X11:0039",
+      "i": 17,
+      "n": 39,
+      "sj": "",
+      "se": "",
+      "jp": "　いつもと同じ、代わり映えのない一日。みんなそのように思っていた。",
+      "en": "An ordinary day, no different from any other. That was what everyone believed."
+    },
+    {
+      "id": "X11:0040",
+      "i": 18,
+      "n": 40,
+      "sj": "",
+      "se": "",
+      "jp": "　その日この病院に襲い掛かる悲劇について、この時点で想像出来たものは一人もいない。",
+      "en": "At that moment, no one could imagine the tragedy that would befall the hospital that day."
+    },
+    {
+      "id": "X11:0047",
+      "i": 19,
+      "n": 47,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=47>八龍解放軍</tips>のメンバーは１４時に病院から少し離れた雑居ビルの一室に集結していた。",
+      "en": "Members of the <tips=47>Dragon Liberation Army</tips> assembled at two o'clock in a room inside a mixed-use building near the hospital."
+    },
+    {
+      "id": "X11:0048",
+      "i": 20,
+      "n": 48,
+      "sj": "",
+      "se": "",
+      "jp": "　そこは今はもう営業をしていない不動産屋の事務所で、オフィス用の灰色の机や椅子は壁際に積み重ねられている。そのかわりにぽっかりと空いた空間で、彼らは床に座り込んで武器の点検を行ったり、興奮剤の『ピーク』を服用したりしていた。手にしているのは旧共産圏で生産された拳銃や、自動小銃である。この街の裏流通は全て<tips=7>ＹＳ</tips>の幹部<tips=31>エリー・ホワイト</tips>の監視下にあったが、これらの武器は<tips=65>ヘス</tips>が独自のルートを用いて彼女に感知されぬよう入手したものである。あの老人はそのようなことまで出来るのかと、<tips=21>八龍会</tips>の人々は彼への評価と警戒を同時に高めることになった。",
+      "en": "The room was the office of a real-estate agency no longer in business, its gray office desks and chairs stacked along the walls. In the empty space, they sat on the floor checking weapons and taking the stimulant Peak. They carried pistols and automatic rifles manufactured in the former Communist bloc. All black-market distribution in town was monitored by the <tips=7>YS</tips> officer <tips=31>Ellie White</tips>, but <tips=65>Hess</tips> had obtained these weapons through his own channels without alerting her. Learning that the old man possessed even such capabilities simultaneously increased the <tips=21>Dragon Club</tips>'s respect for and wariness of him."
+    },
+    {
+      "id": "X11:0049",
+      "i": 21,
+      "n": 49,
+      "sj": "",
+      "se": "",
+      "jp": "　さて、隊長である<tips=10>見土道夫</tips>は、自分の準備は既に終えて隊員たちと談笑をしていた。",
+      "en": "The commander, <tips=10>Michio Mido</tips>, had already completed his preparations and was chatting with the troops."
+    },
+    {
+      "id": "X11:0050",
+      "i": 22,
+      "n": 50,
+      "sj": "",
+      "se": "",
+      "jp": "　彼の態度はいつも通り朗らかで、緊張の色もなく、とてもこれから荒事を行おうとしている人間のようには見ない。昔からの顔見知りばかりの隊員たちを相手に軽口を叩いたりしている。",
+      "en": "His manner was as cheerful as ever, without a trace of tension. He hardly looked like a man about to embark on violence. He joked with the fighters, all longtime acquaintances."
+    },
+    {
+      "id": "X11:0051",
+      "i": 23,
+      "n": 51,
+      "sj": "",
+      "se": "",
+      "jp": "　どうやら彼は緊張している隊員を見つけては自分から話しかけているようで、今この場での自分の仕事を仲間たちの気持ちをほぐすことだと心得ているらしい。",
+      "en": "He seemed to seek out anyone who looked nervous and speak to them personally, understanding that his current task was to put his comrades at ease."
+    },
+    {
+      "id": "X11:0052",
+      "i": 24,
+      "n": 52,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=47>八龍解放軍</tips>に組み込まれているのは、元々肩で風を切って繁華街を歩いていたようなちんぴらや、『<tips=46>ネオ・ローズ</tips>』によって正気を取り戻したものの受け入れられる場所がないつまはじき者ばかりで、暴力沙汰に耐性があるものばかりだったが、そうではないものもいる。",
+      "en": "Most incorporated into the <tips=47>Dragon Liberation Army</tips> were thugs who once swaggered through the commercial quarter or outcasts who regained their sanity through <tips=46>Neo-Rose</tips> but had nowhere to belong. They were accustomed to violence, but not all the volunteers were like that."
+    },
+    {
+      "id": "X11:0053",
+      "i": 25,
+      "n": 53,
+      "sj": "",
+      "se": "",
+      "jp": "　街で暮らす<tips=17>タイプB</tips>のために身体を張ろうという意識を持って志願した青年や、少年の頃に<tips=10>道夫</tips>のグループで仲間だった若者たちである。彼らは顔見知り同士、二人か三人ずつ集まって無言で軽食をとったり、道具を点検したりと思い思いの形で準備の作業を行っていた。",
+      "en": "There were also earnest young men who volunteered to risk themselves for the <tips=17>Type B</tips> people of the town, and men who had belonged to <tips=10>Michio</tips>'s group as boys. In groups of two or three among acquaintances, they silently ate snacks, checked equipment, or prepared in their own ways."
+    },
+    {
+      "id": "X11:0054",
+      "i": 26,
+      "n": 54,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らは、犯罪者やそれに類するアウトローたちと一緒くたになってしまうのに抵抗があるようだ。",
+      "en": "They appeared uncomfortable being lumped together with criminals and similar outlaws."
+    },
+    {
+      "id": "X11:0055",
+      "i": 27,
+      "n": 55,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は隊員間の溝のようなものを多少気にしてはいたが、そのための特別なことはしなかった。いずれ共に活動を行ってゆくうちに解消されるだろうと考えていた。少年の頃彼は敵対する様々なグループを吸収したが、その時もそうやって彼らをまとめ上げた。",
+      "en": "<tips=10>Michio</tips> was somewhat concerned by the divide between the troops, but did nothing special about it. He believed joint activity would eventually erase it. As a boy, he had absorbed various hostile groups and united them the same way."
+    },
+    {
+      "id": "X11:0056",
+      "i": 28,
+      "n": 56,
+      "sj": "",
+      "se": "",
+      "jp": "　トップに立つものが適切なリーダーシップを発揮して雰囲気良く組織を運営すれば、いがみ合っているものたちも自然と一致団結するようになるというのが彼の考え方だった。",
+      "en": "His philosophy held that if the person at the top provided proper leadership and maintained a positive atmosphere, even people at one another's throats would naturally unite."
+    },
+    {
+      "id": "X11:0057",
+      "i": 29,
+      "n": 57,
+      "sj": "",
+      "se": "",
+      "jp": "　少年時代も、彼はこの体験から学んだ組織論を口にしたことがある。",
+      "en": "In his youth, he had once voiced this organizational theory learned from experience."
+    },
+    {
+      "id": "X11:0058",
+      "i": 30,
+      "n": 58,
+      "sj": "",
+      "se": "",
+      "jp": "「そりゃ、お前は人柄で他人を引っ張るタイプだからね。どこででも通用するもんじゃないよ」",
+      "en": "That works because you're the kind who leads through sheer likability. You can't apply it everywhere."
+    },
+    {
+      "id": "X11:0059",
+      "i": 31,
+      "n": 59,
+      "sj": "",
+      "se": "",
+      "jp": "　やはり少年だった<tips=1>謝亮</tips>などは、<tips=10>道夫</tips>の意見に対し、おもしろくもなさそうに言ったものだ。",
+      "en": "The equally young <tips=1>Tse Long</tips> had responded to <tips=10>Michio</tips>'s opinion with obvious disinterest."
+    },
+    {
+      "id": "X11:0060",
+      "i": 32,
+      "n": 60,
+      "sj": "",
+      "se": "",
+      "jp": "（まあでも、案外通用するものだぜ）",
+      "en": "(Still, it works more often than you'd think.)"
+    },
+    {
+      "id": "X11:0061",
+      "i": 33,
+      "n": 61,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は当時を思い出し、そう心中で呟いた。",
+      "en": "Remembering that day, <tips=10>Michio</tips> murmured inwardly."
+    },
+    {
+      "id": "X11:0062",
+      "i": 34,
+      "n": 62,
+      "sj": "",
+      "se": "",
+      "jp": "　今この部屋に集まっているのは<tips=10>道夫</tips>を含めて十七人。ほぼ準備は出来てはいたが、あと二人が作戦に参加することになっていたので、それを待っていた。",
+      "en": "Seventeen people, including <tips=10>Michio</tips>, were gathered in the room. Their preparations were almost complete, but two more would participate, so they waited."
+    },
+    {
+      "id": "X11:0063",
+      "i": 35,
+      "n": 63,
+      "sj": "",
+      "se": "",
+      "jp": "　あの<tips=65>ヘス</tips>老人が用意したサイキックの助っ人を、<tips=67>カミラ</tips>が迎えに行っている。",
+      "en": "<tips=67>Camilla</tips> had gone to collect the psychic reinforcements arranged by old <tips=65>Hess</tips>."
+    },
+    {
+      "id": "X11:0064",
+      "i": 36,
+      "n": 64,
+      "sj": "",
+      "se": "",
+      "jp": "　もう集合時刻を過ぎていたが、助っ人の準備が手間取っており、あと十五分ほど遅れると連絡があった。",
+      "en": "The meeting time had passed, but they received word that difficulties preparing the reinforcements would delay them another fifteen minutes."
+    },
+    {
+      "id": "X11:0065",
+      "i": 37,
+      "n": 65,
+      "sj": "",
+      "se": "",
+      "jp": "　たとえば軍隊だったら、作戦の最初からこんな形で時間がずれるというのはあり得ないことだろうが、その点彼らはおおらかだった。",
+      "en": "For a military force, such a delay at the very beginning of an operation might have been unthinkable. They were more relaxed about such matters."
+    },
+    {
+      "id": "X11:0066",
+      "i": 38,
+      "n": 66,
+      "sj": "",
+      "se": "",
+      "jp": "　そもそも作戦計画自体が、それほど緻密に決められたものではない。ギャングたちがよくやる”カチコミ”や、不良少年が喧嘩を仕掛ける時と大差のないもので、おおまかな役割分担と目標が定められているだけだった。",
+      "en": "The operational plan itself was hardly meticulous. It differed little from the raids favored by gangs or fights begun by delinquent boys, setting only broad roles and objectives."
+    },
+    {
+      "id": "X11:0067",
+      "i": 39,
+      "n": 67,
+      "sj": "",
+      "se": "",
+      "jp": "　軍事顧問として<tips=23>エリオット</tips>を招聘するのに失敗した<tips=47>八龍解放軍</tips>は、<tips=10>道夫</tips>が不良少年たちを率いていたのと同じやりかたで運営されていたのである。隊員の素性などを考えても、ほとんど愚連隊と言って良い集団だった。",
+      "en": "Having failed to recruit <tips=23>Elliott</tips> as a military adviser, the <tips=47>Dragon Liberation Army</tips> operated just as <tips=10>Michio</tips> had once led his delinquents. Considering the backgrounds of its troops, it could fairly be called little more than a street gang."
+    },
+    {
+      "id": "X11:0068",
+      "i": 40,
+      "n": 68,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>も充分にそのことを認識していた。が、彼がもっとも不安に思っていたのはそれではない。",
+      "en": "<tips=10>Michio</tips> understood this perfectly. But it was not his greatest concern."
+    },
+    {
+      "id": "X11:0069",
+      "i": 41,
+      "n": 69,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>たちを待つ間に意外な人物がドアを開けて入って来た。",
+      "en": "While they waited for <tips=67>Camilla</tips> and the others, an unexpected person opened the door and entered."
+    },
+    {
+      "id": "X11:0070",
+      "i": 42,
+      "n": 70,
+      "sj": "",
+      "se": "",
+      "jp": "　腕に銀色のアクセサリーをじゃらじゃらとつけている、目の細い若者だ。<tips=59>暗闇通り</tips>にいくつも営業している女性向けの飲食店で働いていそうなこの青年は、<tips=66>田中紺太</tips>であった。",
+      "en": "A narrow-eyed young man wore several clattering silver accessories around his arms. He looked like someone who might work at one of the many hostess bars on <tips=59>Darkness Street</tips>. It was <tips=66>Konta Tanaka</tips>."
+    },
+    {
+      "id": "X11:0071",
+      "i": 43,
+      "n": 71,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「や、やあ」",
+      "en": "H-hey."
+    },
+    {
+      "id": "X11:0072",
+      "i": 44,
+      "n": 72,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=66>紺太</tips>は<tips=10>道夫</tips>の近くまで歩いてくると、気まずそうにしながらそう挨拶をした。",
+      "en": "<tips=66>Konta</tips> approached <tips=10>Michio</tips> and offered the awkward greeting."
+    },
+    {
+      "id": "X11:0073",
+      "i": 45,
+      "n": 73,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「やっぱりおれも今日参加するよ。仲間たちだけに危険なことをさせるってのは、気がひけるからね……」",
+      "en": "I've decided to join you today after all. Letting only my friends do something dangerous doesn't sit right with me..."
+    },
+    {
+      "id": "X11:0074",
+      "i": 46,
+      "n": 74,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そうか」",
+      "en": "I see."
+    },
+    {
+      "id": "X11:0075",
+      "i": 47,
+      "n": 75,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は笑っただけで、それ以上は何も聞かなかった。",
+      "en": "<tips=10>Michio</tips> merely smiled and asked nothing more."
+    },
+    {
+      "id": "X11:0076",
+      "i": 48,
+      "n": 76,
+      "sj": "",
+      "se": "",
+      "jp": "　あらかじめ連絡で聞いた通りの時間に<tips=67>カミラ</tips>たちはやって来る。",
+      "en": "<tips=67>Camilla</tips> and the others arrived exactly when their message said they would."
+    },
+    {
+      "id": "X11:0081",
+      "i": 49,
+      "n": 81,
+      "sj": "",
+      "se": "",
+      "jp": "　立て付けの悪いドアをギイと押し開けて入って来た<tips=67>カミラ</tips>の後ろから、ちょこんと姿を現したのは、<tips=10>道夫</tips>の予想通りいつか<tips=22>老人たち</tips>の家の前で出会ったあの美しい少女であった。",
+      "en": "<tips=67>Camilla</tips> pushed open the ill-fitting door with a creak. Peeking from behind her was, just as <tips=10>Michio</tips> expected, the beautiful girl he had once met outside the <tips=22>Elders</tips>' house."
+    },
+    {
+      "id": "X11:0082",
+      "i": 50,
+      "n": 82,
+      "sj": "",
+      "se": "",
+      "jp": "　はっと息をのむほど艶やかな金色の髪に黒いレインコート。あの時は裸足だったが、今日は編み上げのブーツを履いている。そして<tips=10>道夫</tips>を見上げるその瞳は、金色に輝いていた。前に見た時は青色だったが、あのときはカラーコンタクトをしていたのかもしれない。",
+      "en": "She wore a black raincoat over golden hair so lustrous it took his breath away. She had been barefoot before, but today wore lace-up boots. The eyes looking up at <tips=10>Michio</tips> shone gold. They had been blue when they met, so perhaps she had worn colored contacts."
+    },
+    {
+      "id": "X11:0083",
+      "i": 51,
+      "n": 83,
+      "sj": "",
+      "se": "",
+      "jp": "（やはり、この子が<tips=41>グランドタワー</tips>を襲撃し、<tips=51>さくら</tips>ちゃんと戦ったサイキックなんだろうか……）",
+      "en": "(Is this really the psychic who attacked <tips=41>Grand Tower</tips> and fought little <tips=51>Sakura</tips>...?)"
+    },
+    {
+      "id": "X11:0084",
+      "i": 52,
+      "n": 84,
+      "sj": "",
+      "se": "",
+      "jp": "　こうして面と向かっていると、とてもそんな恐ろしいサイキックだとは思えない。",
+      "en": "Face to face, she hardly looked like such a terrifying psychic."
+    },
+    {
+      "id": "X11:0085",
+      "i": 53,
+      "n": 85,
+      "sj": "",
+      "se": "",
+      "jp": "　少女は部屋のあちこちにいる大人たちを気にして、あたりをきょろきょろと見回している。テレポーテーション少女は<tips=41>グランドタワー</tips>を一人で血の海に変えたそうだが、この少女に出来るのだろうか？",
+      "en": "The girl looked uneasily around at the adults scattered through the room. The teleporting girl had supposedly turned <tips=41>Grand Tower</tips> into a sea of blood by herself. Could this girl truly have done that?"
+    },
+    {
+      "id": "X11:0086",
+      "i": 54,
+      "n": 86,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「この子かい？」",
+      "en": "Is this her?"
+    },
+    {
+      "id": "X11:0087",
+      "i": 55,
+      "n": 87,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「はい」",
+      "en": "Yes."
+    },
+    {
+      "id": "X11:0088",
+      "i": 56,
+      "n": 88,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>の問いかけに<tips=67>カミラ</tips>は頷いた。",
+      "en": "<tips=67>Camilla</tips> nodded in response to <tips=10>Michio</tips>'s question."
+    },
+    {
+      "id": "X11:0089",
+      "i": 57,
+      "n": 89,
+      "sj": "",
+      "se": "",
+      "jp": "　黒髪と黒い目をもつ彼女はいつも通り緊張感のあるきつい表情をして彼の前に立っている。",
+      "en": "With black hair and black eyes, she stood before him wearing her usual tense, severe expression."
+    },
+    {
+      "id": "X11:0090",
+      "i": 58,
+      "n": 90,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「こう見えて、経験豊かな凄腕の殺し屋だそうです」",
+      "en": "Despite appearances, she is apparently an experienced and exceptionally skilled assassin."
+    },
+    {
+      "id": "X11:0091",
+      "i": 59,
+      "n": 91,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「殺し屋ねえ。そんな言葉を聞いたのも、実物を見るのも初めてだよ。思ったのとは大分違うな……ねえ」",
+      "en": "An assassin, eh? I've never heard someone described that way in person, much less met one. She's very different from what I imagined... Hello there."
+    },
+    {
+      "id": "X11:0092",
+      "i": 60,
+      "n": 92,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は少女の前にかがみ込むと、そう声をかけた。",
+      "en": "<tips=10>Michio</tips> crouched before the girl and addressed her."
+    },
+    {
+      "id": "X11:0093",
+      "i": 61,
+      "n": 93,
+      "sj": "",
+      "se": "",
+      "jp": "　少女は表情のない顔で<tips=10>道夫</tips>を見る。",
+      "en": "The girl looked at <tips=10>Michio</tips> with an expressionless face."
+    },
+    {
+      "id": "X11:0094",
+      "i": 62,
+      "n": 94,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「きみとは一度会ったことがあるね。……名前は？」",
+      "en": "We've met once before... What's your name?"
+    },
+    {
+      "id": "X11:0095",
+      "i": 63,
+      "n": 95,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女は一旦そっぽを向いてからひとりで頷く。",
+      "en": "She first turned away, then nodded to herself."
+    },
+    {
+      "id": "X11:0096",
+      "i": 64,
+      "n": 96,
+      "sj": "",
+      "se": "",
+      "jp": "（幻聴が聞こえているのか？　てことは、発症してるんじゃないか？）",
+      "en": "(Is she hearing voices? Does that mean she's symptomatic?)"
+    },
+    {
+      "id": "X11:0097",
+      "i": 65,
+      "n": 97,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が眉をひそめると、彼女はまたこちらに視線を戻し、",
+      "en": "As <tips=10>Michio</tips> frowned, she returned her gaze to him."
+    },
+    {
+      "id": "X11:0098",
+      "i": 66,
+      "n": 98,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「……<tips=62>まりあ</tips>」",
+      "en": "...<tips=62>Maria</tips>."
+    },
+    {
+      "id": "X11:0099",
+      "i": 67,
+      "n": 99,
+      "sj": "",
+      "se": "",
+      "jp": "　と、ピンク色の唇を小さく動かしてそう言った。",
+      "en": "Her pink lips barely moved as she answered."
+    },
+    {
+      "id": "X11:0100",
+      "i": 68,
+      "n": 100,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「<tips=62>マリア</tips>ちゃんて言うのか。よろしくね」",
+      "en": "So you're little <tips=62>Maria</tips>. Nice to meet you."
+    },
+    {
+      "id": "X11:0101",
+      "i": 69,
+      "n": 101,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が笑いかけても、彼女は返事をしない。",
+      "en": "Even when <tips=10>Michio</tips> smiled, she did not answer."
+    },
+    {
+      "id": "X11:0102",
+      "i": 70,
+      "n": 102,
+      "sj": "",
+      "se": "",
+      "jp": "　そのかわりに、手をあげて人差し指で<tips=10>道夫</tips>の顔を指さすと、",
+      "en": "Instead, she raised her hand and pointed an index finger at <tips=10>Michio</tips>'s face."
+    },
+    {
+      "id": "X11:0103",
+      "i": 71,
+      "n": 103,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「うそつき！」",
+      "en": "Liar!"
+    },
+    {
+      "id": "X11:0104",
+      "i": 72,
+      "n": 104,
+      "sj": "",
+      "se": "",
+      "jp": "　と言った。",
+      "en": "That was what she called him."
+    },
+    {
+      "id": "X11:0105",
+      "i": 73,
+      "n": 105,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「何で嘘つきなんだよ？」",
+      "en": "Why am I a liar?"
+    },
+    {
+      "id": "X11:0106",
+      "i": 74,
+      "n": 106,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「うそをおしえた。えびをなか……なんとかって言った」",
+      "en": "You told me a lie. Something about shrimp in the... something."
+    },
+    {
+      "id": "X11:0107",
+      "i": 75,
+      "n": 107,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「おいおい」",
+      "en": "Come on."
+    },
+    {
+      "id": "X11:0108",
+      "i": 76,
+      "n": 108,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は苦笑する。",
+      "en": "<tips=10>Michio</tips> gave a wry smile."
+    },
+    {
+      "id": "X11:0109",
+      "i": 77,
+      "n": 109,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「知り合いだったんですか？」",
+      "en": "You knew her?"
+    },
+    {
+      "id": "X11:0110",
+      "i": 78,
+      "n": 110,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は意外そうに首を捻った。",
+      "en": "<tips=67>Camilla</tips> cocked her head in surprise."
+    },
+    {
+      "id": "X11:0111",
+      "i": 79,
+      "n": 111,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「いや、一度街で見かけたことがあってね。そのとき少し話したんだ」",
+      "en": "No, I saw her in town once and spoke with her briefly."
+    },
+    {
+      "id": "X11:0112",
+      "i": 80,
+      "n": 112,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は立ち上がる。すると、その顔を指さしていた<tips=62>マリア</tips>の腕も連動するように上がる。",
+      "en": "<tips=10>Michio</tips> stood. <tips=62>Maria</tips>'s arm, still pointing at his face, rose with him as though linked."
+    },
+    {
+      "id": "X11:0113",
+      "i": 81,
+      "n": 113,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「しかし、大丈夫なのかね」",
+      "en": "But will she be all right?"
+    },
+    {
+      "id": "X11:0114",
+      "i": 82,
+      "n": 114,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「腕は確かだそうですよ」",
+      "en": "I hear her skills are beyond question."
+    },
+    {
+      "id": "X11:0115",
+      "i": 83,
+      "n": 115,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そうは見えないな。随分自由な感じじゃないか。この調子でちゃんとおれたちと一緒にやれるんだろうか……」",
+      "en": "She doesn't look it. She seems awfully free-spirited. Can she really work together with us like this...?"
+    },
+    {
+      "id": "X11:0116",
+      "i": 84,
+      "n": 116,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「シンパイいらない」",
+      "en": "Don't WORRY."
+    },
+    {
+      "id": "X11:0117",
+      "i": 85,
+      "n": 117,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>はそこでやっと手を下ろし、",
+      "en": "At last, <tips=62>Maria</tips> lowered her hand."
+    },
+    {
+      "id": "X11:0118",
+      "i": 86,
+      "n": 118,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「かみさまがタスけろと言った。うそつきもたすけてやる」",
+      "en": "God told me to HELP. I'll help the liar too."
+    },
+    {
+      "id": "X11:0119",
+      "i": 87,
+      "n": 119,
+      "sj": "",
+      "se": "",
+      "jp": "　無表情のままそう言い放った。",
+      "en": "She delivered the declaration without expression."
+    },
+    {
+      "id": "X11:0133",
+      "i": 88,
+      "n": 133,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>たちが採用した作戦は、実にシンプルなものだった。",
+      "en": "The plan adopted by <tips=10>Michio</tips> and the others was exceedingly simple."
+    },
+    {
+      "id": "X11:0134",
+      "i": 89,
+      "n": 134,
+      "sj": "",
+      "se": "",
+      "jp": "　襲撃の目標である病院は高いコンクリートの塀に囲まれており、出入り口は正門と裏門があったが、彼らはどちらも使わない。",
+      "en": "The hospital they meant to attack was surrounded by a high concrete wall and had front and rear gates. They would use neither."
+    },
+    {
+      "id": "X11:0135",
+      "i": 90,
+      "n": 135,
+      "sj": "",
+      "se": "",
+      "jp": "　病院の西側の塀に穴を開け、そこから突入し、なかで人員を分けて病院の各所を制圧してゆくという手はずになっている。",
+      "en": "They planned to open a hole in the western wall, enter through it, then divide their forces and seize each part of the hospital."
+    },
+    {
+      "id": "X11:0136",
+      "i": 91,
+      "n": 136,
+      "sj": "",
+      "se": "",
+      "jp": "　塀に穴を開けるのは、爆薬でもドリルでもなく<tips=10>道夫</tips>のサイキック能力である。彼の何でも切断する能力を用いることで、音もなくコンクリートの塀はくりぬかれ、警備員たちを騒がせることなく侵入することが出来るという寸法だ。",
+      "en": "The hole would be made not by explosives or drills, but by <tips=10>Michio</tips>'s psychic ability. Using his power to cut anything, they could silently carve through the concrete wall and enter without alerting the guards."
+    },
+    {
+      "id": "X11:0137",
+      "i": 92,
+      "n": 137,
+      "sj": "",
+      "se": "",
+      "jp": "　病院にも警備員は居たが、彼らは患者の離院を防ぐためのもので、当然ながらこのような武装集団の襲撃に対応することは出来ない。武器も精々が警棒だのさすまただのを振り回す程度のものである。ただ彼らの通報によって警察が駆けつけるまでの時間を稼ぐために、少しでも気づかれるのを遅らせたかった。",
+      "en": "The hospital did employ guards, but they were there to prevent patients from leaving and naturally could not respond to an armed assault. At most they carried batons or man-catchers. The attackers nevertheless wanted to delay detection, buying time before a guard could call the police."
+    },
+    {
+      "id": "X11:0138",
+      "i": 93,
+      "n": 138,
+      "sj": "",
+      "se": "",
+      "jp": "　雨の降りしきるなか、一行は二台のワゴンに分乗して病院の裏側につける。普段は幼稚園の送迎用として園児たちを運んでいる、うさぎやねこのイラストが書かれた可愛らしい車のなかで、武装した人相の悪い男たちが金色の目をぎらぎらさせている姿はいかにも異様であった。",
+      "en": "In the pouring rain, the group rode to the back of the hospital in two vans. Ordinarily used to transport kindergarten children, the charming vehicles bore pictures of rabbits and cats. The sight inside—armed, sinister-looking men with glittering golden eyes—was grotesquely incongruous."
+    },
+    {
+      "id": "X11:0139",
+      "i": 94,
+      "n": 139,
+      "sj": "",
+      "se": "",
+      "jp": "　三階病棟のFという四十代の女性患者は、いつも一人窓辺に佇んで、外を眺める習慣があった。",
+      "en": "Patient F, a woman in her forties on the third floor, habitually stood alone by the window and looked outside."
+    },
+    {
+      "id": "X11:0140",
+      "i": 95,
+      "n": 140,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女は、その停車するところを見ていた。そして車から男たちがぞろぞろと降りるところも目の当たりにしていたが、普段とかわらぬぼんやりとした表情で、特別変化を見せない。",
+      "en": "She watched the vehicles stop and the men file out, yet showed no change from her usual vacant expression."
+    },
+    {
+      "id": "X11:0141",
+      "i": 96,
+      "n": 141,
+      "sj": "",
+      "se": "",
+      "jp": "　もし彼女がこの時点で職員に異常を報告していたら、事態の結末は少しは変化していたかもしれない。しかし彼女はそんなことよりも、男たちが腕にくくりつけた敵味方を識別するための赤いスカーフがヒラヒラと揺れるのに心を奪われていた。",
+      "en": "Had she reported the anomaly to staff then, the outcome might have been somewhat different. Instead, she was captivated by the fluttering red scarves tied around the men's arms to identify friend from foe."
+    },
+    {
+      "id": "X11:0142",
+      "i": 97,
+      "n": 142,
+      "sj": "",
+      "se": "",
+      "jp": "　突入は、まず別働隊による電話線の切断によって開始される。別働隊は<tips=10>道夫</tips>の本隊が定位置に到着するより前に、別の場所にある電柱のそばに待機している。彼らは電線工事の業者を装っており、警備員に偽装したものが何食わぬ顔で通行人の交通整理なども行った。そして到着のしらせを受けると、ツナギ姿の隊員が電柱によじのぼり、解体屋から借りて来たケーブルカッターで病院へと繋がる電話線を切断するのだ。",
+      "en": "The assault began with a separate team cutting the telephone line. Before <tips=10>Michio</tips>'s main force reached its position, this team waited beside a utility pole elsewhere, disguised as electrical workers. One member dressed as a security guard casually directed pedestrians. Upon receiving word of the main force's arrival, a fighter in coveralls climbed the pole and used cable cutters borrowed from a demolition company to sever the hospital's telephone line."
+    },
+    {
+      "id": "X11:0143",
+      "i": 98,
+      "n": 143,
+      "sj": "",
+      "se": "",
+      "jp": "　これと同時に<tips=10>道夫</tips>たちは突入を開始する。その真っ黒な右手をあらわにし、コンクリートの塀に当て、少し気合いを込めるとピシリと小さな音がする。肉眼ではその切れ目が見えないが、それだけで手を中心にした上下五十センチほどの塀が切断されている。角度と位置を変えて数度同じように繰り返し、まず腕一本通るほどの小さな輪を作ると、ゆっくりと向こうに押し込んだ。",
+      "en": "At the same moment, <tips=10>Michio</tips>'s group began to enter. He exposed his pitch-black right hand, placed it against the concrete wall, and focused. A tiny crack sounded. Though no cut was visible to the naked eye, that alone severed a section of wall extending about fifty centimeters above and below his hand. He repeated the action several times at different angles and positions, first creating a small circle wide enough for one arm, then slowly pushed it through."
+    },
+    {
+      "id": "X11:0144",
+      "i": 99,
+      "n": 144,
+      "sj": "",
+      "se": "",
+      "jp": "　くりぬかれたコンクリートのかたまりは、ゴトリと鈍い音を立てて壁の向こう側の土の上に落ちる。",
+      "en": "The carved-out lump of concrete dropped onto the earth beyond the wall with a dull thud."
+    },
+    {
+      "id": "X11:0145",
+      "i": 100,
+      "n": 145,
+      "sj": "",
+      "se": "",
+      "jp": "　そうして出来た穴の周りに<tips=10>道夫</tips>は手を当て、さっきと同じような作業を繰り返す。",
+      "en": "<tips=10>Michio</tips> placed his hand around the resulting hole and repeated the process."
+    },
+    {
+      "id": "X11:0146",
+      "i": 101,
+      "n": 146,
+      "sj": "",
+      "se": "",
+      "jp": "　それが済むと、力自慢が最初の穴に腕を突っ込んで、ゆっくり引っ張る。すると、人一人が通れるくらい大きく塀がくりぬかれているのがわかる。",
+      "en": "When he finished, a strong man pushed his arm through the first hole and pulled slowly. A section large enough for one person to pass had been cut free."
+    },
+    {
+      "id": "X11:0147",
+      "i": 102,
+      "n": 147,
+      "sj": "",
+      "se": "",
+      "jp": "　それを音を立てぬように数人で抱えながら床の上に引き倒す。",
+      "en": "Several men supported it to avoid noise and lowered it onto the ground."
+    },
+    {
+      "id": "X11:0148",
+      "i": 103,
+      "n": 148,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>の空間移動能力を使えばもっと手っ取り早く侵入出来ていたろうが、あまり連携がとれておらず、本人も言い出さなかった。",
+      "en": "Using <tips=62>Maria</tips>'s teleportation would have let them enter more quickly, but their coordination was poor and she did not suggest it."
+    },
+    {
+      "id": "X11:0149",
+      "i": 104,
+      "n": 149,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らはその穴を通って病院の裏庭に足を踏み入れる。<tips=10>道夫</tips>を先頭に、女だてらに突入隊に加わった<tips=67>カミラ</tips>がそのあとに続く。",
+      "en": "They passed through the hole into the hospital's rear garden, led by <tips=10>Michio</tips>. <tips=67>Camilla</tips>, a woman who had nevertheless joined the assault team, followed immediately behind."
+    },
+    {
+      "id": "X11:0150",
+      "i": 105,
+      "n": 150,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>は一番後ろから集団についてゆく。",
+      "en": "<tips=62>Maria</tips> trailed at the very rear."
+    },
+    {
+      "id": "X11:0151",
+      "i": 106,
+      "n": 151,
+      "sj": "",
+      "se": "",
+      "jp": "　夜は警備装置が働いて誰かが侵入するだけで病院内の管理室に自動的に通知が行く仕掛けになっていたが、日中は職員などが通行する際の誤動作を避けるためにオフにされていた。<tips=10>道夫</tips>たちはそれを知っていたので、この白昼堂々の強襲になった。",
+      "en": "At night, a security system automatically notified the hospital's control room of any intruder. During the day, it was disabled to prevent false alarms when staff moved about. <tips=10>Michio</tips>'s people knew this, which was why they launched their brazen assault in broad daylight."
+    },
+    {
+      "id": "X11:0152",
+      "i": 107,
+      "n": 152,
+      "sj": "",
+      "se": "",
+      "jp": "　この時点では<tips=10>道夫</tips>には職員を殺傷したり、危害を与えるつもりはなかった。あくまでも目標は患者の解放である。病院内に侵入して部隊を展開させたあとは、武器を見せれば職員は容易に従う予定だった。その上で患者たちに『<tips=46>ネオ・ローズ</tips>』を投与してゆけば、彼らは自我を取り戻し、本来の人生に戻るだろう。",
+      "en": "At this point, <tips=10>Michio</tips> had no intention of killing or harming staff. Their sole objective was freeing the patients. Once inside and deployed, they expected the employees to submit readily at the sight of weapons. They would then administer <tips=46>Neo-Rose</tips> to the patients, restoring their identities and returning them to their rightful lives."
+    },
+    {
+      "id": "X11:0153",
+      "i": 108,
+      "n": 153,
+      "sj": "",
+      "se": "",
+      "jp": "　丸腰のまま、銃を持った集団に逆らうものなどいるだろうか。<tips=10>道夫</tips>としてはうまく行けば無血での目標達成も見込めるだろうと考えていた。",
+      "en": "Who would resist a group with guns while unarmed? <tips=10>Michio</tips> believed that if all went well, they might accomplish their objective without bloodshed."
+    },
+    {
+      "id": "X11:0154",
+      "i": 109,
+      "n": 154,
+      "sj": "",
+      "se": "",
+      "jp": "　だがその目論見は、侵入した直後に潰えることとなる。",
+      "en": "That expectation died immediately after they entered."
+    },
+    {
+      "id": "X11:0157",
+      "i": 110,
+      "n": 157,
+      "sj": "",
+      "se": "",
+      "jp": "　裏庭に足を踏み入れたあとは三つの班に分かれて病院の各所を制圧に向かった。<tips=10>道夫</tips>は<tips=66>紺太</tips>、<tips=62>マリア</tips>を含む六人の仲間と共に管理棟の方向へ足を進める。",
+      "en": "Once inside the rear garden, they divided into three teams to seize different parts of the hospital. <tips=10>Michio</tips> headed toward the administration building with six companions, including <tips=66>Konta</tips> and <tips=62>Maria</tips>."
+    },
+    {
+      "id": "X11:0158",
+      "i": 111,
+      "n": 158,
+      "sj": "",
+      "se": "",
+      "jp": "　降りしきる雨の粒は小さく変化していて、霧雨のように視界を白っぽく煙らせていた。",
+      "en": "The rain had become finer, like a mist whitening their vision."
+    },
+    {
+      "id": "X11:0159",
+      "i": 112,
+      "n": 159,
+      "sj": "",
+      "se": "",
+      "jp": "　裏庭から病棟の脇をぐるりまわって管理棟へ向かう彼らの足元は泥土となってぬかるみ、一歩あるくたびに茶色い飛沫がはねて、みなズボンの膝の上まで汚してしまっている。病院の建物から建物へ、コンクリートの舗装路が蜘蛛の糸のように張り巡らされているのは、この土地の土質がこのような柔らかいものだからに違いない。",
+      "en": "They circled from the rear garden around the wards toward administration. The earth beneath their feet was soft mud, splashing brown water with every step until everyone's trousers were stained above the knees. Concrete paths webbed between the hospital buildings, surely because the local soil was so soft."
+    },
+    {
+      "id": "X11:0160",
+      "i": 113,
+      "n": 160,
+      "sj": "",
+      "se": "",
+      "jp": "　なるべく不必要な職員との遭遇を避けるために迂回しながら管理棟へ向かったのだが、その目前まで来れば全く誰とも出会わないわけにはいかなかった。",
+      "en": "They took a roundabout route to avoid unnecessary encounters with staff, but could not reach the administration building without meeting anyone at all."
+    },
+    {
+      "id": "X11:0161",
+      "i": 114,
+      "n": 161,
+      "sj": "",
+      "se": "",
+      "jp": "　丁度管理棟から人が出て来る場面に出くわしてしまう。",
+      "en": "They happened upon people just as they emerged from administration."
+    },
+    {
+      "id": "X11:0162",
+      "i": 115,
+      "n": 162,
+      "sj": "",
+      "se": "",
+      "jp": "　紺色の制服を着た警備員らしい男と、白髪だらけの年老いた男女。患者の見舞いに来た老夫婦といったところだろうか。",
+      "en": "There was a man in a navy uniform who appeared to be a guard, and an elderly, gray-haired man and woman—perhaps a married couple visiting a patient."
+    },
+    {
+      "id": "X11:0163",
+      "i": 116,
+      "n": 163,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らは入り口のところの屋根の下で、何事か会話を交わしていたが、すぐに不審な集団がそばに居ることに気がついた。",
+      "en": "They had been talking beneath the roof over the entrance, but soon noticed the suspicious group nearby."
+    },
+    {
+      "id": "X11:0164",
+      "i": 117,
+      "n": 164,
+      "sj": "",
+      "se": "",
+      "jp": "「あなたたちは……」",
+      "en": "Who are you...?"
+    },
+    {
+      "id": "X11:0165",
+      "i": 118,
+      "n": 165,
+      "sj": "",
+      "se": "",
+      "jp": "　言いかけた警備員の前で、<tips=10>道夫</tips>は拳銃を抜き一歩前に進み出る。",
+      "en": "As the guard began to speak, <tips=10>Michio</tips> drew his pistol and stepped forward."
+    },
+    {
+      "id": "X11:0166",
+      "i": 119,
+      "n": 166,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は職員たちを殺すのではなく、銃で脅して最初の人質にしたかったのだが、その場には彼の意向を気にしない人間がいた。",
+      "en": "He intended not to kill the staff, but to threaten them with the gun and take his first hostages. Someone present, however, had no concern for his intention."
+    },
+    {
+      "id": "X11:0167",
+      "i": 120,
+      "n": 167,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が口を開くよりも早く、金髪の少女はぽんとジャンプをする。",
+      "en": "Before <tips=10>Michio</tips> could open his mouth, the blonde girl gave a light hop."
+    },
+    {
+      "id": "X11:0170",
+      "i": 121,
+      "n": 170,
+      "sj": "",
+      "se": "",
+      "jp": "　次の瞬間、警備員の上半身がなくなって、かわりに金髪の少女がそこにあらわれていた。ということは、警備員の身体は少女の居た場所に移動したということになる。なんの前触れもなく、目の前に血を噴く人間の身体が現れたわけだから、隊員たちの混乱といったらない。口々に驚きの言葉を上げながら返り血を浴びることになる。",
+      "en": "The next instant, the guard's upper body vanished and the blonde girl appeared in its place. That meant the guard's body had moved to where she stood before. A blood-gushing human torso materialized before the fighters without warning, sending them into chaos. They shouted in shock and were drenched in blood."
+    },
+    {
+      "id": "X11:0171",
+      "i": 122,
+      "n": 171,
+      "sj": "",
+      "se": "",
+      "jp": "「やめろ！」",
+      "en": "Stop!"
+    },
+    {
+      "id": "X11:0172",
+      "i": 123,
+      "n": 172,
+      "sj": "",
+      "se": "",
+      "jp": "　さすがの<tips=10>見土道夫</tips>は他の隊員たちのように取り乱すことなく、<tips=62>マリア</tips>に鋭い声を投げかけたが、それは彼女の殺意を制止するには至らなかった。",
+      "en": "Unlike the other troops, <tips=10>Michio Mido</tips> did not lose his composure. He barked sharply at <tips=62>Maria</tips>, but failed to stop her killing."
+    },
+    {
+      "id": "X11:0185",
+      "i": 124,
+      "n": 185,
+      "sj": "",
+      "se": "",
+      "jp": "　二度、三度、彼女が瞬きながら移動をするたび、老夫婦たちの身体はバラバラになって宙を舞い、管理棟の玄関先には大量の血液と内臓がまき散らされる。見るものみなを戦慄させる、一瞬の惨劇であった。",
+      "en": "With each second and third blinking teleport, the elderly couple's bodies broke apart and flew through the air. Blood and organs sprayed across the administration entrance. The instantaneous atrocity horrified everyone who saw it."
+    },
+    {
+      "id": "X11:0186",
+      "i": 125,
+      "n": 186,
+      "sj": "",
+      "se": "",
+      "jp": "　全身血みどろになった少女はもう動くものがないのをざっと見回すと、",
+      "en": "Covered head to toe in blood, the girl quickly surveyed the area for anything still moving."
+    },
+    {
+      "id": "X11:0187",
+      "i": 126,
+      "n": 187,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「こい」",
+      "en": "Come."
+    },
+    {
+      "id": "X11:0188",
+      "i": 127,
+      "n": 188,
+      "sj": "",
+      "se": "",
+      "jp": "　と<tips=10>道夫</tips>たちに呼びかけた。",
+      "en": "She called to <tips=10>Michio</tips> and the others."
+    },
+    {
+      "id": "X11:0189",
+      "i": 128,
+      "n": 189,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「おい、いきなり仕掛けて貰っちゃ困るじゃないか」",
+      "en": "Hey, you can't attack without warning like that."
+    },
+    {
+      "id": "X11:0190",
+      "i": 129,
+      "n": 190,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は駆け足で<tips=62>マリア</tips>に近づくと、管理棟の中の人々に気づかれぬよう小声で言った。",
+      "en": "<tips=10>Michio</tips> hurried to <tips=62>Maria</tips> and spoke quietly to avoid alerting people inside administration."
+    },
+    {
+      "id": "X11:0191",
+      "i": 130,
+      "n": 191,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「なにが？　このひとたちはテキだよ？」",
+      "en": "Why? These people are ENEMIES."
+    },
+    {
+      "id": "X11:0192",
+      "i": 131,
+      "n": 192,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>は怪訝な顔をする。",
+      "en": "<tips=62>Maria</tips> looked puzzled."
+    },
+    {
+      "id": "X11:0193",
+      "i": 132,
+      "n": 193,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「むやみやたらに殺して貰ったら困る。こっちはこっちで作戦があるんだ」",
+      "en": "You can't kill people indiscriminately. We have a plan."
+    },
+    {
+      "id": "X11:0194",
+      "i": 133,
+      "n": 194,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が厳しい顔で言い放つと、<tips=62>マリア</tips>は顔をくちゃくちゃに歪め、",
+      "en": "When <tips=10>Michio</tips> spoke sternly, <tips=62>Maria</tips>'s face crumpled."
+    },
+    {
+      "id": "X11:0195",
+      "i": 134,
+      "n": 195,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「なんで？　テキをたおしたのにどうしておこってる……」",
+      "en": "Why? I beat the ENEMIES. Why are you angry...?"
+    },
+    {
+      "id": "X11:0196",
+      "i": 135,
+      "n": 196,
+      "sj": "",
+      "se": "",
+      "jp": "　雨で濡れているにもかかわらずそうとわかる大粒の涙がポロポロとこぼれる。",
+      "en": "Huge tears, unmistakable despite the rain, rolled down her cheeks."
+    },
+    {
+      "id": "X11:0197",
+      "i": 136,
+      "n": 197,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「どうしたらいいかオシエテ？　かみさまがおまえをてつだえと言った。<tips=62>マリア</tips>なんでも言ってくれないとわからない……」",
+      "en": "Tell me what to DO. God said to help you. <tips=62>Maria</tips> won't know unless you tell me everything..."
+    },
+    {
+      "id": "X11:0198",
+      "i": 137,
+      "n": 198,
+      "sj": "",
+      "se": "",
+      "jp": "　これには<tips=10>道夫</tips>も面食らってしまう。",
+      "en": "Even <tips=10>Michio</tips> was taken aback."
+    },
+    {
+      "id": "X11:0199",
+      "i": 138,
+      "n": 199,
+      "sj": "",
+      "se": "",
+      "jp": "　見かけと違う冷酷無比の殺人マシーンかと思えば、これではまるっきり見かけ通りの童女じゃないか。",
+      "en": "He had thought her a ruthlessly cold killing machine despite her appearance, but this was simply a little girl exactly as she looked."
+    },
+    {
+      "id": "X11:0200",
+      "i": 139,
+      "n": 200,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「とにかく、指示を出すまでは何もしないでくれ。能力を使わず、おれたちのあとをついて来るんだ」",
+      "en": "For now, do nothing until I give an order. Don't use your ability. Follow behind us."
+    },
+    {
+      "id": "X11:0201",
+      "i": 140,
+      "n": 201,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「……わかった」",
+      "en": "...Okay."
+    },
+    {
+      "id": "X11:0202",
+      "i": 141,
+      "n": 202,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>は俯くと、いじけたように足元に転がる誰かの指を蹴飛ばした。",
+      "en": "<tips=62>Maria</tips> lowered her head and sulkily kicked away someone's finger lying at her feet."
+    },
+    {
+      "id": "X11:0204",
+      "i": 142,
+      "n": 204,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「しかし、ひどい有様だな」",
+      "en": "What a horrible scene."
+    },
+    {
+      "id": "X11:0205",
+      "i": 143,
+      "n": 205,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は辺りを見回して溜息をつく。",
+      "en": "<tips=10>Michio</tips> surveyed the area and sighed."
+    },
+    {
+      "id": "X11:0206",
+      "i": 144,
+      "n": 206,
+      "sj": "",
+      "se": "",
+      "jp": "　バラバラになった人体がメチャクチャに散らばり、むっとするような血の臭いと、排泄物の臭いが鼻をつく。酸鼻という他ない。",
+      "en": "Dismembered human remains lay scattered everywhere. The overpowering smells of blood and excrement assaulted his nose. There was no word but horrific."
+    },
+    {
+      "id": "X11:0207",
+      "i": 145,
+      "n": 207,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「<tips=10>道夫</tips>君。あいつ、とんでもないガキだね」",
+      "en": "<tips=10>Michio</tips>. That kid is unbelievable."
+    },
+    {
+      "id": "X11:0208",
+      "i": 146,
+      "n": 208,
+      "sj": "",
+      "se": "",
+      "jp": "　いつの間にか近くに来ていた<tips=66>紺太</tips>が真っ青な顔でそう囁く。",
+      "en": "<tips=66>Konta</tips>, who had approached unnoticed, whispered with a bloodless face."
+    },
+    {
+      "id": "X11:0209",
+      "i": 147,
+      "n": 209,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「こいつはきっと、<tips=7>ＹＳ</tips>を襲撃したというサイキックだよ。一人で<tips=41>グランドタワー</tips>に乗り込んで百戦錬磨のギャングたちを大量に殺し、大幹部の<tips=39>ジェフリー・ウォン</tips>の命まで奪ったというのも、このすさまじい能力なら頷ける話だ。……全く、敵じゃなくてよかったよ」",
+      "en": "She must be the psychic who attacked <tips=7>YS</tips>. With a power this terrible, it's easy to believe she entered <tips=41>Grand Tower</tips> alone, massacred battle-hardened gangsters, and even killed senior officer <tips=39>Jeffrey Wong</tips>... Thank heaven she isn't our enemy."
+    },
+    {
+      "id": "X11:0210",
+      "i": 148,
+      "n": 210,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は苦い顔で首を振った。",
+      "en": "<tips=10>Michio</tips> shook his head bitterly."
+    },
+    {
+      "id": "X11:0211",
+      "i": 149,
+      "n": 211,
+      "sj": "",
+      "se": "",
+      "jp": "　世にも恐ろしい力を持つこの少女は確かに今は味方だ。しかしいつまでもそうとは限らない。",
+      "en": "The girl with this terrifying power was certainly their ally now. That did not mean she always would be."
+    },
+    {
+      "id": "X11:0212",
+      "i": 150,
+      "n": 212,
+      "sj": "",
+      "se": "",
+      "jp": "　マリアは<tips=10>道夫</tips>に対してこのように従うのは<tips=65>ヘス</tips>の指示があったというそれだけの理由であるに違いない。「かみさま」と言ったのが<tips=65>ヘス</tips>のことを意味するのかどうかはわからないが、とにかく、もし<tips=65>ヘス</tips>が自分たちを殺せと命じたら、この少女は躊躇なくそれを実行するはずだ。<tips=65>ヘス</tips>が持っていたあの縛られた患者の写真も、きっとこの<tips=62>マリア</tips>の能力で忍び込んで撮影したものだろう。",
+      "en": "Maria surely obeyed <tips=10>Michio</tips> this way only because <tips=65>Hess</tips> had instructed her to. He did not know whether \"God\" meant <tips=65>Hess</tips>. Whatever the case, if <tips=65>Hess</tips> ordered her to kill them, she would do so without hesitation. The photograph <tips=65>Hess</tips> possessed of a restrained patient had likely been taken after this <tips=62>Maria</tips> infiltrated the hospital using her ability."
+    },
+    {
+      "id": "X11:0213",
+      "i": 151,
+      "n": 213,
+      "sj": "",
+      "se": "",
+      "jp": "『<tips=46>ネオ・ローズ</tips>』の秘密を独占し、これほど強力なサイキックを使いこなす<tips=65>ヘス</tips>というものは何者なのか。最終的な目標はなんなのか。その正体を正確に突き止めなければ、<tips=21>八龍会</tips>に災いが降りかかるように思う。いや、もう足を片一方踏み込んでいるのかもしれない。",
+      "en": "Who was this <tips=65>Hess</tips>, monopolizing the secret of <tips=46>Neo-Rose</tips> and controlling so powerful a psychic? What was his ultimate objective? Unless they established his identity precisely, disaster might befall the <tips=21>Dragon Club</tips>. Perhaps one of their feet was already inside the trap."
+    },
+    {
+      "id": "X11:0214",
+      "i": 152,
+      "n": 214,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は少し考えたが、今はそれに思い巡らしている場合ではない。",
+      "en": "<tips=10>Michio</tips> considered it briefly, but this was no time to dwell on the question."
+    },
+    {
+      "id": "X11:0216",
+      "i": 153,
+      "n": 216,
+      "sj": "",
+      "se": "",
+      "jp": "　仲間を振り返り、次の指示を出そうと振り返ると、隊員たちは断裂した警備員の死体を取り囲んでなにか話し合っている。",
+      "en": "He turned to issue his next orders and found the troops gathered around the guard's severed body, discussing something."
+    },
+    {
+      "id": "X11:0217",
+      "i": 154,
+      "n": 217,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「どうした？」",
+      "en": "What is it?"
+    },
+    {
+      "id": "X11:0218",
+      "i": 155,
+      "n": 218,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が近づいて話しかけると、",
+      "en": "When <tips=10>Michio</tips> approached,"
+    },
+    {
+      "id": "X11:0219",
+      "i": 156,
+      "n": 219,
+      "sj": "",
+      "se": "",
+      "jp": "「隊長。これを見てくれよ……」",
+      "en": "Commander, look at this..."
+    },
+    {
+      "id": "X11:0220",
+      "i": 157,
+      "n": 220,
+      "sj": "",
+      "se": "",
+      "jp": "　無精ひげの隊員が、一丁の拳銃を<tips=10>道夫</tips>の前に差し出した。",
+      "en": "A stubbled fighter held a pistol out before <tips=10>Michio</tips>."
+    },
+    {
+      "id": "X11:0221",
+      "i": 158,
+      "n": 221,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「これがどうしたんだい？」",
+      "en": "What about it?"
+    },
+    {
+      "id": "X11:0222",
+      "i": 159,
+      "n": 222,
+      "sj": "",
+      "se": "",
+      "jp": "「これ、おれたちのじゃねえんだ。よく見なよ。血に濡れてるだろう？　……こいつ、銃で武装してやがったんだよ」",
+      "en": "It isn't ours. Look closely—it's covered in blood, right? This bastard was armed."
+    },
+    {
+      "id": "X11:0223",
+      "i": 160,
+      "n": 223,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「えっ」",
+      "en": "What?"
+    },
+    {
+      "id": "X11:0224",
+      "i": 161,
+      "n": 224,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は思わず絶句する。",
+      "en": "<tips=10>Michio</tips> was struck speechless."
+    },
+    {
+      "id": "X11:0225",
+      "i": 162,
+      "n": 225,
+      "sj": "",
+      "se": "",
+      "jp": "「胸元が変に膨らんでるからさ、調べてみたらこいつが入ってやがったんだ」",
+      "en": "His chest looked strangely swollen, so we checked and found this inside."
+    },
+    {
+      "id": "X11:0226",
+      "i": 163,
+      "n": 226,
+      "sj": "",
+      "se": "",
+      "jp": "　銃で武装しているとは全く予想外だった。ということは見かけ通りのただの警備員ではなく、警察か何かが化けた姿なのかもしれない。",
+      "en": "An armed guard was entirely unexpected. Perhaps he was not an ordinary security guard at all, but a police officer or someone similar in disguise."
+    },
+    {
+      "id": "X11:0227",
+      "i": 164,
+      "n": 227,
+      "sj": "",
+      "se": "",
+      "jp": "「これってさ、ここの患者が逃げ出したり反抗をしたら、場合によっては射殺するつもりだったってことなんだろ？　ひでえ話じゃねえか。今時、他に、そんな扱いをうける患者なんかいるか？」",
+      "en": "This means they planned to shoot patients if they tried to escape or resist, doesn't it? That's monstrous. What other patients today receive treatment like that?"
+    },
+    {
+      "id": "X11:0228",
+      "i": 165,
+      "n": 228,
+      "sj": "",
+      "se": "",
+      "jp": "　隊員は怒りを顔に浮かべてそう言った。他の隊員たちも、同じような怒りを共有しているらしい。",
+      "en": "The fighter spoke with anger on his face. The others appeared to share it."
+    },
+    {
+      "id": "X11:0229",
+      "i": 166,
+      "n": 229,
+      "sj": "",
+      "se": "",
+      "jp": "（この調子じゃ、流血を避けるなんてのは夢のまた夢だな……）",
+      "en": "(At this rate, avoiding bloodshed is a dream within a dream...)"
+    },
+    {
+      "id": "X11:0230",
+      "i": 167,
+      "n": 230,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は困ったように頭をポリポリと掻いてから、",
+      "en": "<tips=10>Michio</tips> scratched his head in frustration."
+    },
+    {
+      "id": "X11:0231",
+      "i": 168,
+      "n": 231,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「どういうつもりで拳銃を所持しているのかはわからんが、被害が出る前に武装していることがわかったのは僥倖だ」",
+      "en": "I don't know why he carried a pistol, but discovering they are armed before we suffer casualties is fortunate."
+    },
+    {
+      "id": "X11:0232",
+      "i": 169,
+      "n": 232,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてすぐに無線で他のチームにも連絡をし、警戒を呼びかけた。",
+      "en": "He immediately radioed the other teams and warned them."
+    },
+    {
+      "id": "X11:0233",
+      "i": 170,
+      "n": 233,
+      "sj": "",
+      "se": "",
+      "jp": "　病院には常時、三、四人の警備員がいるらしいが、他の者たちもみな銃で武装していると考えるべきだろう。さらに言えば、拳銃よりも強力な武器が存在する可能性もある。",
+      "en": "The hospital reportedly kept three or four guards on duty at all times. They should assume every one was armed, and that weapons more powerful than pistols might exist."
+    },
+    {
+      "id": "X11:0234",
+      "i": 171,
+      "n": 234,
+      "sj": "",
+      "se": "",
+      "jp": "　この情報が共有されることで、病院の職員はただの無力な一般市民ではなく、脅威をもった敵として全ての隊員に認識されることとなった。",
+      "en": "Once this information spread, every fighter ceased to regard the hospital staff as helpless civilians and instead recognized them as threatening enemies."
+    },
+    {
+      "id": "X11:0235",
+      "i": 172,
+      "n": 235,
+      "sj": "",
+      "se": "",
+      "jp": "　つまり、もはや殺戮は避けられないということである。",
+      "en": "In other words, slaughter could no longer be avoided."
+    },
+    {
+      "id": "X11:0245",
+      "i": 173,
+      "n": 245,
+      "sj": "",
+      "se": "",
+      "jp": "　さて、新たな緊張と共に<tips=10>道夫</tips>たちはすぐに次の行動に移った。",
+      "en": "With new tension upon them, <tips=10>Michio</tips> and the others immediately made their next move."
+    },
+    {
+      "id": "X11:0246",
+      "i": 174,
+      "n": 246,
+      "sj": "",
+      "se": "",
+      "jp": "　目の前の管理棟こそ彼らの目的の場所だ。呼吸を合わせると勢いよくドアを開けて中になだれ込む。",
+      "en": "The administration building before them was their objective. Synchronizing their movements, they flung open the door and surged inside."
+    },
+    {
+      "id": "X11:0253",
+      "i": 175,
+      "n": 253,
+      "sj": "",
+      "se": "",
+      "jp": "　入ってすぐは待合室になっており、左側の壁に小さな窓口がある。",
+      "en": "Immediately within was a waiting room with a small service window in the left wall."
+    },
+    {
+      "id": "X11:0254",
+      "i": 176,
+      "n": 254,
+      "sj": "",
+      "se": "",
+      "jp": "　そのとき窓口にいたのは奥山という二十五才の女性職員で、ここに勤めてからまだ半年しか経っていなかった。専門学校を出て一旦アパレル企業で働いたものの、肌が合わずに医療事務の資格をとってここに就職したのである。",
+      "en": "The person staffing it was a twenty-five-year-old employee named Okuyama, who had worked there only six months. After graduating from vocational school, she took a job at an apparel company, but found it unsuitable. She then qualified in medical administration and obtained this position."
+    },
+    {
+      "id": "X11:0255",
+      "i": 177,
+      "n": 255,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女はバンドマンの貧乏な恋人がいて、将来の見えない彼との交際をどう続けてゆくのかが最近の悩みだった。",
+      "en": "She had a poor boyfriend who played in a band. Her recent concern was how to continue a relationship with a man who offered no visible future."
+    },
+    {
+      "id": "X11:0256",
+      "i": 178,
+      "n": 256,
+      "sj": "",
+      "se": "",
+      "jp": "　今もそのことを考えて溜息をついており、今さっき出ていった警備員と老夫婦が無惨な死体になったことなどついぞ知らない。",
+      "en": "She was sighing over the matter even now, entirely unaware that the guard and elderly couple who had just left were mutilated corpses."
+    },
+    {
+      "id": "X11:0257",
+      "i": 179,
+      "n": 257,
+      "sj": "",
+      "se": "",
+      "jp": "　その平穏を打ち破ったのが、銃を握り足音荒く駆け込んで来た集団である。奥山は飲もうとしていた湯飲みを取り落とし、広げていた書類をびしょびしょにしてしまった。",
+      "en": "Her peace was shattered by a group charging in with guns and pounding footsteps. Okuyama dropped the teacup she had been about to drink, soaking the papers spread before her."
+    },
+    {
+      "id": "X11:0258",
+      "i": 180,
+      "n": 258,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「し、しずかにしろ！　おかしなマネをしたら撃つぞ！」",
+      "en": "D-don't move! Try anything strange and I'll shoot!"
+    },
+    {
+      "id": "X11:0259",
+      "i": 181,
+      "n": 259,
+      "sj": "",
+      "se": "",
+      "jp": "　うわずった声で銃を突きつけたのは<tips=66>紺太</tips>だった。",
+      "en": "It was <tips=66>Konta</tips> who aimed his gun and shouted in a shrill voice."
+    },
+    {
+      "id": "X11:0260",
+      "i": 182,
+      "n": 260,
+      "sj": "",
+      "se": "",
+      "jp": "　奥山は背後にいる同僚たちに異変を伝えようとしたかったが、その言葉で凍り付いた。",
+      "en": "Okuyama wanted to alert her coworkers behind her, but his words froze her in place."
+    },
+    {
+      "id": "X11:0261",
+      "i": 183,
+      "n": 261,
+      "sj": "",
+      "se": "",
+      "jp": "　待合室と窓口は、壁とドアによって完全に仕切られている。ドアの上には事務室というプレートがあった。あまりにも厳重に区別されているのは、患者やその家族を事務室に乱入させないためだろう。",
+      "en": "A wall and door completely separated the waiting room and service window from the space beyond. A plate above the door read \"Office.\" The strict division likely existed to prevent patients and their families from barging inside."
+    },
+    {
+      "id": "X11:0274",
+      "i": 184,
+      "n": 274,
+      "sj": "",
+      "se": "",
+      "jp": "　残りの隊員は、この事務室のドアを開けようとしたが、鍵がかかっている。ここでは<tips=10>道夫</tips>の能力を使うまでもなく、力任せにドアを蹴破った。",
+      "en": "The remaining fighters tried to open the office door but found it locked. Without needing <tips=10>Michio</tips>'s ability, they simply kicked it down by force."
+    },
+    {
+      "id": "X11:0275",
+      "i": 185,
+      "n": 275,
+      "sj": "",
+      "se": "",
+      "jp": "　事務所には十人近くの職員がいて、<tips=10>道夫</tips>たちが侵入すると悲鳴を上げて立ち上がる。",
+      "en": "Nearly ten employees were inside. When <tips=10>Michio</tips>'s group entered, they screamed and jumped to their feet."
+    },
+    {
+      "id": "X11:0276",
+      "i": 186,
+      "n": 276,
+      "sj": "",
+      "se": "",
+      "jp": "「動くな！」",
+      "en": "Don't move!"
+    },
+    {
+      "id": "X11:0278",
+      "i": 187,
+      "n": 278,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は拳銃を天井に向けて発砲すると、高らかにこう宣言をした。",
+      "en": "<tips=10>Michio</tips> fired his pistol into the ceiling and proclaimed loudly."
+    },
+    {
+      "id": "X11:0279",
+      "i": 188,
+      "n": 279,
+      "sj": "",
+      "se": "",
+      "jp": "「我々は<tips=47>八龍解放軍</tips>だ！　これより、この病院は我々の支配下におく！」",
+      "en": "We are the <tips=47>Dragon Liberation Army</tips>! From this moment, this hospital is under our control!"
+    },
+    {
+      "id": "X11:0280",
+      "i": 189,
+      "n": 280,
+      "sj": "",
+      "se": "",
+      "jp": "「ひっ！」",
+      "en": "Ah!"
+    },
+    {
+      "id": "X11:0281",
+      "i": 190,
+      "n": 281,
+      "sj": "",
+      "se": "",
+      "jp": "　パニックを起こし、男性職員が立ち上がって奥の扉へ逃げようとする。",
+      "en": "Panicking, a male employee rose and tried to flee through a door at the back."
+    },
+    {
+      "id": "X11:0282",
+      "i": 191,
+      "n": 282,
+      "sj": "",
+      "se": "",
+      "jp": "　眼鏡をかけたその生真面目を絵に描いたような男は、若松という三十二才の職員である。去年結婚をし、妻の腹には一人目の子供がいた。先月検査で女の子だということが判明したばかりで、義父が考えた古くさい名前をどうやって断り、そしてどんな名前をつけるのかということばかり考えていたので、今日の仕事が手につかないでいた。",
+      "en": "The bespectacled man, the very image of earnest diligence, was a thirty-two-year-old employee named Wakamatsu. He had married the previous year, and his wife was pregnant with their first child. An examination had revealed only last month that she was a girl. Wakamatsu had spent all his time wondering how to reject the old-fashioned name his father-in-law proposed and what name to choose instead, leaving him unable to focus on work that day."
+    },
+    {
+      "id": "X11:0283",
+      "i": 192,
+      "n": 283,
+      "sj": "",
+      "se": "",
+      "jp": "　その若松の必死の逃亡は、しかし、覚醒し<tips=78>金目</tips>となった<tips=17>タイプＢ</tips>の反射神経の前ではスローモーションのようなものだ。",
+      "en": "But Wakamatsu's desperate escape appeared to move in slow motion to the reflexes of a <tips=17>Type B</tips> fighter awakened into a <tips=78>Gold-Eye</tips>."
+    },
+    {
+      "id": "X11:0285",
+      "i": 193,
+      "n": 285,
+      "sj": "",
+      "se": "",
+      "jp": "　隊員の銃が即座に火を吹いた。",
+      "en": "The fighter's gun fired at once."
+    },
+    {
+      "id": "X11:0287",
+      "i": 194,
+      "n": 287,
+      "sj": "",
+      "se": "",
+      "jp": "　若松の眼鏡は砕け、顔面から血を噴き出しながら倒れる。そしてピクリとも動かなかった。",
+      "en": "Wakamatsu's glasses shattered. Blood burst from his face as he fell, never moving again."
+    },
+    {
+      "id": "X11:0288",
+      "i": 195,
+      "n": 288,
+      "sj": "",
+      "se": "",
+      "jp": "　部屋の事務員たちは恐怖で引きつった顔で、同僚の突然の死を見つめていた。",
+      "en": "The office staff stared at their coworker's sudden death, faces twisted in terror."
+    },
+    {
+      "id": "X11:0289",
+      "i": 196,
+      "n": 289,
+      "sj": "",
+      "se": "",
+      "jp": "「勝手な行動はゆるさない！」",
+      "en": "No one acts without permission!"
+    },
+    {
+      "id": "X11:0290",
+      "i": 197,
+      "n": 290,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は眉間に皺を寄せながらそう怒鳴る。",
+      "en": "<tips=10>Michio</tips> shouted with a deep furrow between his brows."
+    },
+    {
+      "id": "X11:0291",
+      "i": 198,
+      "n": 291,
+      "sj": "",
+      "se": "",
+      "jp": "「我々の目的は、ここに囚われている哀れな同胞たちを一人残らず解放することだ！　それに刃向かうならば、君らもその男のあとを追うことになるだろう。しかし、大人しく協力すれば、いつも通りに家に帰ることが出来るし、奥さんが冷蔵庫に作りおいてくれたチャーハンを食べることだって出来る。賢明な諸君なら、どちらが得か、考えるまでもないはずだ」",
+      "en": "Our purpose is to free every last one of our suffering brethren imprisoned here! Resist us, and you will follow that man. Cooperate quietly, and you can go home as usual and eat the fried rice your wife left in the refrigerator. As intelligent people, you need not think hard to know which benefits you more."
+    },
+    {
+      "id": "X11:0292",
+      "i": 199,
+      "n": 292,
+      "sj": "",
+      "se": "",
+      "jp": "　目の前で知り合いを殺された職員たちはすっかり怯え、逆らおうとするものはいなかった。",
+      "en": "Having watched an acquaintance murdered before them, the staff were thoroughly terrified. No one attempted to resist."
+    },
+    {
+      "id": "X11:0293",
+      "i": 200,
+      "n": 293,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>たちは部屋の片隅に彼ら全員を集めると、隊員を見張りのために取り囲むように立たせる。そしてロープを渡し、職員同士で後ろ手に縛らせた。",
+      "en": "<tips=10>Michio</tips>'s people gathered them in one corner and positioned fighters around them as guards. They handed out rope and ordered the employees to bind one another's hands behind their backs."
+    },
+    {
+      "id": "X11:0294",
+      "i": 201,
+      "n": 294,
+      "sj": "",
+      "se": "",
+      "jp": "「しっかりと結べよ。あとで調べるからな。簡単に手が引っこ抜けるようなら、非協力的行為と見なして、縛った方も縛られた方も両方射殺する」",
+      "en": "Tie them securely. We'll check afterward. If anyone can simply pull out a hand, we'll consider it noncooperation and shoot both the person who tied the knot and the person wearing it."
+    },
+    {
+      "id": "X11:0295",
+      "i": 202,
+      "n": 295,
+      "sj": "",
+      "se": "",
+      "jp": "　ひげの隊員が銃で脅しながらそう伝えると、職員たちは真っ青な顔で作業に取りかかる。女子職員の何人かは、しくしくと泣き、涙を拭いながらロープを握っていた。",
+      "en": "As the bearded fighter threatened them with his gun, the staff began working with bloodless faces. Several women wept quietly, gripping the rope while wiping their tears."
+    },
+    {
+      "id": "X11:0296",
+      "i": 203,
+      "n": 296,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はそうした連中を尻目に、隊員二人を連れてさらに奥の部屋に進む。<tips=62>マリア</tips>はその場に残し、もし警備員の者たちがやって来て彼らが銃を抜いた場合のみ能力を使っていいと言い含めた。",
+      "en": "Leaving them behind, <tips=10>Michio</tips> took two fighters and proceeded farther inside. He left <tips=62>Maria</tips> there, instructing her to use her ability only if guards arrived and drew their weapons."
+    },
+    {
+      "id": "X11:0297",
+      "i": 204,
+      "n": 297,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>たちはまず事務長室ではげ頭の事務長が机の下で怯えているのを発見した。",
+      "en": "In the administrative director's office, <tips=10>Michio</tips>'s group first found the bald director trembling beneath his desk."
+    },
+    {
+      "id": "X11:0298",
+      "i": 205,
+      "n": 298,
+      "sj": "",
+      "se": "",
+      "jp": "　それを銃を突きつけながら事務室の人質の集団に加えると、もう一階には誰もおらず、そのまま階段に向かった。二階には、医者たちが過ごす医局や院長室などがある。",
+      "en": "They held him at gunpoint and added him to the hostages in the office. With no one else on the ground floor, they headed for the stairs. The second floor housed the doctors' room and director's office."
+    },
+    {
+      "id": "X11:0299",
+      "i": 206,
+      "n": 299,
+      "sj": "",
+      "se": "",
+      "jp": "　階段をのぼろうとすると上から下りてくる足音があった。一同銃を手に待ち構えていると、姿を現したのは白衣を着た白髪交じりの男だった。それは、騒ぎに気がついて様子を見に来た富川医師だった。",
+      "en": "As they began climbing, footsteps descended from above. Everyone waited with guns ready until a graying man in a white coat appeared. It was Dr. Tomikawa, who had noticed the commotion and come to investigate."
+    },
+    {
+      "id": "X11:0300",
+      "i": 207,
+      "n": 300,
+      "sj": "",
+      "se": "",
+      "jp": "「き、きみたちは……」",
+      "en": "W-who are you...?"
+    },
+    {
+      "id": "X11:0301",
+      "i": 208,
+      "n": 301,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師は恐怖で唇を震わせ、泡を飛ばしながら口を開く。",
+      "en": "Dr. Tomikawa's lips trembled in fear, flecks of saliva flying as he spoke."
+    },
+    {
+      "id": "X11:0302",
+      "i": 209,
+      "n": 302,
+      "sj": "",
+      "se": "",
+      "jp": "「静かに」",
+      "en": "Quiet."
+    },
+    {
+      "id": "X11:0303",
+      "i": 210,
+      "n": 303,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は銃口を突きつけながら低い声で言った。",
+      "en": "<tips=10>Michio</tips> spoke in a low voice while aiming the gun at him."
+    },
+    {
+      "id": "X11:0304",
+      "i": 211,
+      "n": 304,
+      "sj": "",
+      "se": "",
+      "jp": "「上にはあと何人いる？」",
+      "en": "How many people are upstairs?"
+    },
+    {
+      "id": "X11:0305",
+      "i": 212,
+      "n": 305,
+      "sj": "",
+      "se": "",
+      "jp": "「ど、どうするつもりだ……」",
+      "en": "Wh-what do you intend to do...?"
+    },
+    {
+      "id": "X11:0306",
+      "i": 213,
+      "n": 306,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師の顔には早くも脂汗がにじみ出し、全体がてらてらと照りを帯びてくる。",
+      "en": "Oily sweat already beaded across Dr. Tomikawa's face, making it glisten."
+    },
+    {
+      "id": "X11:0307",
+      "i": 214,
+      "n": 307,
+      "sj": "",
+      "se": "",
+      "jp": "「質問にこたえろ。嘘をついたら命はないぞ」",
+      "en": "Answer the question. Lie, and you die."
+    },
+    {
+      "id": "X11:0308",
+      "i": 215,
+      "n": 308,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は富川医師の腹に銃を突きつけた。",
+      "en": "<tips=10>Michio</tips> pressed his gun against Dr. Tomikawa's abdomen."
+    },
+    {
+      "id": "X11:0309",
+      "i": 216,
+      "n": 309,
+      "sj": "",
+      "se": "",
+      "jp": "「おい。言うんだ」",
+      "en": "Come on. Tell me."
+    },
+    {
+      "id": "X11:0310",
+      "i": 217,
+      "n": 310,
+      "sj": "",
+      "se": "",
+      "jp": "　ワイシャツを内側から押し出すその脂肪を銃口でグリグリと刺激すると、",
+      "en": "He ground the muzzle into the fat bulging beneath the doctor's dress shirt."
+    },
+    {
+      "id": "X11:0311",
+      "i": 218,
+      "n": 311,
+      "sj": "",
+      "se": "",
+      "jp": "「ひっ……」",
+      "en": "Ah..."
+    },
+    {
+      "id": "X11:0312",
+      "i": 219,
+      "n": 312,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師が小さく悲鳴を上げると、みるみるうちにその茶色いズボンの股間の辺りに黒いしみが広がって、やがて足の内側を伝わって足元に黄色い水たまりを作る。",
+      "en": "Dr. Tomikawa gave a tiny shriek. A dark stain rapidly spread across the crotch of his brown trousers, ran down the inside of his legs, and formed a yellow puddle at his feet."
+    },
+    {
+      "id": "X11:0313",
+      "i": 220,
+      "n": 313,
+      "sj": "",
+      "se": "",
+      "jp": "「おいおい」",
+      "en": "Good grief."
+    },
+    {
+      "id": "X11:0314",
+      "i": 221,
+      "n": 314,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は広がる水たまりを踏まないよう後ずさって、顔を顰めた。",
+      "en": "<tips=10>Michio</tips> stepped back to avoid the spreading puddle and grimaced."
+    },
+    {
+      "id": "X11:0315",
+      "i": 222,
+      "n": 315,
+      "sj": "",
+      "se": "",
+      "jp": "　それを見て他の隊員たちがクスクスと笑う。",
+      "en": "The other fighters saw this and snickered."
+    },
+    {
+      "id": "X11:0316",
+      "i": 223,
+      "n": 316,
+      "sj": "",
+      "se": "",
+      "jp": "「あああ……」",
+      "en": "Ahhh..."
+    },
+    {
+      "id": "X11:0317",
+      "i": 224,
+      "n": 317,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師は顔を羞恥で真っ赤にして、その目からは涙がこぼれ落ちる。",
+      "en": "Dr. Tomikawa's face burned red with humiliation, and tears spilled from his eyes."
+    },
+    {
+      "id": "X11:0318",
+      "i": 225,
+      "n": 318,
+      "sj": "",
+      "se": "",
+      "jp": "　自尊心を損なわれた富川医師はもはや抵抗する意志も喪失してしまったらしく、問われるままに喋った。上にはあと二人の医師がいるらしい。院長室で執務を行っていた田川院長が医局にやって来て、法条医師と共に富川医師が下の様子を報告するのを待っているのだそうだ。そして銃などの武器の有無を尋ねると、そんなもの見たこともないと言った。",
+      "en": "His pride shattered, Dr. Tomikawa appeared to lose all will to resist and answered every question. Two more doctors were upstairs. Director Tagawa had left his office for the doctors' room and was waiting with Dr. Hojo for Tomikawa to report on the disturbance below. Asked whether they had guns or other weapons, he said he had never seen any."
+    },
+    {
+      "id": "X11:0319",
+      "i": 226,
+      "n": 319,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はそれだけ聞き出すと、鼻水と涙でべちゃべちゃの顔になった富川医師に自分のハンカチを手渡し、隊員を一人つけて事務室へ送らせた。そして自分は仲間と共に残った二人の医師の確保に向かう。",
+      "en": "Once <tips=10>Michio</tips> extracted this much, he handed his handkerchief to Dr. Tomikawa, whose face was wet with tears and mucus, and sent him to the office under guard. Then Michio and his comrades went to secure the remaining two doctors."
+    },
+    {
+      "id": "X11:0320",
+      "i": 227,
+      "n": 320,
+      "sj": "",
+      "se": "",
+      "jp": "　隊員たちはいまの富川医師の醜態を小声で話し合って忍び笑いをするが、<tips=10>道夫</tips>は笑えない。",
+      "en": "The fighters whispered and laughed about Dr. Tomikawa's disgrace, but <tips=10>Michio</tips> could not laugh."
+    },
+    {
+      "id": "X11:0321",
+      "i": 228,
+      "n": 321,
+      "sj": "",
+      "se": "",
+      "jp": "　この状況で怯えるのは自然な人間の反応だ。あの医師は<tips=9>Y地区</tips>出身ではないだろうし、これまでまっとうな道を歩んで来たに違いない。順調に積み重ねて生きて来た人間なのだ。そのような人物が、引き金をひとつ引いただけで築いた全てが失われるという場面に陥れば、あのように取り乱すのも無理はない。",
+      "en": "Fear was a natural human response in this situation. The doctor was probably not from <tips=9>Y District</tips> and had surely followed an honest path all his life, steadily building his existence. Anyone placed in a situation where one pull of a trigger could erase everything he had built might panic the same way."
+    },
+    {
+      "id": "X11:0322",
+      "i": 229,
+      "n": 322,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らもたまたま勤務先がこの病院だっただけで、好き好んでこのようなことをしていたわけでもない。この場でそんな感情が禁物なのはわかっていたが、彼に対する同情を禁じ得ない。<tips=10>道夫</tips>は複雑な感情のまま、階段をのぼりきった。",
+      "en": "They merely happened to work at this hospital. They had not necessarily chosen or desired any of this. <tips=10>Michio</tips> knew such feelings were dangerous now, but could not keep himself from sympathizing with the man. Carrying these conflicted emotions, he reached the top of the stairs."
+    },
+    {
+      "id": "X11:0334",
+      "i": 230,
+      "n": 334,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師から聞いていた通り、二階には田川院長と法条医師の二人がいた。<tips=10>道夫</tips>たちが部屋に入ると彼らは動揺を見せたが、富川医師ほど取り乱しはしなかった。",
+      "en": "As Dr. Tomikawa said, Director Tagawa and Dr. Hojo were on the second floor. They appeared shaken when <tips=10>Michio</tips>'s group entered, but did not lose control as completely as Tomikawa."
+    },
+    {
+      "id": "X11:0335",
+      "i": 231,
+      "n": 335,
+      "sj": "",
+      "se": "",
+      "jp": "　もう人がいないのを確認してから下に戻ると、富川医師が隊員によって暴行されている場面に出くわした。",
+      "en": "After confirming no one else remained and returning downstairs, Michio found a fighter assaulting Dr. Tomikawa."
+    },
+    {
+      "id": "X11:0336",
+      "i": 232,
+      "n": 336,
+      "sj": "",
+      "se": "",
+      "jp": "「おい！　ふざけんなよ！　おれたちの仲間を、こんなところで人体実験に使いやがって！」",
+      "en": "Hey! You bastards used our people for human experiments in a place like this!"
+    },
+    {
+      "id": "X11:0337",
+      "i": 233,
+      "n": 337,
+      "sj": "",
+      "se": "",
+      "jp": "　倒れた富川医師をブーツを履いた足で蹴飛ばしたのは、ジョー・ヒラヤマというパン屋の息子である。彼は自分から志願して<tips=47>解放軍</tips>に入った青年で、<tips=67>カミラ</tips>の仲間であった。ということはつまり、<tips=17>タイプB</tips>への同胞意識が強く、差別などに対して人一倍強烈な嫌悪感を持っているということだ。",
+      "en": "The man kicking the fallen doctor with a boot was Joe Hirayama, a baker's son. He had volunteered for the <tips=47>Liberation Army</tips> and was one of <tips=67>Camilla</tips>'s comrades. In other words, he felt a strong bond with his fellow <tips=17>Type B</tips> people and hated discrimination more intensely than most."
+    },
+    {
+      "id": "X11:0338",
+      "i": 234,
+      "n": 338,
+      "sj": "",
+      "se": "",
+      "jp": "「ひっ、ひいっ！」",
+      "en": "Ah! Aah!"
+    },
+    {
+      "id": "X11:0339",
+      "i": 235,
+      "n": 339,
+      "sj": "",
+      "se": "",
+      "jp": "　富川医師はせっかく<tips=10>道夫</tips>がハンカチを渡したのに、また涙と鼻水と、そして今回はさらに鼻血がプラスされてぐちゃぐちゃの顔になっている。",
+      "en": "Despite the handkerchief <tips=10>Michio</tips> had given him, Dr. Tomikawa's face was once again covered in tears and mucus, now joined by blood from his nose."
+    },
+    {
+      "id": "X11:0340",
+      "i": 236,
+      "n": 340,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「おい、どうしたんだ」",
+      "en": "Hey, what's happening?"
+    },
+    {
+      "id": "X11:0341",
+      "i": 237,
+      "n": 341,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が問いただすと、ジョーは鼻息荒く振り返る。",
+      "en": "When <tips=10>Michio</tips> demanded an explanation, Joe turned around, breathing hard."
+    },
+    {
+      "id": "X11:0342",
+      "i": 238,
+      "n": 342,
+      "sj": "",
+      "se": "",
+      "jp": "「さっき、檜垣さんのチームから連絡があったんですよ。そしたら、本当にまだ許可が出てないような薬を使っていたって……」",
+      "en": "We just heard from Mr. Higaki's team. They really were using drugs that haven't even been approved..."
+    },
+    {
+      "id": "X11:0343",
+      "i": 239,
+      "n": 343,
+      "sj": "",
+      "se": "",
+      "jp": "「あ、あれは、日本ではまだ認可されていないだけで、世界ではそれなりの臨床実績が……」",
+      "en": "Th-they merely have not yet been approved in Japan. They possess a respectable clinical history elsewhere in the world..."
+    },
+    {
+      "id": "X11:0344",
+      "i": 240,
+      "n": 344,
+      "sj": "",
+      "se": "",
+      "jp": "「うるさいっ！」",
+      "en": "Shut up!"
+    },
+    {
+      "id": "X11:0345",
+      "i": 241,
+      "n": 345,
+      "sj": "",
+      "se": "",
+      "jp": "　ジョーは富川医師の言い訳を許さずその腹を蹴りつける。",
+      "en": "Joe refused to hear Dr. Tomikawa's explanation and kicked him in the stomach."
+    },
+    {
+      "id": "X11:0346",
+      "i": 242,
+      "n": 346,
+      "sj": "",
+      "se": "",
+      "jp": "　檜垣というのは、Ｃ棟に向かったチームのリーダーの名前である。元薬剤師の四十がらみの男で、発症したあとは家族に暴力を振るって家を追い出されて路上生活者になっていた。このたび『<tips=46>ネオ・ローズ</tips>』で正気を取り戻したが、帰るべき家がなく<tips=47>解放軍</tips>に参加することとなった。",
+      "en": "Higaki led the team sent to Building C. A former pharmacist around forty, he became violent toward his family after developing symptoms, was thrown out, and lived on the streets. <tips=46>Neo-Rose</tips> recently restored his sanity, but with no home to return to, he joined the <tips=47>Liberation Army</tips>."
+    },
+    {
+      "id": "X11:0347",
+      "i": 243,
+      "n": 347,
+      "sj": "",
+      "se": "",
+      "jp": "　職業柄薬剤に詳しく、最近の<tips=17>タイプＢ</tips>治療の動向についてもよく勉強をしていたため、例の<tips=65>ヘス</tips>が写真で見せた『縛られ虐待される患者』がいるＣ棟制圧チームのリーダーとなったのだ。",
+      "en": "His profession gave him extensive pharmaceutical knowledge, and he had studied recent trends in <tips=17>Type B</tips> treatment. He therefore led the team assigned to seize Building C, where <tips=65>Hess</tips>'s photograph showed the restrained and abused patient."
+    },
+    {
+      "id": "X11:0348",
+      "i": 244,
+      "n": 348,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らはついさっき、Ｃ棟の地下に足を踏み入れて、牢屋のような檻のなかにいる患者たちの解放に成功したのだそうだ。これから上の階に移動しながら他の患者たちを解放してゆくと、連絡をしてきたのだと言う。",
+      "en": "They had just entered the basement of Building C and successfully freed patients held in prisonlike cages. They radioed that they would continue releasing patients as they moved upward."
+    },
+    {
+      "id": "X11:0349",
+      "i": 245,
+      "n": 349,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「ジョー。感情的になっちゃだめだぜ。今は冷静になって、作戦を成功させることだけ考えるんだ」",
+      "en": "Joe, don't let your emotions control you. Stay calm and think only about making the operation succeed."
+    },
+    {
+      "id": "X11:0350",
+      "i": 246,
+      "n": 350,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=10>見土</tips>さん。わかってますが、でも、おれ絶対許せないですよ。こんな連中……」",
+      "en": "Mr. <tips=10>Mido</tips>, I know, but I can never forgive people like these..."
+    },
+    {
+      "id": "X11:0351",
+      "i": 247,
+      "n": 351,
+      "sj": "",
+      "se": "",
+      "jp": "　そして震わせたジョーの肩を<tips=10>道夫</tips>はぽんと叩き、",
+      "en": "<tips=10>Michio</tips> patted Joe's trembling shoulder."
+    },
+    {
+      "id": "X11:0352",
+      "i": 248,
+      "n": 352,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「正しいことのために戦ってるんだろう？　それなら、誇り高く振る舞わなければいけない」",
+      "en": "We're fighting for what's right, aren't we? Then we must conduct ourselves with pride."
+    },
+    {
+      "id": "X11:0353",
+      "i": 249,
+      "n": 353,
+      "sj": "",
+      "se": "",
+      "jp": "　そう笑いかけた。",
+      "en": "He smiled."
+    },
+    {
+      "id": "X11:0361",
+      "i": 250,
+      "n": 361,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>のチームは管理棟を制圧したあとは最低限の見張りを残しＡ棟へ向かった。",
+      "en": "After seizing administration, <tips=10>Michio</tips>'s team left the minimum necessary guard and headed for Building A."
+    },
+    {
+      "id": "X11:0362",
+      "i": 251,
+      "n": 362,
+      "sj": "",
+      "se": "",
+      "jp": "　その移動の途中<tips=10>道夫</tips>は銃声を聞いた。それも、一つや二つではなく、断続的な銃の音が、Ｂ棟からもＣ棟からも聞こえてくるのである。そしてざわざわとした悲鳴も。",
+      "en": "On the way, <tips=10>Michio</tips> heard gunfire—not one or two shots, but intermittent fire from both Buildings B and C, accompanied by scattered screams."
+    },
+    {
+      "id": "X11:0363",
+      "i": 252,
+      "n": 363,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>にはその音が、自分の人生が暗く不吉な道へ迷い込んだことを盛大に祝うファンファーレのように聞こえた。",
+      "en": "To <tips=10>Michio</tips>, it sounded like a fanfare grandly celebrating the moment his life wandered onto a dark and ominous path."
+    },
+    {
+      "id": "X11:0364",
+      "i": 253,
+      "n": 364,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は苦い顔をしながら前を向き、足を早める。",
+      "en": "Grimacing, he faced forward and quickened his pace."
+    },
+    {
+      "id": "X11:0370",
+      "i": 254,
+      "n": 370,
+      "sj": "",
+      "se": "",
+      "jp": "　Ｂ棟に向かった<tips=67>カミラ</tips>たちは、見かける職員を全て殺傷しながら進んでいた。隊員がみな荒っぽい性格であるというのもあったが、相手に銃があるかもしれないという思いがその攻撃性を歯止めがきかぬものにしていた。",
+      "en": "<tips=67>Camilla</tips>'s team advanced through Building B, killing or wounding every employee they saw. All the fighters were rough by nature, but the thought that their opponents might carry guns removed every restraint from their aggression."
+    },
+    {
+      "id": "X11:0371",
+      "i": 255,
+      "n": 371,
+      "sj": "",
+      "se": "",
+      "jp": "　そして訓練の足りない彼らの暴力は、あまり精度の良いものとは言えなかった。",
+      "en": "And their poorly trained violence was far from precise."
+    },
+    {
+      "id": "X11:0372",
+      "i": 256,
+      "n": 372,
+      "sj": "",
+      "se": "",
+      "jp": "　例えば階段をのぼるとき、手すりにつかまるようにして降りてくる老人と、それに付き添う若い看護師を見かけた。その瞬間、隊員たちは<tips=67>カミラ</tips>の指示も待たずに手持ちの武器で発砲する。",
+      "en": "As they climbed the stairs, for example, they saw an elderly woman descending with one hand on the railing, accompanied by a young nurse. The fighters opened fire without waiting for <tips=67>Camilla</tips>'s order."
+    },
+    {
+      "id": "X11:0373",
+      "i": 257,
+      "n": 373,
+      "sj": "",
+      "se": "",
+      "jp": "　看護師は悲鳴も上げる間もなく射殺されるが、何発かは老人にも当たり、二人の死体はもつれるようにして階段を落ちていった。",
+      "en": "The nurse was shot dead before she could scream. Several bullets also struck the elderly patient, and their corpses tumbled down the stairs tangled together."
+    },
+    {
+      "id": "X11:0374",
+      "i": 258,
+      "n": 374,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「何をしているんですか！　こっちのお祖母ちゃんは我々の同胞ですよ！」",
+      "en": "What are you doing? This old woman was one of our people!"
+    },
+    {
+      "id": "X11:0375",
+      "i": 259,
+      "n": 375,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>が血相を変えて叱責したが、隊員たちは心外という顔をして、",
+      "en": "<tips=67>Camilla</tips> went pale with rage as she rebuked them, but the fighters looked offended."
+    },
+    {
+      "id": "X11:0376",
+      "i": 260,
+      "n": 376,
+      "sj": "",
+      "se": "",
+      "jp": "「確かにそうだが、仕方がないじゃないか。相手は武器を持ってるかもしれないんだぜ？　おれたちは銃の達人ってわけじゃないから、戦おうとすればこうなるさ」",
+      "en": "Maybe so, but it couldn't be helped. The enemy might be armed. We aren't expert marksmen. This is what happens when we fight."
+    },
+    {
+      "id": "X11:0377",
+      "i": 261,
+      "n": 377,
+      "sj": "",
+      "se": "",
+      "jp": "　と悪びれる風もなかった。",
+      "en": "They showed no remorse."
+    },
+    {
+      "id": "X11:0378",
+      "i": 262,
+      "n": 378,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>の言うことなどはなから聞くつもりがないのだ。彼女は唇を噛んで怒りを抑える他ない。",
+      "en": "They had never intended to listen to <tips=67>Camilla</tips>. She could only bite her lip and suppress her anger."
+    },
+    {
+      "id": "X11:0379",
+      "i": 263,
+      "n": 379,
+      "sj": "",
+      "se": "",
+      "jp": "　もともとこのチームは人間的に問題があるものばかりで構成されており率いるのが難しいのはわかっていた。だから当初は<tips=10>道夫</tips>がリーダーとなると言っていたのだが、<tips=67>カミラ</tips>が半ば無理矢理その役割を奪い取ったのだ。",
+      "en": "She had known from the start that this team consisted entirely of people with serious personal flaws and would be difficult to lead. <tips=10>Michio</tips> had therefore said he would command it, but <tips=67>Camilla</tips> had nearly forced the role away from him."
+    },
+    {
+      "id": "X11:0380",
+      "i": 264,
+      "n": 380,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「こんな無法は許されないわ。私たちはギャングじゃないのよ？」",
+      "en": "We cannot permit such lawlessness. We aren't gangsters!"
+    },
+    {
+      "id": "X11:0381",
+      "i": 265,
+      "n": 381,
+      "sj": "",
+      "se": "",
+      "jp": "　会のなかでは過激派として知られている<tips=67>カミラ</tips>だが、現実の殺人となれば、しかも無抵抗な相手を殺害したとなれば、さすがに冷静ではいられなかった。動かなくなった二人の死体を眺めるその横顔は血の気が引いて青ざめている。",
+      "en": "Though known within the Club as a radical, <tips=67>Camilla</tips> could not remain calm in the face of actual murder—especially the killing of helpless people. Her profile was bloodless and pale as she stared at the two motionless corpses."
+    },
+    {
+      "id": "X11:0382",
+      "i": 266,
+      "n": 382,
+      "sj": "",
+      "se": "",
+      "jp": "　隊員はそれを笑い、",
+      "en": "The fighter laughed at her."
+    },
+    {
+      "id": "X11:0383",
+      "i": 267,
+      "n": 383,
+      "sj": "",
+      "se": "",
+      "jp": "「お嬢ちゃん、言い争いをしてる場合じゃないんだよ。相手は銃を持ってるかもしれないから、職員はみな殺してゆくって決めたじゃないか。だから……」",
+      "en": "Little lady, this isn't the time to argue. We agreed to kill every employee because they might be armed. So..."
+    },
+    {
+      "id": "X11:0384",
+      "i": 268,
+      "n": 384,
+      "sj": "",
+      "se": "",
+      "jp": "　そう言ったところで、銃声を聞きつけたのか、男性看護師が二人階段から降りてきて姿を現す。",
+      "en": "Before he could finish, perhaps drawn by the gunfire, two male nurses appeared descending the stairs."
+    },
+    {
+      "id": "X11:0385",
+      "i": 269,
+      "n": 385,
+      "sj": "",
+      "se": "",
+      "jp": "「な、なにをっ……」",
+      "en": "Wh-what have you...?"
+    },
+    {
+      "id": "X11:0386",
+      "i": 270,
+      "n": 386,
+      "sj": "",
+      "se": "",
+      "jp": "　驚愕している看護師のうち、一人は一番近くにいた隊員が振り回す鉈で額を割られ、もう一人は逃げようとして背を向けたところを隊員たちの銃弾によって蜂の巣にされる。",
+      "en": "The nearest fighter split one shocked nurse's forehead with a machete. The other turned to flee and was riddled with the fighters' bullets."
+    },
+    {
+      "id": "X11:0387",
+      "i": 271,
+      "n": 387,
+      "sj": "",
+      "se": "",
+      "jp": "「行くぞお嬢ちゃん。一気にやらなきゃ逃げられる」",
+      "en": "Let's go, little lady. If we don't do this fast, they'll escape."
+    },
+    {
+      "id": "X11:0394",
+      "i": 272,
+      "n": 394,
+      "sj": "",
+      "se": "",
+      "jp": "　隊員たちはみな銃を構えて階段を駆け上がり、<tips=67>カミラ</tips>はそのあとを追う格好になった。",
+      "en": "The fighters raised their guns and charged upstairs, leaving <tips=67>Camilla</tips> to follow behind."
+    },
+    {
+      "id": "X11:0395",
+      "i": 273,
+      "n": 395,
+      "sj": "",
+      "se": "",
+      "jp": "　Ｂ棟の制圧はまず放送設備のある二階から行うことに決めていた。階段から看護室へ入る扉は換気のためか開けっ放しになっていて、隊員たちはそこから部屋に駆け込むと、呆然と立ち尽くしていた看護師たちに鉛の弾を浴びせかけた。",
+      "en": "They had decided to seize the second floor first because it housed Building B's public-address equipment. The door from the stairs into the nurses' station had been left open, perhaps for ventilation. The fighters rushed through and showered the nurses standing frozen inside with lead."
+    },
+    {
+      "id": "X11:0402",
+      "i": 274,
+      "n": 402,
+      "sj": "",
+      "se": "",
+      "jp": "　彼らのうち三人はサブマシンガンを持っており、彼らの銃が火を吹くと、轟音と共に机の上に置かれていた書類は舞い上がり、パソコンは火花を散らしてはじけ飛び、夕方の薬のために用意されていた水のコップがいくつも乗ったお盆は砕け散った。",
+      "en": "Three carried submachine guns. When those weapons opened fire, the roar sent papers flying from desks, computers burst in showers of sparks, and a tray of water cups prepared for the evening medication shattered."
+    },
+    {
+      "id": "X11:0403",
+      "i": 275,
+      "n": 403,
+      "sj": "",
+      "se": "",
+      "jp": "　呆然と立っていた四人の看護師は最初はパニックを起こして絶叫していたが、三人の弾倉が空になるころには穴だらけになって無言で床に倒れ伏している。",
+      "en": "The four nurses had initially screamed in panic. By the time the three magazines ran empty, their bodies were riddled with holes and lay silent on the floor."
+    },
+    {
+      "id": "X11:0404",
+      "i": 276,
+      "n": 404,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「無茶苦茶よ！　放送機器が壊れていたらどうするの？」",
+      "en": "That was insane! What if you damaged the broadcasting equipment?"
+    },
+    {
+      "id": "X11:0405",
+      "i": 277,
+      "n": 405,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は相変わらず血の気が引いた青白い顔のまま看護師たちの死体を横目に通り過ぎると、向かいの壁にかかった受話器を手に取る。",
+      "en": "Still deathly pale, <tips=67>Camilla</tips> passed the nurses' bodies with a sideways glance and picked up the handset mounted on the opposite wall."
+    },
+    {
+      "id": "X11:0406",
+      "i": 278,
+      "n": 406,
+      "sj": "",
+      "se": "",
+      "jp": "　そしてふと目をやると、病棟と看護室を区切るアクリルパネルのところに、何人かの患者が張り付いてこちらを見ているのと視線があった。",
+      "en": "When she looked up, she met the eyes of several patients pressed against the acrylic panel separating the station from the ward."
+    },
+    {
+      "id": "X11:0407",
+      "i": 279,
+      "n": 407,
+      "sj": "",
+      "se": "",
+      "jp": "　ここは女性病棟だから女しかいない。彼女たちは老いているものも若いものもみなやせ細り、とろりとした生気のない目をしていた。頭には転倒事故防止のピンク色のヘッドギアをかぶったものもいる。",
+      "en": "This was a women's ward, so every patient was female. Young and old alike were emaciated, with languid, lifeless eyes. Some wore pink protective helmets to prevent injuries from falls."
+    },
+    {
+      "id": "X11:0408",
+      "i": 280,
+      "n": 408,
+      "sj": "",
+      "se": "",
+      "jp": "　病院のなかで平和に暮らす<tips=17>タイプＢ</tips>は、街で発症したものとは違う雰囲気があった。あらゆる刺激から守られ、生活を全て職員に依存している彼らは皆どこかおっとりとしている。<tips=67>カミラ</tips>は彼らに共通する顔つきに、なぜだか嫌悪感を覚えながら、操作パネルに向かい合った。",
+      "en": "The <tips=17>Type B</tips> patients living peacefully inside the hospital had a different air from those who became symptomatic in town. Protected from all stimulation and dependent on staff for every aspect of life, they all seemed strangely docile. Feeling an inexplicable revulsion at the expression they shared, <tips=67>Camilla</tips> faced the control panel."
+    },
+    {
+      "id": "X11:0409",
+      "i": 281,
+      "n": 409,
+      "sj": "",
+      "se": "",
+      "jp": "　パネルの下の方に並んだいくつものボタンのうち、『Ｂ棟全館』と書かれたものを押し、そして受話器に向かって呼びかける。",
+      "en": "Among the buttons along its lower edge, she pressed the one marked \"All Building B,\" then spoke into the handset."
+    },
+    {
+      "id": "X11:0410",
+      "i": 282,
+      "n": 410,
+      "sj": "",
+      "se": "",
+      "jp": "『今の騒音で驚かせて申し訳ありません。私たちは<tips=47>八龍解放軍</tips>というものです。この病院で不自由な生活を送られている<tips=17>タイプＢ</tips>の皆さんのために、特別な薬を用意しましたので、驚かずにそのままお待ちください。……なお、我々は武器を持っています。職員の皆様は、無駄な抵抗などなさらず、看護室で待機してください。逃げようとしても、外にいる同志が見ています。怪我などをしたくなければ、あくまでも余計なことはなさらぬよう……』",
+      "en": "We apologize for alarming you with the recent noise. We are the <tips=47>Dragon Liberation Army</tips>. We have brought special medicine for all <tips=17>Type B</tips> patients enduring restricted lives in this hospital. Please remain calm and wait where you are... We are armed. Members of staff must not resist uselessly, but wait in the nurses' station. Even if you try to flee, our comrades outside are watching. If you do not wish to be hurt, take no unnecessary action..."
+    },
+    {
+      "id": "X11:0411",
+      "i": 283,
+      "n": 411,
+      "sj": "",
+      "se": "",
+      "jp": "　作戦計画時に用意した文面を二度繰り返すと、受話器を置く。",
+      "en": "After repeating the prepared announcement twice, she replaced the handset."
+    },
+    {
+      "id": "X11:0412",
+      "i": 284,
+      "n": 412,
+      "sj": "",
+      "se": "",
+      "jp": "　そして溜息をつき、隊員たちを振り返った。",
+      "en": "She sighed and turned toward the fighters."
+    },
+    {
+      "id": "X11:0413",
+      "i": 285,
+      "n": 413,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ぼやぼやしているわけには行きません。対応される前に、ノーマルを排除しましょう」",
+      "en": "We cannot waste time. Eliminate the Normals before they can respond."
+    },
+    {
+      "id": "X11:0414",
+      "i": 286,
+      "n": 414,
+      "sj": "",
+      "se": "",
+      "jp": "　うわずった声でそう言うと、隊員たちはにやりと笑い、",
+      "en": "She spoke in a strained voice. The fighters grinned."
+    },
+    {
+      "id": "X11:0415",
+      "i": 287,
+      "n": 415,
+      "sj": "",
+      "se": "",
+      "jp": "「そう来なくっちゃな！」",
+      "en": "Now that's more like it!"
+    },
+    {
+      "id": "X11:0416",
+      "i": 288,
+      "n": 416,
+      "sj": "",
+      "se": "",
+      "jp": "「お嬢ちゃん、わかってるじゃねえか」",
+      "en": "You do understand, little lady."
+    },
+    {
+      "id": "X11:0417",
+      "i": 289,
+      "n": 417,
+      "sj": "",
+      "se": "",
+      "jp": "　と口々に誉め称え、<tips=67>カミラ</tips>もこわばった笑みを浮かべた。",
+      "en": "As they praised her, <tips=67>Camilla</tips> forced a stiff smile."
+    },
+    {
+      "id": "X11:0418",
+      "i": 290,
+      "n": 418,
+      "sj": "",
+      "se": "",
+      "jp": "　事前の打ち合わせでは<tips=10>道夫</tips>が管理棟でやったように職員は一カ所に集めて監視することになっていた。しかし彼女たちは別の行動をとった。",
+      "en": "Their prior agreement had been to gather the staff in one place and guard them, as <tips=10>Michio</tips> had done in administration. Instead, Camilla's team chose another course."
+    },
+    {
+      "id": "X11:0419",
+      "i": 291,
+      "n": 419,
+      "sj": "",
+      "se": "",
+      "jp": "　放送を終えたあと、すぐに三人ずつに分かれて半分は二階の制圧、残りは上の階に向かう。<tips=67>カミラ</tips>は二人の部下と共に三階へ上がった。",
+      "en": "Immediately after the announcement, they divided into groups of three. Half began securing the second floor, while the rest headed upward. <tips=67>Camilla</tips> went to the third floor with two subordinates."
+    },
+    {
+      "id": "X11:0431",
+      "i": 292,
+      "n": 431,
+      "sj": "",
+      "se": "",
+      "jp": "　三階は丁度誕生会の真っ最中で看護師も看護助手も、病棟のスタッフはみなホールに出払っており、看護室には<tips=94>吉田主任</tips>だけが残り看護サマリーを書いていた。",
+      "en": "The third-floor birthday party was in full swing. Every nurse, nursing aide, and other ward employee had gone to the hall, leaving only <tips=94>Head Nurse Yoshida</tips> in the nurses' station writing summaries."
+    },
+    {
+      "id": "X11:0432",
+      "i": 293,
+      "n": 432,
+      "sj": "",
+      "se": "",
+      "jp": "　誕生日を迎えた三人の患者が挨拶をし、音楽に合わせてみなで誕生日の歌を歌い、そしてこれからケーキを食べようというところだった。",
+      "en": "Three patients celebrating birthdays had offered greetings, everyone sang the birthday song to music, and they were just about to eat cake."
+    },
+    {
+      "id": "X11:0433",
+      "i": 294,
+      "n": 433,
+      "sj": "",
+      "se": "",
+      "jp": "　この病棟は、ものを飲み込むのに困難がある老人や重病人ばかりなので、食事の場合はなるべく多くの職員がホールに出てその様子を見守ったり、実際にスプーンを持って食べさせてやったりしている。食事の前に歌をうたったり、体操をして少しでも誤嚥を少なくするのだが、それでもむせかえったり、事故が起こってしまうのがこの病棟の患者たちである。食事は患者たちにとって一番の楽しみであると同時に、最も危険な場面だとも言える。",
+      "en": "This ward held elderly and seriously ill patients who had difficulty swallowing. During meals, as many employees as possible supervised in the hall or personally fed patients by spoon. They sang and exercised before meals to reduce aspiration, but choking and accidents still occurred. Eating was at once the patients' greatest pleasure and their most dangerous activity."
+    },
+    {
+      "id": "X11:0434",
+      "i": 295,
+      "n": 434,
+      "sj": "",
+      "se": "",
+      "jp": "　二階での銃撃戦はまさにそうした摂食の時間に行われた。",
+      "en": "The gunfight on the second floor began in the middle of that feeding time."
+    },
+    {
+      "id": "X11:0436",
+      "i": 296,
+      "n": 436,
+      "sj": "",
+      "se": "",
+      "jp": "　階下からただならぬ銃声が響いて来る。職員と、まだ多少理性の働く患者たちは騒然として顔を見合わせたが、症状の進んだものは周囲の変化にまったく無頓着で、目の前のケーキに夢中になっている。",
+      "en": "Ominous gunfire thundered from below. Staff and patients with some remaining reason looked around in alarm. Those with advanced symptoms ignored the change completely, absorbed by the cake before them."
+    },
+    {
+      "id": "X11:0437",
+      "i": 297,
+      "n": 437,
+      "sj": "",
+      "se": "",
+      "jp": "　やがて銃声が収まると、今度は館内放送で穏やかでない<tips=67>カミラ</tips>の発言が流される。",
+      "en": "When the gunfire finally stopped, <tips=67>Camilla</tips>'s disturbing announcement came over the hospital speakers."
+    },
+    {
+      "id": "X11:0438",
+      "i": 298,
+      "n": 438,
+      "sj": "",
+      "se": "",
+      "jp": "　さすがにこれはただ事ではないと、職員たちははっきりと気がついた。",
+      "en": "The staff now clearly understood that something extraordinary was happening."
+    },
+    {
+      "id": "X11:0439",
+      "i": 299,
+      "n": 439,
+      "sj": "吉田主任",
+      "se": "Head Nurse Yoshida",
+      "jp": "「みなさーん、業務を中断して、看護室に集まってください！」",
+      "en": "Everyone, stop your work and gather in the nurses' station!"
+    },
+    {
+      "id": "X11:0441",
+      "i": 300,
+      "n": 441,
+      "sj": "",
+      "se": "",
+      "jp": "　看護室のドアを開けて、顔を真っ青にした<tips=94>吉田主任</tips>がかたい声で皆にそう叫ぶと、すぐに引っ込んだ。そして机に戻ると、電話機の受話器を手に取る。",
+      "en": "Opening the nurses' station door, the bloodless <tips=94>Head Nurse Yoshida</tips> called out stiffly, then immediately withdrew. She returned to her desk and picked up the telephone receiver."
+    },
+    {
+      "id": "X11:0442",
+      "i": 301,
+      "n": 442,
+      "sj": "",
+      "se": "",
+      "jp": "　中断しろと命令されても、すぐに患者たちを放り出せるような状況ではない。職員たちが戸惑っていると、",
+      "en": "Even ordered to stop, the staff could not instantly abandon their patients. As they hesitated,"
+    },
+    {
+      "id": "X11:0443",
+      "i": 302,
+      "n": 443,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「ケーキはここまでにしましょう。介助の人はまだ食べ終わってないですが、冷蔵庫に入れてまたあとでということで」",
+      "en": "Let's end the cake here. Some assisted patients haven't finished, but we'll refrigerate it and give it to them later."
+    },
+    {
+      "id": "X11:0444",
+      "i": 303,
+      "n": 444,
+      "sj": "",
+      "se": "",
+      "jp": "　この病棟の数少ない男性である看護助手の<tips=93>林田</tips>は顔を曇らせてそう言った。",
+      "en": "The ward's male nursing aide, <tips=93>Hayashida</tips>, suggested this with a darkened expression."
+    },
+    {
+      "id": "X11:0445",
+      "i": 304,
+      "n": 445,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「それがいいですね」",
+      "en": "That's best."
+    },
+    {
+      "id": "X11:0446",
+      "i": 305,
+      "n": 446,
+      "sj": "",
+      "se": "",
+      "jp": "　看護師の<tips=83>能見美紗</tips>はすぐに同意を示して頷く。",
+      "en": "The nurse <tips=83>Misa Nomi</tips> immediately nodded her agreement."
+    },
+    {
+      "id": "X11:0447",
+      "i": 306,
+      "n": 447,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「……みなさーん、ちょっと看護師さんたちは急用が出来たので誕生会は中止にします。まだ食べ途中の人は、こちらで預かりますから手を止めてくださいね。ほら、ゆうちゃんも食べるのやめて。あなた、誰かが見てないと危ないから。この間も喉に詰まらせてひっくり返ったでしょう」",
+      "en": "Everyone, the nurses have urgent business, so we must end the birthday party. If you haven't finished, we'll keep your cake for you, so please stop eating. Come on, Yu, you must stop too. It's dangerous when no one's watching you. You choked and fell over only the other day, remember?"
+    },
+    {
+      "id": "X11:0448",
+      "i": 307,
+      "n": 448,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は苦い顔をしながら、言葉を無視して食べ続けようとする老婆の皿を奪った。",
+      "en": "Grimacing, <tips=83>Misa</tips> took away the plate of an old woman who ignored her and kept trying to eat."
+    },
+    {
+      "id": "X11:0449",
+      "i": 308,
+      "n": 449,
+      "sj": "",
+      "se": "",
+      "jp": "「何するんだ！　人殺し！」",
+      "en": "What are you doing, murderer!"
+    },
+    {
+      "id": "X11:0450",
+      "i": 309,
+      "n": 450,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「もう、いつもそんな汚いことばっかり言うんだから」",
+      "en": "Honestly, you always say such ugly things."
+    },
+    {
+      "id": "X11:0451",
+      "i": 310,
+      "n": 451,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は苦い顔で窘める。普段なら説教の一つでも言うところだが、今はそんな悠長な時間はない。",
+      "en": "<tips=83>Misa</tips> admonished her with a pained expression. Ordinarily she might have delivered a lecture, but there was no time now."
+    },
+    {
+      "id": "X11:0452",
+      "i": 311,
+      "n": 452,
+      "sj": "",
+      "se": "",
+      "jp": "　職員たちは自分たちに恐ろしい危機が迫っていることを実感していたが、毎日家族よりも多くの時間を過ごした患者たちをそのままにしておくことは出来なかった。",
+      "en": "The staff understood that a terrible crisis was approaching, yet they could not abandon patients with whom they spent more time each day than with their own families."
+    },
+    {
+      "id": "X11:0453",
+      "i": 312,
+      "n": 453,
+      "sj": "",
+      "se": "",
+      "jp": "　手分けして要介助者のケーキを取り上げたり、歩行困難者をベッドに誘導したりする。重度の患者は状況に納得出来ずに癇癪を起こし、事態を把握出来る患者は不安を看護師に訴える。",
+      "en": "They divided the work, taking cake from patients who needed assistance and guiding those unable to walk well back to bed. Severely impaired patients threw tantrums because they could not understand, while those able to grasp the situation expressed their fears to the nurses."
+    },
+    {
+      "id": "X11:0454",
+      "i": 313,
+      "n": 454,
+      "sj": "",
+      "se": "",
+      "jp": "　にわかに慌ただしくなったホールで、",
+      "en": "In the suddenly frantic hall,"
+    },
+    {
+      "id": "X11:0455",
+      "i": 314,
+      "n": 455,
+      "sj": "水村",
+      "se": "Maiko Mizumura",
+      "jp": "「あっ、だめっ！」",
+      "en": "Oh, no!"
+    },
+    {
+      "id": "X11:0456",
+      "i": 315,
+      "n": 456,
+      "sj": "",
+      "se": "",
+      "jp": "　看護師の<tips=92>水村</tips>が叫んだ。",
+      "en": "Nurse <tips=92>Mizumura</tips> cried out."
+    },
+    {
+      "id": "X11:0457",
+      "i": 316,
+      "n": 457,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「どうしたの？」",
+      "en": "What happened?"
+    },
+    {
+      "id": "X11:0458",
+      "i": 317,
+      "n": 458,
+      "sj": "水村",
+      "se": "Maiko Mizumura",
+      "jp": "「<tips=83>能見</tips>さんっ！　御手洗さんが、とりあげようとしたケーキを一遍に飲み込んじゃって！」",
+      "en": "Ms. <tips=83>Nomi</tips>! Mrs. Mitarai swallowed the whole piece of cake when I tried to take it away!"
+    },
+    {
+      "id": "X11:0459",
+      "i": 318,
+      "n": 459,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=92>水村ナース</tips>は動揺している。黄色いヘッドガードをかぶったその老婆は、身動きをせずにその場に固まって目を細めている。",
+      "en": "<tips=92>Nurse Mizumura</tips> was shaken. The old woman in a yellow protective helmet sat frozen, eyes narrowed and body still."
+    },
+    {
+      "id": "X11:0460",
+      "i": 319,
+      "n": 460,
+      "sj": "",
+      "se": "",
+      "jp": "　苦しむ様子は見せていないが、だからといって安心出来るわけではないことをこの病棟のスタッフなら誰もが知っていた。症状が進み、老い、強い薬を飲んでいる患者は、喉が詰まってもむせ込むこともなく、苦しみを表現したりもしないことが多い。骨が折れても平気でいるような、痛覚の麻痺した人々なのである。喉にものを詰まらせても外から見ても何の変化もなく、青くなって倒れてから気づくということも多い。",
+      "en": "She showed no visible distress, but every ward employee knew that offered no reassurance. Elderly patients with advanced symptoms and powerful medications often did not cough when their throats were blocked or express pain. Their sense of pain could be so numb that even broken bones caused no reaction. Something might lodge in a throat without any outward sign, and staff would notice only when the patient turned blue and collapsed."
+    },
+    {
+      "id": "X11:0461",
+      "i": 320,
+      "n": 461,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「掃除機とってきます！」",
+      "en": "I'll get the suction machine!"
+    },
+    {
+      "id": "X11:0463",
+      "i": 321,
+      "n": 463,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>はそう言ってすぐに処置室に向かって駆け出す。",
+      "en": "<tips=93>Hayashida</tips> immediately ran toward the treatment room."
+    },
+    {
+      "id": "X11:0464",
+      "i": 322,
+      "n": 464,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=92>水村ナース</tips>と<tips=83>美紗</tips>は患者に付き添って、その背中をさする。",
+      "en": "<tips=92>Nurse Mizumura</tips> and <tips=83>Misa</tips> stayed beside the patient, rubbing her back."
+    },
+    {
+      "id": "X11:0465",
+      "i": 323,
+      "n": 465,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「御手洗さん、喉つまってない？　声を出してみてちょうだい」",
+      "en": "Mrs. Mitarai, is something caught in your throat? Please try to make a sound."
+    },
+    {
+      "id": "X11:0466",
+      "i": 324,
+      "n": 466,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>がそう尋ねるが、当の本人はじっと<tips=83>美紗</tips>の顔を見つめるだけだ。もともと、会話が成立しにくく、こっちの言葉が理解出来ているかどうかもわからないし、言っていることも常に支離滅裂な老婆なのである。",
+      "en": "<tips=83>Misa</tips> asked, but the woman only stared at <tips=83>Misa</tips>'s face. Conversation was difficult at the best of times. No one knew whether she understood them, and her own speech was always incoherent."
+    },
+    {
+      "id": "X11:0467",
+      "i": 325,
+      "n": 467,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あーって、ほら、言えますか？」",
+      "en": "Can you say 'ah'? Go on, try."
+    },
+    {
+      "id": "X11:0468",
+      "i": 326,
+      "n": 468,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>の再度の問いかけにも無反応だ。",
+      "en": "The woman did not respond to <tips=83>Misa</tips>'s second request."
+    },
+    {
+      "id": "X11:0469",
+      "i": 327,
+      "n": 469,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「<tips=83>能見</tips>さん！　掃除機です！　ほら御手洗さん口を開けて！」",
+      "en": "Ms. <tips=83>Nomi</tips>! Here's the suction machine! Mrs. Mitarai, open your mouth!"
+    },
+    {
+      "id": "X11:0470",
+      "i": 328,
+      "n": 470,
+      "sj": "",
+      "se": "",
+      "jp": "　特別なノズルがついた吸引専用の掃除機を持って来た<tips=93>林田</tips>が、あくまでも反応を示さない御手洗の歯がない口に手を突っ込み、開かせようと知ったその時、看護室の方から銃声があがった。",
+      "en": "<tips=93>Hayashida</tips> returned with a suction machine fitted with a special nozzle. Just as he put his hand into the unresponsive woman's toothless mouth and tried to open it, a gunshot came from the nurses' station."
+    },
+    {
+      "id": "X11:0471",
+      "i": 329,
+      "n": 471,
+      "sj": "藤原",
+      "se": "Fujiwara",
+      "jp": "「きゃーっ！」",
+      "en": "Aah!"
+    },
+    {
+      "id": "X11:0472",
+      "i": 330,
+      "n": 472,
+      "sj": "",
+      "se": "",
+      "jp": "　藤原ナースが金切り声で悲鳴を上げる。",
+      "en": "Nurse Fujiwara screamed shrilly."
+    },
+    {
+      "id": "X11:0473",
+      "i": 331,
+      "n": 473,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>も立ち上がり、自分の目で透明のアクリルボード越しに看護室を見た。",
+      "en": "<tips=83>Misa</tips> stood and looked through the clear acrylic panel into the nurses' station."
+    },
+    {
+      "id": "X11:0474",
+      "i": 332,
+      "n": 474,
+      "sj": "",
+      "se": "",
+      "jp": "　看護室のなかには見知らぬ三人の人物がいた。彼らはそれぞれの手に銃を持ち、そのうちのたった一人の女性である、若い女が握る拳銃からうっすらと煙が上がっている。",
+      "en": "Three strangers stood inside, each holding a gun. Faint smoke rose from the pistol gripped by the only woman among them, a young woman."
+    },
+    {
+      "id": "X11:0475",
+      "i": 333,
+      "n": 475,
+      "sj": "",
+      "se": "",
+      "jp": "　さっき看護室に引っ込んだはずの<tips=94>吉田主任</tips>の姿はない。かわりに、彼女の席のまわりは鮮血が飛び散っている。",
+      "en": "<tips=94>Head Nurse Yoshida</tips>, who had just entered the station, was nowhere to be seen. Instead, fresh blood spattered the area around her seat."
+    },
+    {
+      "id": "X11:0476",
+      "i": 334,
+      "n": 476,
+      "sj": "",
+      "se": "",
+      "jp": "　下から上ってきた<tips=67>カミラ</tips>が撃ったのだ。頭を銃弾で撃ち抜かれた<tips=94>吉田主任</tips>の身体はホールからは見えない足元に倒れていた。",
+      "en": "<tips=67>Camilla</tips>, arriving from below, had shot her. A bullet through her head had dropped <tips=94>Head Nurse Yoshida</tips>'s body beneath the station counter, out of view from the hall."
+    },
+    {
+      "id": "X11:0477",
+      "i": 335,
+      "n": 477,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は<tips=94>吉田主任</tips>が動かないのを確認してから顔を上げ、そしてホールからこちらを見つめている藤原ナースの顔を見る。",
+      "en": "After confirming <tips=94>Head Nurse Yoshida</tips> no longer moved, <tips=67>Camilla</tips> looked up and met Nurse Fujiwara's gaze from the hall."
+    },
+    {
+      "id": "X11:0478",
+      "i": 336,
+      "n": 478,
+      "sj": "藤原",
+      "se": "Fujiwara",
+      "jp": "「ひっ！　ひいっ！！」",
+      "en": "Ah! Aah!"
+    },
+    {
+      "id": "X11:0479",
+      "i": 337,
+      "n": 479,
+      "sj": "",
+      "se": "",
+      "jp": "　藤原ナースは怯えて腰が抜け、這うようにしてその場から離れた。",
+      "en": "Nurse Fujiwara's legs gave way in terror. She crawled from the spot."
+    },
+    {
+      "id": "X11:0481",
+      "i": 338,
+      "n": 481,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=93>林田</tips>さんっ！　主任が！」",
+      "en": "Mr. <tips=93>Hayashida</tips>! The head nurse!"
+    },
+    {
+      "id": "X11:0482",
+      "i": 339,
+      "n": 482,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は口を開けようとしない御手洗とまだ格闘している<tips=93>林田</tips>にそう叫んだ。",
+      "en": "<tips=83>Misa</tips> shouted to <tips=93>Hayashida</tips>, who was still struggling with Mitarai's refusal to open her mouth."
+    },
+    {
+      "id": "X11:0483",
+      "i": 340,
+      "n": 483,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「くそっ、わけがわからないが、とにかくこっちを……」",
+      "en": "Damn it, I don't know what's happening, but help me here first..."
+    },
+    {
+      "id": "X11:0484",
+      "i": 341,
+      "n": 484,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>は苦渋の表情に汗を浮かべながら<tips=83>美紗</tips>に手伝うよう促す。",
+      "en": "Sweat beaded across <tips=93>Hayashida</tips>'s anguished face as he urged <tips=83>Misa</tips> to help."
+    },
+    {
+      "id": "X11:0485",
+      "i": 342,
+      "n": 485,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「は、はいっ」",
+      "en": "Y-yes!"
+    },
+    {
+      "id": "X11:0486",
+      "i": 343,
+      "n": 486,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>の手は震えていたが、掃除機を握ると少し落ち着いた。",
+      "en": "<tips=83>Misa</tips>'s hands trembled, but gripping the suction machine calmed her somewhat."
+    },
+    {
+      "id": "X11:0487",
+      "i": 344,
+      "n": 487,
+      "sj": "",
+      "se": "",
+      "jp": "　あの恐ろしい襲撃者のことを考えると何をしていいのかわけがわからなくなるが、患者を助けるという自分の業務のなかならば、いつでも落ち着いて対応出来るのはまだ若いながらも看護師として様々な状況に立ちあった経験がなせるわざだった。",
+      "en": "Thinking about the terrifying attackers left her unable to decide what to do. Within her ordinary duty of saving a patient, however, she could remain composed. Though still young, her experience as a nurse had carried her through many situations."
+    },
+    {
+      "id": "X11:0488",
+      "i": 345,
+      "n": 488,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>がどうにか開かせた御手洗の口のなかに、<tips=83>美紗</tips>はノズルを突っ込んでスイッチを押す。",
+      "en": "Once <tips=93>Hayashida</tips> forced Mitarai's mouth open, <tips=83>Misa</tips> inserted the nozzle and activated the machine."
+    },
+    {
+      "id": "X11:0489",
+      "i": 346,
+      "n": 489,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「出ましたか？」",
+      "en": "Did it come out?"
+    },
+    {
+      "id": "X11:0490",
+      "i": 347,
+      "n": 490,
+      "sj": "",
+      "se": "",
+      "jp": "　御手洗を押さえつけている<tips=93>林田</tips>がそう尋ねるのに、掃除機の透明なプラスチックで覆われたタンクを見つめている<tips=83>美紗</tips>は首を振る。",
+      "en": "<tips=93>Hayashida</tips>, restraining Mitarai, asked. Watching the transparent plastic collection chamber, <tips=83>Misa</tips> shook her head."
+    },
+    {
+      "id": "X11:0491",
+      "i": 348,
+      "n": 491,
+      "sj": "",
+      "se": "",
+      "jp": "「動くなっ！」",
+      "en": "Don't move!"
+    },
+    {
+      "id": "X11:0492",
+      "i": 349,
+      "n": 492,
+      "sj": "",
+      "se": "",
+      "jp": "　ホールに響き渡るだみ声の主は、看護室から飛び出して来たひげ面の男だった。",
+      "en": "The harsh voice echoing through the hall belonged to a bearded man charging from the nurses' station."
+    },
+    {
+      "id": "X11:0493",
+      "i": 350,
+      "n": 493,
+      "sj": "",
+      "se": "",
+      "jp": "　彼とその仲間たちは銃を構えながら、あたりを睨み付けている。",
+      "en": "He and his comrades aimed their guns and glared around."
+    },
+    {
+      "id": "X11:0494",
+      "i": 351,
+      "n": 494,
+      "sj": "",
+      "se": "",
+      "jp": "「職員は全員ホールに集まれ！　指示に従わないものはこの場で射殺するっ！　おい、そこの看護婦っ！　奥まで行って他の職員を呼んで来いっ」",
+      "en": "All staff gather in the hall! Anyone who disobeys will be shot on the spot! You there, nurse! Go to the back and bring every other employee here!"
+    },
+    {
+      "id": "X11:0495",
+      "i": 352,
+      "n": 495,
+      "sj": "藤原",
+      "se": "Fujiwara",
+      "jp": "「は、はいっ」",
+      "en": "Y-yes!"
+    },
+    {
+      "id": "X11:0496",
+      "i": 353,
+      "n": 496,
+      "sj": "",
+      "se": "",
+      "jp": "　怒鳴りつけられた藤原ナースは、へっぴりごしで立ち上がると、ホールを出て病室の方へヨタヨタと歩いて行った。",
+      "en": "Nurse Fujiwara shakily rose and staggered from the hall toward the patient rooms."
+    },
+    {
+      "id": "X11:0498",
+      "i": 354,
+      "n": 498,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「そこ。何をしているの」",
+      "en": "You there. What are you doing?"
+    },
+    {
+      "id": "X11:0499",
+      "i": 355,
+      "n": 499,
+      "sj": "",
+      "se": "",
+      "jp": "　ホールの片隅で御手洗の吸引を行っている<tips=83>美紗</tips>たちに鋭い声を発したのは<tips=67>カミラ</tips>だった。",
+      "en": "It was <tips=67>Camilla</tips> who sharply addressed <tips=83>Misa</tips>'s group performing suction in a corner of the hall."
+    },
+    {
+      "id": "X11:0500",
+      "i": 356,
+      "n": 500,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ふたりでお婆ちゃんをおさえつけるなんて、どういうこと？」",
+      "en": "Why are two of you restraining that old woman?"
+    },
+    {
+      "id": "X11:0501",
+      "i": 357,
+      "n": 501,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女は歩み寄りながら銃をあげ、<tips=83>美紗</tips>の頭に狙いをつけた。",
+      "en": "She approached, raised her gun, and aimed at <tips=83>Misa</tips>'s head."
+    },
+    {
+      "id": "X11:0502",
+      "i": 358,
+      "n": 502,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「誤嚥したので吸引を行っているんです！」",
+      "en": "She aspirated, so we are suctioning her airway!"
+    },
+    {
+      "id": "X11:0503",
+      "i": 359,
+      "n": 503,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は銃を向けられているのに気がついていたが、作業はとめず、振り返りもしない。",
+      "en": "<tips=83>Misa</tips> knew a gun was pointed at her but did not stop her work or turn around."
+    },
+    {
+      "id": "X11:0504",
+      "i": 360,
+      "n": 504,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ごえん？」",
+      "en": "Aspirated?"
+    },
+    {
+      "id": "X11:0505",
+      "i": 361,
+      "n": 505,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「ケーキをのどに詰まらせてるんだよ！　あんたらが来たからこんなことになったんだ！」",
+      "en": "Cake is stuck in her throat! This happened because you people came here!"
+    },
+    {
+      "id": "X11:0506",
+      "i": 362,
+      "n": 506,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>は真っ赤な顔でそう怒鳴る。",
+      "en": "<tips=93>Hayashida</tips> shouted, his face red."
+    },
+    {
+      "id": "X11:0507",
+      "i": 363,
+      "n": 507,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>はその剣幕に気圧されて一旦怯みをみせるが、すぐに舌打ちをして気を取り直し、銃口を<tips=83>美紗</tips>のこめかみにつけて、再度命じる。",
+      "en": "Taken aback by his force, <tips=67>Camilla</tips> faltered. She quickly clicked her tongue, recovered, pressed the muzzle to <tips=83>Misa</tips>'s temple, and repeated her order."
+    },
+    {
+      "id": "X11:0508",
+      "i": 364,
+      "n": 508,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「乱暴はやめなさい！　嫌がってるでしょう？」",
+      "en": "Stop abusing her! She doesn't want this!"
+    },
+    {
+      "id": "X11:0509",
+      "i": 365,
+      "n": 509,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「邪魔しないでください。何か詰まっていたら、大変なことになってしまうこともあるんです」",
+      "en": "Don't interfere. If something is lodged there, the consequences could be serious."
+    },
+    {
+      "id": "X11:0510",
+      "i": 366,
+      "n": 510,
+      "sj": "",
+      "se": "",
+      "jp": "　恐ろしい状況のはずだが、<tips=83>美紗</tips>は患者の様子をみるのに精一杯で、不思議とそこまでの恐怖を感じなかった。",
+      "en": "It should have been terrifying, but <tips=83>Misa</tips> was too focused on the patient to feel much fear."
+    },
+    {
+      "id": "X11:0511",
+      "i": 367,
+      "n": 511,
+      "sj": "",
+      "se": "",
+      "jp": "「おい、お嬢ちゃん、どうした？」",
+      "en": "Hey, little lady, what's happening?"
+    },
+    {
+      "id": "X11:0512",
+      "i": 368,
+      "n": 512,
+      "sj": "",
+      "se": "",
+      "jp": "　部下が遠くから近づいて来る。",
+      "en": "A subordinate approached from across the hall."
+    },
+    {
+      "id": "X11:0513",
+      "i": 369,
+      "n": 513,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「いえ、なんでもないわ。向こうを見ていて」",
+      "en": "Nothing. Watch over there."
+    },
+    {
+      "id": "X11:0514",
+      "i": 370,
+      "n": 514,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は手を振って追い払う。",
+      "en": "<tips=67>Camilla</tips> waved him away."
+    },
+    {
+      "id": "X11:0515",
+      "i": 371,
+      "n": 515,
+      "sj": "",
+      "se": "",
+      "jp": "　その時、<tips=83>美紗</tips>の握っているノズルの先端がブルブルと震え、そして何かを吸い込んだ。",
+      "en": "At that moment, the tip of the nozzle in <tips=83>Misa</tips>'s hand trembled and sucked something in."
+    },
+    {
+      "id": "X11:0516",
+      "i": 372,
+      "n": 516,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あっ」",
+      "en": "Ah!"
+    },
+    {
+      "id": "X11:0517",
+      "i": 373,
+      "n": 517,
+      "sj": "",
+      "se": "",
+      "jp": "　それはホースを伝い、タンクに入ってグルグルと回転する。その黄色い塊は、ケーキのスポンジ部分だろう。",
+      "en": "It traveled through the hose and spun inside the collection chamber. The yellow lump appeared to be cake sponge."
+    },
+    {
+      "id": "X11:0518",
+      "i": 374,
+      "n": 518,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=93>林田</tips>さん、出ました！」",
+      "en": "Mr. <tips=93>Hayashida</tips>, it came out!"
+    },
+    {
+      "id": "X11:0519",
+      "i": 375,
+      "n": 519,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>の報告に<tips=93>林田</tips>は無言で頷く。",
+      "en": "At <tips=83>Misa</tips>'s report, <tips=93>Hayashida</tips> nodded silently."
+    },
+    {
+      "id": "X11:0520",
+      "i": 376,
+      "n": 520,
+      "sj": "",
+      "se": "",
+      "jp": "　それからしばらく吸ったが何も出ない。<tips=83>美紗</tips>はノズルを引き抜いて、そして机の上に置いてあったお手ふきでよだれまみれの老婆の口のまわりを拭った。",
+      "en": "They continued suction for some time, but nothing more emerged. <tips=83>Misa</tips> removed the nozzle and wiped the drool from the old woman's mouth with a hand towel from the table."
+    },
+    {
+      "id": "X11:0521",
+      "i": 377,
+      "n": 521,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「血が出てるじゃない」",
+      "en": "She's bleeding."
+    },
+    {
+      "id": "X11:0522",
+      "i": 378,
+      "n": 522,
+      "sj": "",
+      "se": "",
+      "jp": "　お手ふきにピンク色のものが付着したのを見て、<tips=67>カミラ</tips>が呟く。",
+      "en": "Seeing pink on the towel, <tips=67>Camilla</tips> murmured."
+    },
+    {
+      "id": "X11:0523",
+      "i": 379,
+      "n": 523,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「御手洗さん。どう？　声が出る？」",
+      "en": "Mrs. Mitarai, how are you? Can you speak?"
+    },
+    {
+      "id": "X11:0524",
+      "i": 380,
+      "n": 524,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は<tips=67>カミラ</tips>を無視して御手洗にそう話しかける。",
+      "en": "Ignoring <tips=67>Camilla</tips>, <tips=83>Misa</tips> addressed Mitarai."
+    },
+    {
+      "id": "X11:0525",
+      "i": 381,
+      "n": 525,
+      "sj": "",
+      "se": "",
+      "jp": "　御手洗は<tips=83>美紗</tips>に視線をやると、",
+      "en": "Mitarai looked at <tips=83>Misa</tips>."
+    },
+    {
+      "id": "X11:0526",
+      "i": 382,
+      "n": 526,
+      "sj": "",
+      "se": "",
+      "jp": "「<tips=83>能見</tips>さん、折り紙ちょうだいよ」",
+      "en": "Ms. <tips=83>Nomi</tips>, give me some origami paper."
+    },
+    {
+      "id": "X11:0527",
+      "i": 383,
+      "n": 527,
+      "sj": "",
+      "se": "",
+      "jp": "　と、懇願した。",
+      "en": "She pleaded."
+    },
+    {
+      "id": "X11:0528",
+      "i": 384,
+      "n": 528,
+      "sj": "",
+      "se": "",
+      "jp": "　それは明瞭な声で、<tips=83>美紗</tips>と<tips=93>林田</tips>がほっと溜息をつくのが重なる。",
+      "en": "Her voice was clear. <tips=83>Misa</tips> and <tips=93>Hayashida</tips> released overlapping sighs of relief."
+    },
+    {
+      "id": "X11:0529",
+      "i": 385,
+      "n": 529,
+      "sj": "",
+      "se": "",
+      "jp": "「折り紙ちょうだい。今日はお父さんが迎えに来るから鶴を折らなきゃいけないんだ」　",
+      "en": "Give me origami paper. Father is coming to get me today, so I have to fold him a crane."
+    },
+    {
+      "id": "X11:0530",
+      "i": 386,
+      "n": 530,
+      "sj": "",
+      "se": "",
+      "jp": "　眉間に皺を寄せて、唇を細めて子供のように訴える御手洗の頭を<tips=83>美紗</tips>はくしゃっと撫でて、",
+      "en": "Mitarai frowned and pursed her lips, pleading like a child. <tips=83>Misa</tips> affectionately tousled her hair."
+    },
+    {
+      "id": "X11:0531",
+      "i": 387,
+      "n": 531,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あとであげるから、お部屋に戻っててね」",
+      "en": "I'll give you some later. Please return to your room for now."
+    },
+    {
+      "id": "X11:0532",
+      "i": 388,
+      "n": 532,
+      "sj": "",
+      "se": "",
+      "jp": "　御手洗が何事もなかったように歩いて行くのを見守って、<tips=83>美紗</tips>は苦笑して立ち上がる。",
+      "en": "Watching Mitarai walk away as though nothing had happened, <tips=83>Misa</tips> rose with a wry smile."
+    },
+    {
+      "id": "X11:0533",
+      "i": 389,
+      "n": 533,
+      "sj": "",
+      "se": "",
+      "jp": "　本来ならば血圧や体温なども測りたいところだが、あれだけしっかりしていれば大丈夫だろうし、さすがにこの状況では難しい。",
+      "en": "Ordinarily, she would have wanted to check blood pressure and temperature as well. But the woman's clear speech suggested she was fine, and the present circumstances made further examination impossible."
+    },
+    {
+      "id": "X11:0534",
+      "i": 390,
+      "n": 534,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「おい、どこへ行くつもりだ」",
+      "en": "Where do you think you're going?"
+    },
+    {
+      "id": "X11:0535",
+      "i": 391,
+      "n": 535,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は銃を突きつけたまま低い声でそう脅す。",
+      "en": "Still aiming the gun, <tips=67>Camilla</tips> threatened her in a low voice."
+    },
+    {
+      "id": "X11:0536",
+      "i": 392,
+      "n": 536,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「掃除機を片付けてノズルを洗浄するんです」",
+      "en": "To put away the suction machine and clean the nozzle."
+    },
+    {
+      "id": "X11:0537",
+      "i": 393,
+      "n": 537,
+      "sj": "",
+      "se": "",
+      "jp": "　そうしてまっすぐ<tips=67>カミラ</tips>を見た<tips=83>美紗</tips>は、そこではじめて相手が金色の目をしていることに気がつく。",
+      "en": "When <tips=83>Misa</tips> looked directly at <tips=67>Camilla</tips>, she noticed for the first time that the other woman's eyes were gold."
+    },
+    {
+      "id": "X11:0538",
+      "i": 394,
+      "n": 538,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「そんなことはしなくていい。この病院は今日で閉鎖するんだから」",
+      "en": "You don't need to. This hospital is closing today."
+    },
+    {
+      "id": "X11:0539",
+      "i": 395,
+      "n": 539,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「どういうことなんだ？　あんたたちは一体何がしたいんだ？　こんな滅茶苦茶なことをして……」",
+      "en": "What do you mean? What are you people trying to do? After causing all this madness..."
+    },
+    {
+      "id": "X11:0540",
+      "i": 396,
+      "n": 540,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>は憤りを露わにして詰め寄った。<tips=67>カミラ</tips>は<tips=83>美紗</tips>に向けていた銃口をそちらに向け、",
+      "en": "<tips=93>Hayashida</tips> approached in open anger. <tips=67>Camilla</tips> shifted the gun from <tips=83>Misa</tips> toward him."
+    },
+    {
+      "id": "X11:0541",
+      "i": 397,
+      "n": 541,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「近づいたら撃つ」",
+      "en": "Come closer and I'll shoot."
+    },
+    {
+      "id": "X11:0542",
+      "i": 398,
+      "n": 542,
+      "sj": "",
+      "se": "",
+      "jp": "　そして一歩下がって距離をとると、",
+      "en": "She stepped back to open the distance."
+    },
+    {
+      "id": "X11:0543",
+      "i": 399,
+      "n": 543,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「さっき放送で言ったとおりよ。私たちはこの街で不当に虐げられている<tips=17>タイプB</tips>を救うために活動を行っている。今日は、ここに囚われている同胞たちを解放しに来たの」",
+      "en": "As I said in the announcement, we work to save the <tips=17>Type B</tips> people unjustly oppressed in this town. Today, we have come to liberate our brethren imprisoned here."
+    },
+    {
+      "id": "X11:0544",
+      "i": 400,
+      "n": 544,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「解放って、何を言っているんですか？　ここの患者さんたちは、誰かの助けを借りなくてはとても生きていけない人ばっかりなんですよ？　意味もなく鍵のかかった病棟に入れているわけじゃありません。これは保護なんです」",
+      "en": "Liberate? What are you talking about? These patients cannot possibly survive without help. They aren't held in locked wards for no reason. This is protection."
+    },
+    {
+      "id": "X11:0545",
+      "i": 401,
+      "n": 545,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「私たちは大量の『<tips=46>ネオ・ローズ</tips>』を用意してきた」",
+      "en": "We brought a large supply of <tips=46>Neo-Rose</tips>."
+    },
+    {
+      "id": "X11:0546",
+      "i": 402,
+      "n": 546,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は冷たく言い放ち、興奮気味に訴える<tips=83>美紗</tips>に銃口を戻す。",
+      "en": "<tips=67>Camilla</tips> coldly returned the muzzle to <tips=83>Misa</tips>, who was arguing with rising emotion."
+    },
+    {
+      "id": "X11:0547",
+      "i": 403,
+      "n": 547,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「みな理性を取り戻し、人間に戻るわ。そうなれば、もうお前らに動物のように飼育される必要はない」",
+      "en": "They will regain their reason and become human again. Then they will no longer need you to keep them like animals."
+    },
+    {
+      "id": "X11:0548",
+      "i": 404,
+      "n": 548,
+      "sj": "",
+      "se": "",
+      "jp": "　そして<tips=67>カミラ</tips>は銃口をしゃくって部屋の隅に行くよう指示し、",
+      "en": "<tips=67>Camilla</tips> gestured with the gun, ordering them toward a corner."
+    },
+    {
+      "id": "X11:0549",
+      "i": 405,
+      "n": 549,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「そこで待っていろ。変な動きをしたらすぐに射殺する」",
+      "en": "Wait there. Make a strange move and I will shoot you immediately."
+    },
+    {
+      "id": "X11:0551",
+      "i": 406,
+      "n": 551,
+      "sj": "",
+      "se": "",
+      "jp": "　言い捨てて、仲間たちの方へ歩いて行った。",
+      "en": "With those words, she walked toward her comrades."
+    },
+    {
+      "id": "X11:0553",
+      "i": 407,
+      "n": 553,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>と<tips=93>林田</tips>は目線を合わせると無言で頷きあい、<tips=67>カミラ</tips>に言われた通りのろのろとホールの隅の方へ移動する。",
+      "en": "<tips=83>Misa</tips> and <tips=93>Hayashida</tips> exchanged a look, nodded silently, and slowly moved toward the corner as <tips=67>Camilla</tips> had ordered."
+    },
+    {
+      "id": "X11:0554",
+      "i": 408,
+      "n": 554,
+      "sj": "",
+      "se": "",
+      "jp": "　その時、ちらと看護室の方へ目をやると、やはり血みどろの光景が目に入る。<tips=94>吉田主任</tips>はやっぱり死んでしまったんだろうか？　なんだか頭の一部が麻痺したようで、何もかもに現実感が感じられず、まるで悪夢を見ているような気分だった。",
+      "en": "Glancing toward the nurses' station, they again saw the bloody scene. Was <tips=94>Head Nurse Yoshida</tips> truly dead? Part of Misa's mind felt numb. Nothing seemed real, as if this were a nightmare."
+    },
+    {
+      "id": "X11:0557",
+      "i": 409,
+      "n": 557,
+      "sj": "",
+      "se": "",
+      "jp": "　職員たちは全員ホールに集められた。看護師も、看護助手も、たまたま診察をしていた医師も。三階だけではない。二階と四階の職員も、銃で脅されながらここへやって来た。中には肩を撃ち抜かれて血みどろになっている職員などもいる。別の看護師が、応急処置をしたいと訴え出たがその意見は黙殺された。",
+      "en": "Every employee was gathered in the hall: nurses, aides, and even a doctor who happened to be examining patients. They came not only from the third floor, but from the second and fourth under armed threat. One employee's shoulder had been shot through, leaving him drenched in blood. Another nurse asked to provide first aid, but the request was ignored."
+    },
+    {
+      "id": "X11:0558",
+      "i": 410,
+      "n": 558,
+      "sj": "",
+      "se": "",
+      "jp": "　六人の襲撃者もこのホールに全員集合している。彼らは<tips=67>カミラ</tips>を中心になにかこそこそと話し合っている。患者たちにはホールに来ないよう言っていたが、彼女たちはいってわかるような相手ではなく、しばしばホールに入って来ようとするのを襲撃者たちは怒鳴って追い返しながら相談を続けた。何を話しているのかはこちらまで届かない。",
+      "en": "All six attackers had also gathered in the hall. They whispered together around <tips=67>Camilla</tips>. The patients had been told not to enter, but many could not understand. As they repeatedly wandered into the hall, the attackers shouted them away and continued their discussion beyond the staff's hearing."
+    },
+    {
+      "id": "X11:0559",
+      "i": 411,
+      "n": 559,
+      "sj": "",
+      "se": "",
+      "jp": "　これからどうするつもりなのだろうかと<tips=83>美紗</tips>は思った。恐怖よりも困惑が心を支配していた。一方、隣では<tips=92>水村ナース</tips>が顔を両手で覆って泣いている。",
+      "en": "What would they do next? <tips=83>Misa</tips> wondered. Confusion ruled her heart more than fear. Beside her, <tips=92>Nurse Mizumura</tips> covered her face with both hands and wept."
+    },
+    {
+      "id": "X11:0560",
+      "i": 412,
+      "n": 560,
+      "sj": "",
+      "se": "",
+      "jp": "　他の階では<tips=94>吉田主任</tips>の他にも人死にが出ているらしい。彼らは殺人を躊躇しないのだ。襲撃者たちはずっと金色の目を保っているが、症状が出ているようではない。おそらく彼らも『<tips=46>ネオ・ローズ</tips>』を使っているのだろう。",
+      "en": "Apparently others besides <tips=94>Head Nurse Yoshida</tips> had died on the other floors. These attackers did not hesitate to kill. Their eyes remained gold, but they showed no symptoms. They were probably using <tips=46>Neo-Rose</tips> themselves."
+    },
+    {
+      "id": "X11:0561",
+      "i": 413,
+      "n": 561,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=17>タイプB</tips>を正気に戻す魔法の薬。そういうものが街で流行しはじめていることは<tips=83>美紗</tips>も知っている。",
+      "en": "The magical medicine that restored <tips=17>Type B</tips> people to sanity. <tips=83>Misa</tips> knew it had begun spreading through town."
+    },
+    {
+      "id": "X11:0562",
+      "i": 414,
+      "n": 562,
+      "sj": "",
+      "se": "",
+      "jp": "　とるべき手段はない。<tips=95>金眼現象</tips>があらわれているときは筋力も反射神経も上昇し、おまけに銃まで持っている。これでは、いくら相手が少ないとは言えノーマルが束になってもかなわない。逃げ出しても無駄だろう。",
+      "en": "There was nothing they could do. When the <tips=95>Golden-Eye Phenomenon</tips> appeared, strength and reflexes increased, and the attackers had guns besides. Though few in number, no mass of Normals could overcome them. Escape would be futile."
+    },
+    {
+      "id": "X11:0563",
+      "i": 415,
+      "n": 563,
+      "sj": "",
+      "se": "",
+      "jp": "　やがて襲撃者たちの話がまとまったらしく、<tips=67>カミラ</tips>が職員たちの方を振り返った。",
+      "en": "At length, the attackers seemed to reach an agreement, and <tips=67>Camilla</tips> turned toward the staff."
+    },
+    {
+      "id": "X11:0564",
+      "i": 416,
+      "n": 564,
+      "sj": "",
+      "se": "",
+      "jp": "　そして何か言おうとしたとき、廊下の向こうからパタパタと足音がして、太った患者が入って来た。",
+      "en": "Just as she began to speak, pattering footsteps came from the corridor and an overweight patient entered."
+    },
+    {
+      "id": "X11:0565",
+      "i": 417,
+      "n": 565,
+      "sj": "",
+      "se": "",
+      "jp": "　三十五才の、この病棟では比較的知性が残っている「優等生グループ」の一人廣田真奈美である。",
+      "en": "She was thirty-five-year-old Manami Hirota, one of the ward's \"star patients,\" whose intellect remained relatively intact."
+    },
+    {
+      "id": "X11:0566",
+      "i": 418,
+      "n": 566,
+      "sj": "廣田真奈美",
+      "se": "Manami Hirota",
+      "jp": "「<tips=82>内田</tips>さんが、う、う、<tips=82>内田</tips>さんが……」",
+      "en": "Ms. <tips=82>Uchida</tips>, M-Ms. <tips=82>Uchida</tips>..."
+    },
+    {
+      "id": "X11:0567",
+      "i": 419,
+      "n": 567,
+      "sj": "",
+      "se": "",
+      "jp": "　廣田は廊下の向こうを指さしながら、職員の方に向かって同じことを繰り返した。",
+      "en": "Pointing down the corridor, Hirota repeated the same words toward the staff."
+    },
+    {
+      "id": "X11:0568",
+      "i": 420,
+      "n": 568,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「どうしたの？」",
+      "en": "What happened?"
+    },
+    {
+      "id": "X11:0569",
+      "i": 421,
+      "n": 569,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>が尋ねると、廣田はそちらに向き直って、",
+      "en": "When <tips=67>Camilla</tips> asked, Hirota turned to her."
+    },
+    {
+      "id": "X11:0570",
+      "i": 422,
+      "n": 570,
+      "sj": "廣田真奈美",
+      "se": "Manami Hirota",
+      "jp": "「む、むこうでうんち漏らしちゃってるんです！」",
+      "en": "Sh-she had an accident over there!"
+    },
+    {
+      "id": "X11:0571",
+      "i": 423,
+      "n": 571,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「うんち！？」",
+      "en": "An accident?!"
+    },
+    {
+      "id": "X11:0572",
+      "i": 424,
+      "n": 572,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は驚きの声をあげる。",
+      "en": "<tips=67>Camilla</tips> cried out in surprise."
+    },
+    {
+      "id": "X11:0573",
+      "i": 425,
+      "n": 573,
+      "sj": "廣田真奈美",
+      "se": "Manami Hirota",
+      "jp": "「そ、それで、落ち着かなくて泣いちゃって、どうしようもなくて……」",
+      "en": "A-and she won't calm down. She's crying, and no one can do anything..."
+    },
+    {
+      "id": "X11:0574",
+      "i": 426,
+      "n": 574,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「すみません！」",
+      "en": "Excuse me!"
+    },
+    {
+      "id": "X11:0575",
+      "i": 427,
+      "n": 575,
+      "sj": "",
+      "se": "",
+      "jp": "　声をあげたのは、<tips=83>美紗</tips>だ。",
+      "en": "It was <tips=83>Misa</tips> who called out."
+    },
+    {
+      "id": "X11:0576",
+      "i": 428,
+      "n": 576,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=82>内田広美</tips>は彼女の受け持ちの患者だった。",
+      "en": "<tips=82>Hiromi Uchida</tips> was one of her assigned patients."
+    },
+    {
+      "id": "X11:0577",
+      "i": 429,
+      "n": 577,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=82>内田</tips>さんは人見知りが強くって、三階の職員以外だと暴れるんです。私が処置していいですか？」",
+      "en": "Ms. <tips=82>Uchida</tips> is extremely shy. She becomes violent with anyone but the third-floor staff. May I attend to her?"
+    },
+    {
+      "id": "X11:0578",
+      "i": 430,
+      "n": 578,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「何もしなくていいわ。その人見知りも症状なんでしょう？　それなら、『<tips=46>ネオ・ローズ</tips>』を使えばすぐに正気に戻るはず」",
+      "en": "You don't need to do anything. That shyness is another symptom, isn't it? Then <tips=46>Neo-Rose</tips> should immediately restore her sanity."
+    },
+    {
+      "id": "X11:0579",
+      "i": 431,
+      "n": 579,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あなたたちに、便まみれの患者を落ち着けて、身体を清潔にしてあげながら、注射を打つことが出来るんですか？」",
+      "en": "Can you calm a patient covered in feces, clean her body, and administer an injection at the same time?"
+    },
+    {
+      "id": "X11:0580",
+      "i": 432,
+      "n": 580,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>能見</tips>が食い下がると、<tips=67>カミラ</tips>たちはさすがに口ごもって顔を顰める。",
+      "en": "When <tips=83>Nomi</tips> pressed the point, <tips=67>Camilla</tips> and the others fell silent and grimaced."
+    },
+    {
+      "id": "X11:0581",
+      "i": 433,
+      "n": 581,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「わかった。作業をする人だけこっちに来なさい」",
+      "en": "Very well. Only the people doing the work may come."
+    },
+    {
+      "id": "X11:0582",
+      "i": 434,
+      "n": 582,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「私一人じゃ無理です」",
+      "en": "I can't manage alone."
+    },
+    {
+      "id": "X11:0583",
+      "i": 435,
+      "n": 583,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「それなら、あと二人来て良いわ。はやくして」",
+      "en": "Then two others may come. Hurry."
+    },
+    {
+      "id": "X11:0584",
+      "i": 436,
+      "n": 584,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>の言葉に<tips=83>美紗</tips>は振り返り、<tips=92>水村ナース</tips>の方を見る。彼女も、普段通りの仕事を指示すれば少しは落ち着くだろうか？",
+      "en": "At <tips=67>Camilla</tips>'s words, <tips=83>Misa</tips> turned toward <tips=92>Nurse Mizumura</tips>. Would assigning her familiar work help calm her?"
+    },
+    {
+      "id": "X11:0585",
+      "i": 437,
+      "n": 585,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=92>水村</tips>さん、一緒に来て。……それから、<tips=93>林田</tips>さんも」",
+      "en": "Ms. <tips=92>Mizumura</tips>, come with me... And you too, Mr. <tips=93>Hayashida</tips>."
+    },
+    {
+      "id": "X11:0586",
+      "i": 438,
+      "n": 586,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「わかった」",
+      "en": "All right."
+    },
+    {
+      "id": "X11:0587",
+      "i": 439,
+      "n": 587,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>は頷くが、<tips=92>水村ナース</tips>は返事をしない。その肩を叩くと、びくっと身体全体を震わせる。",
+      "en": "<tips=93>Hayashida</tips> nodded, but <tips=92>Nurse Mizumura</tips> did not answer. When Misa touched her shoulder, her whole body jumped."
+    },
+    {
+      "id": "X11:0588",
+      "i": 440,
+      "n": 588,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=92>水村</tips>さん、<tips=82>ヒロちゃん</tips>がやらかしちゃったの。一緒に来て」",
+      "en": "Ms. <tips=92>Mizumura</tips>, <tips=82>Hiro-chan</tips> has had an accident. Come with us."
+    },
+    {
+      "id": "X11:0589",
+      "i": 441,
+      "n": 589,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>はその手を握り、半ば引っ張るようにして彼女と共に駆け出す。",
+      "en": "<tips=83>Misa</tips> took her hand and ran, half pulling her along."
+    },
+    {
+      "id": "X11:0596",
+      "i": 442,
+      "n": 596,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「どこ？」",
+      "en": "Where?"
+    },
+    {
+      "id": "X11:0597",
+      "i": 443,
+      "n": 597,
+      "sj": "廣田真奈美",
+      "se": "Manami Hirota",
+      "jp": "「の、<tips=83>能見</tips>さん、あっちです」",
+      "en": "M-Ms. <tips=83>Nomi</tips>, over there."
+    },
+    {
+      "id": "X11:0598",
+      "i": 444,
+      "n": 598,
+      "sj": "",
+      "se": "",
+      "jp": "　廣田が指さすと、廊下の上に座り込んでいる<tips=82>広美</tips>の姿が目に入った。",
+      "en": "When Hirota pointed, they saw <tips=82>Hiromi</tips> sitting in the corridor."
+    },
+    {
+      "id": "X11:0599",
+      "i": 445,
+      "n": 599,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>たち三人がそちらへ向かうと、<tips=67>カミラ</tips>も一緒について来る。",
+      "en": "As <tips=83>Misa</tips> and the other two headed toward her, <tips=67>Camilla</tips> followed."
+    },
+    {
+      "id": "X11:0600",
+      "i": 446,
+      "n": 600,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=82>内田広美</tips>はまだ十代の、この階でもっとも若い患者だ。本来ならば花も恥じらう年頃であるが、その症状は重く、精神状態はよくない。下半身がまったくの裸という状態で廊下の上に座り込んでいる。リノリウムの床の上にも、脱ぎ散らかしたズボンとパンツにも、彼女の尻や足にもべっとりと便が付着していた。そして、泣きながら両手で粘土のように便を練っている。",
+      "en": "<tips=82>Hiromi Uchida</tips>, still in her teens, was the youngest patient on the floor. She should have been in the flower of youth, but her symptoms were severe and her mental condition poor. She sat in the corridor naked from the waist down. Feces smeared the linoleum floor, her discarded trousers and underwear, and her buttocks and legs. Weeping, she kneaded it between both hands like clay."
+    },
+    {
+      "id": "X11:0601",
+      "i": 447,
+      "n": 601,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>はそれを見て、露骨に顔を顰めた。",
+      "en": "At the sight, <tips=67>Camilla</tips> grimaced openly."
+    },
+    {
+      "id": "X11:0602",
+      "i": 448,
+      "n": 602,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「<tips=82>ヒロちゃん</tips>。うんち触っちゃだめだよ。汚れちゃうから」",
+      "en": "<tips=82>Hiro-chan</tips>, don't touch that. You'll get dirty."
+    },
+    {
+      "id": "X11:0603",
+      "i": 449,
+      "n": 603,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>はポケットにいつも何枚か入れている使い捨てのゴム手袋を手に装着しながら彼女の前にかがみ込んだ。",
+      "en": "<tips=83>Misa</tips> pulled on disposable rubber gloves, several pairs of which she always carried, and crouched before her."
+    },
+    {
+      "id": "X11:0604",
+      "i": 450,
+      "n": 604,
+      "sj": "林田雄一",
+      "se": "Yuichi Hayashida",
+      "jp": "「おれ、紙と着替えをとってくるよ」",
+      "en": "I'll get paper and clean clothes."
+    },
+    {
+      "id": "X11:0605",
+      "i": 451,
+      "n": 605,
+      "sj": "",
+      "se": "",
+      "jp": "　そこは丁度倉庫の前だったので、<tips=93>林田</tips>はポケットから鍵を取り出すとそのドアを開けて中へ入って行く。",
+      "en": "They happened to be beside the storeroom. <tips=93>Hayashida</tips> took a key from his pocket, opened the door, and went inside."
+    },
+    {
+      "id": "X11:0606",
+      "i": 452,
+      "n": 606,
+      "sj": "",
+      "se": "",
+      "jp": "　その間に<tips=83>美紗</tips>と<tips=92>水村ナース</tips>は<tips=82>広美</tips>の衣服を脱がしにかかる。",
+      "en": "Meanwhile, <tips=83>Misa</tips> and <tips=92>Nurse Mizumura</tips> began removing <tips=82>Hiromi</tips>'s clothes."
+    },
+    {
+      "id": "X11:0607",
+      "i": 453,
+      "n": 607,
+      "sj": "水村",
+      "se": "Maiko Mizumura",
+      "jp": "「全部ダメ？」",
+      "en": "Is all of it ruined?"
+    },
+    {
+      "id": "X11:0608",
+      "i": 454,
+      "n": 608,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「ダメです。脱がせましょう」",
+      "en": "Yes. Let's take everything off."
+    },
+    {
+      "id": "X11:0609",
+      "i": 455,
+      "n": 609,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=92>水村ナース</tips>はまだ涙顔だったが、その手はテキパキと動いている。<tips=93>林田</tips>の動きも素早く、倉庫から汚物を捨てるためのゴミ袋、『ケーヨーヘルパー』という湿らせて使う身体ふきを一箱、新聞紙、消毒液の入ったスプレー、それから<tips=82>広美</tips>の着替えの上下一式を持って来ると手に取りやすい場所に置いてくれた。",
+      "en": "<tips=92>Nurse Mizumura</tips>'s face was still wet with tears, but her hands moved efficiently. <tips=93>Hayashida</tips> moved quickly too, returning with a garbage bag for the waste, a box of moist body wipes called K-Yo Helper, newspaper, a spray bottle of disinfectant, and a complete clean outfit for <tips=82>Hiromi</tips>. He arranged everything within easy reach."
+    },
+    {
+      "id": "X11:0610",
+      "i": 456,
+      "n": 610,
+      "sj": "",
+      "se": "",
+      "jp": "　全ての衣服を脱ぎ全裸になった<tips=82>広美</tips>に、<tips=83>美紗</tips>と<tips=92>水村ナース</tips>の二人で話しかけ落ち着かせながら湿らせた身体ふきで肌に付着した便を拭い、汚れた身体ふきは広げた新聞紙の上に捨て、次々と新しいものに取り替える。",
+      "en": "Once <tips=82>Hiromi</tips> was completely undressed, <tips=83>Misa</tips> and <tips=92>Nurse Mizumura</tips> spoke soothingly while wiping the feces from her skin with damp body wipes. They discarded each used wipe on spread newspaper and constantly replaced it with a fresh one."
+    },
+    {
+      "id": "X11:0611",
+      "i": 457,
+      "n": 611,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=93>林田</tips>は身体ふきをつかって床を汚す便をかきあつめ、ゴミ袋に捨てて行く。この大きく丈夫な身体ふきは割合高価なもので、掃除などに使ってあまりにも大量に消費するとコストがかかると事務の方から怒られたりもするのを<tips=83>美紗</tips>は思い出したが、今更そんなことを気にしてもしかたないと内心で苦笑した。",
+      "en": "<tips=93>Hayashida</tips> used wipes to gather the feces from the floor and put it into the garbage bag. These large, durable wipes were relatively expensive, and administration sometimes complained if they used too many for cleaning. <tips=83>Misa</tips> remembered this and smiled inwardly at the absurdity of worrying about cost now."
+    },
+    {
+      "id": "X11:0613",
+      "i": 458,
+      "n": 613,
+      "sj": "",
+      "se": "",
+      "jp": "　現場には生々しい臭気が立ち上り、<tips=67>カミラ</tips>は顔を顰めている。彼女は顔を上げてふとまわりを見るが、この光景を見ているのはわずかのまともそうな患者だけで、他の多くは襲撃者にも失禁にも興味がなさそうに自室のベットの上で歌をうたったり、絵を描いたり、好きなことをしている。",
+      "en": "A raw stench rose from the scene, making <tips=67>Camilla</tips> grimace. She raised her head and looked around. Only a few relatively lucid patients were watching. Most showed no interest in either the attackers or the accident, and sang, drew pictures, or pursued their favorite activities on the beds in their rooms."
+    },
+    {
+      "id": "X11:0614",
+      "i": 459,
+      "n": 614,
+      "sj": "",
+      "se": "",
+      "jp": "　汚物を完全に拭いとり、新しい清潔な衣服に着替えさせると、<tips=83>美紗</tips>と<tips=92>水村ナース</tips>は溜息をついた。<tips=93>林田</tips>は汚物がのった新聞紙を丸めるとゴミ袋の上に捨て、その口を縛る。そして消毒液を床の上にスプレーしはじめた。",
+      "en": "When every trace of filth was removed and <tips=83>Misa</tips> and <tips=92>Nurse Mizumura</tips> dressed her in clean clothes, they sighed. <tips=93>Hayashida</tips> rolled up the soiled newspaper, put it in the bag, tied it shut, and began spraying disinfectant over the floor."
+    },
+    {
+      "id": "X11:0615",
+      "i": 460,
+      "n": 615,
+      "sj": "",
+      "se": "",
+      "jp": "　最後に消臭スプレーをあたりにふりまくと、廊下も患者もすっかり元の状態に戻る。",
+      "en": "A final cloud of deodorizing spray restored both corridor and patient to their original condition."
+    },
+    {
+      "id": "X11:0616",
+      "i": 461,
+      "n": 616,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「慣れたもんだね」",
+      "en": "You've certainly done this before."
+    },
+    {
+      "id": "X11:0617",
+      "i": 462,
+      "n": 617,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は言いながら、『<tips=46>ネオ・ローズ</tips>』の注射キットを<tips=83>美紗</tips>に差し出す。",
+      "en": "As she spoke, <tips=67>Camilla</tips> handed <tips=83>Misa</tips> a <tips=46>Neo-Rose</tips> injection kit."
+    },
+    {
+      "id": "X11:0618",
+      "i": 463,
+      "n": 618,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「このままでは注射出来ません。手を洗わせてください」",
+      "en": "I can't give an injection like this. Please let me wash my hands."
+    },
+    {
+      "id": "X11:0619",
+      "i": 464,
+      "n": 619,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>が頷くと、<tips=83>美紗</tips>は立ち上がってすぐそばにあった洗面所で手を拭い、手の指に消毒用アルコールをなすりつけた。",
+      "en": "When <tips=67>Camilla</tips> nodded, <tips=83>Misa</tips> rose, washed at the nearby basin, and rubbed disinfecting alcohol over her fingers."
+    },
+    {
+      "id": "X11:0620",
+      "i": 465,
+      "n": 620,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「これが『<tips=46>ネオ・ローズ</tips>』……」",
+      "en": "So this is <tips=46>Neo-Rose</tips>..."
+    },
+    {
+      "id": "X11:0621",
+      "i": 466,
+      "n": 621,
+      "sj": "",
+      "se": "",
+      "jp": "　こんな得体の知れぬものを患者に打っていいのか抵抗があったが、",
+      "en": "She resisted the idea of injecting a patient with something so unknown."
+    },
+    {
+      "id": "X11:0622",
+      "i": 467,
+      "n": 622,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「はやく打ちな。あなたたちもそれで、自分たちのこれまでの治療が間違っていたと理解するだろう」",
+      "en": "Hurry. Then you will understand that all your treatments until now were wrong."
+    },
+    {
+      "id": "X11:0623",
+      "i": 468,
+      "n": 623,
+      "sj": "",
+      "se": "",
+      "jp": "　銃口を向けて脅されては実行するほかなかった。",
+      "en": "Threatened at gunpoint, she had no choice but to proceed."
+    },
+    {
+      "id": "X11:0624",
+      "i": 469,
+      "n": 624,
+      "sj": "内田広美（入院金目）",
+      "se": "Hiromi Uchida",
+      "jp": "「いやだ、いやだ、いやだ！」",
+      "en": "No, no, no!"
+    },
+    {
+      "id": "X11:0625",
+      "i": 470,
+      "n": 625,
+      "sj": "",
+      "se": "",
+      "jp": "　注射の準備をすると<tips=82>広美</tips>が暴れ出す。",
+      "en": "When she prepared the injection, <tips=82>Hiromi</tips> began struggling."
+    },
+    {
+      "id": "X11:0626",
+      "i": 471,
+      "n": 626,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「どうしたんだ？」",
+      "en": "What's wrong?"
+    },
+    {
+      "id": "X11:0627",
+      "i": 472,
+      "n": 627,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「珍しいですね。普段、注射には無反応なのに……いつもと雰囲気が違うのを理解しているのかしら……」",
+      "en": "That's unusual. She normally doesn't react to injections... Perhaps she understands that the atmosphere is different today..."
+    },
+    {
+      "id": "X11:0628",
+      "i": 473,
+      "n": 628,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「いいから。無理矢理にでも注射しろ」",
+      "en": "Just do it. Inject her by force if necessary."
+    },
+    {
+      "id": "X11:0629",
+      "i": 474,
+      "n": 629,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は苦々しく顔を歪めて言った。",
+      "en": "<tips=67>Camilla</tips> spoke with a bitter grimace."
+    },
+    {
+      "id": "X11:0631",
+      "i": 475,
+      "n": 631,
+      "sj": "",
+      "se": "",
+      "jp": "　それに従い、<tips=93>林田</tips>が押さえつけて<tips=83>美紗</tips>が静脈に注射をする。看護師になって最初の職場であった循環器科でみっちりしこまれた彼女は若いながらに全ての手技に同僚からの定評があったが、注射や採血も手早い。あっという間に注射をやりとげてしまう。",
+      "en": "Obeying, <tips=93>Hayashida</tips> restrained the patient while <tips=83>Misa</tips> injected a vein. Her first nursing position in cardiology had drilled her thoroughly. Though young, coworkers respected every aspect of her technique, and she handled injections and blood draws rapidly. It was over in moments."
+    },
+    {
+      "id": "X11:0632",
+      "i": 476,
+      "n": 632,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「これで三十分もすれば、この子はもう症状から解放されているはずだ」",
+      "en": "Within thirty minutes, this girl should be free of her symptoms."
+    },
+    {
+      "id": "X11:0633",
+      "i": 477,
+      "n": 633,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は笑顔を浮かべて言う。",
+      "en": "<tips=67>Camilla</tips> smiled."
+    },
+    {
+      "id": "X11:0634",
+      "i": 478,
+      "n": 634,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>にはどうしても信じられない。不治の病と言われ、医療者にはどうすることも出来なかった病気なのだ。この<tips=82>内田広美</tips>は症状が重く、人格が荒廃してほとんど人間離れしてしまっている。",
+      "en": "<tips=83>Misa</tips> could not believe it. The disease was called incurable, beyond anything medicine could address. <tips=82>Hiromi Uchida</tips>'s symptoms were severe, her personality so deteriorated that she scarcely seemed human."
+    },
+    {
+      "id": "X11:0635",
+      "i": 479,
+      "n": 635,
+      "sj": "",
+      "se": "",
+      "jp": "　もし彼女が正気だったら、どんな性格で、どんな人柄だったのか——それを想像したことはこれまで何度もあったが、それがこんな注射一本で叶ってしまうものなのだろうか？",
+      "en": "What character and personality would she have if sane? Misa had wondered many times, but could a single injection truly grant the answer?"
+    },
+    {
+      "id": "X11:0636",
+      "i": 480,
+      "n": 636,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あの、処置室に行ってこれ捨てて来ていいですか？」",
+      "en": "May I take these to the treatment room and dispose of them?"
+    },
+    {
+      "id": "X11:0637",
+      "i": 481,
+      "n": 637,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=83>美紗</tips>は使い終わった注射器とアンプルの瓶を見せてそう尋ねた。",
+      "en": "<tips=83>Misa</tips> showed her the used syringe and ampoule."
+    },
+    {
+      "id": "X11:0638",
+      "i": 482,
+      "n": 638,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「その辺りのゴミ箱に捨てればいいじゃないか」",
+      "en": "Throw them in any nearby garbage can."
+    },
+    {
+      "id": "X11:0639",
+      "i": 483,
+      "n": 639,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「患者さんが悪戯するから、病棟のゴミ箱には捨てられません。医療廃棄物は専用のボックスがあるんです」",
+      "en": "Patients might play with them, so they can't go into a ward bin. Medical waste has a special container."
+    },
+    {
+      "id": "X11:0640",
+      "i": 484,
+      "n": 640,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「今更そんなことを気にしても仕方ないでしょうに」",
+      "en": "There is hardly any point worrying about that now."
+    },
+    {
+      "id": "X11:0641",
+      "i": 485,
+      "n": 641,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は苦い顔をしたが、結局許可を出した。",
+      "en": "<tips=67>Camilla</tips> grimaced, but ultimately granted permission."
+    },
+    {
+      "id": "X11:0642",
+      "i": 486,
+      "n": 642,
+      "sj": "",
+      "se": "",
+      "jp": "　見張りの<tips=67>カミラ</tips>と共に処置室に足を踏み入れる。針は専用のボックスにいれ、残りのシリンジやアンプルの瓶はペダルを踏んで、医療廃棄物用のゴミ箱に投げ入れた。",
+      "en": "With <tips=67>Camilla</tips> guarding her, Misa entered the treatment room. She placed the needle in its dedicated box, stepped on a pedal, and threw the remaining syringe and ampoule into the medical-waste bin."
+    },
+    {
+      "id": "X11:0643",
+      "i": 487,
+      "n": 643,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「これで終わりだね。ホールに戻りな」",
+      "en": "You're finished. Return to the hall."
+    },
+    {
+      "id": "X11:0644",
+      "i": 488,
+      "n": 644,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「あと、もう一つ」",
+      "en": "One more thing."
+    },
+    {
+      "id": "X11:0645",
+      "i": 489,
+      "n": 645,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「なんだ？」",
+      "en": "What?"
+    },
+    {
+      "id": "X11:0646",
+      "i": 490,
+      "n": 646,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「注射したあと落ち着かなかったから、ヒロミちゃんに頓服の薬を飲ませたいんです」",
+      "en": "Hiromi was agitated after the injection. I want to give her the medication she takes as needed."
+    },
+    {
+      "id": "X11:0647",
+      "i": 491,
+      "n": 647,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「すぐに『<tips=46>ネオ・ローズ</tips>』が効くから必要ないわ」",
+      "en": "<tips=46>Neo-Rose</tips> will work soon. She doesn't need it."
+    },
+    {
+      "id": "X11:0648",
+      "i": 492,
+      "n": 648,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「でもあの子、一度便失禁すると立て続けにやらかす癖があって。水を飲ませるだけでも気持ち的に落ち着いてよくなるんです」",
+      "en": "But after one bowel accident, she tends to have several in succession. Even giving her water helps settle her emotionally."
+    },
+    {
+      "id": "X11:0649",
+      "i": 493,
+      "n": 649,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「……わかった」",
+      "en": "...Very well."
+    },
+    {
+      "id": "X11:0650",
+      "i": 494,
+      "n": 650,
+      "sj": "",
+      "se": "",
+      "jp": "　先ほどの廊下の惨状を思い出したのか、<tips=67>カミラ</tips>は顔を顰めて頷いた。",
+      "en": "Perhaps remembering the corridor moments earlier, <tips=67>Camilla</tips> grimaced and nodded."
+    },
+    {
+      "id": "X11:0657",
+      "i": 495,
+      "n": 657,
+      "sj": "",
+      "se": "",
+      "jp": "　そして<tips=83>美紗</tips>は処置室から、隣の看護室に移動する。そこではじめて彼女は、<tips=94>吉田主任</tips>の死体を直接見ることとなった。",
+      "en": "<tips=83>Misa</tips> moved from the treatment room into the adjoining nurses' station. There she saw <tips=94>Head Nurse Yoshida</tips>'s corpse directly for the first time."
+    },
+    {
+      "id": "X11:0658",
+      "i": 496,
+      "n": 658,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「ああ……」",
+      "en": "Ah..."
+    },
+    {
+      "id": "X11:0659",
+      "i": 497,
+      "n": 659,
+      "sj": "",
+      "se": "",
+      "jp": "　息が止まりそうな衝撃で、そして涙がぽろぽろとこぼれ落ちた。",
+      "en": "The shock nearly stopped her breath, and tears spilled down her face."
+    },
+    {
+      "id": "X11:0660",
+      "i": 498,
+      "n": 660,
+      "sj": "",
+      "se": "",
+      "jp": "　あんなに優しく、みなのことをよく考えていた主任がどうしてこんなことに。",
+      "en": "How could this happen to a head nurse so kind and thoughtful toward everyone?"
+    },
+    {
+      "id": "X11:0661",
+      "i": 499,
+      "n": 661,
+      "sj": "",
+      "se": "",
+      "jp": "　嗚咽しながら、震える手でカウンターの下の棚から<tips=82>広美</tips>の落ち着かない時のために処方されている薬を一包取り出した。",
+      "en": "Sobbing, she used trembling hands to take from a shelf beneath the counter one packet of medication prescribed for <tips=82>Hiromi</tips>'s agitation."
+    },
+    {
+      "id": "X11:0668",
+      "i": 500,
+      "n": 668,
+      "sj": "",
+      "se": "",
+      "jp": "　そして<tips=82>広美</tips>のところへ戻った。",
+      "en": "Then she returned to <tips=82>Hiromi</tips>."
+    },
+    {
+      "id": "X11:0669",
+      "i": 501,
+      "n": 669,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女の目の前でコップの水道水に液状の薬を混ぜてやると、<tips=83>美紗</tips>が何も言う前から奪うようにコップを奪い取り、ごくごくと喉を鳴らして飲んだ。食べ物でも、薬でも、口から入るものを与えられるとなんでも夢中で飲み込むのが彼女の癖だ。",
+      "en": "She mixed the liquid medicine into a cup of tap water before the patient. Before <tips=83>Misa</tips> could say anything, Hiromi snatched the cup and gulped noisily. Whenever given anything to swallow, whether food or medicine, she habitually consumed it with total absorption."
+    },
+    {
+      "id": "X11:0670",
+      "i": 502,
+      "n": 670,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「これでおわり。あとはお部屋に帰って大人しくしてなさい」",
+      "en": "That's everything. Return to your room and stay quiet."
+    },
+    {
+      "id": "X11:0671",
+      "i": 503,
+      "n": 671,
+      "sj": "",
+      "se": "",
+      "jp": "　差し出すコップを受け取りながら<tips=83>美紗</tips>が言うと、<tips=82>広美</tips>は頷いて自分の病室へ戻っていった。",
+      "en": "As <tips=83>Misa</tips> accepted the returned cup, <tips=82>Hiromi</tips> nodded and went back to her room."
+    },
+    {
+      "id": "X11:0672",
+      "i": 504,
+      "n": 672,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「じゃあ、仲間のところへ戻るぞ」",
+      "en": "Now return to the others."
+    },
+    {
+      "id": "X11:0673",
+      "i": 505,
+      "n": 673,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>の言葉で、二人は廊下をホールの方へ歩き出す。",
+      "en": "At <tips=67>Camilla</tips>'s words, the two began walking toward the hall."
+    },
+    {
+      "id": "X11:0674",
+      "i": 506,
+      "n": 674,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「あの子はいつもあんな感じなの？」",
+      "en": "Is she always like that?"
+    },
+    {
+      "id": "X11:0675",
+      "i": 507,
+      "n": 675,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「そうです。今日はまだマシなほうで……。普段は保護室を出たり入ったりしていますから」",
+      "en": "Yes. Today was one of her better days... Ordinarily, she moves in and out of the seclusion room."
+    },
+    {
+      "id": "X11:0676",
+      "i": 508,
+      "n": 676,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「哀れなことだ。でも、それは今日でおしまいだ。これからは普通の子のように外で生活することが出来る。もうこんな病院は必要ないんだ」",
+      "en": "How pitiful. But that ends today. From now on, she can live outside like an ordinary girl. Hospitals like this are no longer necessary."
+    },
+    {
+      "id": "X11:0677",
+      "i": 509,
+      "n": 677,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「そうでしょうか」",
+      "en": "Is that truly so?"
+    },
+    {
+      "id": "X11:0678",
+      "i": 510,
+      "n": 678,
+      "sj": "",
+      "se": "",
+      "jp": "　意を決して<tips=83>美紗</tips>が立ち止まると、<tips=67>カミラ</tips>は振り返った。",
+      "en": "Summoning her resolve, <tips=83>Misa</tips> stopped. <tips=67>Camilla</tips> turned around."
+    },
+    {
+      "id": "X11:0679",
+      "i": 511,
+      "n": 679,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「『<tips=46>ネオ・ローズ</tips>』が本当に症状を消し去るなら、それで元の生活に戻る患者さんがたくさんいるのはわかります。でも、すぐに解決出来るとは思えません。<tips=82>ヒロちゃん</tips>はちっちゃい頃からここにいて、外の世界のことなんか何もしりませんから……」",
+      "en": "If <tips=46>Neo-Rose</tips> truly eliminates the symptoms, I understand that many patients can return to their former lives. But I don't believe everything can be solved immediately. <tips=82>Hiro-chan</tips> has been here since she was tiny. She knows nothing about the outside world..."
+    },
+    {
+      "id": "X11:0680",
+      "i": 512,
+      "n": 680,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「だからって、ここに閉じ込めておこうというのか？」",
+      "en": "So you would keep her locked up here?"
+    },
+    {
+      "id": "X11:0681",
+      "i": 513,
+      "n": 681,
+      "sj": "能見美紗",
+      "se": "Misa Nomi",
+      "jp": "「そうじゃないんです。出たあとのことをちゃんと考えているのか、知りたいんです。<tips=82>ヒロちゃん</tips>だけじゃありません。ここで何十年も暮らしたお婆ちゃんとかはどうなるんですか？　彼女たちは<tips=17>タイプB</tips>の症状だけじゃなく、認知症を患っているし、やっぱり世間のことなんか全然わからない。<tips=17>タイプB</tips>以外の病気に罹ってるひともたくさんいます。そうした人たちが社会に復帰するためには、どうしたって誰かの手伝いがいるんです。それに復帰が出来ないひとだって……そういうことをちゃんと考えているんですか？　そんな、銃なんか振り回して、全部をメチャクチャにして……」",
+      "en": "No. I want to know whether you've properly considered what happens after they leave. Not only <tips=82>Hiro-chan</tips>. What happens to the old women who have lived here for decades? They don't only have <tips=17>Type B</tips> symptoms. Some have dementia and understand nothing about society. Many have illnesses besides <tips=17>Type B</tips>. Those people will need someone's help to rejoin society. Some may never be able to... Have you thought about any of that? Instead, you wave guns around and destroy everything..."
+    },
+    {
+      "id": "X11:0682",
+      "i": 514,
+      "n": 682,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ごちゃごちゃとうるさいね」",
+      "en": "Enough of your tedious prattle."
+    },
+    {
+      "id": "X11:0683",
+      "i": 515,
+      "n": 683,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は首を横に振り、溜息をつく。",
+      "en": "<tips=67>Camilla</tips> shook her head and sighed."
+    },
+    {
+      "id": "X11:0685",
+      "i": 516,
+      "n": 685,
+      "sj": "",
+      "se": "",
+      "jp": "　そして真剣な顔で<tips=83>能見</tips>の額に銃を当て、",
+      "en": "With a serious expression, she pressed her gun against <tips=83>Nomi</tips>'s forehead."
+    },
+    {
+      "id": "X11:0686",
+      "i": 517,
+      "n": 686,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「私たちはもう決めたの。何があってもノーマルの手は借りないって」",
+      "en": "We have already decided. Whatever happens, we will never rely on Normals."
+    },
+    {
+      "id": "X11:0690",
+      "i": 518,
+      "n": 690,
+      "sj": "",
+      "se": "",
+      "jp": "　そして彼女は引き金を引いた。銃声が鳴り響き、ホールでは悲鳴が上がる。",
+      "en": "Then she pulled the trigger. A gunshot rang out, and screams rose from the hall."
+    },
+    {
+      "id": "X11:0699",
+      "i": 519,
+      "n": 699,
+      "sj": "",
+      "se": "",
+      "jp": "　襲撃者たちは残りの職員を一人残らず殺害したあと、動揺する患者たちを捕まえて『<tips=46>ネオ・ローズ</tips>』の投与をはじめた。",
+      "en": "After killing every remaining employee, the attackers caught the distraught patients and began administering <tips=46>Neo-Rose</tips>."
+    },
+    {
+      "id": "X11:0708",
+      "i": 520,
+      "n": 708,
+      "sj": "",
+      "se": "",
+      "jp": "　A棟に向かった<tips=10>道夫</tips>たちのチームは打ち合わせ通りの行動をとった。",
+      "en": "<tips=10>Michio</tips>'s team in Building A acted according to plan."
+    },
+    {
+      "id": "X11:0709",
+      "i": 521,
+      "n": 709,
+      "sj": "",
+      "se": "",
+      "jp": "　制圧して職員たちを一カ所に集めると、彼らに『<tips=46>ネオ・ローズ</tips>』のアンプルを渡して患者たちに投与させた。患者の扱いや注射の技術になれた彼らを使うことで、事態はスムーズに行われる。作業中に患者が妄想などに取り憑かれてパニックを起こしても、彼らはなだめるすべを知っていた。",
+      "en": "After seizing the building and gathering the staff in one place, they gave them ampoules of <tips=46>Neo-Rose</tips> and ordered them to administer it to the patients. Using people experienced in handling patients and giving injections made the process smooth. Even when delusions sent patients into panic, the staff knew how to soothe them."
+    },
+    {
+      "id": "X11:0710",
+      "i": 522,
+      "n": 710,
+      "sj": "",
+      "se": "",
+      "jp": "　それを見ながら<tips=10>道夫</tips>は、職員たちと患者の間にもある種の信頼関係が生まれているのを感じた。もちろん、病院や職員を憎むものもいたが、そうでないものも少なくはない。",
+      "en": "Watching, <tips=10>Michio</tips> sensed a kind of trust between staff and patients. Some patients certainly hated the hospital and its employees, but many did not."
+    },
+    {
+      "id": "X11:0711",
+      "i": 523,
+      "n": 711,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「地下室で拘束されていたような連中はともかく、ここの全員を解放する必要はあったのかな？　なんだか患者に対して、おれらが酷いことをしているみたいじゃないか」",
+      "en": "The people restrained in the basement are one thing, but did everyone here truly need liberation? It feels as though we're the ones mistreating the patients."
+    },
+    {
+      "id": "X11:0712",
+      "i": 524,
+      "n": 712,
+      "sj": "",
+      "se": "",
+      "jp": "　彼は傍らの<tips=66>紺太</tips>にぼんやりそう呟いた。",
+      "en": "He murmured vaguely to <tips=66>Konta</tips> beside him."
+    },
+    {
+      "id": "X11:0713",
+      "i": 525,
+      "n": 713,
+      "sj": "田中紺太",
+      "se": "Konta Tanaka",
+      "jp": "「それは、まだ彼らが症状にとらわれてるからじゃない？　『<tips=46>ネオ・ローズ</tips>』の効き目が出始めれば彼らも喜ぶって」",
+      "en": "Isn't that only because they're still trapped by their symptoms? Once <tips=46>Neo-Rose</tips> begins working, they'll be happy too."
+    },
+    {
+      "id": "X11:0714",
+      "i": 526,
+      "n": 714,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そうかな。散々使っておいてなんだけど、おれはまだどうも、この薬を信じ切れないんだよなあ」",
+      "en": "Maybe. After using so much of it, I shouldn't say this, but I still can't completely trust the drug."
+    },
+    {
+      "id": "X11:0715",
+      "i": 527,
+      "n": 715,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は溜息をつく。今更迷っていても仕方ないとは、わかっているのだが。",
+      "en": "<tips=10>Michio</tips> sighed. He knew it was far too late for doubts."
+    },
+    {
+      "id": "X11:0717",
+      "i": 528,
+      "n": 717,
+      "sj": "",
+      "se": "",
+      "jp": "　全員の患者に投与が終わると、職員たちはみな縛り上げて、管理棟に連れて行きそこで一カ所にまとめて見張ることになっている。そうして患者たちが『<tips=46>ネオ・ローズ</tips>』によって自分を取り戻すのを待ち、目覚めたら彼らと共に病院を脱出する。それが事前に決めた計画だった。",
+      "en": "Once every patient received a dose, the plan called for binding all staff, taking them to administration, and guarding them together. They would wait for <tips=46>Neo-Rose</tips> to restore the patients, then escape the hospital together when the patients awakened."
+    },
+    {
+      "id": "X11:0718",
+      "i": 529,
+      "n": 718,
+      "sj": "",
+      "se": "",
+      "jp": "　雨の中銃を突きつけて移動を終えたが、他のチームはまだ誰も職員をこちらに移動させていない。無線で連絡を取り、そこで<tips=10>道夫</tips>は他のチームが事前の作戦とは違う行動をとったことを知った。",
+      "en": "They completed the move at gunpoint through the rain, but no other team had brought its employees over. When he made radio contact, <tips=10>Michio</tips> learned that the other teams had deviated from the plan."
+    },
+    {
+      "id": "X11:0719",
+      "i": 530,
+      "n": 719,
+      "sj": "",
+      "se": "",
+      "jp": "　暴力的な患者を収容するC棟に向かった檜垣のチームは、制圧の際に患者がまとまって脱走をしたりし、それの対処をするのに手間取ったが、そろそろ終わる頃合いだそうだ。一方、女子病棟のB棟に向かった<tips=67>カミラ</tips>のチームは先に職員を殺してしまって、患者たちがパニックを起こして制御出来ず、遅々として薬の投与が進まないと言う。",
+      "en": "Higaki's team in Building C, which held violent patients, had been delayed when patients escaped in a group during the seizure, but was apparently nearing completion. In Building B's women's ward, however, <tips=67>Camilla</tips>'s team had killed the staff first. The patients panicked and became uncontrollable, bringing administration of the drug almost to a halt."
+    },
+    {
+      "id": "X11:0720",
+      "i": 531,
+      "n": 720,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「なんでそんなことをしたんだい？　それじゃあ時間がかかるに決まってるだろう」",
+      "en": "Why did you do that? Of course it will take longer now."
+    },
+    {
+      "id": "X11:0721",
+      "i": 532,
+      "n": 721,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はめまいを感じながら<tips=67>カミラ</tips>にそう言った。",
+      "en": "Dizzy with frustration, <tips=10>Michio</tips> confronted <tips=67>Camilla</tips>."
+    },
+    {
+      "id": "X11:0722",
+      "i": 533,
+      "n": 722,
+      "sj": "",
+      "se": "",
+      "jp": "『他に方法はありません。彼らは非協力的でした』",
+      "en": "There was no other choice. They refused to cooperate."
+    },
+    {
+      "id": "X11:0723",
+      "i": 534,
+      "n": 723,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>はあくまで正当性を主張して譲らない。",
+      "en": "<tips=67>Camilla</tips> refused to yield, insisting her actions were justified."
+    },
+    {
+      "id": "X11:0724",
+      "i": 535,
+      "n": 724,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は言い争うつもりはなかったので、すぐに仲間を何人か連れて応援に向かうことにした。",
+      "en": "<tips=10>Michio</tips> had no intention of arguing, so he immediately took several comrades and went to assist."
+    },
+    {
+      "id": "X11:0725",
+      "i": 536,
+      "n": 725,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「おい、お前は来なくて良いんだよ」",
+      "en": "Hey, you don't need to come."
+    },
+    {
+      "id": "X11:0726",
+      "i": 537,
+      "n": 726,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は付いてこようとする<tips=62>マリア</tips>に向かってそう言った。",
+      "en": "<tips=10>Michio</tips> addressed <tips=62>Maria</tips>, who tried to follow."
+    },
+    {
+      "id": "X11:0727",
+      "i": 538,
+      "n": 727,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「大丈夫、こっちはもうダレもこないから」",
+      "en": "It's okay. No one else will COME here."
+    },
+    {
+      "id": "X11:0728",
+      "i": 539,
+      "n": 728,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>はにっこり笑って言う。",
+      "en": "<tips=62>Maria</tips> smiled."
+    },
+    {
+      "id": "X11:0729",
+      "i": 540,
+      "n": 729,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「なんで？」",
+      "en": "Why not?"
+    },
+    {
+      "id": "X11:0730",
+      "i": 541,
+      "n": 730,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「ケイビインがクルといけないから<tips=62>マリア</tips>のこれって言ったんでしょ？　それなら、あいつらがいなければいいと思って、みんなやっつけてきた。<tips=62>マリア</tips>かしこいからほめろ」",
+      "en": "You said <tips=62>Maria</tips> should use this if the GUARDS came, right? So I thought it would be better if they weren't here, and I beat them all. <tips=62>Maria</tips> is clever. Praise me."
+    },
+    {
+      "id": "X11:0731",
+      "i": 542,
+      "n": 731,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は呆れ、溜息をつき、彼女を説得するのを諦めた。",
+      "en": "<tips=10>Michio</tips> stared in disbelief, sighed, and abandoned trying to persuade her."
+    },
+    {
+      "id": "X11:0740",
+      "i": 543,
+      "n": 740,
+      "sj": "",
+      "se": "",
+      "jp": "　そして駆けつけたB棟は目を覆いたくなるような地獄絵図だった。ホールには白衣を着た男女の射殺体が折り重なって転がり、遺体から流れ出た血液が床の大半を真っ赤に染めている。壁には誕生日会の飾り付けが銃弾で破壊されてぶらさがっている。病棟のあちこちから、女性患者が泣き叫ぶ金切り声と、隊員の怒声が聞こえてくる。そして顔を覆いたくなるほどの悪臭。",
+      "en": "Building B was a hellish sight from which he wanted to avert his eyes. Male and female bodies in white uniforms lay piled in the hall, their blood staining most of the floor red. Bullets had destroyed the birthday decorations, leaving them dangling from the walls. Shrill screams from female patients and fighters' angry shouts echoed throughout the ward, accompanied by a stench that made him want to cover his face."
+    },
+    {
+      "id": "X11:0741",
+      "i": 544,
+      "n": 741,
+      "sj": "",
+      "se": "",
+      "jp": "　そして良く見ると、職員たちの死体のなかに老婆が一人混じっている。近づいてみると、それも胸に銃弾を受けていた。",
+      "en": "Looking closer, he saw an old woman among the employees' corpses. A bullet had struck her chest."
+    },
+    {
+      "id": "X11:0742",
+      "i": 545,
+      "n": 742,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>が呆然と眺めているところに<tips=67>カミラ</tips>がやって来る。",
+      "en": "As <tips=10>Michio</tips> stared dumbfounded, <tips=67>Camilla</tips> approached."
+    },
+    {
+      "id": "X11:0743",
+      "i": 546,
+      "n": 743,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「いくら薬の効き目を説明しても理解しない患者が手こずらせています」",
+      "en": "The patients refuse to understand however often we explain the medicine. They are causing trouble."
+    },
+    {
+      "id": "X11:0744",
+      "i": 547,
+      "n": 744,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「そりゃ理解出来ないから入院してるんだろうに。……しっかし、随分派手にやったな。解放すべき患者さんまで殺してるじゃないか」",
+      "en": "They're hospitalized because they can't understand... You certainly made a spectacle. You even killed a patient you meant to liberate."
+    },
+    {
+      "id": "X11:0745",
+      "i": 548,
+      "n": 745,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ただの事故です。自分から射線に飛び込んで来たんですよ」",
+      "en": "It was an accident. She ran into the line of fire herself."
+    },
+    {
+      "id": "X11:0746",
+      "i": 549,
+      "n": 746,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「職員を殺さないでくれって、かばおうとしたんじゃないか？」",
+      "en": "Wasn't she trying to protect the staff and beg you not to kill them?"
+    },
+    {
+      "id": "X11:0747",
+      "i": 550,
+      "n": 747,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「知りませんよ。発症者の考えることなんか……」",
+      "en": "How should I know what symptomatic people think?"
+    },
+    {
+      "id": "X11:0748",
+      "i": 551,
+      "n": 748,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>が顔を歪める。",
+      "en": "<tips=67>Camilla</tips> twisted her face."
+    },
+    {
+      "id": "X11:0750",
+      "i": 552,
+      "n": 750,
+      "sj": "",
+      "se": "",
+      "jp": "　——こいつ。",
+      "en": "This woman..."
+    },
+    {
+      "id": "X11:0751",
+      "i": 553,
+      "n": 751,
+      "sj": "",
+      "se": "",
+      "jp": "　腹が立ったが、ここで争っても仕方がない。<tips=10>道夫</tips>たちも逃げ惑う患者を追いかけ、捕まえて、むりやりその腕に『<tips=46>ネオ・ローズ</tips>』の注射を行った。",
+      "en": "Rage rose within him, but arguing now would accomplish nothing. <tips=10>Michio</tips>'s group also chased fleeing patients, caught them, and forcibly injected their arms with <tips=46>Neo-Rose</tips>."
+    },
+    {
+      "id": "X11:0752",
+      "i": 554,
+      "n": 752,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「逃げちゃだめだよ」",
+      "en": "Don't run away."
+    },
+    {
+      "id": "X11:0753",
+      "i": 555,
+      "n": 753,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=62>マリア</tips>もその能力を活かして、逃げる患者の前に回り込んだりして作業を手伝う。",
+      "en": "<tips=62>Maria</tips> used her ability to appear before fleeing patients and help with the work."
+    },
+    {
+      "id": "X11:0754",
+      "i": 556,
+      "n": 754,
+      "sj": "",
+      "se": "",
+      "jp": "　そうしている間に、他の棟の患者には薬が効き始めたという連絡が<tips=10>道夫</tips>の元に届いた。そして患者たちは次々と病院を出て行く。行く場所がある患者は好きにさせ、どこにも行けない患者は<tips=21>八龍会</tips>でひきとることになっている。患者の三分の一程度は帰る場所がなくこのまま隊員と行動を共にすることになったようだ。",
+      "en": "During this process, reports reached <tips=10>Michio</tips> that the drug had begun working on patients in the other buildings. The patients left the hospital one after another. Those with somewhere to go could leave freely; the <tips=21>Dragon Club</tips> would take in those with nowhere. About one-third apparently had no home and would remain with the fighters."
+    },
+    {
+      "id": "X11:0761",
+      "i": 557,
+      "n": 761,
+      "sj": "",
+      "se": "",
+      "jp": "　そして<tips=10>道夫</tips>が応援に駆けつけたB棟の患者たちも、次々とその本来の人格を取り戻してゆく。最初に正気に戻ったのは、誰よりも早く注射を打たれることとなった<tips=82>内田広美</tips>だった。",
+      "en": "The patients in Building B, where <tips=10>Michio</tips> had come to assist, likewise regained their original personalities one after another. The first to recover was <tips=82>Hiromi Uchida</tips>, who had received the earliest injection."
+    },
+    {
+      "id": "X11:0763",
+      "i": 558,
+      "n": 763,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女は裸足のままホールまでやって来る。その目は相変わらず金色ではあったが、先ほどまでと違って理性による敏捷な動きを見せている。",
+      "en": "She entered the hall barefoot. Her eyes remained gold, but unlike before, her movements were quick and guided by reason."
+    },
+    {
+      "id": "X11:0764",
+      "i": 559,
+      "n": 764,
+      "sj": "内田広美（入院金目）",
+      "se": "Hiromi Uchida",
+      "jp": "「ああ……なんてこと……」",
+      "en": "Oh... What have you done...?"
+    },
+    {
+      "id": "X11:0765",
+      "i": 560,
+      "n": 765,
+      "sj": "",
+      "se": "",
+      "jp": "　職員たちの死体の山を見ると、魂が抜かれたような放心の表情でそうつぶやいた。職員の死に衝撃を受けているのだ。",
+      "en": "Seeing the pile of staff bodies, she murmured with a stunned, hollow expression. Their deaths had shocked her."
+    },
+    {
+      "id": "X11:0766",
+      "i": 561,
+      "n": 766,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>は声をかけることが出来ず、いたましい気持ちでその横顔を見ていた。",
+      "en": "Unable to speak, <tips=10>Michio</tips> watched her profile with pain."
+    },
+    {
+      "id": "X11:0768",
+      "i": 562,
+      "n": 768,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=82>広美</tips>は遺体のなかからひとつ、若い女性看護師の姿を見つけると、そこに駆け寄る。",
+      "en": "<tips=82>Hiromi</tips> spotted a young female nurse among the bodies and hurried to her."
+    },
+    {
+      "id": "X11:0769",
+      "i": 563,
+      "n": 769,
+      "sj": "内田広美（入院金目）",
+      "se": "Hiromi Uchida",
+      "jp": "「<tips=83>能見</tips>さん……」",
+      "en": "Ms. <tips=83>Nomi</tips>..."
+    },
+    {
+      "id": "X11:0770",
+      "i": 564,
+      "n": 770,
+      "sj": "",
+      "se": "",
+      "jp": "　彼女はかがみ込んで手を伸ばすと、額に銃弾による穴の開いた<tips=83>美紗</tips>の頬に触れた。",
+      "en": "She crouched and touched the cheek of <tips=83>Misa</tips>, whose forehead bore a bullet hole."
+    },
+    {
+      "id": "X11:0771",
+      "i": 565,
+      "n": 771,
+      "sj": "",
+      "se": "",
+      "jp": "　もう冷たくなっており、肌も土気色に変色しはじめている。それは人のかたちをしているが、こう変わり果ててしまうとなにか別の物にしか見えない。",
+      "en": "The body was already cold, its skin beginning to turn ashen. Though human in shape, changed so completely, it looked like some other object."
+    },
+    {
+      "id": "X11:0772",
+      "i": 566,
+      "n": 772,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=82>広美</tips>はポタポタと涙を落とす。",
+      "en": "Tears dripped from <tips=82>Hiromi</tips>'s eyes."
+    },
+    {
+      "id": "X11:0773",
+      "i": 567,
+      "n": 773,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「どう、本来の自分を取り戻した気分は？」",
+      "en": "How does it feel to regain your true self?"
+    },
+    {
+      "id": "X11:0775",
+      "i": 568,
+      "n": 775,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>がそう声をかけると、<tips=82>広美</tips>は立ち上がり、きっとこちらを睨み付ける。",
+      "en": "At <tips=67>Camilla</tips>'s question, <tips=82>Hiromi</tips> stood and glared fiercely at her."
+    },
+    {
+      "id": "X11:0776",
+      "i": 569,
+      "n": 776,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「あなたは誤解しているわ。そこに転がっている連中は、あなたを治すことも出来ないのに、閉じ込めていたのよ？」",
+      "en": "You misunderstand. Those people lying there imprisoned you even though they couldn't cure you."
+    },
+    {
+      "id": "X11:0777",
+      "i": 570,
+      "n": 777,
+      "sj": "内田広美（入院金目）",
+      "se": "Hiromi Uchida",
+      "jp": "「絶対に許さない……」",
+      "en": "I'll never forgive you..."
+    },
+    {
+      "id": "X11:0778",
+      "i": 571,
+      "n": 778,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=82>広美</tips>は聞く耳を持たず、らんらんと光る目で、<tips=67>カミラ</tips>と<tips=10>道夫</tips>を交互に睨む。",
+      "en": "Refusing to listen, <tips=82>Hiromi</tips> glared with blazing eyes between <tips=67>Camilla</tips> and <tips=10>Michio</tips>."
+    },
+    {
+      "id": "X11:0779",
+      "i": 572,
+      "n": 779,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は溜息をついて、",
+      "en": "<tips=67>Camilla</tips> sighed."
+    },
+    {
+      "id": "X11:0780",
+      "i": 573,
+      "n": 780,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「あなたはね……」",
+      "en": "Listen, you..."
+    },
+    {
+      "id": "X11:0781",
+      "i": 574,
+      "n": 781,
+      "sj": "",
+      "se": "",
+      "jp": "　そう口を開いた時だった、<tips=67>カミラ</tips>は視線に気がついて背後を振り返る。",
+      "en": "As she began, <tips=67>Camilla</tips> noticed a gaze and looked behind her."
+    },
+    {
+      "id": "X11:0783",
+      "i": 575,
+      "n": 783,
+      "sj": "",
+      "se": "",
+      "jp": "　するとそこには、六人ほどの患者たちが並んでこちらに視線を向けていた。まだ彼女たちの表情はゆるみ、目つきもどこかおかしく、『<tips=46>ネオ・ローズ</tips>』の効き目は現れていないように見えた。",
+      "en": "About six patients stood in a row watching them. Their faces remained slack and their eyes strange. <tips=46>Neo-Rose</tips> did not yet appear to have taken effect."
+    },
+    {
+      "id": "X11:0784",
+      "i": 576,
+      "n": 784,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「あなたたち、もう注射は終わった？　終わってないなら、ここに注射があるから……」",
+      "en": "Have all of you received your injection? If not, we have the medicine here..."
+    },
+    {
+      "id": "X11:0785",
+      "i": 577,
+      "n": 785,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>の言葉に患者たちは反応を示さず、じっと死体を見つめ続ける。そのうち、一人が手を合わせて念仏を唱えはじめると、その隣も同じように手を合わせ、見よう見まねでむにゃむにゃとやりはじめた。",
+      "en": "The patients did not respond to <tips=67>Camilla</tips>, but continued staring at the corpses. One pressed her palms together and began chanting a Buddhist prayer. Her neighbor copied the pose and mumbled along in imitation."
+    },
+    {
+      "id": "X11:0786",
+      "i": 578,
+      "n": 786,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「やめなさいよ！」",
+      "en": "Stop that!"
+    },
+    {
+      "id": "X11:0787",
+      "i": 579,
+      "n": 787,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は近づいて、あわせた手を横からはたく。",
+      "en": "<tips=67>Camilla</tips> approached and slapped their joined hands from the side."
+    },
+    {
+      "id": "X11:0788",
+      "i": 580,
+      "n": 788,
+      "sj": "",
+      "se": "",
+      "jp": "「ひっ、こわいっ」",
+      "en": "Ah! Scary!"
+    },
+    {
+      "id": "X11:0789",
+      "i": 581,
+      "n": 789,
+      "sj": "",
+      "se": "",
+      "jp": "　叩かれた老人は<tips=67>カミラ</tips>を怯えた目で見て、",
+      "en": "The struck old woman looked fearfully at <tips=67>Camilla</tips>."
+    },
+    {
+      "id": "X11:0790",
+      "i": 582,
+      "n": 790,
+      "sj": "",
+      "se": "",
+      "jp": "「あんたたち、地獄から来た悪魔だね！　私たちを地獄にツレに来たんだ！」",
+      "en": "You're demons from hell! You came to take us to hell!"
+    },
+    {
+      "id": "X11:0791",
+      "i": 583,
+      "n": 791,
+      "sj": "",
+      "se": "",
+      "jp": "　とヒステリックに叫ぶ。",
+      "en": "She screamed hysterically."
+    },
+    {
+      "id": "X11:0792",
+      "i": 584,
+      "n": 792,
+      "sj": "",
+      "se": "",
+      "jp": "　すると隣のヘッドガードをかぶった中年女がその袖を引き、",
+      "en": "A middle-aged woman in a protective helmet tugged her sleeve."
+    },
+    {
+      "id": "X11:0793",
+      "i": 585,
+      "n": 793,
+      "sj": "",
+      "se": "",
+      "jp": "「違うよ。ロンドンから私を迎えに来たんだよ。私は女王なんだから」",
+      "en": "No. They came from London to collect me. I'm the queen."
+    },
+    {
+      "id": "X11:0794",
+      "i": 586,
+      "n": 794,
+      "sj": "",
+      "se": "",
+      "jp": "　と窘めた。",
+      "en": "She corrected her."
+    },
+    {
+      "id": "X11:0795",
+      "i": 587,
+      "n": 795,
+      "sj": "マリア",
+      "se": "Maria",
+      "jp": "「あははは、おもしろーい」",
+      "en": "Ahahaha! So funny!"
+    },
+    {
+      "id": "X11:0796",
+      "i": 588,
+      "n": 796,
+      "sj": "",
+      "se": "",
+      "jp": "　そう笑ったのは、いつの間にか部屋の隅の方の椅子に腰掛けて様子を眺めていた<tips=62>マリア</tips>である。",
+      "en": "It was <tips=62>Maria</tips> laughing. At some point, she had sat in a chair in the corner to watch."
+    },
+    {
+      "id": "X11:0797",
+      "i": 589,
+      "n": 797,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「いいから、二人ともこっちに来なさい！」",
+      "en": "Enough. Both of you, come here!"
+    },
+    {
+      "id": "X11:0798",
+      "i": 590,
+      "n": 798,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=67>カミラ</tips>は二人の首根っこを掴むと、そのまま病室で注射を打っている仲間たちの方へ歩きはじめる。",
+      "en": "<tips=67>Camilla</tips> seized both women by the backs of their necks and marched them toward her comrades giving injections in the rooms."
+    },
+    {
+      "id": "X11:0799",
+      "i": 591,
+      "n": 799,
+      "sj": "",
+      "se": "",
+      "jp": "　その途中で首をねじって<tips=10>道夫</tips>の方を振り返ると、",
+      "en": "Along the way, she twisted her neck to look back at <tips=10>Michio</tips>."
+    },
+    {
+      "id": "X11:0800",
+      "i": 592,
+      "n": 800,
+      "sj": "カミラ",
+      "se": "Camilla Northam",
+      "jp": "「ほら、<tips=10>見土</tips>さんたちもぼんやり見てないで、手伝ってください！　その人たちがもう『<tips=46>ネオ・ローズ</tips>』を打ったのかどうか、確認して、まだだったら打ってください」",
+      "en": "Mr. <tips=10>Mido</tips>, stop staring and help! Check whether those people have received <tips=46>Neo-Rose</tips>. If they haven't, inject them."
+    },
+    {
+      "id": "X11:0801",
+      "i": 593,
+      "n": 801,
+      "sj": "",
+      "se": "",
+      "jp": "　感情的になってそう命じた。",
+      "en": "She issued the order emotionally."
+    },
+    {
+      "id": "X11:0802",
+      "i": 594,
+      "n": 802,
+      "sj": "見土道夫",
+      "se": "Michio Mido",
+      "jp": "「わかったよ」",
+      "en": "All right."
+    },
+    {
+      "id": "X11:0803",
+      "i": 595,
+      "n": 803,
+      "sj": "",
+      "se": "",
+      "jp": "　<tips=10>道夫</tips>はまだこちらを睨み付けている<tips=82>広美</tips>の方をチラと見てから溜息をつき、そしてホールの入り口のところでぼうっと立ったままの患者たちの方へ向かって歩きはじめた。",
+      "en": "<tips=10>Michio</tips> glanced at <tips=82>Hiromi</tips>, who continued glaring at him, sighed, and walked toward the patients standing vacantly by the hall entrance."
+    }
+  ]
+}
