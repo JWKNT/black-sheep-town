@@ -89,7 +89,12 @@
 
   async function loadChapter(slug) {
     if (!state.cache.has(slug)) {
-      state.cache.set(slug, fetchJson(`data/chapters/${encodeURIComponent(slug)}.json`));
+      state.cache.set(
+        slug,
+        fetchJson(
+          `data/chapters/${encodeURIComponent(slug)}.json?v=${encodeURIComponent(state.index.generatedAt)}`,
+        ),
+      );
     }
     return state.cache.get(slug);
   }
@@ -293,7 +298,7 @@
 
   async function init() {
     try {
-      state.index = await fetchJson("data/index.json");
+      state.index = await fetchJson(`data/index.json?v=${Date.now()}`);
       const params = new URLSearchParams(window.location.search);
       const requestedChapter = params.get("chapter");
       state.chapter = chapterMeta(requestedChapter) ? requestedChapter : state.index.chapters[0].slug;

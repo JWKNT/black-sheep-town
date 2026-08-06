@@ -18,6 +18,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   }
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
+  assert.match(html, /assets\/app\.js\?v=/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
@@ -56,5 +57,7 @@ test("generated chapter index agrees with its chapter files", async () => {
 test("client rendering treats script text as text, not HTML", async () => {
   const app = await readFile(new URL("assets/app.js", root), "utf8");
   assert.match(app, /textContent = value/);
+  assert.match(app, /data\/index\.json\?v=/);
+  assert.match(app, /state\.index\.generatedAt/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 });
