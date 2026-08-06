@@ -46,12 +46,30 @@ test("generated chapter index agrees with its chapter files", async () => {
       assert.equal(typeof line.en, "string");
       assert.ok(line.jp.length > 0);
       assert.ok(line.en.length > 0);
+      const japanese = line.jp.trim();
+      if (japanese.startsWith("「") && japanese.endsWith("」")) {
+        assert.ok(line.sj.length > 0, `missing Japanese speaker: ${line.id}`);
+        assert.ok(line.se.length > 0, `missing English speaker: ${line.id}`);
+      }
       assert.ok(!seenIds.has(line.id), `duplicate line ID: ${line.id}`);
       seenIds.add(line.id);
     }
     translatedLines += payload.lines.length;
   }
   assert.equal(translatedLines, index.translatedLines);
+
+  const lineById = new Map();
+  for (const chapter of index.chapters) {
+    const payload = JSON.parse(
+      await readFile(new URL(`chapters/${chapter.slug}.json`, dataRoot), "utf8"),
+    );
+    for (const line of payload.lines) lineById.set(line.id, line);
+  }
+  assert.equal(lineById.get("A1:0090")?.se, "Waiter");
+  assert.equal(lineById.get("A1:0111")?.se, "Narrator");
+  assert.equal(lineById.get("A1:0232")?.se, "Ma Ming");
+  assert.equal(lineById.get("A1:0254")?.se, "Man's Voice");
+  assert.equal(lineById.get("A1:0159")?.se, "");
 });
 
 test("client rendering treats script text as text, not HTML", async () => {
