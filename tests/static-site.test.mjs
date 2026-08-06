@@ -10,8 +10,12 @@ test("reader HTML exposes the required controls and regions", async () => {
     "chapter-menu-button",
     "chapter-menu",
     "chapter-menu-value",
+    "chapter-menu-options",
+    "vn-order",
+    "group-order",
     "previous-chapter",
     "next-chapter",
+    "end-next-chapter",
     "script-search",
     "script-lines",
     "line-template",
@@ -31,7 +35,10 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
   for (const id of [
     "glossary-chapter-button",
     "glossary-chapter-menu",
+    "glossary-chapter-options",
     "glossary-chapter-value",
+    "glossary-vn-order",
+    "glossary-group-order",
     "glossary-search",
     "glossary-list",
     "glossary-entry-template",
@@ -145,6 +152,15 @@ test("glossary versions follow the game's scenario dependency graph", async () =
       assert.ok(required in progression.chapters, `${chapter} requires unknown ${required}`);
     }
   }
+  assert.equal(progression.vnOrder.length, Object.keys(progression.chapters).length);
+  assert.equal(new Set(progression.vnOrder).size, progression.vnOrder.length);
+  assert.deepEqual(progression.vnOrder.slice(0, 5), ["X1", "A1", "B1", "X2-1", "X2-2"]);
+  const orderPosition = new Map(progression.vnOrder.map((chapter, position) => [chapter, position]));
+  for (const [chapter, requirements] of Object.entries(progression.chapters)) {
+    for (const required of requirements) {
+      assert.ok(orderPosition.get(required) < orderPosition.get(chapter));
+    }
+  }
 
   const completedChapters = (chapter) => {
     const completed = new Set();
@@ -183,9 +199,12 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /data\/glossary\.json\?v=/);
   assert.match(app, /data\/scenario-progression\.json\?v=/);
   assert.match(app, /makeGlossaryTerm/);
+  assert.match(app, /function currentChapterOrder/);
+  assert.match(app, /elements\.endNextChapter\.addEventListener/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
+  assert.match(glossary, /function currentChapterOrder/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 
@@ -232,7 +251,8 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: 13px/s);
   assert.match(css, /\.language-column \{[^}]*justify-content: center/s);
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
-  assert.match(css, /\.chapter-menu \{[^}]*grid-template-columns: repeat\(3,/s);
+  assert.match(css, /\.chapter-menu-options \{[^}]*grid-template-columns: repeat\(3,/s);
+  assert.match(css, /\.chapter-end-navigation \{[^}]*display: flex/s);
   assert.match(css, /\.english-reader-mode \.language-column\.japanese \{ display: none; \}/);
   assert.match(css, /\.english-reader-mode \.language-label \{ display: none; \}/);
   assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);

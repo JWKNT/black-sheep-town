@@ -6,7 +6,7 @@
     <meta name="description" content="The spoiler-aware in-game glossary for Black Sheep Town.">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Glossary</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.6">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.7">
   </head>
   <body>
     <a class="skip-link" href="#glossary-list">Skip to glossary</a>
@@ -33,11 +33,18 @@
         <div class="glossary-chapter-control">
           <span class="control-label" id="glossary-chapter-label">Progress through</span>
           <div class="chapter-picker" id="glossary-chapter-picker">
-            <button class="chapter-picker-button" id="glossary-chapter-button" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="glossary-chapter-menu" aria-labelledby="glossary-chapter-label glossary-chapter-value">
+            <button class="chapter-picker-button" id="glossary-chapter-button" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="glossary-chapter-menu" aria-labelledby="glossary-chapter-label glossary-chapter-value">
               <span id="glossary-chapter-value">Loading…</span>
               <span class="chapter-picker-caret" aria-hidden="true">⌄</span>
             </button>
-            <div class="chapter-menu" id="glossary-chapter-menu" role="listbox" aria-labelledby="glossary-chapter-label" hidden></div>
+            <div class="chapter-menu" id="glossary-chapter-menu" role="dialog" aria-labelledby="glossary-chapter-label" hidden>
+              <div class="chapter-menu-toolbar" role="group" aria-label="Chapter order">
+                <span>Chapter order</span>
+                <button class="chapter-order-button" id="glossary-vn-order" type="button" aria-pressed="true">VN order</button>
+                <button class="chapter-order-button" id="glossary-group-order" type="button" aria-pressed="false">Chapter groups</button>
+              </div>
+              <div class="chapter-menu-options" id="glossary-chapter-options" role="listbox" aria-labelledby="glossary-chapter-label"></div>
+            </div>
           </div>
         </div>
         <label for="glossary-search">
@@ -74,6 +81,6 @@
       </article>
     </template>
 
-    <script src="assets/glossary.js?v=20260806.3"></script>
+    <script src="assets/glossary.js?v=20260806.4"></script>
   </body>
 </html>

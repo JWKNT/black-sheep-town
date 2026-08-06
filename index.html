@@ -11,7 +11,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Script Reader</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.6">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.7">
   </head>
   <body>
     <a class="skip-link" href="#script-lines">Skip to script</a>
@@ -58,11 +58,18 @@
           <span class="control-label" id="chapter-label">Chapter</span>
           <button id="previous-chapter" type="button" aria-label="Previous chapter">←</button>
           <div class="chapter-picker" id="chapter-picker">
-            <button class="chapter-picker-button" id="chapter-menu-button" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="chapter-menu" aria-labelledby="chapter-label chapter-menu-value">
+            <button class="chapter-picker-button" id="chapter-menu-button" type="button" aria-haspopup="dialog" aria-expanded="false" aria-controls="chapter-menu" aria-labelledby="chapter-label chapter-menu-value">
               <span id="chapter-menu-value">Loading…</span>
               <span class="chapter-picker-caret" aria-hidden="true">⌄</span>
             </button>
-            <div class="chapter-menu" id="chapter-menu" role="listbox" aria-labelledby="chapter-label" hidden></div>
+            <div class="chapter-menu" id="chapter-menu" role="dialog" aria-labelledby="chapter-label" hidden>
+              <div class="chapter-menu-toolbar" role="group" aria-label="Chapter order">
+                <span>Chapter order</span>
+                <button class="chapter-order-button" id="vn-order" type="button" aria-pressed="true">VN order</button>
+                <button class="chapter-order-button" id="group-order" type="button" aria-pressed="false">Chapter groups</button>
+              </div>
+              <div class="chapter-menu-options" id="chapter-menu-options" role="listbox" aria-labelledby="chapter-label"></div>
+            </div>
           </div>
           <button id="next-chapter" type="button" aria-label="Next chapter">→</button>
         </div>
@@ -96,6 +103,11 @@
         <p>Try a broader search or another chapter.</p>
       </div>
 
+      <nav class="chapter-end-navigation" aria-label="Continue reading">
+        <span id="end-order-label">VN order</span>
+        <button id="end-next-chapter" type="button">Next chapter →</button>
+      </nav>
+
       <a class="back-to-controls" href="#reader-controls">Back to controls ↑</a>
     </main>
 
@@ -120,6 +132,6 @@
       </article>
     </template>
 
-    <script src="assets/app.js?v=20260806.6"></script>
+    <script src="assets/app.js?v=20260806.7"></script>
   </body>
 </html>

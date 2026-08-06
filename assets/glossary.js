@@ -7,6 +7,7 @@
     progression: null,
     chapter: null,
     query: "",
+    order: "vn",
   };
 
   const elements = {
@@ -14,6 +15,9 @@
     chapterButton: document.querySelector("#glossary-chapter-button"),
     chapterValue: document.querySelector("#glossary-chapter-value"),
     chapterMenu: document.querySelector("#glossary-chapter-menu"),
+    chapterOptions: document.querySelector("#glossary-chapter-options"),
+    vnOrder: document.querySelector("#glossary-vn-order"),
+    groupOrder: document.querySelector("#glossary-group-order"),
     search: document.querySelector("#glossary-search"),
     count: document.querySelector("#glossary-count"),
     list: document.querySelector("#glossary-list"),
@@ -31,6 +35,14 @@
 
   function chapterPosition(slug) {
     return state.index.chapters.findIndex((chapter) => chapter.slug === slug);
+  }
+
+  function currentChapterOrder() {
+    if (state.order === "group") return state.index.chapters;
+    const bySlug = new Map(state.index.chapters.map((chapter) => [chapter.slug, chapter]));
+    const ordered = state.progression.vnOrder.map((slug) => bySlug.get(slug)).filter(Boolean);
+    const included = new Set(ordered.map((chapter) => chapter.slug));
+    return ordered.concat(state.index.chapters.filter((chapter) => !included.has(chapter.slug)));
   }
 
   function completedChapters(chapterSlug) {
@@ -94,7 +106,8 @@
     description.lang = entry.record.enDescription ? "en" : "ja";
     article.querySelector(".glossary-unlock").textContent = unlockLabel(entry.record);
     const backLink = article.querySelector(".glossary-back-link");
-    backLink.href = `./?chapter=${encodeURIComponent(state.chapter)}&mode=en`;
+    const orderQuery = state.order === "group" ? "&order=group" : "";
+    backLink.href = `./?chapter=${encodeURIComponent(state.chapter)}&mode=en${orderQuery}`;
     return article;
   }
 
@@ -103,6 +116,8 @@
     url.searchParams.set("chapter", state.chapter);
     if (state.query) url.searchParams.set("q", state.query);
     else url.searchParams.delete("q");
+    if (state.order === "group") url.searchParams.set("order", "group");
+    else url.searchParams.delete("order");
     history.replaceState(null, "", `${url.pathname}${url.search}${url.hash}`);
   }
 
@@ -123,7 +138,7 @@
   }
 
   function chapterOptions() {
-    return [...elements.chapterMenu.querySelectorAll(".chapter-menu-option")];
+    return [...elements.chapterOptions.querySelectorAll(".chapter-menu-option")];
   }
 
   function updateChapterPicker() {
@@ -132,6 +147,8 @@
     chapterOptions().forEach((option) => {
       option.setAttribute("aria-selected", String(option.dataset.slug === state.chapter));
     });
+    elements.vnOrder.setAttribute("aria-pressed", String(state.order === "vn"));
+    elements.groupOrder.setAttribute("aria-pressed", String(state.order === "group"));
   }
 
   function closeChapterMenu({ restoreFocus = false } = {}) {
@@ -149,38 +166,63 @@
     }
   }
 
+  function makeChapterGroup(label, chapters, id) {
+    const group = document.createElement("section");
+    group.className = "chapter-menu-group";
+    group.setAttribute("role", "group");
+    const heading = document.createElement("h3");
+    heading.className = "chapter-menu-heading";
+    heading.id = id;
+    heading.textContent = label;
+    group.setAttribute("aria-labelledby", id);
+    group.append(heading);
+    for (const chapter of chapters) {
+      const option = document.createElement("button");
+      option.className = "chapter-menu-option";
+      option.type = "button";
+      option.setAttribute("role", "option");
+      option.setAttribute("aria-selected", String(chapter.slug === state.chapter));
+      option.dataset.slug = chapter.slug;
+      option.textContent = `Chapter ${chapter.title}`;
+      group.append(option);
+    }
+    return group;
+  }
+
   function populateChapters() {
+    const fragment = document.createDocumentFragment();
+    if (state.order === "vn") {
+      const chapters = currentChapterOrder();
+      const groupSize = Math.ceil(chapters.length / 3);
+      for (let start = 0; start < chapters.length; start += groupSize) {
+        const end = Math.min(start + groupSize, chapters.length);
+        fragment.append(makeChapterGroup(
+          `VN order · ${start + 1}–${end}`,
+          chapters.slice(start, end),
+          `glossary-vn-${start + 1}`,
+        ));
+      }
+      elements.chapterOptions.replaceChildren(fragment);
+      updateChapterPicker();
+      return;
+    }
+
     const groups = new Map();
     for (const chapter of state.index.chapters) {
       if (!groups.has(chapter.part)) groups.set(chapter.part, []);
       groups.get(chapter.part).push(chapter);
     }
-    const fragment = document.createDocumentFragment();
     for (const [part, chapters] of groups) {
-      const group = document.createElement("section");
-      group.className = "chapter-menu-group";
-      group.setAttribute("role", "group");
-      const heading = document.createElement("h3");
-      const headingId = `glossary-part-${part}`;
-      heading.className = "chapter-menu-heading";
-      heading.id = headingId;
-      heading.textContent = `Part ${part}`;
-      group.setAttribute("aria-labelledby", headingId);
-      group.append(heading);
-      for (const chapter of chapters) {
-        const option = document.createElement("button");
-        option.className = "chapter-menu-option";
-        option.type = "button";
-        option.setAttribute("role", "option");
-        option.setAttribute("aria-selected", "false");
-        option.dataset.slug = chapter.slug;
-        option.textContent = `Chapter ${chapter.title}`;
-        group.append(option);
-      }
-      fragment.append(group);
+      fragment.append(makeChapterGroup(`Part ${part}`, chapters, `glossary-part-${part}`));
     }
-    elements.chapterMenu.append(fragment);
+    elements.chapterOptions.replaceChildren(fragment);
     updateChapterPicker();
+  }
+
+  function setChapterOrder(order) {
+    state.order = order;
+    populateChapters();
+    updateUrl();
   }
 
   function bindEvents() {
@@ -194,14 +236,14 @@
         openChapterMenu();
       }
     });
-    elements.chapterMenu.addEventListener("click", (event) => {
+    elements.chapterOptions.addEventListener("click", (event) => {
       const option = event.target.closest(".chapter-menu-option");
       if (!option) return;
       state.chapter = option.dataset.slug;
       closeChapterMenu({ restoreFocus: true });
       render();
     });
-    elements.chapterMenu.addEventListener("keydown", (event) => {
+    elements.chapterOptions.addEventListener("keydown", (event) => {
       const options = chapterOptions();
       const position = options.indexOf(document.activeElement);
       if (event.key === "Escape") {
@@ -224,6 +266,8 @@
     document.addEventListener("click", (event) => {
       if (!elements.chapterPicker.contains(event.target)) closeChapterMenu();
     });
+    elements.vnOrder.addEventListener("click", () => setChapterOrder("vn"));
+    elements.groupOrder.addEventListener("click", () => setChapterOrder("group"));
     let debounce;
     elements.search.addEventListener("input", () => {
       clearTimeout(debounce);
@@ -241,9 +285,10 @@
       ]);
       const params = new URLSearchParams(window.location.search);
       const requested = params.get("chapter");
+      state.order = params.get("order") === "group" ? "group" : "vn";
       state.chapter = chapterPosition(requested) >= 0
         ? requested
-        : state.index.chapters.at(-1).slug;
+        : currentChapterOrder().at(-1).slug;
       state.query = params.get("q") || "";
       elements.search.value = state.query;
       populateChapters();

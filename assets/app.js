@@ -8,6 +8,7 @@
     scope: "chapter",
     query: "",
     mode: "parallel",
+    order: "vn",
     glossary: null,
     progression: null,
     glossaryById: new Map(),
@@ -24,8 +25,13 @@
     chapterButton: document.querySelector("#chapter-menu-button"),
     chapterValue: document.querySelector("#chapter-menu-value"),
     chapterMenu: document.querySelector("#chapter-menu"),
+    chapterMenuOptions: document.querySelector("#chapter-menu-options"),
+    vnOrder: document.querySelector("#vn-order"),
+    groupOrder: document.querySelector("#group-order"),
     previousChapter: document.querySelector("#previous-chapter"),
     nextChapter: document.querySelector("#next-chapter"),
+    endNextChapter: document.querySelector("#end-next-chapter"),
+    endOrderLabel: document.querySelector("#end-order-label"),
     search: document.querySelector("#script-search"),
     clearSearch: document.querySelector("#clear-search"),
     chapterTitle: document.querySelector("#chapter-title"),
@@ -134,7 +140,8 @@
 
     const link = document.createElement("a");
     link.className = "glossary-term";
-    link.href = `glossary.html?chapter=${encodeURIComponent(meta.slug)}#tip-${entry.id}`;
+    const orderQuery = state.order === "group" ? "&order=group" : "";
+    link.href = `glossary.html?chapter=${encodeURIComponent(meta.slug)}${orderQuery}#tip-${entry.id}`;
     const tooltipId = `tip-preview-${meta.slug}-${entry.id}-${++state.tooltipCounter}`;
     link.setAttribute("aria-describedby", tooltipId);
     appendHighlighted(link, visibleText, terms);
@@ -198,6 +205,15 @@
     return state.index.chapters.find((chapter) => chapter.slug === slug);
   }
 
+  function currentChapterOrder() {
+    if (state.order === "group") return state.index.chapters;
+    const ordered = state.progression.vnOrder
+      .map(chapterMeta)
+      .filter(Boolean);
+    const included = new Set(ordered.map((chapter) => chapter.slug));
+    return ordered.concat(state.index.chapters.filter((chapter) => !included.has(chapter.slug)));
+  }
+
   function updateUrl() {
     const url = new URL(window.location.href);
     url.searchParams.set("chapter", state.chapter);
@@ -207,7 +223,10 @@
     else url.searchParams.delete("scope");
     if (state.mode === "english") url.searchParams.set("mode", "en");
     else url.searchParams.delete("mode");
-    elements.glossaryLink.href = `glossary.html?chapter=${encodeURIComponent(state.chapter)}`;
+    if (state.order === "group") url.searchParams.set("order", "group");
+    else url.searchParams.delete("order");
+    const glossaryOrder = state.order === "group" ? "&order=group" : "";
+    elements.glossaryLink.href = `glossary.html?chapter=${encodeURIComponent(state.chapter)}${glossaryOrder}`;
     history.replaceState(null, "", `${url.pathname}${url.search}${url.hash}`);
   }
 
@@ -218,19 +237,37 @@
   }
 
   function updateChapterControls() {
-    const position = state.index.chapters.findIndex((chapter) => chapter.slug === state.chapter);
-    const meta = state.index.chapters[position];
+    const chapters = currentChapterOrder();
+    const position = chapters.findIndex((chapter) => chapter.slug === state.chapter);
+    const meta = chapters[position];
+    const previous = chapters[position - 1];
+    const next = chapters[position + 1];
     const incomplete = meta.translatedLines < meta.totalLines ? " · in progress" : "";
     elements.chapterValue.textContent = `${meta.title} · ${number.format(meta.translatedLines)} lines${incomplete}`;
     elements.chapterMenu.querySelectorAll(".chapter-menu-option").forEach((option) => {
       option.setAttribute("aria-selected", String(option.dataset.slug === state.chapter));
     });
-    elements.previousChapter.disabled = position <= 0;
-    elements.nextChapter.disabled = position >= state.index.chapters.length - 1;
+    elements.previousChapter.disabled = !previous;
+    elements.previousChapter.setAttribute(
+      "aria-label",
+      previous ? `Previous chapter: ${previous.title}` : "No previous chapter",
+    );
+    elements.nextChapter.disabled = !next;
+    elements.nextChapter.setAttribute(
+      "aria-label",
+      next ? `Next chapter: ${next.title}` : "No next chapter",
+    );
+    elements.endNextChapter.disabled = !next;
+    elements.endNextChapter.textContent = next
+      ? `Next: Chapter ${next.title} →`
+      : "End of available translation";
+    elements.endOrderLabel.textContent = state.order === "vn" ? "VN order" : "Chapter groups";
+    elements.vnOrder.setAttribute("aria-pressed", String(state.order === "vn"));
+    elements.groupOrder.setAttribute("aria-pressed", String(state.order === "group"));
   }
 
   function chapterOptions() {
-    return [...elements.chapterMenu.querySelectorAll(".chapter-menu-option")];
+    return [...elements.chapterMenuOptions.querySelectorAll(".chapter-menu-option")];
   }
 
   function closeChapterMenu({ restoreFocus = false } = {}) {
@@ -355,48 +392,80 @@
     }
   }
 
-  async function changeChapter(slug, { scroll = true } = {}) {
+  async function changeChapter(slug, { scrollTo = "#reader-controls" } = {}) {
     state.chapter = slug;
     const meta = chapterMeta(slug);
     updateChapterControls();
     setChapterHeading(meta);
     await render();
-    if (scroll) document.querySelector("#reader-controls").scrollIntoView();
+    if (scrollTo) document.querySelector(scrollTo).scrollIntoView();
+  }
+
+  function makeChapterMenuGroup(label, chapters, id) {
+    const group = document.createElement("section");
+    group.className = "chapter-menu-group";
+    group.setAttribute("role", "group");
+    const heading = document.createElement("h3");
+    heading.className = "chapter-menu-heading";
+    heading.id = id;
+    heading.textContent = label;
+    group.setAttribute("aria-labelledby", id);
+    group.append(heading);
+    for (const chapter of chapters) {
+      const option = document.createElement("button");
+      const incomplete = chapter.translatedLines < chapter.totalLines ? " · in progress" : "";
+      option.className = "chapter-menu-option";
+      option.type = "button";
+      option.setAttribute("role", "option");
+      option.setAttribute("aria-selected", String(chapter.slug === state.chapter));
+      option.dataset.slug = chapter.slug;
+      option.textContent = `${chapter.title} · ${number.format(chapter.translatedLines)} lines${incomplete}`;
+      group.append(option);
+    }
+    return group;
   }
 
   function populateChapterMenu() {
+    const fragment = document.createDocumentFragment();
+    if (state.order === "vn") {
+      const chapters = currentChapterOrder();
+      const groupSize = Math.ceil(chapters.length / 3);
+      for (let start = 0; start < chapters.length; start += groupSize) {
+        const end = Math.min(start + groupSize, chapters.length);
+        fragment.append(makeChapterMenuGroup(
+          `VN order · ${start + 1}–${end}`,
+          chapters.slice(start, end),
+          `chapter-vn-${start + 1}`,
+        ));
+      }
+      elements.chapterMenuOptions.replaceChildren(fragment);
+      return;
+    }
+
     const groups = new Map();
     for (const chapter of state.index.chapters) {
       if (!groups.has(chapter.part)) groups.set(chapter.part, []);
       groups.get(chapter.part).push(chapter);
     }
 
-    const fragment = document.createDocumentFragment();
     for (const [part, chapters] of groups) {
-      const group = document.createElement("section");
-      group.className = "chapter-menu-group";
-      group.setAttribute("role", "group");
-      const heading = document.createElement("h3");
-      const headingId = `chapter-part-${part}`;
-      heading.className = "chapter-menu-heading";
-      heading.id = headingId;
-      heading.textContent = `Part ${part}`;
-      group.setAttribute("aria-labelledby", headingId);
-      group.append(heading);
-      for (const chapter of chapters) {
-        const option = document.createElement("button");
-        const incomplete = chapter.translatedLines < chapter.totalLines ? " · in progress" : "";
-        option.className = "chapter-menu-option";
-        option.type = "button";
-        option.setAttribute("role", "option");
-        option.setAttribute("aria-selected", "false");
-        option.dataset.slug = chapter.slug;
-        option.textContent = `${chapter.title} · ${number.format(chapter.translatedLines)} lines${incomplete}`;
-        group.append(option);
-      }
-      fragment.append(group);
+      fragment.append(makeChapterMenuGroup(`Part ${part}`, chapters, `chapter-part-${part}`));
     }
-    elements.chapterMenu.append(fragment);
+    elements.chapterMenuOptions.replaceChildren(fragment);
+  }
+
+  function setChapterOrder(order) {
+    state.order = order;
+    populateChapterMenu();
+    updateChapterControls();
+    updateUrl();
+  }
+
+  function changeChapterBy(offset, options) {
+    const chapters = currentChapterOrder();
+    const position = chapters.findIndex((chapter) => chapter.slug === state.chapter);
+    const target = chapters[position + offset];
+    if (target) changeChapter(target.slug, options);
   }
 
   function bindEvents() {
@@ -410,13 +479,13 @@
         openChapterMenu();
       }
     });
-    elements.chapterMenu.addEventListener("click", (event) => {
+    elements.chapterMenuOptions.addEventListener("click", (event) => {
       const option = event.target.closest(".chapter-menu-option");
       if (!option) return;
       closeChapterMenu({ restoreFocus: true });
       changeChapter(option.dataset.slug);
     });
-    elements.chapterMenu.addEventListener("keydown", (event) => {
+    elements.chapterMenuOptions.addEventListener("keydown", (event) => {
       const options = chapterOptions();
       const position = options.indexOf(document.activeElement);
       if (event.key === "Escape") {
@@ -439,13 +508,12 @@
     document.addEventListener("click", (event) => {
       if (!elements.chapterPicker.contains(event.target)) closeChapterMenu();
     });
-    elements.previousChapter.addEventListener("click", () => {
-      const position = state.index.chapters.findIndex((chapter) => chapter.slug === state.chapter);
-      if (position > 0) changeChapter(state.index.chapters[position - 1].slug);
-    });
-    elements.nextChapter.addEventListener("click", () => {
-      const position = state.index.chapters.findIndex((chapter) => chapter.slug === state.chapter);
-      if (position < state.index.chapters.length - 1) changeChapter(state.index.chapters[position + 1].slug);
+    elements.vnOrder.addEventListener("click", () => setChapterOrder("vn"));
+    elements.groupOrder.addEventListener("click", () => setChapterOrder("group"));
+    elements.previousChapter.addEventListener("click", () => changeChapterBy(-1));
+    elements.nextChapter.addEventListener("click", () => changeChapterBy(1));
+    elements.endNextChapter.addEventListener("click", () => {
+      changeChapterBy(1, { scrollTo: ".script-heading" });
     });
 
     let debounce;
@@ -501,6 +569,8 @@
       state.query = params.get("q") || "";
       state.scope = params.get("scope") === "all" ? "all" : "chapter";
       state.mode = params.get("mode") === "en" ? "english" : "parallel";
+      state.order = params.get("order") === "group" ? "group" : "vn";
+      if (!chapterMeta(requestedChapter)) state.chapter = currentChapterOrder()[0].slug;
 
       elements.search.value = state.query;
       document.querySelector(`input[name="search-scope"][value="${state.scope}"]`).checked = true;
@@ -510,7 +580,7 @@
       updateReadingMode();
       populateChapterMenu();
       bindEvents();
-      await changeChapter(state.chapter, { scroll: false });
+      await changeChapter(state.chapter, { scrollTo: null });
     } catch (error) {
       elements.chapterTitle.textContent = "Script unavailable";
       elements.resultStatus.textContent = "Could not load the data index.";

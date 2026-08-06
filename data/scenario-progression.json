@@ -1,6 +1,16 @@
 {
   "version": 1,
   "source": "BLACK SHEEP TOWN ScenarioButton.requireScenarios",
+  "vnOrderSource": "Prerequisite-safe topological order; in-game Day and Date break concurrent choices",
+  "vnOrder": [
+    "X1", "A1", "B1", "X2-1", "X2-2", "A2-1", "A2-2", "E1", "E2",
+    "C1", "A3", "B2", "F1", "F2", "E3", "A4", "X3-1", "E4", "A5",
+    "X4", "G1", "G2", "G3", "F3", "D1", "D2", "X3-2", "X3-3", "C2",
+    "X6-1", "X6-2", "X7", "X8", "X9", "X10", "C3", "A6", "E5", "B3-1",
+    "B3-2", "F4", "B4-1", "B4-2", "X11", "E6", "C4", "D3", "E7", "B5",
+    "A7", "X14", "X19", "B6", "X15-1", "X15-2", "F5", "D5", "A8",
+    "X16", "X12", "X13", "X18", "X17"
+  ],
   "chapters": {
     "A1": ["X1"],
     "A2-1": ["B1"],
