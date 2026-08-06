@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A searchable Japanese and English script reader for Black Sheep Town.">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Black Sheep Town Script Reader">
+    <meta property="og:description" content="Read the Japanese script beside the current English fan translation.">
+    <meta property="og:url" content="https://jwknt.github.io/black-sheep-town/">
+    <meta property="og:image" content="https://jwknt.github.io/black-sheep-town/assets/og.png">
+    <meta property="og:image:width" content="1536">
+    <meta property="og:image:height" content="1024">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="theme-color" content="#ffffff">
+    <title>Black Sheep Town Script Reader</title>
+    <link rel="stylesheet" href="assets/styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#script-lines">Skip to script</a>
+
+    <header class="site-header">
+      <a class="site-title" href="./">Black Sheep Town</a>
+      <nav aria-label="Site links">
+        <a href="https://github.com/JWKNT/black-sheep-town" target="_blank" rel="noreferrer">GitHub</a>
+      </nav>
+    </header>
+
+    <main class="reader-shell">
+      <section class="intro" aria-labelledby="page-title">
+        <div>
+          <h1 id="page-title">Script reader</h1>
+          <p>Japanese source beside the current English machine-assisted fan translation.</p>
+        </div>
+        <dl class="quick-stats" aria-label="Translation coverage">
+          <div>
+            <dt>Chapters</dt>
+            <dd id="chapter-count">—</dd>
+          </div>
+          <div>
+            <dt>Lines</dt>
+            <dd id="line-count">—</dd>
+          </div>
+          <div>
+            <dt>Updated</dt>
+            <dd id="updated-at">—</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section class="reader-controls" id="reader-controls" aria-label="Reader controls">
+        <div class="chapter-control">
+          <label for="chapter-select">Chapter</label>
+          <button id="previous-chapter" type="button" aria-label="Previous chapter">←</button>
+          <select id="chapter-select" aria-label="Chapter"></select>
+          <button id="next-chapter" type="button" aria-label="Next chapter">→</button>
+        </div>
+
+        <fieldset class="scope-control">
+          <legend>Search</legend>
+          <label><input type="radio" name="search-scope" value="chapter" checked> This chapter</label>
+          <label><input type="radio" name="search-scope" value="all"> All chapters</label>
+        </fieldset>
+
+        <label class="search-control" for="script-search">
+          <span>JP, EN, speaker, or line ID</span>
+          <input id="script-search" type="search" autocomplete="off" placeholder="Search this chapter" spellcheck="false">
+        </label>
+
+        <button class="clear-search" id="clear-search" type="button" hidden>Clear</button>
+      </section>
+
+      <section class="script-heading" aria-live="polite">
+        <div>
+          <h2 id="chapter-title">Loading…</h2>
+          <p id="chapter-progress"></p>
+        </div>
+        <p class="result-status" id="result-status" role="status">Loading script…</p>
+      </section>
+
+      <section class="script-lines" id="script-lines" aria-label="Bilingual script"></section>
+
+      <div class="empty-state" id="empty-state" hidden>
+        <h2>No matching lines</h2>
+        <p>Try a broader search or another chapter.</p>
+      </div>
+
+      <a class="back-to-controls" href="#reader-controls">Back to controls ↑</a>
+    </main>
+
+    <footer>
+      <p>Unofficial, noncommercial fan translation. Please support the creators and own a legal Japanese copy of <cite>Black Sheep Town</cite>.</p>
+      <p>English text is a draft and may change as translation and review continue.</p>
+    </footer>
+
+    <template id="line-template">
+      <article class="script-line">
+        <a class="line-number"></a>
+        <div class="language-column japanese">
+          <span class="language-label">JP</span>
+          <span class="speaker"></span>
+          <p class="line-text" lang="ja"></p>
+        </div>
+        <div class="language-column english">
+          <span class="language-label">EN</span>
+          <span class="speaker"></span>
+          <p class="line-text" lang="en"></p>
+        </div>
+      </article>
+    </template>
+
+    <script src="assets/app.js"></script>
+  </body>
+</html>
