@@ -7,7 +7,9 @@ const root = new URL("../", import.meta.url);
 test("reader HTML exposes the required controls and regions", async () => {
   const html = await readFile(new URL("index.html", root), "utf8");
   for (const id of [
-    "chapter-select",
+    "chapter-menu-button",
+    "chapter-menu",
+    "chapter-menu-value",
     "previous-chapter",
     "next-chapter",
     "script-search",
@@ -27,7 +29,9 @@ test("reader HTML exposes the required controls and regions", async () => {
 test("glossary HTML exposes progress, search, and entry regions", async () => {
   const html = await readFile(new URL("glossary.html", root), "utf8");
   for (const id of [
-    "glossary-chapter",
+    "glossary-chapter-button",
+    "glossary-chapter-menu",
+    "glossary-chapter-value",
     "glossary-search",
     "glossary-list",
     "glossary-entry-template",
@@ -122,7 +126,10 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.script-line \{[^}]*border: 1px solid var\(--line-strong\)/s);
   assert.match(css, /\.script-line \+ \.script-line \{ border-top: 0; \}/);
   assert.match(css, /\.line-number \{[^}]*border-right: 1px solid var\(--line-strong\)/s);
+  assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: 13px/s);
+  assert.match(css, /\.language-column \{[^}]*justify-content: center/s);
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
+  assert.match(css, /\.chapter-menu \{[^}]*grid-template-columns: repeat\(3,/s);
   assert.match(css, /\.english-reader-mode \.language-column\.japanese \{ display: none; \}/);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
 });

@@ -11,7 +11,7 @@
     <meta name="twitter:card" content="summary">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Script Reader</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.3">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.4">
   </head>
   <body>
     <a class="skip-link" href="#script-lines">Skip to script</a>
@@ -55,9 +55,15 @@
 
       <section class="reader-controls" id="reader-controls" aria-label="Reader controls">
         <div class="chapter-control">
-          <label for="chapter-select">Chapter</label>
+          <span class="control-label" id="chapter-label">Chapter</span>
           <button id="previous-chapter" type="button" aria-label="Previous chapter">←</button>
-          <select id="chapter-select" aria-label="Chapter"></select>
+          <div class="chapter-picker" id="chapter-picker">
+            <button class="chapter-picker-button" id="chapter-menu-button" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="chapter-menu" aria-labelledby="chapter-label chapter-menu-value">
+              <span id="chapter-menu-value">Loading…</span>
+              <span class="chapter-picker-caret" aria-hidden="true">⌄</span>
+            </button>
+            <div class="chapter-menu" id="chapter-menu" role="listbox" aria-labelledby="chapter-label" hidden></div>
+          </div>
           <button id="next-chapter" type="button" aria-label="Next chapter">→</button>
         </div>
 
@@ -114,6 +120,6 @@
       </article>
     </template>
 
-    <script src="assets/app.js?v=20260806.3"></script>
+    <script src="assets/app.js?v=20260806.4"></script>
   </body>
 </html>

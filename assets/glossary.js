@@ -9,7 +9,10 @@
   };
 
   const elements = {
-    chapter: document.querySelector("#glossary-chapter"),
+    chapterPicker: document.querySelector("#glossary-chapter-picker"),
+    chapterButton: document.querySelector("#glossary-chapter-button"),
+    chapterValue: document.querySelector("#glossary-chapter-value"),
+    chapterMenu: document.querySelector("#glossary-chapter-menu"),
     search: document.querySelector("#glossary-search"),
     count: document.querySelector("#glossary-count"),
     list: document.querySelector("#glossary-list"),
@@ -102,9 +105,37 @@
     elements.list.hidden = visible.length === 0;
     elements.empty.hidden = visible.length !== 0;
     elements.count.textContent = `${number.format(visible.length)} of ${number.format(unlocked.length)} unlocked entries`;
+    updateChapterPicker();
     updateUrl();
     if (window.location.hash) {
       requestAnimationFrame(() => document.querySelector(window.location.hash)?.scrollIntoView());
+    }
+  }
+
+  function chapterOptions() {
+    return [...elements.chapterMenu.querySelectorAll(".chapter-menu-option")];
+  }
+
+  function updateChapterPicker() {
+    const chapter = state.index.chapters.find((candidate) => candidate.slug === state.chapter);
+    elements.chapterValue.textContent = `Chapter ${chapter.title}`;
+    chapterOptions().forEach((option) => {
+      option.setAttribute("aria-selected", String(option.dataset.slug === state.chapter));
+    });
+  }
+
+  function closeChapterMenu({ restoreFocus = false } = {}) {
+    elements.chapterMenu.hidden = true;
+    elements.chapterButton.setAttribute("aria-expanded", "false");
+    if (restoreFocus) elements.chapterButton.focus();
+  }
+
+  function openChapterMenu({ focus = true } = {}) {
+    elements.chapterMenu.hidden = false;
+    elements.chapterButton.setAttribute("aria-expanded", "true");
+    if (focus) {
+      const options = chapterOptions();
+      (options.find((option) => option.dataset.slug === state.chapter) || options[0])?.focus();
     }
   }
 
@@ -116,24 +147,72 @@
     }
     const fragment = document.createDocumentFragment();
     for (const [part, chapters] of groups) {
-      const optgroup = document.createElement("optgroup");
-      optgroup.label = `Part ${part}`;
+      const group = document.createElement("section");
+      group.className = "chapter-menu-group";
+      group.setAttribute("role", "group");
+      const heading = document.createElement("h3");
+      const headingId = `glossary-part-${part}`;
+      heading.className = "chapter-menu-heading";
+      heading.id = headingId;
+      heading.textContent = `Part ${part}`;
+      group.setAttribute("aria-labelledby", headingId);
+      group.append(heading);
       for (const chapter of chapters) {
-        const option = document.createElement("option");
-        option.value = chapter.slug;
+        const option = document.createElement("button");
+        option.className = "chapter-menu-option";
+        option.type = "button";
+        option.setAttribute("role", "option");
+        option.setAttribute("aria-selected", "false");
+        option.dataset.slug = chapter.slug;
         option.textContent = `Chapter ${chapter.title}`;
-        optgroup.append(option);
+        group.append(option);
       }
-      fragment.append(optgroup);
+      fragment.append(group);
     }
-    elements.chapter.append(fragment);
-    elements.chapter.value = state.chapter;
+    elements.chapterMenu.append(fragment);
+    updateChapterPicker();
   }
 
   function bindEvents() {
-    elements.chapter.addEventListener("change", () => {
-      state.chapter = elements.chapter.value;
+    elements.chapterButton.addEventListener("click", () => {
+      if (elements.chapterMenu.hidden) openChapterMenu();
+      else closeChapterMenu();
+    });
+    elements.chapterButton.addEventListener("keydown", (event) => {
+      if (["ArrowDown", "ArrowUp", "Enter", " "].includes(event.key) && elements.chapterMenu.hidden) {
+        event.preventDefault();
+        openChapterMenu();
+      }
+    });
+    elements.chapterMenu.addEventListener("click", (event) => {
+      const option = event.target.closest(".chapter-menu-option");
+      if (!option) return;
+      state.chapter = option.dataset.slug;
+      closeChapterMenu({ restoreFocus: true });
       render();
+    });
+    elements.chapterMenu.addEventListener("keydown", (event) => {
+      const options = chapterOptions();
+      const position = options.indexOf(document.activeElement);
+      if (event.key === "Escape") {
+        event.preventDefault();
+        closeChapterMenu({ restoreFocus: true });
+      } else if (["ArrowDown", "ArrowRight"].includes(event.key)) {
+        event.preventDefault();
+        options[(position + 1) % options.length]?.focus();
+      } else if (["ArrowUp", "ArrowLeft"].includes(event.key)) {
+        event.preventDefault();
+        options[(position - 1 + options.length) % options.length]?.focus();
+      } else if (event.key === "Home") {
+        event.preventDefault();
+        options[0]?.focus();
+      } else if (event.key === "End") {
+        event.preventDefault();
+        options.at(-1)?.focus();
+      }
+    });
+    document.addEventListener("click", (event) => {
+      if (!elements.chapterPicker.contains(event.target)) closeChapterMenu();
     });
     let debounce;
     elements.search.addEventListener("input", () => {

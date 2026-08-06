@@ -6,7 +6,7 @@
     <meta name="description" content="The spoiler-aware in-game glossary for Black Sheep Town.">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Glossary</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.3">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.4">
   </head>
   <body>
     <a class="skip-link" href="#glossary-list">Skip to glossary</a>
@@ -30,10 +30,16 @@
       </section>
 
       <section class="glossary-controls" aria-label="Glossary controls">
-        <label for="glossary-chapter">
-          Progress through
-          <select id="glossary-chapter"></select>
-        </label>
+        <div class="glossary-chapter-control">
+          <span class="control-label" id="glossary-chapter-label">Progress through</span>
+          <div class="chapter-picker" id="glossary-chapter-picker">
+            <button class="chapter-picker-button" id="glossary-chapter-button" type="button" aria-haspopup="listbox" aria-expanded="false" aria-controls="glossary-chapter-menu" aria-labelledby="glossary-chapter-label glossary-chapter-value">
+              <span id="glossary-chapter-value">Loading…</span>
+              <span class="chapter-picker-caret" aria-hidden="true">⌄</span>
+            </button>
+            <div class="chapter-menu" id="glossary-chapter-menu" role="listbox" aria-labelledby="glossary-chapter-label" hidden></div>
+          </div>
+        </div>
         <label for="glossary-search">
           Search unlocked entries
           <input id="glossary-search" type="search" autocomplete="off" placeholder="English, Japanese, or reading">
@@ -68,6 +74,6 @@
       </article>
     </template>
 
-    <script src="assets/glossary.js?v=20260806.1"></script>
+    <script src="assets/glossary.js?v=20260806.2"></script>
   </body>
 </html>

@@ -19,7 +19,10 @@
     chapterCount: document.querySelector("#chapter-count"),
     lineCount: document.querySelector("#line-count"),
     updatedAt: document.querySelector("#updated-at"),
-    chapterSelect: document.querySelector("#chapter-select"),
+    chapterPicker: document.querySelector("#chapter-picker"),
+    chapterButton: document.querySelector("#chapter-menu-button"),
+    chapterValue: document.querySelector("#chapter-menu-value"),
+    chapterMenu: document.querySelector("#chapter-menu"),
     previousChapter: document.querySelector("#previous-chapter"),
     nextChapter: document.querySelector("#next-chapter"),
     search: document.querySelector("#script-search"),
@@ -209,9 +212,33 @@
 
   function updateChapterControls() {
     const position = state.index.chapters.findIndex((chapter) => chapter.slug === state.chapter);
-    elements.chapterSelect.value = state.chapter;
+    const meta = state.index.chapters[position];
+    const incomplete = meta.translatedLines < meta.totalLines ? " · in progress" : "";
+    elements.chapterValue.textContent = `${meta.title} · ${number.format(meta.translatedLines)} lines${incomplete}`;
+    elements.chapterMenu.querySelectorAll(".chapter-menu-option").forEach((option) => {
+      option.setAttribute("aria-selected", String(option.dataset.slug === state.chapter));
+    });
     elements.previousChapter.disabled = position <= 0;
     elements.nextChapter.disabled = position >= state.index.chapters.length - 1;
+  }
+
+  function chapterOptions() {
+    return [...elements.chapterMenu.querySelectorAll(".chapter-menu-option")];
+  }
+
+  function closeChapterMenu({ restoreFocus = false } = {}) {
+    elements.chapterMenu.hidden = true;
+    elements.chapterButton.setAttribute("aria-expanded", "false");
+    if (restoreFocus) elements.chapterButton.focus();
+  }
+
+  function openChapterMenu({ focus = true } = {}) {
+    elements.chapterMenu.hidden = false;
+    elements.chapterButton.setAttribute("aria-expanded", "true");
+    if (focus) {
+      const options = chapterOptions();
+      (options.find((option) => option.dataset.slug === state.chapter) || options[0])?.focus();
+    }
   }
 
   function setChapterHeading(meta) {
@@ -330,7 +357,7 @@
     if (scroll) document.querySelector("#reader-controls").scrollIntoView();
   }
 
-  function populateChapterSelect() {
+  function populateChapterMenu() {
     const groups = new Map();
     for (const chapter of state.index.chapters) {
       if (!groups.has(chapter.part)) groups.set(chapter.part, []);
@@ -339,22 +366,72 @@
 
     const fragment = document.createDocumentFragment();
     for (const [part, chapters] of groups) {
-      const optgroup = document.createElement("optgroup");
-      optgroup.label = `Part ${part}`;
+      const group = document.createElement("section");
+      group.className = "chapter-menu-group";
+      group.setAttribute("role", "group");
+      const heading = document.createElement("h3");
+      const headingId = `chapter-part-${part}`;
+      heading.className = "chapter-menu-heading";
+      heading.id = headingId;
+      heading.textContent = `Part ${part}`;
+      group.setAttribute("aria-labelledby", headingId);
+      group.append(heading);
       for (const chapter of chapters) {
-        const option = document.createElement("option");
+        const option = document.createElement("button");
         const incomplete = chapter.translatedLines < chapter.totalLines ? " · in progress" : "";
-        option.value = chapter.slug;
+        option.className = "chapter-menu-option";
+        option.type = "button";
+        option.setAttribute("role", "option");
+        option.setAttribute("aria-selected", "false");
+        option.dataset.slug = chapter.slug;
         option.textContent = `${chapter.title} · ${number.format(chapter.translatedLines)} lines${incomplete}`;
-        optgroup.append(option);
+        group.append(option);
       }
-      fragment.append(optgroup);
+      fragment.append(group);
     }
-    elements.chapterSelect.append(fragment);
+    elements.chapterMenu.append(fragment);
   }
 
   function bindEvents() {
-    elements.chapterSelect.addEventListener("change", () => changeChapter(elements.chapterSelect.value));
+    elements.chapterButton.addEventListener("click", () => {
+      if (elements.chapterMenu.hidden) openChapterMenu();
+      else closeChapterMenu();
+    });
+    elements.chapterButton.addEventListener("keydown", (event) => {
+      if (["ArrowDown", "ArrowUp", "Enter", " "].includes(event.key) && elements.chapterMenu.hidden) {
+        event.preventDefault();
+        openChapterMenu();
+      }
+    });
+    elements.chapterMenu.addEventListener("click", (event) => {
+      const option = event.target.closest(".chapter-menu-option");
+      if (!option) return;
+      closeChapterMenu({ restoreFocus: true });
+      changeChapter(option.dataset.slug);
+    });
+    elements.chapterMenu.addEventListener("keydown", (event) => {
+      const options = chapterOptions();
+      const position = options.indexOf(document.activeElement);
+      if (event.key === "Escape") {
+        event.preventDefault();
+        closeChapterMenu({ restoreFocus: true });
+      } else if (["ArrowDown", "ArrowRight"].includes(event.key)) {
+        event.preventDefault();
+        options[(position + 1) % options.length]?.focus();
+      } else if (["ArrowUp", "ArrowLeft"].includes(event.key)) {
+        event.preventDefault();
+        options[(position - 1 + options.length) % options.length]?.focus();
+      } else if (event.key === "Home") {
+        event.preventDefault();
+        options[0]?.focus();
+      } else if (event.key === "End") {
+        event.preventDefault();
+        options.at(-1)?.focus();
+      }
+    });
+    document.addEventListener("click", (event) => {
+      if (!elements.chapterPicker.contains(event.target)) closeChapterMenu();
+    });
     elements.previousChapter.addEventListener("click", () => {
       const position = state.index.chapters.findIndex((chapter) => chapter.slug === state.chapter);
       if (position > 0) changeChapter(state.index.chapters[position - 1].slug);
@@ -423,7 +500,7 @@
       elements.lineCount.textContent = number.format(state.index.translatedLines);
       elements.updatedAt.textContent = state.index.updated;
       updateReadingMode();
-      populateChapterSelect();
+      populateChapterMenu();
       bindEvents();
       await changeChapter(state.chapter, { scroll: false });
     } catch (error) {
