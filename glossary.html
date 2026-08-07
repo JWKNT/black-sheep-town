@@ -6,7 +6,7 @@
     <meta name="description" content="The spoiler-aware in-game glossary for Black Sheep Town.">
     <meta name="theme-color" content="#ffffff">
     <title>Black Sheep Town Glossary</title>
-    <link rel="stylesheet" href="assets/styles.css?v=20260806.7">
+    <link rel="stylesheet" href="assets/styles.css?v=20260806.8">
   </head>
   <body>
     <a class="skip-link" href="#glossary-list">Skip to glossary</a>
@@ -53,7 +53,7 @@
         </label>
       </section>
 
-      <p class="glossary-note">Definitions are the original Japanese in-game text. Standardized English titles are shown alongside them.</p>
+      <p class="glossary-note">Original Japanese definitions are shown beside the current English machine-assisted fan translation.</p>
       <section class="glossary-list" id="glossary-list" aria-live="polite"></section>
 
       <div class="empty-state" id="glossary-empty" hidden>
@@ -68,19 +68,37 @@
 
     <template id="glossary-entry-template">
       <article class="glossary-entry">
-        <header>
+        <div class="glossary-entry-main">
           <span class="glossary-id"></span>
-          <div>
-            <h2 class="glossary-en-title"></h2>
-            <p><span class="glossary-jp-title" lang="ja"></span><span class="glossary-reading" lang="ja"></span></p>
+          <div class="glossary-entry-content">
+            <header class="glossary-title-pair">
+              <div class="glossary-title japanese">
+                <span class="glossary-language-label">JP</span>
+                <h2 class="glossary-jp-title" lang="ja"></h2>
+                <p class="glossary-reading" lang="ja"></p>
+              </div>
+              <div class="glossary-title english">
+                <span class="glossary-language-label">EN</span>
+                <h2 class="glossary-en-title"></h2>
+              </div>
+            </header>
+            <div class="glossary-comparison">
+              <div class="glossary-language japanese">
+                <p class="glossary-jp-description" lang="ja"></p>
+              </div>
+              <div class="glossary-language english">
+                <p class="glossary-en-description" lang="en"></p>
+              </div>
+            </div>
           </div>
+        </div>
+        <footer class="glossary-entry-footer">
+          <p class="glossary-unlock"></p>
           <a class="glossary-back-link">View in reader ↗</a>
-        </header>
-        <div class="glossary-description" lang="ja"></div>
-        <p class="glossary-unlock"></p>
+        </footer>
       </article>
     </template>
 
-    <script src="assets/glossary.js?v=20260806.4"></script>
+    <script src="assets/glossary.js?v=20260806.5"></script>
   </body>
 </html>

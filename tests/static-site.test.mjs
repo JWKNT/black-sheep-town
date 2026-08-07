@@ -42,10 +42,13 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     "glossary-search",
     "glossary-list",
     "glossary-entry-template",
+    "glossary-empty",
   ]) {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
+  assert.match(html, /class="glossary-jp-description" lang="ja"/);
+  assert.match(html, /class="glossary-en-description" lang="en"/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
@@ -147,6 +150,8 @@ test("generated glossary contains every evolving game record", async () => {
       assert.ok(record.requires.length > 0);
       assert.ok(record.jpTitle.length > 0);
       assert.ok(record.jpDescription.length > 0);
+      assert.ok(record.enTitle.length > 0);
+      assert.ok(record.enDescription.length > 0);
     }
   }
 
@@ -219,12 +224,17 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /data\/glossary\.json\?v=/);
   assert.match(app, /data\/scenario-progression\.json\?v=/);
   assert.match(app, /makeGlossaryTerm/);
+  assert.match(app, /description\.textContent = shortened\(entry\.record\.enDescription\)/);
+  assert.doesNotMatch(app, /glossary-popover-action/);
+  assert.doesNotMatch(app, /glossary-popover-japanese/);
   assert.match(app, /function currentChapterOrder/);
   assert.match(app, /elements\.endNextChapter\.addEventListener/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
   assert.match(glossary, /function currentChapterOrder/);
+  assert.match(glossary, /\.glossary-jp-description/);
+  assert.match(glossary, /\.glossary-en-description/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 
@@ -278,4 +288,6 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);
   assert.match(css, /\.english-reader-mode \.line-text \{[^}]*font-size: 18px[^}]*text-wrap: pretty/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
+  assert.match(css, /\.glossary-comparison \{[^}]*grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/s);
+  assert.match(css, /\.glossary-language\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
 });

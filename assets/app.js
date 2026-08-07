@@ -153,20 +153,11 @@
 
     const title = document.createElement("strong");
     title.textContent = entry.enTitle;
-    const japanese = document.createElement("span");
-    japanese.className = "glossary-popover-japanese";
-    japanese.lang = "ja";
-    japanese.textContent = `${entry.record.jpTitle}${entry.record.pronunciation ? ` · ${entry.record.pronunciation}` : ""}`;
     const description = document.createElement("span");
     description.className = "glossary-popover-description";
-    description.lang = entry.record.enDescription ? "en" : "ja";
-    description.textContent = shortened(
-      entry.record.enDescription || entry.record.jpDescription,
-    );
-    const action = document.createElement("span");
-    action.className = "glossary-popover-action";
-    action.textContent = "Open full glossary entry →";
-    popover.append(title, japanese, description, action);
+    description.lang = "en";
+    description.textContent = shortened(entry.record.enDescription);
+    popover.append(title, description);
     link.append(popover);
     return link;
   }
