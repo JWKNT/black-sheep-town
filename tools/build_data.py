@@ -15,11 +15,12 @@ from pathlib import Path
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_TRANSLATION_ROOT = REPOSITORY_ROOT.parent / "BST_MTL" / "work" / "translation"
 
-# Correct two English translations of official game speaker labels that had
-# collapsed the individually named Wong sisters into their collective identity.
+# Normalize the few official game labels whose draft speaker field either
+# collapses an individual identity or retains a production-only qualifier.
 GAME_SPEAKER_EN_OVERRIDES = {
-    "黄天明": "Tinming Wong",
-    "黄天祥": "Tinchen Wong",
+    "黄天明": "Wong Tianming",
+    "黄天祥": "Wong Tianxiang",
+    "サーシェンカ白シャツ": "Sashen'ka",
 }
 
 
@@ -82,6 +83,42 @@ def read_glossary_titles(path: Path) -> dict[int, str]:
     return titles
 
 
+def sync_scenario_progression(translation_root: Path, output_root: Path) -> None:
+    workspace_root = translation_root.parent
+    order_path = workspace_root / "notes" / "chapter_unlock_and_editorial_reading_order.md"
+    progression_source = REPOSITORY_ROOT / "data" / "scenario-progression.json"
+    if not order_path.is_file() or not progression_source.is_file():
+        raise SystemExit("Scenario progression sources were not found")
+
+    note = order_path.read_text(encoding="utf-8")
+    try:
+        order_section = note.split("## Default editorial read-through", 1)[1].split(
+            "This sequence", 1
+        )[0]
+    except IndexError as error:
+        raise SystemExit("The editorial reading-order section could not be parsed") from error
+    vn_order = [slug.upper() for slug in re.findall(r"`([^`]+)`", order_section)]
+
+    progression = json.loads(progression_source.read_text(encoding="utf-8"))
+    chapters = progression["chapters"]
+    if len(vn_order) != len(chapters) or set(vn_order) != set(chapters):
+        raise SystemExit("The editorial reading order does not contain every scenario once")
+    positions = {slug: position for position, slug in enumerate(vn_order)}
+    for chapter, requirements in chapters.items():
+        for requirement in requirements:
+            if positions[requirement] >= positions[chapter]:
+                raise SystemExit(
+                    f"Invalid editorial order: {chapter} appears before {requirement}"
+                )
+
+    progression["vnOrderSource"] = (
+        "Default editorial read-through reconstructed from "
+        "ScenarioButton.requireScenarios; concurrent choices follow the game's button order"
+    )
+    progression["vnOrder"] = vn_order
+    write_json(output_root / "scenario-progression.json", progression)
+
+
 def build_glossary(
     translation_root: Path, output_root: Path, generated_at: datetime
 ) -> int:
@@ -141,6 +178,8 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     manifest_path = translation_root / "chapter_manifest.tsv"
     if not manifest_path.is_file():
         raise SystemExit(f"Chapter manifest not found: {manifest_path}")
+
+    sync_scenario_progression(translation_root, output_root)
 
     chapters: list[dict[str, object]] = []
     translated_total = 0

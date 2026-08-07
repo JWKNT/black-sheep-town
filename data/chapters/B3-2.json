@@ -77,7 +77,7 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そんなの、誰だってわかるさ。……しかし、<tips=1>亮</tips>のやつがリーダーになってから色々と街が動いてるな。そう言えば、爺さんたちはどうするんだろうね？　なんだか最近キナ臭いじゃないか。<tips=7>ＹＳ</tips>のやることにケチ付けたりしてさ。<tips=21>八龍会</tips>はそれでいいのかねえ。<tips=10>道夫</tips>君は何か聞いてない？」",
-      "en": "“Anyone could work that out. ...Still, the city’s been changing in all sorts of ways since <tips=1>Ryo</tips> took over. I wonder what the old men plan to do? Things have felt dangerous lately, haven’t they? They keep criticizing what <tips=7>YS</tips> does. Is the <tips=21>Dragon Club</tips> really okay with that? Have you heard anything, <tips=10>Michio</tips>?”"
+      "en": "“Anyone could work that out. ...Still, the city’s been changing in all sorts of ways since <tips=1>Ryou</tips> took over. I wonder what the old men plan to do? Things have felt dangerous lately, haven’t they? They keep criticizing what <tips=7>YS</tips> does. Is the <tips=21>Dragon Club</tips> really okay with that? Have you heard anything, <tips=10>Michio</tips>?”"
     },
     {
       "id": "B3-2:0018",
@@ -192,7 +192,7 @@
       "i": 21,
       "n": 39,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「お久しぶりです」",
       "en": "“It’s been a while.”"
     },
@@ -221,7 +221,7 @@
       "sj": "",
       "se": "",
       "jp": "　そう、そこに入って来たのは<tips=1>亮</tips>の妹である<tips=44>謝筱喬</tips>と、その友人である<tips=51>熨田さくら</tips>だった。",
-      "en": "Yes, the girls who entered are <tips=44>Siu-kiu Tse</tips>, <tips=1>Ryo</tips>’s younger sister, and her friend <tips=51>Sakura Noshida</tips>."
+      "en": "Yes, the girls who entered are <tips=44>Xie Xiaoqiao</tips>, <tips=1>Ryou</tips>’s younger sister, and her friend <tips=51>Sakura Noshida</tips>."
     },
     {
       "id": "B3-2:0043",
@@ -275,7 +275,7 @@
       "sj": "",
       "se": "",
       "jp": "　子供の頃は定食屋の息子として通していた<tips=1>亮</tips>は、その実の妹のことを仲間には話していない。<tips=66>コンタ</tips>も当然この目の前の少女が<tips=1>亮</tips>の妹だとは気がつかない。",
-      "en": "As a child, <tips=1>Ryo</tips> passed himself off as a diner owner’s son and never told our companions about his real sister. Naturally, <tips=66>Konta</tips> has not realized that the girl before him is <tips=1>Ryo</tips>’s sister."
+      "en": "As a child, <tips=1>Ryou</tips> passed himself off as a diner owner’s son and never told our companions about his real sister. Naturally, <tips=66>Konta</tips> has not realized that the girl before him is <tips=1>Ryou</tips>’s sister."
     },
     {
       "id": "B3-2:0049",
@@ -284,7 +284,7 @@
       "sj": "",
       "se": "",
       "jp": "　かといって、今ここでおれが話すわけにもいかないよな？　あの<tips=3>クリス・ツェー</tips>が常に手元に置いていた愛娘であり、現在街を騒がしている新<tips=81>龍頭</tips>の妹であると、いくらなんでもここで言うわけにはいかないもの。",
-      "en": "But I can hardly tell him here, can I? She is the beloved daughter <tips=3>Chris Tse</tips> always kept at his side, and the sister of the new <tips=81>Longtou</tips> who currently has the city in an uproar. I certainly cannot announce that here."
+      "en": "But I can hardly tell him here, can I? She is the beloved daughter <tips=3>Chris Xie</tips> always kept at his side, and the sister of the new <tips=81>Longtou</tips> who currently has the city in an uproar. I certainly cannot announce that here."
     },
     {
       "id": "B3-2:0050",
@@ -318,9 +318,9 @@
       "i": 35,
       "n": 53,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「初めまして。私、<tips=44>謝筱喬</tips>といいます。<tips=1>謝亮</tips>の妹です」",
-      "en": "“Pleased to meet you. My name is <tips=44>Siu-kiu Tse</tips>. I’m <tips=1>Tse Long</tips>’s younger sister.”"
+      "en": "“Pleased to meet you. My name is <tips=44>Xie Xiaoqiao</tips>. I’m <tips=1>Xie Liang</tips>’s younger sister.”"
     },
     {
       "id": "B3-2:0054",
@@ -347,7 +347,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「ちょ、ちょっと<tips=44>筱喬</tips>。そんなに詳しく自己紹介しちゃって……」",
-      "en": "“W-wait, <tips=44>Siu-kiu</tips>. You can’t introduce yourself in that much detail...”"
+      "en": "“W-wait, <tips=44>Xiaoqiao</tips>. You can’t introduce yourself in that much detail...”"
     },
     {
       "id": "B3-2:0057",
@@ -365,7 +365,7 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「えっ、<tips=1>謝亮</tips>の妹って……」",
-      "en": "“Wait, you’re <tips=1>Tse Long</tips>’s sister...?”"
+      "en": "“Wait, you’re <tips=1>Xie Liang</tips>’s sister...?”"
     },
     {
       "id": "B3-2:0059",
@@ -417,7 +417,7 @@
       "i": 46,
       "n": 64,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「あ、はい」",
       "en": "“Oh, sure.”"
     },
@@ -482,7 +482,7 @@
       "sj": "",
       "se": "",
       "jp": "　若い女の子があんな怪我をして家族はなんとも言わなかったのかとか、ちゃんと<tips=1>亮</tips>に支払って貰っているのかとか、聞きたいことは色々あったが、あまり根掘り葉掘り尋ねても鬱陶しいだけかな。",
-      "en": "I have plenty I want to ask—what her family said about a young girl suffering such an injury, whether <tips=1>Ryo</tips> properly paid for her treatment—but prying too deeply would probably only annoy her."
+      "en": "I have plenty I want to ask—what her family said about a young girl suffering such an injury, whether <tips=1>Ryou</tips> properly paid for her treatment—but prying too deeply would probably only annoy her."
     },
     {
       "id": "B3-2:0078",
@@ -617,7 +617,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>亮</tips>に、こんな凄い美人の妹がいたんだね……」",
-      "en": "“I never knew <tips=1>Ryo</tips> had such a beautiful sister...”"
+      "en": "“I never knew <tips=1>Ryou</tips> had such a beautiful sister...”"
     },
     {
       "id": "B3-2:0093",
@@ -635,7 +635,7 @@
       "sj": "",
       "se": "",
       "jp": "「変な気を起こすのはやめとけよ。<tips=1>亮</tips>はこの妹を溺愛してるからな。ヤツを敵に回すのをいとわないというなら好きにすればいい」",
-      "en": "“Don’t get any strange ideas. <tips=1>Ryo</tips> adores that sister. If you don’t mind making an enemy of him, do as you please.”"
+      "en": "“Don’t get any strange ideas. <tips=1>Ryou</tips> adores that sister. If you don’t mind making an enemy of him, do as you please.”"
     },
     {
       "id": "B3-2:0095",
@@ -653,7 +653,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は情けない顔をして言う。<tips=1>亮</tips>を怒らせた時の相手に対するおそろしい仕打ちを想像したに違いない。",
-      "en": "<tips=66>Konta</tips> answers with a pathetic look. He must be imagining the terrible punishment <tips=1>Ryo</tips> would inflict on anyone who angered him."
+      "en": "<tips=66>Konta</tips> answers with a pathetic look. He must be imagining the terrible punishment <tips=1>Ryou</tips> would inflict on anyone who angered him."
     },
     {
       "id": "B3-2:0097",
@@ -698,7 +698,7 @@
       "sj": "",
       "se": "",
       "jp": "「私はレッドカレーをお願いします。<tips=44>筱喬</tips>はランチセットAで」",
-      "en": "“I’ll have the red curry, please. <tips=44>Siu-kiu</tips> will have Lunch Set A.”"
+      "en": "“I’ll have the red curry, please. <tips=44>Xiaoqiao</tips> will have Lunch Set A.”"
     },
     {
       "id": "B3-2:0102",
@@ -770,7 +770,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=44>筱喬</tips>の調子が良くなかったのに、私が無理矢理連れ出しちゃったんです。それでかえって疲れさせちゃったみたいでー。私空気読めないんですよねー」",
-      "en": "“<tips=44>Siu-kiu</tips> wasn’t feeling well, but I dragged her outside anyway. I think I only tired her out more. I’m terrible at reading the room.”"
+      "en": "“<tips=44>Xiaoqiao</tips> wasn’t feeling well, but I dragged her outside anyway. I think I only tired her out more. I’m terrible at reading the room.”"
     },
     {
       "id": "B3-2:0110",
@@ -788,7 +788,7 @@
       "sj": "",
       "se": "",
       "jp": "「ねえ<tips=44>筱喬</tips>、今日はご飯食べたらもう帰ろっか？　<tips=40><tips=40>天明</tips>と<tips=40>天祥</tips></tips>のかわいい洋服選びは、今度にしよう。あの子たちの誕生日まで、まだもうちょっと時間あるし」",
-      "en": "“Hey, <tips=44>Siu-kiu</tips>, why don’t we go home after we eat? We can choose cute clothes for <tips=40><tips=40>Tinming</tips> and <tips=40>Tinchen</tips></tips> another day. There’s still a little time before their birthday.”"
+      "en": "“Hey, <tips=44>Xiaoqiao</tips>, why don’t we go home after we eat? We can choose cute clothes for <tips=40><tips=40>Tianming</tips> and <tips=40>Tianxiang</tips></tips> another day. There’s still a little time before their birthday.”"
     },
     {
       "id": "B3-2:0112",
@@ -894,7 +894,7 @@
       "i": 99,
       "n": 136,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「申し訳ないです。今日は、私がいるせいで暗くなっちゃって……」",
       "en": "“I’m sorry. I made everything gloomy just by being here today...”"
     },
@@ -905,14 +905,14 @@
       "sj": "",
       "se": "",
       "jp": "　店の外に出てから、<tips=44>筱喬</tips>はそう頭を下げる。",
-      "en": "Once we are outside the restaurant, <tips=44>Siu-kiu</tips> bows as she says it."
+      "en": "Once we are outside the restaurant, <tips=44>Xiaoqiao</tips> bows as she says it."
     },
     {
       "id": "B3-2:0138",
       "i": 101,
       "n": 138,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「私だめなんです。感情がすぐ出ちゃう。いやな気分になると暗くなっちゃうし、悲しいときは顔に出ちゃう。お兄ちゃんにはよく我慢が足りないって言われます」",
       "en": "“I’m no good. My emotions show immediately. When something upsets me, I become gloomy, and when I’m sad, it shows on my face. My brother often tells me I don’t have enough self-control.”"
     },
@@ -941,7 +941,7 @@
       "sj": "",
       "se": "",
       "jp": "「誰にだって暗く落ち込むときはあるんだ。気にしないでいい。<tips=51>さくら</tips>ちゃんだって、つらいなかこうして<tips=44>シウ</tips>が来てくれただけで嬉しいはずだよ。<tips=1>亮</tips>の言うことは話半分に聞いておけばいいんだ」",
-      "en": "“Everyone feels dark and depressed sometimes. Don’t worry about it. I’m sure <tips=51>Sakura</tips> is happy simply because <tips=44>Siu</tips> came to see her despite feeling miserable. You should only believe half of what <tips=1>Ryo</tips> tells you.”"
+      "en": "“Everyone feels dark and depressed sometimes. Don’t worry about it. I’m sure <tips=51>Sakura</tips> is happy simply because <tips=44>Siu</tips> came to see her despite feeling miserable. You should only believe half of what <tips=1>Ryou</tips> tells you.”"
     },
     {
       "id": "B3-2:0142",
@@ -975,7 +975,7 @@
       "i": 108,
       "n": 145,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「ありがとうございます」",
       "en": "“Thank you.”"
     },
@@ -1022,7 +1022,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「あの、連絡先交換させてもらえます？　<tips=44>筱喬</tips>のことで相談したいことがあるんです」",
-      "en": "“Um, could we exchange contact information? There’s something I want to discuss with you about <tips=44>Siu-kiu</tips>.”"
+      "en": "“Um, could we exchange contact information? There’s something I want to discuss with you about <tips=44>Xiaoqiao</tips>.”"
     },
     {
       "id": "B3-2:0152",
@@ -1058,7 +1058,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「助かります。他に、<tips=44>筱喬</tips>とお兄さん両方と親しい人がいなくて……」",
-      "en": "“That would help. I don’t know anyone else close to both <tips=44>Siu-kiu</tips> and her brother...”"
+      "en": "“That would help. I don’t know anyone else close to both <tips=44>Xiaoqiao</tips> and her brother...”"
     },
     {
       "id": "B3-2:0156",
@@ -1292,7 +1292,7 @@
       "sj": "",
       "se": "",
       "jp": "　ということで、五才までの間は母親がいた。スラムで朝から酒を飲んで路上で寝転がっているような連中を当たれば当時のおれたちの暮らしを知る人もいるだろうが、仲間たちには話したことがない。ただ<tips=1>亮</tips>だけが本当のことを知っている。",
-      "en": "In any case, I lived with my mother until I was five. If you asked around among the people who drink from morning and sleep in the street in the slums, someone might remember how we lived then. But I have never told my companions. Only <tips=1>Ryo</tips> knows the truth."
+      "en": "In any case, I lived with my mother until I was five. If you asked around among the people who drink from morning and sleep in the street in the slums, someone might remember how we lived then. But I have never told my companions. Only <tips=1>Ryou</tips> knows the truth."
     },
     {
       "id": "B3-2:0195",
@@ -1310,7 +1310,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はもっと小さい時の記憶でもはっきり覚えているそうだが、おれはそれほど物覚えがいい人間でもないらしく、五才まで過ごした割には思い出が少ない。それでも、まるきり記憶がないというわけじゃない。",
-      "en": "<tips=1>Ryo</tips> says he clearly remembers events from when he was even younger. Apparently, my memory is not as good. Despite spending five years there, I have few recollections. But I do not remember nothing."
+      "en": "<tips=1>Ryou</tips> says he clearly remembers events from when he was even younger. Apparently, my memory is not as good. Despite spending five years there, I have few recollections. But I do not remember nothing."
     },
     {
       "id": "B3-2:0197",
@@ -1868,7 +1868,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>だって、<tips=86>灰上の姉妹</tips>だって、<tips=1>亮</tips>だって……。",
-      "en": "<tips=66>Konta</tips>, the <tips=86>Haigami sisters</tips>, <tips=1>Ryo</tips>..."
+      "en": "<tips=66>Konta</tips>, the <tips=86>Haigami sisters</tips>, <tips=1>Ryou</tips>..."
     },
     {
       "id": "B3-2:0285",
@@ -1877,7 +1877,7 @@
       "sj": "",
       "se": "",
       "jp": "　特に、<tips=1>亮</tips>とはそっくりかもしれないな。そう思ったからあいつにだけおれは母親を殴ったことを話したし、あいつもそれを感じたから、おれだけは家に連れて行ってくれたのかもしれない。",
-      "en": "Perhaps <tips=1>Ryo</tips> most of all. That is why he was the only person I told about hitting my mother, and perhaps because he sensed our similarity, I was the only one he ever took home."
+      "en": "Perhaps <tips=1>Ryou</tips> most of all. That is why he was the only person I told about hitting my mother, and perhaps because he sensed our similarity, I was the only one he ever took home."
     },
     {
       "id": "B3-2:0286",
@@ -1904,7 +1904,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は会話の出来ない母さんにおれを紹介すると、それまで見たこともない優しい顔でご飯を食べさせてやっていたんだ。",
-      "en": "<tips=1>Ryo</tips> introduced me to his mother, though she could not converse. Then, with a tenderness I had never seen on his face before, he fed her a meal."
+      "en": "<tips=1>Ryou</tips> introduced me to his mother, though she could not converse. Then, with a tenderness I had never seen on his face before, he fed her a meal."
     },
     {
       "id": "B3-2:0289",
@@ -1913,7 +1913,7 @@
       "sj": "",
       "se": "",
       "jp": "　発症した母親を見せてくれるってことは、<tips=1>亮</tips>はそれだけおれのことを信頼してるんだなって思って、ひどく嬉しかった。",
-      "en": "The fact that <tips=1>Ryo</tips> showed me his afflicted mother meant he trusted me that much. The thought made me terribly happy."
+      "en": "The fact that <tips=1>Ryou</tips> showed me his afflicted mother meant he trusted me that much. The thought made me terribly happy."
     },
     {
       "id": "B3-2:0290",
@@ -2138,7 +2138,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は何か補償はしてやったろうけれど、たとえば大金を渡されたとしたって、かわいい娘の足とは引き替えにはならないんじゃないか？　それどころか、その金を見てますます恐ろしくなるに違いない。",
-      "en": "<tips=1>Ryo</tips> surely compensated her in some way, but even a vast sum of money could not be a fair trade for their beloved daughter’s leg. If anything, seeing the money must have frightened them even more."
+      "en": "<tips=1>Ryou</tips> surely compensated her in some way, but even a vast sum of money could not be a fair trade for their beloved daughter’s leg. If anything, seeing the money must have frightened them even more."
     },
     {
       "id": "B3-2:0330",
@@ -2264,7 +2264,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうなんです。それは<tips=44>筱喬</tips>のことが好きだから。でもこれって確かなものですか？　そんなのわからないですよね。ただの性欲かもしれない。あんな美人で可愛い子会ったことないし……。みんな足をなくしたからすごいことをしたみたいに言うんでしょうけど、これだって別に何とも思わない。ただ、こっちだけ大けがさせられたってことで、なんだかあいつに負けたみたいでイライラはするけど。もう一回あのテレポート女に会ったらやり返してやりたいです」",
-      "en": "“That’s true. Because I love <tips=44>Siu-kiu</tips>. But is that feeling something certain? There’s no way to know. It might only be sexual desire. I’ve never met another girl so beautiful and adorable... Everyone says I did something incredible because I lost a leg, but I don’t care about that either. I am irritated that she hurt only me, because it feels like I lost to her. If I meet that teleporting woman again, I want to pay her back.”"
+      "en": "“That’s true. Because I love <tips=44>Xiaoqiao</tips>. But is that feeling something certain? There’s no way to know. It might only be sexual desire. I’ve never met another girl so beautiful and adorable... Everyone says I did something incredible because I lost a leg, but I don’t care about that either. I am irritated that she hurt only me, because it feels like I lost to her. If I meet that teleporting woman again, I want to pay her back.”"
     },
     {
       "id": "B3-2:0344",
@@ -2282,7 +2282,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=44>筱喬</tips>は、世の中のことを沢山知りたいってよく言うんです。よく知って、世界のことを好きになってから死にたいって。いろんなものを好きになるっていうのが彼女の目標だったり、人生の価値なんでしょう。<tips=17>タイプB</tips>だったり、近くの人がすぐ死んだり、大人たちの思惑に振り回されたりで、彼女のまわりには受け入れられないものばかりだから……それはいいなあとは思いますけど、私には共有出来ません。私は嫌いなものは嫌い」",
-      "en": "“<tips=44>Siu-kiu</tips> often says she wants to learn as much as possible about the world. She wants to know it well and die only after learning to love it. Loving many things is probably her goal, or what gives her life value. She’s a <tips=17>Type B</tips>, people close to her die without warning, and adults’ schemes push her around. Her life is full of things she can’t accept... I think her goal is admirable, but I can’t share it. If I hate something, I hate it.”"
+      "en": "“<tips=44>Xiaoqiao</tips> often says she wants to learn as much as possible about the world. She wants to know it well and die only after learning to love it. Loving many things is probably her goal, or what gives her life value. She’s a <tips=17>Type B</tips>, people close to her die without warning, and adults’ schemes push her around. Her life is full of things she can’t accept... I think her goal is admirable, but I can’t share it. If I hate something, I hate it.”"
     },
     {
       "id": "B3-2:0346",
@@ -2300,7 +2300,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=44>筱喬</tips>と違って、私は自分のことが知りたい。私は何者なのか。何が出来るのか。この空を飛ぶ能力は使い道があるのか。この人の人生に何か目的があるのか。……だから、良いと思ったらなんでもクビを突っ込むし、すぐ実行することにしてるんです。しないと忘れちゃうかもしれないし、飽きちゃうかもしれないから。……ここまでやって飽きちゃったら最低でしょう？　私それはいやなんですよねー。カッコつけたがりだから」",
-      "en": "“Unlike <tips=44>Siu-kiu</tips>, I want to understand myself. Who am I? What can I do? Does my power to fly serve any purpose? Is there any purpose in this person’s life? ...That’s why I involve myself in anything I think is good and act immediately. Otherwise, I might forget or become bored. ...It would be awful to lose interest after going this far, wouldn’t it? I don’t want that. I like to think I’m cool.”"
+      "en": "“Unlike <tips=44>Xiaoqiao</tips>, I want to understand myself. Who am I? What can I do? Does my power to fly serve any purpose? Is there any purpose in this person’s life? ...That’s why I involve myself in anything I think is good and act immediately. Otherwise, I might forget or become bored. ...It would be awful to lose interest after going this far, wouldn’t it? I don’t want that. I like to think I’m cool.”"
     },
     {
       "id": "B3-2:0348",
@@ -2480,7 +2480,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>と言えば先代<tips=3>クリス・ツェー</tips>の義兄弟にして、<tips=7>ＹＳ</tips>の大幹部中の大幹部だ。<tips=3>クリス・ツェー</tips>を劉備に例えるならば、張飛にあたる人物であり、そして、<tips=1>亮</tips>が<tips=81>龍頭</tips>になってから後見人的な役割をになっていたという噂だ。",
-      "en": "<tips=4>Ma Ming</tips> was the sworn brother of the previous leader, <tips=3>Chris Tse</tips>, and one of the most senior officers in all of <tips=7>YS</tips>. If <tips=3>Chris Tse</tips> was Liu Bei, then Ma Ming was Zhang Fei. Rumor said that after <tips=1>Ryo</tips> became <tips=81>Longtou</tips>, Ma Ming served as a kind of guardian and adviser."
+      "en": "<tips=4>Ma Ming</tips> was the sworn brother of the previous leader, <tips=3>Chris Xie</tips>, and one of the most senior officers in all of <tips=7>YS</tips>. If <tips=3>Chris Xie</tips> was Liu Bei, then Ma Ming was Zhang Fei. Rumor said that after <tips=1>Ryou</tips> became <tips=81>Longtou</tips>, Ma Ming served as a kind of guardian and adviser."
     },
     {
       "id": "B3-2:0368",
@@ -2489,7 +2489,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「本当なんです。禁制になっている麻薬取引をしたり組織のお金を横領したりしていたのを<tips=44>筱喬</tips>のお兄さんが見つけて、大幹部を集めた会議室で詰問し、本人もそれを認めたそうです」",
-      "en": "“It’s true. <tips=44>Siu-kiu</tips>’s brother discovered that he had trafficked forbidden narcotics and embezzled the organization’s money. He confronted him in a conference room before the senior officers, and the man apparently admitted it.”"
+      "en": "“It’s true. <tips=44>Xiaoqiao</tips>’s brother discovered that he had trafficked forbidden narcotics and embezzled the organization’s money. He confronted him in a conference room before the senior officers, and the man apparently admitted it.”"
     },
     {
       "id": "B3-2:0369",
@@ -2507,7 +2507,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はそういったことを語りたがらないから直接聞いたわけではないけれど、<tips=4>馬明</tips>の立場を考えれば彼が謝家の兄妹と幼いころから親しくしていたのは簡単に想像がつく話だ。",
-      "en": "<tips=1>Ryo</tips> dislikes speaking about such matters, so I never heard it from him directly. But given <tips=4>Ma Ming</tips>’s position, it is easy to imagine that he was close to the Tse siblings from the time they were young."
+      "en": "<tips=1>Ryou</tips> dislikes speaking about such matters, so I never heard it from him directly. But given <tips=4>Ma Ming</tips>’s position, it is easy to imagine that he was close to the Xie siblings from the time they were young."
     },
     {
       "id": "B3-2:0371",
@@ -2525,7 +2525,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「それだけじゃなくて、<tips=4>馬明</tips>さんの娘さんも、それを受けて怒りのあまり自殺したんです。まだ新婚で、お腹にはもうすぐ生まれる子供がいたのに……。<tips=44>筱喬</tips>は、<tips=4>馬明</tips>さんともこの娘さんとも小さい時から仲良かったから、とても動揺していて……」",
-      "en": "“And that wasn’t all. Mr. <tips=4>Ma Ming</tips>’s daughter was so furious afterward that she took her own life. She had only recently married and was carrying a child due to be born soon... <tips=44>Siu-kiu</tips> had been close to both Mr. <tips=4>Ma Ming</tips> and his daughter since childhood, so she is terribly upset...”"
+      "en": "“And that wasn’t all. Mr. <tips=4>Ma Ming</tips>’s daughter was so furious afterward that she took her own life. She had only recently married and was carrying a child due to be born soon... <tips=44>Xiaoqiao</tips> had been close to both Mr. <tips=4>Ma Ming</tips> and his daughter since childhood, so she is terribly upset...”"
     },
     {
       "id": "B3-2:0373",
@@ -2579,7 +2579,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「お兄さんはどういう人なんでしょう？　<tips=81>龍頭</tips>になって、変わったんですかね。それとも、そういうわけじゃないのかな？　<tips=44>筱喬</tips>はそこも悩んでいるようなんです」",
-      "en": "“What kind of person is her brother? Did becoming <tips=81>Longtou</tips> change him? Or is that not what happened? <tips=44>Siu-kiu</tips> seems troubled about that too.”"
+      "en": "“What kind of person is her brother? Did becoming <tips=81>Longtou</tips> change him? Or is that not what happened? <tips=44>Xiaoqiao</tips> seems troubled about that too.”"
     },
     {
       "id": "B3-2:0379",
@@ -2777,7 +2777,7 @@
       "sj": "",
       "se": "",
       "jp": "「ま、人ごとじゃない。みんな最初から正気じゃなかったのかもしれないね。<tips=1>亮</tips>もそうだし、おれも、<tips=44>シウ</tips>ちゃんも、誰も彼もね。みな知らず知らず心に狂気を忍び込ませている。これは自覚しないといけないよ」",
-      "en": "“But this concerns all of us. Perhaps none of us were sane from the beginning. <tips=1>Ryo</tips>, me, <tips=44>Siu</tips>—everyone. Madness slips into all our hearts without our knowing. We have to remain aware of that.”"
+      "en": "“But this concerns all of us. Perhaps none of us were sane from the beginning. <tips=1>Ryou</tips>, me, <tips=44>Siu</tips>—everyone. Madness slips into all our hearts without our knowing. We have to remain aware of that.”"
     },
     {
       "id": "B3-2:0401",
@@ -2840,7 +2840,7 @@
       "sj": "",
       "se": "",
       "jp": "「いいんじゃないか？　<tips=1>亮</tips>のやつもたまには息抜きが必要だろう」",
-      "en": "“Why not? I’m sure <tips=1>Ryo</tips> needs to relax occasionally too.”"
+      "en": "“Why not? I’m sure <tips=1>Ryou</tips> needs to relax occasionally too.”"
     },
     {
       "id": "B3-2:0408",
@@ -2849,7 +2849,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>がそういう遊びに参加するかどうかわからないが、おれは適当にそう言った。",
-      "en": "I have no idea whether <tips=1>Ryo</tips> will participate in that kind of pastime, but I say it casually."
+      "en": "I have no idea whether <tips=1>Ryou</tips> will participate in that kind of pastime, but I say it casually."
     },
     {
       "id": "B3-2:0409",

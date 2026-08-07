@@ -2,7 +2,7 @@
 
 A minimal, searchable Japanese/English reader for the ongoing *Black Sheep Town* machine-assisted fan translation. It includes a clean English-only reading mode and a bilingual version of the shipped game glossary with chapter-aware unlock states.
 
-Chapter navigation defaults to VN order: a stable reading sequence that respects the shipped game's scenario prerequisites, with the game's day and time metadata resolving simultaneously available scenes. The chapter menu can switch to the original A–G/X grouping for reference. Both the bilingual comparison and English reader modes use the selected order, including the continue button at the end of each chapter.
+Chapter navigation defaults to VN order: the editorial read-through reconstructed from the shipped game's scenario prerequisites, with simultaneously available scenes resolved by the game's button order. Each data build synchronizes this sequence from `notes/chapter_unlock_and_editorial_reading_order.md` and rejects any order that violates the prerequisite graph. The chapter menu can switch to the original A–G/X grouping for reference. Both the bilingual comparison and English reader modes use the selected order, including the continue button at the end of each chapter.
 
 The site is plain HTML, CSS, JavaScript, and chapter-split JSON. It has no runtime dependencies and is ready to serve from GitHub Pages.
 

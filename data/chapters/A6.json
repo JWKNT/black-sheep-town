@@ -257,7 +257,7 @@
       "sj": "",
       "se": "",
       "jp": "　部下は僕の顔色をチラチラと見ながら報告をする。<tips=9>Y地区</tips>内で飲食店を三つ経営するグエンという男が先週からみかじめ料を拒否しており、今回交渉も拒否したということらしい。グエンは父の代から付き合いがあるのだが、<tips=27>廖志明</tips>や<tips=35>フェルナンデス</tips>の件で僕に反感を持っているらしく、今回の件になった。",
-      "en": "The man keeps glancing at my expression as he reports. Nguyen, who runs three restaurants in <tips=9>Y District</tips>, has refused to pay protection money since last week and has now refused to negotiate as well. We have dealt with Nguyen since my father's day, but he apparently resents me over the affairs of <tips=27>Chimin Liao</tips> and <tips=35>Fernandez</tips>, which led to the present dispute."
+      "en": "The man keeps glancing at my expression as he reports. Nguyen, who runs three restaurants in <tips=9>Y District</tips>, has refused to pay protection money since last week and has now refused to negotiate as well. We have dealt with Nguyen since my father's day, but he apparently resents me over the affairs of <tips=27>Liao Zhiming</tips> and <tips=35>Fernandez</tips>, which led to the present dispute."
     },
     {
       "id": "A6:0053",
@@ -374,7 +374,7 @@
       "sj": "",
       "se": "",
       "jp": "　今日はボディーガードを伴わない。僕は一人でエレベーターに乗り込み、途中エレベーターを乗り換え、そして地下の駐車場に行く。車体を磨いていた運転手に声をかけて、自分一人で行くと伝えた。彼は困惑していたが、無理矢理鍵を受け取って運転席に乗り込む。そうして、久しぶりに車の運転をして<tips=25>馬世傑</tips>の住まいに向かった。",
-      "en": "Today, I take no bodyguard. I ride the elevator alone, change elevators on the way, and descend to the underground garage. I call to the driver polishing the car and tell him I will be going alone. He looks bewildered, but I forcibly take the key and climb behind the wheel. Driving for the first time in ages, I head for <tips=25>Ma Sai-ki</tips>'s home."
+      "en": "Today, I take no bodyguard. I ride the elevator alone, change elevators on the way, and descend to the underground garage. I call to the driver polishing the car and tell him I will be going alone. He looks bewildered, but I forcibly take the key and climb behind the wheel. Driving for the first time in ages, I head for <tips=25>Ma Saiki</tips>'s home."
     },
     {
       "id": "A6:0073",
@@ -383,7 +383,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は車で五分ほど行ったマンションに一人暮らしをしている。場所は知っていたが訪ねるのは初めてだ。",
-      "en": "<tips=25>Sai-ki</tips> lives alone in an apartment building about five minutes away by car. I know where it is, but this is my first visit."
+      "en": "<tips=25>Saiki</tips> lives alone in an apartment building about five minutes away by car. I know where it is, but this is my first visit."
     },
     {
       "id": "A6:0074",
@@ -410,7 +410,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は神妙な顔をして居て無言で部屋へ通す。僕も無言のまま部屋にあがる。",
-      "en": "<tips=25>Sai-ki</tips> wears a solemn expression and silently ushers me inside. I enter without speaking."
+      "en": "<tips=25>Saiki</tips> wears a solemn expression and silently ushers me inside. I enter without speaking."
     },
     {
       "id": "A6:0082",
@@ -426,7 +426,7 @@
       "i": 47,
       "n": 83,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「ろくに聖書を読んだことはないし、特に意味はないのよ。ただ毎日ここで祈らないと、よく眠れないだけ」",
       "en": "“I have hardly ever read the Bible, and this has no special meaning. I simply can't sleep well unless I pray here every day.”"
     },
@@ -444,7 +444,7 @@
       "i": 49,
       "n": 85,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「<tips=81>龍頭</tips>、あんたも同じようなことしてるんじゃないの？」",
       "en": "“<tips=81>Longtou</tips>, don't you do something similar?”"
     },
@@ -516,7 +516,7 @@
       "i": 57,
       "n": 93,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「そう」",
       "en": "“I see.”"
     },
@@ -534,7 +534,7 @@
       "i": 59,
       "n": 95,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「仕方ないわね。アタシのことは気にしないでいいわよ。<tips=81>龍頭</tips>こそ大丈夫なの？」",
       "en": "“It can't be helped. You needn't worry about me. Are you all right, <tips=81>Longtou</tips>?”"
     },
@@ -552,7 +552,7 @@
       "i": 61,
       "n": 97,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「わざわざ伝えに来るなんて、今まで一度もなかったから」",
       "en": "“You have never gone out of your way to tell me something in person before.”"
     },
@@ -563,14 +563,14 @@
       "sj": "",
       "se": "",
       "jp": "「僕はどうってことはないさ。<tips=25>世傑</tips>がどんな風に受け止めるのか気になったんだ」",
-      "en": "“I'm perfectly fine. I was curious how <tips=25>Sai-ki</tips> would take it.”"
+      "en": "“I'm perfectly fine. I was curious how <tips=25>Saiki</tips> would take it.”"
     },
     {
       "id": "A6:0099",
       "i": 63,
       "n": 99,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「あら、それはご苦労様」",
       "en": "“My, how considerate of you.”"
     },
@@ -588,7 +588,7 @@
       "i": 65,
       "n": 101,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「そう。あとそうだ、一度訊いてみたかったんだけど、いいかしら？」",
       "en": "“Oh, yes. There is something I've wanted to ask you. May I?”"
     },
@@ -606,7 +606,7 @@
       "i": 67,
       "n": 103,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「どうしてアタシをこの街に呼び寄せたの？　<tips=81>龍頭</tips>と私は、そんなに親しくはなかったと思うけれど」",
       "en": "“Why did you summon me back to this town? I don't believe you and I were ever particularly close, <tips=81>Longtou</tips>.”"
     },
@@ -617,14 +617,14 @@
       "sj": "",
       "se": "",
       "jp": "「もちろん、その能力を見込んでだよ。<tips=17>タイプB</tips>よりも戦闘力があるノーマルなんか<tips=25>世傑</tips>くらいしか知らない」",
-      "en": "“Because I valued your ability, of course. You're the only normal person I know with greater combat power than a <tips=17>Type B</tips>, <tips=25>Sai-ki</tips>.”"
+      "en": "“Because I valued your ability, of course. You're the only normal person I know with greater combat power than a <tips=17>Type B</tips>, <tips=25>Saiki</tips>.”"
     },
     {
       "id": "A6:0105",
       "i": 69,
       "n": 105,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「それだけ？」",
       "en": "“Is that all?”"
     },
@@ -635,14 +635,14 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、最初からあとで<tips=69>義勝</tips>内の古い爺さんとか幼なじみの連中を殺すことになるのがわかってたからね。この仕事を文句を言わないで、しかも手際よくやってくれそうなのはファミリーのなかじゃ<tips=25>世傑</tips>しかいなかった」",
-      "en": "“Well, I knew from the start that I would eventually have to kill the old men in <tips=69>Yi Shen</tips> and people I grew up with. Within the family, <tips=25>Sai-ki</tips> was the only one likely to do that work without complaint—and do it efficiently.”"
+      "en": "“Well, I knew from the start that I would eventually have to kill the old men in <tips=69>Yi Shen</tips> and people I grew up with. Within the family, <tips=25>Saiki</tips> was the only one likely to do that work without complaint—and do it efficiently.”"
     },
     {
       "id": "A6:0107",
       "i": 71,
       "n": 107,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「そういう言い方なら納得出来るわ」",
       "en": "“Put that way, I can accept it.”"
     },
@@ -653,14 +653,14 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は頷き、",
-      "en": "<tips=25>Sai-ki</tips> nods."
+      "en": "<tips=25>Saiki</tips> nods."
     },
     {
       "id": "A6:0109",
       "i": 73,
       "n": 109,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「それなら任せて頂戴。アタシは仕事には誇りがあるの。誰が相手だって躊躇しないわ。文句を言わず、手際よくね。いい、誰が相手でもよ？　<tips=81>龍頭</tips>もそうあって欲しいわね」",
       "en": "“Then leave it to me. I take pride in my work. Whoever the target may be, I will not hesitate. No complaints, and no wasted motion. Do you understand? No matter who it is. I hope you can say the same, <tips=81>Longtou</tips>.”"
     },
@@ -689,7 +689,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕がそう言うと、<tips=25>世傑</tips>はそれ以上はもう何も言わず、ただ静かに笑っているだけだった。",
-      "en": "At my answer, <tips=25>Sai-ki</tips> says nothing more. He only smiles quietly."
+      "en": "At my answer, <tips=25>Saiki</tips> says nothing more. He only smiles quietly."
     },
     {
       "id": "A6:0118",
@@ -1085,7 +1085,7 @@
       "sj": "",
       "se": "",
       "jp": "　それにしても、<tips=25>世傑</tips>は変わったヤツだ。",
-      "en": "Still, <tips=25>Sai-ki</tips> is a peculiar man."
+      "en": "Still, <tips=25>Saiki</tips> is a peculiar man."
     },
     {
       "id": "A6:0171",
@@ -1094,7 +1094,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は幼いころから父の<tips=4>馬明</tips>に拳法を仕込まれており、それを使って空手の大会で優勝するなどして街では知られた人物だった。",
-      "en": "From early childhood, <tips=25>Sai-ki</tips> was trained in Chinese martial arts by his father, <tips=4>Ma Ming</tips>. He became a well-known figure in town after using them to win karate tournaments."
+      "en": "From early childhood, <tips=25>Saiki</tips> was trained in Chinese martial arts by his father, <tips=4>Ma Ming</tips>. He became a well-known figure in town after using them to win karate tournaments."
     },
     {
       "id": "A6:0172",
@@ -1103,7 +1103,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>の家の近くではよく野良猫や野良犬が骨を砕かれて死んでいたが、それらはすべて<tips=25>世傑</tips>の仕業だと噂されていた。",
-      "en": "Stray cats and dogs were often found near <tips=4>Ma Ming</tips>'s house, dead with their bones crushed. Rumor held that <tips=25>Sai-ki</tips> was responsible for every one."
+      "en": "Stray cats and dogs were often found near <tips=4>Ma Ming</tips>'s house, dead with their bones crushed. Rumor held that <tips=25>Saiki</tips> was responsible for every one."
     },
     {
       "id": "A6:0173",
@@ -1121,7 +1121,7 @@
       "sj": "",
       "se": "",
       "jp": "　妹の<tips=24>美美</tips>にしつこくつきまとったチンピラを咎めたところ諍いになって、相手を殴り殺してしまった。それ以来、彼の家のまわりには犬猫の死体が増えたという話だ。",
-      "en": "He confronted a thug who persistently harassed his younger sister, <tips=24>Meimei</tips>. An altercation followed, and Sai-ki beat the man to death. People say that after that, still more dead cats and dogs appeared around his home."
+      "en": "He confronted a thug who persistently harassed his younger sister, <tips=24>Meimei</tips>. An altercation followed, and Saiki beat the man to death. People say that after that, still more dead cats and dogs appeared around his home."
     },
     {
       "id": "A6:0175",
@@ -1157,7 +1157,7 @@
       "sj": "",
       "se": "",
       "jp": "　恋の相手はその<tips=7>ＹＳ</tips>の同僚の王という男の娘だった。あちこちの女と浮き名を流していた<tips=25>世傑</tips>が、初めて本気になった女だったかもしれない。",
-      "en": "The object of his love was the daughter of a fellow <tips=7>YS</tips> member named Wong. Though <tips=25>Sai-ki</tips> had been linked to women everywhere, she may have been the first he ever loved in earnest."
+      "en": "The object of his love was the daughter of a fellow <tips=7>YS</tips> member named Wong. Though <tips=25>Saiki</tips> had been linked to women everywhere, she may have been the first he ever loved in earnest."
     },
     {
       "id": "A6:0179",
@@ -1184,7 +1184,7 @@
       "sj": "",
       "se": "",
       "jp": "　やがて<tips=25>世傑</tips>はその事実を知り、王の家族を一晩で皆殺しにしてしまった。彼が愛した女も首の骨を折られて家に転がっていた。",
-      "en": "Eventually, <tips=25>Sai-ki</tips> learned the truth and slaughtered Wong's entire family in a single night. The woman he loved lay in their home with her neck broken."
+      "en": "Eventually, <tips=25>Saiki</tips> learned the truth and slaughtered Wong's entire family in a single night. The woman he loved lay in their home with her neck broken."
     },
     {
       "id": "A6:0182",
@@ -1193,7 +1193,7 @@
       "sj": "",
       "se": "",
       "jp": "　王のしたことは死に値する罪であったが、その家族まで殺害する必要はない。また<tips=25>世傑</tips>が指示もなく独断でこれほどのことをしでかしてしまうのは、組織の秩序を無視した行動であり、非難の対象にもなる。",
-      "en": "Wong's actions were crimes worthy of death, but there was no need to murder his family. And for <tips=25>Sai-ki</tips> to do something so extreme on his own, without orders, defied the organization's discipline and made him deserving of censure."
+      "en": "Wong's actions were crimes worthy of death, but there was no need to murder his family. And for <tips=25>Saiki</tips> to do something so extreme on his own, without orders, defied the organization's discipline and made him deserving of censure."
     },
     {
       "id": "A6:0183",
@@ -1238,7 +1238,7 @@
       "sj": "",
       "se": "",
       "jp": "　子供の頃は、将来<tips=25>世傑</tips>と組んで仕事をするとは思わなかったな。",
-      "en": "As a child, I never imagined that I would someday work alongside <tips=25>Sai-ki</tips>."
+      "en": "As a child, I never imagined that I would someday work alongside <tips=25>Saiki</tips>."
     },
     {
       "id": "A6:0188",
@@ -1283,7 +1283,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は今どんな気持ちなのかな？　想像しようと思ったが、気持ちが暗くなるだけなので、やめた。",
-      "en": "What is <tips=25>Sai-ki</tips> feeling now? I try to imagine it, but doing so only darkens my mood, so I stop."
+      "en": "What is <tips=25>Saiki</tips> feeling now? I try to imagine it, but doing so only darkens my mood, so I stop."
     },
     {
       "id": "A6:0193",
@@ -1301,7 +1301,7 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「あ、<tips=1>リョウ</tips>さん」",
-      "en": "“Oh, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“Oh, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0195",
@@ -1382,7 +1382,7 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「元気です。<tips=1>リョウ</tips>さんはどうですか？」",
-      "en": "“He's well. How have you been, Mr. <tips=1>Ryo</tips>?”"
+      "en": "“He's well. How have you been, Mr. <tips=1>Ryou</tips>?”"
     },
     {
       "id": "A6:0204",
@@ -1526,7 +1526,7 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「普通になれたのは、<tips=1>リョウ</tips>さんと父のおかげです」",
-      "en": "“I was able to become normal thanks to you and my father, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“I was able to become normal thanks to you and my father, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0220",
@@ -1562,7 +1562,7 @@
       "sj": "",
       "se": "",
       "jp": "　今この街でもっとも力のあるロシア人勢力と言えば、<tips=31>エリー・ホワイト</tips>たちなのかもしれないが彼らはそもそもマフィアというよりも、純粋な商人と言うべき人々だった。彼女たちはまだ吸収を受け入れてはいないが、さほど気にすることはないだろう。僕に従うのがいやというよりも、商人としての顧客情報などを共有によって流出させたくないというのが本心だと思う。",
-      "en": "The most powerful Russian force in town now may be <tips=31>Ellie White</tips> and her people, though they are better described as pure merchants than mafiosi. They have not yet accepted absorption into YS, but there is no great cause for concern. I suspect their true objection is not serving under me, but the danger that sharing information would expose confidential details about their customers."
+      "en": "The most powerful Russian force in town now may be <tips=31>Elly White</tips> and her people, though they are better described as pure merchants than mafiosi. They have not yet accepted absorption into YS, but there is no great cause for concern. I suspect their true objection is not serving under me, but the danger that sharing information would expose confidential details about their customers."
     },
     {
       "id": "A6:0232",
@@ -1706,7 +1706,7 @@
       "sj": "",
       "se": "",
       "jp": "「一人で続きをしているみたいですよ。<tips=1>リョウ</tips>さんのことは、あんまり言いませんけれど、気の毒だって感じのことは言ってました」",
-      "en": "“He seems to be continuing on his own. He doesn't say much about you, Mr. <tips=1>Ryo</tips>, but he has said things suggesting he feels sorry for you.”"
+      "en": "“He seems to be continuing on his own. He doesn't say much about you, Mr. <tips=1>Ryou</tips>, but he has said things suggesting he feels sorry for you.”"
     },
     {
       "id": "A6:0256",
@@ -1994,7 +1994,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>リョウ</tips>さんは、昔からすごかったですものね」",
-      "en": "“You have always been remarkable, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“You have always been remarkable, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0291",
@@ -2093,7 +2093,7 @@
       "sj": "",
       "se": "",
       "jp": "「父が私を拾う前のこととか……。<tips=1>リョウ</tips>さんが最近忙しかったように、私にもあれからとてもいろんなことがあって……全部はっきりしたら、<tips=1>リョウ</tips>さんにも報告したいです」",
-      "en": "“Things from before Father found me... Just as you've been very busy lately, Mr. <tips=1>Ryo</tips>, a great many things have happened to me since then as well... Once everything is clear, I want to tell you about it, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“Things from before Father found me... Just as you've been very busy lately, Mr. <tips=1>Ryou</tips>, a great many things have happened to me since then as well... Once everything is clear, I want to tell you about it, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0303",
@@ -2372,7 +2372,7 @@
       "sj": "",
       "se": "",
       "jp": "「いえ、<tips=1>リョウ</tips>さんが知らないなら、それでいいんです」",
-      "en": "“No. If you don't know, Mr. <tips=1>Ryo</tips>, then that's fine.”"
+      "en": "“No. If you don't know, Mr. <tips=1>Ryou</tips>, then that's fine.”"
     },
     {
       "id": "A6:0337",
@@ -2444,7 +2444,7 @@
       "sj": "",
       "se": "",
       "jp": "「ただ、<tips=1>リョウ</tips>さんはこれから危険な目に一杯遭うかもしれないじゃないですか。そしたら、昔みたいに私がそばに居た方がいいのかなって」",
-      "en": "“It's only that you may face a great deal of danger from now on, Mr. <tips=1>Ryo</tips>. So I wondered if I ought to stay beside you, as I used to.”"
+      "en": "“It's only that you may face a great deal of danger from now on, Mr. <tips=1>Ryou</tips>. So I wondered if I ought to stay beside you, as I used to.”"
     },
     {
       "id": "A6:0345",
@@ -2561,7 +2561,7 @@
       "sj": "",
       "se": "",
       "jp": "「ほら、<tips=1>リョウ</tips>さんって今とても危険じゃないですか？　そうしたら、身体ももっと丈夫になった方が良いですよね。父もまだ研究しているので、詳しくわかってくるかもしれないし……。そして、失敗しない方法がわかったら、<tips=1>リョウ</tips>さんも危険な目にあっても大丈夫だし……」",
-      "en": "“You're in great danger now, aren't you, Mr. <tips=1>Ryo</tips>? So it would be better if your body were more durable too. Father is still researching it, and perhaps he'll learn more... And if he discovers a method that won't fail, then you could survive dangerous situations too, Mr. <tips=1>Ryo</tips>...”"
+      "en": "“You're in great danger now, aren't you, Mr. <tips=1>Ryou</tips>? So it would be better if your body were more durable too. Father is still researching it, and perhaps he'll learn more... And if he discovers a method that won't fail, then you could survive dangerous situations too, Mr. <tips=1>Ryou</tips>...”"
     },
     {
       "id": "A6:0358",
@@ -2651,7 +2651,7 @@
       "sj": "",
       "se": "",
       "jp": "「そうですか。やっぱり私、<tips=1>リョウ</tips>さんの心情を理解するのが下手ですね」",
-      "en": "“I see. I really am poor at understanding how you feel, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“I see. I really am poor at understanding how you feel, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0368",
@@ -2741,7 +2741,7 @@
       "sj": "",
       "se": "",
       "jp": "「……やっぱり私、<tips=1>リョウ</tips>さんが遠くにいると寂しいです」",
-      "en": "“...I still feel lonely when you're far away, Mr. <tips=1>Ryo</tips>.”"
+      "en": "“...I still feel lonely when you're far away, Mr. <tips=1>Ryou</tips>.”"
     },
     {
       "id": "A6:0380",
@@ -2885,7 +2885,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>リョウ</tips>さんが言うのなら、きっとそれが正しいんでしょうね」",
-      "en": "“If you say so, Mr. <tips=1>Ryo</tips>, then I'm sure it must be right.”"
+      "en": "“If you say so, Mr. <tips=1>Ryou</tips>, then I'm sure it must be right.”"
     },
     {
       "id": "A6:0399",
@@ -2921,7 +2921,7 @@
       "sj": "",
       "se": "",
       "jp": "「これってただの錯覚なんですかね？　私、物心ついたときからずっと<tips=1>リョウ</tips>さんがいたから、最後っていうのがどうしてもよくわからないんですよね。少し時間が経ったら、理解出来るようになるのかな……」",
-      "en": "“Is that only an illusion? You've been there for as long as I can remember, Mr. <tips=1>Ryo</tips>, so I can't seem to understand what ‘the last time’ means. Perhaps after some time passes, I'll begin to...”"
+      "en": "“Is that only an illusion? You've been there for as long as I can remember, Mr. <tips=1>Ryou</tips>, so I can't seem to understand what ‘the last time’ means. Perhaps after some time passes, I'll begin to...”"
     },
     {
       "id": "A6:0403",
@@ -2948,7 +2948,7 @@
       "sj": "",
       "se": "",
       "jp": "「へんなこと言ってすみません。でも、大丈夫です。ただ、子どもの時から、<tips=1>リョウ</tips>さんとはずっと一緒にいるんだなって、そう思ってたんですよね。だからちょっとだけ……」",
-      "en": "“I'm sorry for saying something strange. But I'll be fine. Ever since I was a child, I simply believed I would always be with you, Mr. <tips=1>Ryo</tips>. So it hurts just a little...”"
+      "en": "“I'm sorry for saying something strange. But I'll be fine. Ever since I was a child, I simply believed I would always be with you, Mr. <tips=1>Ryou</tips>. So it hurts just a little...”"
     },
     {
       "id": "A6:0406",
@@ -3065,7 +3065,7 @@
       "sj": "",
       "se": "",
       "jp": "　O字の机を囲むメンバーはいつもの顔ぶれである。<tips=33>壬生屋タカシ</tips>、<tips=34>ダリオ・ボネット</tips>、<tips=31>エリー・ホワイト</tips>、<tips=28>トーマス・リャオ</tips>。<tips=35>フェルナンデス</tips>の脱退、<tips=33>壬生屋</tips>の吸収などによって組織のかたちも変わってきたので、組織図を書き直したのだが、そのなかで幹部に昇進することが決まったものたちはまだこの場には呼んでいない。",
-      "en": "The familiar members sit around an O-shaped table: <tips=33>Takashi Mibuya</tips>, <tips=34>Dario Bonnet</tips>, <tips=31>Ellie White</tips>, and <tips=28>Thomas Liao</tips>. With <tips=35>Fernandez</tips>'s departure and <tips=33>Mibuya</tips>'s absorption, the organization's shape has changed, so I revised its organizational chart. Those newly designated for promotion to senior officer have not yet been invited here."
+      "en": "The familiar members sit around an O-shaped table: <tips=33>Takashi Mibuya</tips>, <tips=34>Dario Bonetto</tips>, <tips=31>Elly White</tips>, and <tips=28>Tomas Liao</tips>. With <tips=35>Fernandez</tips>'s departure and <tips=33>Mibuya</tips>'s absorption, the organization's shape has changed, so I revised its organizational chart. Those newly designated for promotion to senior officer have not yet been invited here."
     },
     {
       "id": "A6:0444",
@@ -3074,7 +3074,7 @@
       "sj": "",
       "se": "",
       "jp": "　そして部屋の壁際には、<tips=25>馬世傑</tips>とその部下たちが立ちならんでいる。彼らは<tips=81>龍頭</tips>である僕の直属の兵隊とも言うべき人間たちで、僕のボディーガードのみならず、執行部の手足となって暴力を行う専門の集団だ。",
-      "en": "Along the wall stand <tips=25>Ma Sai-ki</tips> and his subordinates. They are effectively the personal soldiers of me, the <tips=81>Longtou</tips>: not only my bodyguards, but a specialized group that acts as the executive branch's limbs whenever violence is required."
+      "en": "Along the wall stand <tips=25>Ma Saiki</tips> and his subordinates. They are effectively the personal soldiers of me, the <tips=81>Longtou</tips>: not only my bodyguards, but a specialized group that acts as the executive branch's limbs whenever violence is required."
     },
     {
       "id": "A6:0445",
@@ -3090,7 +3090,7 @@
       "i": 343,
       "n": 446,
       "sj": "ダリオ・ボネット",
-      "se": "Dario Bonnet",
+      "se": "Dario Bonetto",
       "jp": "「きょ、今日はなんの集まりなんですか？」",
       "en": "“Wh-what is today's meeting about?”"
     },
@@ -3101,7 +3101,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=34>ダリオ・ボネット</tips>は脂肪で風船のように膨れた顔をハンカチでせっせと拭い、まわりの<tips=25>世傑</tips>たちを気にしながらそう訊ねた。",
-      "en": "<tips=34>Dario Bonnet</tips> asks while busily wiping his balloonlike, fat-swollen face with a handkerchief and glancing at <tips=25>Sai-ki</tips>'s men around him."
+      "en": "<tips=34>Dario Bonetto</tips> asks while busily wiping his balloonlike, fat-swollen face with a handkerchief and glancing at <tips=25>Saiki</tips>'s men around him."
     },
     {
       "id": "A6:0448",
@@ -3117,7 +3117,7 @@
       "i": 346,
       "n": 449,
       "sj": "ダリオ・ボネット",
-      "se": "Dario Bonnet",
+      "se": "Dario Bonetto",
       "jp": "「はあ、そうですか。何だか物々しいですねえ」",
       "en": "“Ah, I see. This all feels rather ominous.”"
     },
@@ -3209,7 +3209,7 @@
       "sj": "",
       "se": "",
       "jp": "　この売春王の二代目は、父が死んで<tips=84>マイケル・ツェー</tips>が第二代<tips=81>龍頭</tips>をつとめていた頃は周囲に対して尊大な態度をとっていたが、僕が<tips=81>龍頭</tips>になってから、というか正確には<tips=27>廖志明</tips>の件があってから別人のように下手に出て来ている。",
-      "en": "This second-generation prostitution king behaved arrogantly toward those around him after his father died, when <tips=84>Michael Tse</tips> served as the second <tips=81>Longtou</tips>. Since I became <tips=81>Longtou</tips>—or, more precisely, since the affair with <tips=27>Chimin Liao</tips>—he has humbled himself as though he were a different man."
+      "en": "This second-generation prostitution king behaved arrogantly toward those around him after his father died, when <tips=84>Michael Xie</tips> served as the second <tips=81>Longtou</tips>. Since I became <tips=81>Longtou</tips>—or, more precisely, since the affair with <tips=27>Liao Zhiming</tips>—he has humbled himself as though he were a different man."
     },
     {
       "id": "A6:0460",
@@ -3227,7 +3227,7 @@
       "sj": "",
       "se": "",
       "jp": "　執行部で殺した<tips=26>劉建志</tips>は彼の幼馴染みで親友だったそうだが、そのことについても態度に出したことはない。もちろん、<tips=26>劉</tips>に同情する態度を見せることで僕らに目をつけられることをおそれ、そう振る舞っているのだろうが、本当に親友の死など歯牙にもかけなそうな雰囲気が彼にはあった。",
-      "en": "<tips=26>Lau Kin-chi</tips>, whom I killed in the executive office, was apparently his childhood friend and closest companion, yet he has never shown any reaction to that either. Naturally, he may fear that displaying sympathy for <tips=26>Lau</tips> would attract our suspicion. Still, he gives the impression that even a best friend's death would genuinely mean nothing to him."
+      "en": "<tips=26>Kenshi Ryuu</tips>, whom I killed in the executive office, was apparently his childhood friend and closest companion, yet he has never shown any reaction to that either. Naturally, he may fear that displaying sympathy for <tips=26>Ryuu</tips> would attract our suspicion. Still, he gives the impression that even a best friend's death would genuinely mean nothing to him."
     },
     {
       "id": "A6:0462",
@@ -3315,7 +3315,7 @@
       "i": 368,
       "n": 471,
       "sj": "ダリオ・ボネット",
-      "se": "Dario Bonnet",
+      "se": "Dario Bonetto",
       "jp": "「<tips=33>タカシ</tips>、お世辞も度を過ぎると下品に聞こえるよ」",
       "en": "“<tips=33>Takashi</tips>, excessive flattery only sounds vulgar.”"
     },
@@ -3335,14 +3335,14 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=33>壬生屋</tips>の父と<tips=34>ダリオ・ボネット</tips>は昔は犬猿の仲で全面戦争直前まで行ったという話だが、<tips=33>壬生屋タカシ</tips>と<tips=34>ダリオ</tips>は妙に仲がよく、いつも軽口をたたき合い、お互いの店を行き来して家族ぐるみのつき合いもある。",
-      "en": "I hear that <tips=33>Mibuya</tips>'s father and <tips=34>Dario Bonnet</tips> were once bitter enemies who came close to total war. Yet <tips=33>Takashi Mibuya</tips> and <tips=34>Dario</tips> are oddly close. They constantly trade jokes, frequent each other's establishments, and even socialize as families."
+      "en": "I hear that <tips=33>Mibuya</tips>'s father and <tips=34>Dario Bonetto</tips> were once bitter enemies who came close to total war. Yet <tips=33>Takashi Mibuya</tips> and <tips=34>Dario</tips> are oddly close. They constantly trade jokes, frequent each other's establishments, and even socialize as families."
     },
     {
       "id": "A6:0474",
       "i": 371,
       "n": 474,
       "sj": "ダリオ・ボネット",
-      "se": "Dario Bonnet",
+      "se": "Dario Bonetto",
       "jp": "「そ、その件はまだ検討中なんだよ」",
       "en": "“I-I'm still considering that matter.”"
     },
@@ -3405,7 +3405,7 @@
       "i": 378,
       "n": 482,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「<tips=35>ミスター・フェルナンデス</tips>が抜けて、重みのない人ばかりが残ってしまいましたね。結成時はひとかどの人物ばかりが集まっていたはずなのに」",
       "en": "“With <tips=35>Mr. Fernandez</tips> gone, only men of little substance remain. At the organization's founding, I believe every seat was occupied by a person of genuine distinction.”"
     },
@@ -3560,7 +3560,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕はそう言って、<tips=25>世傑</tips>に目で合図をする。すると彼の部下が僕のところまでやって来て、ファイルから書類を取り出し、僕の目の前に並べる。",
-      "en": "I say this and signal <tips=25>Sai-ki</tips> with my eyes. One of his men approaches me, removes documents from a file, and arranges them before me."
+      "en": "I say this and signal <tips=25>Saiki</tips> with my eyes. One of his men approaches me, removes documents from a file, and arranges them before me."
     },
     {
       "id": "A6:0501",
@@ -3569,7 +3569,7 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「これは恐縮ですな。その資料はなんですか？　ああ、また、<tips=1>謝亮</tips>先生の講義の時間ってわけですな。それなら私が来る前に済ませておいてくれても良かったのに」",
-      "en": "“I am honored. What are those papers? Ah, is it time for another lecture from Professor <tips=1>Tse Long</tips>? You could have finished that before I arrived.”"
+      "en": "“I am honored. What are those papers? Ah, is it time for another lecture from Professor <tips=1>Xie Liang</tips>? You could have finished that before I arrived.”"
     },
     {
       "id": "A6:0502",
@@ -3614,7 +3614,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕の言葉で、<tips=31>エリー・ホワイト</tips>以外の幹部たちの顔に、一斉に驚きの表情が浮かぶ。",
-      "en": "At my words, surprise simultaneously appears on the faces of every officer except <tips=31>Ellie White</tips>."
+      "en": "At my words, surprise simultaneously appears on the faces of every officer except <tips=31>Elly White</tips>."
     },
     {
       "id": "A6:0507",
@@ -3722,7 +3722,7 @@
       "sj": "",
       "se": "",
       "jp": "　書類のうち三枚をより分けて、<tips=25>世傑</tips>を呼んで彼に渡す。彼はツカツカと足音を立ててその書類を<tips=4>馬明</tips>の前に置く。",
-      "en": "I separate three sheets from the others, summon <tips=25>Sai-ki</tips>, and hand them to him. His footsteps sharp against the floor, he places the documents before <tips=4>Ma Ming</tips>."
+      "en": "I separate three sheets from the others, summon <tips=25>Saiki</tips>, and hand them to him. His footsteps sharp against the floor, he places the documents before <tips=4>Ma Ming</tips>."
     },
     {
       "id": "A6:0519",
@@ -3774,7 +3774,7 @@
       "i": 419,
       "n": 524,
       "sj": "トーマス・リャオ",
-      "se": "Thomas Liao",
+      "se": "Tomas Liao",
       "jp": "「じょ、冗談だよね？」",
       "en": "“Y-you're joking, aren't you?”"
     },
@@ -3792,9 +3792,9 @@
       "i": 421,
       "n": 526,
       "sj": "トーマス・リャオ",
-      "se": "Thomas Liao",
+      "se": "Tomas Liao",
       "jp": "「だって、馬さんは<tips=25>世傑</tips>さんや<tips=24>美美</tips>のお父さんだよ？　<tips=2>阿亮</tips>だって小さい時から可愛がってもらったじゃないか。<tips=81>龍頭</tips>になってからも、どれだけきみの味方をしてくれたか……それを処刑するだなんて……」",
-      "en": "“But Mr. Ma is <tips=25>Sai-ki</tips> and <tips=24>Meimei</tips>'s father. He cared for you ever since you were little, <tips=2>Ah Long</tips>. And after you became <tips=81>Longtou</tips>, he supported you so much... You can't execute him...”"
+      "en": "“But Mr. Ma is <tips=25>Saiki</tips> and <tips=24>Meimei</tips>'s father. He cared for you ever since you were little, <tips=2>Ah Long</tips>. And after you became <tips=81>Longtou</tips>, he supported you so much... You can't execute him...”"
     },
     {
       "id": "A6:0527",
@@ -3803,7 +3803,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=28>トーマス</tips>、私は初代のようにデタラメな冗談は言わない」",
-      "en": "“<tips=28>Thomas</tips>, I do not tell absurd jokes like the first Longtou.”"
+      "en": "“<tips=28>Tomas</tips>, I do not tell absurd jokes like the first Longtou.”"
     },
     {
       "id": "A6:0529",
@@ -3902,7 +3902,7 @@
       "sj": "",
       "se": "",
       "jp": "　それを見た<tips=25>世傑</tips>が素早く銃を取り出し、<tips=4>馬明</tips>に突きつける。",
-      "en": "Seeing this, <tips=25>Sai-ki</tips> swiftly draws a gun and points it at <tips=4>Ma Ming</tips>."
+      "en": "Seeing this, <tips=25>Saiki</tips> swiftly draws a gun and points it at <tips=4>Ma Ming</tips>."
     },
     {
       "id": "A6:0541",
@@ -3911,7 +3911,7 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「<tips=25>世傑</tips>……」",
-      "en": "“<tips=25>Sai-ki</tips>...”"
+      "en": "“<tips=25>Saiki</tips>...”"
     },
     {
       "id": "A6:0542",
@@ -4073,7 +4073,7 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「クスリのことだって、納得がいかん。<tips=27>廖志明</tips>どのも言っていたが、我々も取り扱うべきだと思う。このまま<tips=22>老人たち</tips>に独占させたままでいいのか？　最近は、新しいクスリも手がけてるそうじゃないか。このさきやつらはどんどん金を貯めて、我々との差をつけるぞ。あの爺さんどもに対抗するというのなら、彼らとの協定は破棄して売買を開始したほうがいい。これはいずれ正式に提案しようと思っていたんだ。だから、そのルートを作るために、自分の店で販売をしてみたってことさ。別に私腹を肥やそうとしたわけじゃない」",
-      "en": "“Nor do I accept this nonsense about drugs. As Mr. <tips=27>Chimin Liao</tips> said, we should handle them ourselves. Will we let the <tips=22>Elders</tips> keep their monopoly forever? I hear they've begun dealing in new drugs recently. They will amass more and more money and widen the gap between us. If you mean to oppose those old men, we should void our agreement with them and enter the trade. I intended to make a formal proposal eventually. I was only testing sales through my own establishments to create that supply route. I wasn't trying to line my pockets.”"
+      "en": "“Nor do I accept this nonsense about drugs. As Mr. <tips=27>Liao Zhiming</tips> said, we should handle them ourselves. Will we let the <tips=22>Elders</tips> keep their monopoly forever? I hear they've begun dealing in new drugs recently. They will amass more and more money and widen the gap between us. If you mean to oppose those old men, we should void our agreement with them and enter the trade. I intended to make a formal proposal eventually. I was only testing sales through my own establishments to create that supply route. I wasn't trying to line my pockets.”"
     },
     {
       "id": "A6:0561",
@@ -4125,7 +4125,7 @@
       "i": 458,
       "n": 566,
       "sj": "トーマス・リャオ",
-      "se": "Thomas Liao",
+      "se": "Tomas Liao",
       "jp": "「<tips=4>馬明</tips>さん、もうやめましょう」",
       "en": "“Please stop, Mr. <tips=4>Ma Ming</tips>.”"
     },
@@ -4152,7 +4152,7 @@
       "i": 461,
       "n": 569,
       "sj": "トーマス・リャオ",
-      "se": "Thomas Liao",
+      "se": "Tomas Liao",
       "jp": "「ルールを破ったことを認めてください。素直に謝罪の意志を見せて、もうここで心を入れ替えて二度としないと誓えば、<tips=81>龍頭</tips>だって処刑までは……」",
       "en": "“Admit that you broke the rules. If you apologize sincerely, swear that you've changed here and now, and promise never to do it again, then surely even the <tips=81>Longtou</tips> won't go so far as to execute you...”"
     },
@@ -4190,7 +4190,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=28>トーマス</tips>。私は何があっても決定を変えるつもりはないよ。……<tips=4>馬明</tips>、きみは偉大なる功績を残した。だから、この裁定に納得し、その人生に相応しい見事な死を遂げて欲しくてこの場を用意したんだよ。詭弁なんか聞きたくない。今の言い訳には失望した」",
-      "en": "“<tips=28>Thomas</tips>, nothing will make me change this decision... <tips=4>Ma Ming</tips>, your accomplishments were great. I arranged this gathering because I wanted you to accept the judgment and meet a magnificent death worthy of the life you led. I did not want sophistry. Your excuses have disappointed me.”"
+      "en": "“<tips=28>Tomas</tips>, nothing will make me change this decision... <tips=4>Ma Ming</tips>, your accomplishments were great. I arranged this gathering because I wanted you to accept the judgment and meet a magnificent death worthy of the life you led. I did not want sophistry. Your excuses have disappointed me.”"
     },
     {
       "id": "A6:0574",
@@ -4334,7 +4334,7 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「ふん、<tips=33>壬生屋の倅</tips>は臆病ものだな。それに考えが浅い。ここで<tips=2>阿亮</tips>を撃ち殺したってなんにもならない。そのあとここにいる<tips=25>世傑</tips>に蜂の巣にされ、汚名を帯びた死体が残るだけだ。そんな意味のないことをすると思うか？　それとも、目の前で人が死ぬのを見るのがこわいのか？　<tips=33>壬生屋の倅</tips>は喧嘩になると姿が見えなくなると噂されてるぞ」",
-      "en": "“Hmph. <tips=33>Mibuya's son</tips> is a coward—and a shallow thinker. Shooting <tips=2>Ah Long</tips> here would accomplish nothing. <tips=25>Sai-ki</tips> would immediately fill me with holes, leaving behind nothing but a disgraced corpse. Do you imagine I would do something so meaningless? Or are you afraid to watch a man die before your eyes? They say <tips=33>Mibuya's son</tips> always disappears whenever a fight begins.”"
+      "en": "“Hmph. <tips=33>Mibuya's son</tips> is a coward—and a shallow thinker. Shooting <tips=2>Ah Long</tips> here would accomplish nothing. <tips=25>Saiki</tips> would immediately fill me with holes, leaving behind nothing but a disgraced corpse. Do you imagine I would do something so meaningless? Or are you afraid to watch a man die before your eyes? They say <tips=33>Mibuya's son</tips> always disappears whenever a fight begins.”"
     },
     {
       "id": "A6:0592",
@@ -4415,7 +4415,7 @@
       "sj": "",
       "se": "",
       "jp": "　と<tips=25>世傑</tips>に言った。",
-      "en": "I say it to <tips=25>Sai-ki</tips>."
+      "en": "I say it to <tips=25>Saiki</tips>."
     },
     {
       "id": "A6:0602",
@@ -4460,7 +4460,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は眉をあげておどけてみせるが、<tips=25>世傑</tips>は苦い顔をしたまま黙っている。",
-      "en": "<tips=4>Ma Ming</tips> arches an eyebrow in playful exaggeration, but <tips=25>Sai-ki</tips> remains silent, his expression bitter."
+      "en": "<tips=4>Ma Ming</tips> arches an eyebrow in playful exaggeration, but <tips=25>Saiki</tips> remains silent, his expression bitter."
     },
     {
       "id": "A6:0607",
@@ -4505,7 +4505,7 @@
       "sj": "",
       "se": "",
       "jp": "　そのあと、<tips=25>世傑</tips>の方を見て、そして最後に僕を見つめながら、ゆっくりと銃に手を伸ばした。",
-      "en": "Then he looks at <tips=25>Sai-ki</tips>, and finally at me, as he slowly reaches for the gun."
+      "en": "Then he looks at <tips=25>Saiki</tips>, and finally at me, as he slowly reaches for the gun."
     },
     {
       "id": "A6:0612",
@@ -4595,7 +4595,7 @@
       "sj": "",
       "se": "",
       "jp": "「いまのきみの気持ちはよくわかる。さっき<tips=25>世傑</tips>が自分に向けた銃を、そのまま受け取ったのになぜ弾が出ないのかってね。でも、よく考えればそんな勘違いはしなかったはずだ」",
-      "en": "“I understand what you're thinking. You received the same gun <tips=25>Sai-ki</tips> pointed at you moments ago, so why did it fail to fire? But if you had thought carefully, you would never have made that mistake.”"
+      "en": "“I understand what you're thinking. You received the same gun <tips=25>Saiki</tips> pointed at you moments ago, so why did it fail to fire? But if you had thought carefully, you would never have made that mistake.”"
     },
     {
       "id": "A6:0645",
@@ -4613,7 +4613,7 @@
       "sj": "",
       "se": "",
       "jp": "「きみは銃を普段持ち歩かない。それに、持ち歩くときもジャケットの内側には隠さない。太ったきみがそこに隠せばどうやってもぴちぴちのジャケットが膨らんでそうとわかってしまうし、スムーズに取り出すことも出来ないからだ。もちろん<tips=25>世傑</tips>はそんなことは承知している。きみだって、さっきそのことを指摘した筈じゃないか。そこで<tips=25>世傑</tips>の反応に違和感を覚えたんだから、その時気が付くことだって出来たんだよ。<tips=25>世傑</tips>がわざわざ銃を取り出して、これみよがしにつきつけることには別の意味があるんじゃないかって。たとえば、銃弾の入っていない銃を、あたかも弾が入っているかのように見せかけるとかさ」",
-      "en": "“You don't ordinarily carry a gun. Even when you do, you never hide it inside your jacket. You're a large man, and if you concealed it there, your already tight jacket would bulge so obviously that anyone could tell. Nor could you draw it smoothly. Naturally, <tips=25>Sai-ki</tips> knows all that. You yourself pointed it out moments ago. When <tips=25>Sai-ki</tips>'s reaction struck you as strange, you could have realized then. You might have wondered whether <tips=25>Sai-ki</tips> deliberately drawing his gun and thrusting it at you so theatrically served another purpose—making an unloaded weapon appear to be loaded, for example.”"
+      "en": "“You don't ordinarily carry a gun. Even when you do, you never hide it inside your jacket. You're a large man, and if you concealed it there, your already tight jacket would bulge so obviously that anyone could tell. Nor could you draw it smoothly. Naturally, <tips=25>Saiki</tips> knows all that. You yourself pointed it out moments ago. When <tips=25>Saiki</tips>'s reaction struck you as strange, you could have realized then. You might have wondered whether <tips=25>Saiki</tips> deliberately drawing his gun and thrusting it at you so theatrically served another purpose—making an unloaded weapon appear to be loaded, for example.”"
     },
     {
       "id": "A6:0648",
@@ -4631,7 +4631,7 @@
       "sj": "",
       "se": "",
       "jp": "「……このことに即座に気がつくのは難しいかな？　でも、ヒントはそれだけじゃない。もっとシンプルで簡単な考え方で答えに辿り着くことも出来る。この<tips=1>謝亮</tips>が、この場面で弾が入った銃を手渡すなんてどう考えたっておかしいだろう？　どうして私がそんな危険をおかすと思えたんだい？　何か裏があると考えるべきだろう。子供の頃からよく知っている相手なんだから」",
-      "en": "“...Perhaps noticing that immediately would have been difficult. But that was not the only clue. A much simpler line of thought could have led you to the answer. It is plainly absurd that <tips=1>Tse Long</tips> would hand you a loaded gun in this situation. How could you believe I would take such a risk? You should have suspected a hidden purpose. After all, you have known me since childhood.”"
+      "en": "“...Perhaps noticing that immediately would have been difficult. But that was not the only clue. A much simpler line of thought could have led you to the answer. It is plainly absurd that <tips=1>Xie Liang</tips> would hand you a loaded gun in this situation. How could you believe I would take such a risk? You should have suspected a hidden purpose. After all, you have known me since childhood.”"
     },
     {
       "id": "A6:0650",
@@ -4874,7 +4874,7 @@
       "sj": "",
       "se": "",
       "jp": "　ここにいるのは筋金入りのギャングばかりで、僕はこのなかで一番年下で、一番キャリアがないんだ。<tips=28>トーマス</tips>でさえも、この世界でのキャリアは僕より上だ。",
-      "en": "Everyone here is a hardened gangster. I am the youngest and have the least experience of them all. Even <tips=28>Thomas</tips> has spent longer in this world than I have."
+      "en": "Everyone here is a hardened gangster. I am the youngest and have the least experience of them all. Even <tips=28>Tomas</tips> has spent longer in this world than I have."
     },
     {
       "id": "A6:0702",
@@ -5045,7 +5045,7 @@
       "sj": "",
       "se": "",
       "jp": "　目の前にうつっているものは積み上げた西瓜と大差ない。何の感情も動かさない。これが<tips=1>謝亮</tips>という人間だ。",
-      "en": "What I see before me is no different from a stack of watermelons. I feel nothing. This is the man called <tips=1>Tse Long</tips>."
+      "en": "What I see before me is no different from a stack of watermelons. I feel nothing. This is the man called <tips=1>Xie Liang</tips>."
     },
     {
       "id": "A6:0732",
@@ -5126,7 +5126,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=34>ダリオ・ボネット</tips>は口数が少なく、他の人間の出方をうかがうような態度を見せていた。",
-      "en": "<tips=34>Dario Bonnet</tips> says little and seems to be watching how everyone else responds."
+      "en": "<tips=34>Dario Bonetto</tips> says little and seems to be watching how everyone else responds."
     },
     {
       "id": "A6:0756",
@@ -5153,7 +5153,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は会議室に残って、現場の処理と、遺体を自宅へ送り届ける手配などをしている。",
-      "en": "<tips=25>Sai-ki</tips> remains in the conference room to oversee the scene and arrange for the body to be delivered home."
+      "en": "<tips=25>Saiki</tips> remains in the conference room to oversee the scene and arrange for the body to be delivered home."
     },
     {
       "id": "A6:0759",
@@ -5162,7 +5162,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕は<tips=39>ジェフリー</tips>の残した道具で<tips=30>レイレイ</tips>が淹れてくれたコーヒーを飲みながら、彼らの意見を聞き、自分の考えている方針を説明した。",
-      "en": "Drinking coffee <tips=30>Leilei</tips> brewed with the equipment <tips=39>Jeffrey</tips> left behind, I listen to their views and explain the course I intend to pursue."
+      "en": "Drinking coffee <tips=30>Reirei</tips> brewed with the equipment <tips=39>Jeffrey</tips> left behind, I listen to their views and explain the course I intend to pursue."
     },
     {
       "id": "A6:0760",
@@ -5207,7 +5207,7 @@
       "sj": "",
       "se": "",
       "jp": "「ありがとう。でも、<tips=40>天明</tips>と<tips=40>天祥</tips>がいれば大丈夫だよ」",
-      "en": "“Thank you. But with <tips=40>Tinming</tips> and <tips=40>Tinchen</tips> here, I'll be fine.”"
+      "en": "“Thank you. But with <tips=40>Tianming</tips> and <tips=40>Tianxiang</tips> here, I'll be fine.”"
     },
     {
       "id": "A6:0766",
@@ -5234,7 +5234,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー・ホワイト</tips>はなかなか帰ろうとしなかった。",
-      "en": "<tips=31>Ellie White</tips> shows no inclination to leave."
+      "en": "<tips=31>Elly White</tips> shows no inclination to leave."
     },
     {
       "id": "A6:0770",
@@ -5268,7 +5268,7 @@
       "i": 585,
       "n": 773,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「さすがの<tips=81>龍頭</tips>でもこたえますか？」",
       "en": "“Is this difficult even for the mighty <tips=81>Longtou</tips>?”"
     },
@@ -5295,7 +5295,7 @@
       "i": 588,
       "n": 776,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「後悔しなきゃいけないことなんか、ありましたか？」",
       "en": "“Was there anything you truly needed to regret?”"
     },
@@ -5349,7 +5349,7 @@
       "i": 594,
       "n": 782,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「たまには感情を見せるのも、良いことですよ。あそこで戸惑いを見せ、それでも実行したのはプラスに働くと思います。あれも計算ならば大したものです」",
       "en": "“Showing emotion on occasion can be useful. I believe your hesitation there—and the fact that you carried it out despite that hesitation—will work in your favor. If even that was calculated, then I am impressed.”"
     },
@@ -5367,9 +5367,9 @@
       "i": 596,
       "n": 784,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「今日のことで、はっきりとわかりました。あなたは<tips=3>クリス</tips>様とは違う、<tips=1>謝亮</tips>という新しい<tips=81>龍頭</tips>なんだって」",
-      "en": "“Today made it perfectly clear. You are not Lord <tips=3>Chris</tips>. You are a new <tips=81>Longtou</tips> named <tips=1>Tse Long</tips>.”"
+      "en": "“Today made it perfectly clear. You are not Lord <tips=3>Chris</tips>. You are a new <tips=81>Longtou</tips> named <tips=1>Xie Liang</tips>.”"
     },
     {
       "id": "A6:0785",
@@ -5385,7 +5385,7 @@
       "i": 598,
       "n": 786,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「あと、大事なお話があります。もしかしたらこれから私たちの脅威になるかもしれない者の話です」",
       "en": "“There is also an important matter we must discuss. It concerns someone who may become a threat to us.”"
     },
@@ -5403,7 +5403,7 @@
       "i": 600,
       "n": 788,
       "sj": "エリー・ホワイト",
-      "se": "Ellie White",
+      "se": "Elly White",
       "jp": "「わかりました。……お気を落とさぬよう。これからも、私は引き続きあなたに協力させていただきます」",
       "en": "“Very well... Do not lose heart. I will continue to offer you my cooperation.”"
     },
@@ -5423,7 +5423,7 @@
       "sj": "",
       "se": "",
       "jp": "　すると、僕と<tips=30>レイレイ</tips>、それから亡き<tips=39>ジェフリー</tips>の二人の娘である<tips=40>天明</tips>と<tips=40>天祥</tips>が部屋に残る。",
-      "en": "That leaves me with <tips=30>Leilei</tips> and the late <tips=39>Jeffrey</tips>'s two daughters, <tips=40>Tinming</tips> and <tips=40>Tinchen</tips>."
+      "en": "That leaves me with <tips=30>Reirei</tips> and the late <tips=39>Jeffrey</tips>'s two daughters, <tips=40>Tianming</tips> and <tips=40>Tianxiang</tips>."
     },
     {
       "id": "A6:0796",
@@ -5432,7 +5432,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=30>レイレイ</tips>は<tips=4>馬明</tips>の死を知らされたとき酷く動揺していて、いまも落ち着かない表情で僕の机の側に立っている。<tips=16>タイプA</tips>でもないのにひどい畸形があるそうだが、服を着ているとわからない。ただいつも自信なげにしているのは、人と違った身体をもつもの特有の性格だった。",
-      "en": "<tips=30>Leilei</tips> was deeply shaken when she learned of <tips=4>Ma Ming</tips>'s death and still stands beside my desk with a restless expression. I hear she has a severe deformity despite not being a <tips=16>Type A</tips>, though it is invisible beneath her clothing. Her perpetual lack of confidence is a disposition particular to those whose bodies differ from others."
+      "en": "<tips=30>Reirei</tips> was deeply shaken when she learned of <tips=4>Ma Ming</tips>'s death and still stands beside my desk with a restless expression. I hear she has a severe deformity despite not being a <tips=16>Type A</tips>, though it is invisible beneath her clothing. Her perpetual lack of confidence is a disposition particular to those whose bodies differ from others."
     },
     {
       "id": "A6:0797",
@@ -5441,7 +5441,7 @@
       "sj": "",
       "se": "",
       "jp": "　いつも僕の側にいる<tips=40>天明</tips>と<tips=40>天祥</tips>は事前に情報を聞いていた。聞いた時は二人とも驚きの表情を浮かべていたが、一度も自分の意見や感想は口にしていない。",
-      "en": "<tips=40>Tinming</tips> and <tips=40>Tinchen</tips>, who are always at my side, were informed in advance. Both looked surprised when they heard, but neither has once voiced an opinion or reaction."
+      "en": "<tips=40>Tianming</tips> and <tips=40>Tianxiang</tips>, who are always at my side, were informed in advance. Both looked surprised when they heard, but neither has once voiced an opinion or reaction."
     },
     {
       "id": "A6:0798",
@@ -5450,7 +5450,7 @@
       "sj": "",
       "se": "",
       "jp": "　父さんの<tips=3>クリス・ツェー</tips>から歴代の<tips=81>龍頭</tips>に仕えてきた彼女たちは、当然<tips=4>馬明</tips>のこともよく知っている。仲良く冗談などを言い合って笑っているのを僕も見ている。異形であり異能である彼女たちはおそれられ、部下たちからも距離を置かれていたが、<tips=4>馬明</tips>はそんなことおかまいなしだった。",
-      "en": "Having served every <tips=81>Longtou</tips> since my father, <tips=3>Chris Tse</tips>, they naturally knew <tips=4>Ma Ming</tips> well. I often saw them laughing and trading jokes with him. Their strange bodies and abilities made others fear them, and even their subordinates kept their distance, but <tips=4>Ma Ming</tips> never cared about any of that."
+      "en": "Having served every <tips=81>Longtou</tips> since my father, <tips=3>Chris Xie</tips>, they naturally knew <tips=4>Ma Ming</tips> well. I often saw them laughing and trading jokes with him. Their strange bodies and abilities made others fear them, and even their subordinates kept their distance, but <tips=4>Ma Ming</tips> never cared about any of that."
     },
     {
       "id": "A6:0799",
@@ -5459,7 +5459,7 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=40>天明</tips>、<tips=40>天祥</tips>、きみたちも少し休むといい」",
-      "en": "“<tips=40>Tinming</tips>, <tips=40>Tinchen</tips>, you two should rest for a while.”"
+      "en": "“<tips=40>Tianming</tips>, <tips=40>Tianxiang</tips>, you two should rest for a while.”"
     },
     {
       "id": "A6:0800",
@@ -5475,7 +5475,7 @@
       "i": 608,
       "n": 801,
       "sj": "黄天祥",
-      "se": "Tinchen Wong",
+      "se": "Wong Tianxiang",
       "jp": "「い、いえ、そんな」",
       "en": "“N-no, we couldn't...”"
     },
@@ -5484,7 +5484,7 @@
       "i": 609,
       "n": 802,
       "sj": "黄天明",
-      "se": "Tinming Wong",
+      "se": "Wong Tianming",
       "jp": "「私たちは大丈夫です」",
       "en": "“We are fine.”"
     },
@@ -5493,7 +5493,7 @@
       "i": 610,
       "n": 803,
       "sj": "黄天祥",
-      "se": "Tinchen Wong",
+      "se": "Wong Tianxiang",
       "jp": "「父が死んだ時も、他の時も、動揺して<tips=81>龍頭</tips>様には不甲斐ない姿を見せてしまいました。あんなことはもうありません」",
       "en": "“When our father died, and at other times, we lost control and showed you a shameful side of ourselves, Lord <tips=81>Longtou</tips>. It will not happen again.”"
     },
@@ -5502,7 +5502,7 @@
       "i": 611,
       "n": 804,
       "sj": "黄天明",
-      "se": "Tinming Wong",
+      "se": "Wong Tianming",
       "jp": "「私たちは<tips=81>龍頭</tips>様を守るためだけに存在する道具なんです。他のことは、気にしないでください」",
       "en": "“We are tools that exist solely to protect you, Lord <tips=81>Longtou</tips>. Please pay no attention to anything else.”"
     },
@@ -5511,7 +5511,7 @@
       "i": 612,
       "n": 805,
       "sj": "黄天祥",
-      "se": "Tinchen Wong",
+      "se": "Wong Tianxiang",
       "jp": "「それに、むしろ<tips=81>龍頭</tips>様こそ……」",
       "en": "“If anything, Lord <tips=81>Longtou</tips>, you should be the one...”"
     },
@@ -5529,7 +5529,7 @@
       "i": 614,
       "n": 807,
       "sj": "黄天明",
-      "se": "Tinming Wong",
+      "se": "Wong Tianming",
       "jp": "「い、いえ、そんな……」",
       "en": "“N-no, we couldn't...”"
     },
@@ -5538,7 +5538,7 @@
       "i": 615,
       "n": 808,
       "sj": "黄天祥",
-      "se": "Tinchen Wong",
+      "se": "Wong Tianxiang",
       "jp": "「勿体ないお言葉です」",
       "en": "“You honor us beyond measure.”"
     },
@@ -5565,7 +5565,7 @@
       "i": 618,
       "n": 811,
       "sj": "レイレイ",
-      "se": "Leilei",
+      "se": "Reirei",
       "jp": "「あ、あの、<tips=81>龍頭</tips>様。私はこれで良かったんだと思います」",
       "en": "“U-um, Lord <tips=81>Longtou</tips>. I think this was for the best.”"
     },
@@ -5576,7 +5576,7 @@
       "sj": "",
       "se": "",
       "jp": "　そう言ったのは<tips=30>レイレイ</tips>だった。",
-      "en": "It is <tips=30>Leilei</tips> who speaks."
+      "en": "It is <tips=30>Reirei</tips> who speaks."
     },
     {
       "id": "A6:0813",
@@ -5592,7 +5592,7 @@
       "i": 621,
       "n": 814,
       "sj": "レイレイ",
-      "se": "Leilei",
+      "se": "Reirei",
       "jp": "「<tips=4>馬</tips>様は、<tips=3>クリス</tips>様や、<tips=39>ウォン</tips>様のいるところに行きたかったんだと思います。だからあんなことを……」",
       "en": "“I believe Lord <tips=4>Ma</tips> wanted to go where Lord <tips=3>Chris</tips> and Lord <tips=39>Wong</tips> are. That is why he did those things...”"
     },
@@ -5610,7 +5610,7 @@
       "i": 623,
       "n": 816,
       "sj": "レイレイ",
-      "se": "Leilei",
+      "se": "Reirei",
       "jp": "「い、いえ」",
       "en": "“N-no.”"
     },
@@ -5648,7 +5648,7 @@
       "sj": "",
       "se": "",
       "jp": "「ちょっと会議室を見てくる。きみはここで電話番をしていてくれ。<tips=40>天明</tips>、<tips=40>天祥</tips>。今日の仕事はもう終わりだ。自室に戻ってくれたまえ」",
-      "en": "“I'm going to inspect the conference room. Stay here and answer the telephone. <tips=40>Tinming</tips>, <tips=40>Tinchen</tips>, your work is finished for today. Return to your rooms.”"
+      "en": "“I'm going to inspect the conference room. Stay here and answer the telephone. <tips=40>Tianming</tips>, <tips=40>Tianxiang</tips>, your work is finished for today. Return to your rooms.”"
     },
     {
       "id": "A6:0821",
@@ -5711,7 +5711,7 @@
       "sj": "",
       "se": "",
       "jp": "　名前は<tips=51>熨田さくら</tips>。あのテレポート少女にさらわれた<tips=44>筱喬</tips>を取り戻してくれた人物で、空を飛ぶ能力があるサイキックだ。その肌がしっとりと濡れているのは、暑いわけではなくて彼女の<tips=77>特質変異</tips>だと言う。常にねばねばした体液が肌から分泌されているらしい。",
-      "en": "Her name is <tips=51>Sakura Noshida</tips>. She is the psychic with the power of flight who rescued <tips=44>Siu-kiu</tips> from the teleporting girl who abducted her. The moist sheen on her skin is not caused by the heat but by her <tips=77>Trait Mutation</tips>. Apparently, her skin constantly secretes sticky bodily fluids."
+      "en": "Her name is <tips=51>Sakura Noshida</tips>. She is the psychic with the power of flight who rescued <tips=44>Xiaoqiao</tips> from the teleporting girl who abducted her. The moist sheen on her skin is not caused by the heat but by her <tips=77>Trait Mutation</tips>. Apparently, her skin constantly secretes sticky bodily fluids."
     },
     {
       "id": "A6:0835",
@@ -5720,7 +5720,7 @@
       "sj": "",
       "se": "",
       "jp": "　その隣では<tips=44>筱喬</tips>が、よそ行きの服を着て立っている。僕はその顔を見ると気が重くなった。<tips=4>馬明</tips>は彼女にとっても、子供のころから面倒を見てくれる親しい人間であったのだ。今ここで僕が殺したと知ったら、取り乱してしまうことだろう。しかしいつかは気がつくことなのだ。",
-      "en": "Beside her, <tips=44>Siu-kiu</tips> stands dressed for an outing. Seeing her face weighs on me. <tips=4>Ma Ming</tips> was close to her too, someone who had looked after her since childhood. If she learns here and now that I killed him, she will be distraught. But eventually, she must learn."
+      "en": "Beside her, <tips=44>Xiaoqiao</tips> stands dressed for an outing. Seeing her face weighs on me. <tips=4>Ma Ming</tips> was close to her too, someone who had looked after her since childhood. If she learns here and now that I killed him, she will be distraught. But eventually, she must learn."
     },
     {
       "id": "A6:0836",
@@ -5738,7 +5738,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕は<tips=44>筱喬</tips>から目をそらして<tips=51>さくら</tips>にそう言った。",
-      "en": "I avert my eyes from <tips=44>Siu-kiu</tips> and ask <tips=51>Sakura</tips>."
+      "en": "I avert my eyes from <tips=44>Xiaoqiao</tips> and ask <tips=51>Sakura</tips>."
     },
     {
       "id": "A6:0838",
@@ -5756,7 +5756,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>救出の際に片足を失った彼女のために、僕は最新の義足をプレゼントしていた。",
-      "en": "She lost one leg while rescuing <tips=44>Siu-kiu</tips>, so I gave her a state-of-the-art prosthetic."
+      "en": "She lost one leg while rescuing <tips=44>Xiaoqiao</tips>, so I gave her a state-of-the-art prosthetic."
     },
     {
       "id": "A6:0840",
@@ -5792,7 +5792,7 @@
       "sj": "",
       "se": "",
       "jp": "「このビルのまわりも良く飛んでるみたいだね。この間も、<tips=40>天明</tips>が空から人間が近づいて来ると報告してきたので、見たら、きみが飛んでた」",
-      "en": "“You seem to fly around this building often. The other day, <tips=40>Tinming</tips> reported that a person was approaching through the air. When I looked, it was you.”"
+      "en": "“You seem to fly around this building often. The other day, <tips=40>Tianming</tips> reported that a person was approaching through the air. When I looked, it was you.”"
     },
     {
       "id": "A6:0844",
@@ -5900,7 +5900,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうなんですか。じゃあ、今度ゲーム一緒にやってください！　私ゲーム好きなんです。三人でチーム組んで遊ぶのがあるんですけど、私と<tips=44>筱喬</tips>の二人じゃ足りなくて」",
-      "en": "“Really? Then play a game with me next time! I love games. There's one where you play in teams of three, but <tips=44>Siu-kiu</tips> and I are one person short.”"
+      "en": "“Really? Then play a game with me next time! I love games. There's one where you play in teams of three, but <tips=44>Xiaoqiao</tips> and I are one person short.”"
     },
     {
       "id": "A6:0856",
@@ -5936,7 +5936,7 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「やったー、ありがとうございます！　ねえ<tips=44>筱喬</tips>、<tips=1>亮</tips>さんが一緒に遊んでくれるんだって」",
-      "en": "“Yes! Thank you! Hey, <tips=44>Siu-kiu</tips>, Mr. <tips=1>Long</tips> says he'll play with us.”"
+      "en": "“Yes! Thank you! Hey, <tips=44>Xiaoqiao</tips>, Mr. <tips=1>Long</tips> says he'll play with us.”"
     },
     {
       "id": "A6:0860",
@@ -5945,7 +5945,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>はそう言って、僕を見つめたまま一言も喋らない<tips=44>筱喬</tips>の肩を叩く。",
-      "en": "Still staring at me, <tips=51>Sakura</tips> pats the shoulder of <tips=44>Siu-kiu</tips>, who has not spoken a single word."
+      "en": "Still staring at me, <tips=51>Sakura</tips> pats the shoulder of <tips=44>Xiaoqiao</tips>, who has not spoken a single word."
     },
     {
       "id": "A6:0861",
@@ -5954,14 +5954,14 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は眉間に皺を寄せて首を傾けると、こう言った。",
-      "en": "<tips=44>Siu-kiu</tips> furrows her brow, tilts her head, and says,"
+      "en": "<tips=44>Xiaoqiao</tips> furrows her brow, tilts her head, and says,"
     },
     {
       "id": "A6:0862",
       "i": 662,
       "n": 862,
       "sj": "筱喬",
-      "se": "Siu-kiu Tse",
+      "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃん、何かあったの？　なんか雰囲気がいつもとちがう」",
       "en": "“Did something happen, Big Brother? You feel different from usual.”"
     },
@@ -6017,7 +6017,7 @@
       "sj": "",
       "se": "",
       "jp": "　ただ、<tips=44>筱喬</tips>にもあとで説明をしなくてはいけないだろう。僕の口から直接話さなければいけない。それが僕の責任なのだ。",
-      "en": "Still, I will have to explain to <tips=44>Siu-kiu</tips> later. I must tell her directly. That is my responsibility."
+      "en": "Still, I will have to explain to <tips=44>Xiaoqiao</tips> later. I must tell her directly. That is my responsibility."
     },
     {
       "id": "A6:0880",
@@ -6026,7 +6026,7 @@
       "sj": "",
       "se": "",
       "jp": "　会議室に足を踏み入れると、<tips=25>世傑</tips>が一人で窓際に立って外に広がる<tips=9>Y地区</tips>の夕景を眺めていた。",
-      "en": "When I enter the conference room, <tips=25>Sai-ki</tips> stands alone beside the window, looking over the evening view of <tips=9>Y District</tips>."
+      "en": "When I enter the conference room, <tips=25>Saiki</tips> stands alone beside the window, looking over the evening view of <tips=9>Y District</tips>."
     },
     {
       "id": "A6:0881",
@@ -6042,7 +6042,7 @@
       "i": 671,
       "n": 882,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「<tips=81>龍頭</tips>……」",
       "en": "“<tips=81>Longtou</tips>...”"
     },
@@ -6053,14 +6053,14 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>はゆっくりと振り向いた。その表情には憂いはなく、微笑が浮かんでいる。",
-      "en": "<tips=25>Sai-ki</tips> slowly turns. There is no grief on his face; he is smiling."
+      "en": "<tips=25>Saiki</tips> slowly turns. There is no grief on his face; he is smiling."
     },
     {
       "id": "A6:0884",
       "i": 673,
       "n": 884,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「大体おわりました。遺体も、今頃家族のところに届いているはずです」",
       "en": "“We are nearly finished. The body should have reached the family by now.”"
     },
@@ -6078,7 +6078,7 @@
       "i": 675,
       "n": 886,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「いえいえ、仕事ですから」",
       "en": "“Not at all. It is my work.”"
     },
@@ -6096,7 +6096,7 @@
       "i": 677,
       "n": 888,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「別に感傷に浸ってるわけじゃないのよ。ちょっと眺めたら、なんだか見入っちゃって。……夕日ってこんなに鮮やかだった？　あまりにも久しぶりに眺めたから、どうも思い出せないわ。子供の時は、しょっちゅう空を眺めていたのに……」",
       "en": "“I'm not indulging in sentiment. I looked out for a moment and somehow became absorbed... Was the sunset always this vivid? It has been so long since I watched one that I can't quite remember. When I was a child, I looked at the sky constantly...”"
     },
@@ -6107,7 +6107,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>はそう言ってちょっと笑う。",
-      "en": "<tips=25>Sai-ki</tips> gives a small laugh."
+      "en": "<tips=25>Saiki</tips> gives a small laugh."
     },
     {
       "id": "A6:0890",
@@ -6161,7 +6161,7 @@
       "sj": "",
       "se": "",
       "jp": "「ねえ<tips=25>世傑</tips>、今夜から、死者の祈りに<tips=4>馬明</tips>も付け加えてくれないか？」",
-      "en": "“Listen, <tips=25>Sai-ki</tips>. Starting tonight, would you add <tips=4>Ma Ming</tips> to your prayers for the dead?”"
+      "en": "“Listen, <tips=25>Saiki</tips>. Starting tonight, would you add <tips=4>Ma Ming</tips> to your prayers for the dead?”"
     },
     {
       "id": "A6:0907",
@@ -6260,14 +6260,14 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=25>世傑</tips>は振り返る。",
-      "en": "Then <tips=25>Sai-ki</tips> turns around."
+      "en": "Then <tips=25>Saiki</tips> turns around."
     },
     {
       "id": "A6:0929",
       "i": 696,
       "n": 929,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「あのさ……」",
       "en": "“Listen...”"
     },
@@ -6294,7 +6294,7 @@
       "i": 699,
       "n": 933,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「届いたのかしら」",
       "en": "“Perhaps they arrived.”"
     },
@@ -6321,7 +6321,7 @@
       "i": 702,
       "n": 937,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「アハハハハハ！」",
       "en": "“Ah ha ha ha ha!”"
     },
@@ -6348,7 +6348,7 @@
       "i": 705,
       "n": 940,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「どうしたもこうしたもないわよ！　ばっかみたい！」",
       "en": "“What happened? It's ridiculous!”"
     },
@@ -6375,7 +6375,7 @@
       "i": 708,
       "n": 943,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「死んじゃったんだって！　<tips=24>美美</tips>が！」",
       "en": "“She's dead! <tips=24>Meimei</tips> is dead!”"
     },
@@ -6395,7 +6395,7 @@
       "sj": "",
       "se": "",
       "jp": "　僕と<tips=25>世傑</tips>がグルになって<tips=4>馬明</tips>を殺したのだと。そんな汚名を着せるなんて許せないと。呪ってやる、早く出て行けと泣き叫び、とても手のつけられない有様であったらしい。",
-      "en": "She said that <tips=25>Sai-ki</tips> and I had conspired to murder <tips=4>Ma Ming</tips>, and that she would never forgive us for branding him with such disgrace. She wept and screamed that she would curse us and that we must leave at once. Apparently, she was utterly beyond control."
+      "en": "She said that <tips=25>Saiki</tips> and I had conspired to murder <tips=4>Ma Ming</tips>, and that she would never forgive us for branding him with such disgrace. She wept and screamed that she would curse us and that we must leave at once. Apparently, she was utterly beyond control."
     },
     {
       "id": "A6:0946",
@@ -6411,7 +6411,7 @@
       "i": 712,
       "n": 947,
       "sj": "馬世傑",
-      "se": "Ma Sai-ki",
+      "se": "Ma Saiki",
       "jp": "「あの子、最近あんたに対して不信感あったのよね。<tips=35>フェルナンデス</tips>の娘さんの件も、あんたの差し金だって信じてたわ。恐ろしくてしかたなかったんでしょうね。でも、だからって自殺なんかしてどうするの？　次は自分が組織に殺されるとでも思ったのかしら！　アハハハ！　ばっかみたい！」",
       "en": "“She had started distrusting you lately. She was convinced that what happened to <tips=35>Fernandez</tips>'s daughter was your doing too. She must have been terrified. But even so, what good does suicide do? Did she think the organization would kill her next? Ah ha ha! It's ridiculous!”"
     },
@@ -6422,7 +6422,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は笑い続けている。濡れた顔をおさえ、気が狂ったかのように、いつまでも笑い続けている。",
-      "en": "<tips=25>Sai-ki</tips> continues laughing. Holding his wet face, he laughs on and on as though he has lost his mind."
+      "en": "<tips=25>Saiki</tips> continues laughing. Holding his wet face, he laughs on and on as though he has lost his mind."
     },
     {
       "id": "A6:0949",

@@ -112,6 +112,9 @@ test("generated chapter index agrees with its chapter files", async () => {
   assert.equal(lineById.get("A1:0232")?.se, "");
   assert.equal(lineById.get("A1:0254")?.se, "");
   assert.equal(lineById.get("A1:0258")?.se, "Michio Mido");
+  assert.equal(lineById.get("A6:0801")?.se, "Wong Tianxiang");
+  assert.equal(lineById.get("A6:0802")?.se, "Wong Tianming");
+  assert.equal(lineById.get("F1:0312")?.se, "Sashen'ka");
 });
 
 test("repository JSON is pretty-printed for review", async () => {
@@ -161,6 +164,8 @@ test("generated glossary contains every evolving game record", async () => {
   assert.equal(greatHoleManju.enTitle, "Great Hole Manju");
   assert.equal(greatHoleManju.records.length, 1);
   assert.deepEqual(greatHoleManju.records[0].requires, ["A1"]);
+  assert.equal(glossary.groups.find((group) => group.id === 1).enTitle, "Xie Liang");
+  assert.equal(glossary.groups.find((group) => group.id === 3).enTitle, "Chris Xie");
 });
 
 test("glossary versions follow the game's scenario dependency graph", async () => {
@@ -181,7 +186,7 @@ test("glossary versions follow the game's scenario dependency graph", async () =
   }
   assert.equal(progression.vnOrder.length, Object.keys(progression.chapters).length);
   assert.equal(new Set(progression.vnOrder).size, progression.vnOrder.length);
-  assert.deepEqual(progression.vnOrder.slice(0, 5), ["X1", "A1", "B1", "X2-1", "X2-2"]);
+  assert.deepEqual(progression.vnOrder.slice(0, 5), ["X1", "A1", "B1", "A2-1", "A2-2"]);
   const orderPosition = new Map(progression.vnOrder.map((chapter, position) => [chapter, position]));
   for (const [chapter, requirements] of Object.entries(progression.chapters)) {
     for (const required of requirements) {
@@ -240,6 +245,13 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(glossary, /\.glossary-id/);
   assert.doesNotMatch(glossary, /unlockLabel|glossary-unlock|glossary-back-link/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
+});
+
+test("data builder synchronizes the editorial VN order", async () => {
+  const builder = await readFile(new URL("tools/build_data.py", root), "utf8");
+  assert.match(builder, /chapter_unlock_and_editorial_reading_order\.md/);
+  assert.match(builder, /def sync_scenario_progression/);
+  assert.match(builder, /positions\[requirement\] >= positions\[chapter\]/);
 });
 
 test("plain script segments append without erasing glossary terms", async () => {
