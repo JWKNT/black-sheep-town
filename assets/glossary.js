@@ -95,7 +95,6 @@
   function makeEntry(entry) {
     const article = elements.template.content.firstElementChild.cloneNode(true);
     article.id = `tip-${entry.id}`;
-    article.querySelector(".glossary-id").textContent = String(entry.id).padStart(2, "0");
     article.querySelector(".glossary-en-title").textContent = entry.enTitle;
     article.querySelector(".glossary-jp-title").textContent = entry.record.jpTitle;
     article.querySelector(".glossary-reading").textContent = entry.record.pronunciation
