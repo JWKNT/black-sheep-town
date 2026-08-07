@@ -50,6 +50,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
   assert.doesNotMatch(html, /class="glossary-id"/);
+  assert.doesNotMatch(html, /glossary-entry-footer|glossary-unlock|glossary-back-link/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
@@ -237,6 +238,7 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(glossary, /\.glossary-jp-description/);
   assert.match(glossary, /\.glossary-en-description/);
   assert.doesNotMatch(glossary, /\.glossary-id/);
+  assert.doesNotMatch(glossary, /unlockLabel|glossary-unlock|glossary-back-link/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 

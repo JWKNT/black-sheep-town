@@ -74,11 +74,6 @@
     return state.glossary.groups.map(activeEntry).filter(Boolean);
   }
 
-  function unlockLabel(record) {
-    const joiner = record.requireAll ? " + " : " or ";
-    return `Unlocked by ${record.requires.join(joiner)}`;
-  }
-
   function matches(entry) {
     const query = state.query.trim().toLocaleLowerCase();
     if (!query) return true;
@@ -102,10 +97,6 @@
       : "";
     article.querySelector(".glossary-jp-description").textContent = entry.record.jpDescription;
     article.querySelector(".glossary-en-description").textContent = entry.record.enDescription;
-    article.querySelector(".glossary-unlock").textContent = unlockLabel(entry.record);
-    const backLink = article.querySelector(".glossary-back-link");
-    const orderQuery = state.order === "group" ? "&order=group" : "";
-    backLink.href = `./?chapter=${encodeURIComponent(state.chapter)}&mode=en${orderQuery}`;
     return article;
   }
 

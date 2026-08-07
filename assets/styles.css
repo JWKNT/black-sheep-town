@@ -173,9 +173,6 @@ mark { padding: 0; background: #f4e9b8; color: inherit; }
 .glossary-language.english { border-left: 1px solid var(--line-strong); }
 .glossary-language p { margin: 0; font-size: 14px; line-height: 1.75; white-space: pre-line; overflow-wrap: anywhere; }
 .glossary-language.japanese p { line-height: 1.85; }
-.glossary-entry-footer { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 7px 12px; border-top: 1px solid var(--line); }
-.glossary-unlock { margin: 0; color: var(--faint); font: 9px/1.4 var(--mono); }
-.glossary-back-link { font-size: 10px; white-space: nowrap; }
 
 .empty-state { padding: 42px 0; text-align: center; }
 .empty-state h2 { margin: 0; font-size: 18px; font-weight: 500; }
@@ -236,7 +233,6 @@ footer p { margin: 3px 0; }
   .glossary-comparison { grid-template-columns: 1fr; }
   .glossary-language { padding: 13px 14px; }
   .glossary-language.english { border-top: 1px solid var(--line-strong); border-left: 0; }
-  .glossary-entry-footer { align-items: flex-end; }
 }
 
 @media (max-width: 560px) {
