@@ -284,7 +284,7 @@
       "sj": "",
       "se": "",
       "jp": "　あの夜、<tips=10>見土道夫</tips>が助けに来てからずっと様子がおかしいのである。",
-      "en": "She has been acting strange ever since Michio <tips=10>Mido</tips> came to save her that night."
+      "en": "She has been acting strange ever since <tips=10>Michio Mido</tips> came to save her that night."
     },
     {
       "id": "D3:0040",
@@ -599,7 +599,7 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「この街では、<tips=17>タイプB</tips>の人たちが、お互いを支え合いながら生きているんでしょ？　私もそこに行きたい。そして私も、ただ可哀想な<tips=17>タイプＢ</tips>の娘としてこんなところに匿われているだけじゃなくて、誰かを助けたり、人の役に立ったりしたいの。もっと色んな人と、対等につき合いたいの。<tips=51>さくら</tips>と友だちになったみたいに」",
-      "en": "“In this city, <tips=17>Type B</tips> people live by supporting one another, don't they? I want to go there too. I don't want to be hidden away here as nothing but a pitiful <tips=17>Type B</tips> girl. I want to help someone, or make myself useful. I want to meet all sorts of people as an equal—like how I became friends with <tips=51>Sakura</tips>.”"
+      "en": "“In the City, <tips=17>Type B</tips> people live by supporting one another, don't they? I want to go there too. I don't want to be hidden away here as nothing but a pitiful <tips=17>Type B</tips> girl. I want to help someone, or make myself useful. I want to meet all sorts of people as an equal—like how I became friends with <tips=51>Sakura</tips>.”"
     },
     {
       "id": "D3:0075",
@@ -698,7 +698,7 @@
       "sj": "",
       "se": "",
       "jp": "「でも、<tips=17>タイプB</tips>が街でやってゆくには、それしかないんじゃないの？」",
-      "en": "“But isn't that the only way for someone who's <tips=17>Type B</tips> to survive in the city?”"
+      "en": "“But isn't that the only way for someone who's <tips=17>Type B</tips> to survive in the City?”"
     },
     {
       "id": "D3:0086",
@@ -761,7 +761,7 @@
       "sj": "",
       "se": "",
       "jp": "　確かに彼女の言うとおり、<tips=10>見土道夫</tips>なら請け負ってくれるかもしれない。私もそうは思うのだが、",
-      "en": "She's right that Michio <tips=10>Mido</tips> might agree to take responsibility for her. I think so too, but..."
+      "en": "She's right that <tips=10>Michio Mido</tips> might agree to take responsibility for her. I think so too, but..."
     },
     {
       "id": "D3:0093",
@@ -1148,7 +1148,7 @@
       "sj": "",
       "se": "",
       "jp": "　しかも相手が<tips=10>見土道夫</tips>って。",
-      "en": "And of all people, Michio <tips=10>Mido</tips>."
+      "en": "And of all people, <tips=10>Michio Mido</tips>."
     },
     {
       "id": "D3:0149",
@@ -1526,7 +1526,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は街で自分の兄がどんな評判なのか知らないのであろうか？　度重なる部下たちの陰謀などをひとつ残らず発見して粛清する、冷酷で恐ろしい人物として知られているのだよ？",
-      "en": "Does she not know what sort of reputation her brother has in this city? He's known as a cold and terrifying man who uncovers and purges every last conspiracy his subordinates hatch against him."
+      "en": "Does she not know what sort of reputation her brother has in the City? He's known as a cold and terrifying man who uncovers and purges every last conspiracy his subordinates hatch against him."
     },
     {
       "id": "D3:0233",
@@ -1814,7 +1814,7 @@
       "sj": "",
       "se": "",
       "jp": "　何と言ったって、<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>の妹を預かるというのだ。これはヘタをするとこの街の裏社会の勢力図を変えてしまうほどの重要な出来事だ。",
-      "en": "After all, he's taking custody of the sister of <tips=7>YS</tips>'s <tips=81>Longtou</tips>. Handled poorly, this event could be important enough to reshape the balance of power in the city's underworld."
+      "en": "After all, he's taking custody of the sister of <tips=7>YS</tips>'s <tips=81>Longtou</tips>. Handled poorly, this event could be important enough to reshape the balance of power in the City's underworld."
     },
     {
       "id": "D3:0288",
@@ -2732,7 +2732,7 @@
       "sj": "",
       "se": "",
       "jp": "　この街で最も勢力のあるギャングのリーダーと、そんなふうに対決出来るなんて、なかなか面白いような気もするよ。普通に生きていたらまず体験出来ないことだ。",
-      "en": "The idea that I get to face off this way against the leader of the city's most powerful gang is actually rather exciting. It's something an ordinary life would never let me experience."
+      "en": "The idea that I get to face off this way against the leader of the City's most powerful gang is actually rather exciting. It's something an ordinary life would never let me experience."
     },
     {
       "id": "D3:0437",
@@ -2993,7 +2993,7 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「もう五日ほど前だったかな。町外れにある病院が襲撃されたんだ。そこは発症した<tips=17>タイプB</tips>を専門に扱う病院でね。ここを襲撃したのはどうやら<tips=21>八龍会</tips>のメンバーらしい。職員を大量に殺し、病院に閉じ込められた<tips=17>タイプB</tips>のお仲間を助け出したそうなんだよ。<tips=47>八龍解放軍</tips>とかいう武装チームを作ったらしくてね。そのリーダーは<tips=10>見土道夫</tips>。……街では騒ぎになったし、我々もここ数日はその対応のことばかり考えていたんだが、きみは知らなかったのかい？」",
-      "en": "“I believe it was about five days ago. A hospital on the outskirts of town was attacked. It specialized in treating <tips=17>Type B</tips> patients who had suffered an onset. Apparently, members of the <tips=21>Dragon Club</tips> were behind the attack. They slaughtered a great many staff members and rescued their fellow <tips=17>Type B</tips> patients who were confined there. It seems they've formed an armed unit called the <tips=47>Dragon Liberation Army</tips>. Its leader is Michio <tips=10>Mido</tips>... It caused an uproar throughout the city, and we've spent the past few days doing little but deciding how to respond. Did you truly not know?”"
+      "en": "“I believe it was about five days ago. A hospital on the outskirts of the City was attacked. It specialized in treating <tips=17>Type B</tips> patients who had suffered an onset. Apparently, members of the <tips=21>Dragon Club</tips> were behind the attack. They slaughtered a great many staff members and rescued their fellow <tips=17>Type B</tips> patients who were confined there. It seems they've formed an armed unit called the <tips=47>Dragon Liberation Army</tips>. Its leader is <tips=10>Michio Mido</tips>... It caused an uproar throughout the City, and we've spent the past few days doing little but deciding how to respond. Did you truly not know?”"
     },
     {
       "id": "D3:0466",
@@ -3002,7 +3002,7 @@
       "sj": "",
       "se": "",
       "jp": "「い、いえ、知りませんでした。<tips=44>筱喬</tips>も知らなかったと思います。街には出なかったし、<tips=7>ＹＳ</tips>が何をしてるかなんて教えてくれる人もいないですし……」",
-      "en": "“N-no, I didn't. I don't think <tips=44>Xiaoqiao</tips> knew either. She never went into the city, and no one would tell us what <tips=7>YS</tips> was doing...”"
+      "en": "“N-no, I didn't. I don't think <tips=44>Xiaoqiao</tips> knew either. She never went into the City, and no one would tell us what <tips=7>YS</tips> was doing...”"
     },
     {
       "id": "D3:0467",
@@ -3029,7 +3029,7 @@
       "sj": "",
       "se": "",
       "jp": "　そしてもう一つ、今の<tips=1>亮</tips>さんの言葉には『<tips=21>八龍会</tips>』、『<tips=10>見土道夫</tips>』など、<tips=44>筱喬</tips>の今の状況に関する重要なワードがちりばめられている。これは、どういうことなんだろう？",
-      "en": "Second, Mr. <tips=1>Ryou</tips>'s statement is strewn with important words related to <tips=44>Xiaoqiao</tips>'s current situation: “the <tips=21>Dragon Club</tips>,” “Michio <tips=10>Mido</tips>,” and so on. What does that mean?"
+      "en": "Second, Mr. <tips=1>Ryou</tips>'s statement is strewn with important words related to <tips=44>Xiaoqiao</tips>'s current situation: “the <tips=21>Dragon Club</tips>,” “<tips=10>Michio Mido</tips>,” and so on. What does that mean?"
     },
     {
       "id": "D3:0470",
@@ -3056,7 +3056,7 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「とにかく、そういう大事件があったんだよ。<tips=21>八龍会</tips>はすっかり過激な組織に豹変してしまった。この先、街の人間が<tips=17>タイプB</tips>に向ける視線も変わるだろう。だから、<tips=44>筱喬</tips>は大変なときに街に出ていったわけだ。……まったくあいつは間が悪いというか、タイミングの悪いやつだ。昔からそうなんだよな」",
-      "en": "“In any case, that major incident occurred. The <tips=21>Dragon Club</tips> has completely transformed into a radical organization. The way people in this city look at <tips=17>Type B</tips> people will change from now on. So <tips=44>Xiaoqiao</tips> chose a terrible time to go out into the city... Honestly, that girl has always had the worst timing.”"
+      "en": "“In any case, that major incident occurred. The <tips=21>Dragon Club</tips> has completely transformed into a radical organization. The way people in the City look at <tips=17>Type B</tips> people will change from now on. So <tips=44>Xiaoqiao</tips> chose a terrible time to venture out into the City... Honestly, that girl has always had the worst timing.”"
     },
     {
       "id": "D3:0473",
@@ -3452,7 +3452,7 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなもの業者にやらせるから必要ない。それに、さっきも言ったように、これからこの街は緊張状態になる。きみみたいな素人は命を落とす可能性が高い」",
-      "en": "“We hire contractors for that, so we don't need you. And as I said earlier, this city is about to become volatile. An amateur like you would be very likely to lose her life.”"
+      "en": "“We hire contractors for that, so we don't need you. And as I said earlier, the City is about to become volatile. An amateur like you would be very likely to lose her life.”"
     },
     {
       "id": "D3:0518",
@@ -3488,7 +3488,7 @@
       "sj": "",
       "se": "",
       "jp": "「私は特別な力を持って産まれました。でも、この街以外じゃそれを活かし切ることが出来ません。それどころか、なるべく使うなといわれるんです。だけど、ここでは違う」",
-      "en": "“I was born with a special power. But outside this city, I can't make full use of it. In fact, people tell me to use it as little as possible. Here, though, things are different.”"
+      "en": "“I was born with a special power. But outside the City, I can't make full use of it. In fact, people tell me to use it as little as possible. Here, though, things are different.”"
     },
     {
       "id": "D3:0522",
@@ -3506,7 +3506,7 @@
       "sj": "",
       "se": "",
       "jp": "「能力を使って、<tips=44>筱喬</tips>に頼りにされたり、ここの皆さんに一目置かれるようになって、私はやっと自分の価値みたいなものを理解し始めて来たんです。……それに龍頭。私を味方につけないと損をしますよ？　私はここで断られてもこの街で仕事を見つけるつもりですし、そうなったら<tips=81>龍頭</tips>と対立する立場になるかもしれない。この街にはサイキックが欲しい組織は他にもありますよね」",
-      "en": "“By using my ability, having <tips=44>Xiaoqiao</tips> rely on me, and earning the respect of everyone here, I've finally begun to understand something like my own value... Besides, Longtou, you'll lose out if you don't bring me onto your side. Even if you reject me here, I intend to find work in this city. If I do, I may end up opposing the <tips=81>Longtou</tips>. There are other organizations in this city that want psychics, aren't there?”"
+      "en": "“By using my ability, having <tips=44>Xiaoqiao</tips> rely on me, and earning the respect of everyone here, I've finally begun to understand something like my own value... Besides, Longtou, you'll lose out if you don't bring me onto your side. Even if you reject me here, I intend to find work in the City. If I do, I may end up opposing the <tips=81>Longtou</tips>. There are other organizations in the City that want psychics, aren't there?”"
     },
     {
       "id": "D3:0524",

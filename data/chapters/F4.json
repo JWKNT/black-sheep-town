@@ -41,7 +41,7 @@
       "sj": "",
       "se": "",
       "jp": "　この団地はそういった理由で街にいられなくなった者も積極的に受け入れている。そういった人間には一室が与えられ、リーダー格である<tips=14>深沢</tips>が経歴や能力に応じて適当な仕事を割り振ることになっていた。",
-      "en": "The complex actively accepted people who could no longer remain in town for such reasons. They were given a room, and <tips=14>Fukazawa</tips>, as its de facto leader, assigned suitable work according to each person’s history and abilities."
+      "en": "The complex actively accepted people who could no longer remain in the City for such reasons. They were given a room, and <tips=14>Fukazawa</tips>, as its de facto leader, assigned suitable work according to each person’s history and abilities."
     },
     {
       "id": "F4:0014",
@@ -50,7 +50,7 @@
       "sj": "",
       "se": "",
       "jp": "　仕事の内容は誘拐や殺人から金持ちの家のトイレ掃除まで幅広く、街のギャングとなるべく競合しないようなものが選ばれている。",
-      "en": "The jobs ranged from kidnapping and murder to cleaning toilets in wealthy homes, and were selected to avoid competing with the town’s gangs whenever possible."
+      "en": "The jobs ranged from kidnapping and murder to cleaning toilets in wealthy homes, and were selected to avoid competing with the City’s gangs whenever possible."
     },
     {
       "id": "F4:0015",
@@ -86,7 +86,7 @@
       "sj": "",
       "se": "",
       "jp": "　死体は防護服を着た若いものたちが<tips=8>グレートホール</tips>に運んでいって、その深淵に投げ込むことになっている。<tips=9>Y地区</tips>で殺人が行われたときによく使われる処理方法だ。",
-      "en": "Young people in protective suits would carry the body to the <tips=8>Great Hole</tips> and cast it into the abyss. It was a disposal method commonly used after murders in the <tips=9>Y District</tips>."
+      "en": "Young people in protective suits would carry the body to the <tips=8>Great Hole</tips> and cast it into the abyss. It was a disposal method commonly used after murders in <tips=9>Y District</tips>."
     },
     {
       "id": "F4:0019",
@@ -365,7 +365,7 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはここではなく、街に出て面白いことをしたかった。",
-      "en": "We wanted to go into town and do something interesting instead."
+      "en": "We wanted to go out into the City and do something interesting instead."
     },
     {
       "id": "F4:0058",
@@ -671,7 +671,7 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「へんなおじさんと言うな。あいつらはみなひとかどの人間なんだぞ？　顔を覚えておいて損はない。いずれおまえたちも、<tips=1>謝亮</tips>や<tips=10>見土道夫</tips>みたいにこの街の有力者になってゆくんだから……」",
-      "en": "“Don’t call them strange old men. They are all important figures, you know. It costs you nothing to remember their faces. One day, you too will become influential people in this town, like <tips=1>Xie Liang</tips> and <tips=10>Michio Mido</tips>...”"
+      "en": "“Don’t call them strange old men. They are all important figures, you know. It costs you nothing to remember their faces. One day, you too will become influential people in the City, like <tips=1>Xie Liang</tips> and <tips=10>Michio Mido</tips>...”"
     },
     {
       "id": "F4:0120",
@@ -1760,7 +1760,7 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「<tips=98>アレクサンドル・ヤコヴレヴィチ・チェルヌイフ</tips>……あの可哀想な<tips=63>サーシェンカ</tips>の名前デス」",
-      "en": "“<tips=98>Alexander Yakovlevich Chernykh</tips>... That is the name of poor <tips=63>Sashen'ka</tips>.”"
+      "en": "“<tips=98>Alexander Jakovlevich Chernjaev</tips>... That is the name of poor <tips=63>Sashen'ka</tips>.”"
     },
     {
       "id": "F4:0292",
@@ -2291,7 +2291,7 @@
       "sj": "",
       "se": "",
       "jp": "　その<tips=8>グレートホール</tips>のすぐそばには小さな街があり、そこは汚染の影響で寂れていたが、チェルヌイフ家はその数少ない住民たちとも最低限の関わり合いしか持たず、聚落から離れた場所にひっそりと暮らしていた。",
-      "en": "A small town stood immediately beside that <tips=8>Great Hole</tips>. Contamination had left it desolate, but the Chernykh family maintained only minimal contact with its few residents and lived quietly apart from the settlement."
+      "en": "A small town stood immediately beside that <tips=8>Great Hole</tips>. Contamination had left it desolate, but the Chernjaev family maintained only minimal contact with its few residents and lived quietly apart from the settlement."
     },
     {
       "id": "F4:0365",
@@ -2300,7 +2300,7 @@
       "sj": "",
       "se": "",
       "jp": "　チェルヌイフ家はかつては貴族として広い土地と数多くの農奴を所有していたが、今はその面影はない。かといって平凡な暮らしを送っていたというわけでもなく、街の住民からは非常に疎まれていた。",
-      "en": "The Chernykh family had once been nobility who owned vast lands and many serfs, but nothing of that prosperity remained. Nor, however, did they lead ordinary lives. The townspeople detested them intensely."
+      "en": "The Chernjaev family had once been nobility who owned vast lands and many serfs, but nothing of that prosperity remained. Nor, however, did they lead ordinary lives. The townspeople detested them intensely."
     },
     {
       "id": "F4:0366",
@@ -2318,7 +2318,7 @@
       "sj": "",
       "se": "",
       "jp": "　チェルヌイフ家は吸血鬼である、と、土地のものは言う。彼らは人の生き血を吸い、それによって特殊な能力を手に入れ、切っても焼いても死なない、不老不死の肉体を持っている。その証拠に彼らは見たこともない金色の目をしているじゃないか、というのである。",
-      "en": "The people of the region said the Chernykh family were vampires. They drank human blood and gained special powers from it, possessing ageless, immortal bodies that could be neither cut nor burned to death. As proof, people said, did they not have golden eyes unlike any ever seen before?"
+      "en": "The people of the region said the Chernjaev family were vampires. They drank human blood and gained special powers from it, possessing ageless, immortal bodies that could be neither cut nor burned to death. As proof, people said, did they not have golden eyes unlike any ever seen before?"
     },
     {
       "id": "F4:0368",
@@ -2327,7 +2327,7 @@
       "sj": "",
       "se": "",
       "jp": "「これは、タダの伝説というわけではなく、実際チェルヌイフ家の人々はみな八つ裂きにされても死にません。その再生能力は、お嬢さんがたも目にしたデショウ？」",
-      "en": "“This is not merely a legend. The members of the Chernykh family truly will not die even if torn to pieces. You young ladies have witnessed their regenerative ability yourselves, have you not?”"
+      "en": "“This is not merely a legend. The members of the Chernjaev family truly will not die even if torn to pieces. You young ladies have witnessed their regenerative ability yourselves, have you not?”"
     },
     {
       "id": "F4:0369",
@@ -2336,7 +2336,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>エフゲニ・イリイーチ・ヘス</tips>が言うには、何代か前のチェルヌイフ家の嫁が、美容と健康のために農奴の息子や娘を殺してその血液を毎食ワイングラスに入れて家族全員の食卓に供していたのだそうだ。",
-      "en": "According to <tips=65>Evgenij Il'ich Hess</tips>, several generations earlier, a woman who married into the Chernykh family began killing the sons and daughters of serfs for the sake of beauty and health. At every meal, she served their blood in wineglasses to the whole family."
+      "en": "According to <tips=65>Evgenij Il'ich Hess</tips>, several generations earlier, a woman who married into the Chernjaev family began killing the sons and daughters of serfs for the sake of beauty and health. At every meal, she served their blood in wineglasses to the whole family."
     },
     {
       "id": "F4:0370",
@@ -2345,7 +2345,7 @@
       "sj": "",
       "se": "",
       "jp": "　その辺りの農作物は後の調査で<tips=72>タイプB傾向値</tips>が高いことが判明している。それを食べている住民の血液には、当然その因子が蓄積されていることになる。この血液を飲むことで<tips=72>傾向値</tips>が上がり、チェルヌイフ家は不老不死の力を手に入れたのだろうということだった。",
-      "en": "Later investigations revealed that crops from the area possessed a high <tips=72>Type B Tendency Index</tips>. Naturally, those factors accumulated in the blood of residents who ate them. By drinking that blood, the Chernykh family raised its <tips=72>Tendency Index</tips> and presumably obtained the power of ageless immortality."
+      "en": "Later investigations revealed that crops from the area possessed a high <tips=72>Type B Tendency Index</tips>. Naturally, those factors accumulated in the blood of residents who ate them. By drinking that blood, the Chernjaev family raised its <tips=72>Tendency Index</tips> and presumably obtained the power of ageless immortality."
     },
     {
       "id": "F4:0371",
@@ -2363,7 +2363,7 @@
       "sj": "",
       "se": "",
       "jp": "「そうとも言えますが、世間の<tips=17>タイプB</tips>のような出来そこないではありません。……まあ、私どもの身体のことは後で話すとしましょう。とにかく、チェルヌイフ家は、地元では大分昔から不死の家系として嫌悪されていたわけデス。それこそ、<tips=17>タイプB</tips>という存在が認知されるよりもずっと前から……」",
-      "en": "“One could say that. But we are not defective creatures like the <tips=17>Type B</tips> people of the wider world... We can discuss our body later. In any event, the Chernykh family had long been despised locally as an immortal bloodline—since well before the existence of <tips=17>Type B</tips> people was recognized...”"
+      "en": "“One could say that. But we are not defective creatures like the <tips=17>Type B</tips> people of the wider world... We can discuss our body later. In any event, the Chernjaev family had long been despised locally as an immortal bloodline—since well before the existence of <tips=17>Type B</tips> people was recognized...”"
     },
     {
       "id": "F4:0379",
@@ -2417,7 +2417,7 @@
       "sj": "",
       "se": "",
       "jp": "『<tips=19>フセスラフ計画</tips>』では、こうして迫害された人狼たちを保護し、研究に協力させた。当時はまだ<tips=17>タイプB</tips>がそれほど多くなく、サンプルも足りなかった。積極的に各地に調査員を派遣し、そこで吸血鬼と呼ばれるチェルヌイフ家に目をつけたのである。",
-      "en": "The “<tips=19>Vseslav Project</tips>” protected these persecuted werewolves and induced them to cooperate in research. At the time, there were still relatively few <tips=17>Type B</tips> people and insufficient samples. The project actively dispatched investigators throughout the region, and they took notice of the Chernykh family known as vampires."
+      "en": "The “<tips=19>Vseslav Project</tips>” protected these persecuted werewolves and induced them to cooperate in research. At the time, there were still relatively few <tips=17>Type B</tips> people and insufficient samples. The project actively dispatched investigators throughout the region, and they took notice of the Chernjaev family known as vampires."
     },
     {
       "id": "F4:0385",
@@ -2426,7 +2426,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=17>タイプB</tips>差別が活発化していた頃で、これまで以上に社会から疎外されていたチェルヌイフ家はひどく困窮していた。調査員が幾ばくかの謝礼を提示すると、当主のヤーコフは一人息子の<tips=98>アレクサンドル</tips>を売り渡した。",
-      "en": "Discrimination against <tips=17>Type B</tips> was intensifying. More isolated from society than ever, the Chernykh family had fallen into desperate poverty. When the investigators offered a modest reward, its head, Yakov, sold his only son, <tips=98>Alexander</tips>."
+      "en": "Discrimination against <tips=17>Type B</tips> was intensifying. More isolated from society than ever, the Chernjaev family had fallen into desperate poverty. When the investigators offered a modest reward, its head, Yakov, sold his only son, <tips=98>Alexander</tips>."
     },
     {
       "id": "F4:0386",
@@ -2696,7 +2696,7 @@
       "sj": "",
       "se": "",
       "jp": "「チェルヌイフ家には、不死の力を打ち消す秘密の方法が伝わっているんデスよ」",
-      "en": "“The Chernykh family possesses a secret method for negating the power of immortality.”"
+      "en": "“The Chernjaev family possesses a secret method for negating the power of immortality.”"
     },
     {
       "id": "F4:0416",
@@ -2723,7 +2723,7 @@
       "sj": "",
       "se": "",
       "jp": "「オソラク、世界でもそれを知っている人間はごく僅か……あるいはチェルヌイフ家の他には全然いないかもしれません。<tips=8>グレートホール</tips>のすぐそばに沼がアリましてネ。ソコの泥は<tips=17>タイプB</tips>の能力に働きかける力があるんです。発症して精神がおかしくなった<tips=17>タイプB</tips>に与えれば心が元通りになり、我々のようなものに使えば、一定期間再生能力が失われるんデス。チェルヌイフ家は普通では死ねませんカラ、自殺が推奨されていマス。死にたくなったらこの泥を口にしてから、首をつったり、頭を銃で撃ち抜くのだそうデス。<tips=98>アレクサンドル</tips>も子供の頃から教わって知っていました。狂った一族デスよ。まあ、そのおかげで我々も利用するコトが出来たのですがね。……この泥は、薔薇のように赤いので『薔薇泥』と一家は呼んでいまシタ」",
-      "en": "“Probably very few people in the world know it—perhaps no one outside the Chernykh family. There is a marsh immediately beside the <tips=8>Great Hole</tips>. Its mud can influence <tips=17>Type B</tips> abilities. Given to a <tips=17>Type B</tips> person whose manifested symptoms have damaged their mind, it restores them to sanity. Used on beings like us, it removes our regenerative ability for a period of time. Because members of the Chernykh family cannot die ordinarily, suicide is encouraged. When they wish to die, they swallow this mud, then hang themselves or shoot themselves through the head. <tips=98>Alexander</tips> was taught this from childhood and knew it well. It is a mad family. Though that knowledge did allow us to make use of the mud... Because it is red like a rose, the family called it ‘Rose Mud.’”"
+      "en": "“Probably very few people in the world know it—perhaps no one outside the Chernjaev family. There is a marsh immediately beside the <tips=8>Great Hole</tips>. Its mud can influence <tips=17>Type B</tips> abilities. Given to a <tips=17>Type B</tips> person whose manifested symptoms have damaged their mind, it restores them to sanity. Used on beings like us, it removes our regenerative ability for a period of time. Because members of the Chernjaev family cannot die ordinarily, suicide is encouraged. When they wish to die, they swallow this mud, then hang themselves or shoot themselves through the head. <tips=98>Alexander</tips> was taught this from childhood and knew it well. It is a mad family. Though that knowledge did allow us to make use of the mud... Because it is red like a rose, the family called it ‘Rose Mud.’”"
     },
     {
       "id": "F4:0419",
@@ -2894,7 +2894,7 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=65>エフゲニ・イリイーチ・ヘス</tips>はこの<tips=9>Y地区</tips>を自分たち好みの街に作り替えようと、活動を開始する。",
-      "en": "Then <tips=65>Evgenij Il'ich Hess</tips> began working to remake the <tips=9>Y District</tips> into the kind of town they desired."
+      "en": "Then <tips=65>Evgenij Il'ich Hess</tips> began working to remake <tips=9>Y District</tips> into the kind of City they desired."
     },
     {
       "id": "F4:0448",
@@ -2912,7 +2912,7 @@
       "sj": "",
       "se": "",
       "jp": "　動き出したプロジェクトは、当時<tips=9>Y地区</tips>への進出を狙っていた<tips=68>木下組</tips>と手を組んだあたりから話は大きくなり、そして生まれたのが『<tips=18>ローズ・クラブ</tips>』だと言う。",
-      "en": "The project grew larger when they partnered with the <tips=68>Kinoshita-gumi</tips>, which was then seeking to enter the <tips=9>Y District</tips>. The result, he said, was the “<tips=18>Rose Club</tips>.”"
+      "en": "The project grew larger when they partnered with the <tips=68>Kinoshita-gumi</tips>, which was then seeking to enter <tips=9>Y District</tips>. The result, he said, was the “<tips=18>Rose Club</tips>.”"
     },
     {
       "id": "F4:0455",
@@ -2921,7 +2921,7 @@
       "sj": "",
       "se": "",
       "jp": "　クラブではチェルヌイフ家の血を使って不死にした女たちを働かせ、他では絶対に提供出来ないサービスを行った。",
-      "en": "The club employed women made immortal with the Chernykh family’s blood and offered services absolutely unavailable elsewhere."
+      "en": "The club employed women made immortal with the Chernjaev family’s blood and offered services absolutely unavailable elsewhere."
     },
     {
       "id": "F4:0456",
@@ -2930,7 +2930,7 @@
       "sj": "",
       "se": "",
       "jp": "　その結果、VIPも足を運ぶようになり、それで得た資金と<tips=68>木下組</tips>の武力を背景に<tips=9>Y地区</tips>を支配する一歩手前まで行った。",
-      "en": "As a result, VIPs began visiting. Backed by the funds they provided and the <tips=68>Kinoshita-gumi</tips>’s force, the club came within one step of ruling the <tips=9>Y District</tips>."
+      "en": "As a result, VIPs began visiting. Backed by the funds they provided and the <tips=68>Kinoshita-gumi</tips>’s force, the club came within one step of ruling <tips=9>Y District</tips>."
     },
     {
       "id": "F4:0457",
@@ -2957,7 +2957,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=18>ローズ・クラブ</tips>は街のギャングの連合によって崩壊し、その若き盟主は街の英雄になった。<tips=9>Y地区</tips>で生まれ育ったものならば誰でも知っている。<tips=7>ＹＳ</tips>の初代<tips=81>龍頭</tips><tips=3>クリス・ツェー</tips>の最もよく知られた武勇伝だ。",
-      "en": "An alliance of the town’s gangs destroyed the <tips=18>Rose Club</tips>, and its young leader became a local hero. Everyone born and raised in the <tips=9>Y District</tips> knew the story. It was the most famous heroic exploit of <tips=3>Chris Xie</tips>, the first <tips=81>Longtou</tips> of <tips=7>YS</tips>."
+      "en": "An alliance of the City’s gangs destroyed the <tips=18>Rose Club</tips>, and its young leader became a local hero. Everyone born and raised in <tips=9>Y District</tips> knew the story. It was the most famous heroic exploit of <tips=3>Chris Xie</tips>, the first <tips=81>Longtou</tips> of <tips=7>YS</tips>."
     },
     {
       "id": "F4:0464",
@@ -3020,7 +3020,7 @@
       "sj": "",
       "se": "",
       "jp": "「それで、にっくき<tips=7>ＹＳ</tips>を倒して、過去の思惑通りこの街に自分の王国を作ろうってこと？」",
-      "en": "“Then you intend to defeat the hated <tips=7>YS</tips> and build your kingdom in this town, just as you planned in the past?”"
+      "en": "“Then you intend to defeat the hated <tips=7>YS</tips> and build your kingdom in the City, just as you planned in the past?”"
     },
     {
       "id": "F4:0477",
@@ -3029,7 +3029,7 @@
       "sj": "",
       "se": "",
       "jp": "「お察しのいいコトで。私は今度こそ、この街を支配して、行き場のない我々の永住の地としたいのデス」",
-      "en": "“Very perceptive. This time, I will rule the town and make it a permanent home for those of us with nowhere else to go.”"
+      "en": "“Very perceptive. This time, I will rule the City and make it a permanent home for those of us with nowhere else to go.”"
     },
     {
       "id": "F4:0478",
@@ -3074,7 +3074,7 @@
       "sj": "",
       "se": "",
       "jp": "「もっと面白いことを考えているんだと思ってた。街のボスになって威張りたいだなんて、その辺にいくらでもいるチンピラたちと同じじゃない」",
-      "en": "“We imagined something more interesting. Wanting to become the town boss and lord it over others makes you no different from the countless thugs everywhere.”"
+      "en": "“We imagined something more interesting. Wanting to become the City’s boss and lord it over others makes you no different from the countless thugs everywhere.”"
     },
     {
       "id": "F4:0490",
@@ -3236,7 +3236,7 @@
       "sj": "",
       "se": "",
       "jp": "「……<tips=64>アレクセイ</tips>は自制が効かずに不用意な殺人を繰り返すし、<tips=98>アレクサンドル</tips>は呼んでもいないのにあらわれて勝手なコトをする。<tips=61>ヒトミ</tips>も夜な夜な街に遊びに出かけているようデスし……。それに、私自身も、前と変わってしまっている。感情がうまくおさえられなくて、本当はもっと慎重に振る舞わないといけないはずなのに、それも出来ず……はあ」",
-      "en": "“...<tips=64>Alexey</tips> has lost all self-control and repeatedly commits careless murders. <tips=98>Alexander</tips> appears unbidden and acts as he pleases. <tips=61>Hitomi</tips> seems to go out into town night after night... And I myself am no longer as I was. I cannot properly control my emotions. I should behave with far greater caution, yet I cannot... Sigh.”"
+      "en": "“...<tips=64>Alexey</tips> has lost all self-control and repeatedly commits careless murders. <tips=98>Alexander</tips> appears unbidden and acts as he pleases. <tips=61>Hitomi</tips> seems to go out into the City night after night... And I myself am no longer as I was. I cannot properly control my emotions. I should behave with far greater caution, yet I cannot... Sigh.”"
     },
     {
       "id": "F4:0508",
