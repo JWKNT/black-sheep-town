@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　良い天気ってわけじゃないが、雨が降ってるわけでもない。",
-      "en": "I wouldn’t call it nice out, but at least it isn’t raining."
+      "en": "I wouldn’t call it nice out, but at least it isn’t raining.",
+      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp"
     },
     {
       "id": "B3-1:0011",
@@ -86,7 +87,14 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君」",
-      "en": "“<tips=10>Michio</tips>.”"
+      "en": "“<tips=10>Michio</tips>.”",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0024",
@@ -95,7 +103,13 @@
       "sj": "",
       "se": "",
       "jp": "　おやと思ったのは、なんだか切迫した顔つきで、喋り方も焦っている感じだったからだ。",
-      "en": "Something is wrong. His face looks desperate, and his words come too quickly."
+      "en": "Something is wrong. His face looks desperate, and his words come too quickly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0025",
@@ -104,7 +118,13 @@
       "sj": "",
       "se": "",
       "jp": "　仲間がこういう顔をしているとドキッとする。",
-      "en": "My heart jumps whenever one of my friends looks like that."
+      "en": "My heart jumps whenever one of my friends looks like that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0026",
@@ -113,7 +133,13 @@
       "sj": "",
       "se": "",
       "jp": "　我々<tips=17>タイプB</tips>にはいつ何時どんなトラブルが発生するかわからないし、しかも現在は爺さんたちが何か陰謀を張り巡らしている。おれたちの店の人間は全員<tips=17>タイプB</tips>で、そして<tips=21>八龍会</tips>の所属だ。それこそ、考え得る限りどんな最低のアクシデントが発生してもおかしくない。",
-      "en": "We <tips=17>Type B</tips> people never know what trouble will strike or when. Worse, the old men are currently weaving some kind of plot. Everyone at our shop is <tips=17>Type B</tips> and belongs to the <tips=21>Dragon Club</tips>. The worst disaster imaginable would hardly be a surprise."
+      "en": "We <tips=17>Type B</tips> people never know what trouble will strike or when. Worse, the old men are currently weaving some kind of plot. Everyone at our shop is <tips=17>Type B</tips> and belongs to the <tips=21>Dragon Club</tips>. The worst disaster imaginable would hardly be a surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0027",
@@ -122,7 +148,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうしたんだい？　血相を変えて」",
-      "en": "“What happened? You look terrified.”"
+      "en": "“What happened? You look terrified.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0028",
@@ -131,7 +163,13 @@
       "sj": "",
       "se": "",
       "jp": "　こういうときは落ち着かせるのがおれの役目だ。",
-      "en": "At times like this, my job is to calm him down."
+      "en": "At times like this, my job is to calm him down.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0029",
@@ -140,7 +178,13 @@
       "sj": "",
       "se": "",
       "jp": "　ゆったりと微笑してみせて、彼の肩をぽんと叩く。",
-      "en": "I give him an easy smile and clap his shoulder."
+      "en": "I give him an easy smile and clap his shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0030",
@@ -149,7 +193,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「レナちゃんが、キちゃったみたいなんだ」",
-      "en": "“I think it’s come over Rena.”"
+      "en": "“I think it’s come over Rena.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0031",
@@ -158,7 +208,13 @@
       "sj": "",
       "se": "",
       "jp": "「レナが？」",
-      "en": "“Rena?”"
+      "en": "“Rena?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0032",
@@ -167,7 +223,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは我々の仲間である十九才のシングルマザーで、飲食店のウェイトレスとかけもちで働いてくれている。",
-      "en": "Rena is one of our people, a nineteen-year-old single mother who works for us on top of her job waiting tables."
+      "en": "Rena is one of our people, a nineteen-year-old single mother who works for us on top of her job waiting tables.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0033",
@@ -176,7 +238,13 @@
       "sj": "",
       "se": "",
       "jp": "　元々<tips=13>溝平B団地</tips>に住んでいた子だが、十六才のときに子供を連れて街中に引っ越している。",
-      "en": "She once lived in the <tips=13>Mizodaira B Housing Complex</tips>, but moved into the City with her child when she was sixteen."
+      "en": "She once lived in the <tips=13>Mizodaira B Housing Complex</tips>, but moved into the City with her child when she was sixteen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0034",
@@ -185,7 +253,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「向こうの店で働いてる時にキたんだよ。工場の固定回線に向こうの店長さんから電話があった」",
-      "en": "“It came over her at the restaurant. The manager called the factory landline.”"
+      "en": "“It came over her at the restaurant. The manager called the factory landline.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0035",
@@ -194,7 +268,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>がキちゃっただの、キただのと言っているのは、つまり<tips=17>タイプB</tips>の症状が発露して異常な行動をとってしまったということだ。",
-      "en": "When <tips=66>Konta</tips> says ‘it came over her,’ he means her <tips=17>Type B</tips> symptoms surfaced and she began behaving abnormally."
+      "en": "When <tips=66>Konta</tips> says ‘it came over her,’ he means her <tips=17>Type B</tips> symptoms surfaced and she began behaving abnormally.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0036",
@@ -203,7 +283,13 @@
       "sj": "",
       "se": "",
       "jp": "　直接的な表現を避けるために、昔からこういう言い方でそれを表現している。",
-      "en": "We have used that phrase for years to avoid saying it directly."
+      "en": "We have used that phrase for years to avoid saying it directly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0037",
@@ -212,7 +298,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうか」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0038",
@@ -221,7 +313,13 @@
       "sj": "",
       "se": "",
       "jp": "　レナはもう去年に発症自体はしており、病院に通って幻覚や幻聴を消す薬を飲みながら生活をしていた。",
-      "en": "Rena’s symptoms first appeared last year. Since then, she has lived on medication from the hospital to suppress the hallucinations and voices."
+      "en": "Rena’s symptoms first appeared last year. Since then, she has lived on medication from the hospital to suppress the hallucinations and voices.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0039",
@@ -230,7 +328,13 @@
       "sj": "",
       "se": "",
       "jp": "　もちろんそれは症状を和らげるためのもので、それによって回復するわけじゃない。だから、さらに悪化、進行してそれが効かなくなったんだ。",
-      "en": "The medicine only eases symptoms; it doesn’t cure them. Her condition must have worsened until it stopped working."
+      "en": "The medicine only eases symptoms; it doesn’t cure them. Her condition must have worsened until it stopped working.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0040",
@@ -239,7 +343,13 @@
       "sj": "",
       "se": "",
       "jp": "「病院に行くつもり？」",
-      "en": "“Is she going to the hospital?”"
+      "en": "“Is she going to the hospital?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0041",
@@ -248,7 +358,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「もう病院には行った後なんだって。保険にも入ってないし、もし入院となったら治療費が払えないから、注射だけしてもらって自宅に帰って来たんだ。店の人たちが送り届けてくれたんだけど、彼らも店に戻らなくちゃいけないから、これからおれがバトンタッチしようかと」",
-      "en": "“She’s already been. She doesn’t have insurance, and she couldn’t afford treatment if they admitted her. They gave her one injection and sent her home. The restaurant staff brought her back, but they have to return to work. I was going to take over.”"
+      "en": "“She’s already been. She doesn’t have insurance, and she couldn’t afford treatment if they admitted her. They gave her one injection and sent her home. The restaurant staff brought her back, but they have to return to work. I was going to take over.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0042",
@@ -257,7 +373,13 @@
       "sj": "",
       "se": "",
       "jp": "　レナは小さな娘と二人暮らしだ。付き添ってくれた店の人が帰ったら、錯乱した母親と幼い娘の二人きりになる。それを避けるために、<tips=66>コンタ</tips>が手助けに行くと言うんだ。",
-      "en": "Rena lives alone with her little daughter. Once the coworkers leave, it will be only the delirious mother and her child. <tips=66>Konta</tips> means to make sure that doesn’t happen."
+      "en": "Rena lives alone with her little daughter. Once the coworkers leave, it will be only the delirious mother and her child. <tips=66>Konta</tips> means to make sure that doesn’t happen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0043",
@@ -266,7 +388,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかった。じゃあ、おれも行こう」",
-      "en": "“All right. Then I’ll come with you.”"
+      "en": "“All right. Then I’ll come with you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0045",
@@ -284,7 +412,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「こんなのよく有ることだけどさ。やっぱり、自分たちより年下が先に悪くなっちゃうと、気持ちが暗くなっちゃうよね」",
-      "en": "“This happens all the time. Still, it gets you down when someone younger than us deteriorates first.”"
+      "en": "“This happens all the time. Still, it gets you down when someone younger than us deteriorates first.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0047",
@@ -293,7 +427,13 @@
       "sj": "",
       "se": "",
       "jp": "　後ろの<tips=66>コンタ</tips>の言葉には、まったくおれも同感だ。",
-      "en": "I know exactly what <tips=66>Konta</tips> means."
+      "en": "I know exactly what <tips=66>Konta</tips> means.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0048",
@@ -302,7 +442,13 @@
       "sj": "",
       "se": "",
       "jp": "　でも、おれたちの気持ちが暗くなったって仕方がないからね。",
-      "en": "But letting ourselves sink won’t help anyone."
+      "en": "But letting ourselves sink won’t help anyone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0049",
@@ -311,7 +457,13 @@
       "sj": "",
       "se": "",
       "jp": "　それに、<tips=17>タイプB</tips>の症状ってのは、強いストレスや暗く抑圧された感情に誘発されやすいんだ。だから、おれたちはいつだって明るく、楽しく、夢をみていかなくちゃいけない。だから、みんなをそういう気持ちにさせてやりたいんだおれは。",
-      "en": "Besides, stress and dark, bottled-up feelings can trigger <tips=17>Type B</tips> symptoms. We have to stay cheerful, have fun, and keep dreaming. I want everyone else to feel that way too."
+      "en": "Besides, stress and dark, bottled-up feelings can trigger <tips=17>Type B</tips> symptoms. We have to stay cheerful, have fun, and keep dreaming. I want everyone else to feel that way too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0063",
@@ -320,7 +472,8 @@
       "sj": "",
       "se": "",
       "jp": "　レナの家に上がり込むと、彼女はベッドに縛り付けられていた。両手両足は大の字に広げられてベッド柵にロープで結びつけられている。",
-      "en": "Inside Rena’s apartment, we find her tied to the bed. Her arms and legs are spread wide and roped to the rails."
+      "en": "Inside Rena’s apartment, we find her tied to the bed. Her arms and legs are spread wide and roped to the rails.",
+      "bg": "assets/vn/backgrounds/bg-688e9535b366.webp"
     },
     {
       "id": "B3-1:0064",
@@ -1679,7 +1832,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「レナ。症状が治ったわけじゃない。これからが大事なんだ」",
-      "en": "“Rena, your symptoms aren’t cured. What comes next is what matters.”"
+      "en": "“Rena, your symptoms aren’t cured. What comes next is what matters.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0225",
@@ -1688,7 +1847,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は穏やかにそう話す。",
-      "en": "<tips=66>Konta</tips> speaks gently."
+      "en": "<tips=66>Konta</tips> speaks gently.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0226",
@@ -1697,7 +1862,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼が今使った薬は効き目が出るのは早いが効果の持続は短い。これからずっと薬に頼って症状を抑え続けるには、持続性の注射を使うべきで、それをどこで手に入れいつ使ったらいいのかを、彼は詳しく説明した。",
-      "en": "The drug he used works quickly but wears off soon. To keep suppressing her symptoms, she will need long-acting injections. He carefully explains where to get them and when to use them."
+      "en": "The drug he used works quickly but wears off soon. To keep suppressing her symptoms, she will need long-acting injections. He carefully explains where to get them and when to use them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0227",
@@ -1706,7 +1877,13 @@
       "sj": "",
       "se": "",
       "jp": "　レナは神妙な顔で頷きながら聞いていた。",
-      "en": "Rena listens soberly, nodding throughout."
+      "en": "Rena listens soberly, nodding throughout.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0228",
@@ -1715,7 +1892,13 @@
       "sj": "",
       "se": "",
       "jp": "「ホントに、みんなに迷惑かけちゃって……。私、これでお店もクビかしら？」",
-      "en": "“I caused everyone so much trouble... Do you think the restaurant will fire me?”"
+      "en": "“I caused everyone so much trouble... Do you think the restaurant will fire me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0229",
@@ -1724,7 +1907,13 @@
       "sj": "",
       "se": "",
       "jp": "　おかしくなっていた頃の記憶はあるらしく、彼女は顔を顰める。",
-      "en": "Apparently, she remembers the period of delirium. Her face twists with anxiety."
+      "en": "Apparently, she remembers the period of delirium. Her face twists with anxiety.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0230",
@@ -1733,7 +1922,13 @@
       "sj": "",
       "se": "",
       "jp": "「そおんなわけないよ！　レナみたいなとびきりの看板娘をクビになんかしやしないさ。店の人たちもそんなに悪い顔してなかったし、あとでおれからも話しておいてやるよ」",
-      "en": "“Of course not! They’d never fire a star waitress like you. Your coworkers didn’t look too upset, and I’ll talk to them myself later.”"
+      "en": "“Of course not! They’d never fire a star waitress like you. Your coworkers didn’t look too upset, and I’ll talk to them myself later.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0231",
@@ -1742,7 +1937,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは冗談めかしてレナの肩を叩く。",
-      "en": "I clap Rena on the shoulder with playful confidence."
+      "en": "I clap Rena on the shoulder with playful confidence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0232",
@@ -1751,7 +1952,13 @@
       "sj": "",
       "se": "",
       "jp": "「ありがとうみっちゃん……」",
-      "en": "“Thank you, Micchan...”"
+      "en": "“Thank you, Micchan...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0233",
@@ -1760,7 +1967,13 @@
       "sj": "",
       "se": "",
       "jp": "「それより。ほら」",
-      "en": "“More importantly, look.”"
+      "en": "“More importantly, look.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0234",
@@ -1769,7 +1982,13 @@
       "sj": "",
       "se": "",
       "jp": "　言っておれは、向こうに立ってこちらを見ている娘の方を示した。",
-      "en": "I point to her daughter, standing across the room and watching."
+      "en": "I point to her daughter, standing across the room and watching.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0235",
@@ -1778,7 +1997,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はまだ母親の回復を完全に信じ切っていないらしく、半信半疑の上目遣いで母親を見ている。",
-      "en": "The girl still doesn’t quite trust that her mother has returned. She peers up at Rena, hope and doubt mingling in her eyes."
+      "en": "The girl still doesn’t quite trust that her mother has returned. She peers up at Rena, hope and doubt mingling in her eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0236",
@@ -1787,7 +2012,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、ユリカ、びっくりさせてゴメンね」",
-      "en": "“Oh, Yurika. I’m sorry I frightened you.”"
+      "en": "“Oh, Yurika. I’m sorry I frightened you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0237",
@@ -1796,7 +2027,13 @@
       "sj": "",
       "se": "",
       "jp": "　レナが笑顔で両手を広げてみせると、",
-      "en": "Rena smiles and spreads both arms."
+      "en": "Rena smiles and spreads both arms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0238",
@@ -1805,7 +2042,13 @@
       "sj": "",
       "se": "",
       "jp": "「ままぁ」",
-      "en": "“Mommy!”"
+      "en": "“Mommy!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0239",
@@ -1814,7 +2057,13 @@
       "sj": "",
       "se": "",
       "jp": "　涙をボロボロと流しながら少女は駆け寄ってきて、そして母子はお互いを抱きしめあった。",
-      "en": "Tears streaming down her face, the child runs into her mother’s arms."
+      "en": "Tears streaming down her face, the child runs into her mother’s arms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0240",
@@ -1823,7 +2072,13 @@
       "sj": "",
       "se": "",
       "jp": "「ごめんね。もうこんなことしないからね。本当にごめんね……」",
-      "en": "“I’m sorry. I’ll never do anything like that again. I’m so sorry...”"
+      "en": "“I’m sorry. I’ll never do anything like that again. I’m so sorry...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0241",
@@ -1832,7 +2087,13 @@
       "sj": "",
       "se": "",
       "jp": "　レナも娘に負けないくらい大量の涙を流している。",
-      "en": "Rena cries every bit as hard as her daughter."
+      "en": "Rena cries every bit as hard as her daughter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0242",
@@ -1841,7 +2102,13 @@
       "sj": "",
       "se": "",
       "jp": "「あやまらないで。大丈夫だから。今度ママが病気になったら、私が守ってあげる……」",
-      "en": "“Don’t apologize. It’s all right. The next time you get sick, Mommy, I’ll protect you...”"
+      "en": "“Don’t apologize. It’s all right. The next time you get sick, Mommy, I’ll protect you...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0243",
@@ -1850,7 +2117,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんていい娘だろう！」",
-      "en": "“What a wonderful daughter!”"
+      "en": "“What a wonderful daughter!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0244",
@@ -1859,7 +2132,13 @@
       "sj": "",
       "se": "",
       "jp": "　母子水入らずの場面だが、おれはうっかり声を出してしまった。",
-      "en": "This is a private moment between mother and daughter, but the words escape me."
+      "en": "This is a private moment between mother and daughter, but the words escape me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0245",
@@ -1868,7 +2147,13 @@
       "sj": "",
       "se": "",
       "jp": "「自分もつらいのに、よく言ったね。きみがそう思っているのなら、誰もお母さんを傷つけることなんか出来ないはずだ」",
-      "en": "“You said that even though you’re hurting too. As long as you feel that way, no one will be able to hurt your mother.”"
+      "en": "“You said that even though you’re hurting too. As long as you feel that way, no one will be able to hurt your mother.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0246",
@@ -1877,7 +2162,13 @@
       "sj": "",
       "se": "",
       "jp": "「ほんとうに、ほんとうに……」",
-      "en": "“Truly. Truly...”"
+      "en": "“Truly. Truly...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0247",
@@ -1886,7 +2177,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれの場の空気を読まない言葉に、レナは何度も頷いた。",
-      "en": "Rena nods again and again at my hopelessly ill-timed words."
+      "en": "Rena nods again and again at my hopelessly ill-timed words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0248",
@@ -1895,7 +2192,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして親子は泣きながらいつまでも抱きしめあう。",
-      "en": "Mother and daughter hold each other and cry for a long time."
+      "en": "Mother and daughter hold each other and cry for a long time.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0249",
@@ -1904,7 +2207,13 @@
       "sj": "",
       "se": "",
       "jp": "　そろそろ、おれたちも退散したほうが良さそうだ。感動的な場面に、取り出したハンカチで目を何度も拭いている<tips=66>コンタ</tips>の肩をつついて、おれたちはこっそりとその場を去った。",
-      "en": "This seems like our cue to leave. <tips=66>Konta</tips> is dabbing his eyes over and over with a handkerchief. I poke his shoulder, and we slip quietly away."
+      "en": "This seems like our cue to leave. <tips=66>Konta</tips> is dabbing his eyes over and over with a handkerchief. I poke his shoulder, and we slip quietly away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0262",
@@ -1913,7 +2222,14 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君。薬が好きじゃないのはわかるけど、おれが<tips=46>ネオ</tips>を持っていなければレナを回復させることが出来なかった」",
-      "en": "“<tips=10>Michio</tips>, I know you don’t like drugs. But if I hadn’t brought <tips=46>Neo</tips>, we couldn’t have brought Rena back.”"
+      "en": "“<tips=10>Michio</tips>, I know you don’t like drugs. But if I hadn’t brought <tips=46>Neo</tips>, we couldn’t have brought Rena back.”",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0263",
@@ -1922,7 +2238,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは自転車を押して歩き、<tips=66>コンタ</tips>は隣を歩いている。",
-      "en": "I walk the bicycle while <tips=66>Konta</tips> keeps pace beside me."
+      "en": "I walk the bicycle while <tips=66>Konta</tips> keeps pace beside me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0264",
@@ -1931,7 +2253,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の目元はこすりすぎて赤かった。こんな、どう見てもその辺りのチンピラにしか見えない姿をしているが、存外に情に厚く涙もろい男なのである。",
-      "en": "The skin around his eyes is red from rubbing. He looks exactly like some street thug, but he is surprisingly tenderhearted and cries at the drop of a hat."
+      "en": "The skin around his eyes is red from rubbing. He looks exactly like some street thug, but he is surprisingly tenderhearted and cries at the drop of a hat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0265",
@@ -1940,7 +2268,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「副作用とか依存性を心配するのはわかるけど、使った人間を見てると、<tips=45>ローズ</tips>とは違うような気がするんだよなあ」",
-      "en": "“I understand worrying about side effects and addiction. But after seeing the people who take it, I can’t believe it’s the same as <tips=45>Rose</tips>.”"
+      "en": "“I understand worrying about side effects and addiction. But after seeing the people who take it, I can’t believe it’s the same as <tips=45>Rose</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0266",
@@ -1949,7 +2283,13 @@
       "sj": "",
       "se": "",
       "jp": "　確かにおれは<tips=45>ローズ</tips>の時のように大量に廃人を作り出すことも心配しているが、実はそれだけじゃない。",
-      "en": "I do fear it may ruin people by the thousands as <tips=45>Rose</tips> did. But that’s not my only concern."
+      "en": "I do fear it may ruin people by the thousands as <tips=45>Rose</tips> did. But that’s not my only concern.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0267",
@@ -1958,7 +2298,13 @@
       "sj": "",
       "se": "",
       "jp": "　薬の効果とはまた別の部分に、とても複雑な問題がある。",
-      "en": "There is another, far more complicated problem, separate from the drug’s effects."
+      "en": "There is another, far more complicated problem, separate from the drug’s effects.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0268",
@@ -1967,7 +2313,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは、<tips=46>ネオ</tips>の方が本物の奇跡の薬で、人を廃人にするような副作用がなかったとしても同じことだ。",
-      "en": "That problem remains even if <tips=46>Neo</tips> is a true miracle drug with no destructive side effects."
+      "en": "That problem remains even if <tips=46>Neo</tips> is a true miracle drug with no destructive side effects.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0269",
@@ -1976,7 +2328,13 @@
       "sj": "",
       "se": "",
       "jp": "　一度発症した<tips=17>タイプB</tips>は、これがなくては生きていけないことになるだろう。結局依存するしかなくなる。",
-      "en": "Once <tips=17>Type B</tips> symptoms appear, a person may be unable to live without it. Dependence will become unavoidable."
+      "en": "Once <tips=17>Type B</tips> symptoms appear, a person may be unable to live without it. Dependence will become unavoidable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0270",
@@ -1985,7 +2343,13 @@
       "sj": "",
       "se": "",
       "jp": "　特効薬というものはそういうもので、それ自体が悪いわけではないんだけれど、問題は他にある。",
-      "en": "That is how a lifesaving treatment works. It isn’t evil in itself. The real problem lies elsewhere."
+      "en": "That is how a lifesaving treatment works. It isn’t evil in itself. The real problem lies elsewhere.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0271",
@@ -1994,7 +2358,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは、現在この薬を販売出来るのは<tips=21>八龍会</tips>しかない、ということだ。",
-      "en": "Right now, only the <tips=21>Dragon Club</tips> can sell it."
+      "en": "Right now, only the <tips=21>Dragon Club</tips> can sell it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0272",
@@ -2003,7 +2373,13 @@
       "sj": "",
       "se": "",
       "jp": "　それはつまり、<tips=21>八龍会</tips>が<tips=17>タイプB</tips>に対して今まで以上の支配力を持つということになる。",
-      "en": "That gives the <tips=21>Dragon Club</tips> more control over <tips=17>Type B</tips> people than ever before."
+      "en": "That gives the <tips=21>Dragon Club</tips> more control over <tips=17>Type B</tips> people than ever before.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0273",
@@ -2012,7 +2388,13 @@
       "sj": "",
       "se": "",
       "jp": "　前回ローズが流行っていた時は少し事情が違った。ローズはレシピが公開されていたので家庭用製剤器があれば誰でも作ることが出来たし、副作用が酷くてすぐに使い物にならない廃人になってしまう。その点、<tips=46>ネオ・ローズ</tips>を取り巻く環境は、<tips=21>八龍会</tips>が<tips=17>タイプB</tips>を支配するためのすべての条件が揃っている。",
-      "en": "Things were different during the old Rose epidemic. Rose’s formula was public, so anyone with a household pharmaceutical synthesizer could make it. Its side effects were also so savage that users quickly became broken and useless. With <tips=46>Neo-Rose</tips>, every condition is in place for the <tips=21>Dragon Club</tips> to dominate <tips=17>Type B</tips> people."
+      "en": "Things were different during the old Rose epidemic. Rose’s formula was public, so anyone with a household pharmaceutical synthesizer could make it. Its side effects were also so savage that users quickly became broken and useless. With <tips=46>Neo-Rose</tips>, every condition is in place for the <tips=21>Dragon Club</tips> to dominate <tips=17>Type B</tips> people.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0274",
@@ -2021,7 +2403,13 @@
       "sj": "",
       "se": "",
       "jp": "　いずれこの薬の製造法も広まるのかもしれないが、それまでの間なら、<tips=21>八龍会</tips>は街の<tips=17>タイプB</tips>たちに、どんなことでもさせることが出来るだろう。",
-      "en": "Perhaps the manufacturing process will spread eventually. Until then, the <tips=21>Dragon Club</tips> can make the City’s <tips=17>Type B</tips> people do anything it wants."
+      "en": "Perhaps the manufacturing process will spread eventually. Until then, the <tips=21>Dragon Club</tips> can make the City’s <tips=17>Type B</tips> people do anything it wants.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0275",
@@ -2030,7 +2418,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=22>老人たち</tips>が『今がチャンス』と言っていたのは、この意味も含まれているはずだ。",
-      "en": "When the <tips=22>Elders</tips> said this was their chance, they must have meant this too."
+      "en": "When the <tips=22>Elders</tips> said this was their chance, they must have meant this too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0276",
@@ -2039,7 +2433,13 @@
       "sj": "",
       "se": "",
       "jp": "「薬自体はもしかしたら良いものなのかもしれない。でもなあ……」",
-      "en": "“Maybe the drug itself really is good. But...”"
+      "en": "“Maybe the drug itself really is good. But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0277",
@@ -2048,7 +2448,13 @@
       "sj": "",
       "se": "",
       "jp": "　結局この薬は街の<tips=17>タイプB</tips>たちを、<tips=21>八龍会</tips>の奴隷にしてしまう。そして<tips=22>老人たち</tips>もそれを利用しようとしている。",
-      "en": "In the end, it will make the City’s <tips=17>Type B</tips> people slaves to the <tips=21>Dragon Club</tips>. And the <tips=22>Elders</tips> intend to use that."
+      "en": "In the end, it will make the City’s <tips=17>Type B</tips> people slaves to the <tips=21>Dragon Club</tips>. And the <tips=22>Elders</tips> intend to use that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0278",
@@ -2057,7 +2463,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは、ギャングが人を麻薬漬けにして売春させたり金を搾り取ったりするのと何の違いがあるのか？　<tips=21>八龍会</tips>はギャングとは違うんじゃなかったのか？",
-      "en": "How is that different from a gang keeping people drugged so it can prostitute them or squeeze money from them? Wasn’t the <tips=21>Dragon Club</tips> supposed to be different?"
+      "en": "How is that different from a gang keeping people drugged so it can prostitute them or squeeze money from them? Wasn’t the <tips=21>Dragon Club</tips> supposed to be different?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0279",
@@ -2066,7 +2478,13 @@
       "sj": "",
       "se": "",
       "jp": "　だから、今この薬を使うのはいやなんだ。レシピが公開されて、ありふれた存在になって、本当に副作用がないことが確認されてからなら何の問題もない。",
-      "en": "That is why I don’t want to use it now. Once the formula is public, the drug is commonplace, and we know for certain it has no side effects, I’ll have no objection."
+      "en": "That is why I don’t want to use it now. Once the formula is public, the drug is commonplace, and we know for certain it has no side effects, I’ll have no objection.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0280",
@@ -2075,7 +2493,13 @@
       "sj": "",
       "se": "",
       "jp": "　でも、この状況で手を出すのは危険だ。",
-      "en": "But touching it under these conditions is dangerous."
+      "en": "But touching it under these conditions is dangerous.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0281",
@@ -2084,7 +2508,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、しかしだ。",
-      "en": "And yet. And yet—"
+      "en": "And yet. And yet—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0282",
@@ -2093,7 +2523,13 @@
       "sj": "",
       "se": "",
       "jp": "　だからって使うことをやめろとは言えない。そもそも、おれだって、この先苦しんでいる人間を見たときに使わずに見捨てることなんかできるだろうか？　レナと娘のさっきの喜びようを見たか？　何の手も打たなければ、一生まともに喋ることも働くこともできないんだぞ？",
-      "en": "I can’t tell anyone to stop using it either. The next time I see someone suffering, could I withhold the medicine and abandon them? Did you see Rena and her daughter? Without help, Rena would never speak or work normally again."
+      "en": "I can’t tell anyone to stop using it either. The next time I see someone suffering, could I withhold the medicine and abandon them? Did you see Rena and her daughter? Without help, Rena would never speak or work normally again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0283",
@@ -2102,7 +2538,13 @@
       "sj": "",
       "se": "",
       "jp": "　家族や親しい人が別人になってしまって、それを元に戻したいという気持ちがあるかぎり、我々<tips=17>タイプB</tips>は薬の奴隷でありつづけるしかないのかもしれない。",
-      "en": "As long as we want to bring back family and friends who have become strangers, perhaps we <tips=17>Type B</tips> people have no choice but to remain slaves to medicine."
+      "en": "As long as we want to bring back family and friends who have become strangers, perhaps we <tips=17>Type B</tips> people have no choice but to remain slaves to medicine.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0284",
@@ -2111,7 +2553,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君。さっき言いかけたことだけどさ……」",
-      "en": "“<tips=10>Michio</tips>, about what I was saying earlier...”"
+      "en": "“<tips=10>Michio</tips>, about what I was saying earlier...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0285",
@@ -2120,7 +2568,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが考えていると、<tips=66>コンタ</tips>は言った。",
-      "en": "While I’m thinking, <tips=66>Konta</tips> speaks."
+      "en": "While I’m thinking, <tips=66>Konta</tips> speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0286",
@@ -2129,7 +2583,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう言えば、続きを聞くって言ってたな」",
-      "en": "“That’s right. I said I would hear the rest.”"
+      "en": "“That’s right. I said I would hear the rest.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0287",
@@ -2138,7 +2598,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そう。……饅頭屋はいいと思うよ？　でも、成功するまでまだ時間もお金もかかると思う。だから、一旦中止して、手っ取り早く稼げることをまずやって、資金を増やした方がいいんじゃないかな？」",
-      "en": "“I think the bun business is worthwhile. But success will still take time and money. Maybe we should suspend it, do something that earns fast money, and build our capital first.”"
+      "en": "“I think the bun business is worthwhile. But success will still take time and money. Maybe we should suspend it, do something that earns fast money, and build our capital first.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0288",
@@ -2147,7 +2613,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は前を見ながらそう話す。",
-      "en": "<tips=66>Konta</tips> keeps his eyes ahead as he speaks."
+      "en": "<tips=66>Konta</tips> keeps his eyes ahead as he speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0289",
@@ -2156,7 +2628,13 @@
       "sj": "",
       "se": "",
       "jp": "「何かアイデアがあるのか？」",
-      "en": "“Do you’ve an idea?”"
+      "en": "“Do you’ve an idea?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0290",
@@ -2165,7 +2643,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の言い出すことは大体予想がついたが、おれはそう尋ねた。",
-      "en": "I can already guess what he means, but ask anyway."
+      "en": "I can already guess what he means, but ask anyway.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0291",
@@ -2174,7 +2658,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「うちの工場にも『<tips=46>ネオ・ローズ</tips>』が作れる製剤機を置こうよ」",
-      "en": "“Let’s install a pharmaceutical synthesizer in our factory and make <tips=46>Neo-Rose</tips>.”"
+      "en": "“Let’s install a pharmaceutical synthesizer in our factory and make <tips=46>Neo-Rose</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0292",
@@ -2183,7 +2673,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=66>コンタ</tips>、いくら小麦粉が高いからって、『<tips=46>ネオ・ローズ</tips>』じゃ<tips=71>グレートホール饅頭</tips>は作れないよ」",
-      "en": "“<tips=66>Konta</tips>, flour may be expensive, but <tips=46>Neo-Rose</tips> won’t make <tips=71>Great Hole Manju</tips>.”"
+      "en": "“<tips=66>Konta</tips>, flour may be expensive, but <tips=46>Neo-Rose</tips> won’t make <tips=71>Great Hole Manju</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0293",
@@ -2192,7 +2688,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君、おれは冗談を言ってるわけじゃないんだよ……」",
-      "en": "“I’m not making a joke, <tips=10>Michio</tips>...”"
+      "en": "“I’m not making a joke, <tips=10>Michio</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0294",
@@ -2201,7 +2703,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は顔をしかめる。",
-      "en": "<tips=66>Konta</tips> frowns."
+      "en": "<tips=66>Konta</tips> frowns.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0295",
@@ -2210,7 +2718,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかってるよ。饅頭屋から麻薬屋になったらどうかって言うんだろ？　<tips=21>八龍会</tips>では『<tips=46>ネオ・ローズ</tips>』の生産が追いついてないって聞いてるからね。だからお偉いさんは工場を増やそうと考えてるってわけだ」",
-      "en": "“I know. You want us to stop selling buns and start selling drugs. I hear the <tips=21>Dragon Club</tips> can’t produce <tips=46>Neo-Rose</tips> fast enough, so the men at the top want more factories.”"
+      "en": "“I know. You want us to stop selling buns and start selling drugs. I hear the <tips=21>Dragon Club</tips> can’t produce <tips=46>Neo-Rose</tips> fast enough, so the men at the top want more factories.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0296",
@@ -2219,7 +2733,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そう」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0297",
@@ -2228,7 +2748,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はうなずく。",
-      "en": "<tips=66>Konta</tips> nods."
+      "en": "<tips=66>Konta</tips> nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0298",
@@ -2237,7 +2763,13 @@
       "sj": "",
       "se": "",
       "jp": "「そりゃあ、どっちも白い粉を扱う仕事だけれどさ……」",
-      "en": "“Both businesses do involve white powder, I suppose...”"
+      "en": "“Both businesses do involve white powder, I suppose...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0299",
@@ -2246,7 +2778,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「確実に金になるよ。この薬を欲しがる人はたくさんいる。もちろん<tips=21>八龍会</tips>の仲間から金は取れないけど、外のやつらに売るだけでぼろ儲けさ。……そうしたら、レナとか、他の掛け持ちで働いているみんなも、安心して生活して行けるようになる。それで事業資金を増やしてから、みんなでまた饅頭作りを再開すればいいじゃないか」",
-      "en": "“The money is guaranteed. So many people want this drug. Naturally, we can’t charge our fellow <tips=21>Dragon Club</tips> members, but selling it to outsiders alone will make us rich... Rena and everyone else working two jobs could finally live without fear. Then once we’ve built up enough capital, we can all go back to making buns.”"
+      "en": "“The money is guaranteed. So many people want this drug. Naturally, we can’t charge our fellow <tips=21>Dragon Club</tips> members, but selling it to outsiders alone will make us rich... Rena and everyone else working two jobs could finally live without fear. Then once we’ve built up enough capital, we can all go back to making buns.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0300",
@@ -2255,7 +2793,13 @@
       "sj": "",
       "se": "",
       "jp": "　そういう<tips=66>コンタ</tips>の顔に、濃い疲労の色が浮かんでいるのに気がついた。",
-      "en": "As he speaks, I notice the deep exhaustion in <tips=66>Konta</tips>’s face."
+      "en": "As he speaks, I notice the deep exhaustion in <tips=66>Konta</tips>’s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0301",
@@ -2264,7 +2808,13 @@
       "sj": "",
       "se": "",
       "jp": "　この疲労は、先の見えない饅頭作りと、仕事を二つ並行しているオーバーワークによるものだろう。",
-      "en": "It must come from endless bun-making with no future in sight, on top of the strain of working two jobs."
+      "en": "It must come from endless bun-making with no future in sight, on top of the strain of working two jobs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0302",
@@ -2273,7 +2823,13 @@
       "sj": "",
       "se": "",
       "jp": "　なんだか雰囲気もぴりぴりとしているし、はっきりそう言わないけれど、追い詰められている。",
-      "en": "There is a brittle tension about him. He doesn’t say it, but he is cornered."
+      "en": "There is a brittle tension about him. He doesn’t say it, but he is cornered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0303",
@@ -2282,7 +2838,13 @@
       "sj": "",
       "se": "",
       "jp": "　きっと、他の従業員も同じような状態なのかもしれない。レナが発症したのも、このストレスが関係しているのだろう。",
-      "en": "Perhaps all our employees feel the same. The stress may even have helped trigger Rena’s episode."
+      "en": "Perhaps all our employees feel the same. The stress may even have helped trigger Rena’s episode.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0304",
@@ -2291,7 +2853,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかった。少し考えさせてくれ」",
-      "en": "“All right. Let me think.”"
+      "en": "“All right. Let me think.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0305",
@@ -2300,7 +2868,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう返事をすると、<tips=66>コンタ</tips>はもう気が済んだという風に表情をゆるめて溜息をつく。",
-      "en": "At that, <tips=66>Konta</tips> relaxes and exhales, as though saying it was all he needed."
+      "en": "At that, <tips=66>Konta</tips> relaxes and exhales, as though saying it was all he needed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0306",
@@ -2309,7 +2883,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君、一緒に頑張ろうよ。みんな<tips=10>道夫</tips>君のこと大好きなんだからさ」",
-      "en": "“Let’s keep trying together, <tips=10>Michio</tips>. Everybody loves you, <tips=10>Michio</tips>.”"
+      "en": "“Let’s keep trying together, <tips=10>Michio</tips>. Everybody loves you, <tips=10>Michio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0307",
@@ -2318,7 +2898,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はそう言ってくれる。おれは複雑だった。",
-      "en": "<tips=66>Konta</tips> means it kindly. My own feelings are tangled."
+      "en": "<tips=66>Konta</tips> means it kindly. My own feelings are tangled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0308",
@@ -2327,7 +2913,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれだって、本当はもう全部わかっているんだ。意地を張って追い続けてきたこの夢は、そろそろ終わりが近づいている。",
-      "en": "The truth is, I already understand. This dream I’ve stubbornly chased is nearing its end."
+      "en": "The truth is, I already understand. This dream I’ve stubbornly chased is nearing its end.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0309",
@@ -2336,7 +2928,13 @@
       "sj": "",
       "se": "",
       "jp": "　もし今から急に売り上げが伸びたとしても、おそらくその運命は変わらない。",
-      "en": "Even if sales exploded tomorrow, that probably wouldn’t change its fate."
+      "en": "Even if sales exploded tomorrow, that probably wouldn’t change its fate.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-1:0310",
@@ -2345,7 +2943,13 @@
       "sj": "",
       "se": "",
       "jp": "　時代が変わろうとしているんだ。",
-      "en": "The age itself is changing."
+      "en": "The age itself is changing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1ba608196aec.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

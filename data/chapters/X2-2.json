@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　その日の<tips=83>美紗</tips>は日勤だった。",
-      "en": "That day, <tips=83>Misa</tips> was on the day shift."
+      "en": "That day, <tips=83>Misa</tips> was on the day shift.",
+      "bg": "assets/vn/backgrounds/bg-ae71ed754465.webp"
     },
     {
       "id": "X2-2:0007",
@@ -32,7 +33,8 @@
       "sj": "",
       "se": "",
       "jp": "　ドアの外であくびをしてから看護室の隣の休憩室に足を踏み入れると、すでに先輩ナースたちが出勤しており、長椅子に座って談笑をしている。",
-      "en": "She yawned outside the door, then entered the break room beside the nurses' station. The senior nurses were already there on the bench, talking and laughing."
+      "en": "She yawned outside the door, then entered the break room beside the nurses' station. The senior nurses were already there on the bench, talking and laughing.",
+      "bg": "assets/vn/backgrounds/bg-8d8aa7772921.webp"
     },
     {
       "id": "X2-2:0013",
@@ -41,7 +43,13 @@
       "sj": "古川",
       "se": "Nurse Furukawa",
       "jp": "「<tips=83>能見</tips>さん、もう聞いた？」",
-      "en": "“Ms. <tips=83>Noumi</tips>, have you heard?”"
+      "en": "“Ms. <tips=83>Noumi</tips>, have you heard?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0014",
@@ -50,7 +58,13 @@
       "sj": "",
       "se": "",
       "jp": "　そのうちの、古川ナースが緑茶の入ったピンクのマグカップを片手に声をかけて来る。",
-      "en": "Nurse Furukawa called to her, a pink mug of green tea in one hand."
+      "en": "Nurse Furukawa called to her, a pink mug of green tea in one hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0015",
@@ -59,7 +73,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「何をですか？」",
-      "en": "“Heard what?”"
+      "en": "“Heard what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0016",
@@ -68,7 +92,17 @@
       "sj": "古川",
       "se": "Nurse Furukawa",
       "jp": "「夜勤帯で、フクちゃんがステっちゃったんだって」",
-      "en": "“Fuku died on the night shift.”"
+      "en": "“Fuku died on the night shift.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0017",
@@ -77,7 +111,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「えっ？」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0018",
@@ -86,7 +130,17 @@
       "sj": "古川",
       "se": "Nurse Furukawa",
       "jp": "「消灯後に転倒して頭打っちゃってね、洗面所の周りが血みどろだったらしいわよ」",
-      "en": "“She fell after lights-out and hit her head. I heard there was blood all over the washroom.”"
+      "en": "“She fell after lights-out and hit her head. I heard there was blood all over the washroom.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0019",
@@ -95,7 +149,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「そうなんですか。あんなに足腰しっかりしてたのに。なんで急に」",
-      "en": "“She did? But she was so steady on her feet. Why all of a sudden?”"
+      "en": "“She did? But she was so steady on her feet. Why all of a sudden?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0020",
@@ -104,7 +168,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はバッグをいつもの位置にしまいながら答える。",
-      "en": "<tips=83>Misa</tips> put her bag in its usual place as she answered."
+      "en": "<tips=83>Misa</tips> put her bag in its usual place as she answered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0021",
@@ -113,7 +187,17 @@
       "sj": "古川",
       "se": "Nurse Furukawa",
       "jp": "「眠剤を変えた影響かしらねえ。まあでも、あんた良かったわねえ。夜勤が一日ずれてたら、大変だったわよお。ねえ、箕田さん」",
-      "en": "“Maybe it was the change in her sleeping pills. You got lucky, though. If your nights had been one day later, you'd have been in for a terrible shift. Isn't that right, Mita?”"
+      "en": "“Maybe it was the change in her sleeping pills. You got lucky, though. If your nights had been one day later, you'd have been in for a terrible shift. Isn't that right, Mita?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0022",
@@ -122,7 +206,17 @@
       "sj": "",
       "se": "",
       "jp": "　ベテランの古川ナースは、ちょうど休憩室に入ってきた昨夜の夜勤者である箕田ナースを呼び止める。",
-      "en": "The veteran Nurse Furukawa stopped Nurse Mita, last night's nurse, as she entered the break room."
+      "en": "The veteran Nurse Furukawa stopped Nurse Mita, last night's nurse, as she entered the break room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0023",
@@ -131,7 +225,21 @@
       "sj": "箕田",
       "se": "Nurse Mita",
       "jp": "「そうなのよ。最近の夜勤帯は平和だったから、余計忙しく感じちゃった。あ、お茶入れてくれてたの？　ありがとう。仮眠もとれなかったから、眠くって眠くって」",
-      "en": "“Oh, yes. Nights have been so quiet lately that it felt even busier. Did you make tea? Thank you. I didn't even get a nap. I'm so sleepy.”"
+      "en": "“Oh, yes. Nights have been so quiet lately that it felt even busier. Did you make tea? Thank you. I didn't even get a nap. I'm so sleepy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0024",
@@ -140,7 +248,21 @@
       "sj": "",
       "se": "",
       "jp": "　箕田ナースは犬のキャラクターが描かれた可愛らしい自分のマグカップを手に取り、緑茶を一口すすると、",
-      "en": "Nurse Mita picked up her cute mug with the cartoon dog, took a sip of green tea, and continued."
+      "en": "Nurse Mita picked up her cute mug with the cartoon dog, took a sip of green tea, and continued.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0025",
@@ -149,7 +271,21 @@
       "sj": "箕田",
       "se": "Nurse Mita",
       "jp": "「私も忍野さんもエンゼルケアやるの久しぶりで、いろいろ忘れちゃってたから、二階に電話してやり方聞きながらやったりね。まあとにかく大変だったけど、家族とすぐに連絡がついたから良かったわ。朝一で遺体を引き取りに来てくれたのよ。矢沢さんのときなんか、家族がごちゃごちゃしてて結局二ヶ月も預かってたでしょ？　<tips=83>能見</tips>ちゃん、あの時の遺体見た？」",
-      "en": "“It had been ages since Oshino or I did postmortem care, and we'd forgotten half of it. We had to phone the second floor and have them talk us through the procedure. It was a lot of work, anyway, but thank goodness we reached the family right away. They collected the body first thing this morning. Remember Yazawa? Her family was such a mess that we kept the body for two whole months. <tips=83>Noumi</tips>, did you see it then?”"
+      "en": "“It had been ages since Oshino or I did postmortem care, and we'd forgotten half of it. We had to phone the second floor and have them talk us through the procedure. It was a lot of work, anyway, but thank goodness we reached the family right away. They collected the body first thing this morning. Remember Yazawa? Her family was such a mess that we kept the body for two whole months. <tips=83>Noumi</tips>, did you see it then?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0026",
@@ -158,7 +294,21 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「いや、私は見なかったですね」",
-      "en": "“No, I didn’t.”"
+      "en": "“No, I didn’t.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0027",
@@ -167,7 +317,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は設置された電気ポットから自分のマグカップにお湯を注ぎ、インスタントコーヒーを作りながらそう答えた。",
-      "en": "<tips=83>Misa</tips> answered while filling her mug from the electric kettle and making instant coffee."
+      "en": "<tips=83>Misa</tips> answered while filling her mug from the electric kettle and making instant coffee.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0028",
@@ -176,7 +340,21 @@
       "sj": "古川",
       "se": "Nurse Furukawa",
       "jp": "「あれは可哀想だったねえ。あ、そのおせんべい頂戴」",
-      "en": "“Poor thing... Oh, pass me one of those rice crackers.”"
+      "en": "“Poor thing... Oh, pass me one of those rice crackers.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0029",
@@ -185,7 +363,21 @@
       "sj": "",
       "se": "",
       "jp": "　古川ナースは<tips=94>吉田主任</tips>が開封した醤油せんべいの袋に手を伸ばし、ポリポリと音を立てて咀嚼する。",
-      "en": "Nurse Furukawa reached into the bag of soy-sauce crackers opened by <tips=94>Chief Nurse Yoshida</tips> and crunched away."
+      "en": "Nurse Furukawa reached into the bag of soy-sauce crackers opened by <tips=94>Chief Nurse Yoshida</tips> and crunched away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0030",
@@ -194,7 +386,25 @@
       "sj": "吉田主任",
       "se": "Chief Nurse Yoshida",
       "jp": "「まあでも、エンゼルケアくらいちゃんと覚えておいてもらわないと困るわ」",
-      "en": "“Still, you do need to remember something as basic as postmortem care.”"
+      "en": "“Still, you do need to remember something as basic as postmortem care.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0031",
@@ -203,7 +413,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=94>吉田主任</tips>は苦い顔をする。",
-      "en": "<tips=94>Chief Nurse Yoshida</tips> frowned."
+      "en": "<tips=94>Chief Nurse Yoshida</tips> frowned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0032",
@@ -212,7 +440,25 @@
       "sj": "吉田主任",
       "se": "Chief Nurse Yoshida",
       "jp": "「<tips=83>能見</tips>ちゃんも、ちゃんとやり方を確認しておきなさい。当たらないときはずっと当たらなかったりするけど、いつ必要になるかわからないんだから、忘れないようにしなきゃ」",
-      "en": "“You review the procedure too, <tips=83>Noumi</tips>. You can go years without needing it, but you never know when the time will come. Don't let yourself forget.”"
+      "en": "“You review the procedure too, <tips=83>Noumi</tips>. You can go years without needing it, but you never know when the time will come. Don't let yourself forget.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0033",
@@ -221,7 +467,25 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「そうですね。わたしもしばらく当たってないですし、前の時は前野さんが指示出してくれましたから」",
-      "en": "“You're right. It hasn't fallen to me in a while, and Maeno talked me through it last time.”"
+      "en": "“You're right. It hasn't fallen to me in a while, and Maeno talked me through it last time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0034",
@@ -230,7 +494,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は言って、コーヒーを啜る。",
-      "en": "<tips=83>Misa</tips> sipped her coffee."
+      "en": "<tips=83>Misa</tips> sipped her coffee.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ef587e100183.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0036",
@@ -311,7 +593,8 @@
       "sj": "",
       "se": "",
       "jp": "　そうしているうちに時間になり、いつも通りの業務がはじまる。",
-      "en": "Then the hour came, and the day's work began as usual."
+      "en": "Then the hour came, and the day's work began as usual.",
+      "bg": "assets/vn/backgrounds/bg-2100cbae17c6.webp"
     },
     {
       "id": "X2-2:0050",
@@ -365,7 +648,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「本当に出しても大丈夫なんですかねえ」",
-      "en": "“Are we sure it’s safe to let her out?”"
+      "en": "“Are we sure it’s safe to let her out?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0056",
@@ -374,7 +663,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は首をひねる。",
-      "en": "<tips=92>Nurse Mizumura</tips> tilted her head."
+      "en": "<tips=92>Nurse Mizumura</tips> tilted her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0057",
@@ -383,7 +678,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「まあ、先生の指示ですから」",
-      "en": "“Well, the doctor ordered it.”"
+      "en": "“Well, the doctor ordered it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0058",
@@ -392,7 +697,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はそう答えたが、彼女も半信半疑ではある。以前も保護室から出した後のお茶の時間に、テーブルの上に並べられた他の患者のマグカップを片っ端からひっくり返すという事件があった。状態が安定していない時の<tips=82>Ｕ</tips>は、そういうことをする。",
-      "en": "<tips=83>Misa</tips> said it, but she was no more convinced than Mizumura. Once before, just after leaving seclusion, U had worked her way down the tea table, overturning every other patient's mug. An unstable <tips=82>U</tips> did things like that."
+      "en": "<tips=83>Misa</tips> said it, but she was no more convinced than Mizumura. Once before, just after leaving seclusion, U had worked her way down the tea table, overturning every other patient's mug. An unstable <tips=82>U</tips> did things like that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0059",
@@ -401,7 +716,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=95>金眼</tips>のまま不安定になると、強い薬を与えられて普段はふらふらしているような患者でも素早く動き、職員の静止が間に合わないケースがある。それが、他の病気とは違う<tips=17>タイプB</tips>患者のやっかいなところだった。",
-      "en": "During an unstable <tips=95>Golden-Eye state</tips>, even a patient normally left staggering by heavy medication could move too fast for staff to intervene. That was what made <tips=17>Type B</tips> patients difficult in ways other patients were not."
+      "en": "During an unstable <tips=95>Golden-Eye state</tips>, even a patient normally left staggering by heavy medication could move too fast for staff to intervene. That was what made <tips=17>Type B</tips> patients difficult in ways other patients were not.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0065",
@@ -410,7 +735,8 @@
       "sj": "",
       "se": "",
       "jp": "　実際二人の不安は的中したかのように見えた。",
-      "en": "At first, the two nurses seemed to have been right to worry."
+      "en": "At first, the two nurses seemed to have been right to worry.",
+      "bg": "assets/vn/backgrounds/bg-3107c7fbc4c0.webp"
     },
     {
       "id": "X2-2:0066",
@@ -428,7 +754,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「どうしたの？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0068",
@@ -437,7 +769,13 @@
       "sj": "",
       "se": "",
       "jp": "　窓の近くにいた<tips=92>水村ナース</tips>が尋ねると、",
-      "en": "<tips=92>Nurse Mizumura</tips>, nearest the window, answered."
+      "en": "<tips=92>Nurse Mizumura</tips>, nearest the window, answered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0069",
@@ -446,7 +784,13 @@
       "sj": "",
       "se": "",
       "jp": "「看護師さん早くきて！　きて！　<tips=82>ヒロちゃん</tips>がまたやったの！　廊下にやっちゃったのよ！　あの子が！」",
-      "en": "“Nurse! Hurry, come here! <tips=82>Hiro-chan</tips> did it again! She did it right in the corridor! That girl!”"
+      "en": "“Nurse! Hurry, come here! <tips=82>Hiro-chan</tips> did it again! She did it right in the corridor! That girl!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0070",
@@ -455,7 +799,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「Kさん、わかったからそのキンキン声で叫ぶのやめて」",
-      "en": "“K, I heard you. Stop shrieking.”"
+      "en": "“K, I heard you. Stop shrieking.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0071",
@@ -464,7 +814,13 @@
       "sj": "",
       "se": "",
       "jp": "　まくし立てるKに、<tips=92>水村ナース</tips>は苦い顔をして窓を閉めると、<tips=82>Ｕ</tips>の受け持ちである<tips=83>美紗</tips>を振り返る。",
-      "en": "K kept rattling on. <tips=92>Nurse Mizumura</tips> grimaced, shut the window, then turned toward <tips=82>U</tips>'s nurse, <tips=83>Misa</tips>."
+      "en": "K kept rattling on. <tips=92>Nurse Mizumura</tips> grimaced, shut the window, then turned toward <tips=82>U</tips>'s nurse, <tips=83>Misa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0072",
@@ -473,7 +829,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「らしいですよ」",
-      "en": "“You heard her.”"
+      "en": "“You heard her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0073",
@@ -482,7 +844,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「行きます」",
-      "en": "“I’ll go.”"
+      "en": "“I’ll go.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0074",
@@ -491,7 +863,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう答えたときにはもう<tips=83>美紗</tips>は立ち上がっていて、すぐに看護室を出る。",
-      "en": "<tips=83>Misa</tips> was already on her feet when she answered. She left the nurses' station at once."
+      "en": "<tips=83>Misa</tips> was already on her feet when she answered. She left the nurses' station at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0087",
@@ -500,7 +882,8 @@
       "sj": "",
       "se": "",
       "jp": "　すると、すぐに廊下に全裸で座り込んでいる<tips=82>Ｕ</tips>の姿が目に入った。二人の女性看護助手が彼女を立たせようとするが、その手を振り払っていやいやをしている。",
-      "en": "She soon found <tips=82>U</tips> sitting stark naked in the corridor. Two female nursing aides tried to lift her, but she batted their hands away and shook her head like a stubborn child."
+      "en": "She soon found <tips=82>U</tips> sitting stark naked in the corridor. Two female nursing aides tried to lift her, but she batted their hands away and shook her head like a stubborn child.",
+      "bg": "assets/vn/backgrounds/bg-439fe32f1f82.webp"
     },
     {
       "id": "X2-2:0088",
@@ -635,7 +1018,14 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「あぶなっかしかったけど、ちゃんと元に戻りましたね」",
-      "en": "“That was dicey, but she really did come back to herself.”"
+      "en": "“That was dicey, but she really did come back to herself.”",
+      "bg": "assets/vn/backgrounds/bg-04a3e1cdc63a.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0115",
@@ -644,7 +1034,13 @@
       "sj": "",
       "se": "",
       "jp": "　一緒に<tips=82>Ｕ</tips>を保護室に戻した<tips=92>水村ナース</tips>が溜息をつく。",
-      "en": "After helping bring <tips=82>U</tips> out of seclusion, <tips=92>Nurse Mizumura</tips> sighed."
+      "en": "After helping bring <tips=82>U</tips> out of seclusion, <tips=92>Nurse Mizumura</tips> sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0116",
@@ -653,7 +1049,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「保護室に入ると長引いちゃう子なのに、今回は早かったと思いません？　外に出して刺激を与えたのがよかったんでしょうか。安田先生もたまには的確な指示を出すんですね」",
-      "en": "“She usually takes forever to settle after seclusion. Don't you think this was quick? Maybe bringing her out and giving her some stimulation helped. I suppose even Dr. Yasuda gets an order right once in a while.”"
+      "en": "“She usually takes forever to settle after seclusion. Don't you think this was quick? Maybe bringing her out and giving her some stimulation helped. I suppose even Dr. Yasuda gets an order right once in a while.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0117",
@@ -662,7 +1064,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「いえ、解放したのは主治医じゃなくて<tips=5>太刀川</tips>先生なのよ」",
-      "en": "“No. Her attending didn't order the release. Dr. <tips=5>Tachikawa</tips> did.”"
+      "en": "“No. Her attending didn't order the release. Dr. <tips=5>Tachikawa</tips> did.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0118",
@@ -671,7 +1083,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>が伝えると、",
-      "en": "When <tips=83>Misa</tips> told her that,"
+      "en": "When <tips=83>Misa</tips> told her that,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0119",
@@ -680,7 +1102,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「ああ、そうなんですか」",
-      "en": "“Oh, I see.”"
+      "en": "“Oh, I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0120",
@@ -689,7 +1121,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は納得したように頷き、",
-      "en": "<tips=92>Nurse Mizumura</tips> nodded in understanding."
+      "en": "<tips=92>Nurse Mizumura</tips> nodded in understanding.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0121",
@@ -698,7 +1140,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「さすが名医ですね」",
-      "en": "“Well. No wonder.”"
+      "en": "“Well. No wonder.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0122",
@@ -707,7 +1159,17 @@
       "sj": "",
       "se": "",
       "jp": "　と複雑な顔で言った。",
-      "en": "Her face held more than one feeling."
+      "en": "Her face held more than one feeling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0124",
@@ -1103,7 +1565,8 @@
       "sj": "",
       "se": "",
       "jp": "　この<tips=5>太刀川</tips>を、業務を終えてロッカールームへ向かうところだった<tips=83>美紗</tips>はB棟の前で見かけた。",
-      "en": "Outside Building B stood this same <tips=5>Tachikawa</tips>. <tips=83>Misa</tips> spotted him on her way to the locker room after work."
+      "en": "Outside Building B stood this same <tips=5>Tachikawa</tips>. <tips=83>Misa</tips> spotted him on her way to the locker room after work.",
+      "bg": "assets/vn/backgrounds/bg-8d20eafa0fa2.webp"
     },
     {
       "id": "X2-2:0173",
@@ -1112,7 +1575,13 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「お疲れ様です」",
-      "en": "“Good work today.”"
+      "en": "“Good work today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0174",
@@ -1121,7 +1590,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は頭を下げたが、例によって<tips=5>太刀川</tips>は視線をやるそぶりも見せず、こちらに向けた顔をチラとも動かさない。そして、挨拶を返すということもない。",
-      "en": "<tips=83>Misa</tips> bowed. As usual, <tips=5>Tachikawa</tips> showed no sign of looking at her. His face pointed her way, but did not move an inch. He gave no greeting in return."
+      "en": "<tips=83>Misa</tips> bowed. As usual, <tips=5>Tachikawa</tips> showed no sign of looking at her. His face pointed her way, but did not move an inch. He gave no greeting in return.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0175",
@@ -1130,7 +1605,13 @@
       "sj": "",
       "se": "",
       "jp": "　朝から病院にいた<tips=5>太刀川</tips>はもう勤務時間も終わって帰っても良さそうな時刻だが、まだ仕事をするつもりらしく、今<tips=83>美紗</tips>が出て来たB棟へ入ろうとしているようだった。",
-      "en": "<tips=5>Tachikawa</tips> had been at the hospital since morning, and his working day should have ended by now. Apparently he meant to continue. He was about to enter Building B, which <tips=83>Misa</tips> had just left."
+      "en": "<tips=5>Tachikawa</tips> had been at the hospital since morning, and his working day should have ended by now. Apparently he meant to continue. He was about to enter Building B, which <tips=83>Misa</tips> had just left.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0176",
@@ -1139,7 +1620,13 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あの、<tips=82>Ｕ</tips>さんのことですが」",
-      "en": "“Excuse me. About <tips=82>U</tips>...”"
+      "en": "“Excuse me. About <tips=82>U</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0177",
@@ -1148,7 +1635,13 @@
       "sj": "",
       "se": "",
       "jp": "　挨拶をしない<tips=5>太刀川</tips>だが、患者の名前を出すとぴたりと足を止める。が、<tips=83>美紗</tips>の方を見ようとはしない。",
-      "en": "<tips=5>Tachikawa</tips> ignored greetings, but a patient's name stopped him in his tracks. He still did not look at <tips=83>Misa</tips>."
+      "en": "<tips=5>Tachikawa</tips> ignored greetings, but a patient's name stopped him in his tracks. He still did not look at <tips=83>Misa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0178",
@@ -1157,7 +1650,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「なんですか？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0179",
@@ -1166,7 +1669,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう問い返されると、呼び止めた<tips=83>美紗</tips>の方がどぎまぎしてしまう。風に吹かれて、側頭部から生えた<tips=5>太刀川</tips>の黒髪が揺れている。",
-      "en": "The blunt question flustered <tips=83>Misa</tips>, though she had been the one to stop him. Wind stirred the black hair along the sides of <tips=5>Tachikawa</tips>'s head."
+      "en": "The blunt question flustered <tips=83>Misa</tips>, though she had been the one to stop him. Wind stirred the black hair along the sides of <tips=5>Tachikawa</tips>'s head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0180",
@@ -1175,7 +1688,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はこの奇妙だが勤勉な医者に興味があった。",
-      "en": "<tips=83>Misa</tips> had long been curious about this strange, tireless doctor."
+      "en": "<tips=83>Misa</tips> had long been curious about this strange, tireless doctor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0181",
@@ -1184,7 +1707,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「廊下で放尿などがありましたが、その後は落ち着かれて静穏に過ごされています」",
-      "en": "“She did urinate in the corridor, but she settled afterward and has remained calm.”"
+      "en": "“She did urinate in the corridor, but she settled afterward and has remained calm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0182",
@@ -1193,7 +1726,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「そうですか」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0183",
@@ -1202,7 +1745,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は青白い顔に比べて紅すぎる唇を開いてそう答えた。",
-      "en": "<tips=5>Tachikawa</tips>'s lips parted—far too red against his pallid face."
+      "en": "<tips=5>Tachikawa</tips>'s lips parted—far too red against his pallid face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0184",
@@ -1211,7 +1764,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あ、あの」",
-      "en": "“Um...”"
+      "en": "“Um...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0185",
@@ -1220,7 +1783,17 @@
       "sj": "",
       "se": "",
       "jp": "　立ち去ってしまおうとする<tips=5>太刀川</tips>を、もう一度呼び止めた。",
-      "en": "She stopped <tips=5>Tachikawa</tips> once more as he began to leave."
+      "en": "She stopped <tips=5>Tachikawa</tips> once more as he began to leave.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0186",
@@ -1229,7 +1802,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「私、<tips=82>Ｕ</tips>さんのプライマリーなんです。いつも注意深く<tips=82>Ｕ</tips>さんのことを観察しているつもりなのですが、なかなか驚かされることも多いんです。<tips=5>太刀川</tips>先生は、どうやって一目で患者様の状態を的確に判断なさっているのでしょうか？　何か観察するポイントなどがあるのでしょうか？」",
-      "en": "“I'm <tips=82>U</tips>'s primary nurse. I try to observe <tips=82>U</tips> carefully, but she still surprises me all the time. Dr. <tips=5>Tachikawa</tips>, how can you judge a patient's condition so accurately at a glance? Is there something in particular you watch for?”"
+      "en": "“I'm <tips=82>U</tips>'s primary nurse. I try to observe <tips=82>U</tips> carefully, but she still surprises me all the time. Dr. <tips=5>Tachikawa</tips>, how can you judge a patient's condition so accurately at a glance? Is there something in particular you watch for?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0187",
@@ -1238,7 +1821,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>の洞察力に日頃から不思議なものを感じていたため、勢いでそう言ってしまったものの、言ってしまってからまっすぐ向かい合ってこのような質問をすることの不躾さに<tips=83>美紗</tips>は気付き、恥ずかしげに目をそらす。",
-      "en": "There was something uncanny in <tips=5>Tachikawa</tips>'s insight, and the question came out in a rush. Only afterward did <tips=83>Misa</tips> realize how presumptuous it was to confront him so directly. Embarrassed, she looked away."
+      "en": "There was something uncanny in <tips=5>Tachikawa</tips>'s insight, and the question came out in a rush. Only afterward did <tips=83>Misa</tips> realize how presumptuous it was to confront him so directly. Embarrassed, she looked away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0188",
@@ -1247,7 +1840,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「……あの、看護の参考にしたいんです」",
-      "en": "“...I thought it might help me be a better nurse.”"
+      "en": "“...I thought it might help me be a better nurse.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0189",
@@ -1256,7 +1859,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「それはですね」",
-      "en": "“Well, you see...”"
+      "en": "“Well, you see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0190",
@@ -1265,7 +1878,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は<tips=83>美紗</tips>のとってつけたような言い訳を意に介さない。",
-      "en": "<tips=5>Tachikawa</tips> ignored <tips=83>Misa</tips>'s transparent excuse."
+      "en": "<tips=5>Tachikawa</tips> ignored <tips=83>Misa</tips>'s transparent excuse.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0191",
@@ -1274,7 +1897,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「私だからわかるんです。あなたには同じことは出来ませんし、他のドクターにも不可能でしょう。あなたたちはあなたたちのやり方を見つけることです」",
-      "en": "“I know because of who I am. You cannot do what I do, nor can the other doctors. You must find methods of your own.”"
+      "en": "“I know because of who I am. You cannot do what I do, nor can the other doctors. You must find methods of your own.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0192",
@@ -1283,7 +1916,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それは、先生が<tips=16>タイプA</tips>で、特別な能力があるからということですか？」",
-      "en": "“Do you mean that you're <tips=16>Type A</tips>—that you have some special ability?”"
+      "en": "“Do you mean that you're <tips=16>Type A</tips>—that you have some special ability?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0193",
@@ -1292,7 +1935,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は自分でも予期しなかった言葉に動揺してしまったが、<tips=5>太刀川</tips>は態度に変化を見せない。",
-      "en": "<tips=83>Misa</tips> was shaken by her own unexpected question. <tips=5>Tachikawa</tips>'s manner did not change."
+      "en": "<tips=83>Misa</tips> was shaken by her own unexpected question. <tips=5>Tachikawa</tips>'s manner did not change.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0194",
@@ -1301,7 +1954,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「その通りです。私は<tips=16>タイプA</tips>です。しかし、その力については何も言えません。プライバシーに関することですのでね」",
-      "en": "“Correct. I am <tips=16>Type A</tips>. I cannot tell you anything about the nature of my ability, however. That is a private matter.”"
+      "en": "“Correct. I am <tips=16>Type A</tips>. I cannot tell you anything about the nature of my ability, however. That is a private matter.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0195",
@@ -1310,7 +1973,17 @@
       "sj": "",
       "se": "",
       "jp": "　看護師たちの長年の疑問に、あまりにもあっさりと回答をした<tips=5>太刀川</tips>に、<tips=83>美紗</tips>は驚きを隠せない。おそらく秘密というわけでもなく、今まで誰も直接尋ねなかったから知られていなかっただけで、もし誰かが聞いていたら同じように説明していたのだろう。",
-      "en": "<tips=5>Tachikawa</tips> had answered the nurses' long-standing question with astonishing ease, and <tips=83>Misa</tips> could not hide her surprise. Perhaps it had never been a secret. No one knew because no one had asked him. Had they done so, he would probably have told them just as plainly."
+      "en": "<tips=5>Tachikawa</tips> had answered the nurses' long-standing question with astonishing ease, and <tips=83>Misa</tips> could not hide her surprise. Perhaps it had never been a secret. No one knew because no one had asked him. Had they done so, he would probably have told them just as plainly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0196",
@@ -1319,7 +1992,17 @@
       "sj": "",
       "se": "",
       "jp": "　単に、<tips=83>美紗</tips>が最初の一人だったのだ。",
-      "en": "<tips=83>Misa</tips> merely happened to be the first."
+      "en": "<tips=83>Misa</tips> merely happened to be the first.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0197",
@@ -1328,7 +2011,17 @@
       "sj": "",
       "se": "",
       "jp": "　が、<tips=83>美紗</tips>とすればさらに動揺を深めてしまう。",
-      "en": "That only flustered <tips=83>Misa</tips> further."
+      "en": "That only flustered <tips=83>Misa</tips> further.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0198",
@@ -1337,7 +2030,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あ、あの……」",
-      "en": "“Um...”"
+      "en": "“Um...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0199",
@@ -1346,7 +2049,17 @@
       "sj": "",
       "se": "",
       "jp": "　動揺のせいか、彼女は聞かなくて良いことまで聞いてしまった。",
-      "en": "Perhaps agitation drove her to ask what she had no business asking."
+      "en": "Perhaps agitation drove her to ask what she had no business asking.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0200",
@@ -1355,7 +2068,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「先生は、どうして職員と目を合わせようとしないのですか？」",
-      "en": "“Doctor, why won't you look the staff in the eye?”"
+      "en": "“Doctor, why won't you look the staff in the eye?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0201",
@@ -1364,7 +2087,17 @@
       "sj": "",
       "se": "",
       "jp": "　こんな不躾な質問に対しても、<tips=5>太刀川</tips>はよどみなく言葉を返す。",
-      "en": "Even this impertinent question drew an immediate answer from <tips=5>Tachikawa</tips>."
+      "en": "Even this impertinent question drew an immediate answer from <tips=5>Tachikawa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0202",
@@ -1373,7 +2106,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「目を見れば、見たくないものまで見えてしまいますから」",
-      "en": "“Because when I look into a person's eyes, I see things I would rather not see.”"
+      "en": "“Because when I look into a person's eyes, I see things I would rather not see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ec1aa7dab674.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0203",
@@ -1382,7 +2125,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「そ、そうなんですか……」",
-      "en": "“I-I see...”"
+      "en": "“I-I see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ec1aa7dab674.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0204",
@@ -1391,7 +2144,17 @@
       "sj": "",
       "se": "",
       "jp": "　さすがに言い過ぎたと自覚した<tips=83>美紗</tips>は、後悔したように黙り込んでしまう。",
-      "en": "<tips=83>Misa</tips> knew she'd gone too far and fell silent, plainly regretting it."
+      "en": "<tips=83>Misa</tips> knew she'd gone too far and fell silent, plainly regretting it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ec1aa7dab674.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0205",
@@ -1400,7 +2163,17 @@
       "sj": "",
       "se": "",
       "jp": "　その様子を見て、これ以上の質問はないと悟ったのか、<tips=5>太刀川</tips>は無言でその場を去って行った。",
-      "en": "Perhaps he understood from her face that the questions were over. <tips=5>Tachikawa</tips> walked away without another word."
+      "en": "Perhaps he understood from her face that the questions were over. <tips=5>Tachikawa</tips> walked away without another word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ec1aa7dab674.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0222",
@@ -1409,7 +2182,14 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「やっぱり、休日前の夜は最高ですね」",
-      "en": "“Nothing beats the night before a day off.”"
+      "en": "“Nothing beats the night before a day off.”",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0223",
@@ -1418,7 +2198,13 @@
       "sj": "",
       "se": "",
       "jp": "　一杯目をあっという間にあけ、二杯目に手を付けた<tips=92>水村ナース</tips>はけろりとした顔でそう言った。",
-      "en": "<tips=92>Nurse Mizumura</tips> had drained her first glass in no time and started on her second. Her face remained perfectly composed."
+      "en": "<tips=92>Nurse Mizumura</tips> had drained her first glass in no time and started on her second. Her face remained perfectly composed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0224",
@@ -1427,7 +2213,13 @@
       "sj": "",
       "se": "",
       "jp": "　大人しそうな見かけによらず大変な酒豪で、いくら飲んでも少し赤くなるくらいでほとんど行動が乱れない。",
-      "en": "Her quiet appearance concealed a formidable drinker. However much she drank, she did little more than flush, and her behavior hardly changed."
+      "en": "Her quiet appearance concealed a formidable drinker. However much she drank, she did little more than flush, and her behavior hardly changed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0225",
@@ -1436,7 +2228,13 @@
       "sj": "",
       "se": "",
       "jp": "　年が近い<tips=83>美紗</tips>は彼女としょっちゅう飲みに出るが、最初は負けん気もあってその飲酒のペースについていこうとしていたが、今は完全に敗北を認めて彼女は彼女に任せ、自分はつき合わずにマイペースで飲んでいる。",
-      "en": "Close in age, <tips=83>Misa</tips> and Mizumura often went drinking together. At first, pride made Misa try to keep pace. Now she admitted total defeat, let Mizumura do as she pleased, and drank at her own speed."
+      "en": "Close in age, <tips=83>Misa</tips> and Mizumura often went drinking together. At first, pride made Misa try to keep pace. Now she admitted total defeat, let Mizumura do as she pleased, and drank at her own speed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0226",
@@ -1445,7 +2243,13 @@
       "sj": "",
       "se": "",
       "jp": "　二人は<tips=9>Y地区</tips>の一角にある飲食店に来ていた。",
-      "en": "They were at a restaurant in one corner of <tips=9>Y District</tips>."
+      "en": "They were at a restaurant in one corner of <tips=9>Y District</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0227",
@@ -1454,7 +2258,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>は世間ではとやかく言われるが、そこで働く利点の一つに、こうした仕事帰りなどに足を運ぶ飲食店に困らないという点がある。<tips=57>滑走路通り</tips>を含めた中心街は、そう広くない範囲に様々な国の料理店が密集して営業をしており、路上販売のワゴンなども含めれば、その日のどんな気分にも対応出来るだけのバラエティがある。",
-      "en": "The outside world said plenty about <tips=9>Y District</tips>, but working there had one clear advantage: there was never any shortage of places to eat or drink after a shift. Restaurants from every country crowded the compact center, including <tips=57>Runway Street</tips>. Add the street carts and there was something for any mood."
+      "en": "The outside world said plenty about <tips=9>Y District</tips>, but working there had one clear advantage: there was never any shortage of places to eat or drink after a shift. Restaurants from every country crowded the compact center, including <tips=57>Runway Street</tips>. Add the street carts and there was something for any mood.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0228",
@@ -1463,7 +2273,13 @@
       "sj": "",
       "se": "",
       "jp": "　今日彼女たちが訪れたのは、英国式のバーで、平日の夜にもかかわらず若者たちで賑わっていた。",
-      "en": "Tonight they had chosen a British-style pub, crowded with young people despite the weekday hour."
+      "en": "Tonight they had chosen a British-style pub, crowded with young people despite the weekday hour.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0229",
@@ -1472,7 +2288,13 @@
       "sj": "",
       "se": "",
       "jp": "　テーブルの上には、フィッシュアンドチップスと茹でたソーセージが乗せられ、二人はそれをつまみながらグラスのビールを飲んでいる。そして彼女たちが口にするのは、もっぱら職場の愚痴であった。",
-      "en": "Fish and chips and boiled sausages covered the table. They picked at the food over glasses of beer and talked almost entirely about work."
+      "en": "Fish and chips and boiled sausages covered the table. They picked at the food over glasses of beer and talked almost entirely about work.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0230",
@@ -1481,7 +2303,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「私、今日またR野さんにしつこくつきまとわれちゃってえ」",
-      "en": "“R-no wouldn't leave me alone again today.”"
+      "en": "“R-no wouldn't leave me alone again today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0231",
@@ -1490,7 +2318,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は油のついた指先を拭いながら言う。",
-      "en": "<tips=92>Nurse Mizumura</tips> wiped the grease from her fingers as she spoke."
+      "en": "<tips=92>Nurse Mizumura</tips> wiped the grease from her fingers as she spoke.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0232",
@@ -1499,7 +2333,13 @@
       "sj": "",
       "se": "",
       "jp": "　Ｒ野というのは、症状以前に人間性に問題を抱える患者で、その乱暴な言動でしばしば病棟の職員を困らせている人物であった。そして、<tips=92>水村ナース</tips>の担当患者でもある。",
-      "en": "Even apart from her symptoms, R-no had a difficult personality. Her coarse words and behavior constantly troubled the ward staff. She was one of <tips=92>Nurse Mizumura</tips>'s patients."
+      "en": "Even apart from her symptoms, R-no had a difficult personality. Her coarse words and behavior constantly troubled the ward staff. She was one of <tips=92>Nurse Mizumura</tips>'s patients.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0233",
@@ -1508,7 +2348,13 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「まーた、多訴的になってるんで、普段は適当に傾聴対応してるんですけど、今日は時間がなかったから、早めに打ち切っちゃったんですよ。そしたら『お前らアタシを無理矢理閉じ込めやがって！　この病院は最低の場所だ！』がはじまっちゃって」",
-      "en": "“She's back to complaining about everything. Usually I give her a little token attentive listening, but today I was busy and cut her off early. Then she started: ‘You bastards locked me up against my will! This hospital is hell!’”"
+      "en": "“She's back to complaining about everything. Usually I give her a little token attentive listening, but today I was busy and cut her off early. Then she started: ‘You bastards locked me up against my will! This hospital is hell!’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0234",
@@ -1517,7 +2363,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「ああ、いつもの」",
-      "en": "“Ah. The usual.”"
+      "en": "“Ah. The usual.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0235",
@@ -1526,7 +2382,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>が相づちをうつと、<tips=92>水村ナース</tips>が頷き、",
-      "en": "At <tips=83>Misa</tips>'s acknowledgment, <tips=92>Nurse Mizumura</tips> nodded."
+      "en": "At <tips=83>Misa</tips>'s acknowledgment, <tips=92>Nurse Mizumura</tips> nodded.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0236",
@@ -1535,7 +2401,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そう、いつものです。だからもう、私ムカっとしちゃって、言っちゃったんですよ。この病院よりあなたを大事に扱ってくれる場所はないって。あなたが退院出来るのなら、職員全員涙を流して大喜びするから、頑張って症状を克服してくださいねって」",
-      "en": "“Exactly. The usual. This time it got under my skin, so I told her: ‘No place in the world will treat you better than this hospital. If you ever get well enough to leave, the entire staff will weep tears of joy. Please work hard to overcome your symptoms.’”"
+      "en": "“Exactly. The usual. This time it got under my skin, so I told her: ‘No place in the world will treat you better than this hospital. If you ever get well enough to leave, the entire staff will weep tears of joy. Please work hard to overcome your symptoms.’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0237",
@@ -1544,7 +2420,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それは、ムカっとしたわりには結構抑えたね」",
-      "en": "“You kept it pretty restrained for someone that angry.”"
+      "en": "“You kept it pretty restrained for someone that angry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0238",
@@ -1553,7 +2439,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そうです！　全くその通りです！　出せるものなら出したいですよ！　でも、サマリーを書いて送っただけで門前払いでしょうね。あちこちの施設で追い出されてうちに来たんですから……。まったく、どうしようもないやつだ！　出来るものなら、門を開いてどうぞご自由にって言いたいですよ。……固いものを食べればすぐ詰まらせて、おむつも自分で取り替えられなくてすぐ汚して、ふらふらしててすぐ転ぶからヘッドガードも外せないのに、感謝どころか怒ってばっかり！　なんで外で暮らしていけると思ってるのかしら？　外に出たら三日ももたないで死んじゃうでしょうに」",
-      "en": "“Exactly! That's exactly it! If we could send her away, we would. Another hospital would throw out her summary before she got through the door. She only came to us because one facility after another had already thrown her out... Honestly, she's hopeless! I'd love to open the gate and tell her, ‘Go on, then. You're free.’ She chokes on anything solid, can't change her own diaper without soiling herself, and falls so often we can't even remove her head guard. Does she thank us? No, she only rages! Why does she imagine she can live outside? She'd be dead in three days.”"
+      "en": "“Exactly! That's exactly it! If we could send her away, we would. Another hospital would throw out her summary before she got through the door. She only came to us because one facility after another had already thrown her out... Honestly, she's hopeless! I'd love to open the gate and tell her, ‘Go on, then. You're free.’ She chokes on anything solid, can't change her own diaper without soiling herself, and falls so often we can't even remove her head guard. Does she thank us? No, she only rages! Why does she imagine she can live outside? She'd be dead in three days.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0239",
@@ -1562,7 +2458,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>はジョッキのビールを飲み干すと、ドンとテーブルの上に置く。",
-      "en": "<tips=92>Nurse Mizumura</tips> drained her mug and thumped it onto the table."
+      "en": "<tips=92>Nurse Mizumura</tips> drained her mug and thumped it onto the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0240",
@@ -1571,7 +2477,17 @@
       "sj": "",
       "se": "",
       "jp": "　その顔には今風の化粧がなされている。仕事中はほとんどノーメイクだったのに、いつの間にほどこしたのだろう？　それに気がつくと<tips=83>美紗</tips>は、眉毛と目しか手を加えていない仕事時のままの自分の顔が恥ずかしくなった。",
-      "en": "Her face now wore fashionable makeup. She had been almost bare-faced at work. When had she found the time? Noticing it made <tips=83>Misa</tips> ashamed of her own workday face, with only her brows and eyes done."
+      "en": "Her face now wore fashionable makeup. She had been almost bare-faced at work. When had she found the time? Noticing it made <tips=83>Misa</tips> ashamed of her own workday face, with only her brows and eyes done.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0241",
@@ -1580,7 +2496,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「でたらめなサマリー書いて遠くの病院に転院させちゃうとか、任意入院に切り換えて本人のお望み通り退院させるとか、出来ないんですか？　あの人の生活がよくなるように一生懸命やってるのに、なんであんなに馬鹿にされたり、ちょっと考えられないような理不尽な悪意を持たれたりしなくちゃいけないのか……。受容的態度って言うけれど、なんでもかんでも受容しなくちゃいけないんですか？　我々は？　私だって人間なんですよ？」",
-      "en": "“Couldn't we invent a summary and ship her to some distant hospital? Or make her admission voluntary and let her walk out, just as she wants? We work ourselves raw trying to improve her life. Why should she get to sneer at us and pour out that insane, senseless malice? Everyone talks about an accepting attitude, but do we have to accept everything? Are we supposed to? I'm human too.”"
+      "en": "“Couldn't we invent a summary and ship her to some distant hospital? Or make her admission voluntary and let her walk out, just as she wants? We work ourselves raw trying to improve her life. Why should she get to sneer at us and pour out that insane, senseless malice? Everyone talks about an accepting attitude, but do we have to accept everything? Are we supposed to? I'm human too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0242",
@@ -1589,7 +2515,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「Ｒ野さんはあなたのことが好きで、構ってほしいからあれこれ言ってるだけよ」",
-      "en": "“R-no likes you. She says those things because she wants your attention.”"
+      "en": "“R-no likes you. She says those things because she wants your attention.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0243",
@@ -1598,7 +2534,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そういう愛着障害があるのはわかってるんですけど……」",
-      "en": "“I know that's how her attachment disorder works, but...”"
+      "en": "“I know that's how her attachment disorder works, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0244",
@@ -1607,7 +2553,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は溜息をつく。",
-      "en": "<tips=92>Nurse Mizumura</tips> sighed."
+      "en": "<tips=92>Nurse Mizumura</tips> sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0245",
@@ -1616,7 +2572,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「あの人に限らず、患者さんの言う通りに全部やってみたらどうかしらって思うんですよ。出たいって人は出してあげて、食事制限に怒ってる糖尿病の人には好きなだけ食べさせて……。あと、ここの患者さんはよく<tips=8>グレートホール</tips>に帰りたいっていう人が多いけど、一回穴までつれて行ってみたいと思ってるんです。本当にドンドン飛び込んじゃうのかしら？」",
-      "en": "“Not only her. Sometimes I wonder what would happen if we gave every patient exactly what they asked for. Let anyone who wants out leave. Let diabetics furious about their diets eat all they like... So many people here say they want to return to the <tips=8>Great Hole</tips>. I'd like to take them there once and see. Would they really leap in one after another?”"
+      "en": "“Not only her. Sometimes I wonder what would happen if we gave every patient exactly what they asked for. Let anyone who wants out leave. Let diabetics furious about their diets eat all they like... So many people here say they want to return to the <tips=8>Great Hole</tips>. I'd like to take them there once and see. Would they really leap in one after another?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0246",
@@ -1625,7 +2591,17 @@
       "sj": "",
       "se": "",
       "jp": "「さあどうだろう。でも、みんな飛び込んじゃったら、私たちの仕事が楽になりすぎちゃうね」",
-      "en": "“Who knows? But if they all jumped in, our jobs would get far too easy.”"
+      "en": "“Who knows? But if they all jumped in, our jobs would get far too easy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0247",
@@ -1634,7 +2610,17 @@
       "sj": "",
       "se": "",
       "jp": "　大分酒のまわりはじめた<tips=83>美紗</tips>が笑いながらそう答えると、",
-      "en": "The alcohol had begun to take hold of <tips=83>Misa</tips>. She answered with a laugh."
+      "en": "The alcohol had begun to take hold of <tips=83>Misa</tips>. She answered with a laugh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0248",
@@ -1643,7 +2629,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「患者さんがいなくなったら、楽になるどころか失業しちゃいますよ」",
-      "en": "“If every patient disappeared, we wouldn't have easy jobs. We wouldn't have jobs at all.”"
+      "en": "“If every patient disappeared, we wouldn't have easy jobs. We wouldn't have jobs at all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0249",
@@ -1652,7 +2648,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は苦い顔で言う。",
-      "en": "<tips=92>Nurse Mizumura</tips> grimaced."
+      "en": "<tips=92>Nurse Mizumura</tips> grimaced.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0250",
@@ -1661,7 +2667,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「でも<tips=83>能見</tips>さん、いつまでここで働くつもりなんですか？」",
-      "en": "“But Ms. <tips=83>Noumi</tips>, how long are you planning to keep working there?”"
+      "en": "“But Ms. <tips=83>Noumi</tips>, how long are you planning to keep working there?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0251",
@@ -1670,7 +2686,17 @@
       "sj": "",
       "se": "",
       "jp": "　病院の職員が見ているわけでもないが、<tips=92>水村ナース</tips>は声をひそめて言う。",
-      "en": "No one from the hospital was watching, yet <tips=92>Nurse Mizumura</tips> lowered her voice."
+      "en": "No one from the hospital was watching, yet <tips=92>Nurse Mizumura</tips> lowered her voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0252",
@@ -1679,7 +2705,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「特にやめることは考えていないけど、水ちゃんはやめるつもりなの？」",
-      "en": "“I haven't thought about quitting. Are you going to leave, Mizu-chan?”"
+      "en": "“I haven't thought about quitting. Are you going to leave, Mizu-chan?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0253",
@@ -1688,7 +2724,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「どうしよっかなあって思ってて。私、<tips=17>タイプB</tips>相手の仕事向いてないような気がするんです」",
-      "en": "“I've been wondering. I don't think I'm suited to working with <tips=17>Type B</tips> people.”"
+      "en": "“I've been wondering. I don't think I'm suited to working with <tips=17>Type B</tips> people.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0254",
@@ -1697,7 +2743,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「そうかなあ？　そんなことないと思うけど。それに、ここより条件の良い職場なんかそうそうないわよ」",
-      "en": "“Really? I think you're fine. Besides, you won't find many hospitals with better conditions.”"
+      "en": "“Really? I think you're fine. Besides, you won't find many hospitals with better conditions.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0255",
@@ -1706,7 +2762,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そこ！　それが問題なんですよねえ」",
-      "en": "“Exactly! That's the problem.”"
+      "en": "“Exactly! That's the problem.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0256",
@@ -1715,7 +2781,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は腕組みをすると、",
-      "en": "<tips=92>Nurse Mizumura</tips> folded her arms."
+      "en": "<tips=92>Nurse Mizumura</tips> folded her arms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0257",
@@ -1724,7 +2800,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「でも、ここにいると、普通の医療処置をあんまりしないじゃないですか。いればいるほど、腕がなまって、看護師として潰しが効かなくなりそうな気がして……」",
-      "en": "“We hardly perform ordinary medical procedures here. The longer I stay, the rustier I'll get. I'm afraid I'll end up useless anywhere else as a nurse...”"
+      "en": "“We hardly perform ordinary medical procedures here. The longer I stay, the rustier I'll get. I'm afraid I'll end up useless anywhere else as a nurse...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0258",
@@ -1733,7 +2819,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それならC棟に行けば？　あそこなら一般科みたいな仕事も多いでしょ。給料も上がるし」",
-      "en": "“Then transfer to Building C. They do plenty of general-hospital work there, don't they? The pay's better too.”"
+      "en": "“Then transfer to Building C. They do plenty of general-hospital work there, don't they? The pay's better too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0259",
@@ -1742,7 +2838,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「いやです！　いやです！　あんなとこ。あそこの業務、メチャクチャ大変じゃないですか。朝とか挨拶すると、職員みんな死にそうな顔してますよ。それに、<tips=83>能見</tips>さんは入職のとき見学させて貰いました？　あそこの上の方の階って、保護室みたいな個室が一杯あるんですよ。その一つ一つに患者さんが拘束されてて、ずーっと喚いてガチャガチャやってるんです。拘束帯も、見たことがないようなぶっとい奴なんですよ」",
-      "en": "“No! Absolutely not. That place is awful. The workload is insane. Say good morning to the staff and every one of them looks half dead. Ms. <tips=83>Noumi</tips>, did they show you around when you joined? The upper floors are full of private rooms like seclusion rooms. One patient in restraints inside every room, screaming and rattling all day long. And the restraint belts! They're thicker than anything I've ever seen.”"
+      "en": "“No! Absolutely not. That place is awful. The workload is insane. Say good morning to the staff and every one of them looks half dead. Ms. <tips=83>Noumi</tips>, did they show you around when you joined? The upper floors are full of private rooms like seclusion rooms. One patient in restraints inside every room, screaming and rattling all day long. And the restraint belts! They're thicker than anything I've ever seen.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0260",
@@ -1751,7 +2857,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は目を丸くして、人差し指と親指でその太さを示してみせる。",
-      "en": "Eyes wide, <tips=92>Nurse Mizumura</tips> held her thumb and forefinger apart to show the thickness."
+      "en": "Eyes wide, <tips=92>Nurse Mizumura</tips> held her thumb and forefinger apart to show the thickness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0261",
@@ -1760,7 +2876,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そこに入院してるのは薬が全然効かないような患者さんばっかりなんですって。力もすごくて、普通のやつだと引きちぎっちゃうから、そんなに太くて、しかも中に金属が入ってるんだそうです。暴れたら、みんなで押さえつけたり棒で殴ったりするんですって……。あんなところではとても仕事なんか出来ません」",
-      "en": "“Apparently every patient there is completely resistant to medication. They're so strong they tear normal restraints apart, so the straps have to be that thick, with metal inside. When someone goes wild, the staff pile on to hold them down or beat them with poles... I could never work there.”"
+      "en": "“Apparently every patient there is completely resistant to medication. They're so strong they tear normal restraints apart, so the straps have to be that thick, with metal inside. When someone goes wild, the staff pile on to hold them down or beat them with poles... I could never work there.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0262",
@@ -1769,7 +2895,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は溜息をつく。",
-      "en": "She sighed."
+      "en": "She sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0263",
@@ -1778,7 +2914,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「それに知ってます？　C棟の最上階では、特に<tips=72>傾向値</tips>が高い患者さんを集めて、人体実験してるんだそうですよ？」",
-      "en": "“And have you heard? They say the top floor of Building C collects patients with especially high <tips=72>Tendency Index</tips> scores and runs experiments on them.”"
+      "en": "“And have you heard? They say the top floor of Building C collects patients with especially high <tips=72>Tendency Index</tips> scores and runs experiments on them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0264",
@@ -1787,7 +2933,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それは、ただの噂でしょう……」",
-      "en": "“That's only a rumor...”"
+      "en": "“That's only a rumor...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0265",
@@ -1796,7 +2952,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「いやー、やっててもおかしくないですよ。だって、この病院は<tips=17>タイプB</tips>のなかでも選りすぐった重症者ばっかりいるんですから。どこの国だって<tips=17>タイプB</tips>の研究は盛んでしょ？　きっと法条先生がここにいるのも、そこで実験をして新しい論文を書くためなんだわ」",
-      "en": "“Oh, I wouldn't be surprised. This hospital has the worst cases handpicked from all the <tips=17>Type B</tips> patients in the country. Every nation is researching <tips=17>Type B</tips> people, isn't it? I bet Dr. Hojo works here just so he can experiment upstairs and publish new papers.”"
+      "en": "“Oh, I wouldn't be surprised. This hospital has the worst cases handpicked from all the <tips=17>Type B</tips> patients in the country. Every nation is researching <tips=17>Type B</tips> people, isn't it? I bet Dr. Hojo works here just so he can experiment upstairs and publish new papers.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0266",
@@ -1805,7 +2971,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それはさすがに人聞きが悪い……」",
-      "en": "“That's a terrible thing to say about him...”"
+      "en": "“That's a terrible thing to say about him...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0267",
@@ -1814,7 +2990,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は苦笑する。",
-      "en": "<tips=83>Misa</tips> gave an awkward smile."
+      "en": "<tips=83>Misa</tips> gave an awkward smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0268",
@@ -1823,7 +3009,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「C棟と言えば、知ってます？　最近幽霊がよく出るんですって！　黒い服を着た、女の人の幽霊が！　どこの病院でも、こういう噂ってすぐ出来るんですね。まったく笑っちゃいます」",
-      "en": "“Speaking of Building C, have you heard about the ghost? A woman in black has been appearing all the time! Every hospital invents rumors like that, doesn't it? Honestly, it's ridiculous.”"
+      "en": "“Speaking of Building C, have you heard about the ghost? A woman in black has been appearing all the time! Every hospital invents rumors like that, doesn't it? Honestly, it's ridiculous.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0269",
@@ -1832,7 +3028,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「よっぽどストレスがたまってるのねえ」",
-      "en": "“They must be under incredible stress.”"
+      "en": "“They must be under incredible stress.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0270",
@@ -1841,7 +3047,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そうなんですよ。そもそも、私、<tips=17>タイプB</tips>の人ってあんまり好きになれません。ベテランの人はずっと一緒にいるせいか、患者さんのこと仕事じゃないみたいにすっごく大事にしてるけど……でもやっぱり異質ですよ。原因不明の病気だし、こわい気がします。<tips=83>能見</tips>さんはどうですか？」",
-      "en": "“Exactly. Honestly, I don't much like <tips=17>Type B</tips> people. Maybe the veterans have been with them so long that they cherish the patients as if it weren't even a job... But they are different. No one knows what causes the illness. They frighten me. What about you, Ms. <tips=83>Noumi</tips>?”"
+      "en": "“Exactly. Honestly, I don't much like <tips=17>Type B</tips> people. Maybe the veterans have been with them so long that they cherish the patients as if it weren't even a job... But they are different. No one knows what causes the illness. They frighten me. What about you, Ms. <tips=83>Noumi</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0271",
@@ -1850,7 +3066,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「わ、私は……ほらみんな、子供みたいで素直じゃない。病棟に行くと、<tips=83>能見</tips>さん<tips=83>能見</tips>さーんって、笑顔で寄って来るし……」",
-      "en": "“I-I... They're all so open, almost like children. When I walk onto the ward, they come running up with smiles, calling, ‘Ms. <tips=83>Noumi</tips>! Ms. <tips=83>Noumi</tips>!’...”"
+      "en": "“I-I... They're all so open, almost like children. When I walk onto the ward, they come running up with smiles, calling, ‘Ms. <tips=83>Noumi</tips>! Ms. <tips=83>Noumi</tips>!’...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0272",
@@ -1859,7 +3085,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「あー、<tips=83>能見</tips>さんも主任コースだ。きっと、患者さんに肩入れしすぎて一生この病院から出られなくなるんだわ」",
-      "en": "“Oh, you're headed down the chief-nurse road too, Ms. <tips=83>Noumi</tips>. You'll get too attached and spend the rest of your life trapped in that hospital.”"
+      "en": "“Oh, you're headed down the chief-nurse road too, Ms. <tips=83>Noumi</tips>. You'll get too attached and spend the rest of your life trapped in that hospital.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0273",
@@ -1868,7 +3104,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は、さっきより深いため息をつく。",
-      "en": "<tips=92>Nurse Mizumura</tips> sighed more deeply than before."
+      "en": "<tips=92>Nurse Mizumura</tips> sighed more deeply than before.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0274",
@@ -1877,7 +3123,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「入る前に、私友だちに言われたんですよ。こういう病棟の患者さんは何十年も入院することになるから、必要以上に情がわいたら職員も病院から出られなくなるって。<tips=83>能見</tips>さん、危ないですよ？」",
-      "en": "“Before I joined, a friend warned me. Patients on wards like ours stay for decades. Get more attached than you should, and the staff can't leave the hospital either. You're in danger, Ms. <tips=83>Noumi</tips>.”"
+      "en": "“Before I joined, a friend warned me. Patients on wards like ours stay for decades. Get more attached than you should, and the staff can't leave the hospital either. You're in danger, Ms. <tips=83>Noumi</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0275",
@@ -1886,7 +3142,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あははは、わ、私はそんなことないよ？　きっと……」",
-      "en": "“Ahahaha... I-I'm not like that. Probably...”"
+      "en": "“Ahahaha... I-I'm not like that. Probably...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0276",
@@ -1895,7 +3161,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「どうかしらねえ」",
-      "en": "“We'll see.”"
+      "en": "“We'll see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0277",
@@ -1904,7 +3180,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>はくっくっと意地悪く笑う。こう見えても、多少は酔いがまわっているのだろう。",
-      "en": "<tips=92>Nurse Mizumura</tips> chuckled wickedly. Perhaps the alcohol had reached her after all."
+      "en": "<tips=92>Nurse Mizumura</tips> chuckled wickedly. Perhaps the alcohol had reached her after all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0278",
@@ -1913,7 +3199,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「でも、確かに辞めたくなる気持ちもわかるよ。普通の病院と違って、ここは元気になって退院してゆく人がいないし、なんだかやるせない感じもするもの。でも、発症してしまった人って、もうどうやっても回復することはないのかしら？」",
-      "en": "“I do understand why you want to quit. This isn't an ordinary hospital. No one gets well and goes home. It can feel so hopeless. But once symptoms appear, is there really no way to recover?”"
+      "en": "“I do understand why you want to quit. This isn't an ordinary hospital. No one gets well and goes home. It can feel so hopeless. But once symptoms appear, is there really no way to recover?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0279",
@@ -1922,7 +3218,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「<tips=83>能見</tips>さん、知らないんですか？」",
-      "en": "“You don't know, Ms. <tips=83>Noumi</tips>?”"
+      "en": "“You don't know, Ms. <tips=83>Noumi</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-4ace68affa8e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0280",
@@ -1931,7 +3237,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「何を？」",
-      "en": "“Know what?”"
+      "en": "“Know what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0281",
@@ -1940,7 +3256,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「一時的になら、回復させる方法はあるんですよ」",
-      "en": "“There is a way, temporarily.”"
+      "en": "“There is a way, temporarily.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0282",
@@ -1949,7 +3275,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「ああ、もしかして、『<tips=45>ローズ</tips>』のこと？」",
-      "en": "“Oh. You mean <tips=45>Rose</tips>?”"
+      "en": "“Oh. You mean <tips=45>Rose</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0283",
@@ -1958,7 +3294,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そう、それです」",
-      "en": "“Yes. That.”"
+      "en": "“Yes. That.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0284",
@@ -1967,7 +3313,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それなら、学校で習ったことあるけど、実際どれくらい回復するのかしら？　たとえばうちの<tips=82>ヒロミ</tips>ちゃんみたいな子でも、発症する前の状態に戻るの？」",
-      "en": "“We learned about it in school, but how much can it really restore? Even a girl like our <tips=82>Hiromi</tips>—would she become who she was before the symptoms?”"
+      "en": "“We learned about it in school, but how much can it really restore? Even a girl like our <tips=82>Hiromi</tips>—would she become who she was before the symptoms?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0285",
@@ -1976,7 +3332,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「そうなるって話です。低下していた知能も元通りになるって話です。私も実際に見たことはないですけど」",
-      "en": "“That's what they say. Even lost intelligence comes back. I've never seen it myself.”"
+      "en": "“That's what they say. Even lost intelligence comes back. I've never seen it myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0286",
@@ -1985,7 +3351,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「とても信じられない。ある程度回復はしたとしても、そんなことが起こりうるなんて……」",
-      "en": "“I can't believe it. Some improvement, perhaps, but a complete recovery...”"
+      "en": "“I can't believe it. Some improvement, perhaps, but a complete recovery...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0287",
@@ -1994,7 +3370,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は首を横に振った。",
-      "en": "<tips=83>Misa</tips> shook her head."
+      "en": "<tips=83>Misa</tips> shook her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0288",
@@ -2003,7 +3389,17 @@
       "sj": "",
       "se": "",
       "jp": "『<tips=45>ローズ</tips>』というのは、麻薬の名前である。強烈な快楽体験をもたらすその薬は、正体不明の誰かによって家庭用製薬機向けのレシピがネットに公開されることで、犯罪組織などが手軽に量産出来るようになり、世界中で大流行した。",
-      "en": "<tips=45>Rose</tips> is a narcotic. It produces overwhelming pleasure. After an unknown person posted a recipe for home pharmaceutical machines online, criminal groups could mass-produce it with ease. The drug swept the world."
+      "en": "<tips=45>Rose</tips> is a narcotic. It produces overwhelming pleasure. After an unknown person posted a recipe for home pharmaceutical machines online, criminal groups could mass-produce it with ease. The drug swept the world.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0289",
@@ -2012,7 +3408,17 @@
       "sj": "",
       "se": "",
       "jp": "　これを<tips=17>タイプB</tips>に一定量以上投与すると、廃人同様になったような者でも発症前の人間性を取り戻すという話だ。",
-      "en": "Give a <tips=17>Type B</tips> person enough, the story went, and even someone reduced to a human shell regained the personality they had before onset."
+      "en": "Give a <tips=17>Type B</tips> person enough, the story went, and even someone reduced to a human shell regained the personality they had before onset.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0290",
@@ -2021,7 +3427,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=17>タイプB</tips>の発症によって苦しむものたちにとっては夢のような話だが、そんなに簡単なものでもない。",
-      "en": "For people suffering from <tips=17>Type B</tips> symptoms, it sounded like a dream. It was not so simple."
+      "en": "For people suffering from <tips=17>Type B</tips> symptoms, it sounded like a dream. It was not so simple.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0291",
@@ -2030,7 +3446,17 @@
       "sj": "",
       "se": "",
       "jp": "『<tips=45>ローズ</tips>』は非常に強力な依存性を持っている。耐性もつきやすく、濫用すればすぐに使用量が増大して中毒死してしまう。死なずとも廃人になる。",
-      "en": "<tips=45>Rose</tips> was fiercely addictive. Tolerance developed quickly, abuse drove the dose upward, and overdose followed. Those who lived could still be reduced to shells."
+      "en": "<tips=45>Rose</tips> was fiercely addictive. Tolerance developed quickly, abuse drove the dose upward, and overdose followed. Those who lived could still be reduced to shells.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0292",
@@ -2039,7 +3465,17 @@
       "sj": "",
       "se": "",
       "jp": "　他の麻薬と比べても極めてデメリットが大きすぎるのだ。",
-      "en": "Even beside other narcotics, the cost was extreme."
+      "en": "Even beside other narcotics, the cost was extreme.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0293",
@@ -2048,7 +3484,17 @@
       "sj": "",
       "se": "",
       "jp": "　その危険性が世間に知れ渡った現在では、完全に自制心を失った麻薬中毒者でもなければこの薬を買い求めようとはしないほどなのである。",
-      "en": "Now that the danger was widely known, almost no one sought Rose unless addiction had already stripped away every trace of restraint."
+      "en": "Now that the danger was widely known, almost no one sought Rose unless addiction had already stripped away every trace of restraint.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0294",
@@ -2057,7 +3503,17 @@
       "sj": "",
       "se": "",
       "jp": "　いくら快楽が強烈で、入手が容易でも、人をあまりにも簡単に廃人に変えてしまうようでは誰にも受け入れらない。",
-      "en": "Pleasure and easy access meant little when a drug could destroy a person so quickly."
+      "en": "Pleasure and easy access meant little when a drug could destroy a person so quickly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0295",
@@ -2066,7 +3522,17 @@
       "sj": "",
       "se": "",
       "jp": "　家庭で簡単に作れることから、犯罪組織も商材として売り出すこともないし、現在ではたまに怖い物知らずのティーンエイジャーが製造、濫用して問題になるくらいで、世の中にはほとんど出回っていない。",
-      "en": "Because anyone could make it at home, criminal groups did not even bother marketing it. Almost none circulated now. The occasional reckless teenager cooking and abusing it was the chief remaining problem."
+      "en": "Because anyone could make it at home, criminal groups did not even bother marketing it. Almost none circulated now. The occasional reckless teenager cooking and abusing it was the chief remaining problem.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0296",
@@ -2075,7 +3541,17 @@
       "sj": "",
       "se": "",
       "jp": "　医療現場でこの薬が使われることもない。モルヒネのような麻薬として有名な薬でさえ、医療機関で厳重に管理された上で限定的に使用されるものだが、<tips=45>ローズ</tips>を認可している国はおそらく存在しないだろう。",
-      "en": "Medicine did not use it either. Even famous narcotics such as morphine were administered only in limited cases under strict controls. Probably no nation had approved <tips=45>Rose</tips>."
+      "en": "Medicine did not use it either. Even famous narcotics such as morphine were administered only in limited cases under strict controls. Probably no nation had approved <tips=45>Rose</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0297",
@@ -2084,7 +3560,17 @@
       "sj": "",
       "se": "",
       "jp": "　このような曰く付きのドラッグを、大量に投与しなくては<tips=17>タイプB</tips>は回復しない。これが何を意味するのかと言うと、たとえ薬効によって一時的に正気を取り戻したとしても、そのすぐ先に重い薬物依存が待っているということだ。",
-      "en": "A <tips=17>Type B</tips> person needed a massive dose of this notorious drug to recover. Even if it restored sanity for a time, severe addiction waited immediately beyond."
+      "en": "A <tips=17>Type B</tips> person needed a massive dose of this notorious drug to recover. Even if it restored sanity for a time, severe addiction waited immediately beyond.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0298",
@@ -2093,7 +3579,17 @@
       "sj": "",
       "se": "",
       "jp": "　このような薬を、軽々しく使うことは出来ない。",
-      "en": "No one could use such a drug casually."
+      "en": "No one could use such a drug casually.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0299",
@@ -2102,7 +3598,17 @@
       "sj": "",
       "se": "",
       "jp": "　公的な機関で患者に投与したというデータも存在しない。だから、『<tips=45>ローズ</tips>』が<tips=17>タイプB</tips>に効くというのは、街の噂を前提とした、ほとんど都市伝説のようなものだ。",
-      "en": "No public institution had released data on giving it to patients. The claim that <tips=45>Rose</tips> worked on <tips=17>Type B</tips> people rested on street rumor. It was little more than an urban legend."
+      "en": "No public institution had released data on giving it to patients. The claim that <tips=45>Rose</tips> worked on <tips=17>Type B</tips> people rested on street rumor. It was little more than an urban legend.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0300",
@@ -2111,7 +3617,17 @@
       "sj": "",
       "se": "",
       "jp": "　街の麻薬中毒者を調べてこの現象を調査した医療関係者の報告でも、報告する者によって結論が異なっている。",
-      "en": "Even medical workers who studied the phenomenon among street addicts reached different conclusions."
+      "en": "Even medical workers who studied the phenomenon among street addicts reached different conclusions.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0301",
@@ -2120,7 +3636,17 @@
       "sj": "",
       "se": "",
       "jp": "　こうした事情を踏まえた上で、<tips=83>美紗</tips>は、『<tips=45>ローズ</tips>』を投与することである程度回復はしたとしても、完全に発症前の状態を取り戻すというようなことはないだろうと考えていた。<tips=17>タイプB</tips>について医者が書いた本を何冊か読んだが、そこでも、発作を繰り返すごとに<tips=17>タイプB</tips>の脳は器質的に不可逆的な変化が起きているという考えが主流だったはずだ。つまり、発作を繰り返すごとに少しずつ壊れてゆくというのである。",
-      "en": "Given all this, <tips=83>Misa</tips> believed <tips=45>Rose</tips> might bring some recovery, but never restore someone completely. Books by doctors on <tips=17>Type B</tips> illness said repeated episodes caused irreversible organic changes in the brain. Each episode damaged a <tips=17>Type B</tips> brain a little further."
+      "en": "Given all this, <tips=83>Misa</tips> believed <tips=45>Rose</tips> might bring some recovery, but never restore someone completely. Books by doctors on <tips=17>Type B</tips> illness said repeated episodes caused irreversible organic changes in the brain. Each episode damaged a <tips=17>Type B</tips> brain a little further.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0302",
@@ -2129,7 +3655,17 @@
       "sj": "",
       "se": "",
       "jp": "　それが、投薬で回復することがあり得るのだろうか？",
-      "en": "Could a drug truly repair that?"
+      "en": "Could a drug truly repair that?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0303",
@@ -2138,7 +3674,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「でも、本当にそんなことが起こりうるなら、一回くらい患者さんみんながまともになったところを見てみたいですよね。私たちはおかしくなった彼らしか知らないじゃないですか？　だから、正常な頃があったということがうまく想像出来ない」",
-      "en": "“Still, if it really works, I'd like to see all our patients sane just once. We only know them after they became ill, don't we? I can't picture any of them ever being well.”"
+      "en": "“Still, if it really works, I'd like to see all our patients sane just once. We only know them after they became ill, don't we? I can't picture any of them ever being well.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0304",
@@ -2147,7 +3693,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=92>水村ナース</tips>は溜息をつき、",
-      "en": "<tips=92>Nurse Mizumura</tips> sighed."
+      "en": "<tips=92>Nurse Mizumura</tips> sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0305",
@@ -2156,7 +3712,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それは確かに。私も患者さんのご家族と会った時とか考えるわ。患者さんのご家族はみんな少なからず正常な頃の思い出を持ってるから、どうしてもおかしいところしか知らない私たちとでは、患者さんの見え方も違うんだろうなって」",
-      "en": "“That's true. I think about it when I meet their families. Every family remembers at least a little of who the patient was before. They must see a completely different person from the one we know only through illness.”"
+      "en": "“That's true. I think about it when I meet their families. Every family remembers at least a little of who the patient was before. They must see a completely different person from the one we know only through illness.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0306",
@@ -2165,7 +3731,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>もまた溜息をつく。",
-      "en": "<tips=83>Misa</tips> sighed too."
+      "en": "<tips=83>Misa</tips> sighed too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0307",
@@ -2174,7 +3750,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「もし私だったら、<tips=45>ローズ</tips>を打って欲しいですね。耐性がついても、致死量をこえるまで打ち続けます。どんどん人間性を失いながら長く生きるよりは、たとえ薬物中毒ですぐに死ぬことになっても、正気のままでいたいです。<tips=83>能見</tips>さんもそう思いますよね？」",
-      "en": "“If it were me, I'd want <tips=45>Rose</tips>. Once I developed tolerance, I'd keep taking it until the dose killed me. Better to die quickly from addiction with my mind intact than live for years while my personality disappeared. You'd choose the same, wouldn't you, Ms. <tips=83>Noumi</tips>?”"
+      "en": "“If it were me, I'd want <tips=45>Rose</tips>. Once I developed tolerance, I'd keep taking it until the dose killed me. Better to die quickly from addiction with my mind intact than live for years while my personality disappeared. You'd choose the same, wouldn't you, Ms. <tips=83>Noumi</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0308",
@@ -2183,7 +3769,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「私は、なんとも言えないなあ。患者さんみてると、みんなニコニコしてて、それほど不幸そうにも見えないし……」",
-      "en": "“I don't know. The patients are always smiling. They don't look so terribly unhappy...”"
+      "en": "“I don't know. The patients are always smiling. They don't look so terribly unhappy...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6006c791d7ca.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0309",
@@ -2192,7 +3788,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「それは、ただの空笑で笑ってたり、認知能力が低下して悲劇が理解出来なくなったりしてるだけですよ」",
-      "en": "“They laugh at nothing. Or they've lost enough understanding that they can't recognize their own tragedy.”"
+      "en": "“They laugh at nothing. Or they've lost enough understanding that they can't recognize their own tragedy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0310",
@@ -2201,7 +3807,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「そうかなあ」",
-      "en": "“Is that all it is?”"
+      "en": "“Is that all it is?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0311",
@@ -2210,7 +3826,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は首をひねる。彼女にはどうも、そうは思えないのだ。",
-      "en": "<tips=83>Misa</tips> tilted her head. Somehow, she could not believe that."
+      "en": "<tips=83>Misa</tips> tilted her head. Somehow, she could not believe that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0312",
@@ -2219,7 +3845,17 @@
       "sj": "",
       "se": "",
       "jp": "　発症したばかりで症状が安定しない急性期の<tips=17>タイプB</tips>はみな苦しみそのものといった顔つきをしているが、発作を繰り返し慢性化し、ある程度まで人格が崩壊すると、幻覚や幻聴の氾濫した世界に生きながらも、ある種幸福な境地に達しているように感じる。",
-      "en": "Every unstable <tips=17>Type B</tips> patient in the acute stage wore the face of suffering itself. But after repeated episodes made the illness chronic and eroded the personality far enough, the patient sometimes seemed to reach a peculiar happiness, even in a world flooded with voices and visions."
+      "en": "Every unstable <tips=17>Type B</tips> patient in the acute stage wore the face of suffering itself. But after repeated episodes made the illness chronic and eroded the personality far enough, the patient sometimes seemed to reach a peculiar happiness, even in a world flooded with voices and visions.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0313",
@@ -2228,7 +3864,17 @@
       "sj": "",
       "se": "",
       "jp": "　しかしそれを口にしたら、<tips=92>水村ナース</tips>にからかわれそうなので、口には出さなかった。",
-      "en": "She kept the thought to herself. <tips=92>Nurse Mizumura</tips> would only tease her."
+      "en": "She kept the thought to herself. <tips=92>Nurse Mizumura</tips> would only tease her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0d13d239799f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0314",
@@ -2237,7 +3883,17 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「あー、もう、次の出勤したくないなあ。私、またリーダーなんですよねえ。指示受けしたくないなあ……」",
-      "en": "“Ugh, I don't want to go in next time. I'm team leader again. I hate taking all the doctors' orders...”"
+      "en": "“Ugh, I don't want to go in next time. I'm team leader again. I hate taking all the doctors' orders...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0315",
@@ -2246,7 +3902,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は考え込む<tips=83>美紗</tips>をよそに、ブツブツと愚痴を続けている。",
-      "en": "While <tips=83>Misa</tips> sat thinking, Mizumura went on muttering complaints."
+      "en": "While <tips=83>Misa</tips> sat thinking, Mizumura went on muttering complaints.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X2-2:0329",
@@ -2255,7 +3921,8 @@
       "sj": "",
       "se": "",
       "jp": "　そう遅くならないうちに二人は店を出た。<tips=92>水村ナース</tips>は<tips=9>Y地区</tips>外の実家から通っている。駅前で彼女と別れ、しかしまだ遊び足りなかった<tips=83>美紗</tips>は、またなんとなく<tips=57>滑走路通り</tips>に戻ってしまう。",
-      "en": "They left the pub before it grew too late. <tips=92>Nurse Mizumura</tips> commuted from her family home outside <tips=9>Y District</tips>, so they parted at the station. <tips=83>Misa</tips> was not ready for the night to end and somehow wandered back toward <tips=57>Runway Street</tips>."
+      "en": "They left the pub before it grew too late. <tips=92>Nurse Mizumura</tips> commuted from her family home outside <tips=9>Y District</tips>, so they parted at the station. <tips=83>Misa</tips> was not ready for the night to end and somehow wandered back toward <tips=57>Runway Street</tips>.",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "X2-2:0330",
@@ -2273,7 +3940,8 @@
       "sj": "",
       "se": "",
       "jp": "　裏通りに足を踏み入れて、二つばかり角を曲がると、もうそこは<tips=57>滑走路通り</tips>とは別の世界だった。",
-      "en": "She entered a back street and turned two corners. <tips=57>Runway Street</tips> might have belonged to another world."
+      "en": "She entered a back street and turned two corners. <tips=57>Runway Street</tips> might have belonged to another world.",
+      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
     },
     {
       "id": "X2-2:0333",
@@ -2525,7 +4193,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「何をしているんですか」",
-      "en": "“What are you doing?”"
+      "en": "“What are you doing?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0361",
@@ -2534,7 +4208,13 @@
       "sj": "",
       "se": "",
       "jp": "　背後から聞こえたその落ち着いた声には聞き覚えがある。そして振り返ると、やはり思った通りの、そして他の誰かと見間違いようのない人物が立っていた。",
-      "en": "She knew the calm voice behind her. When she turned, the man standing there was exactly whom she expected—and impossible to mistake for anyone else."
+      "en": "She knew the calm voice behind her. When she turned, the man standing there was exactly whom she expected—and impossible to mistake for anyone else.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0362",
@@ -2543,7 +4223,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=5>太刀川</tips>先生……」",
-      "en": "“Dr. <tips=5>Tachikawa</tips>...”"
+      "en": "“Dr. <tips=5>Tachikawa</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0363",
@@ -2552,7 +4238,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう、そこに杖をついて立つ長身の人物は、医師の<tips=5>太刀川</tips>であった。",
-      "en": "The tall man leaning on his cane was indeed Dr. <tips=5>Tachikawa</tips>."
+      "en": "The tall man leaning on his cane was indeed Dr. <tips=5>Tachikawa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0364",
@@ -2561,7 +4253,13 @@
       "sj": "",
       "se": "",
       "jp": "　白衣のかわりに真っ黒なジャケットと真っ黒な帽子をかぶっている。そして目には、こんな暗い夜だというのにやはり黒いサングラスをかけている。",
-      "en": "A pitch-black jacket and hat had replaced his white coat. Despite the darkness, the same black sunglasses covered his eyes."
+      "en": "A pitch-black jacket and hat had replaced his white coat. Despite the darkness, the same black sunglasses covered his eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0365",
@@ -2570,7 +4268,13 @@
       "sj": "",
       "se": "",
       "jp": "（不便だろうに、一体、どんな<tips=77>特質変異</tips>なのかしら……）",
-      "en": "(They must be terribly inconvenient. What sort of <tips=77>Trait Mutation</tips> is he hiding...?)"
+      "en": "(They must be terribly inconvenient. What sort of <tips=77>Trait Mutation</tips> is he hiding...?)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0366",
@@ -2579,7 +4283,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はふとそんなことを思った。",
-      "en": "The thought drifted through <tips=83>Misa</tips>'s mind."
+      "en": "The thought drifted through <tips=83>Misa</tips>'s mind.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0367",
@@ -2588,7 +4298,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「これは、フジワラ君じゃないですか。あまり調子がよくないみたいですね」",
-      "en": "“Why, Fujiwara. You do not appear to be well.”"
+      "en": "“Why, Fujiwara. You do not appear to be well.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0368",
@@ -2597,7 +4313,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は<tips=83>美紗</tips>の方をチラとも見ずに、相手の<tips=17>タイプB</tips>少年の顔だけを見ながらそう言った。けして職員の顔は見ないのに、患者の顔はこんなにすんなりと見つめるのか。",
-      "en": "<tips=5>Tachikawa</tips> never glanced at <tips=83>Misa</tips>. He looked only at the <tips=17>Type B</tips> boy. He refused to meet a colleague's eyes, yet faced a patient without hesitation."
+      "en": "<tips=5>Tachikawa</tips> never glanced at <tips=83>Misa</tips>. He looked only at the <tips=17>Type B</tips> boy. He refused to meet a colleague's eyes, yet faced a patient without hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0369",
@@ -2606,7 +4328,13 @@
       "sj": "",
       "se": "",
       "jp": "「あ、先生！　こんばんは。今夜は本当に月が綺麗ですね！」",
-      "en": "“Oh, Doctor! Good evening. The moon is truly beautiful tonight!”"
+      "en": "“Oh, Doctor! Good evening. The moon is truly beautiful tonight!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0370",
@@ -2615,7 +4343,13 @@
       "sj": "",
       "se": "",
       "jp": "　少年はだらしのない笑顔を浮かべる。",
-      "en": "A loose, vacant smile spread across the boy's face."
+      "en": "A loose, vacant smile spread across the boy's face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0371",
@@ -2624,7 +4358,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はつい空を見上げたが、どんよりと曇った漆黒の空があるだけだった。",
-      "en": "<tips=83>Misa</tips> looked up despite herself. Only a black sky heavy with clouds hung above them."
+      "en": "<tips=83>Misa</tips> looked up despite herself. Only a black sky heavy with clouds hung above them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0372",
@@ -2633,7 +4373,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ちょっと、腕を出してください」",
-      "en": "“Your arm, please.”"
+      "en": "“Your arm, please.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0373",
@@ -2642,7 +4388,13 @@
       "sj": "",
       "se": "",
       "jp": "　言うと、少年は素直に右腕を差し出す。",
-      "en": "The boy obediently held out his right arm."
+      "en": "The boy obediently held out his right arm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0374",
@@ -2651,7 +4403,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は手にした大きな黒い革の鞄をごそごそとあさって、中から注射器を取り出すと、その針を、熟練の手技で少年の静脈に突き刺した。",
-      "en": "<tips=5>Tachikawa</tips> rummaged through his large black leather bag, produced a syringe, and slipped the needle expertly into the boy's vein."
+      "en": "<tips=5>Tachikawa</tips> rummaged through his large black leather bag, produced a syringe, and slipped the needle expertly into the boy's vein.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0375",
@@ -2660,7 +4418,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「もう家に帰りなさい。こういうときは外に出たりしたらいけないと言ったでしょう？」",
-      "en": "“Go home now. I told you not to go out when you are in this condition, did I not?”"
+      "en": "“Go home now. I told you not to go out when you are in this condition, did I not?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0376",
@@ -2669,7 +4433,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい。すみませんでした」",
-      "en": "“Yes. I’m sorry.”"
+      "en": "“Yes. I’m sorry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0377",
@@ -2678,7 +4448,13 @@
       "sj": "",
       "se": "",
       "jp": "　少年は本当に驚くほど<tips=5>太刀川</tips>に対して素直で、ぺこりと頭を下げるとその場を辞した。",
-      "en": "The boy obeyed <tips=5>Tachikawa</tips> with astonishing meekness. He bowed and left."
+      "en": "The boy obeyed <tips=5>Tachikawa</tips> with astonishing meekness. He bowed and left.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0378",
@@ -2687,7 +4463,13 @@
       "sj": "",
       "se": "",
       "jp": "（一体どういうことなんだろう？）",
-      "en": "(What on earth is going on?)"
+      "en": "(What on earth is going on?)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0379",
@@ -2696,7 +4478,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>が驚いて医師の顔を見つめると、",
-      "en": "<tips=83>Misa</tips> stared at the doctor's face."
+      "en": "<tips=83>Misa</tips> stared at the doctor's face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0380",
@@ -2705,7 +4493,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「彼は私の患者なんです」",
-      "en": "“He is one of my patients.”"
+      "en": "“He is one of my patients.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0381",
@@ -2714,7 +4508,13 @@
       "sj": "",
       "se": "",
       "jp": "　何も問うてはいないのに、その漆黒の衣で身を固めた名医はそっぽを向いたまま返答をする。",
-      "en": "She had asked nothing, yet the great doctor dressed head to toe in black answered while still facing away."
+      "en": "She had asked nothing, yet the great doctor dressed head to toe in black answered while still facing away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0382",
@@ -2723,7 +4523,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「暇な時は、このあたりをブラブラしてね、診察なんかをしているんですよ」",
-      "en": "“When I have time, I walk through this neighborhood and see patients.”"
+      "en": "“When I have time, I walk through this neighborhood and see patients.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0383",
@@ -2732,7 +4538,13 @@
       "sj": "",
       "se": "",
       "jp": "（暇な時なんか、とてもあるとは思えないけど……）",
-      "en": "(As if he ever has time...)"
+      "en": "(As if he ever has time...)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0384",
@@ -2741,7 +4553,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は誰よりも早く病院に来て、誰よりも多くの患者を診て、誰よりも遅く帰る。暇な時間などあるようには思えない。それとも、独身だと時間を持てあますのだろうか？　そうだとしても、夜の街をうろうろして<tips=17>タイプB</tips>を探し求めて診察するなど、酔狂と呼ぶにも程がある。正気の沙汰とは思えない。",
-      "en": "<tips=5>Tachikawa</tips> arrived before anyone, saw more patients than anyone, and left after everyone. How could he have free time? Perhaps bachelors simply had too much of it. Even so, roaming the streets at night in search of <tips=17>Type B</tips> people to examine went far beyond eccentricity. It was madness."
+      "en": "<tips=5>Tachikawa</tips> arrived before anyone, saw more patients than anyone, and left after everyone. How could he have free time? Perhaps bachelors simply had too much of it. Even so, roaming the streets at night in search of <tips=17>Type B</tips> people to examine went far beyond eccentricity. It was madness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0385",
@@ -2750,7 +4568,13 @@
       "sj": "",
       "se": "",
       "jp": "（一体どれだけ仕事が、そして患者さんが好きなのかしら。病棟の先輩ナースたちも相当だと思っていたけれど、この人はそれ以上だわ）",
-      "en": "(How much can one man love his work—and his patients? I thought the veteran nurses were devoted, but he's beyond all of them.)"
+      "en": "(How much can one man love his work—and his patients? I thought the veteran nurses were devoted, but he's beyond all of them.)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0386",
@@ -2759,7 +4583,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>はほとんど目の前がクラクラとするような思いだった。",
-      "en": "<tips=83>Misa</tips> almost felt dizzy."
+      "en": "<tips=83>Misa</tips> almost felt dizzy.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0387",
@@ -2768,7 +4598,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「<tips=83>能見</tips>さん」",
-      "en": "“Ms. <tips=83>Noumi</tips>.”"
+      "en": "“Ms. <tips=83>Noumi</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0388",
@@ -2777,7 +4613,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「は、はい！」",
-      "en": "“Y-yes!”"
+      "en": "“Y-yes!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0389",
@@ -2786,7 +4632,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「これから一つ診察する場所があるのですが、見学しませんか？」",
-      "en": "“I have one more place to visit tonight. Would you like to observe?”"
+      "en": "“I have one more place to visit tonight. Would you like to observe?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0390",
@@ -2795,7 +4651,17 @@
       "sj": "",
       "se": "",
       "jp": "「は、はい！」",
-      "en": "“Y-yes!”"
+      "en": "“Y-yes!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0392",
@@ -2930,7 +4796,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ふむ」",
-      "en": "“Hmm.”"
+      "en": "“Hmm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0407",
@@ -2939,7 +4811,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は<tips=83>美紗</tips>を見て、妙な形に口を歪める。それは、いつも表情のないポーカーフェイスである<tips=5>太刀川</tips>にしては珍しい変化であった。",
-      "en": "He looked at <tips=83>Misa</tips> and twisted his mouth into a peculiar shape. On the normally expressionless <tips=5>Tachikawa</tips>, it was a startling change."
+      "en": "He looked at <tips=83>Misa</tips> and twisted his mouth into a peculiar shape. On the normally expressionless <tips=5>Tachikawa</tips>, it was a startling change.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0408",
@@ -2948,7 +4826,13 @@
       "sj": "",
       "se": "",
       "jp": "（私、こんな表情をされるほど変な顔をしていたのかしら！）",
-      "en": "(Was I making such an awful face that even he reacted?)"
+      "en": "(Was I making such an awful face that even he reacted?)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0409",
@@ -2957,7 +4841,13 @@
       "sj": "",
       "se": "",
       "jp": "　半分パニックになりながら、<tips=83>美紗</tips>は、",
-      "en": "Half panicked, <tips=83>Misa</tips> blurted:"
+      "en": "Half panicked, <tips=83>Misa</tips> blurted:",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0410",
@@ -2966,7 +4856,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「さ、さっきは、助けてくれてありがとうございました」",
-      "en": "“Th-thank you for helping me before.”"
+      "en": "“Th-thank you for helping me before.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0411",
@@ -2975,7 +4875,17 @@
       "sj": "",
       "se": "",
       "jp": "　と、完全にタイミングが遅れてしまった感謝の言葉を述べ、頭を下げた。",
-      "en": "The thanks came hopelessly late, but at last she said it and bowed."
+      "en": "The thanks came hopelessly late, but at last she said it and bowed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0412",
@@ -2984,7 +4894,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>はそんな彼女を無言で見つめる。緊張しながら次の言葉を待つ<tips=83>美紗</tips>には、その沈黙はあまりにも長く感じられた。",
-      "en": "<tips=5>Tachikawa</tips> regarded her in silence. <tips=83>Misa</tips> waited tensely for his answer, and the pause seemed endless."
+      "en": "<tips=5>Tachikawa</tips> regarded her in silence. <tips=83>Misa</tips> waited tensely for his answer, and the pause seemed endless.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0413",
@@ -2993,7 +4913,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は結局何も言わず、",
-      "en": "In the end, <tips=5>Tachikawa</tips> said nothing."
+      "en": "In the end, <tips=5>Tachikawa</tips> said nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0414",
@@ -3002,7 +4932,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ここが、今夜の診察所です」",
-      "en": "“This is tonight's clinic.”"
+      "en": "“This is tonight's clinic.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0415",
@@ -3011,7 +4951,17 @@
       "sj": "",
       "se": "",
       "jp": "　ステッキを上げて、背後の児童養護施設を<tips=83>美紗</tips>に示した。",
-      "en": "He raised his cane and pointed out the children's home behind him to <tips=83>Misa</tips>."
+      "en": "He raised his cane and pointed out the children's home behind him to <tips=83>Misa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0428",
@@ -3020,7 +4970,14 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ここは捨て子が多い街です。ノーマルも<tips=16>タイプA</tips>も居ますが、一番多いのは<tips=17>タイプB</tips>ですね。この街で生まれた子供だけでなく、よその地域からも捨てに来ているらしいです。何しろ、<tips=9>Y地区</tips>はミュータントが多いことで知られていますからね。この街に捨てれば、仲間が多くて幸せに暮らせると考えるのかもしれません」",
-      "en": "“Many children are abandoned in this City. Some are Normal and some <tips=16>Type A</tips>, but most are <tips=17>Type B</tips>. Apparently, parents bring children from outside the City to abandon them here as well. <tips=9>Y District</tips> is known for its mutants. Perhaps they imagine their child will find plenty of companions and live happily.”"
+      "en": "“Many children are abandoned in this City. Some are Normal and some <tips=16>Type A</tips>, but most are <tips=17>Type B</tips>. Apparently, parents bring children from outside the City to abandon them here as well. <tips=9>Y District</tips> is known for its mutants. Perhaps they imagine their child will find plenty of companions and live happily.”",
+      "bg": "assets/vn/backgrounds/bg-4dbcde7f5c0f.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0429",
@@ -3029,7 +4986,13 @@
       "sj": "",
       "se": "",
       "jp": "　鞄の中から診察道具を取り出し、施設職員の用意してくれた机の上に並べながら<tips=5>太刀川</tips>は説明する。",
-      "en": "As he explained, <tips=5>Tachikawa</tips> took instruments from his bag and arranged them on a desk prepared by the staff."
+      "en": "As he explained, <tips=5>Tachikawa</tips> took instruments from his bag and arranged them on a desk prepared by the staff.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0430",
@@ -3038,7 +5001,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あ、手伝います！」",
-      "en": "“I'll help!”"
+      "en": "“I'll help!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0431",
@@ -3047,7 +5020,17 @@
       "sj": "",
       "se": "",
       "jp": "　ぼんやり立ったまま話に耳を傾けていた<tips=83>美紗</tips>は、我に返ってそう申し出たが、<tips=5>太刀川</tips>は首を横に振る。",
-      "en": "<tips=83>Misa</tips> had been listening in a daze. She came to herself and offered, but <tips=5>Tachikawa</tips> shook his head."
+      "en": "<tips=83>Misa</tips> had been listening in a daze. She came to herself and offered, but <tips=5>Tachikawa</tips> shook his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0432",
@@ -3056,7 +5039,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「今日は見学してくれればよいのです。こうした場所の患者たちを見るのも仕事の役に立つかもしれません」",
-      "en": "“You need only observe today. Seeing patients in a setting like this may prove useful in your work.”"
+      "en": "“You need only observe today. Seeing patients in a setting like this may prove useful in your work.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0433",
@@ -3065,7 +5058,17 @@
       "sj": "",
       "se": "",
       "jp": "　一通り道具を並べ終えると、最後にカルテのファイルを取り出し、<tips=83>美紗</tips>に手渡した。",
-      "en": "Once the instruments were arranged, he took out a file of charts and handed it to <tips=83>Misa</tips>."
+      "en": "Once the instruments were arranged, he took out a file of charts and handed it to <tips=83>Misa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0434",
@@ -3074,7 +5077,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「子供が入って来たら名前を言うのでその子のカルテを渡してください。あなたの今日の仕事はそれだけです」",
-      "en": "“I will give you each child's name as they enter. Hand me the corresponding chart. That is your only task today.”"
+      "en": "“I will give you each child's name as they enter. Hand me the corresponding chart. That is your only task today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0435",
@@ -3083,7 +5096,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう告げると<tips=5>太刀川</tips>は若い女性職員を呼び、子供を一人ずつ部屋に入れるよう伝えた。",
-      "en": "Then <tips=5>Tachikawa</tips> called a young woman on staff and asked her to bring the children in one at a time."
+      "en": "Then <tips=5>Tachikawa</tips> called a young woman on staff and asked her to bring the children in one at a time.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0437",
@@ -3092,7 +5115,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「今日は十人くらいみましょう。状態のよくない子から入れてください」",
-      "en": "“We will see about ten children. Send those in the poorest condition first.”"
+      "en": "“We will see about ten children. Send those in the poorest condition first.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0438",
@@ -3101,7 +5130,13 @@
       "sj": "",
       "se": "",
       "jp": "「今ちょっと、寝る前のお祈りの時間でして……」",
-      "en": "“They're saying their bedtime prayers just now...”"
+      "en": "“They're saying their bedtime prayers just now...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0439",
@@ -3110,7 +5145,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ああ、結構。それが終わってからにしてください」",
-      "en": "“That is fine. Wait until they finish.”"
+      "en": "“That is fine. Wait until they finish.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0440",
@@ -3119,7 +5160,13 @@
       "sj": "",
       "se": "",
       "jp": "　職員は礼をして、部屋を出て行く。そしてすぐに戻ってくると、",
-      "en": "The staff member bowed and left. She returned almost at once."
+      "en": "The staff member bowed and left. She returned almost at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0441",
@@ -3128,7 +5175,13 @@
       "sj": "",
       "se": "",
       "jp": "「インスタントで恥ずかしいのですが」",
-      "en": "“I'm sorry it's only instant.”"
+      "en": "“I'm sorry it's only instant.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0442",
@@ -3137,7 +5190,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って、二人分のコーヒーを置いていった。",
-      "en": "She set down two cups of coffee."
+      "en": "She set down two cups of coffee.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0443",
@@ -3146,7 +5205,13 @@
       "sj": "",
       "se": "",
       "jp": "　この感じからすると、<tips=5>太刀川</tips>がここで診察を行うのは一度や二度ではないようだ。",
-      "en": "From the ease of the reception, <tips=5>Tachikawa</tips> had plainly held clinics here many times before."
+      "en": "From the ease of the reception, <tips=5>Tachikawa</tips> had plainly held clinics here many times before.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0444",
@@ -3155,7 +5220,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は早速コーヒーに手を付ける。<tips=83>美紗</tips>も同じように手を伸ばし、そして落ち着かぬままキョロキョロと視線を動かす。",
-      "en": "<tips=5>Tachikawa</tips> immediately drank his coffee. <tips=83>Misa</tips> reached for hers, glancing restlessly around the room."
+      "en": "<tips=5>Tachikawa</tips> immediately drank his coffee. <tips=83>Misa</tips> reached for hers, glancing restlessly around the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0445",
@@ -3164,7 +5235,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこは普段は応接室として使われているらしい。ソファーやローテーブルは診察がしやすいように部屋の隅に追いやられ、かわりに子供を座らせるためのパイプ椅子を部屋の中央に置いている。",
-      "en": "It was normally a reception room. The sofas and low table had been pushed into a corner for the clinic, with a folding chair for the children in the center."
+      "en": "It was normally a reception room. The sofas and low table had been pushed into a corner for the clinic, with a folding chair for the children in the center.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0446",
@@ -3173,7 +5250,13 @@
       "sj": "",
       "se": "",
       "jp": "　壁際の棚の上には、子供が作ったらしい、折り紙や紙粘土細工が飾られており、職員と子供たちがにこやかな顔で写る集合写真などもあった。",
-      "en": "A shelf displayed origami and papier-mâché figures made by the children. Group photographs showed children and staff smiling together."
+      "en": "A shelf displayed origami and papier-mâché figures made by the children. Group photographs showed children and staff smiling together.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0447",
@@ -3182,7 +5265,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>はここで無料で子供たちを診ているそうだ。<tips=83>美紗</tips>は彼がこんなところで慈善活動を行っているということに、イメージと違うような、むしろ逆にしっくり来るような、どっちつかずの印象を持った。",
-      "en": "<tips=5>Tachikawa</tips> apparently treated the children without charge. The charity seemed unlike the man <tips=83>Misa</tips> knew and, at the same time, perfectly in character. She could not decide which impression was true."
+      "en": "<tips=5>Tachikawa</tips> apparently treated the children without charge. The charity seemed unlike the man <tips=83>Misa</tips> knew and, at the same time, perfectly in character. She could not decide which impression was true.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0448",
@@ -3191,7 +5280,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「褒められたことではないですが、<tips=17>タイプB</tips>の子供をここに捨てるのは、なかなか理にかなっています」",
-      "en": "“It deserves no praise, but abandoning a <tips=17>Type B</tips> child here is quite rational.”"
+      "en": "“It deserves no praise, but abandoning a <tips=17>Type B</tips> child here is quite rational.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0449",
@@ -3200,7 +5295,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>はうつむき加減でコーヒーを啜りながら先ほどの話の続きをする。",
-      "en": "Looking down into his coffee, <tips=5>Tachikawa</tips> resumed his earlier explanation."
+      "en": "Looking down into his coffee, <tips=5>Tachikawa</tips> resumed his earlier explanation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0450",
@@ -3209,7 +5310,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ここでは<tips=17>タイプＢ</tips>だからというだけで差別されることはありませんし、彼らのための仕事もたくさんあります。朝の稲荷神社の方に行ったことがありますか？　あの辺りではよく斡旋業者が大声を張り上げていて、日雇いの肉体労働者をトラックに乗せています。<tips=17>タイプB</tips>の方が多いようですね。発症している方も見えます。ノルマ方式の作業だと、<tips=17>タイプB</tips>の方は相当稼ぐそうですよ。女性だったらもっと沢山稼ぐことが出来ます。<tips=9>Y地区</tips>にはその手の仕事は多いですからね。症状が重くなってしまうとなかなか仕事もないようですが。それでも<tips=9>Y地区</tips>は、<tips=17>タイプB</tips>に限らず、マイノリティ全般に優しい町だと言えるでしょう」",
-      "en": "“Here, no one will discriminate against them merely for being <tips=17>Type B</tips>, and plenty of work is available. Have you visited the area near Inari Shrine in the morning? Labor brokers shout for workers and load day laborers into trucks. Many seem to be <tips=17>Type B</tips>. Some are visibly symptomatic. On quota work, I am told that <tips=17>Type B</tips> laborers can earn a considerable sum. Women can earn more still. <tips=9>Y District</tips> offers many jobs of that kind. Once the symptoms grow severe, even here there is little work. Nevertheless, one might call <tips=9>Y District</tips> a City kind to minorities in general, not only to <tips=17>Type B</tips> people.”"
+      "en": "“Here, no one will discriminate against them merely for being <tips=17>Type B</tips>, and plenty of work is available. Have you visited the area near Inari Shrine in the morning? Labor brokers shout for workers and load day laborers into trucks. Many seem to be <tips=17>Type B</tips>. Some are visibly symptomatic. On quota work, I am told that <tips=17>Type B</tips> laborers can earn a considerable sum. Women can earn more still. <tips=9>Y District</tips> offers many jobs of that kind. Once the symptoms grow severe, even here there is little work. Nevertheless, one might call <tips=9>Y District</tips> a City kind to minorities in general, not only to <tips=17>Type B</tips> people.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0451",
@@ -3218,7 +5325,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>にはあまり幸福な将来にも、優しい社会にも聞こえなかったが、太刀川は皮肉や冗談のつもりで言っているわけでもないようだ。",
-      "en": "To <tips=83>Misa</tips>, it sounded neither like a happy future nor a kind society. Tachikawa appeared to intend no irony."
+      "en": "To <tips=83>Misa</tips>, it sounded neither like a happy future nor a kind society. Tachikawa appeared to intend no irony.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0452",
@@ -3227,7 +5340,13 @@
       "sj": "",
       "se": "",
       "jp": "　自分とは価値の基準が大分異なっていて、そして、<tips=5>太刀川</tips>のそれの方がシビアで現実的であるような気がして、訳もなく恥ずかしくなった。",
-      "en": "His values seemed far removed from hers. <tips=5>Tachikawa</tips>'s were harsher and more realistic; beside them, her own made her ashamed for reasons she could not name."
+      "en": "His values seemed far removed from hers. <tips=5>Tachikawa</tips>'s were harsher and more realistic; beside them, her own made her ashamed for reasons she could not name.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0453",
@@ -3236,7 +5355,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「どうして、<tips=9>Y地区</tips>には<tips=17>タイプB</tips>が多いのですか？」",
-      "en": "“Why does <tips=9>Y District</tips> have so many <tips=17>Type B</tips> people?”"
+      "en": "“Why does <tips=9>Y District</tips> have so many <tips=17>Type B</tips> people?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0454",
@@ -3245,7 +5374,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「元々、この街自体が、基地の撤去後の野原に世間のあぶれものが集まって出来たという経緯もあるのでしょうが、それだけでもないでしょう。<tips=17>タイプB</tips>は<tips=8>グレートホール</tips>の側を好むという統計があります。さらに、<tips=8>グレートホール</tips>の近くでは<tips=17>タイプB</tips>の出生率があがり、その程度を示すアウラー指数も他の地域より高くなる傾向があり、発症率も高いです。<tips=16>タイプA</tips>も同様です」",
-      "en": "“Partly, perhaps, because the City itself began when society's outcasts gathered on the empty land after the base was removed. That is not the whole reason. Statistics show that <tips=17>Type B</tips> people prefer to live near the <tips=8>Great Hole</tips>. Near the <tips=8>Great Hole</tips>, more <tips=17>Type B</tips> children are born, Aura Index values tend to be higher, and symptoms occur more often. The same is true of <tips=16>Type A</tips> people.”"
+      "en": "“Partly, perhaps, because the City itself began when society's outcasts gathered on the empty land after the base was removed. That is not the whole reason. Statistics show that <tips=17>Type B</tips> people prefer to live near the <tips=8>Great Hole</tips>. Near the <tips=8>Great Hole</tips>, more <tips=17>Type B</tips> children are born, Aura Index values tend to be higher, and symptoms occur more often. The same is true of <tips=16>Type A</tips> people.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0455",
@@ -3254,7 +5393,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それは知っています。ミュータントと<tips=8>グレートホール</tips>に、何か関係性があるんでしょうか？」",
-      "en": "“I know. Is there some connection between mutants and the <tips=8>Great Hole</tips>?”"
+      "en": "“I know. Is there some connection between mutants and the <tips=8>Great Hole</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0456",
@@ -3263,7 +5412,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「直接的な関係性は見つかっていません。そもそも、グレートホールはただの深い穴です。探索機が何度も下ろされて、それ以外の何物でもないことははっきりしています。ミュータントと何か関係があるとすれば、<tips=8>グレートホール</tips>につきものの周辺の汚染物質でしょうね」",
-      "en": "“No direct connection has been found. The Great Hole is, fundamentally, only a deep hole. Probes have been lowered into it many times, and it is plainly nothing else. If mutants are connected to anything associated with the <tips=8>Great Hole</tips>, the likely cause is the contamination found around it.”"
+      "en": "“No direct connection has been found. The Great Hole is, fundamentally, only a deep hole. Probes have been lowered into it many times, and it is plainly nothing else. If mutants are connected to anything associated with the <tips=8>Great Hole</tips>, the likely cause is the contamination found around it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0457",
@@ -3272,7 +5431,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「患者さんの妄想に、よく<tips=8>グレートホール</tips>が出て来るようなのですが……」",
-      "en": "“The <tips=8>Great Hole</tips> appears very often in our patients' delusions...”"
+      "en": "“The <tips=8>Great Hole</tips> appears very often in our patients' delusions...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0458",
@@ -3281,7 +5450,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「世間ではまだまだミステリアスなものとして認識されているようですし、雄大で恐ろしいイメージもありますから、患者からすれば格好の妄想の材料なのでしょう。他には何もないと思いますよ」",
-      "en": "“The public still considers it mysterious, and its image is vast and frightening. It is ideal material for delusion. I do not believe there is anything more.”"
+      "en": "“The public still considers it mysterious, and its image is vast and frightening. It is ideal material for delusion. I do not believe there is anything more.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0459",
@@ -3290,7 +5469,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>は何かもっと別の、科学とはまた違う繋がりが、患者と<tips=8>グレートホール</tips>の間にあるような気がしたが、それを口にすると馬鹿にされそうで言えなかった。",
-      "en": "<tips=83>Misa</tips> felt that some other bond, something beyond science, joined the patients to the <tips=8>Great Hole</tips>. She kept quiet, certain he would think her foolish."
+      "en": "<tips=83>Misa</tips> felt that some other bond, something beyond science, joined the patients to the <tips=8>Great Hole</tips>. She kept quiet, certain he would think her foolish.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0460",
@@ -3299,7 +5488,17 @@
       "sj": "",
       "se": "",
       "jp": "　幽霊とか、占いとか、そういったものも好きだが、普段は恥ずかしくてそのことについて語れないのと一緒だ。",
-      "en": "She liked ghosts and fortune-telling too, but embarrassment kept her from speaking of them. This was the same."
+      "en": "She liked ghosts and fortune-telling too, but embarrassment kept her from speaking of them. This was the same.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0461",
@@ -3308,7 +5507,17 @@
       "sj": "",
       "se": "",
       "jp": "　こういった自分の感覚的な考え方は、医療従事者として似つかわしくないような気もする。",
-      "en": "Such intuitive thinking sometimes seemed unbecoming in a medical professional."
+      "en": "Such intuitive thinking sometimes seemed unbecoming in a medical professional.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0462",
@@ -3317,7 +5526,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「うちの病院がここに建てられたのも、<tips=8>グレートホール</tips>の影響を考えてのことなのでしょうか」",
-      "en": "“Was our hospital built here because of the <tips=8>Great Hole</tips>'s effects?”"
+      "en": "“Was our hospital built here because of the <tips=8>Great Hole</tips>'s effects?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0463",
@@ -3326,7 +5545,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「それは単に、他に建てる場所がなかったからですよ。純粋に治療のことだけを考えたら、<tips=8>グレートホール</tips>から遠い方がいいに決まってます」",
-      "en": "“No. There was simply nowhere else to build it. From a purely medical perspective, farther from the <tips=8>Great Hole</tips> would obviously be better.”"
+      "en": "“No. There was simply nowhere else to build it. From a purely medical perspective, farther from the <tips=8>Great Hole</tips> would obviously be better.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0465",
@@ -3335,7 +5564,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>のカップが空になる頃、最初の患者が入って来た。",
-      "en": "As <tips=5>Tachikawa</tips> finished his coffee, the first patient entered."
+      "en": "As <tips=5>Tachikawa</tips> finished his coffee, the first patient entered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0466",
@@ -3344,7 +5579,13 @@
       "sj": "",
       "se": "",
       "jp": "　六、七才くらいの活発そうな少女で、顔やキャミソールからはみ出した首筋や肩が真っ黒に日焼けしている。顔には大きなやけどのあとがあり、笑うと、白い八重歯がさわやかに映えた。そしてその目は金色である。",
-      "en": "A lively girl of six or seven came in. Her face, neck, and bare shoulders were tanned almost black. A large burn scar crossed her face; when she smiled, her little white fang flashed brightly against it. Her eyes were gold."
+      "en": "A lively girl of six or seven came in. Her face, neck, and bare shoulders were tanned almost black. A large burn scar crossed her face; when she smiled, her little white fang flashed brightly against it. Her eyes were gold.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0467",
@@ -3353,7 +5594,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「三井遙香ちゃん」",
-      "en": "“Haruka Mitsui.”"
+      "en": "“Haruka Mitsui.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0468",
@@ -3362,7 +5609,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい！」",
-      "en": "“Yes!”"
+      "en": "“Yes!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0469",
@@ -3371,7 +5624,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>の問いに、少女は即座に大きな声で返事をする。<tips=83>美紗</tips>はアルファベット順に並べられたカルテから「Ｈａｒｕｋａ　Mｉｔｓｕｉ」と書かれたファイルを探し出して、<tips=5>太刀川</tips>の脇の机に置く。",
-      "en": "The girl answered <tips=5>Tachikawa</tips> at once, her voice loud and clear. From the alphabetized charts, <tips=83>Misa</tips> found the file marked “Haruka Mitsui” and placed it on the desk beside <tips=5>Tachikawa</tips>."
+      "en": "The girl answered <tips=5>Tachikawa</tips> at once, her voice loud and clear. From the alphabetized charts, <tips=83>Misa</tips> found the file marked “Haruka Mitsui” and placed it on the desk beside <tips=5>Tachikawa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0470",
@@ -3380,7 +5639,13 @@
       "sj": "",
       "se": "",
       "jp": "　そのままカルテに書かれた文章を読むと、少女は発症はしていないが、<tips=95>金眼</tips>があらわれやすく、それによる身体能力の向上度も高い。本人はそれを自覚しておらず、たびたび問題行動を起こすらしい。",
-      "en": "The chart said the girl's symptoms had not manifested, but the <tips=95>Golden-Eye state</tips> appeared easily and greatly increased her physical abilities. She had no awareness of the change and often caused trouble."
+      "en": "The chart said the girl's symptoms had not manifested, but the <tips=95>Golden-Eye state</tips> appeared easily and greatly increased her physical abilities. She had no awareness of the change and often caused trouble.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0471",
@@ -3389,7 +5654,13 @@
       "sj": "",
       "se": "",
       "jp": "　こんな少女も、将来は不幸になってしまうのだろうかと<tips=83>美紗</tips>が暗い気持ちになっていると、",
-      "en": "Would this little girl also grow into an unhappy life? The thought darkened <tips=83>Misa</tips>'s mood."
+      "en": "Would this little girl also grow into an unhappy life? The thought darkened <tips=83>Misa</tips>'s mood.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0472",
@@ -3398,7 +5669,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「じゃあ、その椅子に座って……」",
-      "en": "“Now, sit in that chair...”"
+      "en": "“Now, sit in that chair...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0473",
@@ -3407,7 +5684,13 @@
       "sj": "",
       "se": "",
       "jp": "　少女は職員が座るよう指示したのもきかず、笑顔のままタタタと彼に駆け寄ると<tips=5>太刀川</tips>の身体にしがみついた。",
-      "en": "Ignoring the staff member's instruction, the girl scampered to <tips=5>Tachikawa</tips> with a smile and threw her arms around him."
+      "en": "Ignoring the staff member's instruction, the girl scampered to <tips=5>Tachikawa</tips> with a smile and threw her arms around him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0474",
@@ -3416,7 +5699,13 @@
       "sj": "",
       "se": "",
       "jp": "「せんせいっ、大好きぃっ！」",
-      "en": "“Doctor! I love you!”"
+      "en": "“Doctor! I love you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0475",
@@ -3425,7 +5714,13 @@
       "sj": "",
       "se": "",
       "jp": "　少女は親愛の情を示したつもりなのだろうが、彼女の身体は想像以上の筋力があるようで、腰の辺りからめきめきと音がする。",
-      "en": "She meant only to show affection. Her small body held unimaginable strength, however, and an ominous creak came from somewhere around Tachikawa's waist."
+      "en": "She meant only to show affection. Her small body held unimaginable strength, however, and an ominous creak came from somewhere around Tachikawa's waist.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0476",
@@ -3434,7 +5729,13 @@
       "sj": "",
       "se": "",
       "jp": "　やはり<tips=95>金眼</tips>が発動した<tips=17>タイプＢ</tips>というのは、子供であっても凄い力があるものだ。",
-      "en": "Once the <tips=95>Golden-Eye state</tips> took hold, a <tips=17>Type B</tips> person possessed terrifying strength, even as a child."
+      "en": "Once the <tips=95>Golden-Eye state</tips> took hold, a <tips=17>Type B</tips> person possessed terrifying strength, even as a child.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-37980381e271.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0477",
@@ -3443,7 +5744,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「うっ……」",
-      "en": "“Urgh...”"
+      "en": "“Urgh...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0478",
@@ -3452,7 +5759,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は口元を引きつらせてうめき声をあげる。",
-      "en": "<tips=5>Tachikawa</tips>'s mouth tightened as he groaned."
+      "en": "<tips=5>Tachikawa</tips>'s mouth tightened as he groaned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X2-2:0479",
@@ -3461,7 +5774,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「こ、こら」",
-      "en": "“H-hey!”"
+      "en": "“H-hey!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0480",
@@ -3470,7 +5793,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>美紗</tips>も駆け寄ったが、それより職員の方が早かった。少女の頭を軽くはたいて、<tips=5>太刀川</tips>から引きはがす。",
-      "en": "<tips=83>Misa</tips> rushed forward, but the staff member was faster. She tapped the girl on the head and peeled her away from <tips=5>Tachikawa</tips>."
+      "en": "<tips=83>Misa</tips> rushed forward, but the staff member was faster. She tapped the girl on the head and peeled her away from <tips=5>Tachikawa</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0481",
@@ -3479,7 +5812,17 @@
       "sj": "",
       "se": "",
       "jp": "「へへへ」",
-      "en": "“Hehehe.”"
+      "en": "“Hehehe.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0482",
@@ -3488,7 +5831,17 @@
       "sj": "",
       "se": "",
       "jp": "　少女は悪びれもせずに屈託のない笑顔を浮かべている。",
-      "en": "The girl wore a carefree smile, entirely without remorse."
+      "en": "The girl wore a carefree smile, entirely without remorse.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0483",
@@ -3497,7 +5850,17 @@
       "sj": "",
       "se": "",
       "jp": "　一方<tips=5>太刀川</tips>はその独特の髪型を乱し、ぜえぜえと荒く呼吸をしながら、",
-      "en": "His peculiar hair disheveled, <tips=5>Tachikawa</tips> struggled for breath."
+      "en": "His peculiar hair disheveled, <tips=5>Tachikawa</tips> struggled for breath.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-189adf3950ab.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0484",
@@ -3506,7 +5869,17 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「あいかわらず、ちょっと元気すぎるようですね」",
-      "en": "“As always, you appear to have rather too much energy.”"
+      "en": "“As always, you appear to have rather too much energy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e523c1feb933.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X2-2:0486",
@@ -3515,7 +5888,13 @@
       "sj": "",
       "se": "",
       "jp": "　そんなことを言ったので、<tips=83>美紗</tips>はついうっかり噴き出してしまった。",
-      "en": "<tips=83>Misa</tips> could not help laughing."
+      "en": "<tips=83>Misa</tips> could not help laughing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-732cd9f4931f.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

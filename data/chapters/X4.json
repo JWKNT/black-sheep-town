@@ -41,7 +41,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして、その欲望の総本山とでも言うべき施設が、<tips=9>Y地区</tips>の外れも外れ、<tips=15>ボーダーエリア</tips>を縁取る林と隣接して建設された『<tips=18>ローズ・クラブ</tips>』であった。",
-      "en": "The <tips=18>Rose Club</tips> was the grand temple of all those desires, built at the farthest edge of <tips=9>Y District</tips> beside the woods bordering the <tips=15>Border Area</tips>."
+      "en": "The <tips=18>Rose Club</tips> was the grand temple of all those desires, built at the farthest edge of <tips=9>Y District</tips> beside the woods bordering the <tips=15>Border Area</tips>.",
+      "bg": "assets/vn/backgrounds/bg-28d5b7636f93.webp"
     },
     {
       "id": "X4:0016",
@@ -113,7 +114,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>もまだ若く、後に白髪だらけとなる頭髪も黒々として豊かである。",
-      "en": "<tips=54>Kenjirou</tips> was young too, his future head of white hair still thick and black."
+      "en": "<tips=54>Kenjirou</tips> was young too, his future head of white hair still thick and black.",
+      "bg": "assets/vn/backgrounds/bg-1ba7195dc69f.webp"
     },
     {
       "id": "X4:0032",
@@ -356,7 +358,8 @@
       "sj": "",
       "se": "",
       "jp": "　その日も、<tips=8>グレートホール</tips>の縁までやって来た彼は、作業を終えるとアルバイトたちを先に車に戻し、数珠を取り出した。",
-      "en": "That day, once the work at the rim of the <tips=8>Great Hole</tips> was done, he sent the laborers back to the truck and took out his beads."
+      "en": "That day, once the work at the rim of the <tips=8>Great Hole</tips> was done, he sent the laborers back to the truck and took out his beads.",
+      "bg": "assets/vn/backgrounds/bg-9ac9a715205f.webp"
     },
     {
       "id": "X4:0070",
@@ -635,7 +638,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>汐健慈朗</tips>の自宅には広い地下室があり、そこには生物の実験のための器具が所狭しと並べられている。",
-      "en": "<tips=54>Kenjirou Shio</tips>'s home had a large basement, packed wall to wall with biological laboratory equipment."
+      "en": "<tips=54>Kenjirou Shio</tips>'s home had a large basement, packed wall to wall with biological laboratory equipment.",
+      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
     },
     {
       "id": "X4:0115",
@@ -752,7 +756,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「へえ、こんなの見たことがないや……」",
-      "en": "“Wow. I’ve never seen anything like this...”"
+      "en": "“Wow. I’ve never seen anything like this...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0128",
@@ -761,7 +771,13 @@
       "sj": "",
       "se": "",
       "jp": "　目を輝かせて培養器に張り付くこの少年が、その人物だ。",
-      "en": "That someone was the boy pressed against the culture tank, eyes shining."
+      "en": "That someone was the boy pressed against the culture tank, eyes shining.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0129",
@@ -770,7 +786,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=58>パラシュート通り</tips>にある中華料理店の息子――というのはあくまでも世間に対する仮の姿で、その正体はこの地に根を張るマフィア組織の一つ『義勝』という香港系グループの若きリーダー「<tips=3>クリス・ツェー</tips>」の一人息子である。『<tips=69>義勝</tips>』は元々武力闘争を得意とする組織だが、<tips=3>クリス</tips>が跡を継いでからさらに抗争が増え、息子がたびたび命を狙われることがあったらしく、素性を隠して知人の中華料理店に預けることとなった。",
-      "en": "To the world, he was the son of a Chinese restaurant owner on <tips=58>Parachute Street</tips>. That was only a cover. In truth, he was the only son of <tips=3>Chris Xie</tips>, young leader of the Hong Kong mafia group Yi Shen, one of the organizations rooted in the City. <tips=69>Yi Shen</tips> had always specialized in armed conflict, and its wars had only multiplied since <tips=3>Chris</tips> took command. His son was apparently targeted again and again, so the boy's identity was hidden and he was placed with an acquaintance who owned a Chinese restaurant."
+      "en": "To the world, he was the son of a Chinese restaurant owner on <tips=58>Parachute Street</tips>. That was only a cover. In truth, he was the only son of <tips=3>Chris Xie</tips>, young leader of the Hong Kong mafia group Yi Shen, one of the organizations rooted in the City. <tips=69>Yi Shen</tips> had always specialized in armed conflict, and its wars had only multiplied since <tips=3>Chris</tips> took command. His son was apparently targeted again and again, so the boy's identity was hidden and he was placed with an acquaintance who owned a Chinese restaurant.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0130",
@@ -779,7 +801,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=3>クリス</tips>は生粋の漢人だが、少年の母親は日本人で、妹と一緒に別の場所に暮らしている。少年が別の場所で暮らす理由の一つとして、この母と妹が<tips=17>タイプB</tips>だというのもあるのかもしれないと<tips=54>健慈朗</tips>は思っていた。",
-      "en": "<tips=3>Chris</tips> was Han Chinese, but the boy's mother was Japanese and lived elsewhere with his younger sister. <tips=54>Kenjirou</tips> suspected that the mother and daughter being <tips=17>Type B</tips> might be another reason the boy lived apart from them."
+      "en": "<tips=3>Chris</tips> was Han Chinese, but the boy's mother was Japanese and lived elsewhere with his younger sister. <tips=54>Kenjirou</tips> suspected that the mother and daughter being <tips=17>Type B</tips> might be another reason the boy lived apart from them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0131",
@@ -788,7 +816,13 @@
       "sj": "",
       "se": "",
       "jp": "　この事実を知るものは、今現在ほとんどこの街には存在しないだろう。<tips=54>健慈朗</tips>はこの母親と、古い知り合いであったからそれを知っていた。",
-      "en": "Almost no one else in the City knew the truth at the time. <tips=54>Kenjirou</tips> knew because the boy's mother was an old acquaintance."
+      "en": "Almost no one else in the City knew the truth at the time. <tips=54>Kenjirou</tips> knew because the boy's mother was an old acquaintance.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0132",
@@ -797,7 +831,13 @@
       "sj": "",
       "se": "",
       "jp": "　というのも、彼の母親は研究者時代の<tips=54>健慈朗</tips>の下で働いていたのである。",
-      "en": "She had worked under <tips=54>Kenjirou</tips> in his days as a researcher."
+      "en": "She had worked under <tips=54>Kenjirou</tips> in his days as a researcher.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0133",
@@ -806,7 +846,13 @@
       "sj": "",
       "se": "",
       "jp": "　地方の国立大学を出た、優秀な助手であった。<tips=54>健慈朗</tips>は当時若く美しかった科学者にほのかな慕情を寄せていたという、胸が苦しくなるような思い出があったが、だからといってそれが理由でその息子をこの部屋に招いたわけではない。",
-      "en": "A graduate of a provincial national university, she had been an excellent research assistant. <tips=54>Kenjirou</tips> still carried the painful memory of his faint longing for the young, beautiful scientist. But that was not why he had invited her son into this room."
+      "en": "A graduate of a provincial national university, she had been an excellent research assistant. <tips=54>Kenjirou</tips> still carried the painful memory of his faint longing for the young, beautiful scientist. But that was not why he had invited her son into this room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0134",
@@ -815,7 +861,13 @@
       "sj": "",
       "se": "",
       "jp": "「先生、とにかくこの子は特別なんです」",
-      "en": "“Professor, I tell you, this child is extraordinary.”"
+      "en": "“Professor, I tell you, this child is extraordinary.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0135",
@@ -824,7 +876,13 @@
       "sj": "",
       "se": "",
       "jp": "　と、彼の母――<tips=56>菅原和美</tips>が目を輝かせて紹介したのがきっかけだった。",
-      "en": "It had begun when his mother, <tips=56>Kazumi Sugawara</tips>, introduced the boy with shining eyes."
+      "en": "It had begun when his mother, <tips=56>Kazumi Sugawara</tips>, introduced the boy with shining eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0136",
@@ -833,7 +891,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言われて半信半疑で、まだ四つだった少年にいくつかテストを行ってみたが、確かに母親が言うのは単なる親馬鹿ではないようだった。異常なほどに利発で、好奇心が強い。そして何よりも、生物に対して強い興味があるという点が、<tips=54>健慈朗</tips>と共通していた。",
-      "en": "Kenjirou was skeptical, but he gave the four-year-old several tests. It soon became clear that his mother's praise was not mere parental bias. The boy was frighteningly clever and insatiably curious. Above all, he shared <tips=54>Kenjirou</tips>'s fascination with living things."
+      "en": "Kenjirou was skeptical, but he gave the four-year-old several tests. It soon became clear that his mother's praise was not mere parental bias. The boy was frighteningly clever and insatiably curious. Above all, he shared <tips=54>Kenjirou</tips>'s fascination with living things.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0137",
@@ -842,7 +906,13 @@
       "sj": "",
       "se": "",
       "jp": "　知らず知らず、最近の<tips=54>健慈朗</tips>はかつての孤独な実験を行うことはなくなり、この少年に学ばせるために実験を行うのが楽しみになっていたのである。",
-      "en": "Before <tips=54>Kenjirou</tips> knew it, his lonely experiments were a thing of the past. Now he looked forward to performing them so the boy could learn."
+      "en": "Before <tips=54>Kenjirou</tips> knew it, his lonely experiments were a thing of the past. Now he looked forward to performing them so the boy could learn.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0138",
@@ -851,7 +921,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「<tips=1>亮</tips>」",
-      "en": "“<tips=1>Liang</tips>.”"
+      "en": "“<tips=1>Liang</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0139",
@@ -860,7 +940,17 @@
       "sj": "",
       "se": "",
       "jp": "　と、<tips=54>健慈朗</tips>は呼ぶ。",
-      "en": "<tips=54>Kenjirou</tips> called."
+      "en": "<tips=54>Kenjirou</tips> called.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0140",
@@ -869,7 +959,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「どうやらこれは人間の体細胞らしい」",
-      "en": "“It looks like this is made of human somatic cells.”"
+      "en": "“It looks like this is made of human somatic cells.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0141",
@@ -878,7 +978,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「えっ、これが？」",
-      "en": "“Huh? This is?”"
+      "en": "“Huh? This is?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0142",
@@ -887,7 +997,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>と呼ばれた少年は視線を動き続ける細胞に釘付けにしたまま、うわずった声で言う。",
-      "en": "The boy called <tips=1>Liang</tips> answered in a high, excited voice, never taking his eyes off the constantly moving cells."
+      "en": "The boy called <tips=1>Liang</tips> answered in a high, excited voice, never taking his eyes off the constantly moving cells.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0143",
@@ -896,7 +1016,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「とても若い、と言うよりも幼いと言うべきだろう。三、四才くらいの女の細胞じゃないかと思う。お前の妹くらいの年頃だな」",
-      "en": "“Very young ones. No—juvenile would be more accurate. I think they're from a girl of three or four, about your little sister's age.”"
+      "en": "“Very young ones. No—juvenile would be more accurate. I think they're from a girl of three or four, about your little sister's age.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0144",
@@ -905,7 +1035,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は細胞の発見状況を思い浮かべながらそう言った。",
-      "en": "<tips=54>Kenjirou</tips> said it while remembering where he had found the cells."
+      "en": "<tips=54>Kenjirou</tips> said it while remembering where he had found the cells.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0145",
@@ -914,7 +1054,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「検査でそこまでわかるんだ？」",
-      "en": "“You can tell that much from the tests?”"
+      "en": "“You can tell that much from the tests?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0146",
@@ -923,7 +1073,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「まあな」",
-      "en": "“More or less.”"
+      "en": "“More or less.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0147",
@@ -932,7 +1092,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「へえ……そうかあ……。でも、どう見たってこれは人間って感じじゃないけど……」",
-      "en": "“Huh... I see... But however I look at it, this doesn't seem human at all...”"
+      "en": "“Huh... I see... But however I look at it, this doesn't seem human at all...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0148",
@@ -941,7 +1111,17 @@
       "sj": "",
       "se": "",
       "jp": "　細胞を眺めながら<tips=1>亮</tips>は顔を顰める。",
-      "en": "<tips=1>Liang</tips> frowned at the cells."
+      "en": "<tips=1>Liang</tips> frowned at the cells.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0149",
@@ -950,7 +1130,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「でも、人間なら、名前が必要だね……」",
-      "en": "“Still, if she's human, she needs a name...”"
+      "en": "“Still, if she's human, she needs a name...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0150",
@@ -959,7 +1149,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「そうだな。お前がつけてみるか？」",
-      "en": "“True. Want to name her?”"
+      "en": "“True. Want to name her?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0151",
@@ -968,7 +1168,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「いいの？」",
-      "en": "“Can I?”"
+      "en": "“Can I?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0152",
@@ -977,7 +1187,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は驚いて振り返る。",
-      "en": "<tips=1>Liang</tips> spun around in surprise."
+      "en": "<tips=1>Liang</tips> spun around in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0153",
@@ -986,7 +1206,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「いいとも」",
-      "en": "“Go ahead.”"
+      "en": "“Go ahead.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0154",
@@ -995,7 +1225,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>が頷くと、<tips=1>亮</tips>は嬉しそうに笑い、",
-      "en": "When <tips=54>Kenjirou</tips> nodded, <tips=1>Liang</tips> broke into a delighted smile."
+      "en": "When <tips=54>Kenjirou</tips> nodded, <tips=1>Liang</tips> broke into a delighted smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0155",
@@ -1004,7 +1244,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「じゃあ、マツコにしよう！　木の松に子供の子で<tips=55>松子</tips>！」",
-      "en": "“Then let's call her Matsuko! 'Matsu' as in pine, and 'ko' as in child: <tips=55>Matsuko</tips>!”"
+      "en": "“Then let's call her Matsuko! 'Matsu' as in pine, and 'ko' as in child: <tips=55>Matsuko</tips>!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0156",
@@ -1013,7 +1263,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「随分古くさい名前を付けるんだな」",
-      "en": "“That's an awfully old-fashioned name.”"
+      "en": "“That's an awfully old-fashioned name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0157",
@@ -1022,7 +1282,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「松は不老長寿の象徴だからね。こういじましく必死に動いている姿を見ていると、なんだかいつまでも長生きして欲しいような気持ちになってしまうから」",
-      "en": "“Pines symbolize long life and eternal youth. Watching her struggle so bravely to keep moving makes me want her to live forever.”"
+      "en": "“Pines symbolize long life and eternal youth. Watching her struggle so bravely to keep moving makes me want her to live forever.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0158",
@@ -1031,7 +1301,17 @@
       "sj": "",
       "se": "",
       "jp": "　いつも通りの子供らしくない言葉遣いで、誰よりも子供らしい表情を浮かべる<tips=1>亮</tips>に、<tips=54>健慈朗</tips>は苦笑して、",
-      "en": "<tips=1>Liang</tips> used his usual unchildlike language, but the expression on his face was as childlike as could be. <tips=54>Kenjirou</tips> gave a wry smile."
+      "en": "<tips=1>Liang</tips> used his usual unchildlike language, but the expression on his face was as childlike as could be. <tips=54>Kenjirou</tips> gave a wry smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0159",
@@ -1040,7 +1320,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「わかった。じゃあ、今日からこいつは<tips=55>松子</tips>だ」",
-      "en": "“All right. From today on, this one's <tips=55>Matsuko</tips>.”"
+      "en": "“All right. From today on, this one's <tips=55>Matsuko</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0160",
@@ -1049,7 +1339,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、白いガムテープに『<tips=55>松子</tips>』と書いて、培養器の下の方に貼った。",
-      "en": "He wrote <tips=55>Matsuko</tips> on a strip of white duct tape and stuck it near the bottom of the tank."
+      "en": "He wrote <tips=55>Matsuko</tips> on a strip of white duct tape and stuck it near the bottom of the tank.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0161",
@@ -1058,7 +1358,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「<tips=54>汐さん</tips>とこの子だから、<tips=55>汐松子</tips>だね。良かったじゃない。娘が出来て」",
-      "en": "“She's yours, Mr. <tips=54>Shio</tips>, so that makes her <tips=55>Matsuko Shio</tips>. Isn't that nice? Now you've got a daughter.”"
+      "en": "“She's yours, Mr. <tips=54>Shio</tips>, so that makes her <tips=55>Matsuko Shio</tips>. Isn't that nice? Now you've got a daughter.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0162",
@@ -1067,7 +1377,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はそう言って、円筒の端をとんとんと人差し指で叩くと、",
-      "en": "With that, <tips=1>Liang</tips> tapped the side of the cylinder with one finger."
+      "en": "With that, <tips=1>Liang</tips> tapped the side of the cylinder with one finger.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0163",
@@ -1076,7 +1396,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「やあ、聞いたか。君の名前は<tips=55>松子</tips>だよ。僕が決めたんだ。よろしくね。……あ、ほら、何だか声に反応して動いたみたいだよ？　こいつ、音が聞こえてるんじゃないの？」",
-      "en": "“Hello there. Did you hear? Your name is <tips=55>Matsuko</tips>. I picked it. Let's be friends. ...Oh, look! I think she moved when she heard me. Do you think she can hear sound?”"
+      "en": "“Hello there. Did you hear? Your name is <tips=55>Matsuko</tips>. I picked it. Let's be friends. ...Oh, look! I think she moved when she heard me. Do you think she can hear sound?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0164",
@@ -1085,7 +1415,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は指をさして<tips=54>健慈朗</tips>を振り返る。",
-      "en": "<tips=1>Liang</tips> pointed and looked back at <tips=54>Kenjirou</tips>."
+      "en": "<tips=1>Liang</tips> pointed and looked back at <tips=54>Kenjirou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0165",
@@ -1094,7 +1434,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「そんな器官はないはずだが、振動は感知しているのかもな」",
-      "en": "“She shouldn't have any organ for hearing, but maybe she can sense vibrations.”"
+      "en": "“She shouldn't have any organ for hearing, but maybe she can sense vibrations.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0166",
@@ -1103,7 +1453,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は顎をなでつつ、目を細めた。",
-      "en": "<tips=54>Kenjirou</tips> narrowed his eyes and rubbed his chin."
+      "en": "<tips=54>Kenjirou</tips> narrowed his eyes and rubbed his chin.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0170",
@@ -1274,7 +1634,8 @@
       "sj": "",
       "se": "",
       "jp": "　一方、その<tips=3>クリス・ツェー</tips>の御曹司である<tips=1>亮</tips>は、全くそんな事情には無関心である。",
-      "en": "Meanwhile, <tips=1>Liang</tips>, the cherished heir of that very <tips=3>Chris Xie</tips>, could not have cared less about any of it."
+      "en": "Meanwhile, <tips=1>Liang</tips>, the cherished heir of that very <tips=3>Chris Xie</tips>, could not have cared less about any of it.",
+      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
     },
     {
       "id": "X4:0199",
@@ -1301,7 +1662,13 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「さすがにそれはないだろう」",
-      "en": "“Come on. That's a bit much.”"
+      "en": "“Come on. That's a bit much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0202",
@@ -1310,7 +1677,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は溜息をつきながらも、少年の純真さに癒やされるものを感じてはいた。",
-      "en": "<tips=54>Kenjirou</tips> sighed, though the boy's innocence was a comfort after the day he had endured."
+      "en": "<tips=54>Kenjirou</tips> sighed, though the boy's innocence was a comfort after the day he had endured.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0203",
@@ -1319,7 +1692,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は自分の父親の話をすることはなかった。嫌悪しているのか、単に興味がないのかはその態度からは判別出来ない。",
-      "en": "The boy never spoke about his father. Kenjirou could not tell whether he hated the man or simply had no interest in him."
+      "en": "The boy never spoke about his father. Kenjirou could not tell whether he hated the man or simply had no interest in him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0204",
@@ -1328,7 +1707,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「本当だって」",
-      "en": "“It’s true.”"
+      "en": "“It’s true.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0205",
@@ -1337,7 +1726,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は信じようとしない<tips=54>健慈朗</tips>に対して顔を顰める。",
-      "en": "<tips=1>Liang</tips> frowned at <tips=54>Kenjirou</tips>'s refusal to believe him."
+      "en": "<tips=1>Liang</tips> frowned at <tips=54>Kenjirou</tips>'s refusal to believe him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0206",
@@ -1346,7 +1745,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「どうかなあ。気のせいじゃないか？」",
-      "en": "“You sure you're not imagining it?”"
+      "en": "“You sure you're not imagining it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0207",
@@ -1355,7 +1764,17 @@
       "sj": "",
       "se": "",
       "jp": "　音が聞こえる、というのはどうやら間違いないらしい。",
-      "en": "There was little doubt that the cells could hear."
+      "en": "There was little doubt that the cells could hear.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0208",
@@ -1364,7 +1783,17 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、言葉を理解するというのはまったく別の次元の話だ。<tips=54>健慈朗</tips>はにわかには信じられない。",
-      "en": "Understanding language was another matter entirely. <tips=54>Kenjirou</tips> could not accept it so easily."
+      "en": "Understanding language was another matter entirely. <tips=54>Kenjirou</tips> could not accept it so easily.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0209",
@@ -1373,7 +1802,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「気のせいなんかじゃない。元々言葉を知ってたっていうか、もしかしたら、今少しずつ言葉を学びはじめてるところのかもしれないな。とにかく反応があったんだよ。もしかしたら、僕がいつも話しかけているから、それで学習して……」",
-      "en": "“I'm not imagining it. Maybe she knew language from the start, or maybe she's only beginning to learn it now. Either way, she reacted. I talk to her all the time, so maybe she's learning from me...”"
+      "en": "“I'm not imagining it. Maybe she knew language from the start, or maybe she's only beginning to learn it now. Either way, she reacted. I talk to her all the time, so maybe she's learning from me...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0210",
@@ -1382,7 +1821,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「おいおい、じゃあ、こいつに知能があるっていうのかい？　さすがにそれは信じられないな」",
-      "en": "“Hold on. You're saying this thing is intelligent? That's hard to swallow.”"
+      "en": "“Hold on. You're saying this thing is intelligent? That's hard to swallow.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0211",
@@ -1391,7 +1840,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「本当だって。じゃあ、見てなよ……」",
-      "en": "“It's true. Just watch...”"
+      "en": "“It's true. Just watch...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0212",
@@ -1400,7 +1859,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は少女と見間違うほど美しい顔で悪戯っぽく笑うと、『<tips=55>松子</tips>』に向き直り、",
-      "en": "A mischievous smile crossed <tips=1>Liang</tips>'s face, so beautiful he could have been mistaken for a girl, and he turned to <tips=55>Matsuko</tips>."
+      "en": "A mischievous smile crossed <tips=1>Liang</tips>'s face, so beautiful he could have been mistaken for a girl, and he turned to <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0213",
@@ -1409,7 +1878,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「おい、<tips=55>松子</tips>！　お前なんか、大嫌いだ！　もう面倒なんかみてやらないぞ！」",
-      "en": "“Hey, <tips=55>Matsuko</tips>! I hate you! I'm never taking care of you again!”"
+      "en": "“Hey, <tips=55>Matsuko</tips>! I hate you! I'm never taking care of you again!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0214",
@@ -1418,7 +1897,17 @@
       "sj": "",
       "se": "",
       "jp": "　その声に反応するかのように『<tips=55>松子</tips>』はねじれる。",
-      "en": "As though reacting to his voice, <tips=55>Matsuko</tips> twisted."
+      "en": "As though reacting to his voice, <tips=55>Matsuko</tips> twisted.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0215",
@@ -1427,7 +1916,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「……ほら見なよ。これは悲しんでるんだ」",
-      "en": "“...See? She's sad.”"
+      "en": "“...See? She's sad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0216",
@@ -1436,7 +1935,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は小声で<tips=54>健慈朗</tips>に囁く。",
-      "en": "<tips=1>Liang</tips> whispered to <tips=54>Kenjirou</tips>."
+      "en": "<tips=1>Liang</tips> whispered to <tips=54>Kenjirou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0217",
@@ -1445,7 +1954,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「じゃあ感情もあるってことになるじゃないか。いやあ、それはどうだろうな……」",
-      "en": "“Then you're saying she has feelings too. I don't know about that...”"
+      "en": "“Then you're saying she has feelings too. I don't know about that...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0218",
@@ -1454,7 +1973,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「信じられないのはわかるけど、本当なんだよ。……見てて」",
-      "en": "“I know it's hard to believe, but it's true. ...Watch.”"
+      "en": "“I know it's hard to believe, but it's true. ...Watch.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0219",
@@ -1463,7 +1992,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は再び培養器に唇がくっつきそうなほど近づくと、",
-      "en": "<tips=1>Liang</tips> leaned in again until his lips nearly touched the tank."
+      "en": "<tips=1>Liang</tips> leaned in again until his lips nearly touched the tank.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0220",
@@ -1472,7 +2011,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「ごめんね。今のは嘘だよ。あんまり<tips=55>松子</tips>が可愛いから、からかっただけなんだ。本当は大好きだよ。すき！　ねえ聞こえてる？　きみのことを好きって言ったんだよ僕！　……ほら見なよ。今度はトゲトゲになった。これは嬉しいのか、照れてるのか……とにかくそんな感じの反応で間違いないね」",
-      "en": "“I'm sorry. I didn't mean it. I only teased you because you're so cute, <tips=55>Matsuko</tips>. I really love you. I love you! Can you hear me? I said I love you! ...Look—now she's gone all spiky. Maybe she's happy, or embarrassed... Whatever it means, that's definitely an emotional response.”"
+      "en": "“I'm sorry. I didn't mean it. I only teased you because you're so cute, <tips=55>Matsuko</tips>. I really love you. I love you! Can you hear me? I said I love you! ...Look—now she's gone all spiky. Maybe she's happy, or embarrassed... Whatever it means, that's definitely an emotional response.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0221",
@@ -1481,7 +2030,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「たまたまだろうよ」",
-      "en": "“Could be a coincidence.”"
+      "en": "“Could be a coincidence.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0222",
@@ -1490,7 +2049,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は首を捻る。",
-      "en": "<tips=54>Kenjirou</tips> tilted his head."
+      "en": "<tips=54>Kenjirou</tips> tilted his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0223",
@@ -1499,7 +2068,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「こんなにはっきり反応してるのに、まだ信じられないだなんて」",
-      "en": "“She reacted as clearly as that, and you still don't believe me.”"
+      "en": "“She reacted as clearly as that, and you still don't believe me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0224",
@@ -1508,7 +2087,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は大げさに溜息をつく。",
-      "en": "<tips=1>Liang</tips> let out an exaggerated sigh."
+      "en": "<tips=1>Liang</tips> let out an exaggerated sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0225",
@@ -1517,7 +2106,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「まあ、もし本当だったら、これはちょっと凄いことになる」",
-      "en": "“Well, if you're right, this is something incredible.”"
+      "en": "“Well, if you're right, this is something incredible.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0226",
@@ -1526,7 +2125,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「でしょう？　それでね、実は僕、もう一つ、これよりもっとびっくりするような<tips=55>松子</tips>の能力を見つけたんだ」",
-      "en": "“Exactly! And actually, I found another ability of <tips=55>Matsuko</tips>'s that's even more amazing.”"
+      "en": "“Exactly! And actually, I found another ability of <tips=55>Matsuko</tips>'s that's even more amazing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0227",
@@ -1535,7 +2144,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「なんだ？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0228",
@@ -1544,7 +2163,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「見てなよ。……いいかい<tips=55>松子</tips>？　いつものやつを、お前のパパに見せてやるからね」",
-      "en": "“Watch. ...All right, <tips=55>Matsuko</tips>? Let's show your papa our usual trick.”"
+      "en": "“Watch. ...All right, <tips=55>Matsuko</tips>? Let's show your papa our usual trick.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0230",
@@ -1553,7 +2182,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は<tips=55>松子</tips>にそう言い残すと、たたたと足音を立てて実験室の向こうまで行き、両手に籠を抱えて帰って来た。",
-      "en": "Leaving <tips=55>Matsuko</tips> with those words, <tips=1>Liang</tips> pattered to the other end of the laboratory and returned with a basket in both arms."
+      "en": "Leaving <tips=55>Matsuko</tips> with those words, <tips=1>Liang</tips> pattered to the other end of the laboratory and returned with a basket in both arms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0232",
@@ -1562,7 +2197,13 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「それはなんだ？」",
-      "en": "“What is that?”"
+      "en": "“What is that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0233",
@@ -1571,7 +2212,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「母さんのところにあった積み木さ。<tips=44>筱喬</tips>が遊んでるやつだよ」",
-      "en": "“Some building blocks from Mother's house. The ones <tips=44>Xiaoqiao</tips> plays with.”"
+      "en": "“Some building blocks from Mother's house. The ones <tips=44>Xiaoqiao</tips> plays with.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0234",
@@ -1580,7 +2231,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はひとつつまんでみせる。それはどこにでもある木製の積み木で、乱暴に扱ったのか、端の塗料がはげかけていた。",
-      "en": "<tips=1>Liang</tips> plucked one out and held it up. It was an ordinary wooden block, its paint chipped at the edges from rough play."
+      "en": "<tips=1>Liang</tips> plucked one out and held it up. It was an ordinary wooden block, its paint chipped at the edges from rough play.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0235",
@@ -1589,7 +2250,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「<tips=55>松子</tips>、これだ」",
-      "en": "“<tips=55>Matsuko</tips>, this one.”"
+      "en": "“<tips=55>Matsuko</tips>, this one.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0236",
@@ -1598,7 +2269,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はそれを培養器の前に差し出してみせる。",
-      "en": "<tips=1>Liang</tips> held it up to the culture tank."
+      "en": "<tips=1>Liang</tips> held it up to the culture tank.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0237",
@@ -1607,7 +2288,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼が手に持っているのは、黄色い長方形の積み木だった。",
-      "en": "It was a yellow rectangular block."
+      "en": "It was a yellow rectangular block.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0238",
@@ -1616,7 +2307,17 @@
       "sj": "",
       "se": "",
       "jp": "　どういうことかと<tips=54>健慈朗</tips>が見守っていると、培養液のなかの細胞が、すこしずつ変化し、<tips=1>亮</tips>が手にした積み木と同じような長方形になる。",
-      "en": "As <tips=54>Kenjirou</tips> watched, baffled, the cells slowly changed into the same rectangular shape as the block in <tips=1>Liang</tips>'s hand."
+      "en": "As <tips=54>Kenjirou</tips> watched, baffled, the cells slowly changed into the same rectangular shape as the block in <tips=1>Liang</tips>'s hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0239",
@@ -1625,7 +2326,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「どう？」",
-      "en": "“Well?”"
+      "en": "“Well?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0240",
@@ -1634,7 +2345,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は得意げに振り返る。",
-      "en": "<tips=1>Liang</tips> turned around, triumphant."
+      "en": "<tips=1>Liang</tips> turned around, triumphant.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0241",
@@ -1643,7 +2364,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「いや、これは……」",
-      "en": "“No, this is...”"
+      "en": "“No, this is...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0242",
@@ -1652,7 +2383,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>はにわかには受け入れがたく、首を捻った。",
-      "en": "<tips=54>Kenjirou</tips> tilted his head, unable to accept what he was seeing."
+      "en": "<tips=54>Kenjirou</tips> tilted his head, unable to accept what he was seeing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0243",
@@ -1661,7 +2402,17 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、今度は偶然で片付けられそうもない。<tips=1>亮</tips>が別の積み木を取り出すたびに、細胞は三角、円筒へと姿を変え、そしてジュースのペットボトルを見せるとそのかたちにさえ変化した。",
-      "en": "This time, coincidence would not explain it. Every time <tips=1>Liang</tips> held up another block, the cells became a triangle, then a cylinder. When he showed them a plastic juice bottle, they copied that shape too."
+      "en": "This time, coincidence would not explain it. Every time <tips=1>Liang</tips> held up another block, the cells became a triangle, then a cylinder. When he showed them a plastic juice bottle, they copied that shape too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0244",
@@ -1670,7 +2421,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「驚いたな……」",
-      "en": "“Well, I'll be damned...”"
+      "en": "“Well, I'll be damned...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0245",
@@ -1679,7 +2440,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「聴覚だけじゃない。視覚も知性もある。どこで見たり考えたりしいるのかさっぱりわからないけど」",
-      "en": "“It's not just hearing. She can see and think too. Though I have no idea what she's seeing or thinking with.”"
+      "en": "“It's not just hearing. She can see and think too. Though I have no idea what she's seeing or thinking with.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0246",
@@ -1688,7 +2459,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は勝ち誇ったように<tips=54>健慈朗</tips>を見つめる。",
-      "en": "<tips=1>Liang</tips> looked at <tips=54>Kenjirou</tips> in triumph."
+      "en": "<tips=1>Liang</tips> looked at <tips=54>Kenjirou</tips> in triumph.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0247",
@@ -1697,7 +2478,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は今目の前で起こったことがまだ信じられず、うなり声を上げるばかりである。",
-      "en": "<tips=54>Kenjirou</tips> still could not believe what had happened before his eyes. All he could do was groan."
+      "en": "<tips=54>Kenjirou</tips> still could not believe what had happened before his eyes. All he could do was groan.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X4:0249",
@@ -1958,7 +2749,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「どうしたんだろう？　これ、死んじゃったのかな……いや、でもモニターは変化ないし……」",
-      "en": "“What's wrong with her? Do you think she's dead...? No, the monitor hasn't changed...”"
+      "en": "“What's wrong with her? Do you think she's dead...? No, the monitor hasn't changed...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0278",
@@ -1967,7 +2764,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は『<tips=55>松子</tips>』と培養器に取り付けられたモニターの間で視線を行ったり来たりさせながら戸惑いをみせる。",
-      "en": "<tips=1>Liang</tips> stared anxiously back and forth between <tips=55>Matsuko</tips> and the monitor on her tank."
+      "en": "<tips=1>Liang</tips> stared anxiously back and forth between <tips=55>Matsuko</tips> and the monitor on her tank.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0279",
@@ -1976,7 +2779,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「わからん。少し経過を見守るしかないな」",
-      "en": "“I don't know. We'll have to wait and see.”"
+      "en": "“I don't know. We'll have to wait and see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0280",
@@ -1985,7 +2798,17 @@
       "sj": "",
       "se": "",
       "jp": "　その夜<tips=1>亮</tips>は普段より遅くまで実験室に残り、そしてようやく帰るときも、<tips=54>健慈朗</tips>に何度もうながされてのことだった。",
-      "en": "That night, <tips=1>Liang</tips> stayed in the laboratory far later than usual and left only after <tips=54>Kenjirou</tips> told him again and again to go home."
+      "en": "That night, <tips=1>Liang</tips> stayed in the laboratory far later than usual and left only after <tips=54>Kenjirou</tips> told him again and again to go home.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0292",
@@ -1994,7 +2817,8 @@
       "sj": "",
       "se": "",
       "jp": "　翌日、<tips=1>亮</tips>は学校へ登校する前、朝早くに実験室にやって来る。",
-      "en": "Early the next morning, before school, <tips=1>Liang</tips> hurried back to the laboratory."
+      "en": "Early the next morning, before school, <tips=1>Liang</tips> hurried back to the laboratory.",
+      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
     },
     {
       "id": "X4:0293",
@@ -2003,7 +2827,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「<tips=54>汐さん</tips>！　どうなった？　まだ生きてる？」",
-      "en": "“Mr. <tips=54>Shio</tips>! What happened? Is she alive?”"
+      "en": "“Mr. <tips=54>Shio</tips>! What happened? Is she alive?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X4:0294",
@@ -2012,7 +2842,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「それがな、実に意外なことになった」",
-      "en": "“Well, something completely unexpected happened.”"
+      "en": "“Well, something completely unexpected happened.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0295",
@@ -2021,7 +2861,17 @@
       "sj": "",
       "se": "",
       "jp": "　丸くなった『<tips=55>松子</tips>』は、一晩の間に著しい変化を遂げていた。",
-      "en": "Overnight, the ball that had been <tips=55>Matsuko</tips> underwent a startling transformation."
+      "en": "Overnight, the ball that had been <tips=55>Matsuko</tips> underwent a startling transformation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0296",
@@ -2030,7 +2880,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「これは……」",
-      "en": "“This is...”"
+      "en": "“This is...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0297",
@@ -2039,7 +2899,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が絶句するのも無理はない。",
-      "en": "No wonder <tips=1>Liang</tips> was speechless."
+      "en": "No wonder <tips=1>Liang</tips> was speechless.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0298",
@@ -2048,7 +2918,17 @@
       "sj": "",
       "se": "",
       "jp": "　それは、胎児の姿をしていた。",
-      "en": "She had taken the shape of a fetus."
+      "en": "She had taken the shape of a fetus.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0299",
@@ -2057,7 +2937,17 @@
       "sj": "",
       "se": "",
       "jp": "　まだ妊娠から九週がすぎたかどうかといった段階の、ごく初期のものである。",
-      "en": "It was still in the earliest stages of development, perhaps nine weeks into gestation."
+      "en": "It was still in the earliest stages of development, perhaps nine weeks into gestation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0300",
@@ -2066,7 +2956,17 @@
       "sj": "",
       "se": "",
       "jp": "　尻尾がまだ残り、身体全体が半透明で血管と、眼球の黒みが透けている。実際の胎児より遥かに大きなサイズだが、その形状は完全に人間の胎児そのものだった。",
-      "en": "It still had a tail, and its translucent body revealed the blood vessels and darkening eyes within. Though far larger than a fetus at that stage should have been, its shape was unmistakably human."
+      "en": "It still had a tail, and its translucent body revealed the blood vessels and darkening eyes within. Though far larger than a fetus at that stage should have been, its shape was unmistakably human.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0301",
@@ -2075,7 +2975,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「どういうことなの？」",
-      "en": "“What happened to her?”"
+      "en": "“What happened to her?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0302",
@@ -2084,7 +2994,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「どうもこうもない。こいつは、ホンモノの『人間』になろうとしている」",
-      "en": "“What do you think? This thing's trying to become a real 'human being.'”"
+      "en": "“What do you think? This thing's trying to become a real 'human being.'”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0303",
@@ -2093,7 +3013,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は別のモニターの前に<tips=1>亮</tips>を座らせ、２４時間記録しているビデオカメラの映像から、昨夜のものを切り取ったものを早送りで見せた。",
-      "en": "<tips=54>Kenjirou</tips> sat <tips=1>Liang</tips> before another monitor and played him a time-lapse clip from the camera that recorded the tank around the clock."
+      "en": "<tips=54>Kenjirou</tips> sat <tips=1>Liang</tips> before another monitor and played him a time-lapse clip from the camera that recorded the tank around the clock.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0304",
@@ -2102,7 +3032,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「ほら、昨日の丸っこいのが受精卵みたいなものだったんだよ。あれから、目まぐるしい速度で細胞分裂や分化を繰り返し、あっという間にここまで成長した」",
-      "en": "“See? That ball yesterday was like a fertilized egg. After that, the cells divided and differentiated at a dizzying speed. She grew this far in no time.”"
+      "en": "“See? That ball yesterday was like a fertilized egg. After that, the cells divided and differentiated at a dizzying speed. She grew this far in no time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0305",
@@ -2111,7 +3051,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「……すごい。どうなってるんだろう」",
-      "en": "“...Amazing. How is she doing that?”"
+      "en": "“...Amazing. How is she doing that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0306",
@@ -2120,7 +3070,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「さっぱりわけがわからん」",
-      "en": "“Beats me.”"
+      "en": "“Beats me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0307",
@@ -2129,7 +3089,17 @@
       "sj": "",
       "se": "",
       "jp": "　モニターに釘付けになる<tips=1>亮</tips>の隣で、<tips=54>健慈朗</tips>は溜息をつく。",
-      "en": "Beside <tips=1>Liang</tips>, who could not tear his eyes from the monitor, <tips=54>Kenjirou</tips> sighed."
+      "en": "Beside <tips=1>Liang</tips>, who could not tear his eyes from the monitor, <tips=54>Kenjirou</tips> sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0308",
@@ -2138,7 +3108,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼は<tips=1>亮</tips>に比べて落ち着いたように見えているが、内心はこの少年以上に動揺していた。",
-      "en": "He looked calmer than <tips=1>Liang</tips>, but inside he was far more shaken than the boy."
+      "en": "He looked calmer than <tips=1>Liang</tips>, but inside he was far more shaken than the boy.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0309",
@@ -2147,7 +3127,17 @@
       "sj": "",
       "se": "",
       "jp": "　理由はわからない。朝起きて初めてこの姿を見てから、何か畏怖に似たような感情が彼を支配し、慄然とさせているのである。",
-      "en": "He did not know why. Ever since he woke and saw this form, something like awe had possessed him and left him trembling."
+      "en": "He did not know why. Ever since he woke and saw this form, something like awe had possessed him and left him trembling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0310",
@@ -2156,7 +3146,17 @@
       "sj": "",
       "se": "",
       "jp": "　途轍もなく恐ろしいことを、しようとしているのかもしれない。",
-      "en": "He might be doing something unspeakably terrible."
+      "en": "He might be doing something unspeakably terrible.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0311",
@@ -2165,7 +3165,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼は宗教家ではなかった。いかなる神も信仰も信じてはいなかった。しかし、この恐怖は宗教的と言うべきものだろう。",
-      "en": "He was not a religious man. He believed in no god or faith. And yet there was no other word for this fear but religious."
+      "en": "He was not a religious man. He believed in no god or faith. And yet there was no other word for this fear but religious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0312",
@@ -2174,7 +3184,17 @@
       "sj": "",
       "se": "",
       "jp": "　何か訳の分からないものに触れようとしている――あるいは触れてしまった、そんな恐怖であった。",
-      "en": "It was the terror of reaching toward something beyond understanding—or of having touched it already."
+      "en": "It was the terror of reaching toward something beyond understanding—or of having touched it already.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0313",
@@ -2183,7 +3203,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「……なあ<tips=1>亮</tips>。この実験はここで終わりにしないか？」",
-      "en": "“...Listen, <tips=1>Liang</tips>. What if we stopped the experiment here?”"
+      "en": "“...Listen, <tips=1>Liang</tips>. What if we stopped the experiment here?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0314",
@@ -2192,7 +3222,17 @@
       "sj": "",
       "se": "",
       "jp": "　その言葉で、<tips=1>亮</tips>はびっくりして振り返り、目を見開いた。",
-      "en": "<tips=1>Liang</tips> whipped around, eyes wide."
+      "en": "<tips=1>Liang</tips> whipped around, eyes wide.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0315",
@@ -2201,7 +3241,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「もう充分じゃないか。充分大きくなった。しかしこれから先は、我々の扱える領域ではない気がするよ」",
-      "en": "“Haven't we gone far enough? She's grown enough. I don't think what comes next is something we can handle.”"
+      "en": "“Haven't we gone far enough? She's grown enough. I don't think what comes next is something we can handle.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0316",
@@ -2210,7 +3260,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「駄目だよ！　なんてことを言うんだ」",
-      "en": "“No! How can you say that?”"
+      "en": "“No! How can you say that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0317",
@@ -2219,7 +3279,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>の顔はトマトのように真っ赤に染まる。怒っているようであった。",
-      "en": "<tips=1>Liang</tips>'s face went red as a tomato. He looked furious."
+      "en": "<tips=1>Liang</tips>'s face went red as a tomato. He looked furious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0318",
@@ -2228,7 +3298,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「終わりにするって、バカじゃないの？　じゃあこんな風になった『<tips=55>松子</tips>』はどうするのさ？」",
-      "en": "“Stop? Are you stupid? What do you think we're supposed to do with <tips=55>Matsuko</tips> now?”"
+      "en": "“Stop? Are you stupid? What do you think we're supposed to do with <tips=55>Matsuko</tips> now?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0319",
@@ -2237,7 +3317,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「……<tips=8>グレートホール</tips>に返そう。あそこなら、こんな生き物を自然に受け入れてくれるような気がするよ」",
-      "en": "“...Put her back in the <tips=8>Great Hole</tips>. I have a feeling that place might accept a creature like this back into nature.”"
+      "en": "“...Put her back in the <tips=8>Great Hole</tips>. I have a feeling that place might accept a creature like this back into nature.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0320",
@@ -2246,7 +3336,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「『<tips=8>グレートホール</tips>教』信者の言い分みたいだ！　ばかばかしい。あそこはただの穴だって教えてくれたのは<tips=54>汐さん</tips>でしょう！　どうしちゃったんだい？　まるで科学者らしくない。そんな世迷い言を口にして……」",
-      "en": "“You sound like one of those 'Church of the <tips=8>Great Hole</tips>' believers! That's ridiculous. You're the one who taught me it's just a hole, Mr. <tips=54>Shio</tips>! What's wrong with you? You don't sound like a scientist at all, spouting nonsense like that...”"
+      "en": "“You sound like one of those 'Church of the <tips=8>Great Hole</tips>' believers! That's ridiculous. You're the one who taught me it's just a hole, Mr. <tips=54>Shio</tips>! What's wrong with you? You don't sound like a scientist at all, spouting nonsense like that...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0321",
@@ -2255,7 +3355,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は興奮して、手を口元にやると、爪を噛みちぎる。少し指を噛んで唇に血がついた。",
-      "en": "Overwrought, <tips=1>Liang</tips> brought a hand to his mouth and bit through a fingernail. His teeth caught the finger too, smearing blood across his lips."
+      "en": "Overwrought, <tips=1>Liang</tips> brought a hand to his mouth and bit through a fingernail. His teeth caught the finger too, smearing blood across his lips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0322",
@@ -2264,7 +3374,17 @@
       "sj": "",
       "se": "",
       "jp": "　それは普段中華料理屋の夫婦に窘められている悪癖で、普段は出ないがこんな時には出てしまう。",
-      "en": "The couple at the Chinese restaurant often scolded him for the habit. He usually kept it under control, but it returned at times like this."
+      "en": "The couple at the Chinese restaurant often scolded him for the habit. He usually kept it under control, but it returned at times like this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0323",
@@ -2273,7 +3393,17 @@
       "sj": "",
       "se": "",
       "jp": "　本人も気がついて、あわてて手を下ろすと、",
-      "en": "When he realized what he was doing, he snatched his hand away."
+      "en": "When he realized what he was doing, he snatched his hand away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0324",
@@ -2282,7 +3412,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「ここまで来たものを、捨てるなんてどうかしている！　この先を見ようよ。きっと、この子は人間になるんだよ。僕や<tips=54>汐さん</tips>と同じ人間さ。歩いて、泣いたり笑ったりするんだ。どんな子になるか見ようよ。それを途中で捨てるだなんて……生きてるのに。これを捨てるなんて、そんなの科学者じゃなくても、人間として許されないことだよ」",
-      "en": "“We've brought her this far, and now you want to throw her away? That's insane! Let's see what happens. I'm sure she's going to become human—a person just like you and me, Mr. <tips=54>Shio</tips>. She'll walk, and cry, and laugh. Don't you want to see what kind of girl she becomes? We can't throw her away halfway through... She's alive. Scientist or not, no human being could be forgiven for doing that.”"
+      "en": "“We've brought her this far, and now you want to throw her away? That's insane! Let's see what happens. I'm sure she's going to become human—a person just like you and me, Mr. <tips=54>Shio</tips>. She'll walk, and cry, and laugh. Don't you want to see what kind of girl she becomes? We can't throw her away halfway through... She's alive. Scientist or not, no human being could be forgiven for doing that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0325",
@@ -2291,7 +3431,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は椅子を立ち上がると培養器に駆け寄り、",
-      "en": "<tips=1>Liang</tips> sprang from his chair and ran to the culture tank."
+      "en": "<tips=1>Liang</tips> sprang from his chair and ran to the culture tank.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0326",
@@ -2300,7 +3450,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「ほら、みてよ！　もう心臓が動いてる。これを止めようだなんて、本当に言えるの？　<tips=54>汐さん</tips>は？　これは死体とは全然ちがうよ。生きているんだ……」",
-      "en": "“Look! Her heart is already beating. Can you really say you want to stop it, Mr. <tips=54>Shio</tips>? She's nothing like a corpse. She's alive...”"
+      "en": "“Look! Her heart is already beating. Can you really say you want to stop it, Mr. <tips=54>Shio</tips>? She's nothing like a corpse. She's alive...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0327",
@@ -2309,7 +3469,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして俯いた。",
-      "en": "Then he lowered his head."
+      "en": "Then he lowered his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0328",
@@ -2318,7 +3488,17 @@
       "sj": "",
       "se": "",
       "jp": "　その様子を見て<tips=54>健慈朗</tips>は、何も言わない<tips=1>亮</tips>も、やはり父親のことを気にしているのだろうと感じた。",
-      "en": "Watching him, <tips=54>Kenjirou</tips> realized that <tips=1>Liang</tips>, who never spoke of his father, must be troubled by him after all."
+      "en": "Watching him, <tips=54>Kenjirou</tips> realized that <tips=1>Liang</tips>, who never spoke of his father, must be troubled by him after all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0329",
@@ -2327,7 +3507,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=18>ローズ・クラブ</tips>崩壊の前後、確かに街には彼の言うように『死体があふれ』ていたが、その原因は彼の父親<tips=3>クリス・ツェー</tips>が引き起こした抗争と混乱に他ならない。",
-      "en": "The City really had been 'overflowing with corpses,' as the boy said, around the fall of the <tips=18>Rose Club</tips>. And the conflict and chaos caused by his father, <tips=3>Chris Xie</tips>, were the reason."
+      "en": "The City really had been 'overflowing with corpses,' as the boy said, around the fall of the <tips=18>Rose Club</tips>. And the conflict and chaos caused by his father, <tips=3>Chris Xie</tips>, were the reason.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0330",
@@ -2336,7 +3526,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「僕はこの子が大きくなるところを見てみたい。<tips=54>汐さん</tips>がいやなら、僕一人だってやる」",
-      "en": "“I want to watch this girl grow up. If you won't help me, Mr. <tips=54>Shio</tips>, I'll do it myself.”"
+      "en": "“I want to watch this girl grow up. If you won't help me, Mr. <tips=54>Shio</tips>, I'll do it myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0331",
@@ -2345,7 +3545,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして見上げたその瞳には、光るものがにじんでいる。",
-      "en": "When he looked up, tears shone in his eyes."
+      "en": "When he looked up, tears shone in his eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0332",
@@ -2354,7 +3564,17 @@
       "sj": "",
       "se": "",
       "jp": "　気丈で、およそ泣き顔というものを見せない彼の目に涙が浮かぶのを、<tips=54>健慈朗</tips>ははじめて見た。",
-      "en": "<tips=54>Kenjirou</tips> had never seen this strong-willed boy, who almost never cried, with tears in his eyes before."
+      "en": "<tips=54>Kenjirou</tips> had never seen this strong-willed boy, who almost never cried, with tears in his eyes before.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0333",
@@ -2363,7 +3583,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「わかった。このまま実験を続けよう。……お前の言う通りだ。おれは、どうも気の迷いにでも囚われていたようだ」",
-      "en": "“All right. We'll keep going. ...You're right. I don't know what came over me.”"
+      "en": "“All right. We'll keep going. ...You're right. I don't know what came over me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0334",
@@ -2372,7 +3602,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>健慈朗</tips>は諦めて目を閉じた。",
-      "en": "<tips=54>Kenjirou</tips> closed his eyes in surrender."
+      "en": "<tips=54>Kenjirou</tips> closed his eyes in surrender.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-65673cd4af28.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X4:0336",

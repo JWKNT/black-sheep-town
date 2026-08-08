@@ -43,6 +43,7 @@
     parallelMode: document.querySelector("#parallel-mode"),
     englishMode: document.querySelector("#english-mode"),
     glossaryLink: document.querySelector("#glossary-link"),
+    portraitStage: document.querySelector("#reader-portrait-stage"),
   };
 
   const number = new Intl.NumberFormat("en-US");
@@ -225,6 +226,7 @@
     document.body.classList.toggle("english-reader-mode", state.mode === "english");
     elements.parallelMode.setAttribute("aria-pressed", String(state.mode === "parallel"));
     elements.englishMode.setAttribute("aria-pressed", String(state.mode === "english"));
+    schedulePortraitUpdate();
   }
 
   function updateChapterControls() {
@@ -289,6 +291,7 @@
     const anchorId = `line-${line.id.replace(":", "-")}`;
     article.id = anchorId;
     article.dataset.chapter = meta.slug;
+    article.readerPortraits = Array.isArray(line.p) ? line.p : [];
 
     const lineNumber = article.querySelector(".line-number");
     lineNumber.href = `?chapter=${encodeURIComponent(meta.slug)}#${anchorId}`;
@@ -304,6 +307,68 @@
     appendRichText(en.querySelector(".line-text"), line.en, terms, meta);
     article.classList.toggle("has-speaker", Boolean(cleanText(line.se)));
     return article;
+  }
+
+  function makeBackgroundFigure(source, lineId) {
+    const figure = document.createElement("figure");
+    figure.className = "reader-background";
+    const image = document.createElement("img");
+    image.src = source;
+    image.alt = "";
+    image.loading = "lazy";
+    image.decoding = "async";
+    image.width = 1600;
+    image.height = 900;
+    figure.dataset.beforeLine = lineId;
+    figure.append(image);
+    return figure;
+  }
+
+  let portraitFrame = 0;
+  let portraitSignature = "";
+
+  function updatePortraitStage() {
+    portraitFrame = 0;
+    const slots = {
+      l: elements.portraitStage.querySelector('[data-portrait-side="l"]'),
+      r: elements.portraitStage.querySelector('[data-portrait-side="r"]'),
+    };
+    if (state.mode !== "english" || elements.scriptLines.hidden) {
+      portraitSignature = "";
+      slots.l.replaceChildren();
+      slots.r.replaceChildren();
+      return;
+    }
+
+    const articles = [...elements.scriptLines.querySelectorAll(".script-line")];
+    const focusLine = window.innerHeight * 0.48;
+    let active = articles[0];
+    for (const article of articles) {
+      if (article.getBoundingClientRect().top > focusLine) break;
+      active = article;
+    }
+    const portraits = active?.readerPortraits || [];
+    const normalized = portraits.map((portrait, index) => ({
+      ...portrait,
+      side: portrait.s === "c" ? (index % 2 ? "r" : "l") : portrait.s,
+    }));
+    const signature = JSON.stringify(normalized);
+    if (signature === portraitSignature) return;
+    portraitSignature = signature;
+    slots.l.replaceChildren();
+    slots.r.replaceChildren();
+    for (const portrait of normalized) {
+      const image = document.createElement("img");
+      image.src = portrait.u;
+      image.alt = "";
+      image.decoding = "async";
+      slots[portrait.side]?.append(image);
+    }
+  }
+
+  function schedulePortraitUpdate() {
+    if (portraitFrame) return;
+    portraitFrame = requestAnimationFrame(updatePortraitStage);
   }
 
   function makeChapterDivider(meta, count) {
@@ -329,6 +394,7 @@
       const visibleLines = group.lines.slice(0, remaining);
       if (allScope) fragment.append(makeChapterDivider(group.meta, group.lines.length));
       for (const line of visibleLines) {
+        if (line.bg) fragment.append(makeBackgroundFigure(line.bg, line.id));
         fragment.append(makeLineArticle(line, group.meta, terms, allScope));
       }
       shown += visibleLines.length;
@@ -340,6 +406,8 @@
     elements.resultStatus.textContent = total > shown
       ? `${number.format(total)} matches · first ${number.format(shown)} shown`
       : `${number.format(total)} ${total === 1 ? "line" : "lines"}`;
+    portraitSignature = "";
+    schedulePortraitUpdate();
   }
 
   async function render() {
@@ -542,6 +610,8 @@
         elements.search.focus();
       }
     });
+    window.addEventListener("scroll", schedulePortraitUpdate, { passive: true });
+    window.addEventListener("resize", schedulePortraitUpdate);
   }
 
   async function init() {

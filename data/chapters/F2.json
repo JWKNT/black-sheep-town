@@ -50,7 +50,8 @@
       "sj": "",
       "se": "",
       "jp": "　キッチンで目を覚ました<tips=63>サーシェンカ</tips>は、それまでのことを何も知覚していないようで、彼が目を覚ます寸前まで全く別の男の姿をとっていたということも理解していなかった。",
-      "en": "When <tips=63>Sashen'ka</tips> woke in the kitchen, he seemed unaware of everything that had happened—including the fact that, until the moment before he woke, he had been an entirely different man."
+      "en": "When <tips=63>Sashen'ka</tips> woke in the kitchen, he seemed unaware of everything that had happened—including the fact that, until the moment before he woke, he had been an entirely different man.",
+      "bg": "assets/vn/backgrounds/bg-d2c3580fdcf7.webp"
     },
     {
       "id": "F2:0014",
@@ -68,7 +69,13 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「いつもこうだ。誰が、どうして、こんなことをするんだろう……？　僕に見せようとしているのか……」",
-      "en": "“It's always like this. Who keeps doing these things? Why...? Are they trying to show them to me...?”"
+      "en": "“It's always like this. Who keeps doing these things? Why...? Are they trying to show them to me...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0016",
@@ -77,7 +84,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは何を説明するべきか迷った。",
-      "en": "We weren't sure what to tell him."
+      "en": "We weren't sure what to tell him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0017",
@@ -86,7 +99,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の身体は眠っている間に別の男に変身し、殺人を繰り返している。――今までずっと彼は自分自身のこの事実を知らないでいたようだが、今私たちの手にはそれを報せるかどうかの選択権がある。",
-      "en": "While he slept, his body became another man, and that man went on killing. It seemed he had lived all this time without knowing that truth about himself. Now the choice of whether to tell him was in our hands."
+      "en": "While he slept, his body became another man, and that man went on killing. It seemed he had lived all this time without knowing that truth about himself. Now the choice of whether to tell him was in our hands.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0018",
@@ -95,7 +114,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの基本的な考え方からすれば、事実というものは常に明らかにされるべきだし、彼にもそれを知る権利と責任があるし、すべてを伝えると約束もした。",
-      "en": "By our principles, the truth should always be brought to light. He had a right and a duty to know it, and we had promised to tell him everything."
+      "en": "By our principles, the truth should always be brought to light. He had a right and a duty to know it, and we had promised to tell him everything.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0019",
@@ -104,7 +129,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、簡単に伝えることは出来なかった。彼に今見たありのままの真実を打ち明けた場合、どうなってしまうのか。それを予測するための情報があまりにも欠けていた。彼の背景には、私たちの知らないいくつもの要素が隠されている。",
-      "en": "But we couldn't tell him so easily. What would happen if we laid bare the truth we had just seen? We knew far too little to predict the result. Any number of things we knew nothing about lay hidden in his past."
+      "en": "But we couldn't tell him so easily. What would happen if we laid bare the truth we had just seen? We knew far too little to predict the result. Any number of things we knew nothing about lay hidden in his past.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0020",
@@ -113,7 +144,13 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「なんだか凄く憂鬱な気分だ……。今だけ、一人にしてくれない？　また今度、時間をとってゆっくり話そう……」",
-      "en": "“I feel so terribly low... Could you leave me alone for now? We can take our time and talk another day...”"
+      "en": "“I feel so terribly low... Could you leave me alone for now? We can take our time and talk another day...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0021",
@@ -122,7 +159,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=63>サーシェンカ</tips>はそう言ってうなだれた。",
-      "en": "With that, <tips=63>Sashen'ka</tips> hung his head."
+      "en": "With that, <tips=63>Sashen'ka</tips> hung his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0029",
@@ -230,7 +273,14 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「おい、お前ら」",
-      "en": "“Hey, you two.”"
+      "en": "“Hey, you two.”",
+      "bg": "assets/vn/backgrounds/bg-5d9a0be0c306.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0050",
@@ -239,7 +289,13 @@
       "sj": "",
       "se": "",
       "jp": "　その日、私たちは団地の廊下で呼び止められた。",
-      "en": "That day, someone stopped us in a corridor of the housing complex."
+      "en": "That day, someone stopped us in a corridor of the housing complex.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0051",
@@ -248,7 +304,13 @@
       "sj": "",
       "se": "",
       "jp": "「あ、<tips=14>深沢聡</tips>」",
-      "en": "“Oh, <tips=14>Satoshi Fukazawa</tips>.”"
+      "en": "“Oh, <tips=14>Satoshi Fukazawa</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0052",
@@ -257,7 +319,13 @@
       "sj": "",
       "se": "",
       "jp": "「その呼び方はやめろっていつも言ってるだろ」",
-      "en": "“How many times have I told you not to call me that?”"
+      "en": "“How many times have I told you not to call me that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0053",
@@ -266,7 +334,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は顔を顰める。",
-      "en": "He scowled."
+      "en": "He scowled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0054",
@@ -275,7 +349,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は父の知り合いで、両親が亡くなったあとは私たちの保護者というかたちになっている男だ。",
-      "en": "<tips=14>Fukazawa</tips> had known Father, and after our parents died, he became our guardian—or something like one."
+      "en": "<tips=14>Fukazawa</tips> had known Father, and after our parents died, he became our guardian—or something like one.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0055",
@@ -284,7 +364,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は団地内で威張っており、彼に逆らうものはいない。普段の仕事は何をしているかしらない。いつもオーダーメイドのピカピカと艶のあるスーツを着ている。",
-      "en": "<tips=14>Fukazawa</tips> lorded over the housing complex, and no one there defied him. We had no idea what he did for a living. He always wore glossy, custom-tailored suits."
+      "en": "<tips=14>Fukazawa</tips> lorded over the housing complex, and no one there defied him. We had no idea what he did for a living. He always wore glossy, custom-tailored suits.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0056",
@@ -293,7 +379,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「<tips=3>クリス・ツェー</tips>のヤツが死んだぞ。今日、<tips=57>滑走路通り</tips>を<tips=7>ＹＳ</tips>の連中が葬列をつくって練り歩くみたいだ。これからこの街に混乱が起きる。混乱が起これば、金が儲かる。なあ、稼ぎ時だぞ！」",
-      "en": "“That bastard <tips=3>Chris Xie</tips> is dead. Sounds like the <tips=7>YS</tips> boys are parading a funeral procession down <tips=57>Runway Street</tips> today. The City's headed for chaos, and chaos means money. This is our chance to clean up!”"
+      "en": "“That bastard <tips=3>Chris Xie</tips> is dead. Sounds like the <tips=7>YS</tips> boys are parading a funeral procession down <tips=57>Runway Street</tips> today. The City's headed for chaos, and chaos means money. This is our chance to clean up!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0057",
@@ -302,7 +394,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は笑いながら言った。",
-      "en": "<tips=14>Fukazawa</tips> laughed as he said it."
+      "en": "<tips=14>Fukazawa</tips> laughed as he said it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0058",
@@ -311,7 +409,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「それでちょっとお前らに頼みがあるんだが、<tips=3>クリス</tips>の息子の<tips=1>ツェー・ルオン</tips>がこの街に戻っているらしいじゃないか。<tips=1>ツェー・ルオン</tips>ってのはおまえらがつるんでいたあの<tips=1>菅原亮</tips>と同一人物だそうだな。なあ、何か連絡手段はあるか？　あれば、今度紹介してほしいんだが……」",
-      "en": "“So I need a little favor. I hear <tips=3>Chris</tips>'s son, <tips=1>Xie Liang</tips>, is back in the City. And apparently <tips=1>Xie Liang</tips> is that same <tips=1>Ryou Sugawara</tips> you girls used to run around with. You've got some way to reach him, don't you? Introduce me sometime, would you?”"
+      "en": "“So I need a little favor. I hear <tips=3>Chris</tips>'s son, <tips=1>Xie Liang</tips>, is back in the City. And apparently <tips=1>Xie Liang</tips> is that same <tips=1>Ryou Sugawara</tips> you girls used to run around with. You've got some way to reach him, don't you? Introduce me sometime, would you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0059",
@@ -320,7 +424,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>菅原亮</tips>の連絡先なんか知らないわ」",
-      "en": "“We don't know how to reach <tips=1>Ryou Sugawara</tips>.”"
+      "en": "“We don't know how to reach <tips=1>Ryou Sugawara</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0060",
@@ -329,7 +439,13 @@
       "sj": "",
       "se": "",
       "jp": "「私たち、あいつのこと好きじゃないもの」",
-      "en": "“We don't like him.”"
+      "en": "“We don't like him.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0061",
@@ -338,7 +454,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「そう言わずにさ。知らないわけないだろ。昔は毎日のようにつるんでいたじゃないか……」",
-      "en": "“Come on. Don't give me that. Of course you know—you used to run around together every day...”"
+      "en": "“Come on. Don't give me that. Of course you know—you used to run around together every day...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0062",
@@ -347,7 +469,13 @@
       "sj": "",
       "se": "",
       "jp": "　しつこく尋ねる<tips=14>深沢</tips>に、私たちは頑として首を縦に振らない。",
-      "en": "No matter how <tips=14>Fukazawa</tips> badgered us, we refused to budge."
+      "en": "No matter how <tips=14>Fukazawa</tips> badgered us, we refused to budge.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0063",
@@ -356,7 +484,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「おい、いい加減にしろよ。誰が育ててやったと思ってるんだ」",
-      "en": "“All right, enough. Who do you think raised you?”"
+      "en": "“All right, enough. Who do you think raised you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0064",
@@ -365,7 +499,13 @@
       "sj": "",
       "se": "",
       "jp": "　低い声ですごみをきかせて<tips=14>深沢</tips>は言う。",
-      "en": "<tips=14>Fukazawa</tips> dropped his voice to a growl."
+      "en": "<tips=14>Fukazawa</tips> dropped his voice to a growl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0065",
@@ -374,7 +514,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはそれを見て笑った。",
-      "en": "We laughed at him."
+      "en": "We laughed at him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0066",
@@ -383,7 +529,13 @@
       "sj": "",
       "se": "",
       "jp": "「怒ったところで何が出来るの？」",
-      "en": "“And what are you going to do if you get mad?”"
+      "en": "“And what are you going to do if you get mad?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0067",
@@ -392,7 +544,13 @@
       "sj": "",
       "se": "",
       "jp": "「別にあなたに頼んで育てて貰った覚えはないのに」",
-      "en": "“We don't remember asking you to raise us.”"
+      "en": "“We don't remember asking you to raise us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0068",
@@ -401,7 +559,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「なあ、そう言わないで教えておくれよ」",
-      "en": "“Aw, come on. Don't be like that. Tell me, would you?”"
+      "en": "“Aw, come on. Don't be like that. Tell me, would you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0069",
@@ -410,7 +574,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は急に弱気になって肩をすくめる。",
-      "en": "<tips=14>Fukazawa</tips> instantly deflated, his shoulders hunching."
+      "en": "<tips=14>Fukazawa</tips> instantly deflated, his shoulders hunching.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0070",
@@ -419,7 +589,13 @@
       "sj": "",
       "se": "",
       "jp": "「いやだ」",
-      "en": "“No.”"
+      "en": "“No.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0071",
@@ -428,7 +604,13 @@
       "sj": "",
       "se": "",
       "jp": "「遊びに行ってくる」",
-      "en": "“We're going out to play.”"
+      "en": "“We're going out to play.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0073",
@@ -446,7 +628,8 @@
       "sj": "",
       "se": "",
       "jp": "　天気予報では、一日中雨が降ったり止んだりするということで、外に出て空を見上げるとたしかに厚い雲が空を覆っていた。",
-      "en": "The forecast called for rain on and off all day. Sure enough, when we stepped outside and looked up, thick clouds blanketed the sky."
+      "en": "The forecast called for rain on and off all day. Sure enough, when we stepped outside and looked up, thick clouds blanketed the sky.",
+      "bg": "assets/vn/backgrounds/bg-f0d3385e1ec2.webp"
     },
     {
       "id": "F2:0080",
@@ -518,7 +701,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=57>滑走路通り</tips>の沿道には、あきらかに付近の住民と思われる人々が、エプロンや作業着を身につけたままぞろぞろと集まって来ている。そして彼らは囁き合っている。",
-      "en": "People who plainly lived nearby streamed toward <tips=57>Runway Street</tips>, still wearing aprons and work clothes, and whispered among themselves along the roadside."
+      "en": "People who plainly lived nearby streamed toward <tips=57>Runway Street</tips>, still wearing aprons and work clothes, and whispered among themselves along the roadside.",
+      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
     },
     {
       "id": "F2:0100",
@@ -563,7 +747,8 @@
       "sj": "",
       "se": "",
       "jp": "　雨がぽつぽつと降り始め、同時に道の向こうから黒塗りの何台ものオープンカーがやって来た。",
-      "en": "Scattered drops of rain began to fall just as a fleet of black convertibles appeared down the road."
+      "en": "Scattered drops of rain began to fall just as a fleet of black convertibles appeared down the road.",
+      "bg": "assets/vn/backgrounds/bg-655a33b65185.webp"
     },
     {
       "id": "F2:0119",
@@ -689,7 +874,8 @@
       "sj": "",
       "se": "",
       "jp": "　最近ではほとんど日課となっているコースだ。",
-      "en": "Lately, the route had almost become part of our daily routine."
+      "en": "Lately, the route had almost become part of our daily routine.",
+      "bg": "assets/vn/backgrounds/bg-2524af090ee8.webp"
     },
     {
       "id": "F2:0147",
@@ -788,7 +974,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「大きな声を出すな」",
-      "en": "“Keep your voices down.”"
+      "en": "“Keep your voices down.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0158",
@@ -797,7 +989,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は人差し指を唇にあて、そう怒る。",
-      "en": "He pressed a finger to his lips and snapped at us."
+      "en": "He pressed a finger to his lips and snapped at us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0159",
@@ -806,7 +1004,13 @@
       "sj": "",
       "se": "",
       "jp": "「やっと見つけたわ」",
-      "en": "“We finally found you.”"
+      "en": "“We finally found you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0160",
@@ -815,7 +1019,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=63>サーシェンカ</tips>にかわって。それが出来ないなら、代わりにいろいろ話して貰う」",
-      "en": "“Turn into <tips=63>Sashen'ka</tips>. If you can't, then you can answer our questions instead.”"
+      "en": "“Turn into <tips=63>Sashen'ka</tips>. If you can't, then you can answer our questions instead.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0161",
@@ -824,7 +1034,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「相変わらず偉そうなやつらだな。どうしておれにつきまとうんだ」",
-      "en": "“Still as high-handed as ever, I see. Why do you two keep following me?”"
+      "en": "“Still as high-handed as ever, I see. Why do you two keep following me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0162",
@@ -833,7 +1049,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたたち、とっても面白いよ」",
-      "en": "“You're both so interesting.”"
+      "en": "“You're both so interesting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0163",
@@ -842,7 +1064,13 @@
       "sj": "",
       "se": "",
       "jp": "「すごく馬鹿みたいで」",
-      "en": "“And so very stupid.”"
+      "en": "“And so very stupid.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0164",
@@ -851,7 +1079,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「勝手なことを言いやがって。おれはおまえらのようなタイプは好みじゃない」",
-      "en": "“Say whatever you like. You're not my type.”"
+      "en": "“Say whatever you like. You're not my type.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0165",
@@ -860,7 +1094,13 @@
       "sj": "",
       "se": "",
       "jp": "「それに、話をしてくれるって約束したのに、結局何も説明してもらってない」",
-      "en": "“Besides, you promised to talk, and you never explained a thing.”"
+      "en": "“Besides, you promised to talk, and you never explained a thing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0166",
@@ -869,7 +1109,13 @@
       "sj": "",
       "se": "",
       "jp": "「変態だからって嘘をつくなんて最低だよ」",
-      "en": "“Being a pervert doesn't give you the right to lie. That's just low.”"
+      "en": "“Being a pervert doesn't give you the right to lie. That's just low.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0167",
@@ -878,7 +1124,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちが問い詰めると、彼は手を振って追い払うマネをし、",
-      "en": "When we pressed him, he shooed us away with one hand."
+      "en": "When we pressed him, he shooed us away with one hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0168",
@@ -887,7 +1139,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「今日はおまえらに構っている暇はない。用事があるんだ」",
-      "en": "“I don't have time for you today. I have business to attend to.”"
+      "en": "“I don't have time for you today. I have business to attend to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0170",
@@ -1004,7 +1262,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=57>滑走路通り</tips>はすでに葬列が過ぎ去り、集まっていた見物人の姿は見えなくなっていた。",
-      "en": "The funeral procession had already passed, and the spectators had vanished from <tips=57>Runway Street</tips>."
+      "en": "The funeral procession had already passed, and the spectators had vanished from <tips=57>Runway Street</tips>.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "F2:0196",
@@ -1112,7 +1371,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「あっ」",
-      "en": "“Ah!”"
+      "en": "“Ah!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0208",
@@ -1121,7 +1386,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>は気がついて手を伸ばそうとするが、軽食はそれより早く私たちの手に収まる。",
-      "en": "<tips=10>Mido</tips> noticed and made a grab for it, but the snack reached us first."
+      "en": "<tips=10>Mido</tips> noticed and made a grab for it, but the snack reached us first.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0209",
@@ -1130,7 +1401,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「おい、灰上」",
-      "en": "“Hey, Haigami.”"
+      "en": "“Hey, Haigami.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0210",
@@ -1139,7 +1416,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は私たちを睨み付けた。",
-      "en": "He glared at us."
+      "en": "He glared at us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0211",
@@ -1148,7 +1431,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=10>見土道夫</tips>はあいかわらず迂闊だな！」",
-      "en": "“<tips=10>Michio Mido</tips> is as careless as ever!”"
+      "en": "“<tips=10>Michio Mido</tips> is as careless as ever!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0212",
@@ -1157,7 +1446,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは笑って、包みをとき、中に入っていたパンを半分に分け合った。一口囓ると、中に挟まった甘塩っぱい羊肉の味が口のなかに広がる。",
-      "en": "We laughed, opened the wrapper, and split the bread inside. At the first bite, the sweet-and-salty taste of the mutton filling spread through our mouths."
+      "en": "We laughed, opened the wrapper, and split the bread inside. At the first bite, the sweet-and-salty taste of the mutton filling spread through our mouths.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0213",
@@ -1166,7 +1461,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「おい、人の夕飯をかっぱらうなよ。もうガキじゃないのに、まだいつも腹を空かせているのか？」",
-      "en": "“Hey, don't go stealing a man's dinner. You're not kids anymore. Are you two still hungry all the time?”"
+      "en": "“Hey, don't go stealing a man's dinner. You're not kids anymore. Are you two still hungry all the time?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0214",
@@ -1175,7 +1476,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>は怒るというよりも困ったようにそう言った。",
-      "en": "<tips=10>Mido</tips> sounded more put-upon than angry."
+      "en": "<tips=10>Mido</tips> sounded more put-upon than angry.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0215",
@@ -1184,7 +1491,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうじゃない。あんたがあまりにもぼんやりとした顔で座っているからだよ」",
-      "en": "“That's not why. You were sitting there looking so hopelessly vacant.”"
+      "en": "“That's not why. You were sitting there looking so hopelessly vacant.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0216",
@@ -1193,7 +1506,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「言うほどおかしな顔かなあ」",
-      "en": "“Do I really look that funny?”"
+      "en": "“Do I really look that funny?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0217",
@@ -1202,7 +1521,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は首を捻る。",
-      "en": "He tilted his head."
+      "en": "He tilted his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0218",
@@ -1211,7 +1536,13 @@
       "sj": "",
       "se": "",
       "jp": "「見てるだけで笑っちゃう」",
-      "en": "“Your face makes us laugh just looking at it.”"
+      "en": "“Your face makes us laugh just looking at it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0219",
@@ -1220,7 +1551,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして、私たちは奪い取ったパンをすべて食べてしまう。",
-      "en": "Then we finished every last bite of the bread we had stolen."
+      "en": "Then we finished every last bite of the bread we had stolen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0220",
@@ -1229,7 +1566,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>は怒らない。呆れているだけだ。昔から何度もからかっているけれど、本気で怒った姿を見たことがない。",
-      "en": "<tips=10>Mido</tips> didn't get angry, only exasperated. We had tormented him countless times since childhood, but had never once seen him truly lose his temper."
+      "en": "<tips=10>Mido</tips> didn't get angry, only exasperated. We had tormented him countless times since childhood, but had never once seen him truly lose his temper.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0221",
@@ -1238,7 +1581,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「まあいいや。それにしても、久しぶりだなあ。学校生活はどうだ？　<tips=1>亮</tips>が通っていたのと同じ学校に通ってるんだろ？」",
-      "en": "“Oh, well. It's been a while, hasn't it? How's school? You go to the same one <tips=1>Ryou</tips> did, right?”"
+      "en": "“Oh, well. It's been a while, hasn't it? How's school? You go to the same one <tips=1>Ryou</tips> did, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0222",
@@ -1247,7 +1596,13 @@
       "sj": "",
       "se": "",
       "jp": "「紹介してくれたあいつの性格と同じで、つまらなくて退屈で死にそう」",
-      "en": "“It's just like the person who recommended it: boring enough to kill us.”"
+      "en": "“It's just like the person who recommended it: boring enough to kill us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0223",
@@ -1256,7 +1611,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>菅原亮</tips>にはすっかり騙されたわ。行くんじゃなかった！　毎日毎日、何かを覚えてそれをテストで書くだけの生活なんて、何が面白いのか！」",
-      "en": "“<tips=1>Ryou Sugawara</tips> tricked us. We never should have gone! Every single day, all we do is memorize something and write it down on a test. What's supposed to be fun about that?”"
+      "en": "“<tips=1>Ryou Sugawara</tips> tricked us. We never should have gone! Every single day, all we do is memorize something and write it down on a test. What's supposed to be fun about that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0224",
@@ -1265,7 +1626,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは顔をしかめた。",
-      "en": "We pulled faces."
+      "en": "We pulled faces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0225",
@@ -1274,7 +1641,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「親切で紹介してやったんだろうに、あいつも悲しむぞ。あ、そうだ。最近この街にいるみたいだから会ったらどうだ？　懐かしいだろう」",
-      "en": "“He was trying to do you a favor. You'll hurt his feelings. Oh, right—he's back in the City, isn't he? Why not go see him? You must miss the guy.”"
+      "en": "“He was trying to do you a favor. You'll hurt his feelings. Oh, right—he's back in the City, isn't he? Why not go see him? You must miss the guy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0226",
@@ -1283,7 +1656,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はそう言った。",
-      "en": "That was his suggestion."
+      "en": "That was his suggestion.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0227",
@@ -1292,7 +1671,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは、その<tips=1>菅原亮</tips>を先ほど見たばかりだが、その話はしたくなかった。",
-      "en": "In fact, we had seen <tips=1>Ryou Sugawara</tips> only moments ago, but we didn't want to say so."
+      "en": "In fact, we had seen <tips=1>Ryou Sugawara</tips> only moments ago, but we didn't want to say so.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0228",
@@ -1301,7 +1686,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうらしいね。でも、いやだよ」",
-      "en": "“So we hear. But we don't want to.”"
+      "en": "“So we hear. But we don't want to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0229",
@@ -1310,7 +1701,13 @@
       "sj": "",
       "se": "",
       "jp": "「あいつ気持ち悪いもの」",
-      "en": "“He's disgusting.”"
+      "en": "“He's disgusting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0230",
@@ -1319,7 +1716,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>菅原亮</tips>と親友の<tips=10>見土</tips>は溜息をつく。",
-      "en": "<tips=10>Mido</tips>, <tips=1>Ryou Sugawara</tips>'s best friend, sighed."
+      "en": "<tips=10>Mido</tips>, <tips=1>Ryou Sugawara</tips>'s best friend, sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0231",
@@ -1328,7 +1731,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>菅原</tips>と<tips=10>見土</tips>は、ずっとこの辺りに住む子供たちのリーダーだった。<tips=1>菅原</tips>は進学のために街を離れたけれど、<tips=10>見土</tips>は引き続き子供時代の仲間と共に新しい仕事をはじめようとしている。",
-      "en": "<tips=1>Sugawara</tips> and <tips=10>Mido</tips> had always led the neighborhood children. <tips=1>Sugawara</tips> left the City to continue his education, but <tips=10>Mido</tips> stayed behind and was now trying to start a business with his childhood friends."
+      "en": "<tips=1>Sugawara</tips> and <tips=10>Mido</tips> had always led the neighborhood children. <tips=1>Sugawara</tips> left the City to continue his education, but <tips=10>Mido</tips> stayed behind and was now trying to start a business with his childhood friends.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0232",
@@ -1337,7 +1746,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>の新しい土産物を作り出して、仕事がないまま悪事に手を染める地域の若者たちに職を与えようというつもりらしい。",
-      "en": "His idea was to create a new <tips=9>Y District</tips> souvenir and provide work for local youths who had no jobs and were drifting into crime."
+      "en": "His idea was to create a new <tips=9>Y District</tips> souvenir and provide work for local youths who had no jobs and were drifting into crime.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0233",
@@ -1346,7 +1761,13 @@
       "sj": "",
       "se": "",
       "jp": "　目的は立派だけれど、商売が軌道にのったとは言えない状況だ。",
-      "en": "It was a noble goal. The business itself had yet to get off the ground."
+      "en": "It was a noble goal. The business itself had yet to get off the ground.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0234",
@@ -1355,7 +1776,13 @@
       "sj": "",
       "se": "",
       "jp": "　そもそも、<tips=10>見土</tips>は中立的な立場のつもりでいるが、『<tips=21>八龍会</tips>』という<tips=17>タイプB</tips>たちの秘密組織の御曹司である彼は、街の大人たちには多少なりとも色眼鏡で見られている。仮に商売がうまくいっても、彼の考えているように街全体の若者に影響を与えるというようなことはないだろう。<tips=17>タイプB</tips>を中心としたものになるはずだ。",
-      "en": "For one thing, <tips=10>Mido</tips> considered himself neutral, but he was the heir to the ‘<tips=21>Dragon Club</tips>,’ a secret organization of <tips=17>Type B</tips> people. That colored how the City's adults saw him. Even if his business succeeded, it probably wouldn't reach young people throughout the City as he imagined. It was bound to center on <tips=17>Type B</tips> people."
+      "en": "For one thing, <tips=10>Mido</tips> considered himself neutral, but he was the heir to the ‘<tips=21>Dragon Club</tips>,’ a secret organization of <tips=17>Type B</tips> people. That colored how the City's adults saw him. Even if his business succeeded, it probably wouldn't reach young people throughout the City as he imagined. It was bound to center on <tips=17>Type B</tips> people.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0235",
@@ -1364,7 +1791,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうか……それはともかく、丁度良かった。お前らに聞きたいことがあったんだよ」",
-      "en": "“I see... Anyway, never mind that. This is perfect—I wanted to ask you two something.”"
+      "en": "“I see... Anyway, never mind that. This is perfect—I wanted to ask you two something.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0236",
@@ -1373,7 +1806,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>は奪われた食事のことはもう忘れてくれたようだ。",
-      "en": "<tips=10>Mido</tips> seemed to have forgotten all about his stolen meal."
+      "en": "<tips=10>Mido</tips> seemed to have forgotten all about his stolen meal.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0237",
@@ -1382,7 +1821,13 @@
       "sj": "",
       "se": "",
       "jp": "「何？　手短にしてよね」",
-      "en": "“What? Make it quick.”"
+      "en": "“What? Make it quick.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0238",
@@ -1391,7 +1836,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=10>道夫</tips>の話って、いつも長すぎるのよ」",
-      "en": "“<tips=10>Michio</tips>, your stories always take forever.”"
+      "en": "“<tips=10>Michio</tips>, your stories always take forever.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0239",
@@ -1400,7 +1851,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いいから答えてくれよ。なあ、お前ら。この世界にたくさんいるノーマルたちと、自分たちミュータントの違いについて考えたことはあるか？　なぜ自分たちのような存在がこの世の中に生まれたのかってさ」",
-      "en": "“Just answer me. Have you two ever thought about the difference between all the Normals in this world and mutants like us? Why people like us were born in the first place?”"
+      "en": "“Just answer me. Have you two ever thought about the difference between all the Normals in this world and mutants like us? Why people like us were born in the first place?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0240",
@@ -1409,7 +1866,13 @@
       "sj": "",
       "se": "",
       "jp": "　その質問に、私たちは顔を見合わせてしまう。",
-      "en": "We looked at each other."
+      "en": "We looked at each other.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0241",
@@ -1418,7 +1881,13 @@
       "sj": "",
       "se": "",
       "jp": "「あの<tips=10>見土道夫</tips>が、思春期になりたての子供みたいな哲学的な問いかけをしているわ」",
-      "en": "“<tips=10>Michio Mido</tips> is asking philosophical questions like a child who just hit puberty.”"
+      "en": "“<tips=10>Michio Mido</tips> is asking philosophical questions like a child who just hit puberty.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0242",
@@ -1427,7 +1896,13 @@
       "sj": "",
       "se": "",
       "jp": "「大丈夫？　頭でも打ったんじゃないの？」",
-      "en": "“Are you all right? Did you hit your head?”"
+      "en": "“Are you all right? Did you hit your head?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0243",
@@ -1436,7 +1911,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「おい、たまには真面目におれの話を……」",
-      "en": "“Hey, for once, could you take me seri—”"
+      "en": "“Hey, for once, could you take me seri—”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0244",
@@ -1445,7 +1926,13 @@
       "sj": "",
       "se": "",
       "jp": "「それより、私たち、用事があるのよ」",
-      "en": "“Never mind that. We have somewhere to be.”"
+      "en": "“Never mind that. We have somewhere to be.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0245",
@@ -1454,7 +1941,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう、こんな寄り道をしている暇はないんだわ！　<tips=10>見土道夫</tips>があんまりからかいたくなる顔をしているから……」",
-      "en": "“Right! We don't have time for detours. It's only because <tips=10>Michio Mido</tips> was making such an irresistible face...”"
+      "en": "“Right! We don't have time for detours. It's only because <tips=10>Michio Mido</tips> was making such an irresistible face...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0246",
@@ -1463,7 +1956,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「おれのせいなのかよ」",
-      "en": "“How's that my fault?”"
+      "en": "“How's that my fault?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0247",
@@ -1472,7 +1971,13 @@
       "sj": "",
       "se": "",
       "jp": "「……私たち、とても面白い遊びを見つけたの」",
-      "en": "“...We found a very interesting game.”"
+      "en": "“...We found a very interesting game.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0248",
@@ -1481,7 +1986,13 @@
       "sj": "",
       "se": "",
       "jp": "「だからもう、<tips=10>見土道夫</tips>とは遊べないんだから。ごめんなさいね」",
-      "en": "“So we can't play with <tips=10>Michio Mido</tips> anymore. Sorry.”"
+      "en": "“So we can't play with <tips=10>Michio Mido</tips> anymore. Sorry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0249",
@@ -1490,7 +2001,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちが笑うと、<tips=10>見土</tips>は顔を顰める。",
-      "en": "When we laughed, <tips=10>Mido</tips> grimaced."
+      "en": "When we laughed, <tips=10>Mido</tips> grimaced.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f6b87bbf217c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0250",
@@ -1499,7 +2016,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ん、どういうことだ？」",
-      "en": "“Huh? What's that supposed to mean?”"
+      "en": "“Huh? What's that supposed to mean?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0251",
@@ -1508,7 +2031,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは言えないわ！」",
-      "en": "“We can't tell you!”"
+      "en": "“We can't tell you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0252",
@@ -1517,7 +2046,13 @@
       "sj": "",
       "se": "",
       "jp": "「用事があるの！　じゃあね！」",
-      "en": "“We have somewhere to be! Bye!”"
+      "en": "“We have somewhere to be! Bye!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0253",
@@ -1526,7 +2061,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「お、おい。ちょっと待て」",
-      "en": "“H-Hey, wait!”"
+      "en": "“H-Hey, wait!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0254",
@@ -1535,7 +2076,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私たちは、その場を離れた。",
-      "en": "And with that, we left him behind."
+      "en": "And with that, we left him behind.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "F2:0256",
@@ -1571,7 +2118,8 @@
       "sj": "",
       "se": "",
       "jp": "　その日はもう<tips=20>コシチェイ</tips>を探すのを諦めたつもりだった。",
-      "en": "We thought we had given up looking for <tips=20>Koschei</tips> for the day."
+      "en": "We thought we had given up looking for <tips=20>Koschei</tips> for the day.",
+      "bg": "assets/vn/backgrounds/bg-3e917cd04648.webp"
     },
     {
       "id": "F2:0265",
@@ -1670,7 +2218,8 @@
       "sj": "",
       "se": "",
       "jp": "　捜しはじめてしばらくすると、雨がぽつりぽつりと降り始め、やがてジャアジャアと本降りになった。",
-      "en": "A little while into our search, rain began to patter down, then turned into a downpour."
+      "en": "A little while into our search, rain began to patter down, then turned into a downpour.",
+      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
     },
     {
       "id": "F2:0281",
@@ -1760,7 +2309,8 @@
       "sj": "",
       "se": "",
       "jp": "「どういうことです？　<tips=20>コシチェイ</tips>は始末したんでしょう？」",
-      "en": "“What happened? You dealt with <tips=20>Koschei</tips>, didn't you?”"
+      "en": "“What happened? You dealt with <tips=20>Koschei</tips>, didn't you?”",
+      "bg": "assets/vn/backgrounds/bg-2776309392bf.webp"
     },
     {
       "id": "F2:0304",
@@ -2147,7 +2697,8 @@
       "sj": "",
       "se": "",
       "jp": "　血だまりのなかには角の生えた大男が一人へたり込んでいる。",
-      "en": "A huge horned man sat slumped in a pool of blood."
+      "en": "A huge horned man sat slumped in a pool of blood.",
+      "bg": "assets/vn/backgrounds/bg-0c48975869ab.webp"
     },
     {
       "id": "F2:0357",
@@ -2210,7 +2761,14 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「灰上！」",
-      "en": "“Haigami!”"
+      "en": "“Haigami!”",
+      "bg": "assets/vn/backgrounds/bg-cd6740c89d54.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0377",
@@ -2219,7 +2777,13 @@
       "sj": "",
       "se": "",
       "jp": "「鬼と、狼男。まるでお化け屋敷だわ」",
-      "en": "“An ogre and a werewolf. It's like a haunted house.”"
+      "en": "“An ogre and a werewolf. It's like a haunted house.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0378",
@@ -2228,7 +2792,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたたちのこと知ってる。サイキックばっかり逮捕するワンコロ刑事さんに、その手下の元探偵さんでしょ」",
-      "en": "“We know you. The doggy detective who arrests nothing but psychics, and his pet ex-detective.”"
+      "en": "“We know you. The doggy detective who arrests nothing but psychics, and his pet ex-detective.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0379",
@@ -2237,7 +2807,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはそう言った。",
-      "en": "That was our greeting."
+      "en": "That was our greeting.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0380",
@@ -2246,7 +2822,13 @@
       "sj": "",
       "se": "",
       "jp": "　威勢良く言ったつもりだったが、その声が微かに震えていることに、お互い気づいていた。",
-      "en": "We meant it to sound bold. But each of us heard the faint tremor in the other's voice."
+      "en": "We meant it to sound bold. But each of us heard the faint tremor in the other's voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0381",
@@ -2255,7 +2837,13 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「おまえたちが、なぜここに？」",
-      "en": "“Why are you here?”"
+      "en": "“Why are you here?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0382",
@@ -2264,7 +2852,13 @@
       "sj": "",
       "se": "",
       "jp": "　犬頭の方がそう言った。",
-      "en": "The dog-headed man had spoken."
+      "en": "The dog-headed man had spoken.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0383",
@@ -2273,7 +2867,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は<tips=9>Y地区</tips>において<tips=16>タイプA</tips>の犯罪者を取り締まる特別捜査官だと私たちは知っている。すべての犯罪者を捕まえていたらキリがないこの街で、社会に対して特に脅威となる犯人を選んで捕まえている。",
-      "en": "We knew he was a special investigator assigned to <tips=16>Type A</tips> criminals in <tips=9>Y District</tips>. Arresting every criminal in the City would never end, so he selected only those who posed an exceptional threat to society."
+      "en": "We knew he was a special investigator assigned to <tips=16>Type A</tips> criminals in <tips=9>Y District</tips>. Arresting every criminal in the City would never end, so he selected only those who posed an exceptional threat to society.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0384",
@@ -2282,7 +2882,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは捜査の対象となったことはなかったが、<tips=7>ＹＳ</tips>の誰々を彼が逮捕したという噂を聞いたり、街でその姿を見かけたことはあった。サイキックの多くは奇異な身体的特徴を持つが、そのなかでもひときわ目立つその姿は、誰にでもそうとわかりやすい。",
-      "en": "We had never been among his targets, but we had heard rumors about this or that <tips=7>YS</tips> member he arrested, and had seen him around the City. Many psychics had strange physical traits, but even among them, he was unmistakable."
+      "en": "We had never been among his targets, but we had heard rumors about this or that <tips=7>YS</tips> member he arrested, and had seen him around the City. Many psychics had strange physical traits, but even among them, he was unmistakable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0385",
@@ -2291,7 +2897,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちのようなサイキックにとって、天敵というべき存在だった。",
-      "en": "To psychics like us, he was a natural enemy."
+      "en": "To psychics like us, he was a natural enemy.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0386",
@@ -2300,7 +2912,13 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「……<tips=20>コシチェイ</tips>と、関わっているのか？」",
-      "en": "“...Are you involved with <tips=20>Koschei</tips>?”"
+      "en": "“...Are you involved with <tips=20>Koschei</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0387",
@@ -2309,7 +2927,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はそう問う。私たちは彼と会話をするつもりはなかった。",
-      "en": "He asked the question. We had no intention of answering."
+      "en": "He asked the question. We had no intention of answering.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0388",
@@ -2318,7 +2942,13 @@
       "sj": "",
       "se": "",
       "jp": "　ナイフを一本取り出した。<tips=57>滑走路通り</tips>の雑貨店で売っていた一番小さなペティナイフで、いつも三本持ち歩いている。私たちの片方が『ちから』を使って飛ばしても、もう片方が<tips=17>タイプB</tips>の優れた身体能力で投擲しても役に立つ。",
-      "en": "One of us drew another knife—the smallest paring knife sold at a general store on <tips=57>Runway Street</tips>. We always carried three. They worked equally well whether one sister sent them flying with her ‘power’ or the other threw them with her superior <tips=17>Type B</tips> strength."
+      "en": "One of us drew another knife—the smallest paring knife sold at a general store on <tips=57>Runway Street</tips>. We always carried three. They worked equally well whether one sister sent them flying with her ‘power’ or the other threw them with her superior <tips=17>Type B</tips> strength.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0389",
@@ -2327,7 +2957,13 @@
       "sj": "",
       "se": "",
       "jp": "　まだ幼くて、もっと性格が攻撃的だったころには他人を脅すためによく取り出したが、今はもう完全に出番がなく、ただ習慣として持っていた。用途があろうとなかろうと、常に武器を身につけているというのは、私たちにとって非常に重要なことだった。",
-      "en": "When we were younger and more aggressive, we often drew them to threaten people. These days they never saw any use. We carried them out of habit. Whether or not a weapon had a purpose, keeping one on us at all times mattered greatly."
+      "en": "When we were younger and more aggressive, we often drew them to threaten people. These days they never saw any use. We carried them out of habit. Whether or not a weapon had a purpose, keeping one on us at all times mattered greatly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0390",
@@ -2336,7 +2972,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは『ちから』によってふわふわと空中にナイフを浮かす。",
-      "en": "We made the knife drift in midair with our ‘power.’"
+      "en": "We made the knife drift in midair with our ‘power.’",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0391",
@@ -2345,7 +2987,13 @@
       "sj": "",
       "se": "",
       "jp": "　昔、人を威圧するときによくつかった手だった。",
-      "en": "It was an old trick of ours for intimidating people."
+      "en": "It was an old trick of ours for intimidating people.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0392",
@@ -2354,7 +3002,13 @@
       "sj": "",
       "se": "",
       "jp": "「大人しく退散しなさい。さっきのは警告よ。次は急所を狙う」",
-      "en": "“Leave quietly. That one was a warning. The next goes somewhere vital.”"
+      "en": "“Leave quietly. That one was a warning. The next goes somewhere vital.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0393",
@@ -2363,7 +3017,13 @@
       "sj": "",
       "se": "",
       "jp": "「馬鹿なことはやめろ。おまえたちがこの殺人鬼に手を貸す理由はないはずだ」",
-      "en": "“Stop this foolishness. You have no reason to help this murderer.”"
+      "en": "“Stop this foolishness. You have no reason to help this murderer.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0394",
@@ -2372,7 +3032,13 @@
       "sj": "",
       "se": "",
       "jp": "　犬頭はひるむ様子がなかった。そして、その腕が素早く懐の中に入る。",
-      "en": "The dog-headed man didn't flinch. His hand darted inside his coat."
+      "en": "The dog-headed man didn't flinch. His hand darted inside his coat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0396",
@@ -2381,7 +3047,13 @@
       "sj": "",
       "se": "",
       "jp": "　何かされると察知したので、空中に浮かんでいたナイフを彼に向かって飛ばしたが、彼はそれより早く黒い銃を抜き取って、私たちに向ける。",
-      "en": "We sensed he was about to act and sent the hovering knife at him. But he was faster. He drew a black pistol and aimed it at us."
+      "en": "We sensed he was about to act and sent the hovering knife at him. But he was faster. He drew a black pistol and aimed it at us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0398",
@@ -2390,7 +3062,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてパンと音がして、銃口の奥が光るのが見えた。",
-      "en": "There was a sharp crack, and we saw light flare deep inside the muzzle."
+      "en": "There was a sharp crack, and we saw light flare deep inside the muzzle.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0400",
@@ -2399,7 +3077,13 @@
       "sj": "",
       "se": "",
       "jp": "「うっ」",
-      "en": "“Urgh!”"
+      "en": "“Urgh!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0401",
@@ -2408,7 +3092,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の銃弾は私たちの片方の肩に命中した。皮膚が破れ、血が流れ、それから少し遅れるように焼け付くような痛みを感じる。",
-      "en": "The bullet struck one of us in the shoulder. Skin tore. Blood flowed. A beat later came the searing pain."
+      "en": "The bullet struck one of us in the shoulder. Skin tore. Blood flowed. A beat later came the searing pain.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0402",
@@ -2417,7 +3107,13 @@
       "sj": "",
       "se": "",
       "jp": "　集中が途切れ、『ちから』を失ったナイフは床に落ちた。",
-      "en": "Her concentration broke, and the knife—its ‘power’ gone—clattered to the floor."
+      "en": "Her concentration broke, and the knife—its ‘power’ gone—clattered to the floor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0403",
@@ -2426,7 +3122,13 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「答えろ！　なぜここにいる！　そして私たちに危害を加える？」",
-      "en": "“Answer me! Why are you here? Why did you attack us?”"
+      "en": "“Answer me! Why are you here? Why did you attack us?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0404",
@@ -2435,7 +3137,13 @@
       "sj": "",
       "se": "",
       "jp": "　犬頭はそう怒鳴った。",
-      "en": "The dog-headed man roared the questions at us."
+      "en": "The dog-headed man roared the questions at us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0405",
@@ -2444,7 +3152,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは躊躇なく発砲を受けたという現実を認識するのに少し時間がかかった。",
-      "en": "It took a moment to understand that he had truly shot one of us without hesitation."
+      "en": "It took a moment to understand that he had truly shot one of us without hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0406",
@@ -2453,7 +3167,13 @@
       "sj": "",
       "se": "",
       "jp": "　子供のころにはよく乱暴な場面に立ちあったが、銃で撃たれるようなことはなかったし、最近は団地周辺やこの街で他人同士の争いはよく見るものの、自分が争いごとの当事者になることはなかった。",
-      "en": "We had witnessed plenty of violence as children, but no one had ever shot us. And though we often saw people fighting around the housing complex and elsewhere in the City, lately we had never been the ones involved."
+      "en": "We had witnessed plenty of violence as children, but no one had ever shot us. And though we often saw people fighting around the housing complex and elsewhere in the City, lately we had never been the ones involved.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0407",
@@ -2462,7 +3182,13 @@
       "sj": "",
       "se": "",
       "jp": "　感覚が少し甘くなっていたのだと私たちは実感した。",
-      "en": "We realized our instincts had gone soft."
+      "en": "We realized our instincts had gone soft.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0408",
@@ -2471,7 +3197,13 @@
       "sj": "",
       "se": "",
       "jp": "　負傷してよろめく片方を、もう片方が支える。",
-      "en": "The unhurt sister caught the wounded one as she staggered."
+      "en": "The unhurt sister caught the wounded one as she staggered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0409",
@@ -2480,7 +3212,13 @@
       "sj": "",
       "se": "",
       "jp": "「やったわね。これで私たちも、容赦する理由がなくなったみたいね……」",
-      "en": "“Now you've done it. We don't seem to have any reason to spare you anymore...”"
+      "en": "“Now you've done it. We don't seem to have any reason to spare you anymore...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0410",
@@ -2489,7 +3227,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは気持ちを切り換えながら彼を睨み付けた。",
-      "en": "We shifted our frame of mind and glared at him."
+      "en": "We shifted our frame of mind and glared at him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0411",
@@ -2498,7 +3242,13 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「おかしな真似をするな。それ以上能力を使って危害を加えようとするのならば、私の職権において射殺する」",
-      "en": "“Don't try anything. Use your ability to harm us again, and I will shoot you dead under the authority of my office.”"
+      "en": "“Don't try anything. Use your ability to harm us again, and I will shoot you dead under the authority of my office.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0412",
@@ -2507,7 +3257,13 @@
       "sj": "",
       "se": "",
       "jp": "　犬頭は銃口で私たちを脅す。",
-      "en": "The dog-headed man threatened us with the muzzle of his pistol."
+      "en": "The dog-headed man threatened us with the muzzle of his pistol.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0413",
@@ -2516,7 +3272,13 @@
       "sj": "",
       "se": "",
       "jp": "「必要な警告はもうしたわ。あなたは自分の運命を自分で決めたのよ」",
-      "en": "“We gave you fair warning. You chose your own fate.”"
+      "en": "“We gave you fair warning. You chose your own fate.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0414",
@@ -2525,7 +3287,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはそう言いながら、部屋にもう一人いる大男の方をチラと見た。",
-      "en": "As we spoke, we glanced at the other large man in the room."
+      "en": "As we spoke, we glanced at the other large man in the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0415",
@@ -2534,7 +3302,13 @@
       "sj": "",
       "se": "",
       "jp": "　角が生えたその男も、この街では少し知られた人物だった。異様な姿が示すとおり、彼もサイキックだ。",
-      "en": "The horned man was somewhat famous in the City. As his bizarre appearance suggested, he too was psychic."
+      "en": "The horned man was somewhat famous in the City. As his bizarre appearance suggested, he too was psychic.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0416",
@@ -2543,7 +3317,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はこわばった表情で床の上に座ったままだった。ここは彼の住まいのようだから、床に散らばった死体は彼の知り合いなのだ。その死のショックで気力を失っているのならば、私たちにとって都合が良かった。",
-      "en": "He still sat rigid on the floor. This seemed to be his home, which meant the pieces scattered around it belonged to someone he knew. If the shock of her death had drained his will to fight, that suited us perfectly."
+      "en": "He still sat rigid on the floor. This seemed to be his home, which meant the pieces scattered around it belonged to someone he knew. If the shock of her death had drained his will to fight, that suited us perfectly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0417",
@@ -2552,7 +3332,13 @@
       "sj": "",
       "se": "",
       "jp": "　といっても、彼が何もしないとしても、銃を突きつけられたこの状態は私たちにとって有利なものとは言えなかった。",
-      "en": "Even so, with a gun pointed at us, our position was hardly favorable."
+      "en": "Even so, with a gun pointed at us, our position was hardly favorable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0418",
@@ -2561,7 +3347,13 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「……<tips=20>コシチェイ</tips>とどういう繋がりか、あとでゆっくりと調べさせてもらおうか」",
-      "en": "“...We can take our time later finding out exactly what connects you to <tips=20>Koschei</tips>.”"
+      "en": "“...We can take our time later finding out exactly what connects you to <tips=20>Koschei</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0419",
@@ -2570,7 +3362,13 @@
       "sj": "",
       "se": "",
       "jp": "　犬頭は手に構えた銃を私たちに向けながら、もう片方の手で別の銀色の銃を取り出した。",
-      "en": "Keeping the pistol in one hand trained on us, the dog-headed man drew a second, silver gun with the other."
+      "en": "Keeping the pistol in one hand trained on us, the dog-headed man drew a second, silver gun with the other.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0420",
@@ -2579,7 +3377,13 @@
       "sj": "",
       "se": "",
       "jp": "　こちらが二人だから、一丁ずつ両方に銃口を向けるつもりなのだろうか？",
-      "en": "There were two of us. Was he going to point one gun at each sister?"
+      "en": "There were two of us. Was he going to point one gun at each sister?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0421",
@@ -2588,7 +3392,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちにとって最も有効な行動はすでにわかっている。『ちから』を使って銃口をそらし、その隙にもう一人が素早く駆け寄って押さえつける。<tips=17>タイプB</tips>ならばとっくみあいになっても負けることはない。",
-      "en": "We already knew our best move. One sister would turn the muzzle aside with her ‘power’; the other would rush in and pin him down. Once a <tips=17>Type B</tips> got her hands on him, she couldn't lose."
+      "en": "We already knew our best move. One sister would turn the muzzle aside with her ‘power’; the other would rush in and pin him down. Once a <tips=17>Type B</tips> got her hands on him, she couldn't lose.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0422",
@@ -2597,7 +3407,13 @@
       "sj": "",
       "se": "",
       "jp": "　だがリスクがないわけではない。『ちから』は、それほど強いものではなく、彼のような成人男性がその気になれば『ちから』に逆らいながら照準をあわせ、発砲することも出来る。",
-      "en": "But it wasn't without risk. Our ‘power’ wasn't very strong. A grown man like him could resist it, force his sights back into line, and fire."
+      "en": "But it wasn't without risk. Our ‘power’ wasn't very strong. A grown man like him could resist it, force his sights back into line, and fire.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0423",
@@ -2606,7 +3422,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは動かなかった。この状況をもっと有利に変化させそうな事態が、犬頭の後ろで起こっているのを見つけたからだ。",
-      "en": "We stayed still. Something behind the dog-headed man was happening that might tip the balance in our favor."
+      "en": "We stayed still. Something behind the dog-headed man was happening that might tip the balance in our favor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0424",
@@ -2615,7 +3437,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の後ろには別な部屋がある。そこで、ゆらりと人影が動くのが見えた。",
-      "en": "A second room lay behind him. Inside, a human silhouette swayed into motion."
+      "en": "A second room lay behind him. Inside, a human silhouette swayed into motion.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0425",
@@ -2624,7 +3452,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは胸を真っ赤な血で染めた<tips=20>コシチェイ</tips>で、彼は私たちを見るとまず『おや』と驚くような顔をしてから、苦笑した。",
-      "en": "It was <tips=20>Koschei</tips>, his chest soaked scarlet. He noticed us, raised his brows in mild surprise, then gave a rueful smile."
+      "en": "It was <tips=20>Koschei</tips>, his chest soaked scarlet. He noticed us, raised his brows in mild surprise, then gave a rueful smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0426",
@@ -2633,7 +3467,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はナイフを手に持っている。私たちは、彼に気づかないようなふりをして犬頭を睨んでいる。",
-      "en": "He held a knife. We kept glaring at the dog-headed man and pretended not to see him."
+      "en": "He held a knife. We kept glaring at the dog-headed man and pretended not to see him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0427",
@@ -2642,7 +3482,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼はそのナイフを犬頭の背中に突き刺した。",
-      "en": "Then he drove the knife into the dog-headed man's back."
+      "en": "Then he drove the knife into the dog-headed man's back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0430",
@@ -2696,7 +3542,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうか。だが、ちょっと遅かったな」",
-      "en": "“You do? A little late now.”"
+      "en": "“You do? A little late now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0436",
@@ -2705,7 +3557,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は日本語でそう言って、にやりと笑った。",
-      "en": "<tips=20>Koschei</tips> said it in Japanese and grinned."
+      "en": "<tips=20>Koschei</tips> said it in Japanese and grinned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0437",
@@ -2714,7 +3572,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「死んでやれればよかったんだが、気の毒だがおれは死なないんだ。<tips=20>コシチェイ</tips>というのは、不死身って意味なんだよ」",
-      "en": "“I'd have died for you if I could, but unfortunately, I can't. That's what <tips=20>Koschei</tips> means: ‘deathless.’”"
+      "en": "“I'd have died for you if I could, but unfortunately, I can't. That's what <tips=20>Koschei</tips> means: ‘deathless.’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0438",
@@ -2723,7 +3587,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はそして私たちの方を見る。私たちが小さく頷くと、彼は肩をすくめる。",
-      "en": "He looked toward us. We gave him a small nod, and he shrugged."
+      "en": "He looked toward us. We gave him a small nod, and he shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0439",
@@ -2732,7 +3602,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まったく、今日はツイてない。こんな下らない仕事をさせられた上に、こんな穴だらけにされちまって……」",
-      "en": "“Honestly, this isn't my day. First I'm made to do this stupid job, and then I get shot full of holes...”"
+      "en": "“Honestly, this isn't my day. First I'm made to do this stupid job, and then I get shot full of holes...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0440",
@@ -2741,7 +3617,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう溜息をつく<tips=20>コシチェイ</tips>の足元にいる犬頭が、急に素早く動いて銀の銃を<tips=20>コシチェイ</tips>に向けようとしているのが見えた。",
-      "en": "As <tips=20>Koschei</tips> sighed, the dog-headed man at his feet moved with sudden speed, swinging the silver gun toward <tips=20>Koschei</tips>."
+      "en": "As <tips=20>Koschei</tips> sighed, the dog-headed man at his feet moved with sudden speed, swinging the silver gun toward <tips=20>Koschei</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0441",
@@ -2750,7 +3632,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは『ちから』を使ってその腕を押しのける。銀の銃はプシュと音を鳴らして何かを発射させ、それはアパートの壁に突き刺さった。何か液体の入った筒状のものだ。",
-      "en": "We shoved his arm aside with our ‘power.’ The silver gun went psh and fired something into the apartment wall—a little cylinder filled with liquid."
+      "en": "We shoved his arm aside with our ‘power.’ The silver gun went psh and fired something into the apartment wall—a little cylinder filled with liquid.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0442",
@@ -2759,7 +3647,13 @@
       "sj": "",
       "se": "",
       "jp": "　薬剤か何かを私たちに打ち込もうとしたのだろうか？",
-      "en": "Had he meant to inject us with some kind of drug?"
+      "en": "Had he meant to inject us with some kind of drug?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0443",
@@ -2768,7 +3662,13 @@
       "sj": "",
       "se": "",
       "jp": "　それを眺めている私たちの視界の端で、これまで床の上でじっとしていた角男が急に動いたのが見えた。",
-      "en": "As we stared at it, the horned man—motionless until then—moved at the edge of our vision."
+      "en": "As we stared at it, the horned man—motionless until then—moved at the edge of our vision.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0445",
@@ -2777,7 +3677,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は手を動かし、何かをこちらに投げつける。あやうく命中するところだったが、私たちは『ちから』を使ってそれをはねのけた。床にゴトリと音を立てて落ちたのは、重い灰皿だった。",
-      "en": "He whipped one hand at us, hurling something. It nearly struck, but we knocked it aside with our ‘power.’ A heavy ashtray hit the floor with a clunk."
+      "en": "He whipped one hand at us, hurling something. It nearly struck, but we knocked it aside with our ‘power.’ A heavy ashtray hit the floor with a clunk.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0446",
@@ -2786,7 +3692,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてその間に、私たちのもう一人が角男に駆け寄って、彼につかみかかる。",
-      "en": "At the same moment, the other sister rushed the horned man and grappled with him."
+      "en": "At the same moment, the other sister rushed the horned man and grappled with him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0447",
@@ -2795,7 +3707,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「このっ」",
-      "en": "“You—!”"
+      "en": "“You—!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0448",
@@ -2804,7 +3726,17 @@
       "sj": "",
       "se": "",
       "jp": "　角男は見た目も鬼のように屈強だが、腕力も強かった。",
-      "en": "The horned man didn't merely look as strong as an ogre. He was."
+      "en": "The horned man didn't merely look as strong as an ogre. He was.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0449",
@@ -2813,7 +3745,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼が掴まれた腕を振り回すと、たとえ<tips=17>タイプB</tips>として強い筋力があったとしても体重が増えるわけではないので、軽々と空中に足が浮く。",
-      "en": "When he swung the arm she clung to, her feet flew effortlessly off the ground. <tips=17>Type B</tips> strength did nothing to increase her weight."
+      "en": "When he swung the arm she clung to, her feet flew effortlessly off the ground. <tips=17>Type B</tips> strength did nothing to increase her weight.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0450",
@@ -2822,7 +3764,17 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの片方は宙に浮かされながらも手を放さず、壁を蹴って、彼を押し倒した。",
-      "en": "Still she held on. Hanging in the air, she kicked off the wall and drove him to the floor."
+      "en": "Still she held on. Hanging in the air, she kicked off the wall and drove him to the floor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0451",
@@ -2831,7 +3783,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「くそっ」",
-      "en": "“Damn it!”"
+      "en": "“Damn it!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0452",
@@ -2840,7 +3802,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼がいかに力を振り絞ろうとも<tips=17>タイプB</tips>の力にはかなわない。私たちの片方は彼に馬乗りになって、その動きを封じ込めた。",
-      "en": "No matter how he strained, he was no match for <tips=17>Type B</tips> strength. One sister straddled him and locked him down."
+      "en": "No matter how he strained, he was no match for <tips=17>Type B</tips> strength. One sister straddled him and locked him down.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0453",
@@ -2849,7 +3821,17 @@
       "sj": "",
       "se": "",
       "jp": "　そうして角男の方を制圧したのをちらりと確認してから、もう片方は犬頭と<tips=20>コシチェイ</tips>の方に視線を戻した。",
-      "en": "A glance confirmed the horned man was subdued. The other sister turned back to the dog-headed man and <tips=20>Koschei</tips>."
+      "en": "A glance confirmed the horned man was subdued. The other sister turned back to the dog-headed man and <tips=20>Koschei</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0454",
@@ -2858,7 +3840,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は出血によるものか、朦朧としたまま立っている。そしてその足元に倒れた犬頭は背中を刺されてもまだ死んではいなかった。次の行動をしようとしている。黒い拳銃に手を伸ばす。",
-      "en": "<tips=20>Koschei</tips> stood dazed, perhaps from the blood loss. At his feet, the dog-headed man was still alive despite the knife in his back. Already he was reaching for the black pistol."
+      "en": "<tips=20>Koschei</tips> stood dazed, perhaps from the blood loss. At his feet, the dog-headed man was still alive despite the knife in his back. Already he was reaching for the black pistol.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0455",
@@ -2867,7 +3859,17 @@
       "sj": "",
       "se": "",
       "jp": "　私たちのもう片方は、とっさに『ちから』を使ってナイフを舞い上がらせた。",
-      "en": "The telekinetic sister instantly called the knife into the air with her ‘power.’"
+      "en": "The telekinetic sister instantly called the knife into the air with her ‘power.’",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0456",
@@ -2876,7 +3878,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「旦那っ！　上だっ！」",
-      "en": "“Boss! Above you!”"
+      "en": "“Boss! Above you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0457",
@@ -2885,7 +3897,17 @@
       "sj": "",
       "se": "",
       "jp": "　角男がそう叫ぶと、犬頭も頭上のナイフに気がついた。",
-      "en": "The horned man's shout drew the dog-headed man's eyes to the knife overhead."
+      "en": "The horned man's shout drew the dog-headed man's eyes to the knife overhead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-460fd1afca21.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0469",
@@ -2894,7 +3916,8 @@
       "sj": "",
       "se": "",
       "jp": "　片方の手を上げて防ごうとするが、それより『ちから』に操られたナイフの方が早く彼の首元に突き刺さる。",
-      "en": "He threw up a hand to defend himself, but the knife driven by our ‘power’ was faster. It buried itself at the base of his throat."
+      "en": "He threw up a hand to defend himself, but the knife driven by our ‘power’ was faster. It buried itself at the base of his throat.",
+      "bg": "assets/vn/backgrounds/bg-623fcc6469dd.webp"
     },
     {
       "id": "F2:0471",
@@ -2966,7 +3989,14 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まったく、ひどいケガだ」",
-      "en": "“What a dreadful mess I'm in.”"
+      "en": "“What a dreadful mess I'm in.”",
+      "bg": "assets/vn/backgrounds/bg-cd6740c89d54.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0490",
@@ -2975,7 +4005,13 @@
       "sj": "",
       "se": "",
       "jp": "　目の前で起きた出来事を眠そうに見つめながら<tips=20>コシチェイ</tips>は一歩前へ踏み出した。足元がもつれ、よろめく。",
-      "en": "Watching the scene with sleepy eyes, <tips=20>Koschei</tips> took a step. His feet tangled, and he stumbled."
+      "en": "Watching the scene with sleepy eyes, <tips=20>Koschei</tips> took a step. His feet tangled, and he stumbled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0491",
@@ -2984,7 +4020,13 @@
       "sj": "",
       "se": "",
       "jp": "「しっかりしてよ。おかげで、こんなことをするハメになったわ……。あなたと同じ立場だね」",
-      "en": "“Pull yourself together. You're the reason we had to do all that... Now we're in the same boat.”"
+      "en": "“Pull yourself together. You're the reason we had to do all that... Now we're in the same boat.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0492",
@@ -2993,7 +4035,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「別に頼んだ覚えはない。おれは女に借りは作らん。……しかし、どこかで休息が必要だな」",
-      "en": "“I don't remember asking. I don't owe women favors... Still, I do need somewhere to lie down.”"
+      "en": "“I don't remember asking. I don't owe women favors... Still, I do need somewhere to lie down.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0493",
@@ -3002,7 +4050,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなズタボロになっておいて、よく言う」",
-      "en": "“You're falling to pieces and you still talk like that.”"
+      "en": "“You're falling to pieces and you still talk like that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0494",
@@ -3011,7 +4065,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「しかし驚いたな。どうしてここがわかったんだ？」",
-      "en": "“I must say, I'm surprised. How did you find this place?”"
+      "en": "“I must say, I'm surprised. How did you find this place?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0495",
@@ -3020,7 +4080,13 @@
       "sj": "",
       "se": "",
       "jp": "「探していたら、銃声がきこえてね。まだあなたとの話は終わってないわ」",
-      "en": "“We were looking for you when we heard the shot. You still owe us that conversation.”"
+      "en": "“We were looking for you when we heard the shot. You still owe us that conversation.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0496",
@@ -3029,7 +4095,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……まあ、良いタイミングで現れてくれたものだよ。何を考えているのかわからないが、それに関しては、礼を言わなくちゃいけない」",
-      "en": "“...Well, your timing couldn't have been better. I can't imagine what goes on in those heads of yours, but for this, at least, I ought to thank you.”"
+      "en": "“...Well, your timing couldn't have been better. I can't imagine what goes on in those heads of yours, but for this, at least, I ought to thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0497",
@@ -3038,7 +4110,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうよ。素直になってくれればいいのよ」",
-      "en": "“Exactly. See how easy it is to be honest?”"
+      "en": "“Exactly. See how easy it is to be honest?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0498",
@@ -3047,7 +4125,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「やれやれ」",
-      "en": "“Good grief.”"
+      "en": "“Good grief.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0499",
@@ -3056,7 +4140,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は肩をすくめた。",
-      "en": "<tips=20>Koschei</tips> shrugged."
+      "en": "<tips=20>Koschei</tips> shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0500",
@@ -3065,7 +4155,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「生きていると、こんな奇妙な連中に会うこともあるんだな」",
-      "en": "“Live long enough and you meet all sorts of strange people.”"
+      "en": "“Live long enough and you meet all sorts of strange people.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0501",
@@ -3074,7 +4170,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は歩こうとしたのだが、バランスがとれずに壁に手をついた。",
-      "en": "He tried to walk, lost his balance, and caught himself against the wall."
+      "en": "He tried to walk, lost his balance, and caught himself against the wall.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0502",
@@ -3083,7 +4185,13 @@
       "sj": "",
       "se": "",
       "jp": "「偉そうな口をきくわりに弱ってるのね」",
-      "en": "“For someone who talks so big, you're awfully weak.”"
+      "en": "“For someone who talks so big, you're awfully weak.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0503",
@@ -3092,7 +4200,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……そりゃ、胸に風穴を開けられて弱らなかったら化け物だ」",
-      "en": "“...If having a hole blown through my chest didn't weaken me, I'd really be a monster.”"
+      "en": "“...If having a hole blown through my chest didn't weaken me, I'd really be a monster.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0504",
@@ -3101,7 +4215,13 @@
       "sj": "",
       "se": "",
       "jp": "「充分化け物でしょうに」",
-      "en": "“You're enough of a monster already.”"
+      "en": "“You're enough of a monster already.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0505",
@@ -3110,7 +4230,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの片方は、血の海となった床の汚れていない部分を選びながら部屋を横切り、奥の部屋の<tips=20>コシチェイ</tips>に近づき、彼に手を貸した。",
-      "en": "One sister picked her way across the sea of blood from one clean patch of floor to the next, reached <tips=20>Koschei</tips> in the back room, and offered him an arm."
+      "en": "One sister picked her way across the sea of blood from one clean patch of floor to the next, reached <tips=20>Koschei</tips> in the back room, and offered him an arm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0506",
@@ -3119,7 +4245,13 @@
       "sj": "",
       "se": "",
       "jp": "「まったく」",
-      "en": "“Honestly.”"
+      "en": "“Honestly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0507",
@@ -3128,7 +4260,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの片方は、よろめこうとする<tips=20>コシチェイ</tips>を手助けしながら、部屋の出口の方へ向かった。",
-      "en": "Supporting <tips=20>Koschei</tips> whenever he stumbled, she guided him toward the exit."
+      "en": "Supporting <tips=20>Koschei</tips> whenever he stumbled, she guided him toward the exit.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0508",
@@ -3137,7 +4275,13 @@
       "sj": "",
       "se": "",
       "jp": "　その途中、床に倒れた犬頭の姿が目に入り、そして目をそらすと、私たちのもう片方に組み伏せられたままの角男の姿が目に入る。",
-      "en": "On the way, she saw the dog-headed man crumpled on the floor. She looked away, only to find the horned man still pinned beneath her sister."
+      "en": "On the way, she saw the dog-headed man crumpled on the floor. She looked away, only to find the horned man still pinned beneath her sister.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0509",
@@ -3146,7 +4290,13 @@
       "sj": "",
       "se": "",
       "jp": "「あの探偵さんはどうしよう？」",
-      "en": "“What should we do with the detective?”"
+      "en": "“What should we do with the detective?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0510",
@@ -3155,7 +4305,13 @@
       "sj": "",
       "se": "",
       "jp": "　その角男は、かつてこの街で探偵業を営んでいた人物だった。",
-      "en": "The horned man had once run a detective agency in the City."
+      "en": "The horned man had once run a detective agency in the City.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0511",
@@ -3164,7 +4320,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「どうでもいい」",
-      "en": "“I don’t care.”"
+      "en": "“I don’t care.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0512",
@@ -3173,7 +4335,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>はそう言った。",
-      "en": "That was <tips=20>Koschei</tips>'s answer."
+      "en": "That was <tips=20>Koschei</tips>'s answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0513",
@@ -3182,7 +4350,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうでもいいって……、彼らはあなたのことを嗅ぎ廻っているんじゃないの？」",
-      "en": "“You don't care...? Aren't they snooping around after you?”"
+      "en": "“You don't care...? Aren't they snooping around after you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0514",
@@ -3191,7 +4365,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうだろうね。でもどうだっていいさ。そもそもおれはこんな馬鹿馬鹿しいことはしたくなかった。疑われているからといって、こそこそと家を漁るだなんて、小物っぽくてみっともない話さ。そんなみっともないことをするから、こんなふうに余計な怪我を負ったりするのさ。……あの心配性のジジイのおかげで酷い目にあった。もうおれはやりたいようにやる。……それに、なんだいこのやたらと散らかった場所は？　おれはこういう場所にいると気が狂いそうになるんだ。さっさとここを離れて、どこかでゆっくりと横になって……ああ、つめたく冷やしたグレープフルーツジュースでも飲みたいな」",
-      "en": "“I suppose so. But I couldn't care less. I never wanted to do anything this ridiculous in the first place. Sneaking through a man's house because he suspects me—it's petty. Undignified. And undignified little errands are how one ends up with pointless wounds like these... That fretful old man has put me through quite enough. From now on, I'll do as I please. And what is this appalling mess? Rooms like this nearly drive me insane. I want to get out, lie down somewhere quiet... Ah, with a glass of grapefruit juice, ice-cold.”"
+      "en": "“I suppose so. But I couldn't care less. I never wanted to do anything this ridiculous in the first place. Sneaking through a man's house because he suspects me—it's petty. Undignified. And undignified little errands are how one ends up with pointless wounds like these... That fretful old man has put me through quite enough. From now on, I'll do as I please. And what is this appalling mess? Rooms like this nearly drive me insane. I want to get out, lie down somewhere quiet... Ah, with a glass of grapefruit juice, ice-cold.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0515",
@@ -3200,7 +4380,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはその返答にあきれた。",
-      "en": "His answer left us exasperated."
+      "en": "His answer left us exasperated.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0516",
@@ -3209,7 +4395,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして、どうでもいいと言われても事情がわからない私たちには判断のしようもなかった。",
-      "en": "But if he didn't care, we knew too little about the situation to decide for ourselves."
+      "en": "But if he didn't care, we knew too little about the situation to decide for ourselves.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0517",
@@ -3218,7 +4410,13 @@
       "sj": "",
       "se": "",
       "jp": "「ねえ、このままでいいの？」",
-      "en": "“Are you sure we can leave it like this?”"
+      "en": "“Are you sure we can leave it like this?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0518",
@@ -3227,7 +4425,13 @@
       "sj": "",
       "se": "",
       "jp": "　もう一度<tips=20>コシチェイ</tips>に訊ねる。",
-      "en": "We asked <tips=20>Koschei</tips> again."
+      "en": "We asked <tips=20>Koschei</tips> again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0519",
@@ -3236,7 +4440,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「いいよ」",
-      "en": "“It's fine.”"
+      "en": "“It's fine.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0520",
@@ -3245,7 +4455,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、このままにしておいたら、色々とまずくない？」",
-      "en": "“But won't leaving them like this cause trouble?”"
+      "en": "“But won't leaving them like this cause trouble?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0521",
@@ -3254,7 +4470,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そう思うなら、きみらが好きにすればいい。まったく、残酷なやつらだなあ。おれは人を殺したり、乱暴をするのは好きじゃないんだって言ってるだろ」",
-      "en": "“If you think so, do as you like. Honestly, you two are vicious. I've told you, haven't I? I don't like killing people or roughing them up.”"
+      "en": "“If you think so, do as you like. Honestly, you two are vicious. I've told you, haven't I? I don't like killing people or roughing them up.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0522",
@@ -3263,7 +4485,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんで、猟奇殺人者にそんなこと言われているのかしら……」",
-      "en": "“Why is a serial killer lecturing us about this...?”"
+      "en": "“Why is a serial killer lecturing us about this...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0523",
@@ -3272,7 +4500,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは溜息をついた。",
-      "en": "We sighed."
+      "en": "We sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0524",
@@ -3281,7 +4515,13 @@
       "sj": "",
       "se": "",
       "jp": "「ねえ、元探偵さん」",
-      "en": "“Tell us, Mr. Former Detective.”"
+      "en": "“Tell us, Mr. Former Detective.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0525",
@@ -3290,7 +4530,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは角男に話しかける。",
-      "en": "We addressed the horned man."
+      "en": "We addressed the horned man.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0526",
@@ -3299,7 +4545,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたとこうして話すのは初めてだけど、その顔と名前は小さな時から知ってるわ。いつも、<tips=59>暗闇通り</tips>をその角で風を切って歩いていたものね」",
-      "en": "“This may be the first time we've spoken, but we've known your face and name since we were little. You were always striding down <tips=59>Darkness Street</tips>, cutting through the wind with those horns.”"
+      "en": "“This may be the first time we've spoken, but we've known your face and name since we were little. You were always striding down <tips=59>Darkness Street</tips>, cutting through the wind with those horns.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0527",
@@ -3308,7 +4560,13 @@
       "sj": "",
       "se": "",
       "jp": "「確か昔は、<tips=50>路地</tips>探偵事務所の探偵さんと言えば、<tips=59>暗闇通り</tips>のみんなを助ける正義の人だったような気がするけど、いつのまにか警察の手先になっちゃって、みじめなものね」",
-      "en": "“If we remember right, the detective from the <tips=50>Roji</tips> Detective Agency used to be a righteous hero who helped everyone on <tips=59>Darkness Street</tips>. Somehow you ended up a police dog yourself. How sad.”"
+      "en": "“If we remember right, the detective from the <tips=50>Roji</tips> Detective Agency used to be a righteous hero who helped everyone on <tips=59>Darkness Street</tips>. Somehow you ended up a police dog yourself. How sad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0529",
@@ -3317,7 +4575,13 @@
       "sj": "",
       "se": "",
       "jp": "　角男は私たちの言葉を無表情で聞いている。",
-      "en": "The horned man listened without expression."
+      "en": "The horned man listened without expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0530",
@@ -3326,7 +4590,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「おっしゃるとおりだが、こんなところで殺人鬼の手伝いなんかするよりはマシな生き方だと思うがね」",
-      "en": "“All true. Still sounds like a better life than helping a murderer in a place like this.”"
+      "en": "“All true. Still sounds like a better life than helping a murderer in a place like this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0531",
@@ -3335,7 +4609,17 @@
       "sj": "",
       "se": "",
       "jp": "　路地探偵事務所の<tips=50>路地邦昭</tips>。裏通りの貧民や娼婦のトラブルを専門に解決する探偵だった。誰も引き受けないような事件を進んで調べる人物で、<tips=59>暗闇通り</tips>のヒーローの一人だった。かつては。",
-      "en": "<tips=50>Kuniaki Roji</tips> of the Roji Detective Agency. He had specialized in the troubles of back-alley paupers and prostitutes, willingly taking cases no one else would touch. Once, he had been one of the heroes of <tips=59>Darkness Street</tips>."
+      "en": "<tips=50>Kuniaki Roji</tips> of the Roji Detective Agency. He had specialized in the troubles of back-alley paupers and prostitutes, willingly taking cases no one else would touch. Once, he had been one of the heroes of <tips=59>Darkness Street</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0532",
@@ -3344,7 +4628,17 @@
       "sj": "",
       "se": "",
       "jp": "　サイキック能力の不正使用で警察に逮捕されてからは、とんとその噂をきかなくなっている。",
-      "en": "But after the police arrested him for unlawful use of psychic ability, we had heard scarcely a word about him."
+      "en": "But after the police arrested him for unlawful use of psychic ability, we had heard scarcely a word about him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0533",
@@ -3353,7 +4647,17 @@
       "sj": "",
       "se": "",
       "jp": "「私たちは殺人鬼の手伝いをしているわけじゃないわ」",
-      "en": "“We aren't helping a murderer.”"
+      "en": "“We aren't helping a murderer.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0534",
@@ -3362,7 +4666,17 @@
       "sj": "",
       "se": "",
       "jp": "「ただ、何か価値のあるものを探しているだけ。人生ってそういうものでしょ？」",
-      "en": "“We're only looking for something worthwhile. Isn't that what life is?”"
+      "en": "“We're only looking for something worthwhile. Isn't that what life is?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0535",
@@ -3371,7 +4685,17 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはそう言った。",
-      "en": "So we told him."
+      "en": "So we told him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0536",
@@ -3380,7 +4704,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「……お前が<tips=20>コシチェイ</tips>ってやつか。資料でみた大昔の写真とまったく姿が変わらないが、どんな秘密があるんだい？」",
-      "en": "“...So you're <tips=20>Koschei</tips>. You haven't aged a day since the old photograph in the files. What's your secret?”"
+      "en": "“...So you're <tips=20>Koschei</tips>. You haven't aged a day since the old photograph in the files. What's your secret?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0537",
@@ -3389,7 +4723,17 @@
       "sj": "",
       "se": "",
       "jp": "　角男――<tips=50>路地</tips>は私たちを無視して<tips=20>コシチェイ</tips>に話しかけた。",
-      "en": "Ignoring us, the horned man—<tips=50>Roji</tips>—addressed <tips=20>Koschei</tips>."
+      "en": "Ignoring us, the horned man—<tips=50>Roji</tips>—addressed <tips=20>Koschei</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0538",
@@ -3398,7 +4742,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「なんだって、こんなところへやって来て、無関係な女を殺した。いや、こんな質問は頭のイカレた殺人鬼には無意味かな？　お前は狂った頭で、手当たり次第に女を殺し続けるのさ」",
-      "en": "“Why come here and kill a woman who had nothing to do with any of this? No, I suppose that's a pointless question for a lunatic murderer. You'll just keep killing every woman you can get your hands on.”"
+      "en": "“Why come here and kill a woman who had nothing to do with any of this? No, I suppose that's a pointless question for a lunatic murderer. You'll just keep killing every woman you can get your hands on.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0539",
@@ -3407,7 +4761,17 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「失礼なやつだな。……そもそも、お前が調べたりするから、この女も死ぬことになった。この女は本来死ぬ必要はなかったんだ。おれはひどく心を痛めている」",
-      "en": "“How rude. If you hadn't gone investigating me, this woman wouldn't have died. She never had to die at all. I'm terribly upset about it.”"
+      "en": "“How rude. If you hadn't gone investigating me, this woman wouldn't have died. She never had to die at all. I'm terribly upset about it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0540",
@@ -3416,7 +4780,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「……どうして胸を撃たれたのに生きている。それがお前の能力か？」",
-      "en": "“...How are you alive after being shot in the chest? Is that your ability?”"
+      "en": "“...How are you alive after being shot in the chest? Is that your ability?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0541",
@@ -3425,7 +4799,17 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「会話をするつもりがないのか？　なんだか、面倒だな……」",
-      "en": "“Are you even trying to have a conversation? How tiresome...”"
+      "en": "“Are you even trying to have a conversation? How tiresome...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0542",
@@ -3434,7 +4818,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は溜息をついた。そして、そっぽを向いて誰もいない空間に話しかける。彼の家でみたときと同じだ。",
-      "en": "<tips=20>Koschei</tips> sighed. Then, just as he had at home, he looked away and spoke to an empty patch of room."
+      "en": "<tips=20>Koschei</tips> sighed. Then, just as he had at home, he looked away and spoke to an empty patch of room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0543",
@@ -3443,7 +4837,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼はそれまで使っていた日本語ではなく、別の国の言葉で、このように言った。",
-      "en": "He switched from Japanese to another language."
+      "en": "He switched from Japanese to another language.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0544",
@@ -3452,7 +4856,17 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「なあ、どうするこいつ？　……始末するか？　しかし、そう簡単に話しやしないだろう。………わかった。わかったが……」",
-      "en": "“Well? What do we do with this one? ...Get rid of him? He won't talk that easily, though. ...Fine. I understand. I understand, but...”"
+      "en": "“Well? What do we do with this one? ...Get rid of him? He won't talk that easily, though. ...Fine. I understand. I understand, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0545",
@@ -3461,7 +4875,17 @@
       "sj": "",
       "se": "",
       "jp": "　静かな部屋に彼の独り言だけが響いている。",
-      "en": "Only his seeming monologue echoed through the quiet room."
+      "en": "Only his seeming monologue echoed through the quiet room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0546",
@@ -3470,7 +4894,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「おい、お前ら」",
-      "en": "“Hey, you two.”"
+      "en": "“Hey, you two.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0547",
@@ -3479,7 +4913,17 @@
       "sj": "",
       "se": "",
       "jp": "　不意に、<tips=50>路地</tips>が私たちに声をかけた。",
-      "en": "Without warning, <tips=50>Roji</tips> spoke to us."
+      "en": "Without warning, <tips=50>Roji</tips> spoke to us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0548",
@@ -3488,7 +4932,17 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「こいつがどういうやつか、知っていて一緒にいるのか？」",
-      "en": "“Do you know what this man is and still choose to stand beside him?”"
+      "en": "“Do you know what this man is and still choose to stand beside him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0549",
@@ -3497,7 +4951,17 @@
       "sj": "",
       "se": "",
       "jp": "「そうよ」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0550",
@@ -3506,7 +4970,17 @@
       "sj": "",
       "se": "",
       "jp": "「大体ね」",
-      "en": "“More or less.”"
+      "en": "“More or less.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0551",
@@ -3515,7 +4989,17 @@
       "sj": "",
       "se": "",
       "jp": "　答えると、<tips=50>路地</tips>はうなずきもせずじっと私たちの顔を見た。",
-      "en": "<tips=50>Roji</tips> didn't even nod. He only stared into our faces."
+      "en": "<tips=50>Roji</tips> didn't even nod. He only stared into our faces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0552",
@@ -3524,7 +5008,17 @@
       "sj": "",
       "se": "",
       "jp": "　ここで殺された女が彼とどういう関係なのかはわからなかった。しかし、部屋にこまごまとした飾り付けがされていたり、棚に小さな猫の置物などがあるのを見ると、一緒に暮らす間柄なのは間違いなさそうだ。",
-      "en": "We didn't know what the murdered woman had been to him. But the little decorations around the room and the tiny cat figurines on the shelves made it clear that they had lived together."
+      "en": "We didn't know what the murdered woman had been to him. But the little decorations around the room and the tiny cat figurines on the shelves made it clear that they had lived together.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0553",
@@ -3533,7 +5027,17 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは、一緒に暮らした異性がバラバラ死体にされたらこんな顔になるのかと思いながら、土気色になった<tips=50>路地</tips>の顔を見ていた。",
-      "en": "We studied <tips=50>Roji</tips>'s ashen face and wondered whether this was how anyone looked when the woman they lived with had been cut to pieces."
+      "en": "We studied <tips=50>Roji</tips>'s ashen face and wondered whether this was how anyone looked when the woman they lived with had been cut to pieces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0557",
@@ -3569,7 +5073,8 @@
       "sj": "",
       "se": "",
       "jp": "　振り返ると、いつの間にか銃を手にしている彼は、それで背中に乗った私たちのもう片方を撃とうとしている。",
-      "en": "She looked back. Somehow, he had a gun in his hand and was aiming at the other sister on his back."
+      "en": "She looked back. Somehow, he had a gun in his hand and was aiming at the other sister on his back.",
+      "bg": "assets/vn/backgrounds/bg-afbb01d3db9b.webp"
     },
     {
       "id": "F2:0575",
@@ -3695,7 +5200,8 @@
       "sj": "",
       "se": "",
       "jp": "「ひっ」",
-      "en": "“Eek!”"
+      "en": "“Eek!”",
+      "bg": "assets/vn/backgrounds/bg-50be717e84aa.webp"
     },
     {
       "id": "F2:0610",
@@ -3875,7 +5381,8 @@
       "sj": "",
       "se": "",
       "jp": "　外は相変わらずの土砂降りだった。私たちは人気のない路地を駆け、塀を乗り越え、<tips=20>コシチェイ</tips>と出会ったあの洋館へ向かった。",
-      "en": "Outside, the rain still came down in sheets. We raced through deserted alleys, vaulted walls, and made for the Western-style mansion where we had met <tips=20>Koschei</tips>."
+      "en": "Outside, the rain still came down in sheets. We raced through deserted alleys, vaulted walls, and made for the Western-style mansion where we had met <tips=20>Koschei</tips>.",
+      "bg": "assets/vn/backgrounds/bg-2524af090ee8.webp"
     },
     {
       "id": "F2:0652",
@@ -4001,7 +5508,8 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは彼をバスルームに運ぶと、服を脱がせて傷口を洗い、清潔なものに着替えさせてから、二階の自室のベッドに寝かせた。",
-      "en": "We carried him to the bathroom, stripped him, washed his wounds, changed him into clean clothes, and put him to bed in his second-floor room."
+      "en": "We carried him to the bathroom, stripped him, washed his wounds, changed him into clean clothes, and put him to bed in his second-floor room.",
+      "bg": "assets/vn/backgrounds/bg-6e37af40c2da.webp"
     },
     {
       "id": "F2:0672",
@@ -4181,7 +5689,8 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの住む団地でも、最近は見知らぬ顔を良く見るようになった。",
-      "en": "Lately, even our housing complex had been filling with unfamiliar faces."
+      "en": "Lately, even our housing complex had been filling with unfamiliar faces.",
+      "bg": "assets/vn/backgrounds/bg-f0d3385e1ec2.webp"
     },
     {
       "id": "F2:0705",
@@ -4190,7 +5699,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「この街は、これから面白くなるぞ。街を糞つまらなくしていたあの中国人が死んだからな」",
-      "en": "“This City is finally going to get interesting. That Chinese bastard who made the place so goddamn boring is dead.”"
+      "en": "“This City is finally going to get interesting. That Chinese bastard who made the place so goddamn boring is dead.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0706",
@@ -4199,7 +5714,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は嬉々としてそう呟き、私たちに新聞の記事を見せた。そこには、<tips=7>ＹＳ</tips>の幹部である<tips=26>劉建志</tips>が部下や娘と共に殺害されたというニュースが掲載されていた。",
-      "en": "<tips=14>Fukazawa</tips> said it with glee and showed us a newspaper article. It reported that <tips=26>Kenshi Ryuu</tips>, a <tips=7>YS</tips> executive, had been murdered along with his men and his daughter."
+      "en": "<tips=14>Fukazawa</tips> said it with glee and showed us a newspaper article. It reported that <tips=26>Kenshi Ryuu</tips>, a <tips=7>YS</tips> executive, had been murdered along with his men and his daughter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0707",
@@ -4208,7 +5729,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「ボスが死んで、組織は滅茶苦茶だ。<tips=26>劉</tips>を殺したのは、執行部の香港グループだぜ。死んだボスのペットを扱いきれずに処分するしかなかったんだ。しかし、家族皆殺しとはよくやるな。しかも実に素早い。お前らの友だちだった<tips=1>ツェー・ルオン</tips>も関わってるらしいが、あのガキは相変わらずだな。……おい、本当にもうあいつと連絡とれないのか？」",
-      "en": "“The boss is dead and the whole organization is a mess. The Hong Kong faction in the leadership killed <tips=26>Ryuu</tips>. They couldn't control the old boss's pet, so they had to put him down. Wiping out the whole family, though—that takes nerve. Fast work, too. Sounds like your old friend <tips=1>Xie Liang</tips> had a hand in it. Same brat as ever... Hey, you really can't get in touch with him?”"
+      "en": "“The boss is dead and the whole organization is a mess. The Hong Kong faction in the leadership killed <tips=26>Ryuu</tips>. They couldn't control the old boss's pet, so they had to put him down. Wiping out the whole family, though—that takes nerve. Fast work, too. Sounds like your old friend <tips=1>Xie Liang</tips> had a hand in it. Same brat as ever... Hey, you really can't get in touch with him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0708",
@@ -4217,7 +5744,13 @@
       "sj": "",
       "se": "",
       "jp": "「知らないよ」",
-      "en": "“Don't know.”"
+      "en": "“Don't know.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0709",
@@ -4226,7 +5759,13 @@
       "sj": "",
       "se": "",
       "jp": "「知らない」",
-      "en": "“No idea.”"
+      "en": "“No idea.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0710",
@@ -4235,7 +5774,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「本当か？」",
-      "en": "“Really?”"
+      "en": "“Really?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0711",
@@ -4244,7 +5789,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私たちの顔をのぞき込むと、",
-      "en": "He peered into our faces."
+      "en": "He peered into our faces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0712",
@@ -4253,7 +5804,13 @@
       "sj": "深沢聡",
       "se": "Satoshi Fukazawa",
       "jp": "「おまえたち、最近ちょっと感じが変わったな。何かあったのか？」",
-      "en": "“Something about you two's changed lately. What happened?”"
+      "en": "“Something about you two's changed lately. What happened?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0713",
@@ -4262,7 +5819,13 @@
       "sj": "",
       "se": "",
       "jp": "　と言った。",
-      "en": "That was what he asked."
+      "en": "That was what he asked.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0714",
@@ -4271,7 +5834,13 @@
       "sj": "",
       "se": "",
       "jp": "　確かに、街は急激に変化しているようだった。しかし私たちにはあまり興味のない話だった。",
-      "en": "The City certainly seemed to be changing fast. We weren't especially interested."
+      "en": "The City certainly seemed to be changing fast. We weren't especially interested.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0715",
@@ -4280,7 +5849,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちはそれよりも、犬頭の刑事を殺した影響について気にしていた。",
-      "en": "What concerned us was the consequence of killing the dog-headed detective."
+      "en": "What concerned us was the consequence of killing the dog-headed detective.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0723",
@@ -4316,7 +5891,8 @@
       "sj": "",
       "se": "",
       "jp": "　その朝私たちが家を訪れると、<tips=20>コシチェイ</tips>の姿でのんきに歯磨きをしていた。",
-      "en": "When we visited that morning, he was in <tips=20>Koschei</tips>'s form, brushing his teeth as if nothing had happened."
+      "en": "When we visited that morning, he was in <tips=20>Koschei</tips>'s form, brushing his teeth as if nothing had happened.",
+      "bg": "assets/vn/backgrounds/bg-a5bba7cb2d88.webp"
     },
     {
       "id": "F2:0734",
@@ -4325,7 +5901,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「なんだ、人の家に勝手に入ってきやがって」",
-      "en": "“What the hell are you doing, letting yourselves into my house?”"
+      "en": "“What the hell are you doing, letting yourselves into my house?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0735",
@@ -4334,7 +5916,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、随分な言いぐさだね」",
-      "en": "“Well. That's a fine way to greet us.”"
+      "en": "“Well. That's a fine way to greet us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0736",
@@ -4343,7 +5931,13 @@
       "sj": "",
       "se": "",
       "jp": "「私たちがここへ運んで、手当てをしてあげたんだよ」",
-      "en": "“We carried you here and took care of you.”"
+      "en": "“We carried you here and took care of you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0737",
@@ -4352,7 +5946,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「ふん、別に必要のないことさ。おれはどうしたって死ぬことはない。『不死身』だからな」",
-      "en": "“Hmph. Entirely unnecessary. Nothing can kill me. I am ‘deathless,’ after all.”"
+      "en": "“Hmph. Entirely unnecessary. Nothing can kill me. I am ‘deathless,’ after all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0738",
@@ -4361,7 +5961,13 @@
       "sj": "",
       "se": "",
       "jp": "「あんな、無抵抗に横たわっててよく言うよ」",
-      "en": "“Big talk from someone who lay there helpless.”"
+      "en": "“Big talk from someone who lay there helpless.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0739",
@@ -4370,7 +5976,13 @@
       "sj": "",
       "se": "",
       "jp": "「ゴキブリみたいな生命力があっても、あのままじゃ警察に捕まってたわ」",
-      "en": "“Even with the constitution of a cockroach, the police would've caught you if we'd left you there.”"
+      "en": "“Even with the constitution of a cockroach, the police would've caught you if we'd left you there.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0740",
@@ -4379,7 +5991,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おれを捕まえておくことなんか出来やしない。おれはお前らの手助けなんかいらないんだ。……だがまあ、ご苦労だったな。そうだ、お前の傷はどうした？　見せてみろ」",
-      "en": "“No one could keep me prisoner. I didn't need your help... Still, I suppose you went to some trouble. Here, what happened to your wound? Let me see.”"
+      "en": "“No one could keep me prisoner. I didn't need your help... Still, I suppose you went to some trouble. Here, what happened to your wound? Let me see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0741",
@@ -4388,7 +6006,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは彼に言われるまま、袖をまくって撃たれたところを彼に見せた。",
-      "en": "We did as he said, rolling up one sleeve to show him the bullet wound."
+      "en": "We did as he said, rolling up one sleeve to show him the bullet wound.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0742",
@@ -4397,7 +6021,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まだ生々しいな。これはきっと痕になるぞ。まったく、余計なことをしたもんだ。もういいよ」",
-      "en": "“Still raw. That's sure to scar. Honestly, you went to such pointless trouble. All right, that's enough.”"
+      "en": "“Still raw. That's sure to scar. Honestly, you went to such pointless trouble. All right, that's enough.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0743",
@@ -4406,7 +6036,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は袖を戻すよう言った。",
-      "en": "He told us to roll the sleeve down."
+      "en": "He told us to roll the sleeve down.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0744",
@@ -4415,7 +6051,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の傷はもう完全にふさがり、もはやどこを撃たれたのかさえ判別がつかなくなっている。",
-      "en": "His own wounds had healed completely. We couldn't even tell where the bullets had struck."
+      "en": "His own wounds had healed completely. We couldn't even tell where the bullets had struck.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0745",
@@ -4424,7 +6066,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おれがやられたあと、どうやってお前らはあそこを脱出したんだ？」",
-      "en": "“How did you get out after I went down?”"
+      "en": "“How did you get out after I went down?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0746",
@@ -4433,7 +6081,13 @@
       "sj": "",
       "se": "",
       "jp": "　三人分の紅茶を彼自ら淹れてくれたあと、そう訊ねて来た。",
-      "en": "He asked after making tea for all three of us himself."
+      "en": "He asked after making tea for all three of us himself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0747",
@@ -4442,7 +6096,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは<tips=50>路地</tips>をその場に残して、雨の中逃げて来たことを説明した。",
-      "en": "We explained that we had left <tips=50>Roji</tips> behind and fled through the rain."
+      "en": "We explained that we had left <tips=50>Roji</tips> behind and fled through the rain.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0748",
@@ -4451,7 +6111,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「ふうん、あの角野郎は殺さなかったのか」",
-      "en": "“Hmm. So you let that horned bastard live.”"
+      "en": "“Hmm. So you let that horned bastard live.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0749",
@@ -4460,7 +6126,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうだよ」",
-      "en": "“That’s right.”"
+      "en": "“That’s right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0750",
@@ -4469,7 +6141,13 @@
       "sj": "",
       "se": "",
       "jp": "「何か悪い？」",
-      "en": "“Is that a problem?”"
+      "en": "“Is that a problem?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0751",
@@ -4478,7 +6156,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「いや、別に。ただ、そうなのかと思っただけさ」",
-      "en": "“No. I was only asking.”"
+      "en": "“No. I was only asking.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0752",
@@ -4487,7 +6171,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は肩をすくめて、",
-      "en": "He shrugged."
+      "en": "He shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0753",
@@ -4496,7 +6186,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「しかし、おかしなやつらだな。どうしてそこまでする？　……いや、まあ世の中にはたまにはいるよな。おまえたちみたいな連中が。特に日常に飽きた若い女に多い。普段とちょっと違う刺激に出会うと、それをもう運命だと決めつけ、わけのわからない感情に動かされて、理屈抜きでとんでもないことをしてしまうのさ。おれはそういう性質が、いつも女を不幸にしているんだと思うぜ。気をつけた方が良い」",
-      "en": "“You're a strange pair, though. Why go that far? ...No, I suppose the world does occasionally produce people like you. Young women bored with their daily lives are especially prone to it. Something a little out of the ordinary happens, they decide at once that it's fate, and some senseless emotion drives them to do something outrageous without a thought for reason. I've always believed that tendency is what makes women unhappy. You should take care.”"
+      "en": "“You're a strange pair, though. Why go that far? ...No, I suppose the world does occasionally produce people like you. Young women bored with their daily lives are especially prone to it. Something a little out of the ordinary happens, they decide at once that it's fate, and some senseless emotion drives them to do something outrageous without a thought for reason. I've always believed that tendency is what makes women unhappy. You should take care.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0754",
@@ -4505,7 +6201,13 @@
       "sj": "",
       "se": "",
       "jp": "「女たらしの殺人鬼が言うと説得力があるね」",
-      "en": "“That carries real weight, coming from a womanizing murderer.”"
+      "en": "“That carries real weight, coming from a womanizing murderer.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0755",
@@ -4514,7 +6216,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、それは見当違いだわ」",
-      "en": "“But you've got us completely wrong.”"
+      "en": "“But you've got us completely wrong.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0756",
@@ -4523,7 +6231,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「じゃあ、どういう理屈でおれにつきまとう？」",
-      "en": "“Then what possible logic keeps you following me around?”"
+      "en": "“Then what possible logic keeps you following me around?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0757",
@@ -4532,7 +6246,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたを警察に突き出して、そうしたらもうこの話は終わっちゃうでしょ。でも、あなたの味方をすれば、もっと色んなことについて知ることが出来る」",
-      "en": "“If we turn you over to the police, that's the end of the story. If we take your side, we get to learn all sorts of other things.”"
+      "en": "“If we turn you over to the police, that's the end of the story. If we take your side, we get to learn all sorts of other things.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0758",
@@ -4541,7 +6261,13 @@
       "sj": "",
       "se": "",
       "jp": "「私たち、世の中に欲しいものは何もないの。ただ、この世界にあるいろんな人間のことを、もっとよく知りたいの」",
-      "en": "“There isn't anything we want from the world. We only want to understand all the different people in it.”"
+      "en": "“There isn't anything we want from the world. We only want to understand all the different people in it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0759",
@@ -4550,7 +6276,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「何のために？」",
-      "en": "“Whatever for?”"
+      "en": "“Whatever for?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0760",
@@ -4559,7 +6291,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは言いたくない」",
-      "en": "“We don't want to tell you.”"
+      "en": "“We don't want to tell you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0761",
@@ -4568,7 +6306,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「別にこっちだってそこまで訊きたいわけじゃない。だが、取り立てて大したことはないぜ。おれだって、例の趣味以外はごく平凡な人間だ……何か特別な野心を持って行動するでもなく、朝の食卓にはパンとコーヒーを並べ、昼はそのあたりを散歩し、夜はワインの一杯でも飲めれば充分に幸福だ」",
-      "en": "“I wasn't that desperate to know. But I should warn you, there isn't much to me. Aside from that one hobby, I'm a perfectly ordinary man... I have no grand ambitions. Bread and coffee at breakfast, a walk around noon, and a glass of wine at night are more than enough to make me happy.”"
+      "en": "“I wasn't that desperate to know. But I should warn you, there isn't much to me. Aside from that one hobby, I'm a perfectly ordinary man... I have no grand ambitions. Bread and coffee at breakfast, a walk around noon, and a glass of wine at night are more than enough to make me happy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0762",
@@ -4577,7 +6321,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は紅茶にたっぷりの蜂蜜を溶かしてから一口すする。",
-      "en": "<tips=20>Koschei</tips> stirred a lavish amount of honey into his tea and took a sip."
+      "en": "<tips=20>Koschei</tips> stirred a lavish amount of honey into his tea and took a sip.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0763",
@@ -4586,7 +6336,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「しかし、趣味が悪いぜ。殺人現場を見て、犬コロ人間を殺した。なかなか出来る体験じゃないのは確かだが、好き好んでやるようなことじゃない」",
-      "en": "“Still, you have dreadful taste. You saw a murder scene and killed a dog-man. I'll grant you those aren't everyday experiences, but they're hardly things a person should seek out for pleasure.”"
+      "en": "“Still, you have dreadful taste. You saw a murder scene and killed a dog-man. I'll grant you those aren't everyday experiences, but they're hardly things a person should seek out for pleasure.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0764",
@@ -4595,7 +6351,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちの顔を見ると、呆れたように言った。",
-      "en": "He looked at us with exasperation."
+      "en": "He looked at us with exasperation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0765",
@@ -4604,7 +6366,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「馬鹿なことをしたもんだ。これで、おれたちのいる世界に足を踏み入れてしまったんだぞ。おれは平凡だが、おれがいるこの世界は、人ではないものたちのいる世界だ」",
-      "en": "“You did a foolish thing. Now you've stepped into our world. I may be ordinary, but the world around me is inhabited by things that aren't human.”"
+      "en": "“You did a foolish thing. Now you've stepped into our world. I may be ordinary, but the world around me is inhabited by things that aren't human.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0766",
@@ -4613,7 +6381,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は溜息をつく。",
-      "en": "He sighed."
+      "en": "He sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0767",
@@ -4622,7 +6396,13 @@
       "sj": "",
       "se": "",
       "jp": "「この街でそんなかっこつけたって滑稽だよ。それに、私たちはそういう考え方はしない」",
-      "en": "“Trying to sound impressive in this City only makes you ridiculous. Besides, we don't think that way.”"
+      "en": "“Trying to sound impressive in this City only makes you ridiculous. Besides, we don't think that way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0768",
@@ -4631,7 +6411,13 @@
       "sj": "",
       "se": "",
       "jp": "「どんな経験をしたって、知識を得たって、それ自体に特別な意味はないわ。行為に引きずられて変化するのは弱い人間だけだよ。世の中には聖人も悪魔もいない」",
-      "en": "“No experience or knowledge has any special meaning on its own. Only weak people let their actions drag them into becoming something else. There are no saints or devils in this world.”"
+      "en": "“No experience or knowledge has any special meaning on its own. Only weak people let their actions drag them into becoming something else. There are no saints or devils in this world.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0769",
@@ -4640,7 +6426,13 @@
       "sj": "",
       "se": "",
       "jp": "「確かに人を殺すのはつらかったけど、でもつらいってことは、何かを乗り越えたことだ」",
-      "en": "“Killing someone hurt, certainly. But if it hurt, that means it was something to overcome.”"
+      "en": "“Killing someone hurt, certainly. But if it hurt, that means it was something to overcome.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0770",
@@ -4649,7 +6441,13 @@
       "sj": "",
       "se": "",
       "jp": "「乗り越えるってことは、自由になるってことだ。私たちは自由になりたいの」",
-      "en": "“To overcome something is to become free of it. We want to be free.”"
+      "en": "“To overcome something is to become free of it. We want to be free.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0771",
@@ -4658,7 +6456,13 @@
       "sj": "",
       "se": "",
       "jp": "「そもそも、私たちは、こんなの初めてってわけじゃない。馬鹿にしないで」",
-      "en": "“Besides, it wasn't our first time. Don't look down on us.”"
+      "en": "“Besides, it wasn't our first time. Don't look down on us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0772",
@@ -4667,7 +6471,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「ふん、そうか……」",
-      "en": "“Hmph. Is that so...”"
+      "en": "“Hmph. Is that so...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0773",
@@ -4676,7 +6486,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は私たちを値踏みするようにジロジロとみる。",
-      "en": "He looked us up and down, appraising us."
+      "en": "He looked us up and down, appraising us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0774",
@@ -4685,7 +6501,13 @@
       "sj": "",
       "se": "",
       "jp": "「本当よ」",
-      "en": "“We mean it.”"
+      "en": "“We mean it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0775",
@@ -4694,7 +6516,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「疑ってるわけじゃないさ。まあ、警察を殺してしまった以上、これから警察に追われるのは間違いない。どうするつもりだ？　さっさと街を出て逃げた方が得策じゃないか？」",
-      "en": "“I don't doubt you. But now that you've killed a police officer, the police will come after you. What are you going to do? Wouldn't it be wiser to leave the City while you can?”"
+      "en": "“I don't doubt you. But now that you've killed a police officer, the police will come after you. What are you going to do? Wouldn't it be wiser to leave the City while you can?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0776",
@@ -4703,7 +6531,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたはどうするの？」",
-      "en": "“What will you do?”"
+      "en": "“What will you do?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0777",
@@ -4712,7 +6546,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おれは残るよ。まだここには仕事が残ってるんでね」",
-      "en": "“I'm staying. I still have work here.”"
+      "en": "“I'm staying. I still have work here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0778",
@@ -4721,7 +6561,13 @@
       "sj": "",
       "se": "",
       "jp": "「それが賢明ね。そもそも、ここにいた方が安全なんだよ。外で犯罪をおかしてこの街へやって来る人は沢山いるけど、逆なんかありえない」",
-      "en": "“That's sensible. Staying here is safer in the first place. Plenty of people commit crimes outside and flee into this City. No one does the reverse.”"
+      "en": "“That's sensible. Staying here is safer in the first place. Plenty of people commit crimes outside and flee into this City. No one does the reverse.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0779",
@@ -4730,7 +6576,13 @@
       "sj": "",
       "se": "",
       "jp": "「ここにはいろんな人が住んでいるけど、殺人犯を見つけたからって、いちいち警察に通報するような人はいない。ましてや『<tips=13>ヘドロ団地</tips>の<tips=86>灰上姉妹</tips>』を警察に売る人間なんかいないって、断言したっていい」",
-      "en": "“All kinds of people live here, but no one calls the police every time they recognize a murderer. And we can promise you no one would ever sell out ‘<tips=86>the Haigami sisters</tips> of the <tips=13>Sludge Housing Complex</tips>.’”"
+      "en": "“All kinds of people live here, but no one calls the police every time they recognize a murderer. And we can promise you no one would ever sell out ‘<tips=86>the Haigami sisters</tips> of the <tips=13>Sludge Housing Complex</tips>.’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0780",
@@ -4739,7 +6591,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうか。まあおれは、別に捕まりたくなくてここにいるわけじゃないんだがな……」",
-      "en": "“I see. Though avoiding capture isn't why I'm here...”"
+      "en": "“I see. Though avoiding capture isn't why I'm here...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0781",
@@ -4748,7 +6606,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はそしてカップの紅茶を飲み干した。",
-      "en": "He drained his tea."
+      "en": "He drained his tea.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0782",
@@ -4757,7 +6621,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おまえたちは飲まないのか？　さっきから手を付けていない」",
-      "en": "“Aren't you drinking? You haven't touched your cups.”"
+      "en": "“Aren't you drinking? You haven't touched your cups.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0783",
@@ -4766,7 +6636,13 @@
       "sj": "",
       "se": "",
       "jp": "「私たちカフェインは飲まないの。睡眠がとれなくなって、美容に悪いから」",
-      "en": "“We don't drink caffeine. It keeps us awake, and that's bad for our skin.”"
+      "en": "“We don't drink caffeine. It keeps us awake, and that's bad for our skin.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0784",
@@ -4775,7 +6651,13 @@
       "sj": "",
       "se": "",
       "jp": "「それより、説明してちょうだい」",
-      "en": "“Never mind that. Explain.”"
+      "en": "“Never mind that. Explain.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0785",
@@ -4784,7 +6666,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「何を？」",
-      "en": "“Explain what?”"
+      "en": "“Explain what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0786",
@@ -4793,7 +6681,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はとぼけたように首をかしげる。",
-      "en": "He tilted his head, pretending not to understand."
+      "en": "He tilted his head, pretending not to understand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0787",
@@ -4802,7 +6696,13 @@
       "sj": "",
       "se": "",
       "jp": "「全部だよ。全部」",
-      "en": "“Everything. All of it.”"
+      "en": "“Everything. All of it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0788",
@@ -4811,7 +6711,13 @@
       "sj": "",
       "se": "",
       "jp": "「ここまで来て喋らないつもりなら、あんたを殺すわ」",
-      "en": "“If you still won't talk after everything we did, we'll kill you.”"
+      "en": "“If you still won't talk after everything we did, we'll kill you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0789",
@@ -4820,7 +6726,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「面白いジョークだ」",
-      "en": "“What an amusing joke.”"
+      "en": "“What an amusing joke.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0790",
@@ -4829,7 +6741,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は声を立てて笑って、",
-      "en": "He laughed aloud."
+      "en": "He laughed aloud.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0791",
@@ -4838,7 +6756,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「いいだろう。確かにおまえたちは他の女どもと違うような気がするな。こんなこと誰にも話したことはないが、おまえたちは特別だ。知りたいことは、出来るだけ話してやる。……聞いて後悔するなよ」",
-      "en": "“Very well. You do seem different from other women. I've never told anyone these things, but you two are special. I'll tell you whatever you want to know, as far as I'm able... Don't regret hearing it.”"
+      "en": "“Very well. You do seem different from other women. I've never told anyone these things, but you two are special. I'll tell you whatever you want to know, as far as I'm able... Don't regret hearing it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0792",
@@ -4847,7 +6771,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼は、薄笑いを顔に貼りつけたまま話し始めた。",
-      "en": "With a thin smile still fixed on his face, he began."
+      "en": "With a thin smile still fixed on his face, he began.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0795",
@@ -4856,7 +6786,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まずおれのことは『<tips=20>コシチェイ</tips>』ではなく、<tips=64>アレクセイ</tips>と呼んで貰おう。<tips=20>コシチェイ</tips>というのはあくまでも世間がつけた名前だからね。これが、おれの本当の名前だ」",
-      "en": "“First, you may call me <tips=64>Alexey</tips>, not ‘<tips=20>Koschei</tips>.’ <tips=20>Koschei</tips> is only a name the public gave me. Alexey is my real name.”"
+      "en": "“First, you may call me <tips=64>Alexey</tips>, not ‘<tips=20>Koschei</tips>.’ <tips=20>Koschei</tips> is only a name the public gave me. Alexey is my real name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0796",
@@ -4865,7 +6801,13 @@
       "sj": "",
       "se": "",
       "jp": "「フルネームはなんて言うの？」",
-      "en": "“What's your full name?”"
+      "en": "“What's your full name?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0797",
@@ -4874,7 +6816,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「フルネームなんかないよ。これがおれの名前の全部だ」",
-      "en": "“I don't have one. Alexey is my whole name.”"
+      "en": "“I don't have one. Alexey is my whole name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0798",
@@ -4883,7 +6831,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなはずないでしょう」",
-      "en": "“That's impossible.”"
+      "en": "“That's impossible.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0799",
@@ -4892,7 +6846,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「ないんだから仕方ない」",
-      "en": "“I don't have one. What can I do about it?”"
+      "en": "“I don't have one. What can I do about it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0800",
@@ -4901,7 +6861,13 @@
       "sj": "",
       "se": "",
       "jp": "　その言葉に、私たちは溜息をつく。",
-      "en": "We sighed."
+      "en": "We sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0801",
@@ -4910,7 +6876,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……さて、まず何から話そうか」",
-      "en": "“...Now, where shall I begin?”"
+      "en": "“...Now, where shall I begin?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0802",
@@ -4919,7 +6891,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>――<tips=64>アレクセイ</tips>は、背もたれに身体を預け、足を組んだ。",
-      "en": "<tips=20>Koschei</tips>—<tips=64>Alexey</tips>—leaned back in his chair and crossed his legs."
+      "en": "<tips=20>Koschei</tips>—<tips=64>Alexey</tips>—leaned back in his chair and crossed his legs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0803",
@@ -4928,7 +6906,13 @@
       "sj": "",
       "se": "",
       "jp": "「まず、<tips=63>サーシェンカ</tips>との関係を教えてほしいわ」",
-      "en": "“First, tell us how you're connected to <tips=63>Sashen'ka</tips>.”"
+      "en": "“First, tell us how you're connected to <tips=63>Sashen'ka</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0804",
@@ -4937,7 +6921,13 @@
       "sj": "",
       "se": "",
       "jp": "「もしかして、あなたのサイキック能力？」",
-      "en": "“Is he your psychic ability?”"
+      "en": "“Is he your psychic ability?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0805",
@@ -4946,7 +6936,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「その通り。世間ではサイキックだとか、<tips=16>タイプA</tips>だとか言うが、おれたちもそれに属するんだろう。この身体の中には複数の人間が住んでいて、必要に応じて別の人間に変わることができる」",
-      "en": "“Exactly. The world talks about psychics and <tips=16>Type A</tips> people. I suppose we belong among them. Several people live inside this body, and we can become someone else whenever the need arises.”"
+      "en": "“Exactly. The world talks about psychics and <tips=16>Type A</tips> people. I suppose we belong among them. Several people live inside this body, and we can become someone else whenever the need arises.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0806",
@@ -4955,7 +6951,13 @@
       "sj": "",
       "se": "",
       "jp": "「複数？　<tips=63>サーシェンカ</tips>とあなたの他にも姿があるってこと？」",
-      "en": "“Several? There are other forms besides you and <tips=63>Sashen'ka</tips>?”"
+      "en": "“Several? There are other forms besides you and <tips=63>Sashen'ka</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0807",
@@ -4964,7 +6966,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうとも。何人かいる。まあ、別の姿ですれ違ってもおまえたちは気がつかないだろうよ。姿も性格も違う、まるきりの別人だからな」",
-      "en": "“That's right. Several. You could pass one of us in the street and never notice. Different face, different character—an entirely different person.”"
+      "en": "“That's right. Several. You could pass one of us in the street and never notice. Different face, different character—an entirely different person.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0808",
@@ -4973,7 +6981,13 @@
       "sj": "",
       "se": "",
       "jp": "「どういう人たちがいるの？」",
-      "en": "“What kind of people are they?”"
+      "en": "“What kind of people are they?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0809",
@@ -4982,7 +6996,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「それは言えないな。なかにはおまえたちのことを快く思っていないやつもいるし、用心深いやつらもいる。いつも苦労してるのはおれだから、あいつらの意見なんか知ったことじゃないと言いたいが、おれも多少は配慮するのさ」",
-      "en": "“I can't tell you that. Some of them don't think much of you, and some are terribly cautious. I'm always the one saddled with the hard work, so I'd like to say their opinions can go to hell. Even I have to show a little consideration, though.”"
+      "en": "“I can't tell you that. Some of them don't think much of you, and some are terribly cautious. I'm always the one saddled with the hard work, so I'd like to say their opinions can go to hell. Even I have to show a little consideration, though.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0810",
@@ -4991,7 +7011,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>はそう言って笑う。",
-      "en": "<tips=64>Alexey</tips> laughed."
+      "en": "<tips=64>Alexey</tips> laughed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0811",
@@ -5000,7 +7026,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたはそういうことを色々知っているのね。<tips=63>サーシェンカ</tips>は何も知らなかったみたいだけど……」",
-      "en": "“You know so much about all this. <tips=63>Sashen'ka</tips> didn't seem to know anything...”"
+      "en": "“You know so much about all this. <tips=63>Sashen'ka</tips> didn't seem to know anything...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0812",
@@ -5009,7 +7041,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まあね。人によって出来ることが違うんだよ。<tips=63>サーシェンカ</tips>みたいに何も知らないやつもいるし、他人が表に出てる時も頭のなかに残ってボソボソと話しかけたり出来るヤツもいる。おれは、他人の存在は知っているが、出番じゃないときは眠ってる。その時何をしているかはわからない」",
-      "en": "“Different people can do different things. Some, like <tips=63>Sashen'ka</tips>, know nothing. Others can linger in our head while someone else is out front and mutter at them. I know the others exist, but when it isn't my turn, I sleep. I don't know what happens then.”"
+      "en": "“Different people can do different things. Some, like <tips=63>Sashen'ka</tips>, know nothing. Others can linger in our head while someone else is out front and mutter at them. I know the others exist, but when it isn't my turn, I sleep. I don't know what happens then.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0813",
@@ -5018,7 +7056,13 @@
       "sj": "",
       "se": "",
       "jp": "「時々空に向かって話しかけてるのは、その誰かと喋ってるの？」",
-      "en": "“When you talk to empty air, is that one of them you're talking to?”"
+      "en": "“When you talk to empty air, is that one of them you're talking to?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0814",
@@ -5027,7 +7071,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうだ」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0815",
@@ -5036,7 +7086,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんだ。<tips=17>タイプB</tips>を発症してるのかと思った」",
-      "en": "“Oh. We thought you were showing symptoms of <tips=17>Type B</tips>.”"
+      "en": "“Oh. We thought you were showing symptoms of <tips=17>Type B</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0816",
@@ -5045,7 +7101,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おれは<tips=17>タイプB</tips>だよ。でも発症してはいないし、おまえたちみたいに化け物じみた怪力もない。悲しき小市民さ」",
-      "en": "“I am <tips=17>Type B</tips>. I've simply never manifested, and I have none of that monstrous strength you two enjoy. I'm just a poor little everyman.”"
+      "en": "“I am <tips=17>Type B</tips>. I've simply never manifested, and I have none of that monstrous strength you two enjoy. I'm just a poor little everyman.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0817",
@@ -5054,7 +7116,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は肩をすくめた。",
-      "en": "He shrugged."
+      "en": "He shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0818",
@@ -5063,7 +7131,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「次は何を話そうか？」",
-      "en": "“What shall I tell you next?”"
+      "en": "“What shall I tell you next?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0819",
@@ -5072,7 +7146,13 @@
       "sj": "",
       "se": "",
       "jp": "「じゃあ訊くよ」",
-      "en": "“Then here's another question.”"
+      "en": "“Then here's another question.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0820",
@@ -5081,7 +7161,13 @@
       "sj": "",
       "se": "",
       "jp": "「あの異常な再生能力はなに？」",
-      "en": "“What's that unnatural regeneration?”"
+      "en": "“What's that unnatural regeneration?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0821",
@@ -5090,7 +7176,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「知らないよ。気がついたらそうなってたんだ。お前らだって自分の能力の説明なんか出来るのか？　出来るなら、今すぐ論文にすればノーベル賞をとれるぜ」",
-      "en": "“I don't know. One day I found I could do it. Can you two explain your own abilities? If so, write a paper this instant and collect your Nobel Prize.”"
+      "en": "“I don't know. One day I found I could do it. Can you two explain your own abilities? If so, write a paper this instant and collect your Nobel Prize.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0822",
@@ -5099,7 +7191,13 @@
       "sj": "",
       "se": "",
       "jp": "「どの程度の回復力があるの？」",
-      "en": "“How much can you recover from?”"
+      "en": "“How much can you recover from?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0823",
@@ -5108,7 +7206,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「最悪の思い出だと、爆弾で腰から上を吹っ飛ばされたことがある。あのときは酷いもので、再生に三ヶ月もかかった」",
-      "en": "“The worst was a bomb that blew away everything above my waist. Ghastly business. It took three whole months to grow back.”"
+      "en": "“The worst was a bomb that blew away everything above my waist. Ghastly business. It took three whole months to grow back.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0824",
@@ -5117,7 +7221,13 @@
       "sj": "",
       "se": "",
       "jp": "「その状態から生き返るなんて、本当に不死身なのね……」",
-      "en": "“Coming back from that... You really are deathless.”"
+      "en": "“Coming back from that... You really are deathless.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0825",
@@ -5126,7 +7236,13 @@
       "sj": "",
       "se": "",
       "jp": "「警察に撃たれても平気だし、ビルから飛び降りても川に落ちても大丈夫。とにかくその場さえしのげば、まったくの別人になりかわることが出来る……。随分ずさんでいいかげんなやつだと思ってたけど、今まで捕まらないで来られた理由がわかったわ」",
-      "en": "“The police can shoot you, you can jump off a building or fall into a river, and none of it matters. As long as you survive the moment, you can turn into a completely different person... We thought you were unbelievably sloppy and careless. Now we know why you've never been caught.”"
+      "en": "“The police can shoot you, you can jump off a building or fall into a river, and none of it matters. As long as you survive the moment, you can turn into a completely different person... We thought you were unbelievably sloppy and careless. Now we know why you've never been caught.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0826",
@@ -5135,7 +7251,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、それだけじゃ足りない。まだ何か能力を持ってるんじゃない？」",
-      "en": "“But that isn't enough. You have another ability, don't you?”"
+      "en": "“But that isn't enough. You have another ability, don't you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0827",
@@ -5144,7 +7266,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「鋭いな。でも、それは言えない。おれに関することじゃないからね」",
-      "en": "“Very sharp. But I can't tell you. It isn't mine to discuss.”"
+      "en": "“Very sharp. But I can't tell you. It isn't mine to discuss.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0828",
@@ -5153,7 +7281,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたのなかの別の誰かが、サイキックってことね」",
-      "en": "“Someone else inside you is psychic.”"
+      "en": "“Someone else inside you is psychic.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0829",
@@ -5162,7 +7296,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は何も言わずに笑っているだけだった。",
-      "en": "<tips=64>Alexey</tips> only smiled."
+      "en": "<tips=64>Alexey</tips> only smiled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0830",
@@ -5171,7 +7311,13 @@
       "sj": "",
       "se": "",
       "jp": "「それにしても、話が本当ならとんでもないことだよ。必要に応じて必要な他人に入れ替わって、八つ裂きにされても死なないで、そしてサイキックもいるわけでしょう？」",
-      "en": "“Still, if that's all true, it's incredible. You can become whichever person you need, survive being torn to pieces, and one of you is psychic too?”"
+      "en": "“Still, if that's all true, it's incredible. You can become whichever person you need, survive being torn to pieces, and one of you is psychic too?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0831",
@@ -5180,7 +7326,13 @@
       "sj": "",
       "se": "",
       "jp": "「平凡だっていうけど、どこが平凡なのよ。こんな変態見たことない」",
-      "en": "“You call yourself ordinary? What part of this is ordinary? We've never seen such a freak.”"
+      "en": "“You call yourself ordinary? What part of this is ordinary? We've never seen such a freak.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0832",
@@ -5189,7 +7341,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは溜息をつく。",
-      "en": "We sighed."
+      "en": "We sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0833",
@@ -5198,7 +7356,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「おれ個人は平凡だよ。おまえたちのような怪力も念動力もない。……それに、言うほど便利じゃないんだぜ。その辺りにいるノーマルよりも不便で、どうにもならないことだってある……」",
-      "en": "“Personally, I'm ordinary. I have neither your monstrous strength nor your telekinesis... And it isn't as convenient as you imagine. In some ways, we have it worse than any Normal on the street. There are things we can do nothing about...”"
+      "en": "“Personally, I'm ordinary. I have neither your monstrous strength nor your telekinesis... And it isn't as convenient as you imagine. In some ways, we have it worse than any Normal on the street. There are things we can do nothing about...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0834",
@@ -5207,7 +7371,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は目を細める。",
-      "en": "<tips=64>Alexey</tips> narrowed his eyes."
+      "en": "<tips=64>Alexey</tips> narrowed his eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0835",
@@ -5216,7 +7386,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは何？」",
-      "en": "“What things?”"
+      "en": "“What things?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0836",
@@ -5225,7 +7401,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……言えないな。全体的に、ちょっと話し過ぎた。……もしかしたらおれも、他人に自分のことを話したい気持ちがあったのかもしれないな」",
-      "en": "“...I can't say. All in all, I've talked too much already... Perhaps some part of me wanted to tell someone about myself.”"
+      "en": "“...I can't say. All in all, I've talked too much already... Perhaps some part of me wanted to tell someone about myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0837",
@@ -5234,7 +7416,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は苦笑して、立ち上がると二杯目の紅茶を淹れるために電気ポットの方へ向かった。",
-      "en": "With a rueful smile, <tips=64>Alexey</tips> rose and went to the electric kettle to make his second cup of tea."
+      "en": "With a rueful smile, <tips=64>Alexey</tips> rose and went to the electric kettle to make his second cup of tea.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0838",
@@ -5243,7 +7431,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼が再び席に戻って来てから、私たちは別のことを訊ねた。",
-      "en": "Once he returned to his seat, we asked about something else."
+      "en": "Once he returned to his seat, we asked about something else.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0839",
@@ -5252,7 +7446,13 @@
       "sj": "",
       "se": "",
       "jp": "　あの<tips=50>路地</tips>の家での出来事だ。",
-      "en": "What happened at <tips=50>Roji</tips>'s home."
+      "en": "What happened at <tips=50>Roji</tips>'s home.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0840",
@@ -5261,7 +7461,13 @@
       "sj": "",
       "se": "",
       "jp": "「あそこに散らばっていた死体は、あなたがやったの？」",
-      "en": "“Did you make the mess of that body?”"
+      "en": "“Did you make the mess of that body?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0841",
@@ -5270,7 +7476,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「厳密には違う……が、他人からすれば同じようなものだろう」",
-      "en": "“Strictly speaking, no... Though to anyone else, I suppose it amounts to the same thing.”"
+      "en": "“Strictly speaking, no... Though to anyone else, I suppose it amounts to the same thing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0842",
@@ -5279,7 +7491,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたのなかの別の誰かがやったのね」",
-      "en": "“Someone else inside you did it.”"
+      "en": "“Someone else inside you did it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0843",
@@ -5288,7 +7506,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうだ。おれはあんな散らかし方はしない。まったく、臓物をぶちまけて、可哀想なもんだよ。女に対して、あんな殺し方はしてはいけないんだ」",
-      "en": "“Yes. I would never leave such a mess. Entrails strewn everywhere... The poor woman. One mustn't kill a woman that way.”"
+      "en": "“Yes. I would never leave such a mess. Entrails strewn everywhere... The poor woman. One mustn't kill a woman that way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0844",
@@ -5297,7 +7521,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は忌々しげに舌打ちをした。",
-      "en": "<tips=64>Alexey</tips> clicked his tongue in disgust."
+      "en": "<tips=64>Alexey</tips> clicked his tongue in disgust.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0845",
@@ -5306,7 +7536,13 @@
       "sj": "",
       "se": "",
       "jp": "「あの被害者は誰？」",
-      "en": "“Who was she?”"
+      "en": "“Who was she?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0846",
@@ -5315,7 +7551,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「知らないよ。まあたぶん、あの<tips=50>路地</tips>ってやつの妻か情婦か、その辺りだろう。彼女を殺すのに意味があったわけじゃない。あの場にいたから殺した。それだけだ」",
-      "en": "“I don't know. The wife or mistress of that <tips=50>Roji</tips> fellow, I imagine. Her death meant nothing. She happened to be there, so she was killed. That's all.”"
+      "en": "“I don't know. The wife or mistress of that <tips=50>Roji</tips> fellow, I imagine. Her death meant nothing. She happened to be there, so she was killed. That's all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0847",
@@ -5324,7 +7566,13 @@
       "sj": "",
       "se": "",
       "jp": "「その女性じゃなくて、あの家に用があったのね」",
-      "en": "“So you went there for the house, not the woman.”"
+      "en": "“So you went there for the house, not the woman.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0848",
@@ -5333,7 +7581,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうだ。あの<tips=50>路地</tips>ってやつが、どうもおれのことを知っているようだったからね。どの程度知っているか調べようと思ったのさ」",
-      "en": "“Exactly. That fellow <tips=50>Roji</tips> seemed to know something about me. I went to find out how much.”"
+      "en": "“Exactly. That fellow <tips=50>Roji</tips> seemed to know something about me. I went to find out how much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0849",
@@ -5342,7 +7596,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼が言うには、数日前に<tips=50>路地邦昭</tips>が『<tips=20>コシチェイ</tips>』のことを知っているという話を聞いたらしい。そして<tips=50>路地</tips>について調べてみると、サイキック能力を持つ元探偵で、今は警察の管理下にあるということが判明した。",
-      "en": "He said he had heard several days earlier that <tips=50>Kuniaki Roji</tips> knew about ‘<tips=20>Koschei</tips>.’ Further investigation into <tips=50>Roji</tips> showed that he was a former detective with psychic abilities, now under police control."
+      "en": "He said he had heard several days earlier that <tips=50>Kuniaki Roji</tips> knew about ‘<tips=20>Koschei</tips>.’ Further investigation into <tips=50>Roji</tips> showed that he was a former detective with psychic abilities, now under police control.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0850",
@@ -5351,7 +7611,13 @@
       "sj": "",
       "se": "",
       "jp": "「彼らはこの街でのあなたの猟奇殺人について調べていたってこと？」",
-      "en": "“So they were investigating your serial murders in the City?”"
+      "en": "“So they were investigating your serial murders in the City?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0851",
@@ -5360,7 +7626,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうかもしれない。でも、このおれの殺人事件を調べているだけだったら別にどうってことはないんだ。いくらでも誤魔化せるからね。……まあ、とにかく、あいつらがどの程度情報をつかんでいるのか調べるために行ったのさ。おれは気が進まなかったがね。そうしろって言うんだから仕方ない。そして結果はこの通りさ。馬鹿馬鹿しいもんだよ。罪のない女と刑事が死んだ。おまえたちが人殺しになった。……愛のない殺人は最悪だ。何の感情もなく、ただ邪魔だからって殺されるなんて、あまりにも非人間的な話だと思わないか？　みんなに馬鹿にされるがね、おれは愛情ってものをとても大事に考えているんだよ。それが人として正しいことだろう？」",
-      "en": "“Perhaps. But if they were only investigating my murders, it hardly mattered. I can mislead them any number of ways... At any rate, we went to learn how much they knew. I had no appetite for it, but when I'm told to do something, what choice do I have? And look at the result. Absurd. An innocent woman and a detective are dead. You two became murderers... Killing without love is the very worst kind. To kill someone without feeling, simply because they're in the way—isn't that terribly inhuman? People laugh at me, but I place great value on affection. Surely that's the proper human way to live.”"
+      "en": "“Perhaps. But if they were only investigating my murders, it hardly mattered. I can mislead them any number of ways... At any rate, we went to learn how much they knew. I had no appetite for it, but when I'm told to do something, what choice do I have? And look at the result. Absurd. An innocent woman and a detective are dead. You two became murderers... Killing without love is the very worst kind. To kill someone without feeling, simply because they're in the way—isn't that terribly inhuman? People laugh at me, but I place great value on affection. Surely that's the proper human way to live.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0852",
@@ -5369,7 +7641,13 @@
       "sj": "",
       "se": "",
       "jp": "「同意を求められたって困るよ。私たちはあなたみたいな変態じゃないもの」",
-      "en": "“Don't ask us to agree. We aren't perverts like you.”"
+      "en": "“Don't ask us to agree. We aren't perverts like you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0853",
@@ -5378,7 +7656,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「何だっていいさ。とにかくさ、調べたいなら、好きに調べさせてやればよかったんだよ。おれたちはずっと好き放題やってきたんだ。」",
-      "en": "“Whatever. If they wanted to investigate, we should have let them investigate to their hearts' content. We've always done exactly as we pleased.”"
+      "en": "“Whatever. If they wanted to investigate, we should have let them investigate to their hearts' content. We've always done exactly as we pleased.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0854",
@@ -5387,7 +7671,13 @@
       "sj": "",
       "se": "",
       "jp": "「つまりさ、あなたのなかにいる、誰かがそう命令したってことなんでしょ。ねえ、その人と直接話せない？」",
-      "en": "“So someone inside you gave the order. Can't we speak to that person directly?”"
+      "en": "“So someone inside you gave the order. Can't we speak to that person directly?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0855",
@@ -5396,7 +7686,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「どうかな……ふむ、それは無理だって言っている。こいつは心配性で、用心深いやつだからね。いまさら用心深くしたって、何の意味もないだろうとおれは思うんだが。だって、どうせ、もうどうにもなりゃしないんだ……」",
-      "en": "“Let's see... Hmm. He says no. He's a worrier, and terribly cautious. Personally, I can't see the point of caution this late in the game. After all, nothing can be done now...”"
+      "en": "“Let's see... Hmm. He says no. He's a worrier, and terribly cautious. Personally, I can't see the point of caution this late in the game. After all, nothing can be done now...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0856",
@@ -5405,7 +7701,13 @@
       "sj": "",
       "se": "",
       "jp": "「どういうこと？」",
-      "en": "“What do you mean?”"
+      "en": "“What do you mean?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0857",
@@ -5414,7 +7716,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「さあね。……まあ、主謀者には、そのうち会えるだろうよ。約束はしないがね。そうだろう？」",
-      "en": "“Who knows? ...Well, I expect you'll meet the mastermind eventually. No promises. Isn't that right?”"
+      "en": "“Who knows? ...Well, I expect you'll meet the mastermind eventually. No promises. Isn't that right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0858",
@@ -5423,7 +7731,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>の最後の言葉は、誰もいない空間にむかって放たれた。",
-      "en": "<tips=64>Alexey</tips> aimed his last words at empty space."
+      "en": "<tips=64>Alexey</tips> aimed his last words at empty space.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0859",
@@ -5432,7 +7746,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の頭のなかにいる、その『主謀者』にむけて言ったのだろう。",
-      "en": "Presumably, he meant the ‘mastermind’ inside his head."
+      "en": "Presumably, he meant the ‘mastermind’ inside his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0860",
@@ -5441,7 +7761,13 @@
       "sj": "",
       "se": "",
       "jp": "「で、今回はその<tips=50>路地</tips>を残しちゃったけど、どうするの？」",
-      "en": "“So what now? We left <tips=50>Roji</tips> alive.”"
+      "en": "“So what now? We left <tips=50>Roji</tips> alive.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0861",
@@ -5450,7 +7776,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「知らないよ。おれはどうでもいい。どうでもよくないやつが何か考えるだろう」",
-      "en": "“No idea. I couldn't care less. Someone who does care can think of something.”"
+      "en": "“No idea. I couldn't care less. Someone who does care can think of something.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0862",
@@ -5459,7 +7791,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は言いながら、また紅茶に大量に蜂蜜を溶かす。",
-      "en": "As he spoke, <tips=64>Alexey</tips> stirred another enormous helping of honey into his tea."
+      "en": "As he spoke, <tips=64>Alexey</tips> stirred another enormous helping of honey into his tea.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0863",
@@ -5468,7 +7806,13 @@
       "sj": "",
       "se": "",
       "jp": "　一通りの話を聞いて、私たちは顔を見合わせる。",
-      "en": "Once we had heard everything, we looked at each other."
+      "en": "Once we had heard everything, we looked at each other.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0864",
@@ -5477,7 +7821,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんだか、色んな話を聞いちゃったわね」",
-      "en": "“Well, that was a lot to hear all at once.”"
+      "en": "“Well, that was a lot to hear all at once.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0865",
@@ -5486,7 +7836,13 @@
       "sj": "",
       "se": "",
       "jp": "「消化が悪くて胸焼けしそう」",
-      "en": "“I can't digest it. I'm getting heartburn.”"
+      "en": "“I can't digest it. I'm getting heartburn.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0866",
@@ -5495,7 +7851,13 @@
       "sj": "",
       "se": "",
       "jp": "　次は何を訊いたらいいのか、私たちは話し合った。",
-      "en": "We discussed what to ask next."
+      "en": "We discussed what to ask next.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0868",
@@ -5513,7 +7875,13 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「なんだこれえ。いくらなんでも甘すぎるよ……」",
-      "en": "“What is this? It's much too sweet...”"
+      "en": "“What is this? It's much too sweet...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0871",
@@ -5522,7 +7890,13 @@
       "sj": "",
       "se": "",
       "jp": "　目の前で顔をしかめているのは、",
-      "en": "The person frowning at us was—"
+      "en": "The person frowning at us was—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0872",
@@ -5531,7 +7905,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=63>サーシェンカ</tips>……」",
-      "en": "“<tips=63>Sashen'ka</tips>...”"
+      "en": "“<tips=63>Sashen'ka</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "F2:0873",
@@ -5540,7 +7920,13 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「ああ、二人揃って、こんにちは」",
-      "en": "“Oh. Hello, both of you.”"
+      "en": "“Oh. Hello, both of you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0874",
@@ -5549,7 +7935,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=63>サーシェンカ</tips>は屈託のない笑顔を浮かべている。",
-      "en": "<tips=63>Sashen'ka</tips> smiled without a care."
+      "en": "<tips=63>Sashen'ka</tips> smiled without a care.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0875",
@@ -5558,7 +7950,13 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「今日は気分がいい目覚めだよ。なんでもない部屋のなかで、きみたち二人と向かい合っているんだ。いつもこんなに平和だったらいいのにねえ……」",
-      "en": "“What a nice way to wake up. Just an ordinary room, with both of you sitting across from me. If only it could always be this peaceful...”"
+      "en": "“What a nice way to wake up. Just an ordinary room, with both of you sitting across from me. If only it could always be this peaceful...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "F2:0876",
@@ -5567,7 +7965,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の無邪気な表情に、私たちは言葉を失った。",
-      "en": "His innocent face left us speechless."
+      "en": "His innocent face left us speechless.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

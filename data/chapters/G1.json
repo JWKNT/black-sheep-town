@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　私の最も古い記憶は、激しい痛みと絶望でした。",
-      "en": "My earliest memory is of terrible pain and despair."
+      "en": "My earliest memory is of terrible pain and despair.",
+      "bg": "assets/vn/backgrounds/bg-e12511c16f5a.webp"
     },
     {
       "id": "G1:0012",
@@ -158,7 +159,8 @@
       "sj": "",
       "se": "",
       "jp": "　ぼんやりとまぶたを開けると……その時私は初めて『まぶた』を獲得したんです。それより前の私は、『まぶた』を持っていませんでした……私はこれまでにないくらい鮮明に身のまわりのさまざまなものを知覚しました。",
-      "en": "I slowly opened my eyes... and that was the first time I had ever had 'eyelids.' Before then, I hadn't had any... Everything around me came into focus with a clarity I had never known."
+      "en": "I slowly opened my eyes... and that was the first time I had ever had 'eyelids.' Before then, I hadn't had any... Everything around me came into focus with a clarity I had never known.",
+      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
     },
     {
       "id": "G1:0035",
@@ -302,7 +304,13 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「お母さんはどこか遠くに行ったまま帰ってこないけれど、いつか大人になったら会うことが出来る」",
-      "en": "“Your mother went somewhere far away and hasn't come back. But once you're grown, you'll be able to meet her.”"
+      "en": "“Your mother went somewhere far away and hasn't come back. But once you're grown, you'll be able to meet her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-114e3afd37be.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0051",
@@ -311,7 +319,13 @@
       "sj": "",
       "se": "",
       "jp": "　父はそう言い、私はそれを信じました。",
-      "en": "That was what my father said, and I believed him."
+      "en": "That was what my father said, and I believed him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-114e3afd37be.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0052",
@@ -320,7 +334,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうして私の疑いは消えました。",
-      "en": "And just like that, my doubts disappeared."
+      "en": "And just like that, my doubts disappeared.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-114e3afd37be.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0053",
@@ -329,7 +349,13 @@
       "sj": "",
       "se": "",
       "jp": "　他にもいくつか疑問となったことはあるのですが、それでも、私をとりまくもっと多くの不思議については、なかなか気がつくことがありませんでした。",
-      "en": "I questioned a few other things, but it took me much longer to notice the far greater mysteries all around me."
+      "en": "I questioned a few other things, but it took me much longer to notice the far greater mysteries all around me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-114e3afd37be.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0055",
@@ -365,7 +391,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「退屈じゃない？」",
-      "en": "“Aren’t you bored?”"
+      "en": "“Aren’t you bored?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0059",
@@ -374,7 +406,13 @@
       "sj": "",
       "se": "",
       "jp": "　と<tips=1>リョウ</tips>さんが聞いてくれても、",
-      "en": "Even when <tips=1>Ryou</tips> asked—"
+      "en": "Even when <tips=1>Ryou</tips> asked—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0060",
@@ -383,7 +421,13 @@
       "sj": "",
       "se": "",
       "jp": "「楽しい」",
-      "en": "“I’m having fun.”"
+      "en": "“I’m having fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0061",
@@ -392,7 +436,13 @@
       "sj": "",
       "se": "",
       "jp": "　なんて、にこりともせずそう答え、本当に楽しがっているのか、そのたびに首をひねったと言います。",
-      "en": "—I'd answer without the faintest smile. He says he could never tell whether I was really having fun."
+      "en": "—I'd answer without the faintest smile. He says he could never tell whether I was really having fun.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0068",
@@ -401,7 +451,8 @@
       "sj": "",
       "se": "",
       "jp": "　おかしいことは他にもあって、食べ物にも、まったく執着というものがありませんでした。",
-      "en": "There were other odd things about me. I had no interest in food at all."
+      "en": "There were other odd things about me. I had no interest in food at all.",
+      "bg": "assets/vn/backgrounds/bg-7591d9872972.webp"
     },
     {
       "id": "G1:0069",
@@ -500,7 +551,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「いつもそんな風にやってるけど、それってどんな味がするのさ？」",
-      "en": "“You always eat it like that, but what does it even taste like?”"
+      "en": "“You always eat it like that, but what does it even taste like?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0080",
@@ -509,7 +566,13 @@
       "sj": "",
       "se": "",
       "jp": "　あるとき、<tips=1>リョウ</tips>さんはそう尋ねました。",
-      "en": "<tips=1>Ryou</tips> asked me one day."
+      "en": "<tips=1>Ryou</tips> asked me one day.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0081",
@@ -518,7 +581,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「ちょっとくれる？」",
-      "en": "“Can I try some?”"
+      "en": "“Can I try some?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0082",
@@ -527,7 +596,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼が興味を持ったので、私は怒られるのを覚悟しながら手渡します。",
-      "en": "When he wanted to try it, I handed it over and braced myself for another scolding."
+      "en": "When he wanted to try it, I handed it over and braced myself for another scolding.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0083",
@@ -536,7 +611,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は一口飲むと目を白黒させて、",
-      "en": "He took one sip and stared at me in disbelief."
+      "en": "He took one sip and stared at me in disbelief.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0084",
@@ -545,7 +626,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「よくこんなものが飲めるね。とても人間の口にするものじゃない」",
-      "en": "“How can you drink this? This isn't fit for human consumption.”"
+      "en": "“How can you drink this? This isn't fit for human consumption.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0085",
@@ -554,7 +641,13 @@
       "sj": "",
       "se": "",
       "jp": "　と言いました。",
-      "en": "That was his verdict."
+      "en": "That was his verdict.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0086",
@@ -563,7 +656,13 @@
       "sj": "",
       "se": "",
       "jp": "　その日の夕食は、白身魚の西京焼きがメインで、デザートは小さなチーズケーキだったように覚えています。",
-      "en": "If I remember correctly, dinner that night was white fish grilled in Saikyo miso, with a little cheesecake for dessert."
+      "en": "If I remember correctly, dinner that night was white fish grilled in Saikyo miso, with a little cheesecake for dessert.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0087",
@@ -572,7 +671,13 @@
       "sj": "",
       "se": "",
       "jp": "「みんなが食べているものと同じだよ」",
-      "en": "“It’s the same food everyone else is eating.”"
+      "en": "“It’s the same food everyone else is eating.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0088",
@@ -581,7 +686,13 @@
       "sj": "",
       "se": "",
       "jp": "　味というものの善し悪しがわからない私は、<tips=1>リョウ</tips>さんの言うことがわかりません。",
-      "en": "I couldn't tell whether anything tasted good or bad, so I didn't understand what <tips=1>Ryou</tips> meant."
+      "en": "I couldn't tell whether anything tasted good or bad, so I didn't understand what <tips=1>Ryou</tips> meant.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0089",
@@ -590,7 +701,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「犬や猫は残飯を混ぜても普通に食べるけどさ。きみは人間なんだからもっと味わいとかも気にしなきゃ」",
-      "en": "“Dogs and cats will eat scraps all mixed together and never complain. But you're human. You ought to care what things taste like.”"
+      "en": "“Dogs and cats will eat scraps all mixed together and never complain. But you're human. You ought to care what things taste like.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0090",
@@ -599,7 +716,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんはこのように酷評をしましたが、とにかくそれが、当時の私にとっては一番好きな食事の食べ方で、これを飲みながらテレビで映画などをみて「わあ」と目を丸くして驚いたりしている時が最高に幸せな時間でした。",
-      "en": "Despite <tips=1>Ryou</tips>'s harsh review, it remained my favorite way to eat. I was happiest drinking my meal in front of the television, staring wide-eyed at a film and murmuring 'Wow.'"
+      "en": "Despite <tips=1>Ryou</tips>'s harsh review, it remained my favorite way to eat. I was happiest drinking my meal in front of the television, staring wide-eyed at a film and murmuring 'Wow.'",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0091",
@@ -608,7 +731,13 @@
       "sj": "",
       "se": "",
       "jp": "　最近も時々やったりしてみるのですが、あの時の<tips=1>リョウ</tips>さんが言ったほど気持ち悪くもなく、案外平気でしたので、味覚というものは結局変化しないものなのでしょう。今でも私は犬か猫みたいなものなのかもしれません。",
-      "en": "Even recently, I've tried it again from time to time. It was nowhere near as revolting as <tips=1>Ryou</tips> claimed, and I found it surprisingly tolerable. Perhaps one's sense of taste never changes. Even now, I may still be rather like a dog or cat."
+      "en": "Even recently, I've tried it again from time to time. It was nowhere near as revolting as <tips=1>Ryou</tips> claimed, and I found it surprisingly tolerable. Perhaps one's sense of taste never changes. Even now, I may still be rather like a dog or cat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0093",
@@ -716,7 +845,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「生きてるってどういうことかわかる？」",
-      "en": "“Do you understand what it means to be alive?”"
+      "en": "“Do you understand what it means to be alive?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0105",
@@ -725,7 +860,13 @@
       "sj": "",
       "se": "",
       "jp": "　あるとき<tips=1>リョウ</tips>さんはそう尋ねました。",
-      "en": "<tips=1>Ryou</tips> asked me one day."
+      "en": "<tips=1>Ryou</tips> asked me one day.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0106",
@@ -734,7 +875,13 @@
       "sj": "",
       "se": "",
       "jp": "「……内臓とか、身体の仕組みがちゃんと働いて、動いてる状態？」",
-      "en": "“...When the organs and the rest of the body are working properly, so it can move?”"
+      "en": "“...When the organs and the rest of the body are working properly, so it can move?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0107",
@@ -743,7 +890,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「それだけ？」",
-      "en": "“Is that all?”"
+      "en": "“Is that all?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0108",
@@ -752,7 +905,13 @@
       "sj": "",
       "se": "",
       "jp": "「他に何かあるの？　この間教えてくれたのは、そこまでだよ」",
-      "en": "“Is there more to it? That's all you taught me the other day.”"
+      "en": "“Is there more to it? That's all you taught me the other day.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0109",
@@ -761,7 +920,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそういって首をかしげました。",
-      "en": "I said this and cocked my head."
+      "en": "I said this and cocked my head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0110",
@@ -770,7 +935,13 @@
       "sj": "",
       "se": "",
       "jp": "　こういった場合、<tips=1>リョウ</tips>さんも父もいちいち指摘はしませんでした。あれが違うこれが違うと指摘するのは、私によくない影響を与えそうだし、家のなかにいる限りは極力個性として受け入れる方針をとっていたのだそうです。",
-      "en": "When I said things like this, neither <tips=1>Ryou</tips> nor my father corrected every mistake. They worried that constantly telling me I was wrong might have a bad effect. As long as I stayed inside the house, they tried to accept my peculiarities as part of who I was."
+      "en": "When I said things like this, neither <tips=1>Ryou</tips> nor my father corrected every mistake. They worried that constantly telling me I was wrong might have a bad effect. As long as I stayed inside the house, they tried to accept my peculiarities as part of who I was.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0112",
@@ -788,7 +959,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「<tips=54>汐さん</tips>。僕、明日<tips=55>松子</tips>を外に連れ出すよ」",
-      "en": "“Mr. <tips=54>Shio</tips>, I'm taking <tips=55>Matsuko</tips> outside tomorrow.”"
+      "en": "“Mr. <tips=54>Shio</tips>, I'm taking <tips=55>Matsuko</tips> outside tomorrow.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0114",
@@ -797,7 +974,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんは中学生になったばかりの頃、そう父に言ったのだそうです。",
-      "en": "<tips=1>Ryou</tips> apparently said that to my father soon after starting junior high school."
+      "en": "<tips=1>Ryou</tips> apparently said that to my father soon after starting junior high school.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0115",
@@ -806,7 +989,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はその一、二年の間にすっかり性格が大人びていました。",
-      "en": "Over the previous year or two, he had grown much more adult."
+      "en": "Over the previous year or two, he had grown much more adult.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0116",
@@ -815,7 +1004,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは、彼の置かれた環境にあったのでしょう。",
-      "en": "His circumstances were probably the reason."
+      "en": "His circumstances were probably the reason.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0117",
@@ -824,7 +1019,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は中華料理屋に預けられていたのですが、その時期は本当の母親の家に帰ることが増えていました。",
-      "en": "He had been left in the care of a Chinese restaurant, but around then he began returning more often to his biological mother's home."
+      "en": "He had been left in the care of a Chinese restaurant, but around then he began returning more often to his biological mother's home.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0118",
@@ -833,7 +1034,13 @@
       "sj": "",
       "se": "",
       "jp": "　なぜかというと、彼のお母さんがついに<tips=17>タイプB</tips>を発症してしまい、妹さんと共にその世話をしていたからです。",
-      "en": "His mother had finally begun manifesting <tips=17>Type B</tips>, and he and his little sister were caring for her."
+      "en": "His mother had finally begun manifesting <tips=17>Type B</tips>, and he and his little sister were caring for her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0119",
@@ -842,7 +1049,13 @@
       "sj": "",
       "se": "",
       "jp": "　私や父の前で直接的な話をすることはなかったのですが、ふさぎこんだり、暗い表情をすることが多くなっていました。街でも、悪い子供たちとのつき合いが増えた時期です。睡眠もあまりとれていないらしく、目の下にはいつもクマが浮かんでいました。",
-      "en": "He never spoke about it directly in front of my father or me, but he grew withdrawn and often looked gloomy. It was also when he began spending more time with the City's delinquent children. He barely seemed to sleep, and there were always dark circles under his eyes."
+      "en": "He never spoke about it directly in front of my father or me, but he grew withdrawn and often looked gloomy. It was also when he began spending more time with the City's delinquent children. He barely seemed to sleep, and there were always dark circles under his eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0120",
@@ -851,7 +1064,13 @@
       "sj": "",
       "se": "",
       "jp": "　そういう大変な時期だったのですが、時間を見ては家に来て、私に接してくれていました。",
-      "en": "Even in the middle of such a difficult time, he came to see me whenever he could."
+      "en": "Even in the middle of such a difficult time, he came to see me whenever he could.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0121",
@@ -860,7 +1079,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして、そんなふうに外に連れ出すという提案までしてくれたのです。その頃には地下室だけでなく、家の中を自由に歩くことを許されていましたが、まだ玄関を出たことはありませんでした。",
-      "en": "He even offered to take me outside. By then, I could roam the whole house instead of remaining in the basement, but I had never crossed the front door."
+      "en": "He even offered to take me outside. By then, I could roam the whole house instead of remaining in the basement, but I had never crossed the front door.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0122",
@@ -869,7 +1094,13 @@
       "sj": "",
       "se": "",
       "jp": "　突然そんなことを言い出したのは、その翌年に私を中学校にあげる予定だったからです。だから<tips=1>リョウ</tips>さんは、それまでに一般的な振る舞い方を私に身につけさせたかったのだと言います。",
-      "en": "He brought it up because they planned to enroll me in junior high the following year. <tips=1>Ryou</tips> says he wanted me to learn how ordinary people behaved before then."
+      "en": "He brought it up because they planned to enroll me in junior high the following year. <tips=1>Ryou</tips> says he wanted me to learn how ordinary people behaved before then.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0123",
@@ -878,7 +1109,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「すまないなあ。本当は、おれがやらなきゃならないんだが」",
-      "en": "“Sorry. I ought to be doing this myself.”"
+      "en": "“Sorry. I ought to be doing this myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0124",
@@ -887,7 +1128,17 @@
       "sj": "",
       "se": "",
       "jp": "　父はそれを切り出されたとき、申し訳なさそうにしていたと言います。",
-      "en": "My father apparently looked ashamed when Ryou brought it up."
+      "en": "My father apparently looked ashamed when Ryou brought it up.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0125",
@@ -896,7 +1147,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「いいんだよ。僕には責任があるから」",
-      "en": "“It’s all right. I've a responsibility.”"
+      "en": "“It’s all right. I've a responsibility.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0126",
@@ -905,7 +1166,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「責任？」",
-      "en": "“A responsibility?”"
+      "en": "“A responsibility?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0127",
@@ -914,7 +1185,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「<tips=55>松子</tips>を育てるって言ったのは僕なんだ。だから、絶対一人前にする」",
-      "en": "“I'm the one who said we should raise <tips=55>Matsuko</tips>. That means I'm responsible for making sure she grows up right.”"
+      "en": "“I'm the one who said we should raise <tips=55>Matsuko</tips>. That means I'm responsible for making sure she grows up right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0128",
@@ -923,7 +1204,17 @@
       "sj": "汐健慈朗",
       "se": "Kenjirou Shio",
       "jp": "「<tips=1>亮</tips>……」",
-      "en": "“<tips=1>Ryou</tips>...”"
+      "en": "“<tips=1>Ryou</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0129",
@@ -932,7 +1223,17 @@
       "sj": "",
       "se": "",
       "jp": "　父は<tips=1>リョウ</tips>さんはとても真剣に私のことを考えてくれていたんだぞ、と、今でもよく口にします。",
-      "en": "Even now, my father often tells me how seriously <tips=1>Ryou</tips> took my future."
+      "en": "Even now, my father often tells me how seriously <tips=1>Ryou</tips> took my future.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1d38a66812c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0137",
@@ -941,7 +1242,8 @@
       "sj": "",
       "se": "",
       "jp": "　はじめて<tips=1>リョウ</tips>さんと二人で家の外に出た日のことを、私はよく覚えています。",
-      "en": "I remember clearly the first day that <tips=1>Ryou</tips> and I left the house together."
+      "en": "I remember clearly the first day that <tips=1>Ryou</tips> and I left the house together.",
+      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
     },
     {
       "id": "G1:0138",
@@ -1040,7 +1342,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんはその日、空き地で私に『命』というものについて教えてくれました。",
-      "en": "That day, in an empty lot, <tips=1>Ryou</tips> taught me what 'life' meant."
+      "en": "That day, in an empty lot, <tips=1>Ryou</tips> taught me what 'life' meant.",
+      "bg": "assets/vn/backgrounds/bg-1fd91cc75eb3.webp"
     },
     {
       "id": "G1:0154",
@@ -1067,7 +1370,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「これで蟻を潰してごらん」",
-      "en": "“Try crushing the ants with this.”"
+      "en": "“Try crushing the ants with this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0157",
@@ -1076,7 +1385,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は言われるまま、コンクリートに行列を作って餌を運ぶ蟻を木の棒の先端で潰しました。",
-      "en": "I did as I was told, using the tip of the stick to crush ants marching across the concrete with food."
+      "en": "I did as I was told, using the tip of the stick to crush ants marching across the concrete with food.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0158",
@@ -1085,7 +1400,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「もっと、もっと。……うん、それくらいでいい。もう返して」",
-      "en": "“More. More. ...All right, that's enough. Give it back.”"
+      "en": "“More. More. ...All right, that's enough. Give it back.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0159",
@@ -1094,7 +1415,13 @@
       "sj": "",
       "se": "",
       "jp": "　ある程度潰したところで<tips=1>リョウ</tips>さんは手をさしのべ、木の棒を受け取ります。",
-      "en": "After I had crushed a number of them, <tips=1>Ryou</tips> held out his hand and took the stick back."
+      "en": "After I had crushed a number of them, <tips=1>Ryou</tips> held out his hand and took the stick back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0160",
@@ -1103,7 +1430,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「いまきみが潰したこっちの蟻は、もう動かなくなってる。これが『死んでる』ってことだ」",
-      "en": "“The ants you crushed aren't moving anymore. That's what it means to be 'dead.'”"
+      "en": "“The ants you crushed aren't moving anymore. That's what it means to be 'dead.'”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0161",
@@ -1112,7 +1445,13 @@
       "sj": "",
       "se": "",
       "jp": "　木の棒の先端で、胴体を潰されてコンクリートに貼りついた蟻の死体を指しました。",
-      "en": "With the tip of the stick, he pointed to the corpse of an ant, its body crushed flat against the concrete."
+      "en": "With the tip of the stick, he pointed to the corpse of an ant, its body crushed flat against the concrete.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0162",
@@ -1121,7 +1460,13 @@
       "sj": "",
       "se": "",
       "jp": "「こうなったら、もう元通り動くようなことはない。このまま他の生き物の餌になるだけだ」",
-      "en": "“Once this happens, they'll never move the way they did before. Now all they can do is become food for something else.”"
+      "en": "“Once this happens, they'll never move the way they did before. Now all they can do is become food for something else.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0163",
@@ -1130,7 +1475,13 @@
       "sj": "",
       "se": "",
       "jp": "　言って、<tips=1>リョウ</tips>さんは私の顔を見たそうです。",
-      "en": "After saying that, <tips=1>Ryou</tips> apparently looked at me."
+      "en": "After saying that, <tips=1>Ryou</tips> apparently looked at me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0164",
@@ -1139,7 +1490,13 @@
       "sj": "",
       "se": "",
       "jp": "　その時私は無表情に棒の先を見つめていたと言います。",
-      "en": "He says that I stared expressionlessly at the end of the stick."
+      "en": "He says that I stared expressionlessly at the end of the stick.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0165",
@@ -1148,7 +1505,13 @@
       "sj": "",
       "se": "",
       "jp": "　何を考えていたのか、はっきりとは思い出せませんが、うまく理解出来ずに混乱していたような気がします。",
-      "en": "I don't clearly remember what I was thinking. I believe I was confused because I couldn't understand."
+      "en": "I don't clearly remember what I was thinking. I believe I was confused because I couldn't understand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0166",
@@ -1157,7 +1520,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「蟻はたくさんいる。僕らからするとどれも見分けがつかなくて、一匹殺しても意味なんかないような気がするけれど、きみがいま潰した一匹一匹には、別々の一生がある。卵から幼虫になって、成虫になって、狩りをして……全部、ほかにかわりがない一匹だ。彼らの一生はきみがここで終わらせてしまった。そしてもう誰もこの蟻を元に戻すことは出来ない。潰すのはちょっと棒で押すだけだけど、一度やってしまったら、世界で一番賢い人でも、偉い人でも、取り戻すことは出来ないんだ」",
-      "en": "“There are countless ants. To us, they all look alike, and killing one may seem meaningless. But every ant you just crushed had a separate life. It hatched from an egg, became a larva, grew into an adult, went out to forage... Each one was irreplaceable. You ended those lives here, and no one can ever bring them back. It only takes a little pressure from a stick to crush one. But once it's done, not even the wisest or most powerful person in the world can undo it.”"
+      "en": "“There are countless ants. To us, they all look alike, and killing one may seem meaningless. But every ant you just crushed had a separate life. It hatched from an egg, became a larva, grew into an adult, went out to forage... Each one was irreplaceable. You ended those lives here, and no one can ever bring them back. It only takes a little pressure from a stick to crush one. But once it's done, not even the wisest or most powerful person in the world can undo it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0167",
@@ -1166,7 +1535,13 @@
       "sj": "",
       "se": "",
       "jp": "「特別な一匹一匹を、とりもどすことが出来ない……？」",
-      "en": "“Every one of them was special, and none of them can come back...?”"
+      "en": "“Every one of them was special, and none of them can come back...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0168",
@@ -1175,7 +1550,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこで私ははっとして<tips=1>リョウ</tips>さんの顔を見つめました。彼は頷きを返します。",
-      "en": "Something clicked. I looked up into <tips=1>Ryou</tips>'s face, and he nodded."
+      "en": "Something clicked. I looked up into <tips=1>Ryou</tips>'s face, and he nodded.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0169",
@@ -1184,7 +1565,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「それにね、こちらの潰さなかった方は今は生きているけど、これだってずっと生きているわけじゃなくて、いずれ死ぬんだ。寿命やら、他の生き物に襲われるやらでね。世の中には永遠に生き続けるものなんかない。生物はいつか死んで、この潰れた蟻みたいになるって決まっている。猫や犬だって、人間だって、みんなだ」",
-      "en": "“The ones you didn't crush are alive now, but they won't live forever either. Someday they'll die—from old age, or because another creature attacks them. Nothing in this world lives forever. Every living thing will die one day and end up like this crushed ant. Cats, dogs, people—everyone.”"
+      "en": "“The ones you didn't crush are alive now, but they won't live forever either. Someday they'll die—from old age, or because another creature attacks them. Nothing in this world lives forever. Every living thing will die one day and end up like this crushed ant. Cats, dogs, people—everyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0170",
@@ -1193,7 +1580,13 @@
       "sj": "",
       "se": "",
       "jp": "「全員……」",
-      "en": "“Everyone...?”"
+      "en": "“Everyone...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0171",
@@ -1202,7 +1595,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そうさ。僕も、<tips=54>汐さん</tips>も、それにきみだっていつかは倒れる。その死は、知らない人からみれば僕と<tips=54>汐さん</tips>の違いもわからないし、何の意味もないものだろう。僕らがこうして蟻を見ても区別がつかないように……」",
-      "en": "“That's right. Someday I'll fall, and so will Mr. <tips=54>Shio</tips>, and so will you. To a stranger, my death and Mr. <tips=54>Shio</tips>'s would look exactly the same and mean nothing. Just as all these ants look the same to us...”"
+      "en": "“That's right. Someday I'll fall, and so will Mr. <tips=54>Shio</tips>, and so will you. To a stranger, my death and Mr. <tips=54>Shio</tips>'s would look exactly the same and mean nothing. Just as all these ants look the same to us...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0172",
@@ -1211,7 +1610,13 @@
       "sj": "",
       "se": "",
       "jp": "　言われてまた私は蟻の亡骸に目を向けました。",
-      "en": "At his words, I looked once more at the ants’ remains."
+      "en": "At his words, I looked once more at the ants’ remains.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0173",
@@ -1220,7 +1625,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「僕は『生き物を殺すな』と言うつもりはない。そんな馬鹿げたことは言わない。食べるためにも、生きるためにも殺すことは必要だ。身体に入った細菌は退治しなくちゃいけないし、脅威となる敵は排除しなくちゃいけない。それでいいんだ。……僕が言いたいのはそんなことじゃなくて、どんなときでも、自分の行為がどういうものか、ちゃんと考えて欲しいということだけだ。きみがこれから何かの命を奪うときは、奪っている命がどんなものか考えた上でやるといい。それなら僕は文句は言わない」",
-      "en": "“I'm not telling you never to kill a living thing. I wouldn't say anything so foolish. We have to kill in order to eat and live. We have to destroy bacteria inside our bodies and eliminate enemies that threaten us. There's nothing wrong with that. ...My point is different. I only want you to think carefully about what you're doing. Whenever you take a life, think first about what kind of life it is. If you do that, I won't object.”"
+      "en": "“I'm not telling you never to kill a living thing. I wouldn't say anything so foolish. We have to kill in order to eat and live. We have to destroy bacteria inside our bodies and eliminate enemies that threaten us. There's nothing wrong with that. ...My point is different. I only want you to think carefully about what you're doing. Whenever you take a life, think first about what kind of life it is. If you do that, I won't object.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0174",
@@ -1229,7 +1640,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかった」",
-      "en": "“I understand.”"
+      "en": "“I understand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0175",
@@ -1238,7 +1655,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「本当？」",
-      "en": "“Do you really?”"
+      "en": "“Do you really?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0176",
@@ -1247,7 +1670,13 @@
       "sj": "",
       "se": "",
       "jp": "「うん」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0177",
@@ -1256,7 +1685,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はこくりと頷きましたが、実際のところよく理解は出来ませんでした。",
-      "en": "I gave a small nod, though in truth I understood very little."
+      "en": "I gave a small nod, though in truth I understood very little.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0179",
@@ -1319,7 +1754,8 @@
       "sj": "",
       "se": "",
       "jp": "　さて、私はそんなへんてこな子供だったわけですが、こうして、周囲の人の努力によって家の外へ出され、そして地域の子供たちとも遊ぶようになりました。",
-      "en": "So, strange child that I was, the efforts of those around me brought me out of the house and eventually among the neighborhood children."
+      "en": "So, strange child that I was, the efforts of those around me brought me out of the house and eventually among the neighborhood children.",
+      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
     },
     {
       "id": "G1:0191",
@@ -1562,7 +1998,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「どうしてバカみたいに全部人にやっちゃうんだ？」",
-      "en": "“Why do you give absolutely everything away like an idiot?”"
+      "en": "“Why do you give absolutely everything away like an idiot?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0218",
@@ -1571,7 +2013,13 @@
       "sj": "",
       "se": "",
       "jp": "「別に何にも欲しいものなんかないし。お金なんかいらないんです」",
-      "en": "“There's nothing I especially want. I don't need money.”"
+      "en": "“There's nothing I especially want. I don't need money.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0219",
@@ -1580,7 +2028,13 @@
       "sj": "",
       "se": "",
       "jp": "　その時も私はヘラヘラと笑っており、<tips=1>リョウ</tips>さんは不思議な顔をしました。",
-      "en": "I was wearing that foolish smile even then, and <tips=1>Ryou</tips> gave me a puzzled look."
+      "en": "I was wearing that foolish smile even then, and <tips=1>Ryou</tips> gave me a puzzled look.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0220",
@@ -1589,7 +2043,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると彼は顔を顰め、",
-      "en": "Then he frowned."
+      "en": "Then he frowned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0221",
@@ -1598,7 +2058,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「それはいけない。きみは自己が希薄すぎるんだ。昔からずっとそうだよ」",
-      "en": "“That's no good. You hardly have any sense of self at all. You've always been this way.”"
+      "en": "“That's no good. You hardly have any sense of self at all. You've always been this way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0222",
@@ -1607,7 +2073,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言うので、そうか私は自分というものがないのだと、その言葉によって気づかされるのでした。",
-      "en": "His words made me realize that perhaps I had no self of my own."
+      "en": "His words made me realize that perhaps I had no self of my own.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0229",
@@ -1661,7 +2133,8 @@
       "sj": "",
       "se": "",
       "jp": "　その時も、私はミカちゃんという仲の良い友人の家に一人で遊びに行ったのです。",
-      "en": "That day, too, I went alone to visit my good friend Mika."
+      "en": "That day, too, I went alone to visit my good friend Mika.",
+      "bg": "assets/vn/backgrounds/bg-eced571166c6.webp"
     },
     {
       "id": "G1:0240",
@@ -1688,7 +2161,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「あとはもう焼き上がるのを待つだけだね」",
-      "en": "“Now all we have to do is wait for them to bake.”"
+      "en": "“Now all we have to do is wait for them to bake.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0243",
@@ -1697,7 +2176,13 @@
       "sj": "",
       "se": "",
       "jp": "　練って成形した生地をオーブンに入れた後、私たちは紅茶を淹れて焼き上がるのを待ちました。",
-      "en": "We kneaded and shaped the dough, put it in the oven, and made tea while we waited for the cookies to bake."
+      "en": "We kneaded and shaped the dough, put it in the oven, and made tea while we waited for the cookies to bake.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0244",
@@ -1706,7 +2191,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「思ったより簡単だったでしょ？」",
-      "en": "“That was easier than you expected, wasn’t it?”"
+      "en": "“That was easier than you expected, wasn’t it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0245",
@@ -1715,7 +2206,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい。……でも、こういう風に食べ物を作るのは、よくやるんですか？」",
-      "en": "“Yes. ...Do you make food like this often?”"
+      "en": "“Yes. ...Do you make food like this often?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0246",
@@ -1724,7 +2221,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が紅茶に口をつけると、",
-      "en": "As I raised the tea to my lips—"
+      "en": "As I raised the tea to my lips—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0247",
@@ -1733,7 +2236,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「あっ、お砂糖忘れてるよ」",
-      "en": "“Oh, you forgot the sugar.”"
+      "en": "“Oh, you forgot the sugar.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0248",
@@ -1742,7 +2251,13 @@
       "sj": "",
       "se": "",
       "jp": "　とミカちゃんは言います。",
-      "en": "—Mika pointed it out."
+      "en": "—Mika pointed it out.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0249",
@@ -1751,7 +2266,13 @@
       "sj": "",
       "se": "",
       "jp": "　味に興味がない私は砂糖なんかあってもなくても良かったのですが、そう指摘されると慌てて砂糖を入れました。多く入れすぎて、ミカちゃんを笑わせてしまうほどです。",
-      "en": "I didn't care about flavor, so sugar made no difference to me. But once she mentioned it, I hurried to add some—far too much, enough to make Mika laugh."
+      "en": "I didn't care about flavor, so sugar made no difference to me. But once she mentioned it, I hurried to add some—far too much, enough to make Mika laugh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0250",
@@ -1760,7 +2281,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「あのね、クッキー作りはよくやるよー。他のお菓子も作るし、料理も手伝ったりするよ。<tips=55>松子</tips>ちゃんはやらないの？」",
-      "en": "“Oh, I bake cookies all the time. I make other sweets too, and I help with meals. Don't you, <tips=55>Matsuko</tips>?”"
+      "en": "“Oh, I bake cookies all the time. I make other sweets too, and I help with meals. Don't you, <tips=55>Matsuko</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0251",
@@ -1769,7 +2296,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は全然……。そもそも食べ物にあんまり興味がないんです。誰もいないときなんかもう、ご飯全部ミキサーにかけてごくごく飲んじゃうくらいで……」",
-      "en": "“Not at all... I'm not very interested in food to begin with. When no one's around, I even put my whole meal in a blender and drink it...”"
+      "en": "“Not at all... I'm not very interested in food to begin with. When no one's around, I even put my whole meal in a blender and drink it...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0252",
@@ -1778,7 +2311,13 @@
       "sj": "",
       "se": "",
       "jp": "　嘘が苦手だったのでうっかり正直に答えてしまうと、",
-      "en": "I was bad at lying, so I carelessly told her the truth."
+      "en": "I was bad at lying, so I carelessly told her the truth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0253",
@@ -1787,7 +2326,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「えー、ひどいー」",
-      "en": "“Eww, that’s awful!”"
+      "en": "“Eww, that’s awful!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b66ca5c22146.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0254",
@@ -1796,7 +2341,13 @@
       "sj": "",
       "se": "",
       "jp": "　ミカちゃんは思い切りしかめ面を作ります。",
-      "en": "Mika pulled an enormous face."
+      "en": "Mika pulled an enormous face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b66ca5c22146.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0255",
@@ -1805,7 +2356,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「それじゃあ、作った人が可哀想だよ。味つけとかすごい苦労してるはずなのに」",
-      "en": "“That's awful for whoever cooked it. They must have worked so hard on the seasoning and everything.”"
+      "en": "“That's awful for whoever cooked it. They must have worked so hard on the seasoning and everything.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b66ca5c22146.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0256",
@@ -1814,7 +2371,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、そういうことは考えてもみませんでした」",
-      "en": "“Oh. I had never thought of that.”"
+      "en": "“Oh. I had never thought of that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b66ca5c22146.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0257",
@@ -1823,7 +2386,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が答えるとミカちゃんはおかしそうに笑って、",
-      "en": "Mika laughed at my answer, then said—"
+      "en": "Mika laughed at my answer, then said—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b66ca5c22146.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0258",
@@ -1832,7 +2401,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「……あ、そうだ、じゃあ今度から自分でも作ってみたら？　自分で作ればきっと、作る苦労とか、食べる楽しみとかもわかって来ると思うよ？　おうちの人も喜ぶだろうし」",
-      "en": "“...Oh, I know! Why don't you try cooking for yourself? If you make something yourself, I bet you'll understand how much work it takes and how much fun eating can be. Your family will be happy too.”"
+      "en": "“...Oh, I know! Why don't you try cooking for yourself? If you make something yourself, I bet you'll understand how much work it takes and how much fun eating can be. Your family will be happy too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0259",
@@ -1841,7 +2416,13 @@
       "sj": "",
       "se": "",
       "jp": "「家のものが喜ぶ……ですか」",
-      "en": "“My family would be happy...?”"
+      "en": "“My family would be happy...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0260",
@@ -1850,7 +2431,13 @@
       "sj": "ミカ",
       "se": "Mika",
       "jp": "「うん。<tips=55>松子</tips>ちゃんとこって、お父さんと二人で暮らしてるんでしょ？」",
-      "en": "“Yes. You live alone with your father, don't you, <tips=55>Matsuko</tips>?”"
+      "en": "“Yes. You live alone with your father, don't you, <tips=55>Matsuko</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0261",
@@ -1859,7 +2446,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうですね。今度やってみます」",
-      "en": "“That's true. I'll try it sometime.”"
+      "en": "“That's true. I'll try it sometime.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0262",
@@ -1868,7 +2461,13 @@
       "sj": "",
       "se": "",
       "jp": "　ミカちゃんのお母さんは<tips=58>パラシュート通り</tips>の輸入食品店で働いており、お父さんは<tips=17>タイプB</tips>の症状が悪化して、いつも家で寝込んでいるのだそうです。",
-      "en": "Mika's mother worked at an imported-food store on <tips=58>Parachute Street</tips>. Her father's <tips=17>Type B</tips> symptoms had worsened, and he was apparently bedridden at home."
+      "en": "Mika's mother worked at an imported-food store on <tips=58>Parachute Street</tips>. Her father's <tips=17>Type B</tips> symptoms had worsened, and he was apparently bedridden at home.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0263",
@@ -1877,7 +2476,13 @@
       "sj": "",
       "se": "",
       "jp": "　だから、ミカちゃんは働くお母さんのかわりに積極的に家事を行っているようで、料理の他に、洗濯、掃除なども毎日のつとめとしているのだと言いました。",
-      "en": "That was why Mika took care of the house while her mother worked. Cooking, laundry, and cleaning were all part of her daily routine."
+      "en": "That was why Mika took care of the house while her mother worked. Cooking, laundry, and cleaning were all part of her daily routine.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0264",
@@ -1886,7 +2491,13 @@
       "sj": "",
       "se": "",
       "jp": "　そのせいか、家は古びていても清潔に保たれていて、家具にはミカちゃんの趣味によるピンク色のクロスなどがかかり、華やかで明るい印象でした。",
-      "en": "Perhaps because of that, the old house was spotless. Pink cloths chosen to Mika's taste covered the furniture, making everything bright and cheerful."
+      "en": "Perhaps because of that, the old house was spotless. Pink cloths chosen to Mika's taste covered the furniture, making everything bright and cheerful.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0265",
@@ -1895,7 +2506,13 @@
       "sj": "",
       "se": "",
       "jp": "　この話を聞きながら、私は自分の家ではハウスキーパーを雇い、やらせているのを思い出しました。",
-      "en": "As I listened, I remembered that we hired a housekeeper to do all of that for us."
+      "en": "As I listened, I remembered that we hired a housekeeper to do all of that for us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0266",
@@ -1904,7 +2521,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして、自分はあまりにも楽をし過ぎているのではないかと、情けのない思いがしたのを記憶しています。",
-      "en": "I remember feeling ashamed of how easy my own life was."
+      "en": "I remember feeling ashamed of how easy my own life was.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0267",
@@ -1913,7 +2536,17 @@
       "sj": "ミカ母",
       "se": "Mika's mother",
       "jp": "「まあミカちゃん。今日は随分可愛い子を連れて来たのね」",
-      "en": "“Oh, Mika. What a pretty friend you've brought home today.”"
+      "en": "“Oh, Mika. What a pretty friend you've brought home today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53739c65047d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0268",
@@ -1922,7 +2555,17 @@
       "sj": "",
       "se": "",
       "jp": "　ミカちゃんのお母さんが帰って来て、働き先で分けて貰ったというロールケーキを切り分けてテーブルに出してくれました。",
-      "en": "Mika's mother came home and served us slices of a Swiss roll someone had given her at work."
+      "en": "Mika's mother came home and served us slices of a Swiss roll someone had given her at work.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53739c65047d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0269",
@@ -1931,7 +2574,17 @@
       "sj": "",
       "se": "",
       "jp": "　それを三人で食べ始めた時でした。もの凄い足音を立てて、何者かが部屋に入ってきたのです。",
-      "en": "The three of us had just begun eating when someone thundered into the room."
+      "en": "The three of us had just begun eating when someone thundered into the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e3446eccc34f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53739c65047d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "G1:0272",
@@ -2003,7 +2656,8 @@
       "sj": "",
       "se": "",
       "jp": "　手に拳銃を握っており、それで躊躇うこともなく、立っていたお母さんを撃ったのです。",
-      "en": "He had a handgun. Without hesitating, he shot his wife where she stood."
+      "en": "He had a handgun. Without hesitating, he shot his wife where she stood.",
+      "bg": "assets/vn/backgrounds/bg-0c778dfa4f8a.webp"
     },
     {
       "id": "G1:0293",
@@ -2093,7 +2747,8 @@
       "sj": "",
       "se": "",
       "jp": "　銃口の奥がピカッと光ったかと思うと、胸に衝撃を感じました。",
-      "en": "Something flashed in the darkness of the barrel, and an impact struck my chest."
+      "en": "Something flashed in the darkness of the barrel, and an impact struck my chest.",
+      "bg": "assets/vn/backgrounds/bg-eced571166c6.webp"
     },
     {
       "id": "G1:0314",
@@ -2147,7 +2802,8 @@
       "sj": "",
       "se": "",
       "jp": "　自室のベッドで目を覚ましました。目の前には、<tips=1>リョウ</tips>さんがいます。",
-      "en": "I woke in my own bed with <tips=1>Ryou</tips> standing over me."
+      "en": "I woke in my own bed with <tips=1>Ryou</tips> standing over me.",
+      "bg": "assets/vn/backgrounds/bg-2ce414edc756.webp"
     },
     {
       "id": "G1:0334",
@@ -2219,7 +2875,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「まだ動いちゃいけない」",
-      "en": "“Don't move yet.”"
+      "en": "“Don't move yet.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0342",
@@ -2228,7 +2890,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんが静かな声でそう制します。",
-      "en": "<tips=1>Ryou</tips> stopped me in a quiet voice."
+      "en": "<tips=1>Ryou</tips> stopped me in a quiet voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0343",
@@ -2237,7 +2905,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は痛みに耐えながら、掛け布団をずらし、自分の胸を確認しました。",
-      "en": "Fighting through the pain, I shifted the blanket and looked at my chest."
+      "en": "Fighting through the pain, I shifted the blanket and looked at my chest.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0344",
@@ -2246,7 +2920,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそのとき上半身に何も着ておらず、ただ包帯がグルグルと胴体に巻き付けてあったのです。",
-      "en": "I was naked from the waist up, with bandages wound over and over around my torso."
+      "en": "I was naked from the waist up, with bandages wound over and over around my torso.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0345",
@@ -2255,7 +2935,13 @@
       "sj": "",
       "se": "",
       "jp": "　一体これはなんだろう？",
-      "en": "What in the world was this?"
+      "en": "What in the world was this?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0346",
@@ -2264,7 +2950,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はまだなかば夢と信じたままの状態で、それをほどこうとしました。<tips=1>リョウ</tips>さんは何もいわず、目を細めて私の動きを見つめていたように思います。",
-      "en": "Still half convinced I was dreaming, I tried to unwind them. I think <tips=1>Ryou</tips> only narrowed his eyes and watched me without a word."
+      "en": "Still half convinced I was dreaming, I tried to unwind them. I think <tips=1>Ryou</tips> only narrowed his eyes and watched me without a word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0347",
@@ -2273,7 +2965,13 @@
       "sj": "",
       "se": "",
       "jp": "　包帯をほどくと、ちょうど心臓の上あたりの場所に三つの穴が空いているのが見つかりました。私はそこに指を入れました。その先端が、肺に触れ、心臓に触れます。その心臓は暖かく、そして鼓動していました。",
-      "en": "When I removed the bandages, I found three holes directly over my heart. I put a finger into one. The tip touched my lung, then my heart. It was warm. It was beating."
+      "en": "When I removed the bandages, I found three holes directly over my heart. I put a finger into one. The tip touched my lung, then my heart. It was warm. It was beating.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0348",
@@ -2282,7 +2980,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてゆっくりと指を引き抜くと、血液の代わりに透明な体液がついています。",
-      "en": "When I slowly pulled my finger out, it was coated not in blood but in clear fluid."
+      "en": "When I slowly pulled my finger out, it was coated not in blood but in clear fluid.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0349",
@@ -2291,7 +2995,13 @@
       "sj": "",
       "se": "",
       "jp": "　横になったまま身体をねじって背中を確認すると、やはり同じ場所に穴が空いているのです。",
-      "en": "Still lying down, I twisted around to look at my back. There were matching holes in the same place."
+      "en": "Still lying down, I twisted around to look at my back. There were matching holes in the same place.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0350",
@@ -2300,7 +3010,13 @@
       "sj": "",
       "se": "",
       "jp": "「……これは？」",
-      "en": "“...What is this?”"
+      "en": "“...What is this?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0351",
@@ -2309,7 +3025,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はまだ悪夢のなかにいるような不思議な気持ちで、<tips=1>リョウ</tips>さんにそう尋ねました。",
-      "en": "Still feeling as though I were trapped in a nightmare, I asked <tips=1>Ryou</tips>."
+      "en": "Still feeling as though I were trapped in a nightmare, I asked <tips=1>Ryou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0352",
@@ -2318,7 +3040,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「今日で、撃たれてから五日間が過ぎた。心臓も肺も損傷していたが、昨日やっと動きはじめたんだ」",
-      "en": "“It's been five days since you were shot. Your heart and lungs were both damaged. They finally started working again yesterday.”"
+      "en": "“It's been five days since you were shot. Your heart and lungs were both damaged. They finally started working again yesterday.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0353",
@@ -2327,7 +3055,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんは冷静にそう答えてくれました。",
-      "en": "<tips=1>Ryou</tips> answered calmly."
+      "en": "<tips=1>Ryou</tips> answered calmly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0354",
@@ -2336,7 +3070,13 @@
       "sj": "",
       "se": "",
       "jp": "「心臓が……それなのに、なんで生きているんですか？　私は？」",
-      "en": "“My heart... Then why am I alive?”"
+      "en": "“My heart... Then why am I alive?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0355",
@@ -2345,7 +3085,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「なんでかはわからないが、きみの再生力は、破壊された心臓も修復してしまうらしい。ここまでの回復力だとは僕も<tips=54>汐さん</tips>も知らなかった」",
-      "en": "“I don't know why, but your regenerative power seems able to repair even a destroyed heart. Neither Mr. <tips=54>Shio</tips> nor I knew you could recover from this much.”"
+      "en": "“I don't know why, but your regenerative power seems able to repair even a destroyed heart. Neither Mr. <tips=54>Shio</tips> nor I knew you could recover from this much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0356",
@@ -2354,7 +3100,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんな……」",
-      "en": "“That can't be...”"
+      "en": "“That can't be...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0357",
@@ -2363,7 +3115,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はくらくらと目眩を感じました。",
-      "en": "The room seemed to spin around me."
+      "en": "The room seemed to spin around me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0358",
@@ -2372,7 +3130,13 @@
       "sj": "",
       "se": "",
       "jp": "「ミカちゃんは？」",
-      "en": "“What about Mika?”"
+      "en": "“What about Mika?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0359",
@@ -2381,7 +3145,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「……即死だった。お父さんもお母さんも、家族みんな」",
-      "en": "“...She died instantly. So did her mother and father. The whole family.”"
+      "en": "“...She died instantly. So did her mother and father. The whole family.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0360",
@@ -2390,7 +3160,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんは淡々と告げます。",
-      "en": "<tips=1>Ryou</tips> told me flatly."
+      "en": "<tips=1>Ryou</tips> told me flatly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0361",
@@ -2399,7 +3175,13 @@
       "sj": "",
       "se": "",
       "jp": "「……ああ」",
-      "en": "“...Oh.”"
+      "en": "“...Oh.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0362",
@@ -2408,7 +3190,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は涙を流して泣きはしませんでしたが、そのかわり虚無感が心にどす黒い影を作るのを感じました。",
-      "en": "I didn't shed tears or sob. Instead, I felt emptiness spread a pitch-black shadow through my heart."
+      "en": "I didn't shed tears or sob. Instead, I felt emptiness spread a pitch-black shadow through my heart.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0363",
@@ -2417,7 +3205,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「残念なことだが、この街ではよくあることだ。……それに、あそこはかなりの借金を抱えていたそうだよ。あのまま生きていたとしても、ミカもその母さんも、もっと恐ろしい地獄を見ていただろう。キレイに死ねて、良かったのかもしれない」",
-      "en": "“It's terrible, but these things happen all the time in this City. ...And I heard the family was deeply in debt. If they had lived, Mika and her mother might have faced an even worse hell. Maybe it's better that they died cleanly.”"
+      "en": "“It's terrible, but these things happen all the time in this City. ...And I heard the family was deeply in debt. If they had lived, Mika and her mother might have faced an even worse hell. Maybe it's better that they died cleanly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0364",
@@ -2426,7 +3220,13 @@
       "sj": "",
       "se": "",
       "jp": "　その<tips=1>リョウ</tips>さんの言い方は、普段の彼の価値観とは違いました。",
-      "en": "That didn't sound like <tips=1>Ryou</tips> at all."
+      "en": "That didn't sound like <tips=1>Ryou</tips> at all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0365",
@@ -2435,7 +3235,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は『キレイに死ねて良かった』なんて言う人間ではないです。そんな考え方は認めず、どんなかたちでも死は死で、生きなくては意味がないというのが彼の言い分でした。",
-      "en": "He wasn't the sort of person to say someone was lucky to have 'died cleanly.' He rejected that way of thinking. Death was death, no matter its form; nothing mattered unless you lived."
+      "en": "He wasn't the sort of person to say someone was lucky to have 'died cleanly.' He rejected that way of thinking. Death was death, no matter its form; nothing mattered unless you lived.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0366",
@@ -2444,7 +3250,13 @@
       "sj": "",
       "se": "",
       "jp": "　自分を慰めてくれようとしているのに気がつきましたが、それを素直に受け入れられる心の余裕はありませんでした。",
-      "en": "I knew he was trying to comfort me, but I had no room in my heart to accept it."
+      "en": "I knew he was trying to comfort me, but I had no room in my heart to accept it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0367",
@@ -2453,7 +3265,13 @@
       "sj": "",
       "se": "",
       "jp": "「……<tips=1>リョウ</tips>さんはいつだったか、すべての生物はいつか死ぬものだと教えてくれましたが、じゃあこれはなんなんですか？　心臓を砕かれて、それでもこんな風に生きているだなんて……」",
-      "en": "“...<tips=1>Ryou</tips>, you taught me once that every living thing has to die someday. Then what is this? My heart was destroyed, and I'm still alive...”"
+      "en": "“...<tips=1>Ryou</tips>, you taught me once that every living thing has to die someday. Then what is this? My heart was destroyed, and I'm still alive...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0368",
@@ -2462,7 +3280,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は言葉を切り、深呼吸をしました。",
-      "en": "I broke off and took a deep breath."
+      "en": "I broke off and took a deep breath.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0369",
@@ -2471,7 +3295,13 @@
       "sj": "",
       "se": "",
       "jp": "「本当にただの<tips=17>タイプB</tips>なんですか？　お父さんはノーマルで、お母さんは遠くに居るって言うけれど……家にはお母さんのものが何もないし、一枚の写真だって見たことがない。誰もお母さんのことは知らなくて、お父さんも言うことがはっきりとしない。……とても、存在しているとは思えない。うすうすおかしいとは思っていたんです。でも、こんなことされても平気で、こんなふうに喋ってるなんて……。私、なんなんですか？　本当に、ここの娘なんですか？」",
-      "en": "“Am I really just an ordinary <tips=17>Type B</tips>? Father is a Normal, and he says Mother is far away... But there's nothing of hers in the house. I've never seen a single photograph. No one knows anything about her, and Father never gives me a straight answer. ...I can't believe she exists. I had already begun to suspect something was wrong. But now this happened to me, and I'm still alive and talking... What am I? Am I really this family's daughter?”"
+      "en": "“Am I really just an ordinary <tips=17>Type B</tips>? Father is a Normal, and he says Mother is far away... But there's nothing of hers in the house. I've never seen a single photograph. No one knows anything about her, and Father never gives me a straight answer. ...I can't believe she exists. I had already begun to suspect something was wrong. But now this happened to me, and I'm still alive and talking... What am I? Am I really this family's daughter?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0370",
@@ -2480,7 +3310,13 @@
       "sj": "",
       "se": "",
       "jp": "　この場でこんなことを聞いたって仕方ないのに、どうしても我慢が出来なくて言ってしまったんです。",
-      "en": "I knew there was no point asking at a time like this, but I couldn't hold the words back."
+      "en": "I knew there was no point asking at a time like this, but I couldn't hold the words back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0371",
@@ -2489,7 +3325,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてじっと<tips=1>リョウ</tips>さんを見つめました。",
-      "en": "I stared intently at <tips=1>Ryou</tips>."
+      "en": "I stared intently at <tips=1>Ryou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0372",
@@ -2498,7 +3340,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は溜息をつき、",
-      "en": "He sighed."
+      "en": "He sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0373",
@@ -2507,7 +3355,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「……隠してもきっと、不安になるだけだろうね」",
-      "en": "“...If we keep hiding it, it'll only make you more anxious.”"
+      "en": "“...If we keep hiding it, it'll only make you more anxious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0374",
@@ -2516,7 +3370,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして、すべての事実を打ち明けてくれました。",
-      "en": "Then he told me the whole truth."
+      "en": "Then he told me the whole truth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0375",
@@ -2525,7 +3385,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はゴミ捨て場で拾われた肉片で、それが培養液のなかで人間の形に変化したものなのだそうです。",
-      "en": "I had been a piece of flesh found in a garbage dump. Inside a culture tank, it had changed into a human shape."
+      "en": "I had been a piece of flesh found in a garbage dump. Inside a culture tank, it had changed into a human shape.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0376",
@@ -2534,7 +3400,13 @@
       "sj": "",
       "se": "",
       "jp": "　ああ、私は汐家の本当の娘でないどころか、聞いたこともないような不気味な生物だったのです。",
-      "en": "I wasn't only unrelated to the Shio family. I had been some uncanny creature unlike anything I had ever heard of."
+      "en": "I wasn't only unrelated to the Shio family. I had been some uncanny creature unlike anything I had ever heard of.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0377",
@@ -2543,7 +3415,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんと父の調べによると、<tips=17>タイプB</tips>の<tips=72>傾向値</tips>は常人ではあり得ないほどに高く、見たこともない数値を示していたという話も聞きました。",
-      "en": "I also learned that according to <tips=1>Ryou</tips> and my father's tests, my <tips=17>Type B</tips> <tips=72>Type B Tendency Index</tips> was impossibly high, beyond any value they had ever seen."
+      "en": "I also learned that according to <tips=1>Ryou</tips> and my father's tests, my <tips=17>Type B</tips> <tips=72>Type B Tendency Index</tips> was impossibly high, beyond any value they had ever seen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0378",
@@ -2552,7 +3430,13 @@
       "sj": "",
       "se": "",
       "jp": "　それはおとぎ話のような、にわかには信じられない話でした。",
-      "en": "It sounded like a fairy tale. I couldn't believe it all at once."
+      "en": "It sounded like a fairy tale. I couldn't believe it all at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0379",
@@ -2561,7 +3445,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は冗談かと思ってじっと<tips=1>リョウ</tips>さんの顔を見つめたのですが、いつもみたいに苦笑したりせずに、真剣な顔でこちらを見ています。",
-      "en": "I stared at <tips=1>Ryou</tips>, thinking it might be a joke. But there was no familiar wry smile on his face. He looked back at me in complete seriousness."
+      "en": "I stared at <tips=1>Ryou</tips>, thinking it might be a joke. But there was no familiar wry smile on his face. He looked back at me in complete seriousness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0380",
@@ -2570,7 +3460,13 @@
       "sj": "",
       "se": "",
       "jp": "　その顔で冗談ではないと判断した私は、一応その話について真面目に考えてみたのですが、すると、その突拍子もない話と、自分が日常のなかで抱いていたさまざまな違和感が奇妙なほど符合してゆくのです。",
-      "en": "His expression told me he wasn't joking, so I made myself think seriously about his story. Once I did, that preposterous account began fitting all the little things that had always felt wrong with eerie precision."
+      "en": "His expression told me he wasn't joking, so I made myself think seriously about his story. Once I did, that preposterous account began fitting all the little things that had always felt wrong with eerie precision.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0381",
@@ -2579,7 +3475,13 @@
       "sj": "",
       "se": "",
       "jp": "「つまり、私は娘どころか、えたいの知れない化け物なわけなんですね」",
-      "en": "“So I'm not only someone else's daughter. I'm some kind of unknown monster.”"
+      "en": "“So I'm not only someone else's daughter. I'm some kind of unknown monster.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0382",
@@ -2588,7 +3490,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そんな言い方はよくない。今ここにいるきみは間違いなく人間だ」",
-      "en": "“Don't talk about yourself that way. Whatever you were before, the person here now is unquestionably human.”"
+      "en": "“Don't talk about yourself that way. Whatever you were before, the person here now is unquestionably human.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0383",
@@ -2597,7 +3505,13 @@
       "sj": "",
       "se": "",
       "jp": "「撃たれた心臓が元通りになっても？　これじゃ、頭を切り落とされたって生きてるかもしれない」",
-      "en": "“Even when my heart grows back after being shot? At this rate, I might stay alive with my head cut off.”"
+      "en": "“Even when my heart grows back after being shot? At this rate, I might stay alive with my head cut off.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0384",
@@ -2606,7 +3520,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は自分で言っておきながら、首がない自分の姿を想像してしまい、うげえと顔を顰めました。",
-      "en": "My own words made me picture myself without a head, and I pulled a face in disgust."
+      "en": "My own words made me picture myself without a head, and I pulled a face in disgust.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0385",
@@ -2615,7 +3535,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「それでもだ」",
-      "en": "“Even so.”"
+      "en": "“Even so.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0386",
@@ -2624,7 +3550,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんはきっぱりと断言します。",
-      "en": "<tips=1>Ryou</tips> declared this without the slightest hesitation."
+      "en": "<tips=1>Ryou</tips> declared this without the slightest hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0387",
@@ -2633,7 +3565,13 @@
       "sj": "",
       "se": "",
       "jp": "「人間なんですか？　元々が、ナメクジのような肉のかたまりだったのに？　そんな人間っているんですか？　どんな図鑑にものってないです」",
-      "en": "“I'm human? Even though I started as a sluglike lump of flesh? Are there human beings like that? They aren't in any encyclopedia.”"
+      "en": "“I'm human? Even though I started as a sluglike lump of flesh? Are there human beings like that? They aren't in any encyclopedia.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0388",
@@ -2642,7 +3580,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「図鑑にのってることだけが全部じゃない」",
-      "en": "“The things written in encyclopedias aren't all there's to the world.”"
+      "en": "“The things written in encyclopedias aren't all there's to the world.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0389",
@@ -2651,7 +3595,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんがつらそうな顔をしているのが、ちょっとおかしく思いました。",
-      "en": "It seemed strange to me that <tips=1>Ryou</tips> looked so pained."
+      "en": "It seemed strange to me that <tips=1>Ryou</tips> looked so pained.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0390",
@@ -2660,7 +3610,13 @@
       "sj": "",
       "se": "",
       "jp": "「……そうですか。……ああ、そうしたら、じゃあ、二人とも、ずっとそのことを私に隠していたんですか？」",
-      "en": "“...I see. ...Then the two of you really have been hiding it from me all this time?”"
+      "en": "“...I see. ...Then the two of you really have been hiding it from me all this time?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0391",
@@ -2669,7 +3625,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそう言って首をひねりました。まだ現実感に乏しく、どういう感情も抱けなかったのです。",
-      "en": "I tilted my head. None of it felt real yet, so I couldn't feel much of anything about it."
+      "en": "I tilted my head. None of it felt real yet, so I couldn't feel much of anything about it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0392",
@@ -2678,7 +3640,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「隠していたわけじゃないよ。……いや、結果的にはそういうことになるのかな。僕らはきみが、昔のことを覚えていないのを知っていて、あえて言わなかったんだから」",
-      "en": "“We weren't hiding it from you. ...No, I suppose that's what it amounts to. We knew you didn't remember your past, and we chose not to tell you.”"
+      "en": "“We weren't hiding it from you. ...No, I suppose that's what it amounts to. We knew you didn't remember your past, and we chose not to tell you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0393",
@@ -2687,7 +3655,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうですか。説明する必要なんかないと思ったわけではないんですね」",
-      "en": "“I see. At least it wasn't because you thought I didn't need an explanation.”"
+      "en": "“I see. At least it wasn't because you thought I didn't need an explanation.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2c3fdfc030c3.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0394",
@@ -2696,7 +3670,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そんなことは言わないでくれ」",
-      "en": "“Please don't say that.”"
+      "en": "“Please don't say that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0395",
@@ -2705,7 +3685,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんは悲しそうに私を見つめます。",
-      "en": "<tips=1>Ryou</tips> looked at me sadly."
+      "en": "<tips=1>Ryou</tips> looked at me sadly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0396",
@@ -2714,7 +3700,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は何のつもりもなく言ったのに、悲しませてしまったことに驚き、そして申し訳なく思いました。",
-      "en": "I hadn't meant anything by it. I was surprised and sorry to discover that I had hurt him."
+      "en": "I hadn't meant anything by it. I was surprised and sorry to discover that I had hurt him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0397",
@@ -2723,7 +3715,13 @@
       "sj": "",
       "se": "",
       "jp": "「ごめんなさい。でも、私、いろんなことを理解するちからが足りないんです。今度からは出来れば何でも話して欲しいです。そうすれば、少しはわかるかも知れませんから」",
-      "en": "“I'm sorry. But I've trouble understanding so many things. From now on, please tell me everything you can. Then perhaps I'll understand a little.”"
+      "en": "“I'm sorry. But I've trouble understanding so many things. From now on, please tell me everything you can. Then perhaps I'll understand a little.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0398",
@@ -2732,7 +3730,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「わかった。そうするよ。約束しよう」",
-      "en": "“All right. I will. I promise.”"
+      "en": "“All right. I will. I promise.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0399",
@@ -2741,7 +3745,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>リョウ</tips>さんはそう言って頷きました。",
-      "en": "<tips=1>Ryou</tips> nodded."
+      "en": "<tips=1>Ryou</tips> nodded.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0400",
@@ -2750,7 +3760,13 @@
       "sj": "",
       "se": "",
       "jp": "　この私の生い立ちについては、時間が経つに従って心に染み込み、私を苦しめることになるのですが、このときはミカちゃんのことで心の中がいっぱいでした。",
-      "en": "In time, the truth of my origins would sink into my heart and torment me. But at that moment, my heart was full of Mika."
+      "en": "In time, the truth of my origins would sink into my heart and torment me. But at that moment, my heart was full of Mika.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0401",
@@ -2759,7 +3775,13 @@
       "sj": "",
       "se": "",
       "jp": "「ミカちゃんはどこへ行ったんだろう……」",
-      "en": "“I wonder where Mika has gone...”"
+      "en": "“I wonder where Mika has gone...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0402",
@@ -2768,7 +3790,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が独り言のつもりでぼんやり呟くと、",
-      "en": "I murmured it absently, meaning only to speak to myself."
+      "en": "I murmured it absently, meaning only to speak to myself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0403",
@@ -2777,7 +3805,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「もういないんだよ。どこにもいない」",
-      "en": "“She's gone. She isn't anywhere anymore.”"
+      "en": "“She's gone. She isn't anywhere anymore.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0404",
@@ -2786,7 +3820,13 @@
       "sj": "",
       "se": "",
       "jp": "「どこにも……」",
-      "en": "“Not anywhere...”"
+      "en": "“Not anywhere...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0405",
@@ -2795,7 +3835,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は口の中で繰り返し、いたものがいなくなるという現象をうまく理解しようとしたのですが、やっぱり理解が出来ないのでした。",
-      "en": "I repeated the words under my breath, trying to understand how someone who had been there could suddenly be nowhere. I still couldn't comprehend it."
+      "en": "I repeated the words under my breath, trying to understand how someone who had been there could suddenly be nowhere. I still couldn't comprehend it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "G1:0407",

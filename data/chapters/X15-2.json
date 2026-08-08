@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>の憂鬱な曇り空に慣れた<tips=82>広美</tips>にとって、その青空と太陽の輝きはあまりにも鮮やかに目に沁みた。",
-      "en": "After the endless gray over <tips=9>Y District</tips>, the blue sky and blazing sun strike <tips=82>Hiromi</tips>'s eyes with almost painful brightness."
+      "en": "After the endless gray over <tips=9>Y District</tips>, the blue sky and blazing sun strike <tips=82>Hiromi</tips>'s eyes with almost painful brightness.",
+      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
     },
     {
       "id": "X15-2:0011",
@@ -185,7 +186,8 @@
       "sj": "",
       "se": "",
       "jp": "　誰もいなかったその部屋に、奥のキッチンから一人の人物が現れた。",
-      "en": "Someone enters the empty room from the kitchen."
+      "en": "Someone enters the empty room from the kitchen.",
+      "bg": "assets/vn/backgrounds/bg-2080289f1944.webp"
     },
     {
       "id": "X15-2:0036",
@@ -230,7 +232,8 @@
       "sj": "",
       "se": "",
       "jp": "　そしてすぐにもう一人の人物が別のドアを開けて部屋のなかに入って来た。",
-      "en": "A moment later, another door opens and someone else comes in."
+      "en": "A moment later, another door opens and someone else comes in.",
+      "bg": "assets/vn/backgrounds/bg-455b66d38c9b.webp"
     },
     {
       "id": "X15-2:0043",
@@ -338,7 +341,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は閉め出されたような格好でしばらくそこに立っていたが、すぐに移動して部屋のなかを見られる場所を探す。",
-      "en": "For a moment, <tips=82>Hiromi</tips> stands outside as though the curtains have shut her out. Then she hurries along the wall, searching for another way to see inside."
+      "en": "For a moment, <tips=82>Hiromi</tips> stands outside as though the curtains have shut her out. Then she hurries along the wall, searching for another way to see inside.",
+      "bg": "assets/vn/backgrounds/bg-2543b6fc708d.webp"
     },
     {
       "id": "X15-2:0057",
@@ -383,7 +387,8 @@
       "sj": "",
       "se": "",
       "jp": "「あっ」",
-      "en": "“Ah.”"
+      "en": "“Ah.”",
+      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
     },
     {
       "id": "X15-2:0075",
@@ -536,7 +541,8 @@
       "sj": "",
       "se": "",
       "jp": "　それから先自分がどこをどう行動したのか覚えていない。",
-      "en": "She remembers nothing of where she went or what she did after that."
+      "en": "She remembers nothing of where she went or what she did after that.",
+      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
     },
     {
       "id": "X15-2:0105",
@@ -599,7 +605,8 @@
       "sj": "",
       "se": "",
       "jp": "「ノミさん、ノミさん」",
-      "en": "“Nomi... Nomi...”"
+      "en": "“Nomi... Nomi...”",
+      "bg": "assets/vn/backgrounds/bg-924f7ec1adb3.webp"
     },
     {
       "id": "X15-2:0127",
@@ -698,7 +705,8 @@
       "sj": "",
       "se": "",
       "jp": "　それを何度か繰り返していると、医師の<tips=5>太刀川</tips>が病室までやって来た。そうして、興奮状態の<tips=82>広美</tips>の目をチラリと見ると、",
-      "en": "After this happens several times, Dr. <tips=5>Tachikawa</tips> comes to the ward. He takes one glance at the agitated <tips=82>Hiromi</tips>'s eyes."
+      "en": "After this happens several times, Dr. <tips=5>Tachikawa</tips> comes to the ward. He takes one glance at the agitated <tips=82>Hiromi</tips>'s eyes.",
+      "bg": "assets/vn/backgrounds/bg-f13a8a8657ff.webp"
     },
     {
       "id": "X15-2:0146",
@@ -707,7 +715,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「駄目ですね。拘束の準備をしてください」",
-      "en": "“No. This won't do. Prepare the restraints.”"
+      "en": "“No. This won't do. Prepare the restraints.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4fe8ebeedee5.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0147",
@@ -716,7 +730,13 @@
       "sj": "",
       "se": "",
       "jp": "　と、助手の<tips=93>林田</tips>に指示を出した。",
-      "en": "He gives the order to his assistant, <tips=93>Hayashida</tips>."
+      "en": "He gives the order to his assistant, <tips=93>Hayashida</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4fe8ebeedee5.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0154",
@@ -743,7 +763,8 @@
       "sj": "",
       "se": "",
       "jp": "　観察室は患者たちの居住するスペースとは鍵の付いたドアで隔てられており、看護室のすぐ隣にある。",
-      "en": "A locked door separates the observation room from the patients' living area. It sits right beside the nurses' station."
+      "en": "A locked door separates the observation room from the patients' living area. It sits right beside the nurses' station.",
+      "bg": "assets/vn/backgrounds/bg-f13a8a8657ff.webp"
     },
     {
       "id": "X15-2:0161",
@@ -770,7 +791,13 @@
       "sj": "内田広美（入院）",
       "se": "Hiromi Uchida",
       "jp": "「ありがとう、ノミさん……」",
-      "en": "“Thank you, Nomi...”"
+      "en": "“Thank you, Nomi...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0164",
@@ -779,7 +806,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>が言うと、",
-      "en": "When <tips=82>Hiromi</tips> thanks her,"
+      "en": "When <tips=82>Hiromi</tips> thanks her,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0165",
@@ -788,7 +821,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「大分よくなったみたいだね。よかった」",
-      "en": "“You look much better now. I'm glad.”"
+      "en": "“You look much better now. I'm glad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0166",
@@ -797,7 +840,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>能見</tips>は嬉しそうに笑った。",
-      "en": "<tips=83>Noumi</tips> smiles, plainly relieved."
+      "en": "<tips=83>Noumi</tips> smiles, plainly relieved.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0167",
@@ -806,7 +859,17 @@
       "sj": "内田広美（入院）",
       "se": "Hiromi Uchida",
       "jp": "「ノミさん。のどかわいた。ジュースが飲みたい」",
-      "en": "“Nomi. I'm thirsty. I want juice.”"
+      "en": "“Nomi. I'm thirsty. I want juice.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0168",
@@ -815,7 +878,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「まあ、落ち着いたと思ったらすぐそんなこと言って。……ジュースはないから、お水でもいい？」",
-      "en": "“Oh, so the moment you calm down, you start making demands. ...We don't have any juice. Is water okay?”"
+      "en": "“Oh, so the moment you calm down, you start making demands. ...We don't have any juice. Is water okay?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0169",
@@ -824,7 +897,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>が頷くと、<tips=83>能見</tips>は吸い飲みに水を入れて飲ませてくれる。",
-      "en": "<tips=82>Hiromi</tips> nods, and <tips=83>Noumi</tips> fills a feeding cup and helps her drink."
+      "en": "<tips=82>Hiromi</tips> nods, and <tips=83>Noumi</tips> fills a feeding cup and helps her drink.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0170",
@@ -833,7 +916,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「<tips=82>広美</tips>ちゃん、ひとつお願いがあるんだ」",
-      "en": "“<tips=82>Hiromi</tips>, can I ask you for one thing?”"
+      "en": "“<tips=82>Hiromi</tips>, can I ask you for one thing?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0171",
@@ -842,7 +935,17 @@
       "sj": "",
       "se": "",
       "jp": "　水を飲み終わった<tips=82>広美</tips>の顔を見つめながら、<tips=83>能見</tips>は語りかけるように言った。",
-      "en": "When <tips=82>Hiromi</tips> finishes drinking, <tips=83>Noumi</tips> looks into her face and begins in a gentle, storytelling voice."
+      "en": "When <tips=82>Hiromi</tips> finishes drinking, <tips=83>Noumi</tips> looks into her face and begins in a gentle, storytelling voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0172",
@@ -851,7 +954,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「ずっと先、私がお婆ちゃんになって、死んじゃったりしたらね。そしたらお葬式に来て、泣いてくれない？　それで、<tips=83>能見</tips>さんは本当に頑張って仕事をしてくれたいい人だって、嘘でもいいから褒めてほしいの」",
-      "en": "“A long, long time from now, after I've grown into an old woman and died... will you come to my funeral and cry for me? And will you tell everyone Ms. <tips=83>Noumi</tips> was a good person who worked really, really hard? You can lie.”"
+      "en": "“A long, long time from now, after I've grown into an old woman and died... will you come to my funeral and cry for me? And will you tell everyone Ms. <tips=83>Noumi</tips> was a good person who worked really, really hard? You can lie.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0173",
@@ -860,7 +973,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>能見</tips>がそんなことを言うのは初めてだった。",
-      "en": "<tips=83>Noumi</tips> has never said anything like this before."
+      "en": "<tips=83>Noumi</tips> has never said anything like this before.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0174",
@@ -869,7 +992,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は目をぱちくりさせて聞いている。",
-      "en": "<tips=82>Hiromi</tips> only blinks at her."
+      "en": "<tips=82>Hiromi</tips> only blinks at her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0175",
@@ -878,7 +1011,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「<tips=83>能見</tips>さんの家族はね、私がこの仕事をやるのをあんまり喜んでないの。だから、<tips=82>広美</tips>ちゃんが仕事頑張ってたんですよーって褒めて泣いてくれればね。ああ、あいつも立派な仕事してたんだなって思ってくれるかなって」",
-      "en": "“You see, Ms. <tips=83>Noumi</tips>'s family isn't very happy about this job. So if <tips=82>Hiromi</tips> cries and tells them how hard I worked, maybe they'll think, ‘Oh. She was doing something worthwhile after all.’”"
+      "en": "“You see, Ms. <tips=83>Noumi</tips>'s family isn't very happy about this job. So if <tips=82>Hiromi</tips> cries and tells them how hard I worked, maybe they'll think, ‘Oh. She was doing something worthwhile after all.’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0176",
@@ -887,7 +1030,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=83>能見</tips>は微笑みながら言う。",
-      "en": "<tips=83>Noumi</tips> says it with a smile."
+      "en": "<tips=83>Noumi</tips> says it with a smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0177",
@@ -896,7 +1049,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「私はこうやってみんなのために働くのは素敵な仕事だと思ってるんだけど、みんなは誤解してて……だから、少しだけ理解して欲しいの」",
-      "en": "“I think taking care of all of you is wonderful work. My family has the wrong idea about it... I just want them to understand a little.”"
+      "en": "“I think taking care of all of you is wonderful work. My family has the wrong idea about it... I just want them to understand a little.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0178",
@@ -905,7 +1068,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言ってから、じっと<tips=82>広美</tips>の顔を見つめると、",
-      "en": "Then she studies <tips=82>Hiromi</tips>'s face."
+      "en": "Then she studies <tips=82>Hiromi</tips>'s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0179",
@@ -914,7 +1087,17 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「あはは、無茶なこと言ってるよね。でも、今日は私一日中<tips=82>広美</tips>ちゃんにつきっきりだったんだから、これくらい言わせてもらうからね」",
-      "en": "“Ahaha. That's a lot to ask, isn't it? But I spent all day looking after <tips=82>Hiromi</tips>, so I'm allowed to ask for this much.”"
+      "en": "“Ahaha. That's a lot to ask, isn't it? But I spent all day looking after <tips=82>Hiromi</tips>, so I'm allowed to ask for this much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0180",
@@ -923,7 +1106,17 @@
       "sj": "",
       "se": "",
       "jp": "　最後に<tips=82>広美</tips>の頭を撫でて、彼女は部屋を出て行った。",
-      "en": "She gives <tips=82>Hiromi</tips> one last pat on the head and leaves the room."
+      "en": "She gives <tips=82>Hiromi</tips> one last pat on the head and leaves the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0195",
@@ -932,7 +1125,8 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は仕事だったから優しくしてくれたのかもしれない。でも、あんな状態になった自分のことは、家族だって見捨てたんだ。学校でもいじめられた。",
-      "en": "Maybe she was only kind because it was her job. But even Hiromi's own family had abandoned her after she became like that. The children at school bullied her too."
+      "en": "Maybe she was only kind because it was her job. But even Hiromi's own family had abandoned her after she became like that. The children at school bullied her too.",
+      "bg": "assets/vn/backgrounds/bg-3104f02cffef.webp"
     },
     {
       "id": "X15-2:0196",
@@ -968,7 +1162,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はよろめくような足取りで街の外れまで歩き、病院を見た。入り口は閉鎖されて入れなくなっている。人気はなく、灰色の建物がじっと雨に打たれている。",
-      "en": "<tips=82>Hiromi</tips> staggers all the way to the edge of the City and looks up at the hospital. The entrance has been sealed. No one is there. Rain beats steadily against the silent gray building."
+      "en": "<tips=82>Hiromi</tips> staggers all the way to the edge of the City and looks up at the hospital. The entrance has been sealed. No one is there. Rain beats steadily against the silent gray building.",
+      "bg": "assets/vn/backgrounds/bg-2284bfc68a21.webp"
     },
     {
       "id": "X15-2:0207",
@@ -977,7 +1172,8 @@
       "sj": "",
       "se": "",
       "jp": "　それをじっと見上げてから、また街の方へ戻った。",
-      "en": "After gazing at it for a long time, she turns back toward the City."
+      "en": "After gazing at it for a long time, she turns back toward the City.",
+      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
     },
     {
       "id": "X15-2:0208",
@@ -1085,7 +1281,13 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「いいんです。風邪なんかひいたって。死にたいくらいだもの」",
-      "en": "“I don't care if I catch cold. I feel like dying anyway.”"
+      "en": "“I don't care if I catch cold. I feel like dying anyway.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0220",
@@ -1094,7 +1296,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうか。それは邪魔をしたな」",
-      "en": "“I see. Sorry to bother you, then.”"
+      "en": "“I see. Sorry to bother you, then.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0221",
@@ -1103,7 +1311,13 @@
       "sj": "",
       "se": "",
       "jp": "　男は案外あっさりとしたもので、それだけで引き下がると目の前を去っていった。",
-      "en": "To her surprise, the man gives up at once and walks away."
+      "en": "To her surprise, the man gives up at once and walks away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0222",
@@ -1112,7 +1326,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はまた顔を伏せる。すると、目の前でまた足音が聞こえた。さっきの男が帰って来たのかと思ったが、そうではなかった。",
-      "en": "<tips=82>Hiromi</tips> lowers her head again. Soon she hears footsteps stop before her. She thinks the first man has come back, but this is someone else."
+      "en": "<tips=82>Hiromi</tips> lowers her head again. Soon she hears footsteps stop before her. She thinks the first man has come back, but this is someone else.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0223",
@@ -1121,7 +1341,13 @@
       "sj": "",
       "se": "",
       "jp": "「ほら、立てよ」",
-      "en": "“Come on. Up.”"
+      "en": "“Come on. Up.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0224",
@@ -1130,7 +1356,13 @@
       "sj": "",
       "se": "",
       "jp": "　不意に、ぐいと腕を掴まれた。",
-      "en": "Without warning, a hand clamps around her arm and yanks."
+      "en": "Without warning, a hand clamps around her arm and yanks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0225",
@@ -1139,7 +1371,13 @@
       "sj": "",
       "se": "",
       "jp": "　見ると髪の毛を金色に染めた背の高い男が自分の腕を掴んでいる。<tips=82>広美</tips>は突然のことで声が出ない。男の身体は服の上からわかるほど分厚い筋肉がついている。<tips=82>広美</tips>は<tips=17>タイプB</tips>であり、<tips=46>ネオ・ローズ</tips>によってその力が解放されてはいた。それでも、もともとが病院で育ったひょろひょろの身体であり、今は衰弱してもいる。確かにみかけよりはずっと力が強かったがとても目の前の男の腕力にはかなわなかった。そして何より、全力を振り絞れるような気力が失われている。",
-      "en": "A tall man with dyed-blond hair has hold of her. The shock leaves <tips=82>Hiromi</tips> unable to speak. Thick muscle shows even beneath his clothes. <tips=82>Hiromi</tips> is <tips=17>Type B</tips>, and <tips=46>Neo-Rose</tips> has unlocked her strength. But she grew up thin and frail in a hospital, and now she is exhausted as well. She is far stronger than she looks, but still no match for this man's arms. More than anything, she no longer has the will to summon all her strength."
+      "en": "A tall man with dyed-blond hair has hold of her. The shock leaves <tips=82>Hiromi</tips> unable to speak. Thick muscle shows even beneath his clothes. <tips=82>Hiromi</tips> is <tips=17>Type B</tips>, and <tips=46>Neo-Rose</tips> has unlocked her strength. But she grew up thin and frail in a hospital, and now she is exhausted as well. She is far stronger than she looks, but still no match for this man's arms. More than anything, she no longer has the will to summon all her strength.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0226",
@@ -1148,7 +1386,13 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「いや……」",
-      "en": "“No...”"
+      "en": "“No...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0227",
@@ -1157,7 +1401,13 @@
       "sj": "",
       "se": "",
       "jp": "　声を出そうとすると、その丸太のような腕がとんで<tips=82>広美</tips>の頬を殴った。",
-      "en": "She tries to cry out. His arm swings like a log and smashes into <tips=82>Hiromi</tips>'s cheek."
+      "en": "She tries to cry out. His arm swings like a log and smashes into <tips=82>Hiromi</tips>'s cheek.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0244",
@@ -1166,7 +1416,8 @@
       "sj": "",
       "se": "",
       "jp": "「声を出したら殺すぞ」",
-      "en": "“Make one sound and I'll kill you.”"
+      "en": "“Make one sound and I'll kill you.”",
+      "bg": "assets/vn/backgrounds/bg-1c571ee4ba8f.webp"
     },
     {
       "id": "X15-2:0245",
@@ -1319,7 +1570,8 @@
       "sj": "",
       "se": "",
       "jp": "「ちょっと待ちな」",
-      "en": "“Hold it.”"
+      "en": "“Hold it.”",
+      "bg": "assets/vn/backgrounds/bg-060e9ad50773.webp"
     },
     {
       "id": "X15-2:0277",
@@ -1391,7 +1643,8 @@
       "sj": "",
       "se": "",
       "jp": "　その言葉が終わるのも待たずに、またその太い腕を振り回して相手に襲い掛かる。",
-      "en": "Before the other man even finishes, he swings his thick arm and charges."
+      "en": "Before the other man even finishes, he swings his thick arm and charges.",
+      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
     },
     {
       "id": "X15-2:0292",
@@ -1418,7 +1671,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「おっと、死んではいないよな」",
-      "en": "“Whoops. He's not dead, is he?”"
+      "en": "“Whoops. He's not dead, is he?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0297",
@@ -1472,7 +1731,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「お嬢ちゃんツイてるな。おれは普段ならこういった真似はしないんだぜ。キリがないし、そんな良心は持ち合わせていないからな。でも今日は特別だ。ちょっと誰かに優しくしたい気分だったのさ。どういうわけか、おれは月に一度くらいそういう日があってね。……そう怯えることはない。安心しな、きっちりとパパとママがいるあったかいところへ送ってやるぜ」",
-      "en": "“Lucky day, little lady. Normally I don't bother with this sort of thing. There'd be no end to it, and I was born without that kind of conscience. Today's special. I just happened to feel like being nice to somebody. Happens about once a month, for some reason. ...No need to look so frightened. Relax. I'll take you somewhere warm, with a proper mommy and daddy waiting for you.”"
+      "en": "“Lucky day, little lady. Normally I don't bother with this sort of thing. There'd be no end to it, and I was born without that kind of conscience. Today's special. I just happened to feel like being nice to somebody. Happens about once a month, for some reason. ...No need to look so frightened. Relax. I'll take you somewhere warm, with a proper mommy and daddy waiting for you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0304",
@@ -1481,7 +1746,13 @@
       "sj": "",
       "se": "",
       "jp": "　結果として、<tips=82>広美</tips>は本当に幸運だったのだろう。男は笑い、そして<tips=23>エリオット・ネス</tips>と名乗った。",
-      "en": "As it turns out, <tips=82>Hiromi</tips> really has been lucky. The man smiles and introduces himself as <tips=23>Elliott Ness</tips>."
+      "en": "As it turns out, <tips=82>Hiromi</tips> really has been lucky. The man smiles and introduces himself as <tips=23>Elliott Ness</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0305",
@@ -1490,7 +1761,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はその名前の意味がわからない。",
-      "en": "The name means nothing to <tips=82>Hiromi</tips>."
+      "en": "The name means nothing to <tips=82>Hiromi</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0306",
@@ -1499,7 +1776,13 @@
       "sj": "",
       "se": "",
       "jp": "　ただ俯くと、また涙を流す。家族のあの光景を見てから、沢山の涙を流したはずだがまだ枯れ果ててはいないのだ。",
-      "en": "She bows her head and starts crying again. She has shed so many tears since seeing her family, yet still they have not run dry."
+      "en": "She bows her head and starts crying again. She has shed so many tears since seeing her family, yet still they have not run dry.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0307",
@@ -1508,7 +1791,13 @@
       "sj": "",
       "se": "",
       "jp": "「私には、戻るところなんか、ない……」",
-      "en": "“I don't have anywhere to go back to...”"
+      "en": "“I don't have anywhere to go back to...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0308",
@@ -1517,7 +1806,13 @@
       "sj": "",
       "se": "",
       "jp": "　震える声でそう言うと、声をあげて泣き出した。",
-      "en": "Her voice trembles. Then she breaks down and sobs."
+      "en": "Her voice trembles. Then she breaks down and sobs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X15-2:0317",
@@ -1724,7 +2019,8 @@
       "sj": "",
       "se": "",
       "jp": "　さて、泣きじゃくる<tips=82>広美</tips>は<tips=23>エリオット</tips>に誘われるまま彼の住まいへと向かった。",
-      "en": "And so the sobbing <tips=82>Hiromi</tips> lets <tips=23>Elliott</tips> lead her home."
+      "en": "And so the sobbing <tips=82>Hiromi</tips> lets <tips=23>Elliott</tips> lead her home.",
+      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
     },
     {
       "id": "X15-2:0346",
@@ -1760,7 +2056,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「悪いが掃除してくれるか」",
-      "en": "“Sorry, but you'll have to clean this.”"
+      "en": "“Sorry, but you'll have to clean this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0350",
@@ -1769,7 +2071,13 @@
       "sj": "",
       "se": "",
       "jp": "　呆然とする<tips=82>広美</tips>に、<tips=23>エリオット</tips>は掃除機を押しつけてぶっきらぼうにそう言った。",
-      "en": "To the dumbfounded <tips=82>Hiromi</tips>, <tips=23>Elliott</tips> bluntly hands over a vacuum cleaner."
+      "en": "To the dumbfounded <tips=82>Hiromi</tips>, <tips=23>Elliott</tips> bluntly hands over a vacuum cleaner.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0351",
@@ -1778,7 +2086,13 @@
       "sj": "",
       "se": "",
       "jp": "　掃除機は病院での掃除にも使われていて、<tips=82>広美</tips>は触ったことがなかったが職員がいじっていたのを見て覚えている。部屋の埃を全て吸い取り終わると<tips=23>エリオット</tips>が毛布を持ってやって来た。",
-      "en": "The staff used vacuum cleaners at the hospital. <tips=82>Hiromi</tips> never handled one herself, but she remembers watching them. By the time she has sucked up the last of the dust, <tips=23>Elliott</tips> returns with a blanket."
+      "en": "The staff used vacuum cleaners at the hospital. <tips=82>Hiromi</tips> never handled one herself, but she remembers watching them. By the time she has sucked up the last of the dust, <tips=23>Elliott</tips> returns with a blanket.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0352",
@@ -1787,7 +2101,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はてっきりそれを使って寝ろということかと思ったが、",
-      "en": "<tips=82>Hiromi</tips> assumes the blanket is for her, but"
+      "en": "<tips=82>Hiromi</tips> assumes the blanket is for her, but",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0353",
@@ -1796,7 +2116,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「今シーツをかえたからお前はベッドを使え。おれは今晩はこっちで寝る」",
-      "en": "“I changed the sheets. You take the bed. I'll sleep in here tonight.”"
+      "en": "“I changed the sheets. You take the bed. I'll sleep in here tonight.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0354",
@@ -1805,7 +2131,13 @@
       "sj": "",
       "se": "",
       "jp": "　と、床の上に茶色の毛布を乱暴に投げ出した。",
-      "en": "He tosses the brown blanket onto the floor."
+      "en": "He tosses the brown blanket onto the floor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0355",
@@ -1814,7 +2146,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「大分濡れてるな。むこうにバスルームがあるからシャワーを使うといい。服は洗濯機にいれてボタンを押せば明日には乾いている。朝になったらそれを着てここを出るんだ」",
-      "en": "“You're soaked through. Bathroom's over there. Take a shower. Throw your clothes in the washer and push the button; they'll be dry by morning. Put them on then and get out.”"
+      "en": "“You're soaked through. Bathroom's over there. Take a shower. Throw your clothes in the washer and push the button; they'll be dry by morning. Put them on then and get out.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0356",
@@ -1823,7 +2161,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「は、はい」",
-      "en": "“Y-Yes.”"
+      "en": "“Y-Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0357",
@@ -1832,7 +2180,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「今ピザを頼んだ。シャワーから出て来る頃には届いているだろう。チェーン店のヤツと違う本物のイタリアンピザだぜ。今日はそれを食って寝るんだ」",
-      "en": "“I ordered a pizza. It should be here by the time you're done showering. Real Italian pizza, not that chain-store crap. Eat it, then get some sleep.”"
+      "en": "“I ordered a pizza. It should be here by the time you're done showering. Real Italian pizza, not that chain-store crap. Eat it, then get some sleep.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0358",
@@ -1841,7 +2199,17 @@
       "sj": "",
       "se": "",
       "jp": "　それからバスルームに案内されてシャワーの使い方と、新しいタオルの場所を教わった。",
-      "en": "He shows her the bathroom, explains how the shower works, and points out the clean towels."
+      "en": "He shows her the bathroom, explains how the shower works, and points out the clean towels.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0359",
@@ -1850,7 +2218,17 @@
       "sj": "",
       "se": "",
       "jp": "　長年人の指示に従って生活することに慣れていた<tips=82>広美</tips>は従順に頷いて聞いていた。",
-      "en": "After years of living by other people's instructions, <tips=82>Hiromi</tips> listens obediently and nods."
+      "en": "After years of living by other people's instructions, <tips=82>Hiromi</tips> listens obediently and nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0366",
@@ -1949,7 +2327,8 @@
       "sj": "",
       "se": "",
       "jp": "　バスルームを出るとダイニングのテーブルの上にはピザがもう届いている。<tips=23>エリオット</tips>の姿が見えなかったが、<tips=82>広美</tips>のたてた物音を聞きつけたのか向こうの部屋からやって来た。手にはウイスキーの入ったグラスがあり、その顔は赤く染まっていた。",
-      "en": "When she comes out, a pizza is already waiting on the dining table. <tips=23>Elliott</tips> is nowhere in sight. Perhaps he hears <tips=82>Hiromi</tips> moving, because he soon emerges from another room with a whiskey glass in hand and his face flushed red."
+      "en": "When she comes out, a pizza is already waiting on the dining table. <tips=23>Elliott</tips> is nowhere in sight. Perhaps he hears <tips=82>Hiromi</tips> moving, because he soon emerges from another room with a whiskey glass in hand and his face flushed red.",
+      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
     },
     {
       "id": "X15-2:0381",
@@ -1958,7 +2337,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「冷めないうちに食いなよ。ピザが嫌いってことはないんだろ？」",
-      "en": "“Eat it before it gets cold. You don't hate pizza, do you?”"
+      "en": "“Eat it before it gets cold. You don't hate pizza, do you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0382",
@@ -1967,7 +2352,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は頷き、テーブルについた。",
-      "en": "<tips=82>Hiromi</tips> shakes her head and sits at the table."
+      "en": "<tips=82>Hiromi</tips> shakes her head and sits at the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0383",
@@ -1976,7 +2367,13 @@
       "sj": "",
       "se": "",
       "jp": "　勝手に開けていいのかわからずに座ったままじっとしていたが、<tips=23>エリオット</tips>は酒を飲んでぼんやりと携帯電話をいじるだけで何もしない。",
-      "en": "She isn't sure whether she is allowed to open the box, so she sits perfectly still. <tips=23>Elliott</tips> only drinks and idly taps at his phone."
+      "en": "She isn't sure whether she is allowed to open the box, so she sits perfectly still. <tips=23>Elliott</tips> only drinks and idly taps at his phone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0384",
@@ -1985,7 +2382,13 @@
       "sj": "",
       "se": "",
       "jp": "　おずおずと手を伸ばして見たけれども彼に咎められる様子はなかったので、そのまま蓋を開いた。",
-      "en": "She inches out one hand. When he shows no sign of objecting, she lifts the lid."
+      "en": "She inches out one hand. When he shows no sign of objecting, she lifts the lid.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0385",
@@ -1994,7 +2397,13 @@
       "sj": "",
       "se": "",
       "jp": "　トマトソースとチーズの香りが漂う。具の沢山のった丸いピザがそこにあった。",
-      "en": "The smell of tomato sauce and cheese fills the room. Inside is a round pizza heaped with toppings."
+      "en": "The smell of tomato sauce and cheese fills the room. Inside is a round pizza heaped with toppings.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0386",
@@ -2003,7 +2412,13 @@
       "sj": "",
       "se": "",
       "jp": "　それほど空腹を覚えてはいなかったが、病院でも指示をされればその通り食事をしていた<tips=82>広美</tips>は機械的に手を動かして、チーズの糸を引くピザを一切れとった。そして一口囓って飲み込むと、自分でも思っていなかったほどの食欲があとからあとから沸いて来た。",
-      "en": "She hadn't noticed feeling hungry. But at the hospital she always ate when told, and now <tips=82>Hiromi</tips> obeys almost mechanically. She lifts a slice, strings of cheese trailing from it, takes one bite, and swallows. Then an appetite greater than she knew she had surges up inside her."
+      "en": "She hadn't noticed feeling hungry. But at the hospital she always ate when told, and now <tips=82>Hiromi</tips> obeys almost mechanically. She lifts a slice, strings of cheese trailing from it, takes one bite, and swallows. Then an appetite greater than she knew she had surges up inside her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0387",
@@ -2012,7 +2427,13 @@
       "sj": "",
       "se": "",
       "jp": "　今日一日様々なことがあって心は傷ついていたが、彼女の身体は若く生命力に満ち溢れており、疲労したぶんだけ栄養を求めていたのだ。",
-      "en": "Her heart has been battered by the day, but her body is young and full of life. Exhaustion demands to be fed."
+      "en": "Her heart has been battered by the day, but her body is young and full of life. Exhaustion demands to be fed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0388",
@@ -2021,7 +2442,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「食べないんですか？」",
-      "en": "“Aren’t you eating?”"
+      "en": "“Aren’t you eating?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0389",
@@ -2030,7 +2461,17 @@
       "sj": "",
       "se": "",
       "jp": "　瞬く間に半分ほど食べてしまった<tips=82>広美</tips>は、気を遣って<tips=23>エリオット</tips>に訊ねた。",
-      "en": "In no time, <tips=82>Hiromi</tips> has eaten half the pizza. Remembering her manners, she asks <tips=23>Elliott</tips>."
+      "en": "In no time, <tips=82>Hiromi</tips> has eaten half the pizza. Remembering her manners, she asks <tips=23>Elliott</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0390",
@@ -2039,7 +2480,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「おれは夜は酒だけでいいんだよ。最近はろくにトレーニングもしていないし、太って仕方ない。……しかし、えらい食いっぷりだな」",
-      "en": "“I only need liquor at night. Haven't trained worth a damn lately, and the weight keeps piling on. ...You can really put it away, can't you?”"
+      "en": "“I only need liquor at night. Haven't trained worth a damn lately, and the weight keeps piling on. ...You can really put it away, can't you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0391",
@@ -2048,7 +2499,17 @@
       "sj": "",
       "se": "",
       "jp": "　携帯をいじっていたはずの<tips=23>エリオット</tips>は、いつの間にか<tips=82>広美</tips>の食べる様子に目を奪われており、呆れたように言った。",
-      "en": "<tips=23>Elliott</tips> was supposed to be looking at his phone, but at some point <tips=82>Hiromi</tips>'s appetite captured all his attention. He sounds almost impressed."
+      "en": "<tips=23>Elliott</tips> was supposed to be looking at his phone, but at some point <tips=82>Hiromi</tips>'s appetite captured all his attention. He sounds almost impressed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0392",
@@ -2057,7 +2518,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「美味しくって……」",
-      "en": "“It's so good...”"
+      "en": "“It's so good...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0393",
@@ -2066,7 +2537,17 @@
       "sj": "",
       "se": "",
       "jp": "　さっきまで泣いていたのにこんなに食べている姿を見せてしまって、恥ずかしく俯いた拍子にげっぷが出てしまったのでなおさら恥ずかしい思いをした。",
-      "en": "She feels ashamed to be eating like this after crying so hard. She ducks her head—and burps, which makes it infinitely worse."
+      "en": "She feels ashamed to be eating like this after crying so hard. She ducks her head—and burps, which makes it infinitely worse.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0394",
@@ -2075,7 +2556,17 @@
       "sj": "",
       "se": "",
       "jp": "　ピザと一緒に置いてあったペットボトルのコーラの炭酸が悪さをしたのだろう。",
-      "en": "The bottle of cola beside the pizza is probably to blame."
+      "en": "The bottle of cola beside the pizza is probably to blame.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0395",
@@ -2084,7 +2575,17 @@
       "sj": "",
       "se": "",
       "jp": "　ピザもコーラも、病院ではほとんど口にする機会がなかったものだ。",
-      "en": "Pizza and cola were rare treats at the hospital."
+      "en": "Pizza and cola were rare treats at the hospital.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0396",
@@ -2093,7 +2594,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「さっき戻るところがないと言っていたな。お前さんにもいろいろあるんだろうが、詳しい事情は聞かないぜ。お互いその方がいいだろう。さっき言った通り、一晩寝たら明日の朝ここを出て行くんだ。だから、それまでにどうするか決めておくんだな」",
-      "en": "“You said you had nowhere to go back to. I'm sure you have your reasons. I won't ask, and that's better for both of us. Like I told you, you can sleep here tonight. Tomorrow morning, you leave. Decide what you're going to do before then.”"
+      "en": "“You said you had nowhere to go back to. I'm sure you have your reasons. I won't ask, and that's better for both of us. Like I told you, you can sleep here tonight. Tomorrow morning, you leave. Decide what you're going to do before then.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0397",
@@ -2102,7 +2613,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>はニコリともしないでそう言った。<tips=82>広美</tips>を連れて来たことを後悔した、というわけでもないようだが言葉通りこれ以上の深入りをするつもりはなさそうな冷淡な表情をしている。",
-      "en": "<tips=23>Elliott</tips> doesn't smile. He doesn't seem to regret bringing <tips=82>Hiromi</tips> here, but his cool expression makes one thing clear: just as he says, he has no intention of becoming any more involved."
+      "en": "<tips=23>Elliott</tips> doesn't smile. He doesn't seem to regret bringing <tips=82>Hiromi</tips> here, but his cool expression makes one thing clear: just as he says, he has no intention of becoming any more involved.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0398",
@@ -2111,7 +2632,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「はい、わかりました」",
-      "en": "“Yes. I understand.”"
+      "en": "“Yes. I understand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0399",
@@ -2120,7 +2651,17 @@
       "sj": "",
       "se": "",
       "jp": "　もとより<tips=82>広美</tips>にも世話になろうという思いがあったわけでもなく、自然にそう答えて頷く。",
-      "en": "<tips=82>Hiromi</tips> never meant to impose on him in the first place. The answer comes naturally, and she nods."
+      "en": "<tips=82>Hiromi</tips> never meant to impose on him in the first place. The answer comes naturally, and she nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0400",
@@ -2129,7 +2670,17 @@
       "sj": "",
       "se": "",
       "jp": "　この態度には、<tips=23>エリオット</tips>の方が若干拍子抜けをしたようだった。",
-      "en": "Her ready agreement seems to take <tips=23>Elliott</tips> slightly aback."
+      "en": "Her ready agreement seems to take <tips=23>Elliott</tips> slightly aback.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0401",
@@ -2138,7 +2689,17 @@
       "sj": "",
       "se": "",
       "jp": "　一般的に言って不幸な状況にある少女に突き放すような言葉を投げかければ、すがりつこうとするか、落胆して暗い表情を見せるかしそうなものだが、<tips=82>広美</tips>はどちらでもなくあまりにもあっさりとしている。そしてまたピザに手を伸ばしはじめたのである。",
-      "en": "One might expect a miserable girl, dismissed so coldly, either to cling to him or sink into visible despair. <tips=82>Hiromi</tips> does neither. She accepts the terms with startling ease, then reaches for another slice of pizza."
+      "en": "One might expect a miserable girl, dismissed so coldly, either to cling to him or sink into visible despair. <tips=82>Hiromi</tips> does neither. She accepts the terms with startling ease, then reaches for another slice of pizza.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0402",
@@ -2147,7 +2708,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は溜息をつき、",
-      "en": "<tips=23>Elliott</tips> sighs."
+      "en": "<tips=23>Elliott</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0403",
@@ -2156,7 +2727,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「どんなときでも食えるときにたくさん食うってのは、生き延びるやつの条件だ。お前さんはきっと長生きするぜ」",
-      "en": "“Eating all you can whenever food's there—that's what survivors do. You'll probably live to a hundred.”"
+      "en": "“Eating all you can whenever food's there—that's what survivors do. You'll probably live to a hundred.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0404",
@@ -2165,7 +2746,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って、部屋を去っていった。",
-      "en": "With that, he leaves the room."
+      "en": "With that, he leaves the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0407",
@@ -2480,7 +3071,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「どうした？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0451",
@@ -2489,7 +3086,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「お腹がすいて……」",
-      "en": "“I'm hungry...”"
+      "en": "“I'm hungry...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0452",
@@ -2498,7 +3105,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「冷蔵庫に何か入ってる。何でも使っていいから適当に食え」",
-      "en": "“There's food in the fridge. Use whatever you want and make something.”"
+      "en": "“There's food in the fridge. Use whatever you want and make something.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0453",
@@ -2507,7 +3124,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「冷蔵庫に？」",
-      "en": "“In the fridge?”"
+      "en": "“In the fridge?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0454",
@@ -2516,7 +3143,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「卵かベーコンがあったかな。目玉焼きくらい作れるだろ。キッチンにフライパンは出したままになっていたはずだ」",
-      "en": "“Should be eggs in there. Bacon too, maybe. You can fry an egg, can't you? I left the pan out in the kitchen.”"
+      "en": "“Should be eggs in there. Bacon too, maybe. You can fry an egg, can't you? I left the pan out in the kitchen.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0455",
@@ -2525,7 +3162,17 @@
       "sj": "",
       "se": "",
       "jp": "　さすがの<tips=23>エリオット</tips>も昨日は飲み過ぎてしまったらしく、喋ると頭がズキズキと痛んで顔を顰める。",
-      "en": "Even <tips=23>Elliott</tips> seems to have overdone it last night. Talking makes his head pound, and he winces."
+      "en": "Even <tips=23>Elliott</tips> seems to have overdone it last night. Talking makes his head pound, and he winces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0456",
@@ -2534,7 +3181,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「はあ……」",
-      "en": "“Oh...”"
+      "en": "“Oh...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0457",
@@ -2543,7 +3200,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「食ったら好きなところへ行け。挨拶はいらないからな。おれはもう少し眠る」",
-      "en": "“Once you've eaten, go wherever you want. Don't bother saying goodbye. I'm going back to sleep.”"
+      "en": "“Once you've eaten, go wherever you want. Don't bother saying goodbye. I'm going back to sleep.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0458",
@@ -2552,7 +3219,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>はぶっきらぼうに言うと、またごろりと横になって毛布にくるまった。",
-      "en": "<tips=23>Elliott</tips> delivers the words bluntly, rolls over, and wraps himself in the blanket again."
+      "en": "<tips=23>Elliott</tips> delivers the words bluntly, rolls over, and wraps himself in the blanket again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0461",
@@ -2597,7 +3274,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして部屋を出たところで彼は焦げ臭いにおいを感じる。キッチンの方から音がする。",
-      "en": "The moment he steps from the room, he smells something burning. Noise comes from the kitchen."
+      "en": "The moment he steps from the room, he smells something burning. Noise comes from the kitchen.",
+      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
     },
     {
       "id": "X15-2:0471",
@@ -2714,7 +3392,13 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「ご、ごめんなさい」",
-      "en": "“I-I’m sorry.”"
+      "en": "“I-I’m sorry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0484",
@@ -2723,7 +3407,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「大丈夫。おれが悪かったんだ」",
-      "en": "“It's all right. My fault.”"
+      "en": "“It's all right. My fault.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0485",
@@ -2732,7 +3426,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は苦い顔をして、慣れた手つきでフライパンにこびりついた汚れを削り落とし、そしてコンロの上に置いた。",
-      "en": "With a bitter look, <tips=23>Elliott</tips> expertly scrapes the burned crust from the pan and puts it back on the stove."
+      "en": "With a bitter look, <tips=23>Elliott</tips> expertly scrapes the burned crust from the pan and puts it back on the stove.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0487",
@@ -2741,7 +3445,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「料理、出来なかったんだな」",
-      "en": "“So you really can't cook.”"
+      "en": "“So you really can't cook.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0488",
@@ -2750,7 +3464,17 @@
       "sj": "",
       "se": "",
       "jp": "　グラスの水を飲み、溜息をついてから<tips=23>エリオット</tips>はそう言った。",
-      "en": "<tips=23>Elliott</tips> drinks a glass of water, sighs, and finally says it."
+      "en": "<tips=23>Elliott</tips> drinks a glass of water, sighs, and finally says it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0489",
@@ -2759,7 +3483,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は、目玉焼きにしようとしていた卵から殻を取り除いてスクランブルエッグにしてくれた卵と炒めたベーコンをトーストの上に乗せたものをもそもそと食べながら頷く。",
-      "en": "<tips=82>Hiromi</tips> nods, nibbling at toast piled with bacon and scrambled eggs. Elliott salvaged the eggs she meant to fry by picking out the shells and scrambling them instead."
+      "en": "<tips=82>Hiromi</tips> nods, nibbling at toast piled with bacon and scrambled eggs. Elliott salvaged the eggs she meant to fry by picking out the shells and scrambling them instead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0490",
@@ -2768,7 +3502,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「したことがないんです。指示にしたがって、出て来たものを食べるだけでしたから」",
-      "en": "“I've never done it before. I just followed instructions and ate whatever they gave me.”"
+      "en": "“I've never done it before. I just followed instructions and ate whatever they gave me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0491",
@@ -2777,7 +3521,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ママが作ったのを見たこともないのかい？」",
-      "en": "“Never watched your mom cook?”"
+      "en": "“Never watched your mom cook?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0492",
@@ -2786,7 +3540,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「……お母さんと暮らしていた時はキッチンに入れて貰えなかったですし、それ以降はずっと出来上がったものがトレイで運ばれて来るだけでしたから」",
-      "en": "“...When I lived with my mother, I wasn't allowed in the kitchen. After that, finished food always came to me on a tray.”"
+      "en": "“...When I lived with my mother, I wasn't allowed in the kitchen. After that, finished food always came to me on a tray.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0493",
@@ -2795,7 +3559,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「そうか。しかし、目玉焼きであそこまでめちゃくちゃにするやつは初めて見たぜ」",
-      "en": "“I see. Still, I've never seen anyone do that much damage trying to fry an egg.”"
+      "en": "“I see. Still, I've never seen anyone do that much damage trying to fry an egg.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0495",
@@ -2804,7 +3578,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は煙草に火をつけると、呆れて苦笑する。",
-      "en": "<tips=23>Elliott</tips> lights a cigarette and gives her an incredulous smile."
+      "en": "<tips=23>Elliott</tips> lights a cigarette and gives her an incredulous smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0497",
@@ -2813,7 +3597,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「す、すみません」",
-      "en": "“I-I’m sorry.”"
+      "en": "“I-I’m sorry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0498",
@@ -2822,7 +3616,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ただの家出娘だと思っていたが、少し違うようだな。……昨日は何も聞かないと言っておいてすまないが、良かったら事情を話してくれないか？」",
-      "en": "“I thought you were an ordinary runaway. Seems I had that wrong. ...I know I said yesterday I wouldn't ask, but if you don't mind, will you tell me what happened?”"
+      "en": "“I thought you were an ordinary runaway. Seems I had that wrong. ...I know I said yesterday I wouldn't ask, but if you don't mind, will you tell me what happened?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0499",
@@ -2831,7 +3635,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は無言で頷いた。",
-      "en": "<tips=82>Hiromi</tips> nods without a word."
+      "en": "<tips=82>Hiromi</tips> nods without a word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0500",
@@ -2840,7 +3654,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女にとっては順序立てて話すのは難しかったが、<tips=23>エリオット</tips>の質問に促されながらどうにか自分のこれまでの生活を全て説明することが出来た。",
-      "en": "Putting the story in order is difficult for her. With <tips=23>Elliott</tips> guiding her through it with questions, she manages to explain her whole life."
+      "en": "Putting the story in order is difficult for her. With <tips=23>Elliott</tips> guiding her through it with questions, she manages to explain her whole life.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0501",
@@ -2849,7 +3673,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「なるほどね。あの病院の患者だったのか」",
-      "en": "“I see. You were a patient at that hospital.”"
+      "en": "“I see. You were a patient at that hospital.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0502",
@@ -2858,7 +3692,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>も先日の病院襲撃事件の話は聞いている。いや、この街で知らないものはいないだろう。ギャングなどの闇社会のものたちの争いではなく、国の施設が襲撃されたのだ。前代未聞——というわけではないが、少なくとも<tips=7>ＹＳ</tips>が支配するようになってからはそのようなことは起きていない。",
-      "en": "<tips=23>Elliott</tips> has heard about the recent hospital attack. Everyone in the City has. This was no clash between gangs or other denizens of the underworld, but an attack on a government institution. Not entirely unprecedented, perhaps, but nothing like it has happened since <tips=7>YS</tips> took control."
+      "en": "<tips=23>Elliott</tips> has heard about the recent hospital attack. Everyone in the City has. This was no clash between gangs or other denizens of the underworld, but an attack on a government institution. Not entirely unprecedented, perhaps, but nothing like it has happened since <tips=7>YS</tips> took control.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0503",
@@ -2867,7 +3711,17 @@
       "sj": "",
       "se": "",
       "jp": "　そしてその実行犯が最近街で我が物顔でうろついている<tips=47>八龍解放軍</tips>なのも、公表されているわけではなかったがもはや秘密とも言えない明白な事実として認識されていた。",
-      "en": "No official announcement named the perpetrators as the <tips=47>Dragon Liberation Army</tips>, whose soldiers have lately strutted through the City as though it belongs to them. By now, however, the truth is too obvious to count as a secret."
+      "en": "No official announcement named the perpetrators as the <tips=47>Dragon Liberation Army</tips>, whose soldiers have lately strutted through the City as though it belongs to them. By now, however, the truth is too obvious to count as a secret.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0504",
@@ -2876,7 +3730,17 @@
       "sj": "",
       "se": "",
       "jp": "　どうやら<tips=21>八龍会</tips>は本気で<tips=17>タイプB</tips>以外の全てを敵に回そうとしているらしいと、人々は噂したものである。",
-      "en": "People whisper that the <tips=21>Dragon Club</tips> is serious about making an enemy of everyone who is not <tips=17>Type B</tips>."
+      "en": "People whisper that the <tips=21>Dragon Club</tips> is serious about making an enemy of everyone who is not <tips=17>Type B</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0505",
@@ -2885,7 +3749,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>もそうした噂は酒場で耳にしている。",
-      "en": "<tips=23>Elliott</tips> has heard the same talk in bars."
+      "en": "<tips=23>Elliott</tips> has heard the same talk in bars.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0506",
@@ -2894,7 +3768,17 @@
       "sj": "",
       "se": "",
       "jp": "　が、それほど詳しいわけではない。確かに<tips=21>八龍会</tips>に誘われたりもしたが、それだけのことだ。",
-      "en": "He knows few details. The <tips=21>Dragon Club</tips> tried to recruit him, but that is the extent of his involvement."
+      "en": "He knows few details. The <tips=21>Dragon Club</tips> tried to recruit him, but that is the extent of his involvement.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0507",
@@ -2903,7 +3787,17 @@
       "sj": "",
       "se": "",
       "jp": "　ここ数ヶ月の変化というものはすさまじく、<tips=27>廖志明</tips>の元で働いていた頃の情報はもう古くなってしまっているのも自覚している。",
-      "en": "The City has changed violently over the past few months. Elliott knows that even the information he gathered while working for <tips=27>Liao Zhiming</tips> is already stale."
+      "en": "The City has changed violently over the past few months. Elliott knows that even the information he gathered while working for <tips=27>Liao Zhiming</tips> is already stale.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0508",
@@ -2912,7 +3806,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「で、どうするんだ？　一晩考えたんだろう？　<tips=21>八龍会</tips>の世話になるのかい？　それとも勇気を出してもう一度家族に会いに行くか？　おれは、ちゃんと家族と話をするのが一番だと思うがね。……ああ、湿ってやがる」",
-      "en": "“So what are you going to do? You had all night to think. Put yourself in the <tips=21>Dragon Club</tips>'s hands? Work up the nerve to see your family again? I think you ought to sit down and talk to them properly, myself. ...Damn thing's damp.”"
+      "en": "“So what are you going to do? You had all night to think. Put yourself in the <tips=21>Dragon Club</tips>'s hands? Work up the nerve to see your family again? I think you ought to sit down and talk to them properly, myself. ...Damn thing's damp.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0509",
@@ -2921,7 +3825,17 @@
       "sj": "",
       "se": "",
       "jp": "　一本の煙草を吸い終わり、新しく取り出したもう一本を苦々しげに灰皿の底に押しつぶした。",
-      "en": "He finishes one cigarette, pulls out another, then grimaces and crushes the new one into the ashtray."
+      "en": "He finishes one cigarette, pulls out another, then grimaces and crushes the new one into the ashtray.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0510",
@@ -2930,7 +3844,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「家族のところへは行きません」",
-      "en": "“I'm not going back to my family.”"
+      "en": "“I'm not going back to my family.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0511",
@@ -2939,7 +3863,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は顔を上げてきっぱりと断言した。",
-      "en": "<tips=82>Hiromi</tips> lifts her face and says it without hesitation."
+      "en": "<tips=82>Hiromi</tips> lifts her face and says it without hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0512",
@@ -2948,7 +3882,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「あの人たちは新しい幸せのなかにいます。あの幸せを守ることが、今の私が出来る最大の恩返しなんです。……どういう理由だろうと私はあの人たちを傷つけてしまったわけですから。人を傷つけるということは、許されるものではないと思うんです」",
-      "en": "“They've found a new happiness. Protecting it is the best thing I can do to repay them now. ...Whatever the reason, I hurt them. And I don't think hurting another person is something that can be forgiven.”"
+      "en": "“They've found a new happiness. Protecting it is the best thing I can do to repay them now. ...Whatever the reason, I hurt them. And I don't think hurting another person is something that can be forgiven.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0513",
@@ -2957,7 +3901,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「そうかい」",
-      "en": "“That so?”"
+      "en": "“That so?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0514",
@@ -2966,7 +3920,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は箱のなかの残りの煙草も湿っているのを見て舌打ちしながら握りつぶすと、テーブルの上に無造作に投げ出されていた使いかけのカートンから新しい煙草を取り出した。",
-      "en": "<tips=23>Elliott</tips> discovers that every cigarette left in the pack is damp. He clicks his tongue, crushes the lot, and tosses them aside, then pulls a fresh pack from the open carton lying carelessly on the table."
+      "en": "<tips=23>Elliott</tips> discovers that every cigarette left in the pack is damp. He clicks his tongue, crushes the lot, and tosses them aside, then pulls a fresh pack from the open carton lying carelessly on the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0515",
@@ -2975,7 +3939,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「じゃあ、<tips=21>八龍会</tips>に頼るのか？」",
-      "en": "“Then you'll go back to the <tips=21>Dragon Club</tips>?”"
+      "en": "“Then you'll go back to the <tips=21>Dragon Club</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0516",
@@ -2984,7 +3958,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「それはもっといやです」",
-      "en": "“I want that even less.”"
+      "en": "“I want that even less.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0517",
@@ -2993,7 +3977,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は強い口調で首を振る。",
-      "en": "<tips=82>Hiromi</tips> shakes her head, her voice suddenly fierce."
+      "en": "<tips=82>Hiromi</tips> shakes her head, her voice suddenly fierce.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0518",
@@ -3002,7 +3996,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「やっぱり、あの人たちは許せません。……みんなをあんな風に殺したりして。職員の人たちは普通に暮らしていただけなのに。あの人たちだって、大事な家族がいたのに。それに、とっても私に優しくしてくれたし……」",
-      "en": "“I can't forgive those people. ...They murdered everyone like that. The staff were only living ordinary lives. They had families they loved too. And they were so kind to me...”"
+      "en": "“I can't forgive those people. ...They murdered everyone like that. The staff were only living ordinary lives. They had families they loved too. And they were so kind to me...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0519",
@@ -3011,7 +4015,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「そうかい。まあ、<tips=21>八龍会</tips>と関わらないのは正解だろうよ」",
-      "en": "“I see. Well, staying clear of the <tips=21>Dragon Club</tips> is probably the smart choice.”"
+      "en": "“I see. Well, staying clear of the <tips=21>Dragon Club</tips> is probably the smart choice.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0520",
@@ -3020,7 +4034,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は新しい煙草に火をつけ、肺一杯に煙を吸い込む。",
-      "en": "<tips=23>Elliott</tips> lights the fresh cigarette and draws the smoke deep into his lungs."
+      "en": "<tips=23>Elliott</tips> lights the fresh cigarette and draws the smoke deep into his lungs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0521",
@@ -3029,7 +4053,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「お前さんたちに使った薬は今はあの連中が独占してるが、どうせすぐ世間に出回るようになる。……だが、当面は苦しいだろうな。<tips=21>八龍会</tips>に入らないにしても、薬の入手法はおさえておいたほうがいい」",
-      "en": "“They've got a monopoly on the drug they gave you, but it won't last. Sooner or later, it'll spread beyond them. ...Until then, life could get rough. Even if you don't join the <tips=21>Dragon Club</tips>, you'd better keep some way of getting the medicine.”"
+      "en": "“They've got a monopoly on the drug they gave you, but it won't last. Sooner or later, it'll spread beyond them. ...Until then, life could get rough. Even if you don't join the <tips=21>Dragon Club</tips>, you'd better keep some way of getting the medicine.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0522",
@@ -3038,7 +4072,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「薬のことは、いいんです。……別に、症状がなくなったからって良くなったことなんか何もないし」",
-      "en": "“I don't care about the medicine. ...Losing the symptoms didn't make anything better.”"
+      "en": "“I don't care about the medicine. ...Losing the symptoms didn't make anything better.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0523",
@@ -3047,7 +4091,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は唇を噛んで俯く。<tips=23>エリオット</tips>は煙草をふかしたまま何も言わない。",
-      "en": "<tips=82>Hiromi</tips> bites her lip and looks down. <tips=23>Elliott</tips> smokes in silence."
+      "en": "<tips=82>Hiromi</tips> bites her lip and looks down. <tips=23>Elliott</tips> smokes in silence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0524",
@@ -3056,7 +4110,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ここに居座ろうと思ってるんならそれは困るぜ」",
-      "en": "“If you're planning to move in here, we've got a problem.”"
+      "en": "“If you're planning to move in here, we've got a problem.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0525",
@@ -3065,7 +4129,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「そうは考えていません」",
-      "en": "“I'm not.”"
+      "en": "“I'm not.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0526",
@@ -3074,7 +4148,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「じゃあどうするんだい？」",
-      "en": "“Then what are you going to do?”"
+      "en": "“Then what are you going to do?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0527",
@@ -3083,7 +4167,17 @@
       "sj": "",
       "se": "",
       "jp": "　気のない<tips=23>エリオット</tips>の質問に、<tips=82>広美</tips>はすっと顔を上げ、",
-      "en": "At <tips=23>Elliott</tips>'s idle question, <tips=82>Hiromi</tips> raises her face."
+      "en": "At <tips=23>Elliott</tips>'s idle question, <tips=82>Hiromi</tips> raises her face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0528",
@@ -3092,7 +4186,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「私、病院で殺された人の仕返しをします」",
-      "en": "“I'm going to avenge the people who were killed at the hospital.”"
+      "en": "“I'm going to avenge the people who were killed at the hospital.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0529",
@@ -3101,7 +4205,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「え？」",
-      "en": "“Come again?”"
+      "en": "“Come again?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0530",
@@ -3110,7 +4224,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「<tips=47>解放軍</tips>だとかいう人たちをやっつけます。それが、私がしなくちゃいけないことなんです。だって、最後まで私のことを心配してくれてたんですよ？　鉄砲でおどされながら、おしめもかえてくれて……。それは仕事ってだけじゃないはずです。私はその気持ちにこたえなきゃいけない……」",
-      "en": "“I'm going to take down the people who call themselves the <tips=47>Liberation Army</tips>. That's what I have to do. They worried about me right to the end. They changed my diaper with guns pointed at them... That couldn't have been just a job. I have to answer what they did for me...”"
+      "en": "“I'm going to take down the people who call themselves the <tips=47>Liberation Army</tips>. That's what I have to do. They worried about me right to the end. They changed my diaper with guns pointed at them... That couldn't have been just a job. I have to answer what they did for me...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0531",
@@ -3119,7 +4243,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「お、おいおい」",
-      "en": "“Whoa, now.”"
+      "en": "“Whoa, now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0532",
@@ -3128,7 +4262,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は思わず唇の端から落としかけた煙草を空中でキャッチして、またくわえなおすと、",
-      "en": "The cigarette nearly drops from <tips=23>Elliott</tips>'s mouth. He snatches it out of the air and sticks it back between his lips."
+      "en": "The cigarette nearly drops from <tips=23>Elliott</tips>'s mouth. He snatches it out of the air and sticks it back between his lips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0533",
@@ -3137,7 +4281,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「仕返しってどういうことだ？　やっつけるって何をするつもりだよ」",
-      "en": "“What exactly do you mean by ‘avenge’? What are you planning to do when you ‘take them down’?”"
+      "en": "“What exactly do you mean by ‘avenge’? What are you planning to do when you ‘take them down’?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0534",
@@ -3146,7 +4300,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「刃物でも、なんでも……とにかく、病院の人たちにしたことをするんです。命をかけて。それが私がいましなくちゃいけない一つのことなんです」",
-      "en": "“A knife, or anything... I'll do to them what they did to the people at the hospital. I'll risk my life. It's the one thing I have to do now.”"
+      "en": "“A knife, or anything... I'll do to them what they did to the people at the hospital. I'll risk my life. It's the one thing I have to do now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0535",
@@ -3155,7 +4319,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は言うと、目に涙をにじませる。",
-      "en": "Tears gather in <tips=82>Hiromi</tips>'s eyes as she speaks."
+      "en": "Tears gather in <tips=82>Hiromi</tips>'s eyes as she speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0536",
@@ -3164,7 +4338,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「出来なくて、逆に殺されてしまうかもしれないけど、それでもいいんです。もう決めたんですから。とにかく、やるってことが大事なんです」",
-      "en": "“I might fail. They might kill me instead. That's all right. I've decided. What matters is that I try.”"
+      "en": "“I might fail. They might kill me instead. That's all right. I've decided. What matters is that I try.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0537",
@@ -3173,7 +4357,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「本気か？」",
-      "en": "“You're serious?”"
+      "en": "“You're serious?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0538",
@@ -3182,7 +4376,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「本気です」",
-      "en": "“I am.”"
+      "en": "“I am.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0539",
@@ -3191,7 +4395,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「あきれたな」",
-      "en": "“Well, I'll be damned.”"
+      "en": "“Well, I'll be damned.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0540",
@@ -3200,7 +4414,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は肩をすくめる。",
-      "en": "<tips=23>Elliott</tips> shrugs."
+      "en": "<tips=23>Elliott</tips> shrugs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0541",
@@ -3209,7 +4433,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「絶対に無理ですか？」",
-      "en": "“Is it completely impossible?”"
+      "en": "“Is it completely impossible?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0542",
@@ -3218,7 +4452,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「無理だ……と言ってやってもいいが、嘘は好きじゃないんだ。……正直に言ってやろう。誰をやりたいのか知らないが、やり方次第でどうにでもなる。はっきり言って人を殺すことなんて簡単なんだ。まさか<tips=21>八龍会</tips>の連中もお前が殺しに来るだなんて思っちゃいないだろうし、そもそも、あいつらは素人だからな」",
-      "en": "“I could tell you it is, but I don't like lying. ...So here's the truth. I don't know who you want dead, but with the right method, you can manage almost anyone. Killing people is easy. The <tips=21>Dragon Club</tips> would never dream that you were coming to kill one of them. And when it comes down to it, they're amateurs.”"
+      "en": "“I could tell you it is, but I don't like lying. ...So here's the truth. I don't know who you want dead, but with the right method, you can manage almost anyone. Killing people is easy. The <tips=21>Dragon Club</tips> would never dream that you were coming to kill one of them. And when it comes down to it, they're amateurs.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0543",
@@ -3227,7 +4471,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「本当ですか？　じゃあ、そのやり方を教えてください！　かわりに出来ることがあったら、何でもしますから……」",
-      "en": "“Really? Then please teach me how! If there's anything I can do for you, I'll do it. Anything...”"
+      "en": "“Really? Then please teach me how! If there's anything I can do for you, I'll do it. Anything...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0544",
@@ -3236,7 +4490,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はまっすぐ<tips=23>エリオット</tips>の目を見つめて言う。",
-      "en": "<tips=82>Hiromi</tips> looks straight into <tips=23>Elliott</tips>'s eyes."
+      "en": "<tips=82>Hiromi</tips> looks straight into <tips=23>Elliott</tips>'s eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0545",
@@ -3245,7 +4509,17 @@
       "sj": "",
       "se": "",
       "jp": "　客観的に見れば今の<tips=23>エリオット</tips>の言葉も相当無茶な話に聞こえるはずだが、彼女には人を疑うという発想自体がなく、そのまま信じてしまうのだ。",
-      "en": "From any objective standpoint, <tips=23>Elliott</tips>'s claim sounds almost as mad as her plan. But the idea of doubting someone barely exists in her. She takes him at his word."
+      "en": "From any objective standpoint, <tips=23>Elliott</tips>'s claim sounds almost as mad as her plan. But the idea of doubting someone barely exists in her. She takes him at his word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0546",
@@ -3254,7 +4528,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は苦い顔をし、",
-      "en": "<tips=23>Elliott</tips> grimaces."
+      "en": "<tips=23>Elliott</tips> grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0547",
@@ -3263,7 +4547,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「一応言っておくが、人殺しなんかくだらないぜ。殺せたっていいことなんかない」",
-      "en": "“For the record, killing is a stupid business. Even if you pull it off, nothing good comes of it.”"
+      "en": "“For the record, killing is a stupid business. Even if you pull it off, nothing good comes of it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0548",
@@ -3272,7 +4566,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「でも」",
-      "en": "“But...”"
+      "en": "“But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0549",
@@ -3281,7 +4585,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「なあ、この社会で人を殺すってことはな、自分も人に殺されてもいいような存在になるってことなんだよ。人を殺した時点でそいつの命の価値はゴミクズになる。殺人者ってのはそういうもんだ」",
-      "en": "“Listen. Kill someone in this society, and you become the kind of person anyone else is free to kill. The moment you murder, your own life isn't worth garbage. That's what being a killer means.”"
+      "en": "“Listen. Kill someone in this society, and you become the kind of person anyone else is free to kill. The moment you murder, your own life isn't worth garbage. That's what being a killer means.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0550",
@@ -3290,7 +4604,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「……正しい理由があっても？」",
-      "en": "“...Even if the reason is right?”"
+      "en": "“...Even if the reason is right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0551",
@@ -3299,7 +4623,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「正しかろうが悪かろうが一緒だよ。たとえ自分の身を守るための殺人でも、その殺しで英雄と讃えられようとね。これは道徳の話じゃない。やむをえない状況だとしても、自分の手が誰かを殺せるってことを知ってしまった時点でそいつの本質は変わるんだ」",
-      "en": "“Right, wrong—makes no difference. You could kill to save your own skin. They could hail you as a hero for it. This isn't about morals. Even if you had no choice, the moment you learn your own hands can take a life, something at the core of you changes.”"
+      "en": "“Right, wrong—makes no difference. You could kill to save your own skin. They could hail you as a hero for it. This isn't about morals. Even if you had no choice, the moment you learn your own hands can take a life, something at the core of you changes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0552",
@@ -3308,7 +4642,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「よく、わかりません」",
-      "en": "“I don't really understand.”"
+      "en": "“I don't really understand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0553",
@@ -3317,7 +4661,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「だろうね。でも、わかってからじゃ遅いのさ」",
-      "en": "“Didn't think you would. By the time you do, it'll be too late.”"
+      "en": "“Didn't think you would. By the time you do, it'll be too late.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0554",
@@ -3326,7 +4680,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「……あなたは、人を殺したことがあるんですか？」",
-      "en": "“...Have you killed people?”"
+      "en": "“...Have you killed people?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0555",
@@ -3335,7 +4699,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ああ、あるとも。だからおれも人殺しのゴミクズだ。……そんなおれの目から見れば、お前さんの命はピカピカ輝いているように見えるぜ。それを大事にすべきだと思うね。どうせ<tips=47>解放軍</tips>の連中は何もしなくてもこの先どんどん死んでゆく。この街はゴミクズだらけだからな。そうやってゴミクズ同志が永遠に殺し合ってればいいのさ。お前さんはどこかでひっそり暮らしてその馬鹿げた争いを笑って見ていれば、それで充分な復讐じゃないか」",
-      "en": "“Plenty. That makes me murderous garbage too. ...And from where I'm standing, your life looks bright enough to blind me. You ought to hang on to it. The <tips=47>Liberation Army</tips> will keep dying whether you lift a finger or not. This City is full of garbage. Let the garbage kill each other forever. You go live quietly somewhere and laugh at their stupid little war. Isn't that revenge enough?”"
+      "en": "“Plenty. That makes me murderous garbage too. ...And from where I'm standing, your life looks bright enough to blind me. You ought to hang on to it. The <tips=47>Liberation Army</tips> will keep dying whether you lift a finger or not. This City is full of garbage. Let the garbage kill each other forever. You go live quietly somewhere and laugh at their stupid little war. Isn't that revenge enough?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0556",
@@ -3344,7 +4718,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「そんなの、いやです」",
-      "en": "“I don't want that.”"
+      "en": "“I don't want that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0557",
@@ -3353,7 +4737,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は<tips=23>エリオット</tips>の忠告に従うつもりはないようだった。",
-      "en": "<tips=82>Hiromi</tips> plainly has no intention of taking <tips=23>Elliott</tips>'s advice."
+      "en": "<tips=82>Hiromi</tips> plainly has no intention of taking <tips=23>Elliott</tips>'s advice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0558",
@@ -3362,7 +4756,17 @@
       "sj": "",
       "se": "",
       "jp": "　絶対に復讐をすると言ってきかない。",
-      "en": "Nothing he says will shake her determination to take revenge."
+      "en": "Nothing he says will shake her determination to take revenge.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0559",
@@ -3371,7 +4775,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「いいんです。もしあなたの言う通りだとしても、どうせ私には最初から価値なんかなかったんですから」",
-      "en": "“It doesn't matter. Even if you're right, my life never had any value to begin with.”"
+      "en": "“It doesn't matter. Even if you're right, my life never had any value to begin with.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0560",
@@ -3380,7 +4794,17 @@
       "sj": "",
       "se": "",
       "jp": "　最後は涙目になってそう言った。",
-      "en": "Her eyes fill as she reaches the final words."
+      "en": "Her eyes fill as she reaches the final words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0561",
@@ -3389,7 +4813,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「馬鹿言うな。この世の中には最初から価値がない人間なんかいやしない」",
-      "en": "“Don't talk like an idiot. Nobody comes into this world worthless.”"
+      "en": "“Don't talk like an idiot. Nobody comes into this world worthless.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0562",
@@ -3398,7 +4832,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は火をつけたばかりの煙草を灰皿に押しつける。",
-      "en": "<tips=23>Elliott</tips> crushes the cigarette he has only just lit into the ashtray."
+      "en": "<tips=23>Elliott</tips> crushes the cigarette he has only just lit into the ashtray.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0563",
@@ -3407,7 +4851,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「わかった。好きにすればいい。だが、このままじゃお前はただ自殺しに行くようなもんだぞ」",
-      "en": "“Fine. Do what you want. But as you are now, all you'd be doing is committing suicide.”"
+      "en": "“Fine. Do what you want. But as you are now, all you'd be doing is committing suicide.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0564",
@@ -3416,7 +4870,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「さっきは、出来るかもしれないって……」",
-      "en": "“But you said I might be able to...”"
+      "en": "“But you said I might be able to...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0565",
@@ -3425,7 +4889,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「それは、しかるべき準備をすればの話だ。プロが計画を立て、何日か簡単な訓練をすれば難しくない。……そのあてがあるのか？　あるわけないよな」",
-      "en": "“If you prepare properly. Let a professional make the plan and give you a few days of basic training, and it won't be hard. ...Got a professional handy? Didn't think so.”"
+      "en": "“If you prepare properly. Let a professional make the plan and give you a few days of basic training, and it won't be hard. ...Got a professional handy? Didn't think so.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0566",
@@ -3434,7 +4908,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「……でも……」",
-      "en": "“...But...”"
+      "en": "“...But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0567",
@@ -3443,7 +4927,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は涙でキラキラと光る目を<tips=23>エリオット</tips>に向ける。彼はニヤリと笑って、",
-      "en": "<tips=82>Hiromi</tips> looks at <tips=23>Elliott</tips> through eyes bright with tears. He grins."
+      "en": "<tips=82>Hiromi</tips> looks at <tips=23>Elliott</tips> through eyes bright with tears. He grins.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0568",
@@ -3452,7 +4946,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「それなら、ここにいるプロが指導してやろう。この見知らぬ外国人を信じるか？　信じないか？　選ぶのはお前さん次第で……」",
-      "en": "“Then I suppose the professional sitting right here could train you. Do you trust this foreign stranger? Or don't you? The choice is—”"
+      "en": "“Then I suppose the professional sitting right here could train you. Do you trust this foreign stranger? Or don't you? The choice is—”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0569",
@@ -3461,7 +4965,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「お願いしますっ！」",
-      "en": "“Please!”"
+      "en": "“Please!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0570",
@@ -3470,7 +4984,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>の言葉が終わらないうちに、<tips=82>広美</tips>はテーブルに額がつきそうなくらい頭を下げてそう言った。",
-      "en": "Before <tips=23>Elliott</tips> can finish, <tips=82>Hiromi</tips> bows until her forehead nearly touches the table."
+      "en": "Before <tips=23>Elliott</tips> can finish, <tips=82>Hiromi</tips> bows until her forehead nearly touches the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0579",
@@ -3524,7 +5048,8 @@
       "sj": "",
       "se": "",
       "jp": "　さて、久しぶりに酒を飲んで寝る以外の行動をすることとなった<tips=23>エリオット</tips>は、まず情報集めを行った。",
-      "en": "And so, for the first time in years, <tips=23>Elliott</tips> does something besides drink and sleep. He begins by gathering information."
+      "en": "And so, for the first time in years, <tips=23>Elliott</tips> does something besides drink and sleep. He begins by gathering information.",
+      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
     },
     {
       "id": "X15-2:0592",
@@ -3578,7 +5103,8 @@
       "sj": "",
       "se": "",
       "jp": "　一方、<tips=82>広美</tips>への教育も同時に行った。",
-      "en": "At the same time, he trains <tips=82>Hiromi</tips>."
+      "en": "At the same time, he trains <tips=82>Hiromi</tips>.",
+      "bg": "assets/vn/backgrounds/bg-00b49b7339de.webp"
     },
     {
       "id": "X15-2:0604",
@@ -3605,7 +5131,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「よし、大体使い方を覚えたようだな。これだけ出来れば十分だ。実際はもっと近づいてから撃つような計画を立てるから、当てること自体は簡単だ。……ただ、人間を冷静に撃ち抜くことは慣れが必要だ。次からは慣れるための訓練を行う」",
-      "en": "“Good. You've got the basics. This is more than enough. The plan will put you much closer than this, so hitting the target won't be the hard part. ...But calmly putting a bullet through a human being takes practice. From here on, we'll train you to get used to that.”"
+      "en": "“Good. You've got the basics. This is more than enough. The plan will put you much closer than this, so hitting the target won't be the hard part. ...But calmly putting a bullet through a human being takes practice. From here on, we'll train you to get used to that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0607",
@@ -3614,7 +5146,13 @@
       "sj": "",
       "se": "",
       "jp": "　はしゃぐ<tips=82>広美</tips>に、<tips=23>エリオット</tips>はそうやってたしなめ、その次からは空き缶ではなく人型を描いた板の中心部分を撃ち抜く練習に切り換えた。",
-      "en": "<tips=82>Hiromi</tips> is almost giddy with success, but <tips=23>Elliott</tips>'s words sober her. From the next session on, he replaces the cans with boards painted like human figures and has her shoot through the center."
+      "en": "<tips=82>Hiromi</tips> is almost giddy with success, but <tips=23>Elliott</tips>'s words sober her. From the next session on, he replaces the cans with boards painted like human figures and has her shoot through the center.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0616",
@@ -3632,7 +5170,8 @@
       "sj": "",
       "se": "",
       "jp": "　酒場で飲んで情報収集をしている時のことである。ターゲットである<tips=10>見土道夫</tips>の方が仲間を引き連れてやって来た。",
-      "en": "It happens while Elliott is drinking in a bar and quietly gathering information. His target, <tips=10>Michio Mido</tips>, walks in with several companions."
+      "en": "It happens while Elliott is drinking in a bar and quietly gathering information. His target, <tips=10>Michio Mido</tips>, walks in with several companions.",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
     },
     {
       "id": "X15-2:0625",
@@ -3695,7 +5234,14 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「狙いは<tips=10>見土道夫</tips>ただ一人だ。病院襲撃のリーダー、つまり、あんたの大好きなノウミさんとやらの死はこいつに全責任がある。現場には他にもむかつくやつがいるかもしれないが、それには目もくれるな。標的を仕留めたらすぐに脱出しろ。でなければお前が生還することは不可能だ」",
-      "en": "“Your target is <tips=10>Michio Mido</tips>. Nobody else. He led the hospital attack, so the death of this beloved Ms. Noumi of yours is entirely on him. You may see other people there who make your blood boil. Ignore them. The instant the target is down, get out. If you don't, you will not come back alive.”"
+      "en": "“Your target is <tips=10>Michio Mido</tips>. Nobody else. He led the hospital attack, so the death of this beloved Ms. Noumi of yours is entirely on him. You may see other people there who make your blood boil. Ignore them. The instant the target is down, get out. If you don't, you will not come back alive.”",
+      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0646",
@@ -3704,7 +5250,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>はその図面を広げながら<tips=82>広美</tips>に説明をした。",
-      "en": "<tips=23>Elliott</tips> spreads out the floor plan and walks <tips=82>Hiromi</tips> through the operation."
+      "en": "<tips=23>Elliott</tips> spreads out the floor plan and walks <tips=82>Hiromi</tips> through the operation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0647",
@@ -3713,7 +5265,13 @@
       "sj": "",
       "se": "",
       "jp": "　作戦を立て、訓練はするが当日は手を貸さないという約束である。",
-      "en": "Their agreement is that he will train her and devise the plan, but provide no help on the day itself."
+      "en": "Their agreement is that he will train her and devise the plan, but provide no help on the day itself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0648",
@@ -3722,7 +5280,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「特別な設備のない普通の住宅だ。周りには高い建物もいくつかある。本来ならばそこから狙撃をするのがベストだがお前さんにはその技術がない。なかに潜入して至近距離でやるのが一番確実だ」",
-      "en": "“It's an ordinary house without special security. There are several tall buildings nearby. Normally, the cleanest option would be a sniper shot from one of them, but you don't have the skill. Your best chance is to get inside and shoot him at point-blank range.”"
+      "en": "“It's an ordinary house without special security. There are several tall buildings nearby. Normally, the cleanest option would be a sniper shot from one of them, but you don't have the skill. Your best chance is to get inside and shoot him at point-blank range.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0649",
@@ -3731,7 +5295,13 @@
       "sj": "",
       "se": "",
       "jp": "　初めて具体的な作戦を聞かされ、<tips=82>広美</tips>は緊張しながらごくりと生唾を飲み込んだ。",
-      "en": "Hearing a real plan for the first time, <tips=82>Hiromi</tips> swallows hard."
+      "en": "Hearing a real plan for the first time, <tips=82>Hiromi</tips> swallows hard.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0650",
@@ -3740,7 +5310,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「<tips=21>八龍会</tips>には街を出ていったものたちを調査する能力がなく、患者たちのその後のことは把握していない。だからお前さんは、無事家族のところへ戻れたから、その感謝のために<tips=10>見土道夫</tips>に花束を渡しに来たという設定で会場に入る。その花束のなかに拳銃を仕込むんだ」",
-      "en": "“The <tips=21>Dragon Club</tips> can't track people once they leave the City. They have no idea what happened to the patients who went home. So your story is that you made it safely back to your family, and you've come to thank <tips=10>Michio Mido</tips> with a bouquet. The gun goes inside the flowers.”"
+      "en": "“The <tips=21>Dragon Club</tips> can't track people once they leave the City. They have no idea what happened to the patients who went home. So your story is that you made it safely back to your family, and you've come to thank <tips=10>Michio Mido</tips> with a bouquet. The gun goes inside the flowers.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0651",
@@ -3749,7 +5325,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>と対照的に<tips=23>エリオット</tips>は普段と変わらないゆったりとした態度で、煙草をくゆらせながら話している。",
-      "en": "<tips=82>Hiromi</tips> sits rigid with nerves. <tips=23>Elliott</tips> speaks with his usual lazy ease, cigarette smoke curling around him."
+      "en": "<tips=82>Hiromi</tips> sits rigid with nerves. <tips=23>Elliott</tips> speaks with his usual lazy ease, cigarette smoke curling around him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0652",
@@ -3758,7 +5340,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「誰かが花束を預かると言っても、絶対に<tips=10>見土道夫</tips>に直接渡したいと主張するんだ。何しろ大切な恩人への感謝の気持ちだからな。そうして渡す場面になったら引き金を引く。銃はその場で捨てろ。銃はおれの独自ルートで仕入れるから、拾われても足はつかない」",
-      "en": "“If anyone offers to take the bouquet for you, insist on giving it to <tips=10>Michio Mido</tips> yourself. These are your heartfelt thanks to a cherished benefactor, after all. When you go to hand it over, pull the trigger. Drop the gun with the flowers. I'll get it through one of my own channels, so even if they recover it, it won't lead back to us.”"
+      "en": "“If anyone offers to take the bouquet for you, insist on giving it to <tips=10>Michio Mido</tips> yourself. These are your heartfelt thanks to a cherished benefactor, after all. When you go to hand it over, pull the trigger. Drop the gun with the flowers. I'll get it through one of my own channels, so even if they recover it, it won't lead back to us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0653",
@@ -3767,7 +5355,13 @@
       "sj": "",
       "se": "",
       "jp": "　それから彼は図面を指でさして、逃走のためのルートを伝える。",
-      "en": "Then his finger moves across the floor plan, tracing the escape routes."
+      "en": "Then his finger moves across the floor plan, tracing the escape routes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0654",
@@ -3776,7 +5370,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「こういうゆるい場所への潜入は目的達成まではそう難しくないが、警備の決まり事がない分紛れが多く安全な脱出が難しい。いくつかルートはあるが、そのなかから最適と思われるルートをその場で判断するんだ。状況ごとの判断基準はこれからみっちりとたたき込むからな。……そして建物を出たらそのまま街を出ろ。信頼出来る人間を用意している。そいつが安全なところまで送ってくれるから、あとは好きに暮らすんだ」",
-      "en": "“Getting into a place this loose won't be hard. Getting out is the dangerous part. No fixed security rules means more chaos and more ways for something unexpected to happen. You've got several routes. You'll have to judge which one is best on the spot. Between now and then, I'm going to drill the rules for each situation into your head. ...Once you're outside, leave the City immediately. I've arranged someone I trust. They'll take you somewhere safe. After that, live however you want.”"
+      "en": "“Getting into a place this loose won't be hard. Getting out is the dangerous part. No fixed security rules means more chaos and more ways for something unexpected to happen. You've got several routes. You'll have to judge which one is best on the spot. Between now and then, I'm going to drill the rules for each situation into your head. ...Once you're outside, leave the City immediately. I've arranged someone I trust. They'll take you somewhere safe. After that, live however you want.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0655",
@@ -3785,7 +5385,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「安全なところって？」",
-      "en": "“Where is somewhere safe?”"
+      "en": "“Where is somewhere safe?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0656",
@@ -3794,7 +5404,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「その時になればわかる」",
-      "en": "“You'll find out when it's time.”"
+      "en": "“You'll find out when it's time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0657",
@@ -3803,7 +5423,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「……」",
-      "en": "“...”"
+      "en": "“...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0658",
@@ -3812,7 +5442,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「おれは当日会場を見下ろせる場所から<tips=10>見土</tips>の動きを見て、お前さんが潜入するタイミングを指示する。手を貸すのはそこまでだ。そこから先は一人でやるんだ。たとえ失敗しても何もしない。お前さんの復讐だからな」",
-      "en": "“On the day, I'll watch <tips=10>Mido</tips> from somewhere overlooking the venue and tell you when to go in. That's as far as my help goes. After that, you're alone. If you fail, I do nothing. It's your revenge.”"
+      "en": "“On the day, I'll watch <tips=10>Mido</tips> from somewhere overlooking the venue and tell you when to go in. That's as far as my help goes. After that, you're alone. If you fail, I do nothing. It's your revenge.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0659",
@@ -3821,7 +5461,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「大丈夫です。こんなにいろいろしてくれて、ありがとうございます」",
-      "en": "“I'll be all right. Thank you for doing so much for me.”"
+      "en": "“I'll be all right. Thank you for doing so much for me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0660",
@@ -3830,7 +5480,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>が礼儀正しく頭を下げると、<tips=23>エリオット</tips>は無表情のまま鼻を掻き、",
-      "en": "<tips=82>Hiromi</tips> bows with perfect manners. <tips=23>Elliott</tips> scratches his nose without changing expression."
+      "en": "<tips=82>Hiromi</tips> bows with perfect manners. <tips=23>Elliott</tips> scratches his nose without changing expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0661",
@@ -3839,7 +5499,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「最終確認だ。失敗すれば死ぬ。成功しても得るものはなく、殺人者の肩書きを得るだけのばかげた作戦だ。おれならこんなことはしないが、それでもやるんだな？」",
-      "en": "“Last chance. Fail and you die. Succeed and you gain nothing but the name ‘murderer.’ It's a stupid plan. I wouldn't do it. You still want to go through with this?”"
+      "en": "“Last chance. Fail and you die. Succeed and you gain nothing but the name ‘murderer.’ It's a stupid plan. I wouldn't do it. You still want to go through with this?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0662",
@@ -3848,7 +5518,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「はい」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0663",
@@ -3857,7 +5537,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は間をおかずに<tips=23>エリオット</tips>の目を見つめながらそう答えた。",
-      "en": "<tips=82>Hiromi</tips> meets <tips=23>Elliott</tips>'s eyes and answers without a heartbeat's pause."
+      "en": "<tips=82>Hiromi</tips> meets <tips=23>Elliott</tips>'s eyes and answers without a heartbeat's pause.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0664",
@@ -3866,7 +5556,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「無意味なことをするもんだ。後悔するぜ」",
-      "en": "“All this for nothing. You'll regret it.”"
+      "en": "“All this for nothing. You'll regret it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0665",
@@ -3875,7 +5575,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「変なこといいますね」",
-      "en": "“That's funny, coming from you.”"
+      "en": "“That's funny, coming from you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0666",
@@ -3884,7 +5594,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は首をかしげる。",
-      "en": "<tips=82>Hiromi</tips> tilts her head."
+      "en": "<tips=82>Hiromi</tips> tilts her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0667",
@@ -3893,7 +5613,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「何が」",
-      "en": "“What is?”"
+      "en": "“What is?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0668",
@@ -3902,7 +5632,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「<tips=23>エリオット</tips>さんだって、なんの得もないのに、私にこうまでしてくれてるじゃないですか」",
-      "en": "“You aren't getting anything out of this either, Mr. <tips=23>Elliott</tips>. But you've done all this for me.”"
+      "en": "“You aren't getting anything out of this either, Mr. <tips=23>Elliott</tips>. But you've done all this for me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0669",
@@ -3911,7 +5651,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ふん」",
-      "en": "“Hmph.”"
+      "en": "“Hmph.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0670",
@@ -3920,7 +5670,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>はつまらなそうに肩をすくめて、",
-      "en": "<tips=23>Elliott</tips> gives a bored shrug."
+      "en": "<tips=23>Elliott</tips> gives a bored shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0671",
@@ -3929,7 +5689,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「おれはいいのさ。バーで朝から酒を飲むのも、こうしてお前さんの自殺を手伝うのも、どっちも大して変わりはしないからな」",
-      "en": "“I'm different. Drinking from morning till night, helping you kill yourself—doesn't make much difference to me.”"
+      "en": "“I'm different. Drinking from morning till night, helping you kill yourself—doesn't make much difference to me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0679",
@@ -4019,7 +5789,8 @@
       "sj": "",
       "se": "",
       "jp": "　建物に入るころまでは心臓がバクバクし、目眩がしそうだったが、実際<tips=10>道夫</tips>の目の前に立つと思いのほか冷静だった。",
-      "en": "Until she entered the building, her heart pounded so violently she thought she might faint. Now that she is standing before <tips=10>Michio</tips>, she is strangely calm."
+      "en": "Until she entered the building, her heart pounded so violently she thought she might faint. Now that she is standing before <tips=10>Michio</tips>, she is strangely calm.",
+      "bg": "assets/vn/backgrounds/bg-2f08946f7a7f.webp"
     },
     {
       "id": "X15-2:0697",
@@ -4118,7 +5889,8 @@
       "sj": "",
       "se": "",
       "jp": "　階段を下りたところで、<tips=47>解放軍</tips>の女幹部であり、あの日も病院にいた人物――<tips=67>カミラ</tips>が立っていた。",
-      "en": "At the foot of the stairs stands an executive of the <tips=47>Liberation Army</tips>, one of the people who was at the hospital that day: <tips=67>Camilla</tips>."
+      "en": "At the foot of the stairs stands an executive of the <tips=47>Liberation Army</tips>, one of the people who was at the hospital that day: <tips=67>Camilla</tips>.",
+      "bg": "assets/vn/backgrounds/bg-6e94f4771693.webp"
     },
     {
       "id": "X15-2:0720",
@@ -4127,7 +5899,13 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「花束は渡せた？」",
-      "en": "“Did you deliver the flowers?”"
+      "en": "“Did you deliver the flowers?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0721",
@@ -4136,7 +5914,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>がそう訊ねるのに、",
-      "en": "<tips=67>Camilla</tips> asks."
+      "en": "<tips=67>Camilla</tips> asks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0722",
@@ -4145,7 +5929,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい、喜んでくれました」",
-      "en": "“Yes. He loved them.”"
+      "en": "“Yes. He loved them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0723",
@@ -4154,7 +5944,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は平然とした笑顔で言った。",
-      "en": "<tips=82>Hiromi</tips> answers with an easy smile."
+      "en": "<tips=82>Hiromi</tips> answers with an easy smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0724",
@@ -4163,7 +5959,13 @@
       "sj": "",
       "se": "",
       "jp": "　誰がどう見ても、いま人を殺したとは思えない表情だった。",
-      "en": "No one looking at her could imagine she had just killed a man."
+      "en": "No one looking at her could imagine she had just killed a man.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0725",
@@ -4172,7 +5974,13 @@
       "sj": "",
       "se": "",
       "jp": "　その顔をいくら見ても、誰にも彼女が嘘をついているとは見抜けなかっただろう。しかし、<tips=82>広美</tips>は一つミスをしていた。自分の白いスカートの端に<tips=10>道夫</tips>の血が付着しているのに気がついていなかったのだ。",
-      "en": "No study of her face would reveal the lie. But <tips=82>Hiromi</tips> has made one mistake. She has not noticed <tips=10>Michio</tips>'s blood on the hem of her white skirt."
+      "en": "No study of her face would reveal the lie. But <tips=82>Hiromi</tips> has made one mistake. She has not noticed <tips=10>Michio</tips>'s blood on the hem of her white skirt.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0727",
@@ -4181,7 +5989,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>はそれを見て顔色を変える。",
-      "en": "The instant <tips=67>Camilla</tips> sees it, her face changes."
+      "en": "The instant <tips=67>Camilla</tips> sees it, her face changes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0728",
@@ -4190,7 +6004,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>はその表情の変化を見て、それによって視線の先の血に気がつき、すぐに駆け出す。",
-      "en": "<tips=82>Hiromi</tips> sees the change, follows her gaze to the blood, and breaks into a run."
+      "en": "<tips=82>Hiromi</tips> sees the change, follows her gaze to the blood, and breaks into a run.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0729",
@@ -4199,7 +6019,13 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「誰か、その子を捕まえて！」",
-      "en": "“Someone grab that girl!”"
+      "en": "“Someone grab that girl!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-55cca8f85439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0730",
@@ -4208,7 +6034,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>はそう叫んでから、自分は階段の上の<tips=10>道夫</tips>の元へ向かった。",
-      "en": "After shouting the order, <tips=67>Camilla</tips> races upstairs toward <tips=10>Michio</tips>."
+      "en": "After shouting the order, <tips=67>Camilla</tips> races upstairs toward <tips=10>Michio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-55cca8f85439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0739",
@@ -4235,7 +6067,8 @@
       "sj": "",
       "se": "",
       "jp": "　けれど、通りに出て直線になるとそれもかなわない。",
-      "en": "The moment she reaches the street and the chase becomes a straight line, that advantage disappears."
+      "en": "The moment she reaches the street and the chase becomes a straight line, that advantage disappears.",
+      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
     },
     {
       "id": "X15-2:0747",
@@ -4262,7 +6095,13 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「やめてっ！」",
-      "en": "“Let go!”"
+      "en": "“Let go!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0751",
@@ -4271,7 +6110,13 @@
       "sj": "",
       "se": "",
       "jp": "　振り払おうとする<tips=82>広美</tips>の手はもう一人の男に捕まれ、取り押さえられる。",
-      "en": "<tips=82>Hiromi</tips> tries to wrench free. The second man catches her hand, and together they pin her."
+      "en": "<tips=82>Hiromi</tips> tries to wrench free. The second man catches her hand, and together they pin her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0752",
@@ -4280,7 +6125,13 @@
       "sj": "",
       "se": "",
       "jp": "「おい、お前……」",
-      "en": "“Hey, you...”"
+      "en": "“Hey, you...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0755",
@@ -4289,7 +6140,13 @@
       "sj": "",
       "se": "",
       "jp": "　男が血走った目を<tips=82>広美</tips>に向けたとき、その顔面で血がはじけた。",
-      "en": "The man turns bloodshot eyes on <tips=82>Hiromi</tips>. Blood bursts from his face."
+      "en": "The man turns bloodshot eyes on <tips=82>Hiromi</tips>. Blood bursts from his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0758",
@@ -4298,7 +6155,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして次の瞬間には、もう一人の男も血を吹いて倒れている。",
-      "en": "An instant later, blood sprays from the other man and he falls too."
+      "en": "An instant later, blood sprays from the other man and he falls too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0759",
@@ -4307,7 +6170,13 @@
       "sj": "",
       "se": "",
       "jp": "　二人がドサリとその場に倒れた。",
-      "en": "Both bodies hit the ground with heavy thuds."
+      "en": "Both bodies hit the ground with heavy thuds.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X15-2:0760",
@@ -4316,7 +6185,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「よくやったじゃないか」",
-      "en": "“Not bad.”"
+      "en": "“Not bad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0761",
@@ -4325,7 +6204,17 @@
       "sj": "",
       "se": "",
       "jp": "　その声で前を見ると、いつの間にか姿を現した<tips=23>エリオット</tips>が銃を握って笑っていた。",
-      "en": "She looks toward the voice. <tips=23>Elliott</tips> has appeared from nowhere, smiling with a pistol in his hand."
+      "en": "She looks toward the voice. <tips=23>Elliott</tips> has appeared from nowhere, smiling with a pistol in his hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0762",
@@ -4334,7 +6223,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「<tips=23>エリオット</tips>さん、やりました！　私、やりとげたんです！」",
-      "en": "“Mr. <tips=23>Elliott</tips>, I did it! I really did it!”"
+      "en": "“Mr. <tips=23>Elliott</tips>, I did it! I really did it!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0763",
@@ -4343,7 +6242,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=82>広美</tips>は<tips=23>エリオット</tips>に駆けつけると、飛び上がってその身体に抱きついた。",
-      "en": "<tips=82>Hiromi</tips> runs to <tips=23>Elliott</tips>, leaps up, and throws her arms around him."
+      "en": "<tips=82>Hiromi</tips> runs to <tips=23>Elliott</tips>, leaps up, and throws her arms around him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0764",
@@ -4352,7 +6261,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「人生で、なにかを成功させたのはじめて！」",
-      "en": "“I've never succeeded at anything before in my life!”"
+      "en": "“I've never succeeded at anything before in my life!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0765",
@@ -4361,7 +6280,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は返り血で汚れる顔に、今初めての殺人を犯したばかりとは思えない屈託のない笑みを浮かべた。",
-      "en": "Blood spatters her face. Her smile is bright and utterly guileless, impossible for a girl who has just committed her first murder."
+      "en": "Blood spatters her face. Her smile is bright and utterly guileless, impossible for a girl who has just committed her first murder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0766",
@@ -4370,7 +6299,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「お前、意外とセンスがあるのかもな」",
-      "en": "“Maybe you've got a knack for this after all.”"
+      "en": "“Maybe you've got a knack for this after all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0767",
@@ -4379,7 +6318,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は苦笑しながら、子犬のように顔を擦り付けようとする<tips=82>広美</tips>の額を手のひらで押して、その身体を引きはがすと、",
-      "en": "<tips=23>Elliott</tips> smiles ruefully. When <tips=82>Hiromi</tips> tries to nuzzle against him like a puppy, he plants his palm against her forehead and pushes her away."
+      "en": "<tips=23>Elliott</tips> smiles ruefully. When <tips=82>Hiromi</tips> tries to nuzzle against him like a puppy, he plants his palm against her forehead and pushes her away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0768",
@@ -4388,7 +6337,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ようこそ、全てに価値がない世界へ」",
-      "en": "“Welcome to a world where nothing has value.”"
+      "en": "“Welcome to a world where nothing has value.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0769",
@@ -4397,7 +6356,17 @@
       "sj": "",
       "se": "",
       "jp": "　あらためて<tips=82>広美</tips>に左手をさしのべた。",
-      "en": "Then he offers <tips=82>Hiromi</tips> his left hand once more."
+      "en": "Then he offers <tips=82>Hiromi</tips> his left hand once more.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0770",
@@ -4406,7 +6375,17 @@
       "sj": "内田広美（患者のＵ）",
       "se": "U",
       "jp": "「ありがとう」",
-      "en": "“Thank you.”"
+      "en": "“Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0771",
@@ -4415,7 +6394,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は笑みを崩さぬまま、その上に自分の細く小さな指を乗せた。",
-      "en": "Still smiling, she lays her slender fingers in his palm."
+      "en": "Still smiling, she lays her slender fingers in his palm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X15-2:0778",
@@ -4424,7 +6413,8 @@
       "sj": "",
       "se": "",
       "jp": "　そしてそのまま二人は歩き出し、<tips=9>Y地区</tips>の雑踏のなかへ消えて行った。",
-      "en": "Together they walk away and disappear into the crowds of <tips=9>Y District</tips>."
+      "en": "Together they walk away and disappear into the crowds of <tips=9>Y District</tips>.",
+      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
     }
   ]
 }

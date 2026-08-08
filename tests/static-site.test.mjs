@@ -22,6 +22,7 @@ test("reader HTML exposes the required controls and regions", async () => {
     "parallel-mode",
     "english-mode",
     "glossary-link",
+    "reader-portrait-stage",
   ]) {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
@@ -123,6 +124,7 @@ test("repository JSON is pretty-printed for review", async () => {
     new URL("data/index.json", root),
     new URL("data/glossary.json", root),
     new URL("data/scenario-progression.json", root),
+    new URL("data/art-manifest.json", root),
   ];
   const chapterFiles = await readdir(new URL("data/chapters/", root));
   jsonFiles.push(...chapterFiles
@@ -236,6 +238,8 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(app, /glossary-popover-japanese/);
   assert.match(app, /function currentChapterOrder/);
   assert.match(app, /elements\.endNextChapter\.addEventListener/);
+  assert.match(app, /function makeBackgroundFigure/);
+  assert.match(app, /function updatePortraitStage/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
@@ -245,6 +249,37 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(glossary, /\.glossary-id/);
   assert.doesNotMatch(glossary, /unlockLabel|glossary-unlock|glossary-back-link/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
+});
+
+test("reader visual data resolves to exported game artwork", async () => {
+  const manifest = JSON.parse(await readFile(new URL("data/art-manifest.json", root), "utf8"));
+  assert.equal(manifest.missingBackgroundLabels.length, 0);
+  assert.ok(Object.keys(manifest.backgrounds).length > 300);
+  assert.ok(Object.keys(manifest.portraits).length > 300);
+
+  let backgroundChanges = 0;
+  let portraitStates = 0;
+  const artworkPaths = new Set();
+  const chapterFiles = await readdir(new URL("data/chapters/", root));
+  for (const file of chapterFiles.filter((name) => name.endsWith(".json"))) {
+    const payload = JSON.parse(await readFile(new URL(`data/chapters/${file}`, root), "utf8"));
+    for (const line of payload.lines) {
+      if (line.bg) {
+        backgroundChanges += 1;
+        assert.match(line.bg, /^assets\/vn\/backgrounds\/bg-[a-f0-9]{12}\.webp$/);
+        artworkPaths.add(line.bg);
+      }
+      for (const portrait of line.p || []) {
+        portraitStates += 1;
+        assert.match(portrait.u, /^assets\/vn\/portraits\/portrait-[a-f0-9]{12}\.webp$/);
+        assert.ok(["l", "r", "c"].includes(portrait.s));
+        artworkPaths.add(portrait.u);
+      }
+    }
+  }
+  assert.ok(backgroundChanges > 800);
+  assert.ok(portraitStates > 20_000);
+  await Promise.all([...artworkPaths].map((path) => readFile(new URL(path, root))));
 });
 
 test("data builder synchronizes the editorial VN order", async () => {

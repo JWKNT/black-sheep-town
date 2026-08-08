@@ -22,6 +22,7 @@ GAME_SPEAKER_EN_OVERRIDES = {
     "黄天祥": "Wong Tianxiang",
     "サーシェンカ白シャツ": "Sashen'ka",
 }
+TAG_RE = re.compile(r"<[^>]+>")
 
 
 def read_tsv(path: Path) -> list[dict[str, str]]:
@@ -51,9 +52,10 @@ def compact_line(
     source_row: dict[str, str],
     target_row: dict[str, str],
     sequence: int,
+    visual: dict[str, object] | None = None,
 ) -> dict[str, object]:
     speaker_jp, speaker_en = resolve_speaker(source_row, target_row)
-    return {
+    result: dict[str, object] = {
         "id": target_row["line_id"],
         "i": sequence,
         "n": int(target_row["row_index"]),
@@ -62,6 +64,106 @@ def compact_line(
         "jp": target_row.get("jp_text", ""),
         "en": target_row.get("en_text", ""),
     }
+    if visual:
+        result.update(visual)
+    return result
+
+
+def portrait_side(position: str) -> str:
+    if "左" in position:
+        return "l"
+    if "右" in position:
+        return "r"
+    return "c"
+
+
+def load_visual_states(translation_root: Path) -> dict[str, dict[str, object]]:
+    """Recreate VN background and character state at every translated text row."""
+    compiled_root = translation_root.parent / "compiled_export"
+    master_path = compiled_root / "master_script.tsv"
+    definitions_path = compiled_root / "character_definitions.tsv"
+    manifest_path = REPOSITORY_ROOT / "data" / "art-manifest.json"
+    if not master_path.is_file() or not definitions_path.is_file() or not manifest_path.is_file():
+        return {}
+
+    art = json.loads(manifest_path.read_text(encoding="utf-8"))
+    background_urls: dict[str, str] = art.get("backgrounds", {})
+    portrait_urls: dict[str, str] = art.get("portraits", {})
+    definitions = read_tsv(definitions_path)
+    by_pattern = {
+        (row["CharacterName"], row["Pattern"]): row["SubFileName"]
+        for row in definitions
+        if row["SubFileName"]
+    }
+    defaults: dict[str, str] = {}
+    for row in definitions:
+        if row["SubFileName"]:
+            defaults.setdefault(row["CharacterName"], row["SubFileName"])
+
+    visuals: dict[str, dict[str, object]] = {}
+    character_state: dict[str, dict[str, str]] = {}
+    current_sheet = ""
+    current_background = ""
+    pending_background = ""
+    for row in read_tsv(master_path):
+        if row["sheet"] != current_sheet:
+            current_sheet = row["sheet"]
+            current_background = ""
+            pending_background = ""
+            character_state.clear()
+
+        command = row["command"]
+        if command == "Bg":
+            label = row["arg1"]
+            if label != current_background:
+                current_background = label
+                pending_background = background_urls.get(label, "")
+        elif command == "BgOff":
+            current_background = ""
+            pending_background = ""
+        elif command == "CharacterOff":
+            if row["arg1"]:
+                character_state.pop(TAG_RE.sub("", row["arg1"]), None)
+            else:
+                character_state.clear()
+
+        if row["line_type"] != "text":
+            continue
+
+        if row["arg1"]:
+            name = TAG_RE.sub("", row["arg1"])
+            previous = character_state.get(name, {})
+            pattern = row["arg2"] or previous.get("pattern", "")
+            subfile = (
+                by_pattern.get((name, pattern))
+                or previous.get("subfile")
+                or defaults.get(name)
+            )
+            if subfile and subfile in portrait_urls:
+                character_state[name] = {
+                    "pattern": pattern,
+                    "subfile": subfile,
+                    "position": row["arg3"] or previous.get("position", ""),
+                }
+
+        visual: dict[str, object] = {}
+        if pending_background:
+            visual["bg"] = pending_background
+            pending_background = ""
+        if character_state:
+            portraits = [
+                {
+                    "u": portrait_urls[state["subfile"]],
+                    "s": portrait_side(state.get("position", "")),
+                }
+                for state in character_state.values()
+                if state.get("subfile") in portrait_urls
+            ]
+            if portraits:
+                visual["p"] = portraits
+        if visual:
+            visuals[row["line_id"]] = visual
+    return visuals
 
 
 def write_json(path: Path, payload: object) -> None:
@@ -181,6 +283,7 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
 
     sync_scenario_progression(translation_root, output_root)
 
+    visual_states = load_visual_states(translation_root)
     chapters: list[dict[str, object]] = []
     translated_total = 0
 
@@ -200,7 +303,12 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
             if (row.get("en_text") or "").strip()
         ]
         translated = [
-            compact_line(source_rows[row["line_id"]], row, sequence)
+            compact_line(
+                source_rows[row["line_id"]],
+                row,
+                sequence,
+                visual_states.get(row["line_id"]),
+            )
             for sequence, row in enumerate(translated_rows, start=1)
         ]
         if not translated:
@@ -226,7 +334,7 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     generated_at = datetime.now(timezone.utc)
     glossary_groups = build_glossary(translation_root, output_root, generated_at)
     index = {
-        "version": 1,
+        "version": 2,
         "updated": generated_at.strftime("%Y-%m-%d"),
         "generatedAt": generated_at.isoformat(timespec="seconds"),
         "translatedLines": translated_total,
