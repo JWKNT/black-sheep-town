@@ -113,7 +113,8 @@
       "sj": "",
       "se": "",
       "jp": "　朝に<tips=21>八龍会</tips>の爺さんたちから連絡があって、昼前におれと<tips=66>コンタ</tips>で彼らの家に訪れた。",
-      "en": "The old men of the <tips=21>Dragon Club</tips> contacted us that morning, and <tips=66>Konta</tips> and I went to their house before noon."
+      "en": "The old men of the <tips=21>Dragon Club</tips> contacted us that morning, and <tips=66>Konta</tips> and I went to their house before noon.",
+      "bg": "assets/vn/backgrounds/bg-1f339ba44efe.webp"
     },
     {
       "id": "B4-1:0018",
@@ -140,7 +141,8 @@
       "sj": "",
       "se": "",
       "jp": "　屋敷にあがると、秘書が出て来て爺さんたちはいつものリビングルームで待っていると言った。そこに足を運ぶと、三人の老人と、そして見慣れぬ一人の男の姿があった。",
-      "en": "When we entered the house, the secretary came out and told us the old men were waiting in the usual living room. We headed in and found the three Elders there with a man I hadn’t expected to see."
+      "en": "When we entered the house, the secretary came out and told us the old men were waiting in the usual living room. We headed in and found the three Elders there with a man I hadn’t expected to see.",
+      "bg": "assets/vn/backgrounds/bg-6e94f4771693.webp"
     },
     {
       "id": "B4-1:0025",
@@ -167,7 +169,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「よう、あんたが<tips=10>見土道夫</tips>か。噂は知ってるよ」",
-      "en": "“So you’re <tips=10>Michio Mido</tips>. I’ve heard about you.”"
+      "en": "“So you’re <tips=10>Michio Mido</tips>. I’ve heard about you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0028",
@@ -176,7 +184,13 @@
       "sj": "",
       "se": "",
       "jp": "　よれよれのジャケットを身につけたその金髪碧眼の白人男性は、無精ひげの生えた口元に火のついた煙草をくわえている。",
-      "en": "The blond, blue-eyed white man is wearing a rumpled jacket, a lit cigarette hanging from his stubbled mouth."
+      "en": "The blond, blue-eyed white man is wearing a rumpled jacket, a lit cigarette hanging from his stubbled mouth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0029",
@@ -185,7 +199,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ガキのころは<tips=1>謝亮</tips>をさしおいて、ナンバーワンだったそうだな。サイキックも使えるんだろ？」",
-      "en": "“They say you were number one as a kid, even ahead of <tips=1>Xie Liang</tips>. You’re a psychic too, right?”"
+      "en": "“They say you were number one as a kid, even ahead of <tips=1>Xie Liang</tips>. You’re a psychic too, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0030",
@@ -194,7 +214,13 @@
       "sj": "",
       "se": "",
       "jp": " 　彼が喋ると口の辺りからアルコールのにおいが漂った。そう意識して観察すると頬がほんのり赤く、酒をひっかけてからここに来ているらしい。",
-      "en": "When he talks, I catch alcohol on his breath. Now that I’m looking for it, his cheeks are a little flushed. He must have had a drink before coming."
+      "en": "When he talks, I catch alcohol on his breath. Now that I’m looking for it, his cheeks are a little flushed. He must have had a drink before coming.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0031",
@@ -203,7 +229,13 @@
       "sj": "",
       "se": "",
       "jp": "「おれのはただの大道芸さ。……しかし驚いたね。あんた、<tips=23>エリオット</tips>だろ？」",
-      "en": "“Mine’s just a street trick. ...But this is a surprise. You’re <tips=23>Elliott</tips>, right?”"
+      "en": "“Mine’s just a street trick. ...But this is a surprise. You’re <tips=23>Elliott</tips>, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0032",
@@ -212,7 +244,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれはこの人物を知っていた。",
-      "en": "I know who he is."
+      "en": "I know who he is.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0033",
@@ -221,7 +259,13 @@
       "sj": "",
       "se": "",
       "jp": "　かつてどこかの軍隊に所属していたという腕っこきの<tips=17>タイプB</tips>で、その優れた射撃の腕前を示すエピソードには事欠かない。<tips=27>廖志明</tips>がその能力に惚れ込んで破格の条件で自分のボディーガードに雇った人物だ。",
-      "en": "He’s a formidable <tips=17>Type B</tips> man who supposedly served in some army, and there’s no shortage of stories about his astonishing marksmanship. <tips=27>Liao Zhiming</tips> was so taken with his skill that he hired Elliott as his bodyguard on exceptionally generous terms."
+      "en": "He’s a formidable <tips=17>Type B</tips> man who supposedly served in some army, and there’s no shortage of stories about his astonishing marksmanship. <tips=27>Liao Zhiming</tips> was so taken with his skill that he hired Elliott as his bodyguard on exceptionally generous terms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0034",
@@ -230,7 +274,13 @@
       "sj": "",
       "se": "",
       "jp": "　以前に偶然出くわしたことがある。――あれはいつだっけな？　ボディーガードになったばかりの頃だったか、一度、どこかの酒場でチンピラにからまれているのを見た。",
-      "en": "I’d run into him once before by chance. —When was that again? Not long after he became a bodyguard, I think. I saw some thug picking a fight with him in a bar."
+      "en": "I’d run into him once before by chance. —When was that again? Not long after he became a bodyguard, I think. I saw some thug picking a fight with him in a bar.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0046",
@@ -239,7 +289,8 @@
       "sj": "",
       "se": "",
       "jp": "　からんでいたのは『鉄拳のフリット』。<tips=34>ダリオ・ボネット</tips>が主催している賭けボクシングの選手だ。",
-      "en": "The drunk bothering him was ‘Iron Fist Fritt,’ one of the fighters in <tips=34>Dario Bonetto</tips>’s underground boxing matches."
+      "en": "The drunk bothering him was ‘Iron Fist Fritt,’ one of the fighters in <tips=34>Dario Bonetto</tips>’s underground boxing matches.",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
     },
     {
       "id": "B4-1:0047",
@@ -338,7 +389,8 @@
       "sj": "",
       "se": "",
       "jp": "　フリットが道路の上にひっくりかえって白目を剥いている。<tips=23>エリオット</tips>はくわえ煙草をしたまましかめっつらで右手をぷらぷらと振っている。",
-      "en": "Fritt is flat on his back in the road, eyes rolled white. <tips=23>Elliott</tips> stands there with his cigarette still in his mouth, grimacing as he shakes out his right hand."
+      "en": "Fritt is flat on his back in the road, eyes rolled white. <tips=23>Elliott</tips> stands there with his cigarette still in his mouth, grimacing as he shakes out his right hand.",
+      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
     },
     {
       "id": "B4-1:0071",
@@ -356,7 +408,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「慣れないことするもんじゃねえな。しびれちまった」",
-      "en": "“Shouldn’t try things you’re not used to. Numbed my whole hand.”"
+      "en": "“Shouldn’t try things you’re not used to. Numbed my whole hand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0073",
@@ -365,7 +423,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれと目が合うと、<tips=23>エリオット</tips>はそう笑ってまた右手をぷらぷらと振る。きっとこの手でフリットを殴ったに違いない。",
-      "en": "Our eyes meet. <tips=23>Elliott</tips> laughs and shakes out his hand again. He must have punched Fritt with it."
+      "en": "Our eyes meet. <tips=23>Elliott</tips> laughs and shakes out his hand again. He must have punched Fritt with it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0074",
@@ -374,7 +438,13 @@
       "sj": "",
       "se": "",
       "jp": "「無事か？」",
-      "en": "“You all right?”"
+      "en": "“You all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0075",
@@ -383,7 +453,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「おれはね。相手はわからん。兄ちゃん、良かったら医者でも呼んでやってくれよ」",
-      "en": "“I’m fine. Can’t speak for him. Kid, call a doctor if you feel like it.”"
+      "en": "“I’m fine. Can’t speak for him. Kid, call a doctor if you feel like it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0076",
@@ -392,7 +468,13 @@
       "sj": "",
       "se": "",
       "jp": "　言われてフリットの様子を見ると完全に失神している。顎が歪んで、口の端から血が流れていた。あとで聞いたら顎が骨折していたらしく、フリットはこれ以降ちょっとでも顎を殴られるとダウンするようになって、リングを去ったんだ。",
-      "en": "I take a look at Fritt. He’s completely unconscious, his jaw crooked and blood trickling from the corner of his mouth. I heard later that it was broken. After that, even a light hit to the jaw put him down, and he had to leave the ring."
+      "en": "I take a look at Fritt. He’s completely unconscious, his jaw crooked and blood trickling from the corner of his mouth. I heard later that it was broken. After that, even a light hit to the jaw put him down, and he had to leave the ring.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0087",
@@ -401,7 +483,8 @@
       "sj": "",
       "se": "",
       "jp": "　医者を呼んでから店内に戻ると、<tips=23>エリオット</tips>は何事もなかったようにカウンターで酒を飲み、煙草を吸っていた。",
-      "en": "After calling a doctor, I go back inside. <tips=23>Elliott</tips> is at the counter drinking and smoking as though nothing happened."
+      "en": "After calling a doctor, I go back inside. <tips=23>Elliott</tips> is at the counter drinking and smoking as though nothing happened.",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
     },
     {
       "id": "B4-1:0088",
@@ -428,7 +511,8 @@
       "sj": "",
       "se": "",
       "jp": "「<ruby=リャオ><tips=27>廖</tips></ruby>と一緒に街を出ていったかと思ってたよ」",
-      "en": "“I thought you left the City with <ruby=リャオ><tips=27>Liao</tips></ruby>.”"
+      "en": "“I thought you left the City with <ruby=リャオ><tips=27>Liao</tips></ruby>.”",
+      "bg": "assets/vn/backgrounds/bg-6e94f4771693.webp"
     },
     {
       "id": "B4-1:0096",
@@ -437,7 +521,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「お払い箱になったのさ。肝心のときに役に立たなかったからね」",
-      "en": "“They threw me away. I wasn’t useful when it counted.”"
+      "en": "“They threw me away. I wasn’t useful when it counted.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0097",
@@ -446,7 +536,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は肩をすくめておどけた。",
-      "en": "<tips=23>Elliott</tips> gives an exaggerated shrug."
+      "en": "<tips=23>Elliott</tips> gives an exaggerated shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0098",
@@ -455,7 +551,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はあの時のことを覚えていないようだった。",
-      "en": "He apparently doesn’t remember our earlier encounter."
+      "en": "He apparently doesn’t remember our earlier encounter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0099",
@@ -464,7 +566,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「まあ、立ってないで座りなさい」",
-      "en": "“Well, don’t just stand there. Sit down.”"
+      "en": "“Well, don’t just stand there. Sit down.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0100",
@@ -473,7 +585,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>は頬にいつもどおりの笑顔を貼りつけてそう言う。",
-      "en": "<tips=90>Mr. Chen</tips> says it with his usual smile pasted on his face."
+      "en": "<tips=90>Mr. Chen</tips> says it with his usual smile pasted on his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0101",
@@ -482,7 +604,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「オッホッホ、アナタたちが来るのを待っていたんだよ。三人そろって話を聞いて欲しくてね」",
-      "en": "“Ho ho ho! We’ve been waiting for you. We wanted all three of you to hear this together.”"
+      "en": "“Ho ho ho! We’ve been waiting for you. We wanted all three of you to hear this together.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0102",
@@ -491,7 +623,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼の口ぶりからすると、<tips=23>エリオット</tips>もおれたちと同じように爺さんたちに呼び出されたのだろう。",
-      "en": "From the way he says it, <tips=23>Elliott</tips> must have been summoned by the old men just like us."
+      "en": "From the way he says it, <tips=23>Elliott</tips> must have been summoned by the old men just like us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0112",
@@ -500,7 +642,8 @@
       "sj": "",
       "se": "",
       "jp": "　おれと<tips=66>コンタ</tips>が座ったのを見計らって、ハウスキーパーの佐藤さんがいつも通りお茶を運んできてくれる。おれは軽く頭を下げて、早速そのコップに口をつけた。今日のお茶はいつもより少し高級のものらしく、香りが違う。",
-      "en": "Once <tips=66>Konta</tips> and I sit down, their housekeeper, Ms. Sato, brings us tea as usual. I give her a small nod and immediately take a sip. Today’s tea must be a little more expensive than usual. Even the aroma is different."
+      "en": "Once <tips=66>Konta</tips> and I sit down, their housekeeper, Ms. Sato, brings us tea as usual. I give her a small nod and immediately take a sip. Today’s tea must be a little more expensive than usual. Even the aroma is different.",
+      "bg": "assets/vn/backgrounds/bg-44219cfdefaf.webp"
     },
     {
       "id": "B4-1:0113",
@@ -1211,7 +1354,14 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ご大層な大義名分を語る人間は好きじゃないんだ。それならまだストレートに欲望を語ってくれたほうがよほどスカッとするよ。……おれはここで帰らせて貰うぜ」",
-      "en": "“I don’t like men who preach grand causes. I’d rather hear you say plainly what you want. ...I’m leaving.”"
+      "en": "“I don’t like men who preach grand causes. I’d rather hear you say plainly what you want. ...I’m leaving.”",
+      "bg": "assets/vn/backgrounds/bg-6e94f4771693.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0205",
@@ -1229,7 +1379,13 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「そうだ、一つだけ質問させてくれるか？」",
-      "en": "“Oh, one question before I go.”"
+      "en": "“Oh, one question before I go.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0207",
@@ -1238,7 +1394,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「なんだい？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0208",
@@ -1247,7 +1413,17 @@
       "sj": "",
       "se": "",
       "jp": "　答えたのは<tips=90>ミスター・チェン</tips>だ。",
-      "en": "<tips=90>Mr. Chen</tips> answers."
+      "en": "<tips=90>Mr. Chen</tips> answers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0209",
@@ -1256,7 +1432,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「<tips=27>廖</tips>の旦那の家に訪れたり、<tips=41>グランドタワー</tips>を襲撃して<tips=39>ジェフリー・ウォン</tips>を殺したあのサイキックのガキは、あんたらが雇ったのか？」",
-      "en": "“Did you hire the psychic brat who visited Mr. <tips=27>Liao</tips>’s home, attacked <tips=41>Grand Tower</tips>, and killed <tips=39>Jeffrey Wong</tips>?”"
+      "en": "“Did you hire the psychic brat who visited Mr. <tips=27>Liao</tips>’s home, attacked <tips=41>Grand Tower</tips>, and killed <tips=39>Jeffrey Wong</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0210",
@@ -1265,7 +1451,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「ガキ？」",
-      "en": "“A brat?”"
+      "en": "“A brat?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0211",
@@ -1274,7 +1470,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「ほら、金髪で、瞬間移動するガキだよ」",
-      "en": "“The blond brat who teleports.”"
+      "en": "“The blond brat who teleports.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0212",
@@ -1283,7 +1489,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は返答を急かすが、<tips=22>老人たち</tips>は黙ったままだ。",
-      "en": "<tips=23>Elliott</tips> waits for an answer, but the <tips=22>Elders</tips> say nothing."
+      "en": "<tips=23>Elliott</tips> waits for an answer, but the <tips=22>Elders</tips> say nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0213",
@@ -1292,7 +1508,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「何のことを言っている？」",
-      "en": "“What are you talking about?”"
+      "en": "“What are you talking about?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0214",
@@ -1301,7 +1527,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>は大げさに首を捻りながらそう答える。",
-      "en": "<tips=90>Mr. Chen</tips> answers with an exaggerated tilt of his head."
+      "en": "<tips=90>Mr. Chen</tips> answers with an exaggerated tilt of his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0215",
@@ -1310,7 +1546,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「知らないのか？　あのガキは誰かの命令で<tips=7>ＹＳ</tips>を狙ってたみたいだったからな。てっきりあんたらが裏で糸を引いているのかと思ったが……」",
-      "en": "“You don’t know? The brat seemed to be attacking <tips=7>YS</tips> on someone’s orders. I assumed you were pulling the strings...”"
+      "en": "“You don’t know? The brat seemed to be attacking <tips=7>YS</tips> on someone’s orders. I assumed you were pulling the strings...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0216",
@@ -1319,7 +1565,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は疑いの目で<tips=22>老人たち</tips>を観察したが、結局しらばっくれているのか、本当に知らないのかどちらにも確信が持てないようだった。",
-      "en": "<tips=23>Elliott</tips> studies the <tips=22>Elders</tips> suspiciously, but even he can’t tell whether they’re playing dumb or genuinely know nothing."
+      "en": "<tips=23>Elliott</tips> studies the <tips=22>Elders</tips> suspiciously, but even he can’t tell whether they’re playing dumb or genuinely know nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0217",
@@ -1328,7 +1584,17 @@
       "sj": "",
       "se": "",
       "jp": "　そうだろう。ずっと一緒にいるおれからしても、この爺さんたちの考えていることを、その表情から読むことなんか出来ないんだ。",
-      "en": "No wonder. I’ve been around these old men all my life, and even I can’t read what they’re thinking from their faces."
+      "en": "No wonder. I’ve been around these old men all my life, and even I can’t read what they’re thinking from their faces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0218",
@@ -1337,7 +1603,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「まあ、もし知ってるなら、今すぐ関係を絶つことだな。あいつはやばいぜ。ぶっ飛んでるのは能力だけじゃなくて、頭も完全にイカレちまってる。ああいうのは、コマとしても使い物にならないんだよ。関わらないのが一番だ。……<tips=27>廖</tips>の旦那が止めたが、あの時殺しておけばよかったと後悔しているよ」",
-      "en": "“If you do know her, cut ties now. She’s dangerous. It isn’t only her power that’s unhinged—her mind is completely gone. Someone like that’s useless even as a pawn. Stay away. ...Mr. <tips=27>Liao</tips> stopped me then, but I regret not killing her.”"
+      "en": "“If you do know her, cut ties now. She’s dangerous. It isn’t only her power that’s unhinged—her mind is completely gone. Someone like that’s useless even as a pawn. Stay away. ...Mr. <tips=27>Liao</tips> stopped me then, but I regret not killing her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0219",
@@ -1346,7 +1622,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「忠告をありがとう。そういうものは知らないが、今後見かけることがあったら注意しておくヨ」",
-      "en": "“Thank you for the warning. We know no such person, but should we meet her, we’ll be careful.”"
+      "en": "“Thank you for the warning. We know no such person, but should we meet her, we’ll be careful.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0220",
@@ -1355,7 +1641,17 @@
       "sj": "エリオット・ネス",
       "se": "Elliott",
       "jp": "「それがいい」",
-      "en": "“Good.”"
+      "en": "“Good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0221",
@@ -1364,7 +1660,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は言うと、くるりと踵を返し、そして今度は振り返ることなくそのまま出て行った。",
-      "en": "<tips=23>Elliott</tips> turns on his heel and leaves, this time without looking back."
+      "en": "<tips=23>Elliott</tips> turns on his heel and leaves, this time without looking back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0223",
@@ -1427,7 +1733,13 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「それじゃあ、<tips=10>道夫</tips>」",
-      "en": "“Well then, <tips=10>Michio</tips>.”"
+      "en": "“Well then, <tips=10>Michio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0230",
@@ -1436,7 +1748,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが考えていると、<tips=90>ミスター・チェン</tips>が話しかけて来る。",
-      "en": "As I turn that over in my mind, <tips=90>Mr. Chen</tips> addresses me."
+      "en": "As I turn that over in my mind, <tips=90>Mr. Chen</tips> addresses me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0231",
@@ -1445,7 +1763,13 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「次はお前が返事をする番だヨ」",
-      "en": "“Now it’s your turn to answer.”"
+      "en": "“Now it’s your turn to answer.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0232",
@@ -1454,7 +1778,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の口元は笑っているが、目は真顔でおれの反応を観察している。",
-      "en": "His mouth is smiling, but his eyes are perfectly serious as he watches for my reaction."
+      "en": "His mouth is smiling, but his eyes are perfectly serious as he watches for my reaction.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0233",
@@ -1463,7 +1793,17 @@
       "sj": "ミスター・アーノルド",
       "se": "Mr. Arnold",
       "jp": "「迷う理由はないはずです。『<tips=47>八龍解放軍</tips>』の隊長を引き受けて貰いますよ」",
-      "en": "“There’s nothing to consider. You will accept command of the <tips=47>Dragon Liberation Army</tips>.”"
+      "en": "“There’s nothing to consider. You will accept command of the <tips=47>Dragon Liberation Army</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0234",
@@ -1472,7 +1812,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=89>ミスター・アーノルド</tips>はくすりともせずにおれを見つめている。",
-      "en": "<tips=89>Mr. Arnold</tips> stares at me without the slightest hint of a smile."
+      "en": "<tips=89>Mr. Arnold</tips> stares at me without the slightest hint of a smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0236",
@@ -1481,7 +1831,17 @@
       "sj": "",
       "se": "",
       "jp": "　残った<tips=91>ミスター・スミス</tips>は、自分のカップに手をつけて、茶をすする。",
-      "en": "The remaining Elder, <tips=91>Mr. Smith</tips>, picks up his cup and sips his tea."
+      "en": "The remaining Elder, <tips=91>Mr. Smith</tips>, picks up his cup and sips his tea.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0237",
@@ -1490,7 +1850,17 @@
       "sj": "",
       "se": "",
       "jp": "「わかりましたよ」",
-      "en": "“All right.”"
+      "en": "“All right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0238",
@@ -1499,7 +1869,17 @@
       "sj": "",
       "se": "",
       "jp": "　おれの答えは決まっている。",
-      "en": "I already know my answer."
+      "en": "I already know my answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0239",
@@ -1508,7 +1888,17 @@
       "sj": "",
       "se": "",
       "jp": "「引き受けます」",
-      "en": "“I accept.”"
+      "en": "“I accept.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0240",
@@ -1517,7 +1907,17 @@
       "sj": "",
       "se": "",
       "jp": "　他に選べる道は、もうなかった。",
-      "en": "There is no other choice left to me."
+      "en": "There is no other choice left to me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0241",
@@ -1526,7 +1926,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は驚きを浮かべておれを見る。",
-      "en": "<tips=66>Konta</tips> stares at me in surprise."
+      "en": "<tips=66>Konta</tips> stares at me in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0242",
@@ -1535,7 +1945,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「さすが<tips=10>見土道夫</tips>だ。そう言ってくれると信じていたヨ」",
-      "en": "“Just as expected of <tips=10>Michio Mido</tips>. I knew you’d accept.”"
+      "en": "“Just as expected of <tips=10>Michio Mido</tips>. I knew you’d accept.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0243",
@@ -1544,7 +1964,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>は今度は顔全体で笑う。",
-      "en": "This time, <tips=90>Mr. Chen</tips> smiles with his whole face."
+      "en": "This time, <tips=90>Mr. Chen</tips> smiles with his whole face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0244",
@@ -1553,7 +1983,17 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「<tips=66>コンタ</tips>はどうするネ？」",
-      "en": "“What will you do, <tips=66>Konta</tips>?”"
+      "en": "“What will you do, <tips=66>Konta</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0245",
@@ -1562,7 +2002,21 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「お、おれもやります。よろしくお願いしまっす！」",
-      "en": "“I-I’ll do it too. Pleased to serve!”"
+      "en": "“I-I’ll do it too. Pleased to serve!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0246",
@@ -1571,7 +2025,21 @@
       "sj": "",
       "se": "",
       "jp": "　ぼうっとおれを見ていた<tips=66>コンタ</tips>は、急に<tips=90>ミスター・チェン</tips>に確認されてしまい慌てながら頭を下げた。",
-      "en": "<tips=66>Konta</tips> had been staring blankly at me. When <tips=90>Mr. Chen</tips> suddenly puts him on the spot, he panics and bows his head."
+      "en": "<tips=66>Konta</tips> had been staring blankly at me. When <tips=90>Mr. Chen</tips> suddenly puts him on the spot, he panics and bows his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0247",
@@ -1580,7 +2048,21 @@
       "sj": "",
       "se": "",
       "jp": "「それで、何をすればいいんですか？　その、『<tips=47>八龍解放軍</tips>』ってのは」",
-      "en": "“So what exactly are we supposed to do? This <tips=47>Dragon Liberation Army</tips>, I mean.”"
+      "en": "“So what exactly are we supposed to do? This <tips=47>Dragon Liberation Army</tips>, I mean.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0248",
@@ -1589,7 +2071,21 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「文字通り、<tips=17>タイプB</tips>の解放だヨ。そして、最終的には<tips=47>解放軍</tips>が主軸になって<tips=7>ＹＳ</tips>とこの街の覇権を争うんだ」",
-      "en": "“Exactly what the name says: liberate <tips=17>Type B</tips> people. Ultimately, the <tips=47>Liberation Army</tips> will become our main force and challenge <tips=7>YS</tips> for control of the City.”"
+      "en": "“Exactly what the name says: liberate <tips=17>Type B</tips> people. Ultimately, the <tips=47>Liberation Army</tips> will become our main force and challenge <tips=7>YS</tips> for control of the City.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0249",
@@ -1598,7 +2094,21 @@
       "sj": "",
       "se": "",
       "jp": "「覇権を争うとは、物騒な話ですな。だが、今おれはそういうこと聞いているんじゃなくって、もっと具体的な話なんですよ。どこかで訓練をするとか、メンバーを集めるとか」",
-      "en": "“Fighting for control sounds awfully violent. But I’m asking about the practical details. Are we supposed to train somewhere? Recruit members?”"
+      "en": "“Fighting for control sounds awfully violent. But I’m asking about the practical details. Are we supposed to train somewhere? Recruit members?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0250",
@@ -1607,7 +2117,21 @@
       "sj": "ミスター・アーノルド",
       "se": "Mr. Arnold",
       "jp": "「最初にやるべきことは決まっているらしいですよ」",
-      "en": "“Apparently, your first task has already been decided.”"
+      "en": "“Apparently, your first task has already been decided.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0251",
@@ -1616,7 +2140,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>のかわりに<tips=89>ミスター・アーノルド</tips>が答えた。",
-      "en": "Instead of <tips=90>Mr. Chen</tips>, <tips=89>Mr. Arnold</tips> answers."
+      "en": "Instead of <tips=90>Mr. Chen</tips>, <tips=89>Mr. Arnold</tips> answers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0252",
@@ -1625,7 +2163,21 @@
       "sj": "",
       "se": "",
       "jp": "「らしいってのはどういうことですか？　アンタたちが決定することでしょうに」",
-      "en": "“What do you mean, ‘apparently’? You’re the ones who decide these things, aren’t you?”"
+      "en": "“What do you mean, ‘apparently’? You’re the ones who decide these things, aren’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0253",
@@ -1634,7 +2186,21 @@
       "sj": "ミスター・アーノルド",
       "se": "Mr. Arnold",
       "jp": "「難しい事情があるんですよ。……それについて話す前に、お前には今の状況を知ってもらわなければいけないでしょうね。饅頭売りなどに専念しているから、まだ知らない情報も多いでしょうし」",
-      "en": "“It’s complicated... Before we explain, you need to understand the present situation. You’ve been so devoted to selling buns that there must be a great deal you don’t know.”"
+      "en": "“It’s complicated... Before we explain, you need to understand the present situation. You’ve been so devoted to selling buns that there must be a great deal you don’t know.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0254",
@@ -1643,7 +2209,21 @@
       "sj": "",
       "se": "",
       "jp": "　確かにその通りだ。彼らは<tips=7>ＹＳ</tips>などを相手にするつもりらしいし、そのために裏で様々な工作をしているだろう。どのような動きがあるのか全く知らない。",
-      "en": "He’s right. They clearly mean to take on <tips=7>YS</tips>, and they must be making all kinds of moves behind the scenes. I’ve no idea what any of them are."
+      "en": "He’s right. They clearly mean to take on <tips=7>YS</tips>, and they must be making all kinds of moves behind the scenes. I’ve no idea what any of them are.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0255",
@@ -1652,7 +2232,25 @@
       "sj": "ミスター・スミス",
       "se": "Mr. Smith",
       "jp": "「我々にはいま、重大な問題がある」",
-      "en": "“We face a serious problem.”"
+      "en": "“We face a serious problem.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0256",
@@ -1661,7 +2259,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=91>ミスター・スミス</tips>が渋い顔で言う。",
-      "en": "<tips=91>Mr. Smith</tips> says it with a grim expression."
+      "en": "<tips=91>Mr. Smith</tips> says it with a grim expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0257",
@@ -1670,7 +2286,25 @@
       "sj": "",
       "se": "",
       "jp": "「問題ってなんですか？」",
-      "en": "“What problem?”"
+      "en": "“What problem?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0258",
@@ -1679,7 +2313,25 @@
       "sj": "ミスター・スミス",
       "se": "Mr. Smith",
       "jp": "「<tips=65>エフゲニ・ヘス</tips>のことだ」",
-      "en": "“<tips=65>Evgenij Hess</tips>.”"
+      "en": "“<tips=65>Evgenij Hess</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0259",
@@ -1688,7 +2340,25 @@
       "sj": "",
       "se": "",
       "jp": "　彼が厳かに名を呼んだその人物は、<tips=21>八龍会</tips>に『<tips=46>ネオ・ローズ</tips>』をもたらしたあの老人のことだ。",
-      "en": "The name he pronounces so gravely belongs to the old man who brought the <tips=21>Dragon Club</tips> <tips=46>Neo-Rose</tips>."
+      "en": "The name he pronounces so gravely belongs to the old man who brought the <tips=21>Dragon Club</tips> <tips=46>Neo-Rose</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0260",
@@ -1697,7 +2367,25 @@
       "sj": "",
       "se": "",
       "jp": "　おれはあの最初の時に会って以来、その姿を見ていない。彼が指揮をして薬を製造させているようだが、話として聞くだけだ。",
-      "en": "I haven’t seen him since our first meeting. Supposedly he oversees production of the drug, but I only know that from what others have told me."
+      "en": "I haven’t seen him since our first meeting. Supposedly he oversees production of the drug, but I only know that from what others have told me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0261",
@@ -1706,7 +2394,25 @@
       "sj": "ミスター・アーノルド",
       "se": "Mr. Arnold",
       "jp": "「我々にとって今最も大事なのものは『<tips=46>ネオ・ローズ</tips>』であることはもちろん理解していますよね？　あれがあるから我々は欠点を克服出来たし、他の<tips=17>タイプB</tips>組織への交渉材料にもなっています。資金源にもなるでしょう。このおかげで、我々はこの街を牛耳るギャングどもと戦える力を身につけたんですよ。それでね、我々はあれをもっと安価に製造したい。ですが、あのユダヤ人が高いマージンを取っているからそれが出来ないでいるのです。交渉にも乗ろうとしません。それならば自分たちだけで製造すればいいのですが、レシピは相変わらず不明です」",
-      "en": "“You understand that <tips=46>Neo-Rose</tips> is our most important asset, yes? It lets us overcome our weaknesses, gives us leverage over other <tips=17>Type B</tips> organizations, and will fund us. Thanks to it, we can fight the gangs that rule this City. We want to manufacture it more cheaply. But that Jew takes an enormous margin and refuses to negotiate. We could make it ourselves, except that we still don’t know the formula.”"
+      "en": "“You understand that <tips=46>Neo-Rose</tips> is our most important asset, yes? It lets us overcome our weaknesses, gives us leverage over other <tips=17>Type B</tips> organizations, and will fund us. Thanks to it, we can fight the gangs that rule this City. We want to manufacture it more cheaply. But that Jew takes an enormous margin and refuses to negotiate. We could make it ourselves, except that we still don’t know the formula.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0262",
@@ -1715,7 +2421,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=89>ミスター・アーノルド</tips>は溜息をついて首を左右に振る。",
-      "en": "<tips=89>Mr. Arnold</tips> sighs and shakes his head."
+      "en": "<tips=89>Mr. Arnold</tips> sighs and shakes his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0263",
@@ -1724,7 +2448,25 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「製剤機に入力するデータは暗号化されていて読み取れないし、材料を運んでくる業者も<tips=65>ヘス</tips>が雇った連中で、彼らは自分が何を運んでいるのかもしらない。材料の袋にはAとかBとか書かれているだけなんだヨ。これらは解析して成分が判明したんだけれども、でもレシピがわからないと作りようがない。……これはとてもこわい状況ネ。もし<tips=65>ヘス</tips>の気分が変わって、仕事を引き上げるとなれば、我々は元の弱点のある存在に戻ってしまう。尾行させれば途中で姿を消すし、どこをねぐらにしているのかも掴めないし、どうやってもレシピは盗み出せない……」",
-      "en": "“The synthesizer data is encrypted. Even the suppliers carrying the ingredients were hired by <tips=65>Hess</tips>, and they don’t know what they transport. The bags say only A, B, and so forth. We identified the components, but without the formula we can’t make the drug... It’s a frightening position. If <tips=65>Hess</tips> changes his mind and leaves, we return to our old weakness. Follow him and he vanishes along the way. We can’t find where he stays or steal the formula by any means...”"
+      "en": "“The synthesizer data is encrypted. Even the suppliers carrying the ingredients were hired by <tips=65>Hess</tips>, and they don’t know what they transport. The bags say only A, B, and so forth. We identified the components, but without the formula we can’t make the drug... It’s a frightening position. If <tips=65>Hess</tips> changes his mind and leaves, we return to our old weakness. Follow him and he vanishes along the way. We can’t find where he stays or steal the formula by any means...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0264",
@@ -1733,7 +2475,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>は困った顔で肩をすくめた。",
-      "en": "<tips=90>Mr. Chen</tips> gives a troubled shrug."
+      "en": "<tips=90>Mr. Chen</tips> gives a troubled shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0265",
@@ -1742,7 +2502,25 @@
       "sj": "",
       "se": "",
       "jp": "　彼はまるで<tips=65>ヘス</tips>が悪いかのように言うけれども、<tips=65>ヘス</tips>本人からしてみれば当然だろうな。『<tips=46>ネオ・ローズ</tips>』が本当に<tips=17>タイプB</tips>を解放する夢の薬なら、世界を変えるほどの大発明だ。レシピを独占したいに決まっている。",
-      "en": "He talks as though <tips=65>Hess</tips> is somehow in the wrong, but from <tips=65>Hess</tips>’s point of view, it makes perfect sense. If <tips=46>Neo-Rose</tips> really is a miracle drug that can liberate <tips=17>Type B</tips> people, it’s an invention that could change the world. Of course he wants to keep the formula to himself."
+      "en": "He talks as though <tips=65>Hess</tips> is somehow in the wrong, but from <tips=65>Hess</tips>’s point of view, it makes perfect sense. If <tips=46>Neo-Rose</tips> really is a miracle drug that can liberate <tips=17>Type B</tips> people, it’s an invention that could change the world. Of course he wants to keep the formula to himself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0266",
@@ -1751,7 +2529,25 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「その<tips=65>ヘス</tips>にね、この<tips=47>解放軍</tips>を設立すると言ったら、えらく乗り気になったんだヨ。そして、そういう組織を作るならぜひやって欲しいことがあると言ってきた」",
-      "en": "“When we told <tips=65>Hess</tips> about the <tips=47>Liberation Army</tips>, he became tremendously enthusiastic. He said that if we formed such an organization, there was one thing he very much wanted us to do.”"
+      "en": "“When we told <tips=65>Hess</tips> about the <tips=47>Liberation Army</tips>, he became tremendously enthusiastic. He said that if we formed such an organization, there was one thing he very much wanted us to do.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0267",
@@ -1760,7 +2556,25 @@
       "sj": "",
       "se": "",
       "jp": "「なるほど話が見えてきました。つまり、<tips=47>解放軍</tips>はまず<tips=65>ヘス</tips>の立案した作戦を実行するという訳ですか」",
-      "en": "“I see where this is going. So the <tips=47>Liberation Army</tips>’s first mission will be an operation planned by <tips=65>Hess</tips>.”"
+      "en": "“I see where this is going. So the <tips=47>Liberation Army</tips>’s first mission will be an operation planned by <tips=65>Hess</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0268",
@@ -1769,7 +2583,25 @@
       "sj": "",
       "se": "",
       "jp": "　おれの言葉に<tips=90>ミスター・チェン</tips>は頷き、",
-      "en": "At my words, <tips=90>Mr. Chen</tips> nods."
+      "en": "At my words, <tips=90>Mr. Chen</tips> nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0269",
@@ -1778,7 +2610,25 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「詳しい話は<tips=65>ヘス</tips>本人に聞いて欲しいネ。彼は向こうの部屋にいて、今は<tips=67>カミラ</tips>が相手をしている」",
-      "en": "“You should hear the details from <tips=65>Hess</tips> himself. He’s in the next room with <tips=67>Camilla</tips> right now.”"
+      "en": "“You should hear the details from <tips=65>Hess</tips> himself. He’s in the next room with <tips=67>Camilla</tips> right now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0270",
@@ -1787,7 +2637,25 @@
       "sj": "",
       "se": "",
       "jp": "「……みなさんはその作戦の内容をもう聞いていますか？」",
-      "en": "“...Have all of you already heard what the operation entails?”"
+      "en": "“...Have all of you already heard what the operation entails?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0271",
@@ -1796,7 +2664,25 @@
       "sj": "ミスター・チェン",
       "se": "Mr. Chen",
       "jp": "「まあ、大体ね」",
-      "en": "“More or less.”"
+      "en": "“More or less.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0272",
@@ -1805,7 +2691,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=90>ミスター・チェン</tips>は複雑な表情で頷く。",
-      "en": "<tips=90>Mr. Chen</tips> nods, looking conflicted."
+      "en": "<tips=90>Mr. Chen</tips> nods, looking conflicted.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0273",
@@ -1814,7 +2718,25 @@
       "sj": "",
       "se": "",
       "jp": "「率直に言って、賛成ですか？　それとも、彼の機嫌を損なうわけにはいかないから、渋々従っているんですか？」",
-      "en": "“Honestly, do you support the plan? Or are you going along with it because you can’t afford to upset him?”"
+      "en": "“Honestly, do you support the plan? Or are you going along with it because you can’t afford to upset him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0274",
@@ -1823,7 +2745,25 @@
       "sj": "",
       "se": "",
       "jp": "　おれの質問に答えたのは<tips=91>ミスター・スミス</tips>だった。",
-      "en": "<tips=91>Mr. Smith</tips> is the one who answers."
+      "en": "<tips=91>Mr. Smith</tips> is the one who answers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0275",
@@ -1832,7 +2772,25 @@
       "sj": "ミスター・スミス",
       "se": "Mr. Smith",
       "jp": "「プラン自体に異存はない。……そもそも我々は、相手が誰であっても、むざむざと言いなりになったりはしない」",
-      "en": "“We have no objection to the plan itself. ...And no matter who we deal with, we do not simply roll over and obey.”"
+      "en": "“We have no objection to the plan itself. ...And no matter who we deal with, we do not simply roll over and obey.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0276",
@@ -1841,7 +2799,25 @@
       "sj": "",
       "se": "",
       "jp": "　どうだか。",
-      "en": "Sure you don’t."
+      "en": "Sure you don’t.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0277",
@@ -1850,7 +2826,25 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、このプライドが高い爺さんとしてはそういうことにしたいんだろう。",
-      "en": "But a proud old man like him probably needs to see it that way."
+      "en": "But a proud old man like him probably needs to see it that way.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B4-1:0292",
@@ -1859,7 +2853,14 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「<tips=10>見土</tips>サン、あなたがリーダーを引き受けてくれたんデスね。これは良かった。私もあなたがリーダーになるべきだと思っていたんデスよ。いや、<tips=67>カミラ</tips>さんも優秀なんデスがね、こちらはサポート役の方が実力を発揮するタイプデス」",
-      "en": "“Mr. <tips=10>Mido</tips>, you accepted command. Excellent. I too believed you should lead. Ms. <tips=67>Camilla</tips> is highly capable, certainly, but her talents shine brightest in support.”"
+      "en": "“Mr. <tips=10>Mido</tips>, you accepted command. Excellent. I too believed you should lead. Ms. <tips=67>Camilla</tips> is highly capable, certainly, but her talents shine brightest in support.”",
+      "bg": "assets/vn/backgrounds/bg-2f08946f7a7f.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0293",
@@ -1868,7 +2869,13 @@
       "sj": "",
       "se": "",
       "jp": "　別室に移動して向かい合った<tips=65>ヘス</tips>は、以前と同じ黒ずくめで、以前と同じように唇がめくれると黄色い乱杭歯が目立った。真っ白の髪の毛も縮れている。黒いスーツは小綺麗でしゅっとしているのに、どうして自分の身体はこう手入れが甘いのだろうか。",
-      "en": "We move to another room and sit across from <tips=65>Hess</tips>. He’s dressed in the same head-to-toe black as before, and when his lips curl back, the same crooked yellow teeth show. His pure-white hair is still a frizzy mess. His black suit’s clean and sharply tailored, so why is he so careless about the rest of himself?"
+      "en": "We move to another room and sit across from <tips=65>Hess</tips>. He’s dressed in the same head-to-toe black as before, and when his lips curl back, the same crooked yellow teeth show. His pure-white hair is still a frizzy mess. His black suit’s clean and sharply tailored, so why is he so careless about the rest of himself?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0294",
@@ -1877,7 +2884,13 @@
       "sj": "",
       "se": "",
       "jp": "　やっぱり、見れば見るほど、そして考えれば考えるほどうさんくさい人物である。なぜ『<tips=46>ネオ・ローズ</tips>』のレシピを知っているのか？　そしてなぜこの街で<tips=21>八龍会</tips>にあれほどの薬を売らせているのか？　<tips=22>老人たち</tips>はマージンが高いと愚痴っていたが、やり方次第ではもっと莫大な利益を上げられる薬なんだぜ。金以外の何かの目的があるとしか思えない。それはなんなのか。一体その正体は何なのか。おれは、それが気になって仕方ない。",
-      "en": "The more I look at him—and the more I think about him—the less I trust him. Why does he know the formula for <tips=46>Neo-Rose</tips>? And why is he letting the <tips=21>Dragon Club</tips> sell a drug this valuable in this City? The <tips=22>Elders</tips> complained about his cut, but in the right hands, this drug could make far more money than that. He has to be after something besides profit. But what? Who in the world is he? I can’t stop wondering."
+      "en": "The more I look at him—and the more I think about him—the less I trust him. Why does he know the formula for <tips=46>Neo-Rose</tips>? And why is he letting the <tips=21>Dragon Club</tips> sell a drug this valuable in this City? The <tips=22>Elders</tips> complained about his cut, but in the right hands, this drug could make far more money than that. He has to be after something besides profit. But what? Who in the world is he? I can’t stop wondering.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0295",
@@ -1886,7 +2899,13 @@
       "sj": "",
       "se": "",
       "jp": "　ので、率直にそれを尋ねてみた。",
-      "en": "So I ask him outright."
+      "en": "So I ask him outright.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0296",
@@ -1895,7 +2914,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「そんなに不自然デス？」",
-      "en": "“Does it seem so strange?”"
+      "en": "“Does it seem so strange?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0297",
@@ -1904,7 +2929,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>は大げさにおどけて見せる。",
-      "en": "<tips=65>Hess</tips> makes an exaggerated show of surprise."
+      "en": "<tips=65>Hess</tips> makes an exaggerated show of surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0298",
@@ -1913,7 +2944,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「前にも言いましたが、私はこの街が好きなんデスよ。<tips=8>グレートホール</tips>も近いし、金色の目をした人も多い。私の故郷によく似ている……。それに、<tips=21>八龍会</tips>の老人がたのおっしゃることも共感出来ます。この街にはギャングもノーマルもいらない。我々<tips=17>タイプB</tips>は解放されなくてはいけないんです。そして、<tips=17>タイプB</tips>のための街が本当に出来るとしたら、それはとても素晴らしいことデスからね。世界に類がありません。それに協力出来るのならば、光栄です。レシピをお教え出来ないのは申し訳ないのですが、レシピを渡した途端、もうあんなうるさい老人なんか用済みだ……なんてことになったら困りますからね。この何も持たない流浪の老人が、あなたたちのかけがえのない同志として発言権を持つためにはどうしても必要なんデスよ。ご理解ください」",
-      "en": "“As I said before, I love this City. A <tips=8>Great Hole</tips> is nearby, and so many people have golden eyes. It reminds me of home... I also sympathize with the old men of the <tips=21>Dragon Club</tips>. This City needs neither gangs nor Normals. We <tips=17>Type B</tips> people must be liberated. A City truly built for <tips=17>Type B</tips> people would be magnificent—unlike anything in the world. I would be honored to help. I’m sorry I can’t share the formula. But the moment I hand it over, you might decide that tiresome old man is no longer useful. That would be unfortunate. A wandering old man with nothing needs it if he is to keep a voice as your indispensable comrade. Please understand.”"
+      "en": "“As I said before, I love this City. A <tips=8>Great Hole</tips> is nearby, and so many people have golden eyes. It reminds me of home... I also sympathize with the old men of the <tips=21>Dragon Club</tips>. This City needs neither gangs nor Normals. We <tips=17>Type B</tips> people must be liberated. A City truly built for <tips=17>Type B</tips> people would be magnificent—unlike anything in the world. I would be honored to help. I’m sorry I can’t share the formula. But the moment I hand it over, you might decide that tiresome old man is no longer useful. That would be unfortunate. A wandering old man with nothing needs it if he is to keep a voice as your indispensable comrade. Please understand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0299",
@@ -1922,7 +2959,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は穏やかに笑うけれども、どうも信用出来ないのはおれが疑い過ぎなだけだろうか？",
-      "en": "He smiles gently. Is excessive suspicion the only reason I can’t trust him?"
+      "en": "He smiles gently. Is excessive suspicion the only reason I can’t trust him?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0300",
@@ -1931,7 +2974,13 @@
       "sj": "",
       "se": "",
       "jp": "　世間には、そういった理想を求める<tips=17>タイプB</tips>が多いのは知っている。<tips=65>ヘス</tips>もその一人だというだけなのかもしれない。",
-      "en": "I know that many <tips=17>Type B</tips> people pursue such an ideal. Perhaps <tips=65>Hess</tips> is simply another."
+      "en": "I know that many <tips=17>Type B</tips> people pursue such an ideal. Perhaps <tips=65>Hess</tips> is simply another.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0301",
@@ -1940,7 +2989,13 @@
       "sj": "",
       "se": "",
       "jp": "　だがおれは不審だった。さっきの<tips=23>エリオット</tips>のセリフじゃないが。いっそ金と権力のためだと、ストレートに欲望を語ってくれたほうがまだ信用出来た。",
-      "en": "Still, I don’t trust him. Like <tips=23>Elliott</tips> said earlier, I’d find him easier to believe if he just came out and admitted he wanted money and power."
+      "en": "Still, I don’t trust him. Like <tips=23>Elliott</tips> said earlier, I’d find him easier to believe if he just came out and admitted he wanted money and power.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0302",
@@ -1949,7 +3004,13 @@
       "sj": "",
       "se": "",
       "jp": "「……おっしゃることは理解出来ました。じゃあ、どうしてこんな薬の作り方を知っているのですか？　幻の薬じゃないですか」",
-      "en": "“...I understand what you’re saying. But then how do you know how to make this drug? Isn’t it supposed to be the stuff of legend?”"
+      "en": "“...I understand what you’re saying. But then how do you know how to make this drug? Isn’t it supposed to be the stuff of legend?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0303",
@@ -1958,7 +3019,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「前にも説明しませんでしたっけ？　私は、以前そういった薬を研究する機関に所属してましてね。普通の人が知らないことでも通じているのデスよ。……今は失業してしまって、気ままな旅をしながら、小銭稼ぎをしているだけデス」",
-      "en": "“Did I not explain before? I once belonged to an institution that researched such drugs. I’m so familiar with things ordinary people do not know. ...Now I’m unemployed, traveling as I please and earning a little pocket money.”"
+      "en": "“Did I not explain before? I once belonged to an institution that researched such drugs. I’m so familiar with things ordinary people do not know. ...Now I’m unemployed, traveling as I please and earning a little pocket money.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0304",
@@ -1967,7 +3034,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかりました」",
-      "en": "“Understood.”"
+      "en": "“Understood.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0305",
@@ -1976,7 +3049,13 @@
       "sj": "",
       "se": "",
       "jp": "　と言うしかない。疑わしいが、具体的に疑義を突きつけるだけの根拠はないのだ。",
-      "en": "There is nothing else I can say. His story is suspicious, but I’ve no solid grounds to challenge any particular part of it."
+      "en": "There is nothing else I can say. His story is suspicious, but I’ve no solid grounds to challenge any particular part of it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0308",
@@ -1985,7 +3064,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれの隣には<tips=66>コンタ</tips>と<tips=67>カミラ</tips>が座っている。",
-      "en": "Beside me sit <tips=66>Konta</tips> and <tips=67>Camilla</tips>."
+      "en": "Beside me sit <tips=66>Konta</tips> and <tips=67>Camilla</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0309",
@@ -1994,7 +3079,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>は<tips=59>暗闇通り</tips>にある不動産屋の娘だ。美人だがキツイ性格で、<tips=17>タイプＢ</tips>至上主義というか――まあ考え方としては爺さんたちと近いものがある。<tips=17>タイプB</tips>以外は敵と見なしているような女だ。自分からリーダーになりたがるタイプで、今回おれの補佐的なポジションを与えられたのもちょっと気にいらないらしく、ずっと表情が硬い。",
-      "en": "<tips=67>Camilla</tips> is the daughter of a real-estate agent on <tips=59>Darkness Street</tips>. Beautiful but severe, she is a <tips=17>Type B</tips> supremacist—or at least her views resemble those of the old men. She seems to regard every person not <tips=17>Type B</tips> as an enemy. The sort who wants to lead, she apparently resents the supporting position beneath me and has worn a rigid expression throughout."
+      "en": "<tips=67>Camilla</tips> is the daughter of a real-estate agent on <tips=59>Darkness Street</tips>. Beautiful but severe, she is a <tips=17>Type B</tips> supremacist—or at least her views resemble those of the old men. She seems to regard every person not <tips=17>Type B</tips> as an enemy. The sort who wants to lead, she apparently resents the supporting position beneath me and has worn a rigid expression throughout.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0310",
@@ -2003,7 +3094,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「それにしても、<tips=21>八龍会</tips>のミナサンが、こうして戦うためのチームを作ってくれたのは、私としてもとても嬉しいデス。今までの何でも秘密でやるのも良い方法デスが、真の自由というものは、みなが見える場所で戦って勝ちとらなければいけないのデスからね。その妥当さを、さっきまで<tips=67>カミラ</tips>さんに話していたのデスよ」",
-      "en": "“In any case, I’m delighted that everyone in the <tips=21>Dragon Club</tips> has formed a team for open battle. Secrecy, as before, is one sound method. But true freedom must be won by fighting where everyone can see. I was explaining that to Ms. <tips=67>Camilla</tips> before you arrived.”"
+      "en": "“In any case, I’m delighted that everyone in the <tips=21>Dragon Club</tips> has formed a team for open battle. Secrecy, as before, is one sound method. But true freedom must be won by fighting where everyone can see. I was explaining that to Ms. <tips=67>Camilla</tips> before you arrived.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0311",
@@ -2012,7 +3109,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうでしたか。……それで、あなたがこの<tips=47>解放軍</tips>にやって欲しい仕事というのは何なのですか？　爺さんたちに提案したものがあると聞いたんですが」",
-      "en": "“I see... Then what task do you wish this <tips=47>Liberation Army</tips> to perform? I heard that you proposed an operation to the old men.”"
+      "en": "“I see... Then what task do you wish this <tips=47>Liberation Army</tips> to perform? I heard that you proposed an operation to the old men.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0312",
@@ -2021,7 +3124,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「オー、そうデス。その話をするために、私は今日ここへ来たのデス。失礼……」",
-      "en": "“Oh, yes. That is why I came today. Pardon me...”"
+      "en": "“Oh, yes. That is why I came today. Pardon me...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0313",
@@ -2030,7 +3139,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はジャケットの内ポケットからハンカチを取り出すと、その大きな鷲鼻に当て、音を立てて鼻をかんだ。",
-      "en": "<tips=65>Hess</tips> takes a handkerchief from inside his jacket, presses it to his enormous hooked nose, and blows loudly."
+      "en": "<tips=65>Hess</tips> takes a handkerchief from inside his jacket, presses it to his enormous hooked nose, and blows loudly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0314",
@@ -2039,7 +3154,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてハンカチを折りたたんでまたポケットに戻す。",
-      "en": "Then he folds it up and puts it back in his pocket."
+      "en": "Then he folds it up and puts it back in his pocket.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0315",
@@ -2048,7 +3169,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「<tips=10>見土</tips>サン、街のハズレにある古い病院を知っていますか？」",
-      "en": "“Mr. <tips=10>Mido</tips>, do you know the old hospital on the outskirts of the City?”"
+      "en": "“Mr. <tips=10>Mido</tips>, do you know the old hospital on the outskirts of the City?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0316",
@@ -2057,7 +3184,13 @@
       "sj": "",
       "se": "",
       "jp": "「病院なら、いくつかあると思いますが……」",
-      "en": "“There are several hospitals out there...”"
+      "en": "“There are several hospitals out there...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0317",
@@ -2066,7 +3199,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「高い塀で囲まれた、<tips=17>タイプB</tips>専用の病院施設デスよ」",
-      "en": "“The hospital facility exclusively for <tips=17>Type B</tips> people, surrounded by high walls.”"
+      "en": "“The hospital facility exclusively for <tips=17>Type B</tips> people, surrounded by high walls.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0318",
@@ -2075,7 +3214,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ『<tips=6>タイプＢ収容所</tips>』ですか」",
-      "en": "“Oh, the <tips=6>Type B Containment Facility</tips>.”"
+      "en": "“Oh, the <tips=6>Type B Containment Facility</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0319",
@@ -2084,7 +3229,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「そうデス！　それデス！　あそこは本当におぞましい場所なんデスよ。<tips=10>見土</tips>サンはそれをご存じデスか？」",
-      "en": "“Yes! That one! It is a truly appalling place. Did you know that, Mr. <tips=10>Mido</tips>?”"
+      "en": "“Yes! That one! It is a truly appalling place. Did you know that, Mr. <tips=10>Mido</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0320",
@@ -2093,7 +3244,13 @@
       "sj": "",
       "se": "",
       "jp": "「よくある<tips=17>タイプB</tips>用の閉鎖病院じゃないんですか？　珍しくもない」　",
-      "en": "“Isn’t it just an ordinary locked hospital for <tips=17>Type B</tips> people? There’s nothing unusual about that.”"
+      "en": "“Isn’t it just an ordinary locked hospital for <tips=17>Type B</tips> people? There’s nothing unusual about that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0321",
@@ -2102,7 +3259,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「ああ、<tips=10>見土</tips>さんもすっかり騙されている」",
-      "en": "“Ah, even Mr. <tips=10>Mido</tips> has been completely deceived.”"
+      "en": "“Ah, even Mr. <tips=10>Mido</tips> has been completely deceived.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0322",
@@ -2111,7 +3274,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はがっくりうなだれて溜息をつく。",
-      "en": "<tips=65>Hess</tips> lets his head droop and sighs."
+      "en": "<tips=65>Hess</tips> lets his head droop and sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e87a6c978265.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0323",
@@ -2120,7 +3289,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「あそこではね、世にも恐ろしい人体実験が行われているのデスよ」",
-      "en": "“They conduct the most terrible human experiments there.”"
+      "en": "“They conduct the most terrible human experiments there.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0324",
@@ -2129,7 +3304,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はがさごそと黒いバッグをあさって、中から写真を取り出してテーブルの上に並べる。",
-      "en": "<tips=65>Hess</tips> rummages through a black bag, removes several photographs, and spreads them on the table."
+      "en": "<tips=65>Hess</tips> rummages through a black bag, removes several photographs, and spreads them on the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0325",
@@ -2138,7 +3319,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「今時こんなアナクロなもので申し訳ないんデスが、どうも画像データより紙の写真で資料を保管する方が落ち着きまして」",
-      "en": "“Forgive the antiquated medium, but I feel safer keeping records as printed photographs than image files.”"
+      "en": "“Forgive the antiquated medium, but I feel safer keeping records as printed photographs than image files.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0326",
@@ -2147,7 +3334,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼が我々によく見えるよう、その枯れ枝のような指で写真を押し出した。",
-      "en": "He slides the photographs toward us with his withered, twig-like fingers."
+      "en": "He slides the photographs toward us with his withered, twig-like fingers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0327",
@@ -2156,7 +3349,13 @@
       "sj": "",
       "se": "",
       "jp": "　あまりカメラの技術がないものが撮影したのか、全体的にぼやけてはいたが、そこには確かに衝撃的な光景が収められていた。",
-      "en": "Perhaps the photographer lacked skill; every image is blurred. Still, their contents are unquestionably shocking."
+      "en": "Perhaps the photographer lacked skill; every image is blurred. Still, their contents are unquestionably shocking.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0328",
@@ -2165,7 +3364,13 @@
       "sj": "",
       "se": "",
       "jp": "　天然光の差し込まない薄暗い部屋で、照明は画面には映っていないがその青白い色からすると蛍光灯か何かだろう。狭苦しいコンクリートの壁と床は、あちこちに細かい文字や絵のようなものが刻み込まれている。",
-      "en": "No daylight reaches the dim room. The light itself is outside the frame, but its sickly blue cast suggests a fluorescent bulb. The cramped concrete walls and floor are covered in tiny scratched words and drawings."
+      "en": "No daylight reaches the dim room. The light itself is outside the frame, but its sickly blue cast suggests a fluorescent bulb. The cramped concrete walls and floor are covered in tiny scratched words and drawings.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0329",
@@ -2174,7 +3379,13 @@
       "sj": "",
       "se": "",
       "jp": "　その部屋の中央にはベッドがあり、その上に横たわる人物は四肢と胴体を鎖で拘束されていた。彼は浴衣のような薄い衣服を身につけており、その前ははだけてあばらの浮かんだ胸が浮かんでいる。そして腰の辺りを白く覆うのは、おむつだろう。",
-      "en": "A bed stands in the center. The man on it has limbs and torso bound with chains. A thin garment resembling a yukata hangs open, exposing a chest sharp with ribs. The white covering at his waist appears to be a diaper."
+      "en": "A bed stands in the center. The man on it has limbs and torso bound with chains. A thin garment resembling a yukata hangs open, exposing a chest sharp with ribs. The white covering at his waist appears to be a diaper.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0330",
@@ -2183,7 +3394,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の肌はひっかき傷のようなものが無数に浮かび、所々青あざも浮かんでいる。手首や足首の拘束には摩擦を防ぐタオルが噛ませてあったが、赤黒い血を吸って汚れていた。",
-      "en": "His skin is covered in scratches and mottled with bruises. Towels have been wedged under the restraints at his wrists and ankles to keep them from chafing, but they’re soaked dark with blood."
+      "en": "His skin is covered in scratches and mottled with bruises. Towels have been wedged under the restraints at his wrists and ankles to keep them from chafing, but they’re soaked dark with blood.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0331",
@@ -2192,7 +3409,13 @@
       "sj": "",
       "se": "",
       "jp": "　頭には電極がテープで貼りつけられ、傍らの機械に繋がっている。機械には黒と緑のメーターがあって、何か波形のようなものを写し出していた。",
-      "en": "Electrodes are taped to his head and wired to a machine beside him. Its black-and-green display shows something like a waveform."
+      "en": "Electrodes are taped to his head and wired to a machine beside him. Its black-and-green display shows something like a waveform.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0332",
@@ -2201,7 +3424,13 @@
       "sj": "",
       "se": "",
       "jp": "　口元はぽってりと膨れたマスクで覆われ、そこからホースが繋がっている。",
-      "en": "A thick, padded mask covers his mouth, with a hose running from it."
+      "en": "A thick, padded mask covers his mouth, with a hose running from it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0333",
@@ -2210,7 +3439,13 @@
       "sj": "",
       "se": "",
       "jp": "　血走った目はぎょろりと剥かれており、撮影者の方を見つめている。",
-      "en": "His bloodshot eyes bulge as he stares straight at whoever took the picture."
+      "en": "His bloodshot eyes bulge as he stares straight at whoever took the picture.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0334",
@@ -2219,7 +3454,13 @@
       "sj": "",
       "se": "",
       "jp": "　写真は六枚あったが、若い女や老女など、様々な人物が写っていたがいずれも同じように鎖で拘束され、計器に繋がれていた。",
-      "en": "There are six photographs: young women, old women, all kinds of people. Every one is chained and connected to instruments."
+      "en": "There are six photographs: young women, old women, all kinds of people. Every one is chained and connected to instruments.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0335",
@@ -2228,7 +3469,13 @@
       "sj": "",
       "se": "",
       "jp": "　あとから<tips=65>ヘス</tips>はさらに二枚の写真を追加する。そこの人物はベッドに繋がれてはいないものの、マットと便器しかないコンクリートの部屋のなかから、全裸でこちらを睨み付けている。彼のまわりには、無数の紙片が散らばっていた。",
-      "en": "<tips=65>Hess</tips> adds two more. Their subject isn’t fastened to a bed, but stands naked and glares from a concrete room containing only a mat and toilet. Countless scraps of paper surround him."
+      "en": "<tips=65>Hess</tips> adds two more. Their subject isn’t fastened to a bed, but stands naked and glares from a concrete room containing only a mat and toilet. Countless scraps of paper surround him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0336",
@@ -2237,7 +3484,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは説明を受けなくとも、それらが重度の症状があらわれた<tips=17>タイプB</tips>患者であることがわかる。",
-      "en": "No explanation is necessary. I can tell these are <tips=17>Type B</tips> patients with severe symptoms."
+      "en": "No explanation is necessary. I can tell these are <tips=17>Type B</tips> patients with severe symptoms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0337",
@@ -2246,7 +3499,13 @@
       "sj": "",
       "se": "",
       "jp": "「病院の地下には檻のついた部屋があって、そこではこのように我々の同胞が非人道的な扱いをされているのデス」",
-      "en": "“Rooms with barred cages exist in the hospital’s basement. There, our brethren are treated inhumanely, just as you see.”"
+      "en": "“Rooms with barred cages exist in the hospital’s basement. There, our brethren are treated inhumanely, just as you see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0338",
@@ -2255,7 +3514,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はその灰色がかったカラーコンタクトを乗せた瞳でおれたちの表情を観察しながら、しわがれ声で言う。",
-      "en": "<tips=65>Hess</tips> watches our reactions through gray-tinted contacts as he speaks in his rasping voice."
+      "en": "<tips=65>Hess</tips> watches our reactions through gray-tinted contacts as he speaks in his rasping voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0339",
@@ -2264,7 +3529,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「これは治療ではありませんよ。新薬を試したり、珍しい症状の観察記録をとられているだけデス。ほら、コチラの患者の頭を見てください。縫合の痕があるでしょう？　脳に手術を受けているのですよ。<tips=17>タイプB</tips>に対する脳外科手術による治療はあまりに非人道的だということで禁止されているのに。……つまり、人体実験が行われているのデスな。非合法の」",
-      "en": "“This isn’t treatment. They’re testing new drugs and recording rare symptoms. Look at the sutures on this patient’s head. They operated on his brain. Neurosurgery on <tips=17>Type B</tips> patients is forbidden as inhumane... In other words, they’re conducting illegal experiments on human beings.”"
+      "en": "“This isn’t treatment. They’re testing new drugs and recording rare symptoms. Look at the sutures on this patient’s head. They operated on his brain. Neurosurgery on <tips=17>Type B</tips> patients is forbidden as inhumane... In other words, they’re conducting illegal experiments on human beings.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0340",
@@ -2273,7 +3544,13 @@
       "sj": "",
       "se": "",
       "jp": "「確かに縛り付けられていますね。……でも、あなたの言うように非合法な行為が行われているかどうかは、これだけじゃわからない。<tips=17>タイプB</tips>を扱う病院は大体こんなもんでしょう？　<tips=17>タイプB</tips>なんてものは治しようがないし、腕力ではノーマルの手には負えないんですから、管理するにはそれ相応の手段が必要だ」",
-      "en": "“They’re restrained, certainly. ...But these pictures alone don’t prove that anything illegal is happening. Aren’t most hospitals for <tips=17>Type B</tips> people like this? There’s no cure for <tips=17>Type B</tips> patients, and Normals can’t overpower them. They need measures like these to keep the patients under control.”"
+      "en": "“They’re restrained, certainly. ...But these pictures alone don’t prove that anything illegal is happening. Aren’t most hospitals for <tips=17>Type B</tips> people like this? There’s no cure for <tips=17>Type B</tips> patients, and Normals can’t overpower them. They need measures like these to keep the patients under control.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0341",
@@ -2282,7 +3559,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは写真から顔を上げて、",
-      "en": "I look up from the photographs."
+      "en": "I look up from the photographs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0342",
@@ -2291,7 +3574,13 @@
       "sj": "",
       "se": "",
       "jp": "「こんな写真、どうやって撮影したんですか？」",
-      "en": "“How were these pictures taken?”"
+      "en": "“How were these pictures taken?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0343",
@@ -2300,7 +3589,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「潜入が非常に得意な協力者がいるんデス。その人物にやってもらいました。……彼女とは、<tips=10>見土</tips>さんもいずれ会うでしょう。この写真は、そちらで持ってくださって結構デス」",
-      "en": "“I’ve a collaborator exceptionally skilled at infiltration. She took them... You’ll meet her eventually, Mr. <tips=10>Mido</tips>. Keep the photographs.”"
+      "en": "“I’ve a collaborator exceptionally skilled at infiltration. She took them... You’ll meet her eventually, Mr. <tips=10>Mido</tips>. Keep the photographs.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0344",
@@ -2309,7 +3604,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はパタリとバッグを閉じて足元に置くと、",
-      "en": "<tips=65>Hess</tips> snaps the bag shut and sets it by his feet."
+      "en": "<tips=65>Hess</tips> snaps the bag shut and sets it by his feet.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0345",
@@ -2318,7 +3619,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「どこの病院でもやっていることだと<tips=10>見土</tips>さんは言いましたが、ソモソモ、もうこんな患者を苦しめるだけの施設は必要ないんデスよ。我々は全ての仲間の苦しみを取り除く手段を持っているんデスから」",
-      "en": "“You said every hospital does such things, Mr. <tips=10>Mido</tips>. But we no longer need facilities that do nothing but torment patients. We have the means to end every comrade’s suffering.”"
+      "en": "“You said every hospital does such things, Mr. <tips=10>Mido</tips>. But we no longer need facilities that do nothing but torment patients. We have the means to end every comrade’s suffering.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0346",
@@ -2327,7 +3634,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はぬめぬめと濡れた舌で、乾燥してひび割れた唇を舐める。",
-      "en": "He licks his dry, cracked lips with a slick, wet tongue."
+      "en": "He licks his dry, cracked lips with a slick, wet tongue.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0347",
@@ -2336,7 +3649,13 @@
       "sj": "",
       "se": "",
       "jp": "　ここまで聞いて、この老人が<tips=47>八龍解放軍</tips>に何をやらせようとしているのか、おれにもなんとなくわかってきた。",
-      "en": "By now, I’ve a pretty good idea what the old man wants the <tips=47>Dragon Liberation Army</tips> to do."
+      "en": "By now, I’ve a pretty good idea what the old man wants the <tips=47>Dragon Liberation Army</tips> to do.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e6722a8daea0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0348",
@@ -2345,7 +3664,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「そこで<tips=10>見土</tips>さんにはね、彼らを解放して欲しいんデスよ。こうして縛られている仲間だけでなく、病院に閉じ込められている可哀想な全ての同胞を」",
-      "en": "“So, Mr. <tips=10>Mido</tips>, I want you to liberate them—not only those chained in these photographs, but every unfortunate comrade confined in the hospital.”"
+      "en": "“So, Mr. <tips=10>Mido</tips>, I want you to liberate them—not only those chained in these photographs, but every unfortunate comrade confined in the hospital.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0349",
@@ -2354,7 +3679,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうやって？　彼らは塀の中にいる」",
-      "en": "“How? They’re behind walls.”"
+      "en": "“How? They’re behind walls.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0350",
@@ -2363,7 +3694,13 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「世界で一番シンプルな方法ですよ。……私は武器を買いつけました。ソレを<tips=47>八龍解放軍</tips>にプレゼントします。火器を用いれば、病院の貧弱な警備などものともしないでしょう。私は強力なサイキックを一人貸しますし、<tips=10>見土</tips>さんの切断する能力も役に立つ筈です」",
-      "en": "“By the simplest method in the world... I bought weapons, and I’ll give them to the <tips=47>Dragon Liberation Army</tips>. With guns, the hospital’s weak security will pose no problem. I’ll lend you one powerful psychic, and Mr. <tips=10>Mido</tips>’s cutting ability should be useful too.”"
+      "en": "“By the simplest method in the world... I bought weapons, and I’ll give them to the <tips=47>Dragon Liberation Army</tips>. With guns, the hospital’s weak security will pose no problem. I’ll lend you one powerful psychic, and Mr. <tips=10>Mido</tips>’s cutting ability should be useful too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B4-1:0351",
@@ -2372,7 +3709,17 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そ、そんな乱暴なこと、出来っこないでしょう？　警備員が逆らったら？　医者や看護師が患者を出せないと言ったらどうするんですか？」",
-      "en": "“W-we can’t do something that violent! What if the guards resist? What if the doctors and nurses say the patients can’t leave?”"
+      "en": "“W-we can’t do something that violent! What if the guards resist? What if the doctors and nurses say the patients can’t leave?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0352",
@@ -2381,7 +3728,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はつばを飛ばして抗議をする。",
-      "en": "<tips=66>Konta</tips> protests so frantically he sprays spit."
+      "en": "<tips=66>Konta</tips> protests so frantically he sprays spit.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0353",
@@ -2390,7 +3747,17 @@
       "sj": "",
       "se": "",
       "jp": "　それに答えたのは<tips=65>ヘス</tips>じゃなかった。",
-      "en": "But <tips=65>Hess</tips> isn’t the one who answers."
+      "en": "But <tips=65>Hess</tips> isn’t the one who answers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0354",
@@ -2399,7 +3766,21 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「そのときのために、彼は銃を貸してくれると言っているんです」",
-      "en": "“That is why he is lending us guns.”"
+      "en": "“That is why he is lending us guns.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0355",
@@ -2408,7 +3789,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>は平然と言い放つ。――彼女の普段の言動からすれば、こういった<tips=65>ヘス</tips>の意見に賛成するのはわかりきったことだ。",
-      "en": "<tips=67>Camilla</tips> says it without batting an eye. —Given everything I know about her, of course she agrees with <tips=65>Hess</tips>."
+      "en": "<tips=67>Camilla</tips> says it without batting an eye. —Given everything I know about her, of course she agrees with <tips=65>Hess</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0356",
@@ -2417,7 +3812,21 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「この街を変えてゆくのに、まず手始めに我々を人間扱いしない人々の象徴であるあの病院を打ち壊し、仲間を解放するというのはとてもいいプランだと思います」",
-      "en": "“As the first step toward changing the City, destroying the hospital that symbolizes those who deny our humanity—and freeing our comrades—strikes me as an excellent plan.”"
+      "en": "“As the first step toward changing the City, destroying the hospital that symbolizes those who deny our humanity—and freeing our comrades—strikes me as an excellent plan.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0357",
@@ -2426,7 +3835,21 @@
       "sj": "",
       "se": "",
       "jp": "　彼女の容赦ない言葉に<tips=66>コンタ</tips>はむっとした顔つきをする。",
-      "en": "<tips=66>Konta</tips> bristles at her merciless answer."
+      "en": "<tips=66>Konta</tips> bristles at her merciless answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0358",
@@ -2435,7 +3858,21 @@
       "sj": "",
       "se": "",
       "jp": "「相変わらず過激派だねえ。<tips=67>カミラ</tips>ちゃん」",
-      "en": "“Still a radical, huh, <tips=67>Camilla</tips>?”"
+      "en": "“Still a radical, huh, <tips=67>Camilla</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0359",
@@ -2444,7 +3881,21 @@
       "sj": "",
       "se": "",
       "jp": "　場の空気をやわらげなきゃいけないと、そんな冗談を言ってみたら、<tips=67>カミラ</tips>は表情をかたくしておれを見る。",
-      "en": "I try the joke to ease the tension. <tips=67>Camilla</tips> just fixes me with a hard stare."
+      "en": "I try the joke to ease the tension. <tips=67>Camilla</tips> just fixes me with a hard stare.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0360",
@@ -2453,7 +3904,21 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「<tips=10>見土</tips>さん……いや、リーダーはどうお考えですか？」",
-      "en": "“Mr. <tips=10>Mido</tips>... No, Commander. What is your opinion?”"
+      "en": "“Mr. <tips=10>Mido</tips>... No, Commander. What is your opinion?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0361",
@@ -2462,7 +3927,21 @@
       "sj": "",
       "se": "",
       "jp": "　何かの皮肉のつもりか『リーダー』の部分を強調して言う。",
-      "en": "She puts pointed emphasis on ‘Commander,’ apparently as a jab at me."
+      "en": "She puts pointed emphasis on ‘Commander,’ apparently as a jab at me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0362",
@@ -2471,7 +3950,21 @@
       "sj": "",
       "se": "",
       "jp": "　この子のそういう気の強いところは嫌いじゃないけれど、こういう場面ではちょっと困ったりもする。",
-      "en": "I don’t dislike that fierce streak in her, but at moments like this, it can be a real pain."
+      "en": "I don’t dislike that fierce streak in her, but at moments like this, it can be a real pain.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0363",
@@ -2480,7 +3973,21 @@
       "sj": "",
       "se": "",
       "jp": "「どうもこうも……」",
-      "en": "“What do I think...?”"
+      "en": "“What do I think...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0364",
@@ -2489,7 +3996,21 @@
       "sj": "",
       "se": "",
       "jp": "　おれは両手を軽く上げて、どうしようもない、というような仕草をしてから、",
-      "en": "I raise my hands in a helpless little shrug, then say:"
+      "en": "I raise my hands in a helpless little shrug, then say:",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0365",
@@ -2498,7 +4019,21 @@
       "sj": "",
       "se": "",
       "jp": "「爺さんたちはこの作戦を支持している。……この<tips=47>八龍解放軍</tips>ってのは、まあ要するに<tips=21>八龍会</tips>の軍隊なわけだろう？　だとしたら、独自の判断をすべきではないと考えるね。トップの意向に従い、与えられた目標を達成するだけだ」",
-      "en": "“The old men support the operation. ...The <tips=47>Dragon Liberation Army</tips> is basically the <tips=21>Dragon Club</tips>’s army, right? In that case, it isn’t our place to make policy. We follow the leaders’ orders and accomplish the mission we’re given.”"
+      "en": "“The old men support the operation. ...The <tips=47>Dragon Liberation Army</tips> is basically the <tips=21>Dragon Club</tips>’s army, right? In that case, it isn’t our place to make policy. We follow the leaders’ orders and accomplish the mission we’re given.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0366",
@@ -2507,7 +4042,21 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君……」",
-      "en": "“<tips=10>Michio</tips>...”"
+      "en": "“<tips=10>Michio</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0367",
@@ -2516,7 +4065,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はおれを見る。",
-      "en": "<tips=66>Konta</tips> looks at me."
+      "en": "<tips=66>Konta</tips> looks at me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0368",
@@ -2525,7 +4088,21 @@
       "sj": "",
       "se": "",
       "jp": "　そんな驚いたような、悲しいような目でおれを見ないでくれ。",
-      "en": "Don’t look at me like that—half shocked and half heartbroken."
+      "en": "Don’t look at me like that—half shocked and half heartbroken.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c4b330950e31.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0369",
@@ -2534,7 +4111,21 @@
       "sj": "カミラ",
       "se": "Camilla Northam",
       "jp": "「本心では気が進まないような口ぶりですね」",
-      "en": "“You sound as though you don’t truly want to do it.”"
+      "en": "“You sound as though you don’t truly want to do it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0370",
@@ -2543,7 +4134,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=67>カミラ</tips>は冷ややかに言う。細かい女だ。",
-      "en": "<tips=67>Camilla</tips> says it coldly. She has to pick at every little thing."
+      "en": "<tips=67>Camilla</tips> says it coldly. She has to pick at every little thing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0371",
@@ -2552,7 +4157,21 @@
       "sj": "",
       "se": "",
       "jp": "「そりゃ気持ちよく取りかかれる仕事じゃない。が、やると言っている。……ただ、あらかじめ聞いておきたいんだけれど……いいですか？」",
-      "en": "“Of course I’m not thrilled about it. But I said I’ll do it. ...There are a few things I want to ask first, though. Is that all right?”"
+      "en": "“Of course I’m not thrilled about it. But I said I’ll do it. ...There are a few things I want to ask first, though. Is that all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0372",
@@ -2561,7 +4180,21 @@
       "sj": "",
       "se": "",
       "jp": "　おれは<tips=65>ヘス</tips>の方を見ながら、",
-      "en": "I look toward <tips=65>Hess</tips>."
+      "en": "I look toward <tips=65>Hess</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0373",
@@ -2570,7 +4203,21 @@
       "sj": "",
       "se": "",
       "jp": "「症状で苦しむ彼らを『<tips=46>ネオ・ローズ</tips>』で解放するのはいいでしょう。しかし、そのあとどうします？　あの病院で治療を受けている患者には、帰るったって帰る場所もない人だって多いでしょう」",
-      "en": "“Giving <tips=46>Neo-Rose</tips> to the people suffering from symptoms is fine. But what happens afterward? A lot of the patients in that hospital won’t have anywhere to go back to.”"
+      "en": "“Giving <tips=46>Neo-Rose</tips> to the people suffering from symptoms is fine. But what happens afterward? A lot of the patients in that hospital won’t have anywhere to go back to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0374",
@@ -2579,7 +4226,21 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「その件に関しては<tips=21>八龍会</tips>で引き取るということで、あのお三人とも合意しています。丁度人手不足だそうですし、この先、人はいくらいても足りなくなるでしょう」",
-      "en": "“We have already agreed with the three gentlemen that the <tips=21>Dragon Club</tips> will take them in. I hear you’re short-handed already, and before long, you’ll need every pair of hands you can get.”"
+      "en": "“We have already agreed with the three gentlemen that the <tips=21>Dragon Club</tips> will take them in. I hear you’re short-handed already, and before long, you’ll need every pair of hands you can get.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0375",
@@ -2588,7 +4249,21 @@
       "sj": "",
       "se": "",
       "jp": "「もう一ついいですか」",
-      "en": "“May I ask one more?”"
+      "en": "“May I ask one more?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0376",
@@ -2597,7 +4272,21 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「どうぞ」",
-      "en": "“Please.”"
+      "en": "“Please.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0377",
@@ -2606,7 +4295,21 @@
       "sj": "",
       "se": "",
       "jp": "「このような襲撃をしたら、ノーマルの反感を買いますよ。そうしたら、<tips=17>タイプB</tips>に対する風当たりが強くなるでしょう。街で迫害を受けるかもしれない。そのことについてはどうお考えで？」",
-      "en": "“If we attack a hospital like this, we’ll turn the Normals against us. That will only make life harder for <tips=17>Type B</tips> people. They could be persecuted all over the City. What do you intend to do about that?”"
+      "en": "“If we attack a hospital like this, we’ll turn the Normals against us. That will only make life harder for <tips=17>Type B</tips> people. They could be persecuted all over the City. What do you intend to do about that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0378",
@@ -2615,7 +4318,21 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「<tips=10>見土</tips>さん、そんなコトにならないよう、ノーマルたちを怯えさせ、同胞が勇気を取り戻すくらい、徹底的にやるのがあなた方<tips=47>八龍解放軍</tips>の仕事でしょう？　……この街を支配するためには、彼らをおそれさせ、従属させるのが絶対に必要なんデスから、それをよく理解してもらわないと。<tips=7>ＹＳ</tips>の<tips=3>クリス・ツェー</tips>がそうしたように、人々を<tips=21>八龍会</tips>の前にひれふさせるのデス」",
-      "en": "“Mr. <tips=10>Mido</tips>, preventing that’s precisely your <tips=47>Dragon Liberation Army</tips>’s duty. Act so thoroughly that the Normals are terrified and your comrades recover their courage... To rule this City, you must make them fear and obey you. Understand that. Just as <tips=7>YS</tips> under <tips=3>Chris Xie</tips> did, make the people prostrate themselves before the <tips=21>Dragon Club</tips>.”"
+      "en": "“Mr. <tips=10>Mido</tips>, preventing that’s precisely your <tips=47>Dragon Liberation Army</tips>’s duty. Act so thoroughly that the Normals are terrified and your comrades recover their courage... To rule this City, you must make them fear and obey you. Understand that. Just as <tips=7>YS</tips> under <tips=3>Chris Xie</tips> did, make the people prostrate themselves before the <tips=21>Dragon Club</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0379",
@@ -2624,7 +4341,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=65>ヘス</tips>はうっすらと笑みを浮かべる。",
-      "en": "A faint smile appears on <tips=65>Hess</tips>’s face."
+      "en": "A faint smile appears on <tips=65>Hess</tips>’s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0380",
@@ -2633,7 +4364,21 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「他に質問はありますか？」",
-      "en": "“Do you’ve any other questions?”"
+      "en": "“Do you’ve any other questions?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0381",
@@ -2642,7 +4387,21 @@
       "sj": "",
       "se": "",
       "jp": "「……今はないです」",
-      "en": "“...Not at the moment.”"
+      "en": "“...Not at the moment.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0382",
@@ -2651,7 +4410,21 @@
       "sj": "エフゲニ・ヘス",
       "se": "Evgenij Hess",
       "jp": "「わかりました。それじゃあ、これからのことを具体的に話し合いましょうか」",
-      "en": "“Very well. Then shall we discuss the practical details?”"
+      "en": "“Very well. Then shall we discuss the practical details?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-04a328709617.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3952ce735e4e.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-155ed09526bc.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0384",
@@ -2669,7 +4442,8 @@
       "sj": "",
       "se": "",
       "jp": "　全ての用事が終わって外に出ると、外はもう暗くなっており、雨足も強くなっていた。",
-      "en": "By the time we finish our business and step outside, it’s already dark, and the rain is coming down harder."
+      "en": "By the time we finish our business and step outside, it’s already dark, and the rain is coming down harder.",
+      "bg": "assets/vn/backgrounds/bg-1f339ba44efe.webp"
     },
     {
       "id": "B4-1:0400",
@@ -2687,7 +4461,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君、本当に、あんな滅茶苦茶なことを実行するつもりなの？」",
-      "en": "“<tips=10>Michio</tips>, do you really mean to carry out something that insane?”"
+      "en": "“<tips=10>Michio</tips>, do you really mean to carry out something that insane?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0402",
@@ -2696,7 +4476,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は浮かない顔で言う。",
-      "en": "His face is gloomy as he says it."
+      "en": "His face is gloomy as he says it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0403",
@@ -2705,7 +4491,13 @@
       "sj": "",
       "se": "",
       "jp": "　先ほどの<tips=65>ヘス</tips>や<tips=67>カミラ</tips>を交えた打ち合わせのときも、その顔でほとんど口をきかなかった。",
-      "en": "He wore the same expression during the meeting with <tips=65>Hess</tips> and <tips=67>Camilla</tips>, and barely said a word."
+      "en": "He wore the same expression during the meeting with <tips=65>Hess</tips> and <tips=67>Camilla</tips>, and barely said a word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0404",
@@ -2714,7 +4506,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「おれだって、<tips=21>八龍会</tips>の仕事をやった方が良いとは思っていたけど、あれはちょっと想像を超えていたよ。これじゃ、ギャングたちと何も変わらないじゃないか」",
-      "en": "“I thought we should work for the <tips=21>Dragon Club</tips>. But this is beyond anything I imagined. How are we any different from the gangs?”"
+      "en": "“I thought we should work for the <tips=21>Dragon Club</tips>. But this is beyond anything I imagined. How are we any different from the gangs?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0405",
@@ -2723,7 +4521,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は溜息をつく。",
-      "en": "<tips=66>Konta</tips> sighs."
+      "en": "<tips=66>Konta</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0406",
@@ -2732,7 +4536,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=66>コンタ</tips>。おれだって、わかっちゃいるんだ。本心を言えば饅頭屋を続けたかった。やっと売れてきたところだしね。でもそれじゃ助からないんだ。……長く続けていればみんなを助けられたかもしれないが、それじゃ間に合わないんだよ。<tips=21>八龍会</tips>はもう戦争に足を踏み入れている。<tips=7>ＹＳ</tips>にああいう態度で喧嘩を売った時点で後戻りは出来ない。<tips=1>亮</tips>はもうこっちを完全に敵と見なしているだろうよ。もともと<tips=21>八龍会</tips>ってのは、<tips=7>ＹＳ</tips>にとって邪魔な存在だったから、この機会で完全に潰しにかかるだろう。<tips=21>八龍会</tips>が生き残るには、戦って勝つしかないんだ」",
-      "en": "“<tips=66>Konta</tips>, I know. I do. If I’m honest, I wanted to keep selling buns. They were finally starting to catch on. But buns won’t save anyone—not in time. Maybe if we kept at it long enough, we could eventually help everyone, but we don’t have that kind of time. The <tips=21>Dragon Club</tips> has already stepped into a war. The moment it picked a fight with <tips=7>YS</tips> the way it did, there was no going back. <tips=1>Liang</tips> must see us as outright enemies by now. The <tips=21>Dragon Club</tips> was always a nuisance to <tips=7>YS</tips>, and now they’ll use this chance to wipe us out for good. If the <tips=21>Dragon Club</tips> wants to survive, we have to fight—and win.”"
+      "en": "“<tips=66>Konta</tips>, I know. I do. If I’m honest, I wanted to keep selling buns. They were finally starting to catch on. But buns won’t save anyone—not in time. Maybe if we kept at it long enough, we could eventually help everyone, but we don’t have that kind of time. The <tips=21>Dragon Club</tips> has already stepped into a war. The moment it picked a fight with <tips=7>YS</tips> the way it did, there was no going back. <tips=1>Liang</tips> must see us as outright enemies by now. The <tips=21>Dragon Club</tips> was always a nuisance to <tips=7>YS</tips>, and now they’ll use this chance to wipe us out for good. If the <tips=21>Dragon Club</tips> wants to survive, we have to fight—and win.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0407",
@@ -2741,7 +4551,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「戦うって……相手はあの<tips=1>亮</tips>だよ？　戦えるのかい？」",
-      "en": "“Fight...? You mean <tips=1>Liang</tips>. Can you fight him?”"
+      "en": "“Fight...? You mean <tips=1>Liang</tips>. Can you fight him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0408",
@@ -2750,7 +4566,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>亮</tips>は大事な親友だよ。でも、爺さんたちや、<tips=21>八龍会</tips>のみんな、そしてこの街で苦しむ<tips=17>タイプB</tips>たちはおれの家族なんだ。<tips=67>カミラ</tips>も、そこの部分は同じだ。……おれと<tips=67>カミラ</tips>の性格は全然違うけど、だからきっと、あいつともうまくやっていけると思うな」",
-      "en": "“<tips=1>Liang</tips> is my dearest friend. But the old men, everyone in the <tips=21>Dragon Club</tips>, and all the <tips=17>Type B</tips> people suffering in this City are my family. <tips=67>Camilla</tips> feels the same way about that. ...We couldn’t be more different otherwise, which is exactly why I think I can work well with <tips=67>Camilla</tips>.”"
+      "en": "“<tips=1>Liang</tips> is my dearest friend. But the old men, everyone in the <tips=21>Dragon Club</tips>, and all the <tips=17>Type B</tips> people suffering in this City are my family. <tips=67>Camilla</tips> feels the same way about that. ...We couldn’t be more different otherwise, which is exactly why I think I can work well with <tips=67>Camilla</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0409",
@@ -2759,7 +4581,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「お、おれだって、みんなのことは大事だけど……でも争いを避ける方法もあるんじゃないのかい？」",
-      "en": "“I-I care about everyone too... But isn’t there some way to avoid fighting?”"
+      "en": "“I-I care about everyone too... But isn’t there some way to avoid fighting?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0410",
@@ -2768,7 +4596,13 @@
       "sj": "",
       "se": "",
       "jp": "　子供の頃から暴力ごとが苦手な<tips=66>コンタ</tips>は真っ青になっている。",
-      "en": "<tips=66>Konta</tips> has hated violence since we were children. Now he has gone white as a sheet."
+      "en": "<tips=66>Konta</tips> has hated violence since we were children. Now he has gone white as a sheet.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0411",
@@ -2777,7 +4611,13 @@
       "sj": "",
       "se": "",
       "jp": "「……おれはね、大事なものがあって、それを守るために対立したり、戦ったりするのは人間として誇り高いことだと思ってる。しかも、相手が最も尊敬している親友で、全力で力比べが出来るとなればこれはもう男冥利に尽きるじゃないか」",
-      "en": "“...I think there’s something noble—something deeply human—about having something precious and fighting to protect it. And if the man standing against you is the best friend you respect above anyone else, and the two of you can finally go all out... What more could a man ask for?”"
+      "en": "“...I think there’s something noble—something deeply human—about having something precious and fighting to protect it. And if the man standing against you is the best friend you respect above anyone else, and the two of you can finally go all out... What more could a man ask for?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0412",
@@ -2786,7 +4626,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君、少年漫画とか好きだもんね……」",
-      "en": "“You do love shounen manga, <tips=10>Michio</tips>...”"
+      "en": "“You do love shounen manga, <tips=10>Michio</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0413",
@@ -2795,7 +4641,13 @@
       "sj": "",
       "se": "",
       "jp": "「変な言い方するな。……まあでも、<tips=1>亮</tips>がこの街に帰ってきた時から、こんな日が来るんじゃないかと思ってはいたんだよ。いや、はじめてあいつが<tips=3>クリス・ツェー</tips>の息子だと知ったときから、うっすら感じていたのかもな」",
-      "en": "“Don’t make it sound weird. ...Still, ever since <tips=1>Liang</tips> came back to the City, part of me knew this day might come. No—maybe I’d felt it ever since I first learned he was <tips=3>Chris Xie</tips>’s son.”"
+      "en": "“Don’t make it sound weird. ...Still, ever since <tips=1>Liang</tips> came back to the City, part of me knew this day might come. No—maybe I’d felt it ever since I first learned he was <tips=3>Chris Xie</tips>’s son.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0414",
@@ -2804,7 +4656,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「まあ、<tips=10>道夫</tips>君の言うこともわかるよ」",
-      "en": "“I suppose I understand what you mean, <tips=10>Michio</tips>.”"
+      "en": "“I suppose I understand what you mean, <tips=10>Michio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0415",
@@ -2813,7 +4671,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はうつむき、",
-      "en": "<tips=66>Konta</tips> lowers his head."
+      "en": "<tips=66>Konta</tips> lowers his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0416",
@@ -2822,7 +4686,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「でも、前の仕事をやめるとき、おれは思ったんだよ。もう誰かを傷つけたり、騙したり、そういうことはしたくないって……」",
-      "en": "“When I left my old job, I decided I never wanted to hurt or deceive anyone again...”"
+      "en": "“When I left my old job, I decided I never wanted to hurt or deceive anyone again...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0417",
@@ -2831,7 +4701,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=66>コンタ</tips>、それは素晴らしい考えだよ」",
-      "en": "“<tips=66>Konta</tips>, that’s a wonderful conviction.”"
+      "en": "“<tips=66>Konta</tips>, that’s a wonderful conviction.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0418",
@@ -2840,7 +4716,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは笑って<tips=66>コンタ</tips>の肩を軽く叩いて、",
-      "en": "I smile and give <tips=66>Konta</tips> a light pat on the shoulder."
+      "en": "I smile and give <tips=66>Konta</tips> a light pat on the shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0419",
@@ -2849,7 +4731,13 @@
       "sj": "",
       "se": "",
       "jp": "「お前は襲撃に来なくていい。事務処理とか、内部の人事調整とか、そういう内向きの仕事をやればいい。そっちの方が向いてるしな。そして一通りの争いが終わって、街が平和になったら、お前が『<tips=71>グレートホール饅頭</tips>』のプロジェクトを再開するんだ」",
-      "en": "“You don’t have to join the attack. You can handle paperwork, personnel, that sort of thing. You’re better suited to work behind the scenes. Then once the fighting is over and the City is peaceful, you can restart the <tips=71>Great Hole Manju</tips> project.”"
+      "en": "“You don’t have to join the attack. You can handle paperwork, personnel, that sort of thing. You’re better suited to work behind the scenes. Then once the fighting is over and the City is peaceful, you can restart the <tips=71>Great Hole Manju</tips> project.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0420",
@@ -2858,7 +4746,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「なんでおれが？」",
-      "en": "“Why me?”"
+      "en": "“Why me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0421",
@@ -2867,7 +4761,13 @@
       "sj": "",
       "se": "",
       "jp": "「おれはこのままだと、<tips=21>八龍会</tips>のなかでどんどん出世しちゃうからな。饅頭屋なんかやってられなくなる」",
-      "en": "“At this rate, I’ll keep climbing the ranks of the <tips=21>Dragon Club</tips>. I won’t have time to run a bun shop.”"
+      "en": "“At this rate, I’ll keep climbing the ranks of the <tips=21>Dragon Club</tips>. I won’t have time to run a bun shop.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0422",
@@ -2876,7 +4776,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが胸を張って言ってやった。すると、<tips=66>コンタ</tips>は苦い顔をして、",
-      "en": "I say it with my chest puffed out. <tips=66>Konta</tips> grimaces."
+      "en": "I say it with my chest puffed out. <tips=66>Konta</tips> grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0423",
@@ -2885,7 +4791,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「ダメだよ。おれなんかじゃ……」",
-      "en": "“I can’t. Someone like me...”"
+      "en": "“I can’t. Someone like me...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0424",
@@ -2894,7 +4806,13 @@
       "sj": "",
       "se": "",
       "jp": "「何言ってるんだよ！　お前なら出来るさ！　みんなに信頼されている。自信を持てよ」",
-      "en": "“What are you talking about? Of course you can! Everyone trusts you. Have a little confidence.”"
+      "en": "“What are you talking about? Of course you can! Everyone trusts you. Have a little confidence.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0425",
@@ -2903,7 +4821,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが背中を叩いても、<tips=66>コンタ</tips>は顔を上げない。",
-      "en": "Even when I clap him on the back, <tips=66>Konta</tips> won’t look up."
+      "en": "Even when I clap him on the back, <tips=66>Konta</tips> won’t look up.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0426",
@@ -2912,7 +4836,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「……無理だよ……本当に……」",
-      "en": "“...I really can’t...”"
+      "en": "“...I really can’t...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0427",
@@ -2921,7 +4851,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこでやっと彼は顔を上げ、おれを見つめる。",
-      "en": "At last, he raises his head and looks me in the eye."
+      "en": "At last, he raises his head and looks me in the eye.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0428",
@@ -2930,7 +4866,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして意を決したような表情をして、何を言うかと思えば、",
-      "en": "He looks as though he has finally made some terrible decision. I wait to hear what it is, and then—"
+      "en": "He looks as though he has finally made some terrible decision. I wait to hear what it is, and then—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0429",
@@ -2939,7 +4881,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「だって、おれ、本当は甘いものきらいなんだ。<tips=10>道夫</tips>君がやってたみたいに毎日試食してたら死んじゃう」",
-      "en": "“Because the truth is, I hate sweets. If I tasted them every day like you did, <tips=10>Michio</tips>, I’d die.”"
+      "en": "“Because the truth is, I hate sweets. If I tasted them every day like you did, <tips=10>Michio</tips>, I’d die.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "B4-1:0430",
@@ -2948,7 +4896,13 @@
       "sj": "",
       "se": "",
       "jp": "　と、半分涙声で言うのだった。",
-      "en": "he says it with tears in his voice."
+      "en": "he says it with tears in his voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "c"
+        }
+      ]
     }
   ]
 }

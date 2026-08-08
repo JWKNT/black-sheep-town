@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　その頃は今よりもはっきりとした四季があった。",
-      "en": "Back then, the four seasons stood out more clearly than they do now."
+      "en": "Back then, the four seasons stood out more clearly than they do now.",
+      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
     },
     {
       "id": "x12:0010",
@@ -113,7 +114,8 @@
       "sj": "",
       "se": "",
       "jp": "　第三世代はそうした状況のなか、近所の子供が集まった遊び仲間の輪から生まれた。",
-      "en": "The third generation emerged from all this, growing out of circles of neighborhood children who had first come together simply to play."
+      "en": "The third generation emerged from all this, growing out of circles of neighborhood children who had first come together simply to play.",
+      "bg": "assets/vn/backgrounds/bg-1fd91cc75eb3.webp"
     },
     {
       "id": "x12:0026",
@@ -221,7 +223,14 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「ねえ帰ろうよ<tips=10>道夫</tips>君。たった二人で、見つかったらどうすんのさ」",
-      "en": "“Come on, let's go home, <tips=10>Michio</tips>. There's only two of us. What're we gonna do if they spot us?”"
+      "en": "“Come on, let's go home, <tips=10>Michio</tips>. There's only two of us. What're we gonna do if they spot us?”",
+      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0046",
@@ -230,7 +239,13 @@
       "sj": "",
       "se": "",
       "jp": "　地元の住民が夕食の材料を買い求めて行き来する<tips=58>パラシュート通り</tips>。人の間をすり抜けて歩いている<tips=66>田中紺太</tips>は不安げにキョロキョロと辺りを見回しながら先を行く背の高い少年にそう呼びかけた。",
-      "en": "Local residents streamed along <tips=58>Parachute Street</tips>, shopping for dinner. <tips=66>Konta Tanaka</tips> wove between them, glancing nervously in every direction as he called to the tall boy ahead."
+      "en": "Local residents streamed along <tips=58>Parachute Street</tips>, shopping for dinner. <tips=66>Konta Tanaka</tips> wove between them, glancing nervously in every direction as he called to the tall boy ahead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0047",
@@ -239,7 +254,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「帰るなら一人で帰ってもいいんだぜ？」",
-      "en": "“You can go home by yourself if you want.”"
+      "en": "“You can go home by yourself if you want.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0048",
@@ -248,7 +273,17 @@
       "sj": "",
       "se": "",
       "jp": "　その少年――<tips=10>見土道夫</tips>は不敵に笑ってそう応える。",
-      "en": "The boy—<tips=10>Michio Mido</tips>—answers with a fearless grin."
+      "en": "The boy—<tips=10>Michio Mido</tips>—answers with a fearless grin.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0049",
@@ -257,7 +292,17 @@
       "sj": "",
       "se": "",
       "jp": "　染めたての金色の髪の毛は赤みがかった太陽の光を反射してキラキラと光っていた。",
-      "en": "His freshly dyed blond hair catches the reddish sunlight and sparkles."
+      "en": "His freshly dyed blond hair catches the reddish sunlight and sparkles.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0050",
@@ -266,7 +311,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「そういうわけにはいかないよ……。ここを歩くなら、せめて、みんなを呼ぼうよ」",
-      "en": "“I can't just do that... If we're gonna walk around here, let's at least get the others.”"
+      "en": "“I can't just do that... If we're gonna walk around here, let's at least get the others.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0051",
@@ -275,7 +330,17 @@
       "sj": "",
       "se": "",
       "jp": "　この<tips=58>パラシュート通り</tips>は彼らの縄張りではなく、別の少年グループのものだった。",
-      "en": "<tips=58>Parachute Street</tips> was not their territory. It belonged to another group of boys."
+      "en": "<tips=58>Parachute Street</tips> was not their territory. It belonged to another group of boys.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0052",
@@ -284,7 +349,17 @@
       "sj": "",
       "se": "",
       "jp": "　そのグループとは現在緊張関係にあるというわけでもなかったが、この頃の<tips=9>Y地区</tips>の不良少年の社会ではよそのグループの縄張りには勝手に足を踏み入れないことが不文律のようになっており、それを破ったことがきっかけとなって、抗争に発展することも少なくない。",
-      "en": "The groups were not at odds just then. But among the young delinquents of <tips=9>Y District</tips>, walking into another group's territory without permission was an unwritten taboo, and breaking it often started a war."
+      "en": "The groups were not at odds just then. But among the young delinquents of <tips=9>Y District</tips>, walking into another group's territory without permission was an unwritten taboo, and breaking it often started a war.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0053",
@@ -293,7 +368,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は口は達者だが、喧嘩には自信がなかった。彼も一応<tips=17>タイプＢ</tips>ではあるが、<tips=72>傾向値</tips>が低く興奮してもほとんど<tips=95>金眼</tips>にならない上に、なっても身体能力はさほど変わらない。どれくらい弱いかというと、平均的なノーマル相手でもこてんぱんに負かされるくらいの弱さだ。",
-      "en": "<tips=66>Konta</tips> could talk, but he had no confidence in a fight. He was technically <tips=17>Type B</tips>, but his <tips=72>Tendency Index</tips> was low. Even when he got excited, his eyes almost never underwent the <tips=95>Golden-Eye Phenomenon</tips>, and when they did, he barely grew stronger. How weak was he? Weak enough for an average Normal to beat him senseless."
+      "en": "<tips=66>Konta</tips> could talk, but he had no confidence in a fight. He was technically <tips=17>Type B</tips>, but his <tips=72>Tendency Index</tips> was low. Even when he got excited, his eyes almost never underwent the <tips=95>Golden-Eye Phenomenon</tips>, and when they did, he barely grew stronger. How weak was he? Weak enough for an average Normal to beat him senseless.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0054",
@@ -302,7 +387,17 @@
       "sj": "",
       "se": "",
       "jp": "　さらに今日は新しい黒いシャツをおろしたばかりで、汚したくないという事情もある。",
-      "en": "Besides, he had just put on a new black shirt that day and did not want to get it dirty."
+      "en": "Besides, he had just put on a new black shirt that day and did not want to get it dirty.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0055",
@@ -311,7 +406,17 @@
       "sj": "",
       "se": "",
       "jp": "　売春する母親に客を引いて手伝っている彼は歩合で小遣いを貰っており、他の<tips=59>暗闇通り</tips>の子供に比べればずっと裕福ではあったが、好きなものを好きなだけ買えるほどの金を持っているわけではなかった。",
-      "en": "He helped his mother solicit customers for her sex work, and she paid him a commission as pocket money. That made him much better off than the other children of <tips=59>Darkness Street</tips>, but not rich enough to buy whatever he liked whenever he liked."
+      "en": "He helped his mother solicit customers for her sex work, and she paid him a commission as pocket money. That made him much better off than the other children of <tips=59>Darkness Street</tips>, but not rich enough to buy whatever he liked whenever he liked.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0056",
@@ -320,7 +425,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「いいんだよ。これは偵察なんだ。殴り込みじゃない」",
-      "en": "“It's fine. We're scouting, not raiding the place.”"
+      "en": "“It's fine. We're scouting, not raiding the place.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0057",
@@ -329,7 +444,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は<tips=66>紺太</tips>の不安を意に介そうともしない。",
-      "en": "<tips=10>Michio</tips> pays no attention to <tips=66>Konta</tips>'s anxiety."
+      "en": "<tips=10>Michio</tips> pays no attention to <tips=66>Konta</tips>'s anxiety.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0058",
@@ -338,7 +463,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「こんなに目立つ偵察ってないよ」",
-      "en": "“This has gotta be the most obvious scouting mission ever.”"
+      "en": "“This has gotta be the most obvious scouting mission ever.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0059",
@@ -347,7 +482,17 @@
       "sj": "",
       "se": "",
       "jp": "　それに関しては、<tips=66>紺太</tips>が呆れる通りだった。",
-      "en": "On that point, <tips=66>Konta</tips> had every right to be exasperated."
+      "en": "On that point, <tips=66>Konta</tips> had every right to be exasperated.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0060",
@@ -356,7 +501,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はTシャツの半袖を肩までまくり上げ、その年の少年にしては逞しい両腕を露出しているが、右の方は肘から先が真っ黒に染まっている。",
-      "en": "<tips=10>Michio</tips> has rolled his T-shirt sleeves up to his shoulders, baring arms unusually muscular for a boy his age. His right arm, however, is pitch-black from the elbow down."
+      "en": "<tips=10>Michio</tips> has rolled his T-shirt sleeves up to his shoulders, baring arms unusually muscular for a boy his age. His right arm, however, is pitch-black from the elbow down.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0061",
@@ -365,7 +520,17 @@
       "sj": "",
       "se": "",
       "jp": "　それは何かの塗料を使ったような普通の黒さではなく、何かまるきり別の物質のような、なんの光も反射しない完全な黒だった。",
-      "en": "It is not the ordinary black of paint, but a perfect black that reflects no light, as though his arm were made of some other substance entirely."
+      "en": "It is not the ordinary black of paint, but a perfect black that reflects no light, as though his arm were made of some other substance entirely.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0062",
@@ -374,7 +539,17 @@
       "sj": "",
       "se": "",
       "jp": "　これを見れば誰でも彼がその身に異形の呪いをうけた<tips=16>タイプA</tips>であることを一目で理解し、そして少しこの地域の事情に詳しければ彼が最近少年たちの間でよく話題になる<tips=10>見土道夫</tips>だと気がつくだろう。",
-      "en": "One look is enough to know he is <tips=16>Type A</tips>, his body marked by a grotesque curse. Anyone even a little familiar with the neighborhood will also recognize <tips=10>Michio Mido</tips>, the boy everyone has been talking about lately."
+      "en": "One look is enough to know he is <tips=16>Type A</tips>, his body marked by a grotesque curse. Anyone even a little familiar with the neighborhood will also recognize <tips=10>Michio Mido</tips>, the boy everyone has been talking about lately.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0063",
@@ -383,7 +558,17 @@
       "sj": "",
       "se": "",
       "jp": "　すぐ先日も、北街のブロイアーという喧嘩の強いことで知られる年上の少年に決闘を挑んで勝ちを収め、その縄張りを手に入れている。",
-      "en": "Only a few days earlier, he challenged and defeated Breuer, an older boy from North Town famous for his fighting, and took his territory."
+      "en": "Only a few days earlier, he challenged and defeated Breuer, an older boy from North Town famous for his fighting, and took his territory.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0064",
@@ -392,7 +577,17 @@
       "sj": "",
       "se": "",
       "jp": "　その時に出来た青あざが彼の頬にはあり、切れた唇の端にはかさぶたが出来ていた。",
-      "en": "A bruise from the fight still marks his cheek, and a scab covers the split corner of his lip."
+      "en": "A bruise from the fight still marks his cheek, and a scab covers the split corner of his lip.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0065",
@@ -401,7 +596,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「だって、どんなやつか見てみたいじゃないか。その<tips=1>菅原亮</tips>ってやつはおれたちと同い年なんだろ？」",
-      "en": "“Come on, don't you want to see what he's like? This <tips=1>Ryou Sugawara</tips> is our age, right?”"
+      "en": "“Come on, don't you want to see what he's like? This <tips=1>Ryou Sugawara</tips> is our age, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0066",
@@ -410,7 +615,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう、彼が今日この場所へ足を踏み入れたのは、<tips=58>パラシュート通り</tips>を縄張りにする少年グループのリーダー、<tips=1>菅原亮</tips>に会うためであった。",
-      "en": "That was why he had entered <tips=58>Parachute Street</tips> today: to meet <tips=1>Ryou Sugawara</tips>, leader of the boys who controlled it."
+      "en": "That was why he had entered <tips=58>Parachute Street</tips> today: to meet <tips=1>Ryou Sugawara</tips>, leader of the boys who controlled it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0067",
@@ -419,7 +634,17 @@
       "sj": "",
       "se": "",
       "jp": "　このとき<tips=57>滑走路通り</tips>に周という少年のグループがあった。彼は引退した<tips=26>劉建志</tips>の弟分で、そのグループは<tips=57>滑走路通り</tips>で最大の勢力を誇っていた。<tips=26>劉</tips>のツテもあって<tips=7>ＹＳ</tips>との関係も良好で、彼らの下請けとして飲食店のボディーガードを手伝うなどというようなこともしている。少年でありながら、なかば大人のようなことをしているのは、第二世代らしいところだ。",
-      "en": "At the time, a boy named Zhou led a group on <tips=57>Runway Street</tips>. He had been a junior to the retired <tips=26>Kenshi Ryuu</tips>, and his group was the strongest on <tips=57>Runway Street</tips>. Thanks to <tips=26>Ryuu</tips>'s connections, they were on good terms with <tips=7>YS</tips> and even worked as subcontractors, helping guard restaurants. Doing half-grown-up work while they were still boys was typical of the second generation."
+      "en": "At the time, a boy named Zhou led a group on <tips=57>Runway Street</tips>. He had been a junior to the retired <tips=26>Kenshi Ryuu</tips>, and his group was the strongest on <tips=57>Runway Street</tips>. Thanks to <tips=26>Ryuu</tips>'s connections, they were on good terms with <tips=7>YS</tips> and even worked as subcontractors, helping guard restaurants. Doing half-grown-up work while they were still boys was typical of the second generation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0068",
@@ -428,7 +653,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=57>滑走路通り</tips>は<tips=9>Y地区</tips>のメインストリートであるから、そこで最大の勢力を持つということは、街で最も勢いのある組織と言っていいだろう。",
-      "en": "<tips=57>Runway Street</tips> was the main thoroughfare of <tips=9>Y District</tips>. Being its strongest group arguably made them the most powerful organization in the City."
+      "en": "<tips=57>Runway Street</tips> was the main thoroughfare of <tips=9>Y District</tips>. Being its strongest group arguably made them the most powerful organization in the City.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0069",
@@ -437,7 +672,17 @@
       "sj": "",
       "se": "",
       "jp": "　実際、周のグループの威勢の良さというのは相当なもので、揃いの色のハンカチを腕に巻き付け、<tips=57>滑走路通り</tips>を我が物顔で練り歩いた。",
-      "en": "Zhou's group certainly acted like it. They tied matching handkerchiefs around their arms and strutted down <tips=57>Runway Street</tips> as if they owned it."
+      "en": "Zhou's group certainly acted like it. They tied matching handkerchiefs around their arms and strutted down <tips=57>Runway Street</tips> as if they owned it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0070",
@@ -446,7 +691,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、<tips=57>滑走路通り</tips>のすぐそばには<tips=58>パラシュート通り</tips>があり、周の仲間たちはちょくちょくそちらへもやって来た。",
-      "en": "Just beside <tips=57>Runway Street</tips> lay <tips=58>Parachute Street</tips>, so Zhou's boys came around often."
+      "en": "Just beside <tips=57>Runway Street</tips> lay <tips=58>Parachute Street</tips>, so Zhou's boys came around often.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0071",
@@ -455,7 +710,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=58>パラシュート通り</tips>も、<tips=57>滑走路通り</tips>ほどではないが賑やかで人の多い地域である。住民の人種も多様で、少し歩いただけで雰囲気がコロコロと変わり、いくつもの国を渡り歩いているような気持ちになる。",
-      "en": "<tips=58>Parachute Street</tips> was busy and crowded too, though less so than <tips=57>Runway Street</tips>. Its people came from many races, and the atmosphere changed every few steps, making a short walk feel like crossing several countries."
+      "en": "<tips=58>Parachute Street</tips> was busy and crowded too, though less so than <tips=57>Runway Street</tips>. Its people came from many races, and the atmosphere changed every few steps, making a short walk feel like crossing several countries.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0072",
@@ -464,7 +729,17 @@
       "sj": "",
       "se": "",
       "jp": "　このように多様性のある通りのため、なかなかグループというものが出来にくかった。そのため、<tips=57>滑走路通り</tips>の連中が何人かでちょっかいを出しに来ると、このあたりの少年はどこかに隠れるしかなかった。捕まれば、その時持っている小遣いは全て巻き上げられることになる。",
-      "en": "That diversity made it hard for any one group to form. When boys from <tips=57>Runway Street</tips> came looking for trouble, the local children could only hide. Anyone caught lost every coin in his pockets."
+      "en": "That diversity made it hard for any one group to form. When boys from <tips=57>Runway Street</tips> came looking for trouble, the local children could only hide. Anyone caught lost every coin in his pockets.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0073",
@@ -473,7 +748,17 @@
       "sj": "",
       "se": "",
       "jp": "　こうした状況を変えたのが、<tips=1>菅原亮</tips>という少年らしい。",
-      "en": "Apparently, a boy named <tips=1>Ryou Sugawara</tips> had changed that."
+      "en": "Apparently, a boy named <tips=1>Ryou Sugawara</tips> had changed that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0074",
@@ -482,7 +767,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>菅原亮</tips>は<tips=58>パラシュート通り</tips>に店を開く定食屋の息子で、彼の仲間も同じように何らかの商売をしている家の子ばかりである。彼らは比較的裕福で、身体は大きいが勇気がなく、喧嘩が弱いというのが暗闇通りの少年たちの評価だったが、それが<tips=59>暗闇通り</tips>の少年たちでもちょっと手が出せない周たちに勝ったというのだ。しかも、この<tips=1>菅原亮</tips>は<tips=10>道夫</tips>と同い年だという。",
-      "en": "<tips=1>Ryou Sugawara</tips> was the son of a diner owner on <tips=58>Parachute Street</tips>, and all his friends likewise came from families that ran some kind of business. The boys of <tips=59>Darkness Street</tips> thought they were fairly rich, big but cowardly, and useless in a fight. Yet they had beaten Zhou's people, whom even the Darkness Street boys hesitated to cross. And this <tips=1>Ryou Sugawara</tips> was the same age as <tips=10>Michio</tips>."
+      "en": "<tips=1>Ryou Sugawara</tips> was the son of a diner owner on <tips=58>Parachute Street</tips>, and all his friends likewise came from families that ran some kind of business. The boys of <tips=59>Darkness Street</tips> thought they were fairly rich, big but cowardly, and useless in a fight. Yet they had beaten Zhou's people, whom even the Darkness Street boys hesitated to cross. And this <tips=1>Ryou Sugawara</tips> was the same age as <tips=10>Michio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0075",
@@ -491,7 +786,17 @@
       "sj": "",
       "se": "",
       "jp": "　となれば、<tips=10>道夫</tips>が興味を持つのも当然のことだろう。",
-      "en": "Of course <tips=10>Michio</tips> was interested."
+      "en": "Of course <tips=10>Michio</tips> was interested.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0076",
@@ -500,7 +805,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「なあに、心配することはない。最悪でも、お前だけは逃がしてやるから大丈夫だ。……もし相手が危険な武器を持ってきたら、おれも、この妖刀ムラサメの封印を解くことになるかもしれないが……」",
-      "en": "“Ah, don't worry. Worst comes to worst, I'll make sure you get away. ...Though if they bring dangerous weapons, I may have no choice but to break the seal on the cursed blade Murasame...”"
+      "en": "“Ah, don't worry. Worst comes to worst, I'll make sure you get away. ...Though if they bring dangerous weapons, I may have no choice but to break the seal on the cursed blade Murasame...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0077",
@@ -509,7 +824,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は格好つけた口ぶりでそう言いながら、うしろを歩く<tips=66>紺太</tips>に真っ黒な腕を見せつける。",
-      "en": "<tips=10>Michio</tips> puts on his most impressive voice and shows off his black arm to <tips=66>Konta</tips>, who trails behind him."
+      "en": "<tips=10>Michio</tips> puts on his most impressive voice and shows off his black arm to <tips=66>Konta</tips>, who trails behind him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0078",
@@ -518,7 +843,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「こないだは、魔剣フェンなんとかって言ってなかったっけ？」",
-      "en": "“Didn't you call it the demon sword Fen-something the other day?”"
+      "en": "“Didn't you call it the demon sword Fen-something the other day?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0079",
@@ -527,7 +862,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は溜息をつく。",
-      "en": "<tips=66>Konta</tips> sighs."
+      "en": "<tips=66>Konta</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0080",
@@ -536,7 +881,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「こっちの名前の方がカッコいいと思わないか？」",
-      "en": "“Don't you think this name sounds cooler?”"
+      "en": "“Don't you think this name sounds cooler?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0081",
@@ -545,7 +900,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が同意を求めたが、<tips=66>紺太</tips>は冷たい視線を返すだけだ。",
-      "en": "<tips=10>Michio</tips> looks to him for agreement. <tips=66>Konta</tips> only gives him a cold stare."
+      "en": "<tips=10>Michio</tips> looks to him for agreement. <tips=66>Konta</tips> only gives him a cold stare.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0082",
@@ -554,7 +919,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君はさあ、自信があるっていうか、自信過剰だよね。そんな、いつだって勝てるとはかぎらないじゃん」",
-      "en": "“You know, <tips=10>Michio</tips>, being confident is one thing. You're way too confident. You can't win every time.”"
+      "en": "“You know, <tips=10>Michio</tips>, being confident is one thing. You're way too confident. You can't win every time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0083",
@@ -563,7 +938,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「おれを信用してないのか？」",
-      "en": "“You don't trust me?”"
+      "en": "“You don't trust me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0084",
@@ -572,7 +957,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「だって、周のやつらを追い返すなんて普通じゃないよ。周のところにはさ、馬鹿みたいに怪力の<tips=17>タイプＢ</tips>も結構いたはずだぜ？　<tips=1>菅原</tips>ってやつはサイキックなんじゃないかなあ。もしわけのわからない力を持ってたら、<tips=10>道夫</tips>君でも勝てるかどうか……」",
-      "en": "“But driving off Zhou's guys isn't normal. He had a bunch of insanely strong <tips=17>Type B</tips> guys, didn't he? Maybe this <tips=1>Sugawara</tips> is psychic. If he's got some power we don't understand, even you might not beat him, <tips=10>Michio</tips>...”"
+      "en": "“But driving off Zhou's guys isn't normal. He had a bunch of insanely strong <tips=17>Type B</tips> guys, didn't he? Maybe this <tips=1>Sugawara</tips> is psychic. If he's got some power we don't understand, even you might not beat him, <tips=10>Michio</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0085",
@@ -581,7 +976,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「フ、それならそれで面白い」",
-      "en": "“Heh. That'd make it even more interesting.”"
+      "en": "“Heh. That'd make it even more interesting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0086",
@@ -590,7 +995,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は目をつむり、ぐっと手を握りしめ、",
-      "en": "<tips=10>Michio</tips> closes his eyes and clenches his fist."
+      "en": "<tips=10>Michio</tips> closes his eyes and clenches his fist.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0087",
@@ -599,7 +1014,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「相手が恐ろしいサイキックなら、おれもこのおそろしい力を使うことが出来るだろう」",
-      "en": "“If my enemy is a fearsome psychic, then at last I can unleash this fearsome power of my own.”"
+      "en": "“If my enemy is a fearsome psychic, then at last I can unleash this fearsome power of my own.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0088",
@@ -608,7 +1033,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「えっ、そしたら殺し合いになっちゃうじゃん」",
-      "en": "“What? Then you'll kill each other!”"
+      "en": "“What? Then you'll kill each other!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0089",
@@ -617,7 +1052,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「サイキックが相手なら仕方ないだろう？　おれは、全然こわくないぜ。だって、やっと本気を出せるんだ。いままで、いつだって力を抑えながら戦っていたんだ。それでも連戦連勝してしまうのが、おれの罪深さなんだが……。まあ、正直なところ最近勝つことに飽きてしまってね。楽しめるなら、これより嬉しいことはない。やっぱり男は、全力を出さなくちゃ」",
-      "en": "“If he's psychic, what choice do I have? I'm not scared at all. I can finally get serious. Until now, I've always had to hold back. And yet I keep winning, battle after battle. Such is the curse of my strength... Honestly, winning has gotten boring lately. Nothing would make me happier than a fight I can enjoy. A man has to give it everything he's got.”"
+      "en": "“If he's psychic, what choice do I have? I'm not scared at all. I can finally get serious. Until now, I've always had to hold back. And yet I keep winning, battle after battle. Such is the curse of my strength... Honestly, winning has gotten boring lately. Nothing would make me happier than a fight I can enjoy. A man has to give it everything he's got.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0090",
@@ -626,7 +1071,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「そ、そう……」",
-      "en": "“R-right...”"
+      "en": "“R-right...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0091",
@@ -635,7 +1090,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は眉間にしわを寄せて複雑な表情で相槌を打つ。<tips=10>道夫</tips>のこういったセンスにはついていけないところがあるのだが、はっきりとそうは言えない。しかし、かといって表情を器用に取り繕って笑ってもやれない。",
-      "en": "<tips=66>Konta</tips> furrows his brow and makes a complicated face. He cannot keep up with this side of <tips=10>Michio</tips>, but he cannot bring himself to say so. Nor can he hide it cleverly enough to smile."
+      "en": "<tips=66>Konta</tips> furrows his brow and makes a complicated face. He cannot keep up with this side of <tips=10>Michio</tips>, but he cannot bring himself to say so. Nor can he hide it cleverly enough to smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0092",
@@ -644,7 +1109,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「でも、喧嘩となったら、本当にひどいことになっちゃうかもしれないんだよなあ。だって、<tips=1>菅原</tips>は残酷なやつらしいからね。おれの知り合いの話じゃ、<tips=1>菅原</tips>ってやつはね、目の前で敵の足とか腕をボキボキに折らせて、その様子を笑いながら見てたんだってさ」",
-      "en": "“But if it turns into a fight, it could get really bad. They say <tips=1>Sugawara</tips> is cruel. Somebody I know told me this <tips=1>Sugawara</tips> had his enemies' arms and legs snapped right in front of him, and he just sat there smiling while he watched.”"
+      "en": "“But if it turns into a fight, it could get really bad. They say <tips=1>Sugawara</tips> is cruel. Somebody I know told me this <tips=1>Sugawara</tips> had his enemies' arms and legs snapped right in front of him, and he just sat there smiling while he watched.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0093",
@@ -653,7 +1128,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言われると<tips=10>道夫</tips>もさすがに顔をしかめたが、",
-      "en": "Even <tips=10>Michio</tips> grimaces at that. But then—"
+      "en": "Even <tips=10>Michio</tips> grimaces at that. But then—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0094",
@@ -662,7 +1147,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「そんなひどいやつなら、やっぱり少しでも早くやっつけないといけないな」",
-      "en": "“If he's that awful, we've gotta take him down as soon as we can.”"
+      "en": "“If he's that awful, we've gotta take him down as soon as we can.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0095",
@@ -671,7 +1166,17 @@
       "sj": "",
       "se": "",
       "jp": "　消沈するどころかなおさら彼の情熱をかき立ててしまったようだった。",
-      "en": "Far from discouraging him, the story seems to fan his passion higher."
+      "en": "Far from discouraging him, the story seems to fan his passion higher.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0102",
@@ -680,7 +1185,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=58>パラシュート通り</tips>の端の方に「菅原食堂」と、ペンキ文字の看板が掛かったこぢんまりとした中華料理店がある。",
-      "en": "Near one end of <tips=58>Parachute Street</tips> stands a little Chinese restaurant with ‘Sugawara Diner’ painted on its sign."
+      "en": "Near one end of <tips=58>Parachute Street</tips> stands a little Chinese restaurant with ‘Sugawara Diner’ painted on its sign.",
+      "bg": "assets/vn/backgrounds/bg-7a72fa12835a.webp"
     },
     {
       "id": "x12:0103",
@@ -716,7 +1222,13 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「なかにはいろうぜ」",
-      "en": "“Let's go inside.”"
+      "en": "“Let's go inside.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0107",
@@ -725,7 +1237,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は磨りガラスを見通そうでもするかのように目をこらしつつ、隣の<tips=66>紺太</tips>に囁く。",
-      "en": "<tips=10>Michio</tips> squints as if he might see through the frosted glass and whispers to <tips=66>Konta</tips>."
+      "en": "<tips=10>Michio</tips> squints as if he might see through the frosted glass and whispers to <tips=66>Konta</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0108",
@@ -734,7 +1252,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「正面から、堂々と？　いくらなんでも無茶だよ。今日は偵察って話じゃないか」",
-      "en": "“Straight through the front door? Even for you, that's crazy. I thought we were just scouting today.”"
+      "en": "“Straight through the front door? Even for you, that's crazy. I thought we were just scouting today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0109",
@@ -743,7 +1271,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>が慌てる一方、<tips=10>道夫</tips>は平然とした表情で、",
-      "en": "<tips=66>Konta</tips> panics. <tips=10>Michio</tips> remains perfectly calm."
+      "en": "<tips=66>Konta</tips> panics. <tips=10>Michio</tips> remains perfectly calm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0110",
@@ -752,7 +1290,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「ここで看板を眺めていてもなんの偵察にもならない。……それに、ここまで来たら血が騒いで来たのさ」",
-      "en": "“Standing here staring at the sign isn't much of a scouting mission. ...Besides, now that I'm this close, my blood's starting to boil.”"
+      "en": "“Standing here staring at the sign isn't much of a scouting mission. ...Besides, now that I'm this close, my blood's starting to boil.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0111",
@@ -761,7 +1309,17 @@
       "sj": "",
       "se": "",
       "jp": "　唇の端を歪めてニヤリと笑った。",
-      "en": "One corner of his mouth twists upward in a grin."
+      "en": "One corner of his mouth twists upward in a grin.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0112",
@@ -770,7 +1328,17 @@
       "sj": "",
       "se": "",
       "jp": "　また<tips=10>道夫</tips>の病気が出たのかと<tips=66>紺太</tips>は思った。",
-      "en": "It occurs to <tips=10>Michio</tips>'s companion, <tips=66>Konta</tips>, that his old sickness is acting up again."
+      "en": "It occurs to <tips=10>Michio</tips>'s companion, <tips=66>Konta</tips>, that his old sickness is acting up again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0113",
@@ -779,7 +1347,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「<tips=1>菅原亮</tips>ってやつに挨拶をしてやるぞ」",
-      "en": "“I'm gonna go introduce myself to this <tips=1>Ryou Sugawara</tips>.”"
+      "en": "“I'm gonna go introduce myself to this <tips=1>Ryou Sugawara</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0114",
@@ -788,7 +1366,17 @@
       "sj": "",
       "se": "",
       "jp": "　もうすっかり偵察であることなど頭にないのであろうと思われる台詞を吐きながらドアに近づいてゆく<tips=10>道夫</tips>。<tips=66>紺太</tips>は仕方なくその後を追った。",
-      "en": "His words make it clear that he has forgotten all about scouting. <tips=10>Michio</tips> heads for the door, and <tips=66>Konta</tips> reluctantly follows."
+      "en": "His words make it clear that he has forgotten all about scouting. <tips=10>Michio</tips> heads for the door, and <tips=66>Konta</tips> reluctantly follows.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0115",
@@ -797,7 +1385,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=10>道夫</tips>は勇ましく胸を張ってガラリと入り口の戸を開ける。",
-      "en": "<tips=10>Michio</tips> puffs out his chest and boldly slides the door open."
+      "en": "<tips=10>Michio</tips> puffs out his chest and boldly slides the door open.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-770ae6247aa6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0124",
@@ -806,7 +1404,8 @@
       "sj": "",
       "se": "",
       "jp": "　店内はカウンター席といくつかのテーブル席がある、どこにでもあるようなごく普通の定食屋だった。建物や家具は古く所々に染みついた汚れや黄ばみがあったが掃除自体は行き届いている。",
-      "en": "Inside is an ordinary diner with a counter and a few tables. The building and furniture are old, stained and yellowed in places, but everything has been carefully cleaned."
+      "en": "Inside is an ordinary diner with a counter and a few tables. The building and furniture are old, stained and yellowed in places, but everything has been carefully cleaned.",
+      "bg": "assets/vn/backgrounds/bg-40fddd02abf7.webp"
     },
     {
       "id": "x12:0135",
@@ -815,7 +1414,8 @@
       "sj": "",
       "se": "",
       "jp": "　従業員らしきものはおらず、カウンターの向こうの調理場にも人はいない。けれど客席のテーブルに、少年と少女が向かい合っていた。少女の目の前には透明なガラスの器に盛られたバニラアイスがあり、手前の少年はこちらに背を向けながら少女の食べるところを見守っているようだった。",
-      "en": "There are no employees in sight, and no one is in the kitchen behind the counter. But a boy and girl sit facing each other at a table. A glass dish of vanilla ice cream rests in front of the girl. The boy, his back to the entrance, seems to be watching her eat."
+      "en": "There are no employees in sight, and no one is in the kitchen behind the counter. But a boy and girl sit facing each other at a table. A glass dish of vanilla ice cream rests in front of the girl. The boy, his back to the entrance, seems to be watching her eat.",
+      "bg": "assets/vn/backgrounds/bg-5fe572d84afe.webp"
     },
     {
       "id": "x12:0136",
@@ -1616,7 +2216,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は想像していたのとは大分違う<tips=1>菅原亮</tips>という人間に戸惑い、苦い顔をする。",
-      "en": "<tips=10>Michio</tips> grimaces, at a loss. <tips=1>Ryou Sugawara</tips> is nothing like the person he imagined."
+      "en": "<tips=10>Michio</tips> grimaces, at a loss. <tips=1>Ryou Sugawara</tips> is nothing like the person he imagined.",
+      "bg": "assets/vn/backgrounds/bg-40fddd02abf7.webp"
     },
     {
       "id": "x12:0233",
@@ -1625,7 +2226,13 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「どうする？　出直す？」",
-      "en": "“What do we do? Come back later?”"
+      "en": "“What do we do? Come back later?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0234",
@@ -1634,7 +2241,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>が困って訊ねても、",
-      "en": "<tips=66>Konta</tips> asks uncertainly."
+      "en": "<tips=66>Konta</tips> asks uncertainly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0235",
@@ -1643,7 +2256,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「いや……」",
-      "en": "“No...”"
+      "en": "“No...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0236",
@@ -1652,7 +2275,17 @@
       "sj": "",
       "se": "",
       "jp": "　と困惑しつつ、生返事をするのが精一杯だった。",
-      "en": "He is too confused to manage more than that vague answer."
+      "en": "He is too confused to manage more than that vague answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0237",
@@ -1661,7 +2294,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「チームをくれるって本当かな？　そんな話って本当にあると思う？」",
-      "en": "“You think he really means it? About giving us the team? Does that kind of thing actually happen?”"
+      "en": "“You think he really means it? About giving us the team? Does that kind of thing actually happen?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0238",
@@ -1670,7 +2313,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>はひそひそ声で<tips=10>道夫</tips>にそう尋ねる。",
-      "en": "<tips=66>Konta</tips> whispers the question to <tips=10>Michio</tips>."
+      "en": "<tips=66>Konta</tips> whispers the question to <tips=10>Michio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0239",
@@ -1679,7 +2332,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「嘘をついているようには思えないけれど……」",
-      "en": "“He doesn't look like he's lying, but...”"
+      "en": "“He doesn't look like he's lying, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0240",
@@ -1688,7 +2351,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が顎に手を当てて考えていると、目の前にいる<tips=55>松子</tips>と目が合ってしまう。",
-      "en": "<tips=10>Michio</tips> puts a hand to his chin and thinks. Then he meets <tips=55>Matsuko</tips>'s eyes across the room."
+      "en": "<tips=10>Michio</tips> puts a hand to his chin and thinks. Then he meets <tips=55>Matsuko</tips>'s eyes across the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0241",
@@ -1697,7 +2370,17 @@
       "sj": "",
       "se": "",
       "jp": "　アイスクリームがなくなって手持ち無沙汰になった彼女は、そこに座ったままじっと<tips=10>道夫</tips>たちを見つめていた。相変わらず無表情で、クスリともしない。目が金色だが雰囲気からすると発症しているわけでもなさそうだ。",
-      "en": "With no ice cream left to occupy her, she sits there staring at <tips=10>Michio</tips> and Konta. She is as expressionless as ever, without even the hint of a smile. Her eyes are gold, but she does not seem symptomatic."
+      "en": "With no ice cream left to occupy her, she sits there staring at <tips=10>Michio</tips> and Konta. She is as expressionless as ever, without even the hint of a smile. Her eyes are gold, but she does not seem symptomatic.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0242",
@@ -1706,7 +2389,17 @@
       "sj": "",
       "se": "",
       "jp": "　かといって、さっきの<tips=1>亮</tips>とのやりとりは表情を見る限り普通の少女にも見えない。",
-      "en": "Then again, judging by her exchange with <tips=1>Ryou</tips>, she hardly seems like an ordinary girl either."
+      "en": "Then again, judging by her exchange with <tips=1>Ryou</tips>, she hardly seems like an ordinary girl either.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0243",
@@ -1715,7 +2408,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「お前はいったい<tips=1>菅原</tips>の……」",
-      "en": "“What exactly are you to <tips=1>Sugawara</tips>...?”"
+      "en": "“What exactly are you to <tips=1>Sugawara</tips>...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0245",
@@ -1724,7 +2427,17 @@
       "sj": "",
       "se": "",
       "jp": "　聞こうとしたところで、奥の戸がガラガラと開いて<tips=1>亮</tips>が帰って来た。",
-      "en": "Before he can finish, the door in back rattles open and <tips=1>Ryou</tips> returns."
+      "en": "Before he can finish, the door in back rattles open and <tips=1>Ryou</tips> returns.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0246",
@@ -1733,7 +2446,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼はその手に首を落とされ羽をむしられた一羽の鶏を掴んでいる。",
-      "en": "He is holding a whole chicken with its head cut off and its feathers plucked."
+      "en": "He is holding a whole chicken with its head cut off and its feathers plucked.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0247",
@@ -1742,7 +2465,21 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「まだいたんだ」",
-      "en": "“You're still here.”"
+      "en": "“You're still here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0248",
@@ -1751,7 +2488,21 @@
       "sj": "",
       "se": "",
       "jp": "　入り口の方で佇んでいる二人に一瞬だけ視線をやってからそう言うと、そのままカウンターの内側の調理場の方に足を踏み入れて、白く大きなまな板の上にその鶏をドサリと置いた。",
-      "en": "He gives the boys by the entrance one quick glance, steps behind the counter into the kitchen, and drops the chicken onto a large white cutting board."
+      "en": "He gives the boys by the entrance one quick glance, steps behind the counter into the kitchen, and drops the chicken onto a large white cutting board.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0249",
@@ -1760,7 +2511,21 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「まるごとかよ」",
-      "en": "“The whole bird?”"
+      "en": "“The whole bird?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0250",
@@ -1769,7 +2534,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が思わず言うと、",
-      "en": "When <tips=10>Michio</tips> blurts this out,"
+      "en": "When <tips=10>Michio</tips> blurts this out,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0251",
@@ -1778,7 +2557,21 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「昨日裏でしめたんだ」",
-      "en": "“Killed it out back yesterday.”"
+      "en": "“Killed it out back yesterday.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0252",
@@ -1787,7 +2580,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は白いエプロンを着けながらそう返した。",
-      "en": "<tips=1>Ryou</tips> answers as he ties on a white apron."
+      "en": "<tips=1>Ryou</tips> answers as he ties on a white apron.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0253",
@@ -1796,7 +2603,21 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「お前が料理するのか？」",
-      "en": "“You're cooking it?”"
+      "en": "“You're cooking it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0254",
@@ -1805,7 +2626,21 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そうだよ。大量に出来ちゃうからどうしようかと思ってたんだけど、お前らも食べる？　そんなに時間はかからないけど」",
-      "en": "“Yes. It'll make way too much for the two of us, and I was wondering what to do with it. You two want some? It won't take long.”"
+      "en": "“Yes. It'll make way too much for the two of us, and I was wondering what to do with it. You two want some? It won't take long.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0256",
@@ -1814,7 +2649,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は手にハンドソープをつけ入念に洗いながら訊ねる。",
-      "en": "<tips=1>Ryou</tips> asks while carefully washing his hands with soap."
+      "en": "<tips=1>Ryou</tips> asks while carefully washing his hands with soap.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0257",
@@ -1823,7 +2672,21 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「あ、うん」",
-      "en": "“Oh. Sure.”"
+      "en": "“Oh. Sure.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0258",
@@ -1832,7 +2695,21 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「じゃあそこのテーブルに座ってなよ」",
-      "en": "“Then sit down at that table.”"
+      "en": "“Then sit down at that table.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0259",
@@ -1841,7 +2718,21 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「す、すまん」",
-      "en": "“Th-thanks.”"
+      "en": "“Th-thanks.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0260",
@@ -1850,7 +2741,21 @@
       "sj": "",
       "se": "",
       "jp": "　言われたとおり<tips=10>道夫</tips>と<tips=66>紺太</tips>は<tips=55>松子</tips>の正面に腰掛けた。",
-      "en": "As instructed, <tips=10>Michio</tips> and <tips=66>Konta</tips> sit across from <tips=55>Matsuko</tips>."
+      "en": "As instructed, <tips=10>Michio</tips> and <tips=66>Konta</tips> sit across from <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "x12:0262",
@@ -1859,7 +2764,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は業務用の巨大なコンロに火をつけると、中華鍋の揚げ油を温め、その間に鶏にとりかかる。彼の包丁を扱う手つきは慣れたもので、鶏の形をしていたものはあっというまに解体され、肉の塊に切り分けられる。",
-      "en": "<tips=1>Ryou</tips> lights the enormous commercial stove and heats oil in a wok. While it warms, he starts on the chicken. His knife work is practiced. In moments, what used to look like a chicken has been broken down into cuts of meat."
+      "en": "<tips=1>Ryou</tips> lights the enormous commercial stove and heats oil in a wok. While it warms, he starts on the chicken. His knife work is practiced. In moments, what used to look like a chicken has been broken down into cuts of meat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0263",
@@ -1868,7 +2783,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「まるでプロみたいだ。すごいなあ」",
-      "en": "“He's like a real chef. Amazing.”"
+      "en": "“He's like a real chef. Amazing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0264",
@@ -1877,7 +2802,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>が背筋を伸ばして<tips=1>亮</tips>の手さばきに見惚れている。",
-      "en": "<tips=66>Konta</tips> sits up straight, mesmerized by <tips=1>Ryou</tips>'s hands."
+      "en": "<tips=66>Konta</tips> sits up straight, mesmerized by <tips=1>Ryou</tips>'s hands.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0265",
@@ -1886,7 +2821,17 @@
       "sj": "",
       "se": "",
       "jp": "　一方隣の<tips=10>道夫</tips>は仏頂面である。",
-      "en": "Beside him, <tips=10>Michio</tips> scowls."
+      "en": "Beside him, <tips=10>Michio</tips> scowls.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0266",
@@ -1895,7 +2840,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「おい、なんでおれたちはここで<tips=1>菅原亮</tips>の料理を待っているんだ？　おれはやつと戦いに来たんだぞ？」",
-      "en": "“Hey, why are we sitting here waiting for <tips=1>Ryou Sugawara</tips> to cook for us? I came here to fight him!”"
+      "en": "“Hey, why are we sitting here waiting for <tips=1>Ryou Sugawara</tips> to cook for us? I came here to fight him!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0267",
@@ -1904,7 +2859,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「そんなのおれに言われたって困るよ。<tips=10>道夫</tips>君がうんって言って座ったんだろ。……あ、良い匂いがしてきた。そういえばおれも昼食べてないんだよなあ」",
-      "en": "“Don't ask me. You're the one who said yes and sat down, <tips=10>Michio</tips>. ...Oh, that smells good. Come to think of it, I didn't eat lunch either.”"
+      "en": "“Don't ask me. You're the one who said yes and sat down, <tips=10>Michio</tips>. ...Oh, that smells good. Come to think of it, I didn't eat lunch either.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0268",
@@ -1913,7 +2878,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>はもう<tips=10>道夫</tips>が語る話よりも、これからどんな料理が出来上がるかの方に完全に興味がうつっているようだ。",
-      "en": "<tips=66>Konta</tips> has clearly stopped listening to <tips=10>Michio</tips>. All his attention is on whatever is coming out of the kitchen."
+      "en": "<tips=66>Konta</tips> has clearly stopped listening to <tips=10>Michio</tips>. All his attention is on whatever is coming out of the kitchen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0269",
@@ -1922,7 +2897,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は腕組みをして今の状況を考える。",
-      "en": "<tips=10>Michio</tips> folds his arms and thinks through the situation."
+      "en": "<tips=10>Michio</tips> folds his arms and thinks through the situation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0270",
@@ -1931,7 +2916,17 @@
       "sj": "",
       "se": "",
       "jp": "　こちらは決闘を申し込み、相手はそれを拒否して、こちらの条件をのんだ。つまり、チームをくれるというのだ。ということは、もう争う理由はないということになる。対立関係ではないとすれば、ここで食事をご馳走になるのもなにもおかしくはない。",
-      "en": "He proposed a duel. The other boy refused, but accepted his terms and agreed to hand over the team. That meant there was no longer any reason to fight. And if they were not enemies, there was nothing strange about accepting a meal."
+      "en": "He proposed a duel. The other boy refused, but accepted his terms and agreed to hand over the team. That meant there was no longer any reason to fight. And if they were not enemies, there was nothing strange about accepting a meal.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0271",
@@ -1940,7 +2935,17 @@
       "sj": "",
       "se": "",
       "jp": "　そのはずなのだけれども、どうも感情が納得出来ない。こんな簡単でいいのだろうか？　自分が、そして街のちょっと悪い子供たちが青春を賭けているこの戦いが、こんなにあっさり決着していいのだろうか？",
-      "en": "That should be the end of it. But his feelings refuse to accept the answer. Could it really be this easy? Could the fight that he—and all the City's slightly bad children—had staked their youth on end so casually?"
+      "en": "That should be the end of it. But his feelings refuse to accept the answer. Could it really be this easy? Could the fight that he—and all the City's slightly bad children—had staked their youth on end so casually?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0272",
@@ -1949,7 +2954,17 @@
       "sj": "",
       "se": "",
       "jp": "　いや、もめ事なく決着付けばそれはそれでいい。そのはずなのだが、なんだろうこの心の収まりのつかない感じは。もしかして自分の心が求めているのは、自分が頭で考えているものとは違うのか？",
-      "en": "No. If it could end without trouble, that was good. It had to be. So why would his heart not settle? Could his heart want something different from what his mind claimed to want?"
+      "en": "No. If it could end without trouble, that was good. It had to be. So why would his heart not settle? Could his heart want something different from what his mind claimed to want?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0273",
@@ -1958,7 +2973,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「うーん……」",
-      "en": "“Hmm...”"
+      "en": "“Hmm...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0274",
@@ -1967,7 +2992,17 @@
       "sj": "",
       "se": "",
       "jp": "　考え込んでいると、また<tips=55>松子</tips>と目が合った。",
-      "en": "Lost in thought, he meets <tips=55>Matsuko</tips>'s eyes again."
+      "en": "Lost in thought, he meets <tips=55>Matsuko</tips>'s eyes again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0275",
@@ -1976,7 +3011,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「何か用か？」",
-      "en": "“What do you want?”"
+      "en": "“What do you want?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0276",
@@ -1985,7 +3030,21 @@
       "sj": "汐松子（少女）",
       "se": "Matsuko Shio",
       "jp": "「頭でも痛いのか？　鎮痛剤あるぞ」",
-      "en": "“Does your head hurt? I've got painkillers.”"
+      "en": "“Does your head hurt? I've got painkillers.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0277",
@@ -1994,7 +3053,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は無表情だが心配してくれているようだ。",
-      "en": "<tips=55>Matsuko</tips> is expressionless, but she seems concerned."
+      "en": "<tips=55>Matsuko</tips> is expressionless, but she seems concerned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0278",
@@ -2003,7 +3076,21 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「いや、違うんだ……今ちょっと自分というものを探求していたんだ」",
-      "en": "“No, it's not that... I was just exploring the nature of the self.”"
+      "en": "“No, it's not that... I was just exploring the nature of the self.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0279",
@@ -2012,7 +3099,21 @@
       "sj": "汐松子（少女）",
       "se": "Matsuko Shio",
       "jp": "「そう」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0280",
@@ -2021,7 +3122,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は素っ気なく言い、そしてあくびをした。",
-      "en": "<tips=55>Matsuko</tips> answers flatly, then yawns."
+      "en": "<tips=55>Matsuko</tips> answers flatly, then yawns.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0282",
@@ -2030,7 +3145,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「お待たせ。大皿で悪いね」",
-      "en": "“Sorry for the wait. You'll have to share the big plate.”"
+      "en": "“Sorry for the wait. You'll have to share the big plate.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0283",
@@ -2039,7 +3172,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は出来上がった料理を食卓の上に置く。",
-      "en": "<tips=1>Ryou</tips> sets the finished food on the table."
+      "en": "<tips=1>Ryou</tips> sets the finished food on the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0284",
@@ -2048,7 +3199,25 @@
       "sj": "",
       "se": "",
       "jp": "　一番大きな皿に盛られているのは、色良く揚がった鶏に、長葱のたっぷり入ったあんがかかったものだ。",
-      "en": "The largest plate holds golden fried chicken covered in thick sauce and a generous heap of scallions."
+      "en": "The largest plate holds golden fried chicken covered in thick sauce and a generous heap of scallions.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0285",
@@ -2057,7 +3226,25 @@
       "sj": "",
       "se": "",
       "jp": "　その隣の中くらいの皿にはキュウリと茄子の漬物が盛られている。そして、一人一人にわかめと卵の入った透明なスープと白米の椀が配られた。",
-      "en": "A medium plate beside it is piled with pickled cucumber and eggplant. Everyone gets clear wakame-and-egg soup and a bowl of white rice."
+      "en": "A medium plate beside it is piled with pickled cucumber and eggplant. Everyone gets clear wakame-and-egg soup and a bowl of white rice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0286",
@@ -2066,7 +3253,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「これ、から揚げか？」",
-      "en": "“Is this fried chicken?”"
+      "en": "“Is this fried chicken?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0287",
@@ -2075,7 +3280,25 @@
       "sj": "",
       "se": "",
       "jp": "　もうすっかりここに来た理由を忘れた<tips=66>紺太</tips>が目を輝かせて訊ねる。",
-      "en": "Having completely forgotten why they came, <tips=66>Konta</tips> asks with shining eyes."
+      "en": "Having completely forgotten why they came, <tips=66>Konta</tips> asks with shining eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0288",
@@ -2084,7 +3307,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「油淋鶏。まあ似たようなもんだけど」",
-      "en": "“Yurinchi. Close enough.”"
+      "en": "“Yurinchi. Close enough.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0289",
@@ -2093,7 +3334,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「へえ、良い匂いがするな。……食っていいのか？」",
-      "en": "“Wow, it smells good. ...We can eat?”"
+      "en": "“Wow, it smells good. ...We can eat?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0290",
@@ -2102,7 +3361,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「ああ、冷めないうちに食ってくれ」",
-      "en": "“Yeah. Eat it before it gets cold.”"
+      "en": "“Yeah. Eat it before it gets cold.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0291",
@@ -2111,7 +3388,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「いただきまーす！」",
-      "en": "“Thanks for the food!”"
+      "en": "“Thanks for the food!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0292",
@@ -2120,7 +3415,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は箸を右手に、白米のよそわれた茶碗を左手に取り、真っ先に大皿の鶏に手をつける。",
-      "en": "<tips=66>Konta</tips> takes his chopsticks in his right hand, his rice bowl in his left, and goes straight for the chicken."
+      "en": "<tips=66>Konta</tips> takes his chopsticks in his right hand, his rice bowl in his left, and goes straight for the chicken.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0293",
@@ -2129,7 +3442,25 @@
       "sj": "汐松子（少女）",
       "se": "Matsuko Shio",
       "jp": "「いただきます」",
-      "en": "“Itadakimasu.”"
+      "en": "“Itadakimasu.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0294",
@@ -2138,7 +3469,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>も丁寧に手を合わせてそう言ってから、食事をはじめる。",
-      "en": "<tips=55>Matsuko</tips> neatly presses her hands together, says the customary phrase, and begins to eat."
+      "en": "<tips=55>Matsuko</tips> neatly presses her hands together, says the customary phrase, and begins to eat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0295",
@@ -2147,7 +3496,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「……食べないのか？」",
-      "en": "“...Aren't you eating?”"
+      "en": "“...Aren't you eating?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0296",
@@ -2156,7 +3523,25 @@
       "sj": "",
       "se": "",
       "jp": "　そして自分も食べ始めようとした<tips=1>亮</tips>だったが、箸を目の前に置いたまま動かない<tips=10>道夫</tips>に気づくと、そう尋ねた。",
-      "en": "<tips=1>Ryou</tips> is about to eat when he notices <tips=10>Michio</tips> sitting still, his chopsticks untouched."
+      "en": "<tips=1>Ryou</tips> is about to eat when he notices <tips=10>Michio</tips> sitting still, his chopsticks untouched.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0297",
@@ -2165,7 +3550,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「いや、もらうよ。いただきます」",
-      "en": "“No, I'll eat. Itadakimasu.”"
+      "en": "“No, I'll eat. Itadakimasu.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0298",
@@ -2174,7 +3577,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は複雑な表情で箸を手に取ると、小さめの油淋鶏をひとつつまみ、いつもの食卓での癖で白米の上にちょんと一度触れさせてから口に運ぶ。",
-      "en": "Wearing a complicated expression, <tips=10>Michio</tips> picks up his chopsticks and takes a small piece of yurinchi. Out of habit, he taps it lightly against the top of his rice before putting it in his mouth."
+      "en": "Wearing a complicated expression, <tips=10>Michio</tips> picks up his chopsticks and takes a small piece of yurinchi. Out of habit, he taps it lightly against the top of his rice before putting it in his mouth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0299",
@@ -2183,7 +3604,25 @@
       "sj": "",
       "se": "",
       "jp": "　多めの長葱が入った甘酸っぱいタレが、サクサクと食感良くあがった鶏と馴染んでおり、しかも少し濃い目の味付けが白米とよくあった。",
-      "en": "The scallion-heavy sweet-and-sour sauce soaks into the crisp chicken, and the strong seasoning goes perfectly with white rice."
+      "en": "The scallion-heavy sweet-and-sour sauce soaks into the crisp chicken, and the strong seasoning goes perfectly with white rice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0300",
@@ -2192,7 +3631,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「旨い。旨いなあ」",
-      "en": "“This is good. Really good.”"
+      "en": "“This is good. Really good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0301",
@@ -2201,7 +3658,25 @@
       "sj": "",
       "se": "",
       "jp": "　隣の<tips=66>紺太</tips>は無邪気に褒めているが、<tips=10>道夫</tips>はそんな風に率直に感想を口にする気にはなれない。",
-      "en": "Beside him, <tips=66>Konta</tips> praises it with innocent delight. <tips=10>Michio</tips> cannot bring himself to be that honest."
+      "en": "Beside him, <tips=66>Konta</tips> praises it with innocent delight. <tips=10>Michio</tips> cannot bring himself to be that honest.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0302",
@@ -2210,7 +3685,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「なあ<tips=1>菅原</tips>」",
-      "en": "“Hey, <tips=1>Sugawara</tips>.”"
+      "en": "“Hey, <tips=1>Sugawara</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0303",
@@ -2219,7 +3712,25 @@
       "sj": "",
       "se": "",
       "jp": "　相変わらず<tips=55>松子</tips>の食べる様子ばかり気にしながら食事をしている<tips=1>亮</tips>にそう声をかけた。",
-      "en": "He speaks to the boy still paying more attention to <tips=55>Matsuko</tips>'s eating than his own: <tips=1>Ryou</tips>."
+      "en": "He speaks to the boy still paying more attention to <tips=55>Matsuko</tips>'s eating than his own: <tips=1>Ryou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0304",
@@ -2228,7 +3739,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「さっきの話本当か？」",
-      "en": "“You mean what you said earlier?”"
+      "en": "“You mean what you said earlier?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0305",
@@ -2237,7 +3766,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「何？」",
-      "en": "“Which part?”"
+      "en": "“Which part?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0306",
@@ -2246,7 +3793,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「チームを譲るって話だよ」",
-      "en": "“About giving me your team.”"
+      "en": "“About giving me your team.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0307",
@@ -2255,7 +3820,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「もちろんだ。僕はそういうくだらない嘘はつかない」",
-      "en": "“Of course. I don't tell pointless lies like that.”"
+      "en": "“Of course. I don't tell pointless lies like that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0308",
@@ -2264,7 +3847,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「だって、そんな簡単なものじゃないだろ？」",
-      "en": "“But it can't be that simple.”"
+      "en": "“But it can't be that simple.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0309",
@@ -2273,7 +3874,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「大丈夫。混乱せずにちゃんとお前が引き継げるように、うまくみんなに伝えておく。心配しなくていいよ。チョロいもんなんだからさ」",
-      "en": "“It'll be fine. I'll explain it to everyone so you can take over without any confusion. Don't worry. They're easy.”"
+      "en": "“It'll be fine. I'll explain it to everyone so you can take over without any confusion. Don't worry. They're easy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0310",
@@ -2282,7 +3901,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はにこりともせずに説明をする。",
-      "en": "<tips=1>Ryou</tips> explains without smiling."
+      "en": "<tips=1>Ryou</tips> explains without smiling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0311",
@@ -2291,7 +3928,25 @@
       "sj": "",
       "se": "",
       "jp": "　その冷淡な態度が<tips=10>道夫</tips>には理解が出来ない。",
-      "en": "<tips=10>Michio</tips> cannot understand that coldness."
+      "en": "<tips=10>Michio</tips> cannot understand that coldness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0312",
@@ -2300,7 +3955,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「おれが簡単じゃないって言ってるのは、そういう意味じゃない。みんなをおびやかしていた周をやっつけて、みんなに認められてリーダーになったんだろ？　それを、こんな、裏切りじゃないか？」",
-      "en": "“That's not what I mean. You beat Zhou when he was terrorizing everyone, and they accepted you as their leader. Doesn't throwing them away like this make you a traitor?”"
+      "en": "“That's not what I mean. You beat Zhou when he was terrorizing everyone, and they accepted you as their leader. Doesn't throwing them away like this make you a traitor?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0313",
@@ -2309,7 +3982,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「説教をしたいのか？」",
-      "en": "“Are you lecturing me?”"
+      "en": "“Are you lecturing me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0314",
@@ -2318,7 +4009,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は眉間にしわをよせ、",
-      "en": "<tips=1>Ryou</tips> furrows his brow and continues."
+      "en": "<tips=1>Ryou</tips> furrows his brow and continues.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-5191f7eb7319.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0315",
@@ -2327,7 +4036,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「だって、興味がないんだから仕方がないだろ。それとも、ガキどもを空き地に並べて集会でもして、ああこいつらが自分の子分なんだなあってニヤニヤすればいいのか？　それとも、立場を利用して人に威張り散らかしたらいいのか？　世間にはそういうのが好きな人間がいるのは知っているけれど、僕はゴメンだね」",
-      "en": "“I don't care about it. What do you want me to do? Line all the brats up in a vacant lot for meetings, then stand there grinning because they're my little henchmen? Or use the position to boss everyone around? I know some people enjoy that sort of thing. I don't.”"
+      "en": "“I don't care about it. What do you want me to do? Line all the brats up in a vacant lot for meetings, then stand there grinning because they're my little henchmen? Or use the position to boss everyone around? I know some people enjoy that sort of thing. I don't.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0316",
@@ -2336,7 +4063,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「アイツ変わってるな。威張ったら楽しいと思うけどな……」",
-      "en": "“He's weird. I think it'd be fun to boss people around...”"
+      "en": "“He's weird. I think it'd be fun to boss people around...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0317",
@@ -2345,7 +4090,25 @@
       "sj": "",
       "se": "",
       "jp": "　横で呟く<tips=66>紺太</tips>。<tips=10>道夫</tips>はそれを無視して、",
-      "en": "<tips=66>Konta</tips> mutters beside them. <tips=10>Michio</tips> ignores him."
+      "en": "<tips=66>Konta</tips> mutters beside them. <tips=10>Michio</tips> ignores him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0318",
@@ -2354,7 +4117,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「そういう話をしてるんじゃない。お前は、おれたちの街を良くしようとは思わないのか？　このままじゃダメだろう？」",
-      "en": "“That's not what I'm talking about. Don't you want to make our City better? We can't leave it like this.”"
+      "en": "“That's not what I'm talking about. Don't you want to make our City better? We can't leave it like this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0319",
@@ -2363,7 +4144,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「悪いけれど、世の中をよくするためとか、社会を変えるためとか、そういう気色の悪いお題目は全然好みじゃないんだ。まさかこの街でそんな夢みたいなことを言うやつが現れるとは思わなかったけどね」",
-      "en": "“Sorry, but I'm not interested in nauseating slogans about improving the world or changing society. I never thought anybody in this City would show up spouting that kind of fantasy.”"
+      "en": "“Sorry, but I'm not interested in nauseating slogans about improving the world or changing society. I never thought anybody in this City would show up spouting that kind of fantasy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0320",
@@ -2372,7 +4171,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「誰も言わないから、おれが言うしかなかったんだよ」",
-      "en": "“Nobody else would say it. So I had to.”"
+      "en": "“Nobody else would say it. So I had to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0321",
@@ -2381,7 +4198,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>の言葉に、<tips=1>亮</tips>は溜息をついて、",
-      "en": "At <tips=10>Michio</tips>'s answer, <tips=1>Ryou</tips> sighs."
+      "en": "At <tips=10>Michio</tips>'s answer, <tips=1>Ryou</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0322",
@@ -2390,7 +4225,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そもそもさ、街を良くするってどういうことだ？　周みたいなやつらを一人残らず叩きのめしたって何も変わらないぞ。それとも、バックのギャングたちも相手にする気か？　ギャングを一人のこらず潰すなんて現実的じゃないし、そもそもこの街はそんなことを望んでいない。結局、世の中なんてのは、自分が望む形に勝手に変化してゆくものだ。<tips=3>クリス・ツェー</tips>が英雄扱いされてるけど、あれだって本人の能力というより、街の空気にのっかっただけの凧みたいなもんだよ」",
-      "en": "“What does ‘making the City better’ even mean? You could beat every last person like Zhou and nothing would change. Are you going to fight the gangs behind them too? Wiping out every gangster isn't realistic, and the City doesn't want it anyway. The world changes on its own, into whatever shape it wants. <tips=3>Chris Xie</tips> gets treated like a hero, but he was less some great man than a kite that happened to catch the City's wind.”"
+      "en": "“What does ‘making the City better’ even mean? You could beat every last person like Zhou and nothing would change. Are you going to fight the gangs behind them too? Wiping out every gangster isn't realistic, and the City doesn't want it anyway. The world changes on its own, into whatever shape it wants. <tips=3>Chris Xie</tips> gets treated like a hero, but he was less some great man than a kite that happened to catch the City's wind.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0323",
@@ -2399,7 +4252,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「お前の言いたいことがよくわからないが……とにかくおれは、自分に納得出来ないものは見過ごせないし、変えられるものは変えたいんだよ。それがそんなにおかしなことか？」",
-      "en": "“I don't really understand what you're saying... I just can't overlook something I know is wrong. If I can change it, I want to. Is that so strange?”"
+      "en": "“I don't really understand what you're saying... I just can't overlook something I know is wrong. If I can change it, I want to. Is that so strange?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0324",
@@ -2408,7 +4279,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「おかしいとは言わないよ。お前がそれで満足ならそうすればいい。でも僕は違うってだけだ」",
-      "en": "“I didn't say it was strange. If that's what satisfies you, do it. I'm simply not like you.”"
+      "en": "“I didn't say it was strange. If that's what satisfies you, do it. I'm simply not like you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0325",
@@ -2417,7 +4306,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は苛立ちを抑えるようにこめかみの辺りを人差し指でおさえると、",
-      "en": "<tips=1>Ryou</tips> presses one finger to his temple, holding back his irritation."
+      "en": "<tips=1>Ryou</tips> presses one finger to his temple, holding back his irritation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0326",
@@ -2426,7 +4333,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そもそも、何が不満なのさ。僕はお前が欲しいものをタダでくれてやると言っているんだぜ？　もうその話は終わりのはずだろう？」",
-      "en": "“What are you unhappy about, anyway? I'm giving you exactly what you want for free. This conversation should be over.”"
+      "en": "“What are you unhappy about, anyway? I'm giving you exactly what you want for free. This conversation should be over.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0327",
@@ -2435,7 +4360,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「それは、確かにそうなんだけれど……」",
-      "en": "“That's true, but...”"
+      "en": "“That's true, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0328",
@@ -2444,7 +4387,25 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「じゃあこの話はやめよう。飯がまずくなる」",
-      "en": "“Then drop it. You're ruining the food.”"
+      "en": "“Then drop it. You're ruining the food.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0329",
@@ -2453,7 +4414,25 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って<tips=1>亮</tips>が食事を再開したのを見て、<tips=10>道夫</tips>も黙って食べ始める。",
-      "en": "<tips=1>Ryou</tips> goes back to eating. <tips=10>Michio</tips> falls silent and does the same."
+      "en": "<tips=1>Ryou</tips> goes back to eating. <tips=10>Michio</tips> falls silent and does the same.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d233a6774853.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0332",
@@ -2480,7 +4459,8 @@
       "sj": "",
       "se": "",
       "jp": "　外は大分日が傾き、オレンジ色が町並みを染めていた。",
-      "en": "Outside, the sun hangs low, staining the streets orange."
+      "en": "Outside, the sun hangs low, staining the streets orange.",
+      "bg": "assets/vn/backgrounds/bg-7a72fa12835a.webp"
     },
     {
       "id": "x12:0342",
@@ -2489,7 +4469,13 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「なあ、おれ本当にお前のチームもらったのか？」",
-      "en": "“Hey. Did you really give me your team?”"
+      "en": "“Hey. Did you really give me your team?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0343",
@@ -2498,7 +4484,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>がそう訊ねると、",
-      "en": "When <tips=10>Michio</tips> asks,"
+      "en": "When <tips=10>Michio</tips> asks,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0344",
@@ -2507,7 +4499,17 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「そうだよ。じゃあね」",
-      "en": "“Yes. See you.”"
+      "en": "“Yes. See you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0345",
@@ -2516,7 +4518,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はそっけなく言い、",
-      "en": "<tips=1>Ryou</tips> answers without concern."
+      "en": "<tips=1>Ryou</tips> answers without concern.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0346",
@@ -2525,7 +4537,21 @@
       "sj": "汐松子（少女）",
       "se": "Matsuko Shio",
       "jp": "「さよなら」",
-      "en": "“Goodbye.”"
+      "en": "“Goodbye.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0347",
@@ -2534,7 +4560,21 @@
       "sj": "",
       "se": "",
       "jp": "　その隣で<tips=55>松子</tips>も無表情に手を振る。",
-      "en": "Beside him, <tips=55>Matsuko</tips> waves without changing her expression."
+      "en": "Beside him, <tips=55>Matsuko</tips> waves without changing her expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0348",
@@ -2543,7 +4583,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はやはりまだ納得がいっていなかったが、",
-      "en": "<tips=10>Michio</tips> is still not satisfied. But then—"
+      "en": "<tips=10>Michio</tips> is still not satisfied. But then—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0349",
@@ -2552,7 +4606,25 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「ごちそうさま！」",
-      "en": "“Thanks for the meal!”"
+      "en": "“Thanks for the meal!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0350",
@@ -2561,7 +4633,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>が満足げにそう挨拶をすると、",
-      "en": "—<tips=66>Konta</tips> calls out happily."
+      "en": "—<tips=66>Konta</tips> calls out happily.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0351",
@@ -2570,7 +4660,25 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「どうも、ごちそうさまでした……」",
-      "en": "“Uh, yeah... Thanks for the meal...”"
+      "en": "“Uh, yeah... Thanks for the meal...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0352",
@@ -2579,7 +4687,25 @@
       "sj": "",
       "se": "",
       "jp": "　つられてそう言ってしまった。",
-      "en": "And he finds himself following suit."
+      "en": "And he finds himself following suit.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-065f6f081483.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-41179fea16c8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0359",
@@ -2588,7 +4714,14 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「良かったね。喧嘩しないで済んで」",
-      "en": "“That went well. We didn't even have to fight.”"
+      "en": "“That went well. We didn't even have to fight.”",
+      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0360",
@@ -2597,7 +4730,13 @@
       "sj": "",
       "se": "",
       "jp": "　二人で並んで<tips=59>暗闇通り</tips>への道を歩いていると、<tips=66>紺太</tips>がそう話しかけてくる。",
-      "en": "As they walk side by side toward <tips=59>Darkness Street</tips>, <tips=66>Konta</tips> speaks up."
+      "en": "As they walk side by side toward <tips=59>Darkness Street</tips>, <tips=66>Konta</tips> speaks up.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "x12:0361",
@@ -2606,7 +4745,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「やっぱ、納得出来ない！」",
-      "en": "“I still can't accept it!”"
+      "en": "“I still can't accept it!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0362",
@@ -2615,7 +4764,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が思わず大きな声を出してしまうと、すぐそばで娼婦に交渉していた紳士が怪訝な顔で振り返る。",
-      "en": "<tips=10>Michio</tips> shouts without meaning to. Nearby, a gentleman bargaining with a sex worker turns and gives him a strange look."
+      "en": "<tips=10>Michio</tips> shouts without meaning to. Nearby, a gentleman bargaining with a sex worker turns and gives him a strange look.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0363",
@@ -2624,7 +4783,17 @@
       "sj": "",
       "se": "",
       "jp": "　この辺りは、<tips=59>暗闇通り</tips>のような大きな通りでは商売が出来ない、個人経営の女や、わけありの女が路上に立って直接客と交渉をしている場所だった。",
-      "en": "Independent women and others unable to work a major thoroughfare such as <tips=59>Darkness Street</tips> stood here and negotiated directly with customers."
+      "en": "Independent women and others unable to work a major thoroughfare such as <tips=59>Darkness Street</tips> stood here and negotiated directly with customers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0364",
@@ -2633,7 +4802,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「どうしてあいつはあんな素っ気ないんだ？　情熱がないのか？」",
-      "en": "“How can he be so indifferent? Doesn't he have any passion?”"
+      "en": "“How can he be so indifferent? Doesn't he have any passion?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0365",
@@ -2642,7 +4821,17 @@
       "sj": "",
       "se": "",
       "jp": "　さまざまな肌の色をした女が立つこの狭い路地は観光客にとっては刺激的なものだろうが、小さな時から見慣れた<tips=10>道夫</tips>たちにとっては当たり前の光景で、肌の露出が多い女たちに目もくれずに<tips=10>道夫</tips>はそう嘆く。",
-      "en": "The narrow alley, lined with scantily clad women of every complexion, might have excited a tourist. To <tips=10>Michio</tips> and the other children who had seen it all their lives, it was ordinary. Paying the women no attention, <tips=10>Michio</tips> complains."
+      "en": "The narrow alley, lined with scantily clad women of every complexion, might have excited a tourist. To <tips=10>Michio</tips> and the other children who had seen it all their lives, it was ordinary. Paying the women no attention, <tips=10>Michio</tips> complains.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0366",
@@ -2651,7 +4840,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「……まあ人は色々だよ。いいじゃない。あいつのことは忘れて次行こう。次。<tips=10>道夫</tips>君には、大きな夢があるんだからさ……」",
-      "en": "“...People are all different. It's fine. Forget him and move on to the next guy. You've got a big dream, <tips=10>Michio</tips>...”"
+      "en": "“...People are all different. It's fine. Forget him and move on to the next guy. You've got a big dream, <tips=10>Michio</tips>...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0367",
@@ -2660,7 +4859,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>はそうなだめるが、",
-      "en": "<tips=66>Konta</tips> attempts to soothe him, but,"
+      "en": "<tips=66>Konta</tips> attempts to soothe him, but,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0368",
@@ -2669,7 +4878,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「いーや、納得出来ないね！」",
-      "en": "“No! I can't accept it!”"
+      "en": "“No! I can't accept it!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0369",
@@ -2678,7 +4897,17 @@
       "sj": "",
       "se": "",
       "jp": "　やはり<tips=10>道夫</tips>は大きな声で否定する。",
-      "en": "Once again, <tips=10>Michio</tips> bellows his refusal."
+      "en": "Once again, <tips=10>Michio</tips> bellows his refusal.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0370",
@@ -2687,7 +4916,17 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、<tips=10>道夫</tips>じゃないか。こんなところを歩いているなんて珍しいねえ。どうだい、遊んでいかないかい？」",
-      "en": "“Oh, <tips=10>Michio</tips>. Don't see you around here often. How about stopping for a little fun?”"
+      "en": "“Oh, <tips=10>Michio</tips>. Don't see you around here often. How about stopping for a little fun?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0371",
@@ -2696,7 +4935,17 @@
       "sj": "",
       "se": "",
       "jp": "　顔見知りの女が声をかけるが、興奮する<tips=10>道夫</tips>の耳には届かない。",
-      "en": "A woman he knows calls out, but <tips=10>Michio</tips> is too worked up to hear her."
+      "en": "A woman he knows calls out, but <tips=10>Michio</tips> is too worked up to hear her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0372",
@@ -2705,7 +4954,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「どうして決闘を挑んだ相手にあんな対応が出来るんだ！　そしてチキンまでご馳走するなんてどういうことだ！　おれは食ってしまった！」",
-      "en": "“How can somebody treat a challenger that way? Then he even feeds us chicken! What's that supposed to mean? And I ate it!”"
+      "en": "“How can somebody treat a challenger that way? Then he even feeds us chicken! What's that supposed to mean? And I ate it!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0373",
@@ -2714,7 +4973,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「おれなんか、お母さんの分まで包んでもらっちゃったよ」",
-      "en": "“I even had him wrap some up for my mom.”"
+      "en": "“I even had him wrap some up for my mom.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0374",
@@ -2723,7 +4992,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は言って苦笑する。げっぷをすると、まだあのタレのにおいがした。",
-      "en": "<tips=66>Konta</tips> gives an awkward laugh. When he burps, he can still smell the sauce."
+      "en": "<tips=66>Konta</tips> gives an awkward laugh. When he burps, he can still smell the sauce.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0375",
@@ -2732,7 +5011,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「まったく、なんて丁寧におもてなしをされちまったんだろう！　こちらも丁寧に、ごちそうさまでしたと言ってしまった！」",
-      "en": "“He treated us so politely! And then I politely thanked him for the meal!”"
+      "en": "“He treated us so politely! And then I politely thanked him for the meal!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0376",
@@ -2741,7 +5030,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は恋に悩むウェルテルのように大げさな仕草で頭をかかえた。",
-      "en": "<tips=10>Michio</tips> clutches his head with all the drama of Werther tormented by love."
+      "en": "<tips=10>Michio</tips> clutches his head with all the drama of Werther tormented by love.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0377",
@@ -2750,7 +5049,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「<tips=10>道夫</tips>君は悪ぶってるけど意外と礼儀正しいからね」",
-      "en": "“You try to act tough, but you're surprisingly polite, <tips=10>Michio</tips>.”"
+      "en": "“You try to act tough, but you're surprisingly polite, <tips=10>Michio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0378",
@@ -2759,7 +5068,17 @@
       "sj": "",
       "se": "",
       "jp": "　満腹になりすっかり幸福になってしまった<tips=66>紺太</tips>は穏やかに言う。",
-      "en": "Full and completely happy, <tips=66>Konta</tips> says it with perfect calm."
+      "en": "Full and completely happy, <tips=66>Konta</tips> says it with perfect calm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0379",
@@ -2768,7 +5087,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「しかも旨かった！　つまりこれは、やつに負けてしまったということだ！」",
-      "en": "“And it was good! That means I lost to him!”"
+      "en": "“And it was good! That means I lost to him!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0380",
@@ -2777,7 +5106,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「どうしてそうなるのさ」",
-      "en": "“How does that make any sense?”"
+      "en": "“How does that make any sense?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0381",
@@ -2786,7 +5125,17 @@
       "sj": "",
       "se": "",
       "jp": "　思わず笑ってしまう<tips=66>紺太</tips>の顔を、<tips=10>道夫</tips>は立ち止まってじっと見つめ、",
-      "en": "<tips=66>Konta</tips> cannot help laughing. <tips=10>Michio</tips> stops and stares at him."
+      "en": "<tips=66>Konta</tips> cannot help laughing. <tips=10>Michio</tips> stops and stares at him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0382",
@@ -2795,7 +5144,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「<tips=66>コンタ</tips>、おれはこのままじゃ引き下がれない。次こそちゃんとやつと決着をつける！」",
-      "en": "“<tips=66>Konta</tips>, I can't back down like this. Next time, I'm settling this with him properly!”"
+      "en": "“<tips=66>Konta</tips>, I can't back down like this. Next time, I'm settling this with him properly!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0383",
@@ -2804,7 +5163,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「次って？　チームは譲ってくれるって言ったんだから決着をつける理由がないじゃないか」",
-      "en": "“Next time? He already said he'd give you the team. There's nothing left to settle.”"
+      "en": "“Next time? He already said he'd give you the team. There's nothing left to settle.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0384",
@@ -2813,7 +5182,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「これじゃすっきりしない。ただで譲られるなんておれのプライドが許さないんだよ」",
-      "en": "“This doesn't feel right. My pride won't let me take it for nothing.”"
+      "en": "“This doesn't feel right. My pride won't let me take it for nothing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0385",
@@ -2822,7 +5201,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は舌打ちをすると、また歩きはじめる。",
-      "en": "<tips=10>Michio</tips> clicks his tongue and starts walking again."
+      "en": "<tips=10>Michio</tips> clicks his tongue and starts walking again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-67ee7de402c6.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0386",
@@ -2831,7 +5220,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「……でも、美味しい料理ご馳走になっちゃったんだよ？」",
-      "en": "“...But he fed us that delicious food.”"
+      "en": "“...But he fed us that delicious food.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0387",
@@ -2840,7 +5239,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>紺太</tips>は慌てて追いかける。",
-      "en": "<tips=66>Konta</tips> hurries after him."
+      "en": "<tips=66>Konta</tips> hurries after him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0388",
@@ -2849,7 +5258,17 @@
       "sj": "",
       "se": "",
       "jp": "「あ、<tips=66>コンタ</tips>じゃないか。今日お前の母さんは仕事しないのか？」",
-      "en": "“Hey, <tips=66>Konta</tips>. Your mother not working today?”"
+      "en": "“Hey, <tips=66>Konta</tips>. Your mother not working today?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0389",
@@ -2858,7 +5277,17 @@
       "sj": "",
       "se": "",
       "jp": "　そこに、すれ違おうとした中年男がそう声をかけて来る。",
-      "en": "A middle-aged man passing them calls out."
+      "en": "A middle-aged man passing them calls out.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0390",
@@ -2867,7 +5296,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「あ、今日は休みなんで」",
-      "en": "“Oh. She's off today.”"
+      "en": "“Oh. She's off today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0391",
@@ -2876,7 +5315,17 @@
       "sj": "",
       "se": "",
       "jp": "　と<tips=66>紺太</tips>はそう答えてから、",
-      "en": "<tips=66>Konta</tips> answers, then returns to the argument."
+      "en": "<tips=66>Konta</tips> answers, then returns to the argument.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3f63f563e1de.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0392",
@@ -2885,7 +5334,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「あんな親切にしてもらったのに、どうして喧嘩したいのさ」",
-      "en": "“He was so nice to us. Why do you still want to fight him?”"
+      "en": "“He was so nice to us. Why do you still want to fight him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0393",
@@ -2894,7 +5353,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「それとこれとは別だ」",
-      "en": "“That's got nothing to do with this.”"
+      "en": "“That's got nothing to do with this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0394",
@@ -2903,7 +5372,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は仏頂面のまま首を振る。",
-      "en": "Still scowling, <tips=10>Michio</tips> shakes his head."
+      "en": "Still scowling, <tips=10>Michio</tips> shakes his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0395",
@@ -2912,7 +5391,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「おれ、<tips=1>菅原亮</tips>ってそんなに悪い奴じゃないような気がするな……」",
-      "en": "“I don't think <tips=1>Ryou Sugawara</tips> is such a bad guy...”"
+      "en": "“I don't think <tips=1>Ryou Sugawara</tips> is such a bad guy...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0396",
@@ -2921,7 +5410,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「なんだよ。お前、すっかりヤツに手懐けられてるじゃんか。安上がりなやつだな」",
-      "en": "“What, he's tamed you already? You're cheap.”"
+      "en": "“What, he's tamed you already? You're cheap.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0397",
@@ -2930,7 +5429,17 @@
       "sj": "紺太（少年時代）",
       "se": "Konta Tanaka",
       "jp": "「い、いや、それは……」",
-      "en": "“N-no, that's not...”"
+      "en": "“N-no, that's not...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0398",
@@ -2939,7 +5448,17 @@
       "sj": "",
       "se": "",
       "jp": "　しどろもどろになる<tips=66>紺太</tips>を横目でチラと見てから、<tips=10>道夫</tips>は親指の爪を忌々しげに噛み、",
-      "en": "<tips=66>Konta</tips> flounders. <tips=10>Michio</tips> glances sideways at him, then bites his thumbnail in frustration."
+      "en": "<tips=66>Konta</tips> flounders. <tips=10>Michio</tips> glances sideways at him, then bites his thumbnail in frustration.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0399",
@@ -2948,7 +5467,17 @@
       "sj": "見土道夫（少年時代）",
       "se": "Michio Mido",
       "jp": "「<tips=1>菅原亮</tips>……本当にむかつくヤツだぜ。くそ、新しい作戦を考えなきゃな」",
-      "en": "“<tips=1>Ryou Sugawara</tips>... God, he pisses me off. Damn it. I need a new plan.”"
+      "en": "“<tips=1>Ryou Sugawara</tips>... God, he pisses me off. Damn it. I need a new plan.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "x12:0400",
@@ -2957,7 +5486,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう呟き、さらに足を早めたのである。",
-      "en": "He mutters to himself and walks faster."
+      "en": "He mutters to himself and walks faster.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-223ead0fccfb.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-fa973d0fac6d.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

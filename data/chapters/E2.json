@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　地図を見れば<tips=9>Y地区</tips>の西側に「門後」という地名を見つけることが出来るだろう。",
-      "en": "Look at a map and you will find a place called Mongo on the western side of <tips=9>Y District</tips>."
+      "en": "Look at a map and you will find a place called Mongo on the western side of <tips=9>Y District</tips>.",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "E2:0009",
@@ -104,7 +105,8 @@
       "sj": "",
       "se": "",
       "jp": "　一歩路地を出ると<tips=59>暗闇通り</tips>で、街娼が立ち並び、道行く男に見境なく声をかける。道の両脇に並んだボロアパートはそのほとんどが住宅にみせかけた売春宿であった。",
-      "en": "Step out of the alley and you are on <tips=59>Darkness Street</tips>, where prostitutes line the road and call indiscriminately to every man who passes. Most of the crumbling apartments on either side are brothels pretending to be homes."
+      "en": "Step out of the alley and you are on <tips=59>Darkness Street</tips>, where prostitutes line the road and call indiscriminately to every man who passes. Most of the crumbling apartments on either side are brothels pretending to be homes.",
+      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
     },
     {
       "id": "E2:0020",
@@ -266,7 +268,14 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「おかえりなさい」",
-      "en": "“Welcome home.”"
+      "en": "“Welcome home.”",
+      "bg": "assets/vn/backgrounds/bg-cdaa06c8ff03.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0044",
@@ -275,7 +284,13 @@
       "sj": "",
       "se": "",
       "jp": "　無言で部屋に足を踏み入れた私を、<tips=53>ミユキ</tips>が笑顔で出迎える。",
-      "en": "<tips=53>Miyuki</tips> greets my silent entrance with a smile."
+      "en": "<tips=53>Miyuki</tips> greets my silent entrance with a smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0045",
@@ -284,7 +299,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「ビールでいい？　あら、お酒臭い。もう飲んできたのね」",
-      "en": "“Want a beer? Oh—you smell like liquor. You've already been drinking.”"
+      "en": "“Want a beer? Oh—you smell like liquor. You've already been drinking.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0046",
@@ -293,7 +314,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は顔を顰めて、一旦テーブルの上に置いたビール瓶を引っ込めようとする。私はそれを奪うようにつかみ取ると、栓を抜き、グラスに注いだ。",
-      "en": "<tips=53>Miyuki</tips> frowns and reaches to take back the bottle she set on the table. I snatch it first, pop the cap, and pour myself a glass."
+      "en": "<tips=53>Miyuki</tips> frowns and reaches to take back the bottle she set on the table. I snatch it first, pop the cap, and pour myself a glass.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0047",
@@ -302,7 +329,13 @@
       "sj": "",
       "se": "",
       "jp": "「今日は仕事に行かないのか？」",
-      "en": "“You're not working today?”"
+      "en": "“You're not working today?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0048",
@@ -311,7 +344,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「うん、今日は休み。そう言えば、<tips=48>堂島</tips>さんが<tips=50>邦昭さん</tips>のこと探してたけど、会えた？」",
-      "en": "“Yeah, I'm off today. Oh, Mr. <tips=48>Doujima</tips> was looking for you, <tips=50>Kuniaki</tips>. Did he find you?”"
+      "en": "“Yeah, I'm off today. Oh, Mr. <tips=48>Doujima</tips> was looking for you, <tips=50>Kuniaki</tips>. Did he find you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0049",
@@ -320,7 +359,13 @@
       "sj": "",
       "se": "",
       "jp": "「おかげさまでカルロッタの店で捕まったよ。それで、面倒な用事を押しつけられた」",
-      "en": "“Thanks to you, he caught me at Carlotta's and saddled me with a damned nuisance.”"
+      "en": "“Thanks to you, he caught me at Carlotta's and saddled me with a damned nuisance.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0050",
@@ -329,7 +374,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「ああ、だからそんなに不機嫌そうなのね。一体どんな用件だったのかしら」",
-      "en": "“Oh, so that's why you're in such a mood. What did he want?”"
+      "en": "“Oh, so that's why you're in such a mood. What did he want?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0051",
@@ -338,7 +389,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って興味津々な態度をあらわにして向かいの席に腰掛ける<tips=53>ミユキ</tips>に、私はビールを飲みながら、いま<tips=48>堂島</tips>と会って話したことを説明した。",
-      "en": "Her curiosity plain, <tips=53>Miyuki</tips> sits across from me. I drink my beer and tell her what passed between <tips=48>Doujima</tips> and me."
+      "en": "Her curiosity plain, <tips=53>Miyuki</tips> sits across from me. I drink my beer and tell her what passed between <tips=48>Doujima</tips> and me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0052",
@@ -347,7 +404,13 @@
       "sj": "",
       "se": "",
       "jp": "　思い出してみても、なんともすっきりしない話だ。それほど長くもない説明が終わる頃には、テーブルの上にビール瓶が三本並んでいた。",
-      "en": "The story leaves a bad taste even in the retelling. It is not a very long one, yet by the time I finish, three empty beer bottles stand on the table."
+      "en": "The story leaves a bad taste even in the retelling. It is not a very long one, yet by the time I finish, three empty beer bottles stand on the table.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0053",
@@ -356,7 +419,13 @@
       "sj": "",
       "se": "",
       "jp": "「まったく、人をなんだと思ってやがるんだ。あの犬のおまわりさんは」",
-      "en": "“Honestly. What does that police dog think I am?”"
+      "en": "“Honestly. What does that police dog think I am?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0054",
@@ -365,7 +434,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「でも、話だけ聞いてると、<tips=50>邦昭さん</tips>が喜びそうな話だけど……。それに、もしかしたらまた超能力を使えるようにしてくれるかもしれないんでしょ？」",
-      "en": "“But from the sound of it, this is just the sort of thing you would enjoy, <tips=50>Kuniaki</tips>... And he might even arrange for you to use your power again, right?”"
+      "en": "“But from the sound of it, this is just the sort of thing you would enjoy, <tips=50>Kuniaki</tips>... And he might even arrange for you to use your power again, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0055",
@@ -374,7 +449,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は首をかしげる。",
-      "en": "<tips=53>Miyuki</tips> tips her head to one side."
+      "en": "<tips=53>Miyuki</tips> tips her head to one side.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0056",
@@ -383,7 +464,13 @@
       "sj": "",
       "se": "",
       "jp": "「ありえないね。調べたことがあるんだが、一度この処置がとられた<tips=16>タイプA</tips>が、再び能力を与えられた例はひとつもない。<tips=16>タイプA</tips>の能力ってのは、それだけ危険視されてるんだよ」",
-      "en": "“Impossible. I looked into it. Not one <tips=16>Type A</tips> who has undergone this treatment has ever been given their power back. That is how dangerous society considers <tips=16>Type A</tips> abilities.”"
+      "en": "“Impossible. I looked into it. Not one <tips=16>Type A</tips> who has undergone this treatment has ever been given their power back. That is how dangerous society considers <tips=16>Type A</tips> abilities.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0057",
@@ -392,7 +479,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「でも、<tips=48>堂島</tips>さんなら……」",
-      "en": "“But Mr. <tips=48>Doujima</tips> might...”"
+      "en": "“But Mr. <tips=48>Doujima</tips> might...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0058",
@@ -401,7 +494,13 @@
       "sj": "",
       "se": "",
       "jp": "「無理だね。それにな、報酬の問題だけじゃない。もう一つ、非常に重要な問題がある。何かわかるか？」",
-      "en": "“He can't. And the money isn't the only problem. There is another matter of the utmost importance. Can you guess what?”"
+      "en": "“He can't. And the money isn't the only problem. There is another matter of the utmost importance. Can you guess what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0059",
@@ -410,7 +509,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は首を横にふる。",
-      "en": "<tips=53>Miyuki</tips> shakes her head."
+      "en": "<tips=53>Miyuki</tips> shakes her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0060",
@@ -419,7 +524,13 @@
       "sj": "",
       "se": "",
       "jp": "「おれはあの旦那の言い方が気に食わないのさ。あれは許せないな。お前はくだらないことで腹を立ててると思うだろうがね、この、メンツってのは男にとっては死活問題なんだよ。人にものを頼むにはそれ相応のやり方ってのがある」",
-      "en": "“I don't like the way the man spoke to me. That is unforgivable. You may think I'm angry over nothing, but a man's pride is a matter of life and death. If you want a favor, there is a proper way to ask.”"
+      "en": "“I don't like the way the man spoke to me. That is unforgivable. You may think I'm angry over nothing, but a man's pride is a matter of life and death. If you want a favor, there is a proper way to ask.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0061",
@@ -428,7 +539,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「知ってるわ。あたしのママもよく言ってたもの。男の人はプライドだけで生きてるんだって」",
-      "en": "“I know. My mama always said men live on pride alone.”"
+      "en": "“I know. My mama always said men live on pride alone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0062",
@@ -437,7 +554,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は頭をこくこくと上下して何度も頷いている。",
-      "en": "<tips=53>Miyuki</tips> bobs her head in vigorous agreement."
+      "en": "<tips=53>Miyuki</tips> bobs her head in vigorous agreement.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0063",
@@ -446,7 +569,13 @@
       "sj": "",
       "se": "",
       "jp": "　大げさな納得の仕草であるが、実際仕草に相応しいだけの理解を本当に出来てるのかどうか甚だ怪しい。私は無視して言葉を続け、とにかく言いたいことだけ言うことにした。",
-      "en": "It is a grand display of understanding. Whether the understanding beneath it is equally grand remains doubtful. I ignore the question and press on, determined to say my piece."
+      "en": "It is a grand display of understanding. Whether the understanding beneath it is equally grand remains doubtful. I ignore the question and press on, determined to say my piece.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0064",
@@ -455,7 +584,13 @@
       "sj": "",
       "se": "",
       "jp": "「あんな脅迫めいた言い方じゃあ、誰だって気持ちよく協力することなんか出来ない。<tips=48>堂島</tips>の旦那はその辺りの配慮ってものがないんだ。まったくデリカシーがない。だから誰とも組めずにいつも一人でいるのさ。人望がないんだな」",
-      "en": "“No one could cooperate gladly after a threat like that. Detective <tips=48>Doujima</tips> has no thought for such niceties. No tact at all. That is why he cannot work with anyone and is forever alone. No one likes the man.”"
+      "en": "“No one could cooperate gladly after a threat like that. Detective <tips=48>Doujima</tips> has no thought for such niceties. No tact at all. That is why he cannot work with anyone and is forever alone. No one likes the man.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0065",
@@ -464,7 +599,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「そう、あたしは<tips=48>堂島</tips>さんて素敵だと思うけど」",
-      "en": "“Really? I think Mr. <tips=48>Doujima</tips> is wonderful.”"
+      "en": "“Really? I think Mr. <tips=48>Doujima</tips> is wonderful.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0066",
@@ -473,7 +614,13 @@
       "sj": "",
       "se": "",
       "jp": "「そりゃお前が動物好きだからだよ」",
-      "en": "“That is because you like animals.”"
+      "en": "“That is because you like animals.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0067",
@@ -482,7 +629,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「まあ、ひどい」",
-      "en": "“Oh, that's awful.”"
+      "en": "“Oh, that's awful.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0068",
@@ -491,7 +644,13 @@
       "sj": "",
       "se": "",
       "jp": "「あれは駄目だよ。とにかく、こんな道楽みたいなことをやっている暇はないのさ。おれは忙しいんだ」",
-      "en": "“The man is hopeless. Anyway, I don't have time for a hobby like this. I'm busy.”"
+      "en": "“The man is hopeless. Anyway, I don't have time for a hobby like this. I'm busy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0069",
@@ -500,7 +659,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「そうだよね。<tips=50>邦昭さん</tips>は、傑作を書いて立派な作家先生になるんだもんね」",
-      "en": "“That's right. <tips=50>Kuniaki</tips> is going to write his masterpiece and become a famous author.”"
+      "en": "“That's right. <tips=50>Kuniaki</tips> is going to write his masterpiece and become a famous author.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0070",
@@ -509,7 +674,13 @@
       "sj": "",
       "se": "",
       "jp": "　他の誰かが言えば皮肉にしかならないが、<tips=53>ミユキ</tips>は心底そう信じてくれているのだろう。およそ、私の言葉を疑うということがない女なのだ。",
-      "en": "From anyone else, the line would be pure sarcasm. <tips=53>Miyuki</tips> believes it with all her heart. The woman seems incapable of doubting anything I tell her."
+      "en": "From anyone else, the line would be pure sarcasm. <tips=53>Miyuki</tips> believes it with all her heart. The woman seems incapable of doubting anything I tell her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0071",
@@ -518,7 +689,13 @@
       "sj": "",
       "se": "",
       "jp": "　その無邪気さに、ちくりと胸が痛む。",
-      "en": "Her innocence catches me with a small stab of guilt."
+      "en": "Her innocence catches me with a small stab of guilt.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0072",
@@ -527,7 +704,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「でも、そんな風に言うけど<tips=50>邦昭さん</tips>は、本当は<tips=48>堂島</tips>さんが好きなんだと思うな」",
-      "en": "“But for all you say, <tips=50>Kuniaki</tips>, I think you actually like Mr. <tips=48>Doujima</tips>.”"
+      "en": "“But for all you say, <tips=50>Kuniaki</tips>, I think you actually like Mr. <tips=48>Doujima</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0073",
@@ -536,7 +719,13 @@
       "sj": "",
       "se": "",
       "jp": "「なぜそう思う」",
-      "en": "“What makes you think that?”"
+      "en": "“What makes you think that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0074",
@@ -545,7 +734,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「だって、<tips=50>邦昭さん</tips>は、本当に嫌いな人は話題に出さないでしょう？　あなたは、嫌いな人のことで自分の時間を使うのがいやだってタイプだもの。こんな風に愚痴るってことは、<tips=48>堂島</tips>さんのことが、それだけ労力を支払う価値がある相手だって認めてるんだよね？」",
-      "en": "“Because you never talk about people you truly hate, <tips=50>Kuniaki</tips>. You're the sort who refuses to waste his own time thinking about someone he dislikes. If you're willing to complain this much, then you must think Mr. <tips=48>Doujima</tips> is worth the trouble. Don't you?”"
+      "en": "“Because you never talk about people you truly hate, <tips=50>Kuniaki</tips>. You're the sort who refuses to waste his own time thinking about someone he dislikes. If you're willing to complain this much, then you must think Mr. <tips=48>Doujima</tips> is worth the trouble. Don't you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0075",
@@ -554,7 +749,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は時々思わぬ推察力を発揮する。",
-      "en": "<tips=53>Miyuki</tips> occasionally reveals a startling gift for seeing through me."
+      "en": "<tips=53>Miyuki</tips> occasionally reveals a startling gift for seeing through me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0076",
@@ -563,7 +764,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が反論出来ずに、黙ったまま新しいビールの栓を抜いていると、",
-      "en": "With no answer to give her, I open another beer in silence."
+      "en": "With no answer to give her, I open another beer in silence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0077",
@@ -572,7 +779,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「やったらいいと思うよ。だって、それだって、<tips=50>邦昭さん</tips>の原稿に役立つでしょう？」",
-      "en": "“I think you should do it. It could help with your book too, couldn't it, <tips=50>Kuniaki</tips>?”"
+      "en": "“I think you should do it. It could help with your book too, couldn't it, <tips=50>Kuniaki</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0078",
@@ -581,7 +794,13 @@
       "sj": "",
       "se": "",
       "jp": "　こともあろうに、<tips=48>堂島</tips>への協力を勧めて来る。",
-      "en": "Of all things, she is urging me to help <tips=48>Doujima</tips>."
+      "en": "Of all things, she is urging me to help <tips=48>Doujima</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0079",
@@ -590,7 +809,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあネタの一つにはなるかもしれないがね。だが、もうすぐそれより重大な事件が起こる」",
-      "en": "“Perhaps it would give me something to write about. But a far more important event is about to happen.”"
+      "en": "“Perhaps it would give me something to write about. But a far more important event is about to happen.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0080",
@@ -599,7 +824,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「何？」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0081",
@@ -608,7 +839,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=3>クリス・ツェー</tips>が死ぬんだ」",
-      "en": "“<tips=3>Chris Xie</tips> is dying.”"
+      "en": "“<tips=3>Chris Xie</tips> is dying.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0082",
@@ -617,7 +854,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「えっ、<tips=3>クリス・ツェー</tips>さんって……」",
-      "en": "“What? Mr. <tips=3>Chris Xie</tips> is...”"
+      "en": "“What? Mr. <tips=3>Chris Xie</tips> is...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0083",
@@ -626,7 +869,13 @@
       "sj": "",
       "se": "",
       "jp": "　人死にと聞いて驚いてみたものの、その人物が誰だか、<tips=53>ミユキ</tips>は急には思い出せないようだ。",
-      "en": "The mention of death startles her, but <tips=53>Miyuki</tips> cannot seem to remember at once who the dying man is."
+      "en": "The mention of death startles her, but <tips=53>Miyuki</tips> cannot seem to remember at once who the dying man is.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0084",
@@ -635,7 +884,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=7>ＹＳ</tips>のボスだよ。知ってるだろう？」",
-      "en": "“The head of <tips=7>YS</tips>. You know who I mean.”"
+      "en": "“The head of <tips=7>YS</tips>. You know who I mean.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0085",
@@ -644,7 +899,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「ああ、ああ、うん、知ってる。目が三つあるひとでしょ？」",
-      "en": "“Oh! Right, yes. The man with three eyes?”"
+      "en": "“Oh! Right, yes. The man with three eyes?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0086",
@@ -653,7 +914,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう。前からサイキック病だったろう？　ほら、<tips=16>タイプA</tips>の病気さ。実際にはノーマルにも患者がいるらしいがね。身体がどんどん崩れて腐ってゆくんだ。生きながらにして。発症したらもう助からない」",
-      "en": "“Yes. He has had psychic disease for some time. The <tips=16>Type A</tips> disease—though apparently Normals can contract it too. Your body crumbles and rots while you are still alive. Once the symptoms appear, there is no saving you.”"
+      "en": "“Yes. He has had psychic disease for some time. The <tips=16>Type A</tips> disease—though apparently Normals can contract it too. Your body crumbles and rots while you are still alive. Once the symptoms appear, there is no saving you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0087",
@@ -662,7 +929,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「こわい……。<tips=50>邦昭さん</tips>は、大丈夫よね？」",
-      "en": "“That's frightening... You'll be all right, won't you, <tips=50>Kuniaki</tips>?”"
+      "en": "“That's frightening... You'll be all right, won't you, <tips=50>Kuniaki</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0088",
@@ -671,7 +944,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうそうかかるもんじゃない。交通事故で死ぬよりも低い確率だよ。<tips=3>クリス・ツェー</tips>は運が悪かったんだ。これまでの行いのせいかもしれないな。……とにかく、<tips=3>クリス・ツェー</tips>が死ねば、<tips=7>ＹＳ</tips>は今まで通りってわけにはいかない。もともと、素性の違うギャング組織を<tips=3>クリス・ツェー</tips>が一人でまとめたような組織だからな。必ず何か起こるだろう。おれは、これからそれを取材しなきゃいけないんだよ」",
-      "en": "“It is hardly contagious. You are more likely to die in a traffic accident. <tips=3>Chris Xie</tips> was unlucky—perhaps it was punishment for the life he led... Anyway, once <tips=3>Chris Xie</tips> dies, <tips=7>YS</tips> cannot go on as before. It is a patchwork of gangs from different backgrounds, held together almost single-handedly by <tips=3>Chris Xie</tips>. Something is bound to happen. And I have to cover it.”"
+      "en": "“It is hardly contagious. You are more likely to die in a traffic accident. <tips=3>Chris Xie</tips> was unlucky—perhaps it was punishment for the life he led... Anyway, once <tips=3>Chris Xie</tips> dies, <tips=7>YS</tips> cannot go on as before. It is a patchwork of gangs from different backgrounds, held together almost single-handedly by <tips=3>Chris Xie</tips>. Something is bound to happen. And I have to cover it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0089",
@@ -680,7 +959,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「そうなんだ……」",
-      "en": "“I see...”"
+      "en": "“I see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0090",
@@ -689,7 +974,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう、殺人鬼の話も面白いが、この<tips=7>ＹＳ</tips>の後継者争いの方が、<tips=9>Y地区</tips>にとって重要な話だ。こんな、一銭にもならない仕事を請け負う理由はないのさ」",
-      "en": "“Exactly. A serial killer is interesting, but the <tips=7>YS</tips> succession struggle matters far more to <tips=9>Y District</tips>. I have no reason to take a job that won't pay me one cent.”"
+      "en": "“Exactly. A serial killer is interesting, but the <tips=7>YS</tips> succession struggle matters far more to <tips=9>Y District</tips>. I have no reason to take a job that won't pay me one cent.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0091",
@@ -698,7 +989,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「でも、その<tips=3>クリス</tips>さんがなくなるのは確実なの？　お医者に余命宣告されたって、その通りにはならないものでしょう」",
-      "en": "“But are you certain Mr. <tips=3>Chris</tips> will die? Doctors give people a certain amount of time, but it doesn't always happen just as they predict.”"
+      "en": "“But are you certain Mr. <tips=3>Chris</tips> will die? Doctors give people a certain amount of time, but it doesn't always happen just as they predict.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0092",
@@ -707,7 +1004,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、もう今日死んでもおかしくないほど弱ってるって話だぜ。確実な情報なんだ。街ではそこまで詳しく情報が漏れちゃいないが、おれは特別な人脈があるから耳に入ってくる。ただ毎日遊び歩いているだけじゃない」",
-      "en": "“I hear he is so weak that he could die today and surprise no one. The information is sound. Details like that haven't spread through the City, but I have special connections. I don't spend every day merely drinking and amusing myself.”"
+      "en": "“I hear he is so weak that he could die today and surprise no one. The information is sound. Details like that haven't spread through the City, but I have special connections. I don't spend every day merely drinking and amusing myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0093",
@@ -716,7 +1019,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は私の自慢に気づかなかったようで、",
-      "en": "<tips=53>Miyuki</tips> fails to notice the boast."
+      "en": "<tips=53>Miyuki</tips> fails to notice the boast.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0094",
@@ -725,7 +1034,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「でも、こういうの、<tips=50>邦昭さん</tips>は好きじゃないでしょう？」",
-      "en": "“But you hate this sort of thing, don't you, <tips=50>Kuniaki</tips>?”"
+      "en": "“But you hate this sort of thing, don't you, <tips=50>Kuniaki</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0095",
@@ -734,7 +1049,13 @@
       "sj": "",
       "se": "",
       "jp": "「こういうのって？」",
-      "en": "“What sort of thing?”"
+      "en": "“What sort of thing?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0096",
@@ -743,7 +1064,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「女の人とか、子供とかが殺される事件。そういうの、いつもすっごく怒るじゃない。……本当は、自分の手で犯人を捕まえたいとか、思ってるんじゃないの？」",
-      "en": "“Cases where women or children are killed. They always make you so angry... Don't you really want to catch the killer yourself?”"
+      "en": "“Cases where women or children are killed. They always make you so angry... Don't you really want to catch the killer yourself?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0097",
@@ -752,7 +1079,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は肩をすくめた。",
-      "en": "I shrug."
+      "en": "I shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0098",
@@ -761,7 +1094,13 @@
       "sj": "",
       "se": "",
       "jp": "「買いかぶりだ。そんな正義感はない。なんだって、<tips=48>堂島</tips>の旦那と同じようなことを……」",
-      "en": "“You give me too much credit. I have no such sense of justice. Why must you say the same thing as Detective <tips=48>Doujima</tips>...?”"
+      "en": "“You give me too much credit. I have no such sense of justice. Why must you say the same thing as Detective <tips=48>Doujima</tips>...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0099",
@@ -770,7 +1109,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>は私の言葉を遮って、私の手を握りしめた。",
-      "en": "<tips=53>Miyuki</tips> cuts me off by closing both hands around mine."
+      "en": "<tips=53>Miyuki</tips> cuts me off by closing both hands around mine.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0100",
@@ -779,7 +1124,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「<tips=50>邦昭さん</tips>は文章書きになろうとしてるけど、やっぱり本当は超能力をつかって探偵をしてた頃が一番楽しそうだった。だから、たとえ短い間でも、また昔みたいにイキイキと目を輝かせてほしいの」",
-      "en": "“You're trying to become a writer, <tips=50>Kuniaki</tips>, but you were happiest when you were a detective and could use your power. Even if it is only for a little while, I want to see you come alive again. I want your eyes to shine the way they used to.”"
+      "en": "“You're trying to become a writer, <tips=50>Kuniaki</tips>, but you were happiest when you were a detective and could use your power. Even if it is only for a little while, I want to see you come alive again. I want your eyes to shine the way they used to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0101",
@@ -788,7 +1139,13 @@
       "sj": "",
       "se": "",
       "jp": "「何言ってる。まず金がなけりゃ話にならん。殺人鬼なんか追いかけたって、金になるとは限らないが、原稿さえ書いていれば、いくばくかの金にはなる」",
-      "en": "“What are you saying? Without money, nothing else begins. Chasing a murderer may not earn us anything, but if I write, at least some money comes in.”"
+      "en": "“What are you saying? Without money, nothing else begins. Chasing a murderer may not earn us anything, but if I write, at least some money comes in.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0102",
@@ -797,7 +1154,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「小さなことを心配しないで。私はね、本がたくさんうれてお金持ちになるよりも、<tips=50>邦昭さん</tips>が幸せそうにしてることの方が大事なんだよ？　だから、<tips=50>邦昭さん</tips>にはこまかいことを気にせずに、いつも好きなことをやっていてほしいの。ねえ、何にも心配はないのよ。お金だったら、私がなんとかするから。……本当に興味がないのなら、それでいいけど、ちょっとでも気になるのなら……」",
-      "en": "“Don't worry about little things. Seeing you happy matters more to me than having your book sell thousands of copies and making us rich, <tips=50>Kuniaki</tips>. I want you to stop worrying over every detail and do what you love, <tips=50>Kuniaki</tips>. There is nothing to be afraid of. If money is the problem, I'll find a way... If the case truly doesn't interest you, then that's fine. But if even a little part of you wants to know...”"
+      "en": "“Don't worry about little things. Seeing you happy matters more to me than having your book sell thousands of copies and making us rich, <tips=50>Kuniaki</tips>. I want you to stop worrying over every detail and do what you love, <tips=50>Kuniaki</tips>. There is nothing to be afraid of. If money is the problem, I'll find a way... If the case truly doesn't interest you, then that's fine. But if even a little part of you wants to know...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0103",
@@ -806,7 +1169,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は溜息をつき、ビールのグラスに口を付ける。",
-      "en": "I sigh and put the beer to my lips."
+      "en": "I sigh and put the beer to my lips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0104",
@@ -815,7 +1184,13 @@
       "sj": "",
       "se": "",
       "jp": "　チンタオビールはすっきりあっさりとした味わいの酒で、夏の蒸し暑い日や、風呂上がりの一杯として炭酸ののどごしを楽しむには適しているが、散々他の酒を飲んだ後に口にするには物足りない。",
-      "en": "Tsingtao is crisp and light, well suited to the sharp bite of carbonation on a sweltering summer day or straight out of the bath. After a great deal of stronger liquor, however, it feels thin and unsatisfying."
+      "en": "Tsingtao is crisp and light, well suited to the sharp bite of carbonation on a sweltering summer day or straight out of the bath. After a great deal of stronger liquor, however, it feels thin and unsatisfying.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0105",
@@ -824,7 +1199,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「危なそうな仕事なの？　それなら、やらないっていうのもありだけど……。あっ」",
-      "en": "“Is it dangerous? If it is, maybe you shouldn't take it after all... Ah!”"
+      "en": "“Is it dangerous? If it is, maybe you shouldn't take it after all... Ah!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0106",
@@ -833,7 +1214,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は飲みかけのグラスをテーブルの上に置き、<tips=53>ミユキ</tips>の手を引いた。",
-      "en": "I set down my half-finished glass and pull <tips=53>Miyuki</tips> toward me by the hand."
+      "en": "I set down my half-finished glass and pull <tips=53>Miyuki</tips> toward me by the hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0107",
@@ -842,7 +1229,13 @@
       "sj": "",
       "se": "",
       "jp": "　必然、彼女の身体は私の胸の中に引き込まれるような形になる。そして私はもう片方の手で彼女の顎をつまむと、その唇に自分の唇を押し当てた。",
-      "en": "Her body falls naturally against my chest. With my free hand I catch her chin and press my mouth to hers."
+      "en": "Her body falls naturally against my chest. With my free hand I catch her chin and press my mouth to hers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0109",
@@ -878,7 +1271,13 @@
       "sj": "ミユキ",
       "se": "Miyuki",
       "jp": "「んっ……」",
-      "en": "“Mmm...”"
+      "en": "“Mmm...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0113",
@@ -887,7 +1286,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>はコクンと喉を鳴らしてそれを飲み込んだ。",
-      "en": "<tips=53>Miyuki</tips>'s throat gives a small bob as she swallows."
+      "en": "<tips=53>Miyuki</tips>'s throat gives a small bob as she swallows.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0115",
@@ -896,7 +1301,13 @@
       "sj": "",
       "se": "",
       "jp": "「別に危なくはない。まあ、お前がそこまで言うなら、少し考えてみるさ」",
-      "en": "“It is not especially dangerous. Well, if you feel that strongly, I'll give it some thought.”"
+      "en": "“It is not especially dangerous. Well, if you feel that strongly, I'll give it some thought.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0116",
@@ -905,7 +1316,13 @@
       "sj": "",
       "se": "",
       "jp": "　私がそう言うと、彼女はうるんだ目でこちらを見つめながら、小さく頷いた。",
-      "en": "Her eyes wet, she looks up at me and gives a small nod."
+      "en": "Her eyes wet, she looks up at me and gives a small nod.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0117",
@@ -914,7 +1331,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女の仕事は娼婦であった。",
-      "en": "She is a prostitute."
+      "en": "She is a prostitute.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0118",
@@ -923,7 +1346,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=59>暗闇通り</tips>で、この辺りでは老舗と言える、古い店で働いている。",
-      "en": "She works at one of the older houses on <tips=59>Darkness Street</tips>, venerable by the standards of this neighborhood."
+      "en": "She works at one of the older houses on <tips=59>Darkness Street</tips>, venerable by the standards of this neighborhood.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0119",
@@ -932,7 +1361,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼女の母親も、その店で働く娼婦であった。",
-      "en": "Her mother worked as a prostitute in the same house."
+      "en": "Her mother worked as a prostitute in the same house.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0120",
@@ -941,7 +1376,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は自分の父親を知らない。親しい客の誰かであろうと、複数候補はいたが、そのうちの誰なのかははっきりしない。",
-      "en": "She never knew her father. He was probably one of her mother's favored customers; several men were possible, but no one ever knew which."
+      "en": "She never knew her father. He was probably one of her mother's favored customers; several men were possible, but no one ever knew which.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0121",
@@ -950,7 +1391,13 @@
       "sj": "",
       "se": "",
       "jp": "　日本人でもないかもしれない。というより、店の客層を考えればどこか異国の血を受け継いでいる可能性の方が高い。",
-      "en": "He may not have been Japanese. Given the house's clientele, it is more likely that some foreign blood runs through her."
+      "en": "He may not have been Japanese. Given the house's clientele, it is more likely that some foreign blood runs through her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0122",
@@ -959,7 +1406,13 @@
       "sj": "",
       "se": "",
       "jp": "　顔立ちは、はっきりとした二重のまぶた。少し厚ぼったい唇。抜けるように白い肌。",
-      "en": "Her eyes have sharply defined double lids. Her lips are a little full. Her skin is startlingly pale."
+      "en": "Her eyes have sharply defined double lids. Her lips are a little full. Her skin is startlingly pale.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0123",
@@ -968,7 +1421,13 @@
       "sj": "",
       "se": "",
       "jp": "　日本人としては少数の部類になる特徴がいくつかあるが、しかし、だからといって日本人ではないと断定することは出来ない。",
-      "en": "Several of her features are uncommon among Japanese people, but none proves that she is not Japanese."
+      "en": "Several of her features are uncommon among Japanese people, but none proves that she is not Japanese.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0124",
@@ -977,7 +1436,13 @@
       "sj": "",
       "se": "",
       "jp": "　そもそも、日本人というもの自体が、アジア地域のさまざまな人種が混じり合い、多種多様な顔つきをしている。",
-      "en": "The Japanese themselves are a mixture of peoples from across Asia, and our faces come in endless varieties."
+      "en": "The Japanese themselves are a mixture of peoples from across Asia, and our faces come in endless varieties.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0125",
@@ -986,7 +1451,13 @@
       "sj": "",
       "se": "",
       "jp": "　私の家系は九州にあり、血筋を何代辿っても日本人しかいないが、鼻が高く、彫りが深く、そして身体がでかいせいで、この街ではあまり日本人だとは思われない。そして、他人が「似てる」と持ち出す有名人の名前は、大抵中東系である。",
-      "en": "My own family is from Kyushu, and I can trace nothing but Japanese blood for generations. Yet my high nose, deep-set features, and enormous frame mean that people here rarely take me for Japanese. When someone names a celebrity I resemble, the man is almost always Middle Eastern."
+      "en": "My own family is from Kyushu, and I can trace nothing but Japanese blood for generations. Yet my high nose, deep-set features, and enormous frame mean that people here rarely take me for Japanese. When someone names a celebrity I resemble, the man is almost always Middle Eastern.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0126",
@@ -995,7 +1466,13 @@
       "sj": "",
       "se": "",
       "jp": "　さらに、<tips=53>ミユキ</tips>の母親も、娘と同様父親が不明であり、容姿に日本人としては珍しい特徴を有していた。",
-      "en": "<tips=53>Miyuki</tips>'s mother, moreover, had never known her father either, and possessed the same sort of features unusual in Japan."
+      "en": "<tips=53>Miyuki</tips>'s mother, moreover, had never known her father either, and possessed the same sort of features unusual in Japan.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0127",
@@ -1004,7 +1481,13 @@
       "sj": "",
       "se": "",
       "jp": "　とすると、<tips=53>ミユキ</tips>の身体を流れる血液の大半は、誰のものかわからないということになる。",
-      "en": "Most of the blood in <tips=53>Miyuki</tips>'s veins, then, comes from people no one can name."
+      "en": "Most of the blood in <tips=53>Miyuki</tips>'s veins, then, comes from people no one can name.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0128",
@@ -1013,7 +1496,13 @@
       "sj": "",
       "se": "",
       "jp": "　本人はそれを気にすることもない。いつも明るく、それが彼女の最大の取り柄であった。",
-      "en": "It has never troubled her. She is always cheerful. That is her finest quality."
+      "en": "It has never troubled her. She is always cheerful. That is her finest quality.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0129",
@@ -1022,7 +1511,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は自分の素性と職業のことで私に引け目を感じている。",
-      "en": "Her birth and her work make her feel inferior to me."
+      "en": "Her birth and her work make her feel inferior to me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0130",
@@ -1031,7 +1526,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてまた、私の方も彼女を平然と食い物にしている自分の生活態度に引け目を感じている。が、感じながらも、彼女のその引け目を利用して、食い物にし続けているのだ。",
-      "en": "I, in turn, am ashamed of how calmly I live off her. Yet I use that very inferiority to go on exploiting her, shame and all."
+      "en": "I, in turn, am ashamed of how calmly I live off her. Yet I use that very inferiority to go on exploiting her, shame and all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0131",
@@ -1040,7 +1541,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は彼女に金を稼がせてそれを浪費し、手持ち無沙汰になれば、その肉体を性欲のはけ口として使う。彼女は私に対して好意があるらしい。人の感情に無限なものというものはないからいつか枯れるのだろうが、今のところはまだ枯渇の徴候は見えなかった。",
-      "en": "I send her out to earn the money and then squander it. When idleness takes me, I use her body as an outlet for my desire. She seems to love me. No human feeling is infinite, and one day hers will run dry. For now, I see no sign of it."
+      "en": "I send her out to earn the money and then squander it. When idleness takes me, I use her body as an outlet for my desire. She seems to love me. No human feeling is infinite, and one day hers will run dry. For now, I see no sign of it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0132",
@@ -1049,7 +1556,13 @@
       "sj": "",
       "se": "",
       "jp": "　それを考えると私は若干の自己嫌悪を覚えるが、しかしその感情が自堕落な欲求を上回ることはなかった。",
-      "en": "The thought brings a measure of self-loathing. It has never outweighed my appetite for this idle life."
+      "en": "The thought brings a measure of self-loathing. It has never outweighed my appetite for this idle life.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0133",
@@ -1058,7 +1571,13 @@
       "sj": "",
       "se": "",
       "jp": "　醜く、そしてこの街ではありふれたこの関係はいつまで続くのだろう。",
-      "en": "How long can this ugly arrangement, so ordinary in this City, continue?"
+      "en": "How long can this ugly arrangement, so ordinary in this City, continue?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0148",
@@ -1067,7 +1586,8 @@
       "sj": "",
       "se": "",
       "jp": "　その日は、朝からシトシトと雨が降っていた。",
-      "en": "That morning, a fine rain has been falling since dawn."
+      "en": "That morning, a fine rain has been falling since dawn.",
+      "bg": "assets/vn/backgrounds/bg-31795601b003.webp"
     },
     {
       "id": "E2:0149",
@@ -1409,7 +1929,14 @@
       "sj": "カルロッタ",
       "se": "Carlotta",
       "jp": "「いらっしゃい」",
-      "en": "“Welcome.”"
+      "en": "“Welcome.”",
+      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8e49221c9ee8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0195",
@@ -1418,7 +1945,13 @@
       "sj": "",
       "se": "",
       "jp": "　店内に足を踏み入れると、グラスを拭いていたカルロッタが顔を上げた。",
-      "en": "Carlotta looks up from polishing a glass as I enter."
+      "en": "Carlotta looks up from polishing a glass as I enter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8e49221c9ee8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0196",
@@ -1427,7 +1960,13 @@
       "sj": "カルロッタ",
       "se": "Carlotta",
       "jp": "「びしょ濡れじゃない。また傘をさしてこなかったの？」",
-      "en": "“You're soaked through. Did you come without an umbrella again?”"
+      "en": "“You're soaked through. Did you come without an umbrella again?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a027086c00b8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0197",
@@ -1436,7 +1975,13 @@
       "sj": "",
       "se": "",
       "jp": "「好きじゃないんだよ。傘」",
-      "en": "“I don't like umbrellas.”"
+      "en": "“I don't like umbrellas.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a027086c00b8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0198",
@@ -1445,7 +1990,13 @@
       "sj": "カルロッタ",
       "se": "Carlotta",
       "jp": "「そんなことばかり言って」",
-      "en": "“Always some excuse with you.”"
+      "en": "“Always some excuse with you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0199",
@@ -1454,7 +2005,13 @@
       "sj": "",
       "se": "",
       "jp": "　カルロッタが困り顔で差し出すタオルで、私は雨水によってすっかり濡れそぼった顔と頭を拭った。",
-      "en": "Carlotta hands me a towel with a troubled look. I use it to wipe the rain from my drenched head and face."
+      "en": "Carlotta hands me a towel with a troubled look. I use it to wipe the rain from my drenched head and face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0200",
@@ -1463,7 +2020,13 @@
       "sj": "カルロッタ",
       "se": "Carlotta",
       "jp": "「風邪をひいたらどうするの？　あんたはいいけど、それを<tips=53>ミユキ</tips>ちゃんにうつしちゃったらかわいそうでしょ」",
-      "en": "“What if you catch cold? Never mind you—think how awful it would be if you gave it to poor <tips=53>Miyuki</tips>.”"
+      "en": "“What if you catch cold? Never mind you—think how awful it would be if you gave it to poor <tips=53>Miyuki</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0201",
@@ -1472,7 +2035,13 @@
       "sj": "",
       "se": "",
       "jp": "「うるせえな」",
-      "en": "“Stop nagging.”"
+      "en": "“Stop nagging.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0202",
@@ -1481,7 +2050,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は席を立ち、まだ何か言い続けているカルロッタを背中に、今入って来たばかりのドアを開けて往来へ出た。",
-      "en": "I stand, open the door I have only just entered, and return to the street with Carlotta still talking at my back."
+      "en": "I stand, open the door I have only just entered, and return to the street with Carlotta still talking at my back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0204",
@@ -1490,7 +2065,13 @@
       "sj": "",
       "se": "",
       "jp": "　雨脚は一段と強さを増している。私は酒を飲む気力を失い、取材でもしようかとフルカワの元へ向かった。",
-      "en": "The rain has grown heavier. I have lost the will to drink, so I turn toward Furukawa's and tell myself I may as well do a little reporting."
+      "en": "The rain has grown heavier. I have lost the will to drink, so I turn toward Furukawa's and tell myself I may as well do a little reporting.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0212",
@@ -1499,7 +2080,14 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「昨日の今日に来られたって、特に変化なんかないわ」",
-      "en": "“You were here yesterday. Nothing has changed overnight.”"
+      "en": "“You were here yesterday. Nothing has changed overnight.”",
+      "bg": "assets/vn/backgrounds/bg-31795601b003.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0213",
@@ -1508,7 +2096,13 @@
       "sj": "",
       "se": "",
       "jp": "　フルカワは肩をすくめる。",
-      "en": "Furukawa shrugs."
+      "en": "Furukawa shrugs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0214",
@@ -1517,7 +2111,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあそうだろうな。何かあったら連絡をくれ。……話は変わるが、このまま<tips=3>クリス・ツェー</tips>が死んだらお前の旦那はどうするつもりなんだ？」",
-      "en": "“No, I suppose not. Call me if anything does... On another subject, what does your man intend to do if <tips=3>Chris Xie</tips> dies like this?”"
+      "en": "“No, I suppose not. Call me if anything does... On another subject, what does your man intend to do if <tips=3>Chris Xie</tips> dies like this?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0215",
@@ -1526,7 +2126,13 @@
       "sj": "",
       "se": "",
       "jp": "　フルカワの情夫は、<tips=3>クリス・ツェー</tips>率いる<tips=76>香港派</tips>の一員で、特に<tips=3>クリス</tips>個人に対する忠誠心が強いことで知られている。",
-      "en": "Furukawa's lover belongs to the <tips=76>Hong Kong Faction</tips> led by <tips=3>Chris Xie</tips>, and is known for his particular loyalty to <tips=3>Chris</tips> himself."
+      "en": "Furukawa's lover belongs to the <tips=76>Hong Kong Faction</tips> led by <tips=3>Chris Xie</tips>, and is known for his particular loyalty to <tips=3>Chris</tips> himself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0216",
@@ -1535,7 +2141,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「そのことに関しては何も言っていないわ。でも、あの人は<tips=81>龍頭</tips>のことは好きでも、他の部下とはそりが合わないからね……」",
-      "en": "“He hasn't told me anything about it. He loves the <tips=81>Longtou</tips>, but he has never gotten along with the other men...”"
+      "en": "“He hasn't told me anything about it. He loves the <tips=81>Longtou</tips>, but he has never gotten along with the other men...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0217",
@@ -1544,7 +2156,13 @@
       "sj": "",
       "se": "",
       "jp": "「なるほど。じゃあ、<tips=26>劉建志</tips>は新体制が出来ても今までのようには従わないのかもしれないってことか」",
-      "en": "“I see. So even if a new order takes shape, <tips=26>Kenshi Ryuu</tips> may not fall into line as he did before.”"
+      "en": "“I see. So even if a new order takes shape, <tips=26>Kenshi Ryuu</tips> may not fall into line as he did before.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0218",
@@ -1553,7 +2171,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「その名を口にするのはやめて」",
-      "en": "“Don't say that name.”"
+      "en": "“Don't say that name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0219",
@@ -1562,7 +2186,13 @@
       "sj": "",
       "se": "",
       "jp": "「なぜ」",
-      "en": "“Why not?”"
+      "en": "“Why not?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0220",
@@ -1571,7 +2201,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「あなたの口から聞きたくないわ」",
-      "en": "“I don't want to hear it from you.”"
+      "en": "“I don't want to hear it from you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0221",
@@ -1580,7 +2216,13 @@
       "sj": "",
       "se": "",
       "jp": "　フルカワは溜息をついて、肩から落ちかかったキャミソールの紐を直す。",
-      "en": "Furukawa sighs and fixes the camisole strap slipping from her shoulder."
+      "en": "Furukawa sighs and fixes the camisole strap slipping from her shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0222",
@@ -1589,7 +2231,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「それより、知ってる？」",
-      "en": "“Never mind that. Have you heard?”"
+      "en": "“Never mind that. Have you heard?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0223",
@@ -1598,7 +2246,13 @@
       "sj": "",
       "se": "",
       "jp": "「何をだ」",
-      "en": "“Hear what?”"
+      "en": "“Hear what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0224",
@@ -1607,7 +2261,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「<tips=73>リュウカ</tips>ちゃん。殺されたんだって」",
-      "en": "“<tips=73>Ryuka</tips>. They say someone murdered her.”"
+      "en": "“<tips=73>Ryuka</tips>. They say someone murdered her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0225",
@@ -1616,7 +2276,13 @@
       "sj": "",
       "se": "",
       "jp": "「え？」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0226",
@@ -1625,7 +2291,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「つい先週ね、自宅でバラバラにされていたの。警察も来て、大変だったんだって」",
-      "en": "“Only last week. They found her cut to pieces in her own apartment. The police came and everything was in an uproar.”"
+      "en": "“Only last week. They found her cut to pieces in her own apartment. The police came and everything was in an uproar.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0227",
@@ -1634,7 +2306,13 @@
       "sj": "",
       "se": "",
       "jp": "「……バラバラって、もしかして、棚に詰め込まれていたのか？」",
-      "en": "“...Cut to pieces? Did he pack her into bags and arrange them on shelves?”"
+      "en": "“...Cut to pieces? Did he pack her into bags and arrange them on shelves?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0228",
@@ -1643,7 +2321,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「よく知ってるわね」",
-      "en": "“You know about that?”"
+      "en": "“You know about that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0229",
@@ -1652,7 +2336,13 @@
       "sj": "",
       "se": "",
       "jp": "「そういう事件があったのは知ってる。現場写真を見たんだ。しかし、被害者があの子だったとは気がつかなかった……」",
-      "en": "“I knew there had been such a murder. I saw the crime-scene photographs. I didn't realize the victim was her...”"
+      "en": "“I knew there had been such a murder. I saw the crime-scene photographs. I didn't realize the victim was her...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0230",
@@ -1661,7 +2351,13 @@
       "sj": "フルカワ",
       "se": "Furukawa",
       "jp": "「かわいそうねえ。せっかく、好きな仕事について、毎日が充実してるって喜んでいたのに……。一ヶ月前、私は……あっ、ちょっと。<tips=50>路地</tips>君」",
-      "en": "“Poor thing. She was so happy to have work she loved. She said every day felt full... Just a month ago, I—wait! Mr. <tips=50>Roji</tips>!”"
+      "en": "“Poor thing. She was so happy to have work she loved. She said every day felt full... Just a month ago, I—wait! Mr. <tips=50>Roji</tips>!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0231",
@@ -1670,7 +2366,13 @@
       "sj": "",
       "se": "",
       "jp": "　フルカワの言葉を最後まで聞かず、私は路上に出た。",
-      "en": "I step into the street before Furukawa can finish."
+      "en": "I step into the street before Furukawa can finish.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0234",
@@ -1823,7 +2525,8 @@
       "sj": "",
       "se": "",
       "jp": "　調査は、<tips=48>堂島</tips>と会って中和剤をもらってから行うことにしよう。能力がなければ、私は多少腕力が強いだけの平凡な男だ。",
-      "en": "I will begin the investigation after meeting <tips=48>Doujima</tips> and receiving the neutralizer. Without my power, I am only an ordinary man with more brute strength than most."
+      "en": "I will begin the investigation after meeting <tips=48>Doujima</tips> and receiving the neutralizer. Without my power, I am only an ordinary man with more brute strength than most.",
+      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
     },
     {
       "id": "E2:0257",
@@ -1922,7 +2625,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「私は診察があるんですよ」",
-      "en": "“I have a patient waiting.”"
+      "en": "“I have a patient waiting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0268",
@@ -1931,7 +2640,13 @@
       "sj": "",
       "se": "",
       "jp": "「こんな雨の日でも、貧乏人のところを回ってるんですか？　頭が下がる。……おっと、おれの目を見ないでくださいよ。心を覗かれちゃたまらない」",
-      "en": "“You make house calls to the poor even in this rain? My admiration... Ah, don't look me in the eye. I can't have you rummaging through my heart.”"
+      "en": "“You make house calls to the poor even in this rain? My admiration... Ah, don't look me in the eye. I can't have you rummaging through my heart.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0269",
@@ -1940,7 +2655,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそう言って自分の目を隠す。",
-      "en": "I cover my eyes as I speak."
+      "en": "I cover my eyes as I speak.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0270",
@@ -1949,7 +2670,13 @@
       "sj": "",
       "se": "",
       "jp": "　ふざけているわけではない。この<tips=5>太刀川</tips>という医者は、特別な力を持っている。目が合った人間の感情を読む——つまりテレパシー能力者だ。",
-      "en": "This is not entirely a joke. Dr. <tips=5>Tachikawa</tips> possesses an unusual gift. He can read the emotions of anyone whose gaze meets his—in other words, he is a telepath."
+      "en": "This is not entirely a joke. Dr. <tips=5>Tachikawa</tips> possesses an unusual gift. He can read the emotions of anyone whose gaze meets his—in other words, he is a telepath.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0271",
@@ -1958,7 +2685,13 @@
       "sj": "",
       "se": "",
       "jp": "　具体的な思考を読むことは出来ないようだが、感情の動きはつぶさに知ることが出来るらしい。つまり、嘘を見破ったり、相手の秘めた本心を見抜くことが出来るというわけだ。",
-      "en": "He cannot read concrete thoughts, apparently, but the least stir of emotion is open to him. A lie, a secret feeling: he sees them all."
+      "en": "He cannot read concrete thoughts, apparently, but the least stir of emotion is open to him. A lie, a secret feeling: he sees them all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0272",
@@ -1967,7 +2700,13 @@
       "sj": "",
       "se": "",
       "jp": "　この世間によく知られる古典的な能力は、現実に使用出来る人間はそう多くなく、使用出来たとしても非常に微弱であったり、様々な限定条件がつく。実用に足るレベルで人の内面を読むことが出来る数少ない能力者はいずれも特別な職務に就いている。",
-      "en": "Telepathy is a classic power, familiar to everyone in fiction, but very few people can truly use it. Even among those few, the ability is usually faint or bound by all manner of conditions. The rare psychics who can read another person's inner life well enough to be useful are invariably put to specialized work."
+      "en": "Telepathy is a classic power, familiar to everyone in fiction, but very few people can truly use it. Even among those few, the ability is usually faint or bound by all manner of conditions. The rare psychics who can read another person's inner life well enough to be useful are invariably put to specialized work.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0273",
@@ -1976,7 +2715,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>のように、それなりの強度がある能力を持ちながら、精神科医になってこんなろくでもない街でろくでもない患者の治療のために働いているのはよほどのかわりものだろう。",
-      "en": "A man like <tips=5>Tachikawa</tips>, gifted with considerable power, who nevertheless became a psychiatrist and spends his days treating miserable patients in a miserable City like this, must be a rare eccentric."
+      "en": "A man like <tips=5>Tachikawa</tips>, gifted with considerable power, who nevertheless became a psychiatrist and spends his days treating miserable patients in a miserable City like this, must be a rare eccentric.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0274",
@@ -1985,7 +2730,13 @@
       "sj": "",
       "se": "",
       "jp": "　いいところで出会ったものだ。",
-      "en": "What a fortunate encounter."
+      "en": "What a fortunate encounter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0275",
@@ -1994,7 +2745,13 @@
       "sj": "",
       "se": "",
       "jp": "　この<tips=20>コシチェイ</tips>の捜査について、彼も巻き込んでしまえないだろうか？",
-      "en": "Could I drag him into the <tips=20>Koschei</tips> investigation too?"
+      "en": "Could I drag him into the <tips=20>Koschei</tips> investigation too?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0276",
@@ -2003,7 +2760,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「いちいちそんなことはしません。大体、あなたの心を覗いて私に何の得があるって言うんです？　<tips=16>タイプＡ</tips>がみだりに能力を使うのは違法行為だ。特に我々のような強い力を与えられた者は他の軽微な能力者よりも振る舞いに気をつけなくてはいけない。あなたは誰よりもそれをよくご存じのはずだ」",
-      "en": "“I do not use my power at every opportunity. What could I possibly gain by looking into your heart? It is illegal for <tips=16>Type A</tips> people to use their abilities recklessly. Those of us given powerful abilities must be more careful in our conduct than people with minor gifts. You should know that better than anyone.”"
+      "en": "“I do not use my power at every opportunity. What could I possibly gain by looking into your heart? It is illegal for <tips=16>Type A</tips> people to use their abilities recklessly. Those of us given powerful abilities must be more careful in our conduct than people with minor gifts. You should know that better than anyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0277",
@@ -2012,7 +2775,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が彼の過去をよく知っているように、彼も私の素性について知っている。——もっとも、私の素性は彼の過去ほど秘密めいたものではなく、この街の古い住人の多くが知っているものだが。",
-      "en": "Just as I know his past, he knows mine. Mine, admittedly, is less of a secret. Most longtime residents of the City know it."
+      "en": "Just as I know his past, he knows mine. Mine, admittedly, is less of a secret. Most longtime residents of the City know it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0278",
@@ -2021,7 +2790,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼と最初に出会ってからもう十五年以上が過ぎている。当時、彼はまだ医者になりたての青年で、私も探偵を始めたばかりの、まだ二十才になったかどうかという若造だった。",
-      "en": "More than fifteen years have passed since we met. He was a young man newly made a doctor. I was a cub detective, barely twenty if that."
+      "en": "More than fifteen years have passed since we met. He was a young man newly made a doctor. I was a cub detective, barely twenty if that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0279",
@@ -2030,7 +2805,13 @@
       "sj": "",
       "se": "",
       "jp": "「相変わらず先生は真面目な方だ。しかし、誰よりもよくご存じでってのは一本とられましたな。確かにおれは能力を濫用したらえらいことになるということについては、人よりもよく知っている」",
-      "en": "“Still as serious as ever, Doctor. But you have me with ‘better than anyone.’ I certainly know better than most what comes of abusing a power.”"
+      "en": "“Still as serious as ever, Doctor. But you have me with ‘better than anyone.’ I certainly know better than most what comes of abusing a power.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0280",
@@ -2039,7 +2820,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそう言って、目を隠す手のひらをどけた。大げさに隠したのは彼に対する冗談のようなもので、今私は彼に読まれて困る感情はない。",
-      "en": "I take my hand from my eyes. The exaggerated hiding was a joke at his expense; just now, there is no feeling in me I particularly mind him seeing."
+      "en": "I take my hand from my eyes. The exaggerated hiding was a joke at his expense; just now, there is no feeling in me I particularly mind him seeing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0281",
@@ -2048,7 +2835,13 @@
       "sj": "",
       "se": "",
       "jp": "「しかし、病院のおつとめもあるのに、プライベートでまで<tips=78>金目</tips>の連中を診てやるとは、ご苦労なことです。でも、ほどほどにした方がいいですよ。先生の活発な慈善活動を『<tips=22>老人たち</tips>』はあまりよく思ってないって噂です」",
-      "en": "“Even with your duties at the hospital, you treat <tips=78>Gold-Eyes</tips> in your private time. Such devotion. But I would advise some restraint. I hear ‘<tips=22>the Elders</tips>’ are not pleased by all this energetic charity.”"
+      "en": "“Even with your duties at the hospital, you treat <tips=78>Gold-Eyes</tips> in your private time. Such devotion. But I would advise some restraint. I hear ‘<tips=22>the Elders</tips>’ are not pleased by all this energetic charity.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0282",
@@ -2057,7 +2850,13 @@
       "sj": "",
       "se": "",
       "jp": "　最近この街で手に入れた情報の一つを、彼の前にちらつかせる。",
-      "en": "I dangle one of my latest scraps of City intelligence before him."
+      "en": "I dangle one of my latest scraps of City intelligence before him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0283",
@@ -2066,7 +2865,13 @@
       "sj": "",
       "se": "",
       "jp": "　この街ではギャングにしろ、商売人にしろ、出身地や人種によって固まっているケースが多いが、出身地も人種も問わない特別な、そして強力な秘密組織がこの街には存在する。",
-      "en": "Gangs and merchants in this City usually band together by birthplace or ethnicity. One secret organization, however, is both powerful and indifferent to either."
+      "en": "Gangs and merchants in this City usually band together by birthplace or ethnicity. One secret organization, however, is both powerful and indifferent to either.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0284",
@@ -2075,7 +2880,13 @@
       "sj": "",
       "se": "",
       "jp": "『<tips=21>八龍会</tips>』というのが正式名称だ。本来の発音に沿えば「バーロンフゥイ」となるのだろう。日本語で読み下して「はちりゅうかい」と呼ばれたり、また英語で「ドラゴン・クラブ」と呼ばれることも希にある。一般的には「バーロン」と略されるか、「<tips=22>老人たち</tips>」と隠語で呼ばれることが多い。",
-      "en": "Its formal name is the “<tips=21>Dragon Club</tips>.” Closer to the original pronunciation, it would be Baron Hui. Some Japanese speakers read the characters Hachiryukai, and on rare occasions someone renders them in English as “Dragon Club.” Most shorten it to Baron or use the code name “<tips=22>the Elders</tips>.”"
+      "en": "Its formal name is the “<tips=21>Dragon Club</tips>.” Closer to the original pronunciation, it would be Baron Hui. Some Japanese speakers read the characters Hachiryukai, and on rare occasions someone renders them in English as “Dragon Club.” Most shorten it to Baron or use the code name “<tips=22>the Elders</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0285",
@@ -2084,7 +2895,13 @@
       "sj": "",
       "se": "",
       "jp": "　中国語圏のどこかに、<tips=17>タイプB</tips>の美称として『龍』という言葉を使う地域があるらしい。",
-      "en": "Somewhere in the Chinese-speaking world, I am told, “dragon” is used as a flattering name for a <tips=17>Type B</tips> person."
+      "en": "Somewhere in the Chinese-speaking world, I am told, “dragon” is used as a flattering name for a <tips=17>Type B</tips> person.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0286",
@@ -2093,7 +2910,13 @@
       "sj": "",
       "se": "",
       "jp": "　つまり、これは<tips=17>タイプB</tips>たちの組織なのだ。",
-      "en": "The Club, in short, is an organization of <tips=17>Type B</tips> people."
+      "en": "The Club, in short, is an organization of <tips=17>Type B</tips> people.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0287",
@@ -2102,7 +2925,13 @@
       "sj": "",
       "se": "",
       "jp": "　精神面にハンディキャップを持ち、差別の対象になりやすい<tips=17>タイプB</tips>たちが、人種、年齢、社会的立場に関わらず、自由な身分で密かに通じ合い、お互いを助け合うというのがその組織の目的だ。",
-      "en": "Its <tips=17>Type B</tips> members, burdened with mental disabilities and easy targets for discrimination, secretly meet and help one another as equals, regardless of race, age, or station."
+      "en": "Its <tips=17>Type B</tips> members, burdened with mental disabilities and easy targets for discrimination, secretly meet and help one another as equals, regardless of race, age, or station.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0288",
@@ -2111,7 +2940,13 @@
       "sj": "",
       "se": "",
       "jp": "　どの地域にも似たような組織があるらしいが、<tips=9>Y地区</tips>では特に<tips=17>タイプB</tips>が多く、社会のあらゆる場所に存在しているため、影響力が大きい。しかも基本的には会員であることを公表しないために、その影響が目に見えない。",
-      "en": "Similar organizations apparently exist everywhere. But <tips=9>Y District</tips> has an exceptional number of <tips=17>Type B</tips> people scattered through every layer of society, so its local Club commands enormous influence. Since members do not reveal themselves, that influence remains invisible."
+      "en": "Similar organizations apparently exist everywhere. But <tips=9>Y District</tips> has an exceptional number of <tips=17>Type B</tips> people scattered through every layer of society, so its local Club commands enormous influence. Since members do not reveal themselves, that influence remains invisible.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0289",
@@ -2120,7 +2955,13 @@
       "sj": "",
       "se": "",
       "jp": "　その会員は、例えばスーパーマーケットの店員にもいるだろうし、警察官にもいるだろうし、地域の最大マフィア組織である<tips=7>ＹＳ</tips>の内部にもいるだろうが、具体的に誰が会員かとなればそれはわからない。",
-      "en": "A supermarket clerk may be a member. So may a police officer, or a man inside <tips=7>YS</tips>, the largest mafia organization in the district. Ask for a name, however, and no one can give you one."
+      "en": "A supermarket clerk may be a member. So may a police officer, or a man inside <tips=7>YS</tips>, the largest mafia organization in the district. Ask for a name, however, and no one can give you one.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0290",
@@ -2129,7 +2970,13 @@
       "sj": "",
       "se": "",
       "jp": "　この不気味な組織の指導者は、<tips=9>Y地区</tips>の一角に住む三人の<tips=22>老人たち</tips>であることはよく知られている。",
-      "en": "Everyone knows that this sinister organization is ruled by three figures called <tips=22>the Elders</tips>, who share a home in one corner of <tips=9>Y District</tips>."
+      "en": "Everyone knows that this sinister organization is ruled by three figures called <tips=22>the Elders</tips>, who share a home in one corner of <tips=9>Y District</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0291",
@@ -2138,7 +2985,13 @@
       "sj": "",
       "se": "",
       "jp": "　だから、この街のなかでは、この見えない脅威への恐れと、幾分かの<tips=17>タイプB</tips>への侮蔑心から『<tips=22>老人たち</tips>』と隠語で呼ぶ者が多いのだ。",
-      "en": "The code name carries both fear of that unseen threat and a measure of contempt for <tips=17>Type B</tips> people. That is why so many in the City call them “<tips=22>the Elders</tips>.”"
+      "en": "The code name carries both fear of that unseen threat and a measure of contempt for <tips=17>Type B</tips> people. That is why so many in the City call them “<tips=22>the Elders</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0292",
@@ -2147,7 +3000,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「……彼らに対して何かをした覚えはありませんが？」",
-      "en": "“...I don't recall doing anything to them.”"
+      "en": "“...I don't recall doing anything to them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0293",
@@ -2156,7 +3015,13 @@
       "sj": "",
       "se": "",
       "jp": "　案の定気になったようで、<tips=5>太刀川</tips>は私の方を見た。",
-      "en": "As expected, I have caught his interest. <tips=5>Tachikawa</tips> looks toward me."
+      "en": "As expected, I have caught his interest. <tips=5>Tachikawa</tips> looks toward me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0294",
@@ -2165,7 +3030,13 @@
       "sj": "",
       "se": "",
       "jp": "「いやいや」",
-      "en": "“No, no.”"
+      "en": "“No, no.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0295",
@@ -2174,7 +3045,13 @@
       "sj": "",
       "se": "",
       "jp": "　今は、感情を悟られたくはない。",
-      "en": "I do not want him reading my emotions now."
+      "en": "I do not want him reading my emotions now.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0296",
@@ -2183,7 +3060,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は今度は冗談ではなく、手で目を隠した。",
-      "en": "This time, without any joke, I cover my eyes with one hand."
+      "en": "This time, without any joke, I cover my eyes with one hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0297",
@@ -2192,7 +3075,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたの慈善行為が、気に障るんです。……もちろん先生は純粋に善意から診察をしているのは私はよく知っています。しかし、世の中には善意による行動というものが存在することを信じず、利害関係でしか物事を解釈出来ない無粋な連中は多いですからね。『<tips=22>老人たち</tips>』も、わざわざそんな面倒なことをする先生には下心があると考えているようですよ。身よりがない<tips=17>タイプB</tips>の子供や大人を手なずけて、何か企んでいるのだろうってね」",
-      "en": "“It is your charity they dislike. I know perfectly well that you treat these people out of simple goodwill. But the world is full of boors who cannot believe in goodwill, who see nothing except advantage and self-interest. The ‘<tips=22>Elders</tips>’ think no one would go to such trouble without a scheme. They suspect you of taming <tips=17>Type B</tips> children and adults with no family of their own, all for some hidden purpose.”"
+      "en": "“It is your charity they dislike. I know perfectly well that you treat these people out of simple goodwill. But the world is full of boors who cannot believe in goodwill, who see nothing except advantage and self-interest. The ‘<tips=22>Elders</tips>’ think no one would go to such trouble without a scheme. They suspect you of taming <tips=17>Type B</tips> children and adults with no family of their own, all for some hidden purpose.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0298",
@@ -2201,7 +3090,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「あきれたものです」",
-      "en": "“Absurd.”"
+      "en": "“Absurd.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0299",
@@ -2210,7 +3105,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は溜息をついた。",
-      "en": "<tips=5>Tachikawa</tips> sighs."
+      "en": "<tips=5>Tachikawa</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0300",
@@ -2219,7 +3120,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうでしょう。先生のような奇特な聖人にとっては、ああいった俗物どもの考えは理解出来ますまい。でも、もっと行動には注意した方がいい。世の中というものは、そうした俗物どもの感情で動いているものですし、あなたの正体は、知っている人ならば知っています。ごく限られた人間ですがね。警戒されても仕方がないでしょう？」",
-      "en": "“Of course. A rare saint like you could never understand the minds of such vulgar men. Still, you ought to watch yourself. The world is moved by the feelings of vulgar men, and the few who know your true identity do know it. You can hardly blame them for growing suspicious.”"
+      "en": "“Of course. A rare saint like you could never understand the minds of such vulgar men. Still, you ought to watch yourself. The world is moved by the feelings of vulgar men, and the few who know your true identity do know it. You can hardly blame them for growing suspicious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0301",
@@ -2228,7 +3135,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「いや、あきれたというのは、そんなくだらない話を、この雨の中でながながと私に聞かせたあなたについてです」",
-      "en": "“No. What is absurd is your making me stand in the rain through that entire tedious speech.”"
+      "en": "“No. What is absurd is your making me stand in the rain through that entire tedious speech.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0302",
@@ -2237,7 +3150,13 @@
       "sj": "",
       "se": "",
       "jp": "「これは、もう一本取られましたな」",
-      "en": "“You've got me again.”"
+      "en": "“You've got me again.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0303",
@@ -2246,7 +3165,13 @@
       "sj": "",
       "se": "",
       "jp": "　その皮肉に、私は笑わずにはいられなかった。",
-      "en": "I cannot help laughing at the retort."
+      "en": "I cannot help laughing at the retort.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0304",
@@ -2255,7 +3180,13 @@
       "sj": "",
       "se": "",
       "jp": "「くだらないかもしれないですが、私にとっては重要でね。時は流れても変わらないものはあるんですよ。先生にとっては忘れかけた過去の話でも、街はしっかりと覚えています。……そういえば、<tips=3>クリス・ツェー</tips>が死の床に伏しているという話を知っていますか？　……おや、その様子だとご存じがないようだ。まあ、表の生活に戻られた先生には裏社会の噂など耳に入ることはないのでしょうね。しかし、一度くらい連絡をとってみたらいかがですかねえ？　彼も、最後にもう一度先生と会いたいと思っているでしょう。なんでも、死を目前にして既に意識も定かではないという話です」",
-      "en": "“Tedious it may be, but it matters to me. Time passes, yet some things do not change. To you, this may be a half-forgotten past. The City remembers it perfectly... Speaking of the past, did you know <tips=3>Chris Xie</tips> is on his deathbed? Ah. That expression says you did not. Now that you have returned to respectable society, I suppose underworld rumors no longer reach you. Why not contact him once? He may wish to see you one last time. I hear death is so near that he is hardly conscious.”"
+      "en": "“Tedious it may be, but it matters to me. Time passes, yet some things do not change. To you, this may be a half-forgotten past. The City remembers it perfectly... Speaking of the past, did you know <tips=3>Chris Xie</tips> is on his deathbed? Ah. That expression says you did not. Now that you have returned to respectable society, I suppose underworld rumors no longer reach you. Why not contact him once? He may wish to see you one last time. I hear death is so near that he is hardly conscious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0305",
@@ -2264,7 +3195,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は指の隙間から、そっと彼の顔を見た。",
-      "en": "I steal a look at his face through my fingers."
+      "en": "I steal a look at his face through my fingers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0306",
@@ -2273,7 +3210,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「それこそ、私には関係のない話です」",
-      "en": "“That has even less to do with me.”"
+      "en": "“That has even less to do with me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0307",
@@ -2282,7 +3225,13 @@
       "sj": "",
       "se": "",
       "jp": "　私には彼のような読心能力はないが、経験によって多少は人の感情を読むのに自信がある。",
-      "en": "I have no gift for reading hearts, but experience has taught me some confidence in reading faces."
+      "en": "I have no gift for reading hearts, but experience has taught me some confidence in reading faces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0308",
@@ -2291,7 +3240,13 @@
       "sj": "",
       "se": "",
       "jp": "　その私の目からすると、関係ないと言いつつも、<tips=5>太刀川</tips>はわずかに動揺しているように見えた。",
-      "en": "By my eye, <tips=5>Tachikawa</tips> is slightly shaken, however firmly he calls it irrelevant."
+      "en": "By my eye, <tips=5>Tachikawa</tips> is slightly shaken, however firmly he calls it irrelevant.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0309",
@@ -2300,7 +3255,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうだろう。今は全く別の道を歩いているとは言え、<tips=5>太刀川</tips>には、<tips=3>クリス・ツェー</tips>と一心同体だった時代があった。",
-      "en": "Naturally. They walk utterly different paths today, but once <tips=5>Tachikawa</tips> and <tips=3>Chris Xie</tips> were inseparable."
+      "en": "Naturally. They walk utterly different paths today, but once <tips=5>Tachikawa</tips> and <tips=3>Chris Xie</tips> were inseparable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0310",
@@ -2309,7 +3270,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、余談が長くなって申し訳ありません。これは話の成り行きで語っただけで、声をかけた本当の用事はまったく別の件なんです」",
-      "en": "“Forgive the long digression. The conversation happened to take us there. The reason I truly stopped you is another matter entirely.”"
+      "en": "“Forgive the long digression. The conversation happened to take us there. The reason I truly stopped you is another matter entirely.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0311",
@@ -2318,7 +3285,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=3>クリス・ツェー</tips>のニュースを口にすることで、多少なりとも<tips=5>太刀川</tips>に私の言葉を聞く姿勢が出来たのを確認出来たので、私は本題に入ることにした。",
-      "en": "The news of <tips=3>Chris Xie</tips> has made <tips=5>Tachikawa</tips> at least a little willing to listen. Having confirmed as much, I come to the point."
+      "en": "The news of <tips=3>Chris Xie</tips> has made <tips=5>Tachikawa</tips> at least a little willing to listen. Having confirmed as much, I come to the point.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0312",
@@ -2327,7 +3300,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「まだ何か話すつもりですか？　どうしてあなたはそんな大きな身体をしているのに、そんなにおしゃべりなのでしょう」",
-      "en": "“You still have more to say? Why does a man with such an enormous body talk so much?”"
+      "en": "“You still have more to say? Why does a man with such an enormous body talk so much?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0313",
@@ -2336,7 +3315,13 @@
       "sj": "",
       "se": "",
       "jp": "「へえ、身体が大きいと、口数が少なくなるというような医学的根拠があるんですか？」",
-      "en": "“Is there some medical evidence that large bodies produce fewer words?”"
+      "en": "“Is there some medical evidence that large bodies produce fewer words?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0314",
@@ -2345,7 +3330,13 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「とてもつき合いきれませんね」",
-      "en": "“I really cannot deal with you.”"
+      "en": "“I really cannot deal with you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0315",
@@ -2354,7 +3345,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこで<tips=5>太刀川</tips>が私に背を向けようとしたので、",
-      "en": "<tips=5>Tachikawa</tips> starts to turn his back on me."
+      "en": "<tips=5>Tachikawa</tips> starts to turn his back on me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0316",
@@ -2363,7 +3360,13 @@
       "sj": "",
       "se": "",
       "jp": "「次に殺されるのは、あなたの患者かもしれませんよ！」",
-      "en": "“Your patient may be the next one killed!”"
+      "en": "“Your patient may be the next one killed!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0317",
@@ -2372,7 +3375,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は大声でそう言い、彼の足を止めた。",
-      "en": "I shout it loud enough to stop him."
+      "en": "I shout it loud enough to stop him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0318",
@@ -2381,7 +3390,13 @@
       "sj": "",
       "se": "",
       "jp": "「先生、最近<tips=59>暗闇通り</tips>から<tips=58>パラシュート通り</tips>に行く辺りで、連続殺人事件が起こっているのをご存じですか？」",
-      "en": "“Doctor, have you heard about the serial murders between <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”"
+      "en": "“Doctor, have you heard about the serial murders between <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0319",
@@ -2390,7 +3405,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は先ほどから指の小さな隙間から彼の様子を観察していたのだが、ここでわざと指を大きく開いて、いかにも『あんたのいまの顔を見たぞ』というそぶりをしてからすぐに閉じた。",
-      "en": "Until now, I have watched him through a narrow gap between my fingers. I deliberately spread them wide, make a show of having caught his expression, and close them at once."
+      "en": "Until now, I have watched him through a narrow gap between my fingers. I deliberately spread them wide, make a show of having caught his expression, and close them at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0320",
@@ -2399,7 +3420,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は正直なたちで、露骨に不快な表情をする。",
-      "en": "<tips=5>Tachikawa</tips> is an honest man. His displeasure appears plainly on his face."
+      "en": "<tips=5>Tachikawa</tips> is an honest man. His displeasure appears plainly on his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0321",
@@ -2408,7 +3435,13 @@
       "sj": "",
       "se": "",
       "jp": "　思い通りの反応に、私は思わず笑いつつ、",
-      "en": "The reaction is precisely what I wanted. I cannot keep a smile from my face as I continue."
+      "en": "The reaction is precisely what I wanted. I cannot keep a smile from my face as I continue.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0322",
@@ -2417,7 +3450,13 @@
       "sj": "",
       "se": "",
       "jp": "「若い女がバラバラ死体にされるってやつですよ。観光客だったり、地元の若い子だったりね。あのあたりは先生が診てる患者もたくさん住んでるんじゃないですか？」",
-      "en": "“Young women cut to pieces. Some tourists, some local girls. A great many of your patients live in that quarter, don't they?”"
+      "en": "“Young women cut to pieces. Some tourists, some local girls. A great many of your patients live in that quarter, don't they?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0323",
@@ -2426,7 +3465,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は言葉を返さなかったが、内心では穏やかではないらしく、傘が傾き、雨が肩を濡らす。",
-      "en": "<tips=5>Tachikawa</tips> says nothing, but he is no longer calm. His umbrella tilts and the rain begins soaking one shoulder."
+      "en": "<tips=5>Tachikawa</tips> says nothing, but he is no longer calm. His umbrella tilts and the rain begins soaking one shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0324",
@@ -2435,7 +3480,13 @@
       "sj": "",
       "se": "",
       "jp": "　すぐに彼もそれに気がつき、傘の位置を直した。",
-      "en": "A moment later he notices and straightens it."
+      "en": "A moment later he notices and straightens it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0325",
@@ -2444,7 +3495,13 @@
       "sj": "",
       "se": "",
       "jp": "「どういうわけか、私はその事件を調べるってことになってしまいましてね。途方に暮れていたんですが、先生が力を貸してくれれば百人力だ。ギャラは出ると思いますよ。引き受けていただけなければ明かすことは出来ないのですが、スポンサーはしっかりしたところなので安心してください。街の人々の命を守るために、是非とも、おれと一緒に……」",
-      "en": "“By some strange turn, I have found myself investigating the case. I was at my wits' end, but with your help I could do the work of a hundred men. There should be a fee. I cannot name the sponsor unless you accept, but it is a sound organization, so set your mind at ease. For the lives of the people in this City, please, join me and—”"
+      "en": "“By some strange turn, I have found myself investigating the case. I was at my wits' end, but with your help I could do the work of a hundred men. There should be a fee. I cannot name the sponsor unless you accept, but it is a sound organization, so set your mind at ease. For the lives of the people in this City, please, join me and—”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0326",
@@ -2453,7 +3510,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこで<tips=5>太刀川</tips>は私に背を向け、その場を去ろうとする。",
-      "en": "At that, <tips=5>Tachikawa</tips> turns away and begins to leave."
+      "en": "At that, <tips=5>Tachikawa</tips> turns away and begins to leave.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0327",
@@ -2462,7 +3525,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は構わず言葉を続けた。　",
-      "en": "I carry on regardless."
+      "en": "I carry on regardless.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0328",
@@ -2471,7 +3540,13 @@
       "sj": "",
       "se": "",
       "jp": "「先生！　こう見えて、私はあなたのことを尊敬しているんですよ。我々のような実用的な力をもった<tips=16>タイプA</tips>は、本来ならばその力を正しく使わなくっちゃいけない。それはねえ、企業や政府に高く売って、出世したり、自分の欲を満たすってことじゃないんです。他の誰にも助けられないような、弱いものたちを救うのは、この世界のルールから逸脱した力をもった我々の使命なんですよ……先生のやり方はまさに理想的だ。聞いてますか？　<tips=5>太刀川</tips>さん！」",
-      "en": "“Doctor! Believe it or not, I respect you. Those of us with useful <tips=16>Type A</tips> powers ought to use them properly. That does not mean selling ourselves to corporations and governments, climbing the ladder, or feeding our appetites. We possess powers outside the rules of this world. It is our duty to save the weak whom no one else can help... Your own life is the ideal. Are you listening, Dr. <tips=5>Tachikawa</tips>?”"
+      "en": "“Doctor! Believe it or not, I respect you. Those of us with useful <tips=16>Type A</tips> powers ought to use them properly. That does not mean selling ourselves to corporations and governments, climbing the ladder, or feeding our appetites. We possess powers outside the rules of this world. It is our duty to save the weak whom no one else can help... Your own life is the ideal. Are you listening, Dr. <tips=5>Tachikawa</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0329",
@@ -2480,7 +3555,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は振り返りもせずにそのまま歩いて行く。",
-      "en": "<tips=5>Tachikawa</tips> walks on without once looking back."
+      "en": "<tips=5>Tachikawa</tips> walks on without once looking back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0332",
@@ -2507,7 +3588,8 @@
       "sj": "",
       "se": "",
       "jp": "　その後私は<tips=59>暗闇通り</tips>にあるバーに酒を飲みに行き、一人の女と出会った。",
-      "en": "Afterward I go drinking at a bar on <tips=59>Darkness Street</tips>, where I meet a woman."
+      "en": "Afterward I go drinking at a bar on <tips=59>Darkness Street</tips>, where I meet a woman.",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
     },
     {
       "id": "E2:0350",
@@ -2705,7 +3787,8 @@
       "sj": "",
       "se": "",
       "jp": "「日本人なのか？」",
-      "en": "“Are you Japanese?”"
+      "en": "“Are you Japanese?”",
+      "bg": "assets/vn/backgrounds/bg-1b9b9c914038.webp"
     },
     {
       "id": "E2:0381",
@@ -2939,7 +4022,8 @@
       "sj": "",
       "se": "",
       "jp": "　女はこうした誘いを受けるのも、それに乗るのも慣れているようだった。",
-      "en": "She seems well practiced at both receiving such invitations and accepting them."
+      "en": "She seems well practiced at both receiving such invitations and accepting them.",
+      "bg": "assets/vn/backgrounds/bg-55c2b49a9074.webp"
     },
     {
       "id": "E2:0420",
@@ -3371,7 +4455,14 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「なんだきみ、やたらに女臭いじゃないか。それも、<tips=53>ミユキ</tips>さんじゃない。まったく不実な男だなきみは」",
-      "en": "“You positively reek of a woman. And not Ms. <tips=53>Miyuki</tips>. You are a faithless man, aren't you?”"
+      "en": "“You positively reek of a woman. And not Ms. <tips=53>Miyuki</tips>. You are a faithless man, aren't you?”",
+      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0482",
@@ -3380,7 +4471,13 @@
       "sj": "",
       "se": "",
       "jp": "　カルロッタの店で待ち合わせた<tips=48>堂島</tips>は、開口一番そう言った。",
-      "en": "Those are <tips=48>Doujima</tips>'s first words when we meet at Carlotta's."
+      "en": "Those are <tips=48>Doujima</tips>'s first words when we meet at Carlotta's.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0483",
@@ -3389,7 +4486,13 @@
       "sj": "",
       "se": "",
       "jp": "「あんたのその鼻でいろんなことがわかってしまうのは仕方ない。それはあんた自身でも制御出来ないことですから。けれど、そうして知ったことを臆面もなく口にするのは感心しませんな。それだから、いいとしをして結婚も出来ないし、友人もいない。あんたの前に来ると、なんでもあからさまに指摘されてしまうんだから当然だ」",
-      "en": "“You can't help what that nose tells you. Even you have no control over that. But there is no need to announce every secret without a shred of shame. No wonder a man your age has neither wife nor friends. Anyone who comes near you has every private fact thrown in his face.”"
+      "en": "“You can't help what that nose tells you. Even you have no control over that. But there is no need to announce every secret without a shred of shame. No wonder a man your age has neither wife nor friends. Anyone who comes near you has every private fact thrown in his face.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0484",
@@ -3398,7 +4501,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は苦々しく舌打ちをする。そして私は、ポケットからハンドタオルを取り出すと<tips=48>堂島</tips>の顔に投げつける。",
-      "en": "I click my tongue, pull a hand towel from my pocket, and fling it at <tips=48>Doujima</tips>'s face."
+      "en": "I click my tongue, pull a hand towel from my pocket, and fling it at <tips=48>Doujima</tips>'s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0485",
@@ -3407,7 +4516,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=48>堂島</tips>は手を上げて、それをキャッチする。",
-      "en": "<tips=48>Doujima</tips> catches it in one raised hand."
+      "en": "<tips=48>Doujima</tips> catches it in one raised hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "E2:0495",
@@ -3416,7 +4531,8 @@
       "sj": "",
       "se": "",
       "jp": "「これはなんだ？」",
-      "en": "“What is this?”"
+      "en": "“What is this?”",
+      "bg": "assets/vn/backgrounds/bg-1f6b811632a9.webp"
     },
     {
       "id": "E2:0496",

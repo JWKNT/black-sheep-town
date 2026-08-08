@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　前日に買った弁当があったので、外食をせず、まっすぐ帰宅してすぐに冷蔵庫を開けた。",
-      "en": "I had bought a boxed lunch the day before, so I went straight home instead of eating out and opened the refrigerator."
+      "en": "I had bought a boxed lunch the day before, so I went straight home instead of eating out and opened the refrigerator.",
+      "bg": "assets/vn/backgrounds/bg-6c3a6ac2c70a.webp"
     },
     {
       "id": "C1:0008",
@@ -86,7 +87,8 @@
       "sj": "",
       "se": "",
       "jp": "　出かける段になって、目が酷く痛んだので洗面所にてサングラスを外す。",
-      "en": "Just as I was ready to leave, my eye began to hurt badly. I removed my sunglasses in the bathroom."
+      "en": "Just as I was ready to leave, my eye began to hurt badly. I removed my sunglasses in the bathroom.",
+      "bg": "assets/vn/backgrounds/bg-21256908f1a6.webp"
     },
     {
       "id": "C1:0024",
@@ -113,7 +115,8 @@
       "sj": "",
       "se": "",
       "jp": "　外に出ると雨は先ほどより強さを増している。やや風もあり、大きめの傘をさしても膝の辺りから下に雨がかかった。",
-      "en": "By the time I step outside, the rain is coming down harder. The wind has picked up too, and even beneath my large umbrella I am wet from the knees down."
+      "en": "By the time I step outside, the rain is coming down harder. The wind has picked up too, and even beneath my large umbrella I am wet from the knees down.",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "C1:0035",
@@ -239,7 +242,14 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「やあ先生」",
-      "en": "“Hey there, Doctor.”"
+      "en": "“Hey there, Doctor.”",
+      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0056",
@@ -248,7 +258,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は１９０センチに近い高い身長と、それを支える頑強な骨格、さらに多量の筋肉が隆々として、くたびれたスーツとよれよれのシャツを内側から押し上げている。",
-      "en": "<tips=50>Roji</tips> stands nearly 190 centimeters tall, his broad frame packed with muscle that strains against a worn suit and rumpled shirt."
+      "en": "<tips=50>Roji</tips> stands nearly 190 centimeters tall, his broad frame packed with muscle that strains against a worn suit and rumpled shirt.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0057",
@@ -257,7 +273,13 @@
       "sj": "",
       "se": "",
       "jp": "　無精髭だらけの口元に、なれなれしい笑みを浮かべていた。額の中央にはこぶとも角ともつかぬ尖った隆起物がある。それは<tips=16>タイプA</tips>であることを示す<tips=77>特質変異</tips>だが、彼はそれを隠そうともしない。",
-      "en": "His stubbled mouth wears an overfamiliar grin. A pointed growth rises from the center of his forehead, neither quite a lump nor a horn. It marks him as <tips=16>Type A</tips>: a <tips=77>Trait Mutation</tips> he makes no effort to hide."
+      "en": "His stubbled mouth wears an overfamiliar grin. A pointed growth rises from the center of his forehead, neither quite a lump nor a horn. It marks him as <tips=16>Type A</tips>: a <tips=77>Trait Mutation</tips> he makes no effort to hide.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0058",
@@ -266,7 +288,13 @@
       "sj": "",
       "se": "",
       "jp": "　熊のような体躯に、この角がある姿を見ると、私はいつも昔話に出て来る鬼を思い出す。",
-      "en": "With that horn and a body like a bear's, he always reminds me of an oni from some old folktale."
+      "en": "With that horn and a body like a bear's, he always reminds me of an oni from some old folktale.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0059",
@@ -275,7 +303,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は傘もささず、ずぶ濡れでそこに立っていた。",
-      "en": "He stands there without an umbrella, soaked to the skin."
+      "en": "He stands there without an umbrella, soaked to the skin.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0060",
@@ -284,7 +318,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「久しぶりじゃないですか。元気ですか？」",
-      "en": "“Been a while, hasn't it? How have you been?”"
+      "en": "“Been a while, hasn't it? How have you been?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0061",
@@ -293,7 +333,13 @@
       "sj": "",
       "se": "",
       "jp": "　私よりいくつか年下のその男に対し、私の方は特に用件を持たなかった。",
-      "en": "I have no particular business with this man, who is several years younger than I am."
+      "en": "I have no particular business with this man, who is several years younger than I am.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0062",
@@ -302,7 +348,13 @@
       "sj": "",
       "se": "",
       "jp": "　そのまま通り過ぎようとすると、",
-      "en": "I try to walk past him."
+      "en": "I try to walk past him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0063",
@@ -311,7 +363,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「<tips=5>太刀川</tips>先生！」",
-      "en": "“Dr. <tips=5>Tachikawa</tips>!”"
+      "en": "“Dr. <tips=5>Tachikawa</tips>!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0064",
@@ -320,7 +378,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>はもう一度呼び止め、",
-      "en": "<tips=50>Roji</tips> calls after me again."
+      "en": "<tips=50>Roji</tips> calls after me again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0065",
@@ -329,7 +393,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「つれないじゃないですか。それなりに長いつき合いでしょうよ」",
-      "en": "“That's cold, Doctor. We've known each other a good long while.”"
+      "en": "“That's cold, Doctor. We've known each other a good long while.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0066",
@@ -338,7 +408,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は昔からしつこい男だった。以前は探偵業という人が秘す事情を調査する職業についていたためにその必要性があったが、辞めて暫く経っているはずだ。態度に代わり映えしないところをみると、探偵を辞めた後も似たような職についているのかもしれない。",
-      "en": "He has always been a persistent man. Persistence was useful in his old profession: a private investigator makes his living digging up what other people want kept secret. He should have left that work some time ago, but his manner has not changed in the least. Perhaps he found a similar occupation afterward."
+      "en": "He has always been a persistent man. Persistence was useful in his old profession: a private investigator makes his living digging up what other people want kept secret. He should have left that work some time ago, but his manner has not changed in the least. Perhaps he found a similar occupation afterward.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0067",
@@ -347,7 +423,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は診察があるんですよ」",
-      "en": "“I have patients to see.”"
+      "en": "“I have patients to see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0068",
@@ -356,7 +438,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「こんな雨の日でも、貧乏人のところを回ってるんですか？　頭が下がる。……おっと、おれの目を見ないでくださいよ。心を覗かれちゃたまらない」",
-      "en": "“Out making your rounds among the poor even in this rain? My hat's off to you. ...Whoa, now—don't look me in the eye. I can't have you poking around inside my heart.”"
+      "en": "“Out making your rounds among the poor even in this rain? My hat's off to you. ...Whoa, now—don't look me in the eye. I can't have you poking around inside my heart.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0069",
@@ -365,7 +453,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は分厚い手のひらで自分の目を隠してそう言った。",
-      "en": "<tips=50>Roji</tips> covers his eyes with one broad palm."
+      "en": "<tips=50>Roji</tips> covers his eyes with one broad palm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0070",
@@ -374,7 +468,13 @@
       "sj": "",
       "se": "",
       "jp": "「いちいちそんなことはしません。大体、あなたの心を覗いて私に何の得があるって言うんです？　<tips=16>タイプＡ</tips>がみだりに能力を使うのは違法行為だ。特に我々のような強い力を与えられた者は他の軽微な能力者よりも振る舞いに気をつけなくてはいけない。あなたは誰よりもそれをよくご存じのはずだ」",
-      "en": "“I do not use my ability indiscriminately. Besides, what would I gain by looking into your heart? It is illegal for a <tips=16>Type A</tips> person to use an ability recklessly. Those of us given particularly great power must be more careful in our conduct than people with lesser abilities. You should know that better than anyone.”"
+      "en": "“I do not use my ability indiscriminately. Besides, what would I gain by looking into your heart? It is illegal for a <tips=16>Type A</tips> person to use an ability recklessly. Those of us given particularly great power must be more careful in our conduct than people with lesser abilities. You should know that better than anyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0071",
@@ -383,7 +483,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「相変わらず先生は真面目な方だ。しかし、誰よりもよくご存じでってのは一本とられましたな。確かにおれは能力を濫用したらえらいことになるということについては、人よりもよく知っている」",
-      "en": "“As serious as ever, Doctor. But you got me with ‘better than anyone.’ It's true. I know better than most what happens when an ability is abused.”"
+      "en": "“As serious as ever, Doctor. But you got me with ‘better than anyone.’ It's true. I know better than most what happens when an ability is abused.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0072",
@@ -392,7 +498,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は手のひらをどけた。",
-      "en": "<tips=50>Roji</tips> lowers his hand."
+      "en": "<tips=50>Roji</tips> lowers his hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0073",
@@ -401,7 +513,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「しかし、病院のおつとめもあるのに、プライベートでまで<tips=78>金目</tips>の連中を診てやるとは、ご苦労なことです。でも、ほどほどにした方がいいですよ。先生の活発な慈善活動を『<tips=22>老人たち</tips>』はあまりよく思ってないって噂です」",
-      "en": "“Still, you put in a full day at the hospital, then spend your own time treating the <tips=78>Gold-Eye</tips> crowd. Admirable stuff. But I would not overdo it. Word is the <tips=22>Elders</tips> do not care for all this charity work of yours.”"
+      "en": "“Still, you put in a full day at the hospital, then spend your own time treating the <tips=78>Gold-Eye</tips> crowd. Admirable stuff. But I would not overdo it. Word is the <tips=22>Elders</tips> do not care for all this charity work of yours.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0074",
@@ -410,7 +528,13 @@
       "sj": "",
       "se": "",
       "jp": "「……彼らに対して何かをした覚えはありませんが？」",
-      "en": "“...I do not recall doing anything to them.”"
+      "en": "“...I do not recall doing anything to them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0075",
@@ -419,7 +543,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「いやいや」",
-      "en": "“No, no.”"
+      "en": "“No, no.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0076",
@@ -428,7 +558,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は再び手で目を隠し、",
-      "en": "<tips=50>Roji</tips> covers his eyes again."
+      "en": "<tips=50>Roji</tips> covers his eyes again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0077",
@@ -437,7 +573,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「あなたの慈善行為が、気に障るんです。……もちろん先生は純粋に善意から診察をしているのは私はよく知っています。しかし、世の中には善意による行動というものが存在することを信じず、利害関係でしか物事を解釈出来ない無粋な連中は多いですからね。『<tips=22>老人たち</tips>』も、わざわざそんな面倒なことをする先生には下心があると考えているようですよ。身よりがない<tips=17>タイプB</tips>の子供や大人を手なずけて、何か企んでいるのだろうってね」",
-      "en": "“The charity itself rubs them the wrong way. I know perfectly well that you treat these people out of pure goodwill. But plenty of boors refuse to believe goodwill even exists. They can only understand the world in terms of who stands to gain. The <tips=22>Elders</tips> seem to think anyone who goes to this much trouble must have an ulterior motive. They imagine you're taming <tips=17>Type B</tips> children and adults with no families, getting them ready for some scheme of yours.”"
+      "en": "“The charity itself rubs them the wrong way. I know perfectly well that you treat these people out of pure goodwill. But plenty of boors refuse to believe goodwill even exists. They can only understand the world in terms of who stands to gain. The <tips=22>Elders</tips> seem to think anyone who goes to this much trouble must have an ulterior motive. They imagine you're taming <tips=17>Type B</tips> children and adults with no families, getting them ready for some scheme of yours.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0078",
@@ -446,7 +588,13 @@
       "sj": "",
       "se": "",
       "jp": "「あきれたものです」",
-      "en": "“Unbelievable.”"
+      "en": "“Unbelievable.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0079",
@@ -455,7 +603,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は溜息をついた。",
-      "en": "I sigh."
+      "en": "I sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0080",
@@ -464,7 +618,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「そうでしょう。先生のような奇特な聖人にとっては、ああいった俗物どもの考えは理解出来ますまい。でも、もっと行動には注意した方がいい。世の中というものは、そうした俗物どもの感情で動いているものですし、あなたの正体は、知っている人ならば知っています。ごく限られた人間ですがね。警戒されても仕方がないでしょう？」",
-      "en": "“I thought you would agree. A rare saint like you could never understand the minds of such vulgar creatures. Still, you should be more careful. The world runs on the feelings of vulgar creatures, and anyone who knows your true identity has reason to be wary of you. Very few people know, of course. But you can hardly blame them, can you?”"
+      "en": "“I thought you would agree. A rare saint like you could never understand the minds of such vulgar creatures. Still, you should be more careful. The world runs on the feelings of vulgar creatures, and anyone who knows your true identity has reason to be wary of you. Very few people know, of course. But you can hardly blame them, can you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0081",
@@ -473,7 +633,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、あきれたというのは、そんなくだらない話を、この雨の中でながながと私に聞かせたあなたについてです」",
-      "en": "“No. I meant that you are unbelievable, making me stand in this rain and listen to such nonsense at such length.”"
+      "en": "“No. I meant that you are unbelievable, making me stand in this rain and listen to such nonsense at such length.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0082",
@@ -482,7 +648,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「これは、もう一本取られましたな」",
-      "en": "“That's twice you've got me.”"
+      "en": "“That's twice you've got me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0083",
@@ -491,7 +663,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は声を立てて笑う。",
-      "en": "<tips=50>Roji</tips> laughs aloud."
+      "en": "<tips=50>Roji</tips> laughs aloud.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0084",
@@ -500,7 +678,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「くだらないかもしれないですが、私にとっては重要でね。時は流れても変わらないものはあるんですよ。先生にとっては忘れかけた過去の話でも、街はしっかりと覚えています。……そういえば、<tips=3>クリス・ツェー</tips>が死の床に伏しているという話を知っていますか？　……おや、その様子だとご存じがないようだ。まあ、表の生活に戻られた先生には裏社会の噂など耳に入ることはないのでしょうね。しかし、一度くらい連絡をとってみたらいかがですかねえ？　彼も、最後にもう一度先生と会いたいと思っているでしょう。なんでも、死を目前にして既に意識も定かではないという話です」",
-      "en": "“It may be nonsense to you, but it matters to me. Some things do not change with time. You may have nearly forgotten your past, but the City remembers it perfectly well. ...Speaking of which, have you heard that <tips=3>Chris Xie</tips> is on his deathbed? No? I suppose underworld gossip no longer reaches you now that you've returned to life in the open. Why not contact him, just once? He would probably like to see you one last time. They say death is very close now, and that he is barely conscious.”"
+      "en": "“It may be nonsense to you, but it matters to me. Some things do not change with time. You may have nearly forgotten your past, but the City remembers it perfectly well. ...Speaking of which, have you heard that <tips=3>Chris Xie</tips> is on his deathbed? No? I suppose underworld gossip no longer reaches you now that you've returned to life in the open. Why not contact him, just once? He would probably like to see you one last time. They say death is very close now, and that he is barely conscious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0085",
@@ -509,7 +693,13 @@
       "sj": "",
       "se": "",
       "jp": "「それこそ、私には関係のない話です」",
-      "en": "“That has nothing to do with me.”"
+      "en": "“That has nothing to do with me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0086",
@@ -518,7 +708,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「いや、余談が長くなって申し訳ありません。これは話の成り行きで語っただけで、声をかけた本当の用事はまったく別の件なんです」",
-      "en": "“Forgive me. I let the digression run away with me. That only came up in the course of conversation. My real reason for stopping you is something else entirely.”"
+      "en": "“Forgive me. I let the digression run away with me. That only came up in the course of conversation. My real reason for stopping you is something else entirely.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0087",
@@ -527,7 +723,13 @@
       "sj": "",
       "se": "",
       "jp": "「まだ何か話すつもりですか？　どうしてあなたはそんな大きな身体をしているのに、そんなにおしゃべりなのでしょう」",
-      "en": "“You still have more to say? How can a man with a body that size talk so much?”"
+      "en": "“You still have more to say? How can a man with a body that size talk so much?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0088",
@@ -536,7 +738,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「へえ、身体が大きいと、口数が少なくなるというような医学的根拠があるんですか？」",
-      "en": "“Oh? Is there medical evidence that large men talk less?”"
+      "en": "“Oh? Is there medical evidence that large men talk less?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0089",
@@ -545,7 +753,13 @@
       "sj": "",
       "se": "",
       "jp": "「とてもつき合いきれませんね」",
-      "en": "“I have had quite enough.”"
+      "en": "“I have had quite enough.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0090",
@@ -554,7 +768,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私はもう一度立ち去ろうとしたのだが、",
-      "en": "I turn to leave again, but—"
+      "en": "I turn to leave again, but—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0091",
@@ -563,7 +783,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「次に殺されるのは、あなたの患者かもしれませんよ！」",
-      "en": "“One of your patients may be the next person killed!”"
+      "en": "“One of your patients may be the next person killed!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0092",
@@ -572,7 +798,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は容易ならざることを口にし、私の足を止めた。",
-      "en": "The gravity of <tips=50>Roji</tips>'s words stops me in my tracks."
+      "en": "The gravity of <tips=50>Roji</tips>'s words stops me in my tracks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1f603dfb22df.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0093",
@@ -581,7 +813,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「先生、最近<tips=59>暗闇通り</tips>から<tips=58>パラシュート通り</tips>に行く辺りで、連続殺人事件が起こっているのをご存じですか？」",
-      "en": "“Doctor, have you heard about the string of murders around <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”"
+      "en": "“Doctor, have you heard about the string of murders around <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0094",
@@ -590,7 +828,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>は目を隠す手の人差し指と中指をチラと開いて、その隙間から私の表情をうかがうとすぐに閉じ、そして口元にまた笑顔を浮かべた。",
-      "en": "<tips=50>Roji</tips> parts the index and middle fingers of the hand over his eyes and steals a glance at my face. He closes the gap at once, smiling again."
+      "en": "<tips=50>Roji</tips> parts the index and middle fingers of the hand over his eyes and steals a glance at my face. He closes the gap at once, smiling again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0095",
@@ -599,7 +843,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「若い女がバラバラ死体にされるってやつですよ。観光客だったり、地元の若い子だったりね。あのあたりは先生が診てる患者もたくさん住んでるんじゃないですか？」",
-      "en": "“Young women being cut up and left in pieces. Some tourists, some local girls. Plenty of your patients live around there, don't they?”"
+      "en": "“Young women being cut up and left in pieces. Some tourists, some local girls. Plenty of your patients live around there, don't they?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0096",
@@ -608,7 +858,13 @@
       "sj": "",
       "se": "",
       "jp": "　傘の端からぽたぽたとしたたり落ちる雨だれが、いつの間にか私の肩を濡らしていた。",
-      "en": "Without my noticing, water dripping from the rim of my umbrella has soaked one shoulder."
+      "en": "Without my noticing, water dripping from the rim of my umbrella has soaked one shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0097",
@@ -617,7 +873,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は傘の位置を直した。",
-      "en": "I adjust the umbrella."
+      "en": "I adjust the umbrella.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0098",
@@ -626,7 +888,13 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「どういうわけか、私はその事件を調べるってことになってしまいましてね。途方に暮れていたんですが、先生が力を貸してくれれば百人力だ。ギャラは出ると思いますよ。引き受けていただけなければ明かすことは出来ないのですが、スポンサーはしっかりしたところなので安心してください。街の人々の命を守るために、是非とも、おれと一緒に……」",
-      "en": "“Somehow, I have ended up investigating the case. I was at my wits' end, but with you beside me, I'd have the strength of a hundred men. There should be a fee in it. I cannot name the sponsor unless you take the job, but it is a solid organization, so you needn't worry. For the sake of every life in the City, Doctor, I beg you. Come with me and...”"
+      "en": "“Somehow, I have ended up investigating the case. I was at my wits' end, but with you beside me, I'd have the strength of a hundred men. There should be a fee in it. I cannot name the sponsor unless you take the job, but it is a solid organization, so you needn't worry. For the sake of every life in the City, Doctor, I beg you. Come with me and...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0099",
@@ -635,7 +903,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は路地をその場に置いたまま、そっと背を向けて立ち去った。目を隠している<tips=50>路地</tips>は背後でなおも喋り続けていたが、すぐに雨音にかき消されて聞こえなくなった。",
-      "en": "I quietly turn my back and walk away, leaving Roji where he stands. Behind me, <tips=50>Roji</tips> keeps talking with his eyes covered, but the rain soon drowns him out."
+      "en": "I quietly turn my back and walk away, leaving Roji where he stands. Behind me, <tips=50>Roji</tips> keeps talking with his eyes covered, but the rain soon drowns him out.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0100",
@@ -644,7 +918,13 @@
       "sj": "",
       "se": "",
       "jp": "　完全に離れてから、私はそっと溜息をつく。",
-      "en": "Once I am well clear of him, I let out a quiet sigh."
+      "en": "Once I am well clear of him, I let out a quiet sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0101",
@@ -653,7 +933,13 @@
       "sj": "",
       "se": "",
       "jp": "　この左目は、視線をあわせた人間の心をそのまま私の心のなかに送り込んでくれる。私が望もうと、望むまいと、目を合わせただけで自動的に送り込まれる。そう、私は人の感情にじかに触れることが出来るのだ。",
-      "en": "When I meet another person's gaze, this left eye sends their heart directly into mine. Whether I want it or not, the transfer happens automatically the moment our eyes meet. I can touch another person's emotions directly."
+      "en": "When I meet another person's gaze, this left eye sends their heart directly into mine. Whether I want it or not, the transfer happens automatically the moment our eyes meet. I can touch another person's emotions directly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0102",
@@ -662,7 +948,13 @@
       "sj": "",
       "se": "",
       "jp": "　もうこの能力は、自分のためにしか使わない。私はそう決めている。",
-      "en": "I would use this ability for no one but myself now. That was the decision I had made."
+      "en": "I would use this ability for no one but myself now. That was the decision I had made.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0103",
@@ -671,7 +963,13 @@
       "sj": "",
       "se": "",
       "jp": "　今私は一人でも多くの患者を診て、その心を覗くことにしか興味がないし、他にはもうなにも——たとえそれがどのようなものであれ、私には関係がない。<tips=50>路地</tips>がおおげさに語った猟奇殺人など、殺人自体が無数に発生するこの街でことさらに何を恐れる必要があるのだろうか。",
-      "en": "All that interests me now is examining as many patients as I can and looking into their hearts. Nothing else, whatever it might be, has anything to do with me. <tips=50>Roji</tips> had made much of a few gruesome murders, but why should they inspire any special fear in a City where murders were countless?"
+      "en": "All that interests me now is examining as many patients as I can and looking into their hearts. Nothing else, whatever it might be, has anything to do with me. <tips=50>Roji</tips> had made much of a few gruesome murders, but why should they inspire any special fear in a City where murders were countless?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0104",
@@ -680,7 +978,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、『<tips=3>クリス・ツェー</tips>』という名を出された瞬間には、少なからず動揺をしたことを認めなくてはいけない。",
-      "en": "I must admit, however, that hearing the name “<tips=3>Chris Xie</tips>” rattled me considerably."
+      "en": "I must admit, however, that hearing the name “<tips=3>Chris Xie</tips>” rattled me considerably.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0105",
@@ -689,7 +993,13 @@
       "sj": "",
       "se": "",
       "jp": "　正直に告白しよう。私は、もう何年もの間意識的にその名を避けていた。",
-      "en": "To be honest, I had spent years consciously avoiding that name."
+      "en": "To be honest, I had spent years consciously avoiding that name.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3728834cd6f7.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0119",
@@ -698,7 +1008,8 @@
       "sj": "",
       "se": "",
       "jp": "　施設での診察は、２３時過ぎには終了した。",
-      "en": "I finished examining patients at the facility shortly after eleven that night."
+      "en": "I finished examining patients at the facility shortly after eleven that night.",
+      "bg": "assets/vn/backgrounds/bg-4dbcde7f5c0f.webp"
     },
     {
       "id": "C1:0120",
@@ -932,7 +1243,8 @@
       "sj": "",
       "se": "",
       "jp": "　私は一通り彼女の感情を精査した後に、感情の同調をやめた。その瞬間には同一化した彼女の感情がずるりとはぎ取られ、自分本来の感情に戻る、あの独特の感覚がある。",
-      "en": "After examining every part of her emotional state, I end the synchronization. Her assimilated emotions peel away with a slow, slipping sensation as my own take their place. The feeling is unmistakable."
+      "en": "After examining every part of her emotional state, I end the synchronization. Her assimilated emotions peel away with a slow, slipping sensation as my own take their place. The feeling is unmistakable.",
+      "bg": "assets/vn/backgrounds/bg-4dbcde7f5c0f.webp"
     },
     {
       "id": "C1:0159",
@@ -1391,7 +1703,8 @@
       "sj": "",
       "se": "",
       "jp": "　翌日、気がつけば私は<tips=41>グランドタワー</tips>の前に立っていた。",
-      "en": "The next day, before I knew it, I was standing outside <tips=41>Grand Tower</tips>."
+      "en": "The next day, before I knew it, I was standing outside <tips=41>Grand Tower</tips>.",
+      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
     },
     {
       "id": "C1:0226",
@@ -1526,7 +1839,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「あなた、もしかして<tips=5>太刀川</tips>さんではありませんか？　覚えていませんか？　<tips=4>馬明</tips>です」",
-      "en": "“You wouldn't happen to be <tips=5>Tachikawa</tips>, would you? Don't you remember me? It's <tips=4>Ma Ming</tips>.”"
+      "en": "“You wouldn't happen to be <tips=5>Tachikawa</tips>, would you? Don't you remember me? It's <tips=4>Ma Ming</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0241",
@@ -1535,7 +1854,13 @@
       "sj": "",
       "se": "",
       "jp": "　そういって窓から覗いた顔には見覚えがある。",
-      "en": "I recognize the face at the open window."
+      "en": "I recognize the face at the open window.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0242",
@@ -1544,7 +1869,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、馬さんですか。覚えています。昔とは少々髪型が違うようですが……」",
-      "en": "“Ah, Mr. Ma. Of course I remember you. Your hair is rather different from the old days...”"
+      "en": "“Ah, Mr. Ma. Of course I remember you. Your hair is rather different from the old days...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0243",
@@ -1553,7 +1884,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「寄る年波には勝てませんや」",
-      "en": "“Age gets the better of us all.”"
+      "en": "“Age gets the better of us all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0244",
@@ -1562,7 +1899,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はスキンヘッドをつるりと撫でると、",
-      "en": "He runs a hand over his smooth, bald scalp."
+      "en": "He runs a hand over his smooth, bald scalp.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0245",
@@ -1571,7 +1914,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「しかし、実に懐かしい！　いつ以来でしょうかねえ」",
-      "en": "“Still, what a reunion! How long has it been?”"
+      "en": "“Still, what a reunion! How long has it been?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0246",
@@ -1580,7 +1929,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこにあらわれたのは、<tips=3>クリス・ツェー</tips>の弟分だった<tips=4>馬明</tips>という男だ。当時は<tips=3>クリス</tips>同様チンピラの一人でしかなかったが、今は<tips=7>ＹＳ</tips>の幹部として街の顔役の一人になったと聞いている。",
-      "en": "The man before me had once been a younger sworn brother of <tips=3>Chris Xie</tips>. His name was <tips=4>Ma Ming</tips>. In those days, he had been another young hoodlum like <tips=3>Chris</tips>. Now, I had heard, he was a <tips=7>YS</tips> executive and one of the City's leading figures."
+      "en": "The man before me had once been a younger sworn brother of <tips=3>Chris Xie</tips>. His name was <tips=4>Ma Ming</tips>. In those days, he had been another young hoodlum like <tips=3>Chris</tips>. Now, I had heard, he was a <tips=7>YS</tips> executive and one of the City's leading figures.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0247",
@@ -1589,7 +1944,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いやあ、先生はあまりおかわりがありませんな。しかし、こんなところに姿を現すとは、うちの兄貴のことですな？」",
-      "en": "“You haven't changed much at all, Doctor. But if you've come all the way here, this must be about Brother.”"
+      "en": "“You haven't changed much at all, Doctor. But if you've come all the way here, this must be about Brother.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0248",
@@ -1598,7 +1959,13 @@
       "sj": "",
       "se": "",
       "jp": "　馬は車から降りて私の前に立った。",
-      "en": "Ma gets out of the car and comes over to me."
+      "en": "Ma gets out of the car and comes over to me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0249",
@@ -1607,7 +1974,13 @@
       "sj": "",
       "se": "",
       "jp": "「ええ、彼の病状が思わしくないと聞いてお見舞いに来たのですが、どうもこの方に信用していただけなくて」",
-      "en": "“Yes. I heard his condition was poor and came to visit, but I cannot seem to convince this gentleman that I am telling the truth.”"
+      "en": "“Yes. I heard his condition was poor and came to visit, but I cannot seem to convince this gentleman that I am telling the truth.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0250",
@@ -1616,7 +1989,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は驚きの表情で硬直している警備の男を指さした。",
-      "en": "I point to the guard, who has frozen in astonishment."
+      "en": "I point to the guard, who has frozen in astonishment.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0251",
@@ -1625,7 +2004,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「はあ、そりゃあ、急に言ってもなかなか信用は出来ないでしょう」",
-      "en": "“Well, you can't blame him. A story like that, out of nowhere, is hard to believe.”"
+      "en": "“Well, you can't blame him. A story like that, out of nowhere, is hard to believe.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0252",
@@ -1634,7 +2019,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうですね。優秀な警備員です。しかし私としても他に方法がなかったのです」",
-      "en": "“Quite right. He is an excellent guard. I simply had no other means of getting in.”"
+      "en": "“Quite right. He is an excellent guard. I simply had no other means of getting in.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0253",
@@ -1643,7 +2034,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私は誘われるまま<tips=4>馬明</tips>の車に乗り込み、彼と共に<tips=41>グランドタワー</tips>に足を踏みいれた。",
-      "en": "At <tips=4>Ma Ming</tips>'s invitation, I climb into his car. Together we enter <tips=41>Grand Tower</tips>."
+      "en": "At <tips=4>Ma Ming</tips>'s invitation, I climb into his car. Together we enter <tips=41>Grand Tower</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "C1:0268",
@@ -1652,7 +2049,8 @@
       "sj": "",
       "se": "",
       "jp": "　エレベーターを乗り継いで最上層まで上がる。",
-      "en": "We change elevators along the way and ascend to the top floors."
+      "en": "We change elevators along the way and ascend to the top floors.",
+      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
     },
     {
       "id": "C1:0269",
@@ -1679,7 +2077,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いやあ、それにしてもよく訪ねて来てくださった。いつ以来ですか？　きっと<tips=81>龍頭</tips>も喜びますよ。是非会ってください」",
-      "en": "“Still, I'm glad you came. How long has it been? The <tips=81>Longtou</tips> will be delighted. You simply must see him.”"
+      "en": "“Still, I'm glad you came. How long has it been? The <tips=81>Longtou</tips> will be delighted. You simply must see him.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0272",
@@ -1688,7 +2092,13 @@
       "sj": "",
       "se": "",
       "jp": "　私の知っている顔よりすっかり老けた<tips=4>馬明</tips>は、興奮した声で言った。",
-      "en": "<tips=4>Ma Ming</tips> looks much older than the man I remember. His voice rises with excitement."
+      "en": "<tips=4>Ma Ming</tips> looks much older than the man I remember. His voice rises with excitement.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0273",
@@ -1697,7 +2107,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「しかし、私が通りかかって良かった。今日は自分の仕事が立て込んでいたので、本来ならば顔を出す予定ではなかったんです。たまたまこの薬酒を手に入れましてね。少しでも早く届けようと、仕事をほっぽりだして駆けつけたら……これも、巡り合わせというものなんでしょうなあ。しかし、こんな真っ昼間に訪ねてくるとは。昔は、あなたがやって来るのはいつも夜だった」",
-      "en": "“What luck that I happened by. I had no plans to stop here today—my own work is piling up. Then I happened to get hold of this medicinal liquor. I dropped everything and rushed over to deliver it as soon as I could, and there you were... I suppose that's fate for you. But coming in broad daylight! In the old days, you always arrived at night.”"
+      "en": "“What luck that I happened by. I had no plans to stop here today—my own work is piling up. Then I happened to get hold of this medicinal liquor. I dropped everything and rushed over to deliver it as soon as I could, and there you were... I suppose that's fate for you. But coming in broad daylight! In the old days, you always arrived at night.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0274",
@@ -1706,7 +2122,13 @@
       "sj": "",
       "se": "",
       "jp": "　喋るのは<tips=4>馬明</tips>にまかせ、思い出話をするつもりがない私は黙っていた。",
-      "en": "I leave the talking to <tips=4>Ma Ming</tips>. I have no desire to reminisce."
+      "en": "I leave the talking to <tips=4>Ma Ming</tips>. I have no desire to reminisce.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0275",
@@ -1715,7 +2137,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=3>クリス</tips>の居室の前にもガードマンらしきものが居た。<tips=4>馬明</tips>が<tips=3>クリス</tips>の状態を聞くと、朝に目が覚めてから音楽などを聴いて過ごしていると言う。",
-      "en": "Another guard stands outside <tips=3>Chris</tips>'s room. When <tips=4>Ma Ming</tips> asks about his condition, the man says <tips=3>Chris</tips> woke that morning and has been listening to music ever since."
+      "en": "Another guard stands outside <tips=3>Chris</tips>'s room. When <tips=4>Ma Ming</tips> asks about his condition, the man says <tips=3>Chris</tips> woke that morning and has been listening to music ever since.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0276",
@@ -1724,7 +2152,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「じゃあ、はいりましょう」",
-      "en": "“Then let's go in.”"
+      "en": "“Then let's go in.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0277",
@@ -1733,7 +2167,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>が陽気にノックをし、そして返事も待たずにドアを開けた。",
-      "en": "<tips=4>Ma Ming</tips> knocks cheerfully and opens the door without waiting for an answer."
+      "en": "<tips=4>Ma Ming</tips> knocks cheerfully and opens the door without waiting for an answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "C1:0285",
@@ -1742,7 +2182,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして私は彼との再会を果たしたのであった。",
-      "en": "And so I see him again."
+      "en": "And so I see him again.",
+      "bg": "assets/vn/backgrounds/bg-def7ddaad568.webp"
     },
     {
       "id": "C1:0286",
@@ -2372,7 +2813,8 @@
       "sj": "",
       "se": "",
       "jp": "「これで本当のお別れだ」",
-      "en": "“Now this is our true farewell.”"
+      "en": "“Now this is our true farewell.”",
+      "bg": "assets/vn/backgrounds/bg-ac3eb4995358.webp"
     },
     {
       "id": "C1:0379",
@@ -2561,7 +3003,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして私は部屋を出た。<tips=4>馬明</tips>が扉の前で、ビルの前で私を追い払おうとした警備の男と話し込んでいる。",
-      "en": "I leave the room. Outside the door, <tips=4>Ma Ming</tips> is speaking with the guard who tried to drive me away at the entrance."
+      "en": "I leave the room. Outside the door, <tips=4>Ma Ming</tips> is speaking with the guard who tried to drive me away at the entrance.",
+      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
     },
     {
       "id": "C1:0416",

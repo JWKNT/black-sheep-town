@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>には特定の人種、組織、国籍の者が集まって住む場所がいくつもあり、彼らはそれぞれのお国柄を思わせるものを軒先に飾ったりしている。そのため、うっかり路地一つ間違えると、全くの異世界に足を踏み入れてしまったかのような感覚を抱くことになる。",
-      "en": "<tips=9>Y District</tips> contains any number of little enclaves where people of one race, organization, or nationality live together and hang reminders of home outside their doors. Turn down the wrong alley and, without warning, it can feel as though you have stepped into another country."
+      "en": "<tips=9>Y District</tips> contains any number of little enclaves where people of one race, organization, or nationality live together and hang reminders of home outside their doors. Turn down the wrong alley and, without warning, it can feel as though you have stepped into another country.",
+      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
     },
     {
       "id": "X18:0011",
@@ -122,7 +123,14 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ここだよ」",
-      "en": "“This is it.”"
+      "en": "“This is it.”",
+      "bg": "assets/vn/backgrounds/bg-3104f02cffef.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0028",
@@ -131,7 +139,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>がそう言って立ち止まったのは、一つの門の前だった。門の左右には高くて長い塀が続いてる。この辺りは住んでいる住民層のわりにはごちゃごちゃとした民家が多く建ち並んでいたが、抜きんでて立派な門構えの屋敷であった。",
-      "en": "<tips=1>Ryou</tips> stops before a gate, with high walls running away on both sides. For all the status of the people who live here, the neighborhood is mostly a jumble of ordinary homes. This mansion's imposing entrance stands apart."
+      "en": "<tips=1>Ryou</tips> stops before a gate, with high walls running away on both sides. For all the status of the people who live here, the neighborhood is mostly a jumble of ordinary homes. This mansion's imposing entrance stands apart.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0029",
@@ -140,7 +154,13 @@
       "sj": "",
       "se": "",
       "jp": "　表札はなく、",
-      "en": "There is no nameplate."
+      "en": "There is no nameplate.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0030",
@@ -149,7 +169,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ここって……」",
-      "en": "“This place...?”"
+      "en": "“This place...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0031",
@@ -158,7 +188,17 @@
       "sj": "",
       "se": "",
       "jp": "　冗談でも言ってるのかと<tips=10>道夫</tips>は訝しんだが、<tips=1>亮</tips>はすまし顔だ。どうやら本気でこの豪邸が今日の目的地らしい。",
-      "en": "<tips=10>Michio</tips> wonders if this is a joke. <tips=1>Ryou</tips>'s face remains perfectly composed. Apparently the mansion really is where they are going."
+      "en": "<tips=10>Michio</tips> wonders if this is a joke. <tips=1>Ryou</tips>'s face remains perfectly composed. Apparently the mansion really is where they are going.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0032",
@@ -167,7 +207,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は傘を折りたたんだ。それによって、<tips=10>道夫</tips>も、いつの間にかほとんど雨が止んでいることに気がついた。",
-      "en": "<tips=1>Ryou</tips> folds his umbrella. Only then does <tips=10>Michio</tips> notice that the rain has almost stopped."
+      "en": "<tips=1>Ryou</tips> folds his umbrella. Only then does <tips=10>Michio</tips> notice that the rain has almost stopped.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0033",
@@ -176,7 +226,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ここが僕の本当の母さんの家だ」",
-      "en": "“This is my real mother's house.”"
+      "en": "“This is my real mother's house.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0034",
@@ -185,7 +245,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はさらりと言った。",
-      "en": "<tips=1>Ryou</tips> says it as casually as anything."
+      "en": "<tips=1>Ryou</tips> says it as casually as anything.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-91885443732c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0041",
@@ -212,7 +282,8 @@
       "sj": "",
       "se": "",
       "jp": "　当時<tips=10>道夫</tips>と<tips=1>亮</tips>のグループはこの地区の最大勢力となっており、二人はこのあたりの不良少年では押しも押されもせぬ存在となっていた。",
-      "en": "By then, <tips=10>Michio</tips> and <tips=1>Ryou</tips>'s group is the largest force in the district. Among the local delinquents, the two boys are unchallenged."
+      "en": "By then, <tips=10>Michio</tips> and <tips=1>Ryou</tips>'s group is the largest force in the district. Among the local delinquents, the two boys are unchallenged.",
+      "bg": "assets/vn/backgrounds/bg-1fd91cc75eb3.webp"
     },
     {
       "id": "X18:0050",
@@ -266,7 +337,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「一応伝えておきますが、<tips=1>リョウ</tips>さんから返事が来るかどうかは私にもちょっとわからなくて……」",
-      "en": "“I'll tell him, but... I don't know whether Mr. <tips=1>Ryou</tips> will answer me either.”"
+      "en": "“I'll tell him, but... I don't know whether Mr. <tips=1>Ryou</tips> will answer me either.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0056",
@@ -275,7 +352,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>がそう言葉を濁したので、何かよほど大変な事情があるのだろうとなかば諦めていた。",
-      "en": "The way <tips=55>Matsuko</tips> hedges makes Michio suspect something serious has happened. He half resigns himself to waiting."
+      "en": "The way <tips=55>Matsuko</tips> hedges makes Michio suspect something serious has happened. He half resigns himself to waiting.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0068",
@@ -284,7 +367,8 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、その三日後に、<tips=1>亮</tips>と出会うことが出来た。いつもたまり場となっている喫茶店で<tips=10>道夫</tips>が仲間と喋っていると、ふらりと<tips=1>亮</tips>本人が現れたのである。",
-      "en": "Three days later, however, <tips=1>Ryou</tips> appears. <tips=10>Michio</tips> is talking with friends at their usual café when <tips=1>Ryou</tips> strolls in."
+      "en": "Three days later, however, <tips=1>Ryou</tips> appears. <tips=10>Michio</tips> is talking with friends at their usual café when <tips=1>Ryou</tips> strolls in.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "X18:0069",
@@ -293,7 +377,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=10>道夫</tips>、時間あるか？」",
-      "en": "“Got some time, <tips=10>Michio</tips>?”"
+      "en": "“Got some time, <tips=10>Michio</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0070",
@@ -302,7 +392,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は、久しぶりに会った仲間たちにはろくに挨拶もせず、まっすぐ<tips=10>道夫</tips>だけに向かってそう言った。",
-      "en": "<tips=1>Ryou</tips> barely greets the friends he has not seen in weeks. He walks straight to <tips=10>Michio</tips> and speaks only to him."
+      "en": "<tips=1>Ryou</tips> barely greets the friends he has not seen in weeks. He walks straight to <tips=10>Michio</tips> and speaks only to him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0071",
@@ -311,7 +407,13 @@
       "sj": "",
       "se": "",
       "jp": "　これはただごとではないと直感した<tips=10>道夫</tips>は、うんと頷いた。",
-      "en": "<tips=10>Michio</tips> knows at once that this is serious. He nods."
+      "en": "<tips=10>Michio</tips> knows at once that this is serious. He nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0072",
@@ -320,7 +422,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして実際、歩きはじめるとすぐに<tips=1>亮</tips>は重大な告白をした。",
-      "en": "Sure enough, they have barely started walking when <tips=1>Ryou</tips> makes a startling confession."
+      "en": "Sure enough, they have barely started walking when <tips=1>Ryou</tips> makes a startling confession.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0073",
@@ -329,7 +437,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「世間では両親ってことになってるけど、本当はあの定食屋の夫婦は親じゃないんだ。彼らは、僕の母親の親戚なんだ」",
-      "en": "“Everyone thinks the couple at the diner are my parents. They aren't. They're relatives on my mother's side.”"
+      "en": "“Everyone thinks the couple at the diner are my parents. They aren't. They're relatives on my mother's side.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0074",
@@ -338,7 +452,13 @@
       "sj": "",
       "se": "",
       "jp": "　水色の傘を肩に担ぐようにして前を歩く<tips=1>亮</tips>は、まるで今日の天気の話でもするような平坦な口調で言った。",
-      "en": "Walking ahead with the pale-blue umbrella resting over his shoulder, <tips=1>Ryou</tips> might be discussing the weather."
+      "en": "Walking ahead with the pale-blue umbrella resting over his shoulder, <tips=1>Ryou</tips> might be discussing the weather.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0075",
@@ -347,7 +467,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「みんなが知ってる菅原っていう名字も本当の名前じゃない。<ruby=ツェー>謝</ruby>っていうんだ。感謝の謝って書く」",
-      "en": "“Sugawara isn't my real name either. It's <ruby=ツェー>Xie</ruby>—written with the same sha as kansha, ‘gratitude.’”"
+      "en": "“Sugawara isn't my real name either. It's <ruby=ツェー>Xie</ruby>—written with the same sha as kansha, ‘gratitude.’”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0076",
@@ -356,7 +482,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「へえそうか。じゃあ中国人なのか？」",
-      "en": "“Huh. So you're Chinese?”"
+      "en": "“Huh. So you're Chinese?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0077",
@@ -365,7 +501,17 @@
       "sj": "",
       "se": "",
       "jp": "　聞き返す<tips=10>道夫</tips>もまた驚きの態度は見せない。",
-      "en": "<tips=10>Michio</tips> shows no surprise either."
+      "en": "<tips=10>Michio</tips> shows no surprise either.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0078",
@@ -374,7 +520,17 @@
       "sj": "",
       "se": "",
       "jp": "　これくらいの隠しごとは、この街ではよくあることで、<tips=10>道夫</tips>もこういう告白には驚かない。そもそも彼は、仲間の打ち明け話には驚きを見せない。仲間の少女が妊娠したときも、仲間が人を殺したことがあると泣きながら告白したときも、皆が顔色を変えるなかで普段通りのにこやかな笑顔で「そうか」と一言口にするだけだった。",
-      "en": "Secrets like this are common in the City, and <tips=10>Michio</tips> is difficult to shock with a confession. In fact, he never lets surprise show when a friend confides in him. A girl in the group once became pregnant. A boy once confessed through tears that he had killed someone. Everyone else went pale. Michio only gave his usual easy smile and said, “I see.”"
+      "en": "Secrets like this are common in the City, and <tips=10>Michio</tips> is difficult to shock with a confession. In fact, he never lets surprise show when a friend confides in him. A girl in the group once became pregnant. A boy once confessed through tears that he had killed someone. Everyone else went pale. Michio only gave his usual easy smile and said, “I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0079",
@@ -383,7 +539,17 @@
       "sj": "",
       "se": "",
       "jp": "　もちろん何も感じないわけじゃない。今だって、<tips=1>亮</tips>がさりげない口ぶりとは裏腹に、相当の覚悟を持って自分に真実を語ってくれたことを理解している。そして今自分を連れて行こうとしている場所にも深刻な意味があるのだろうと察している。だが、そう言った細々とした思いは感情のひだの内側に隠して、人には見せずに振る舞うのが<tips=10>見土道夫</tips>だった。",
-      "en": "That does not mean he feels nothing. Even now, <tips=1>Ryou</tips>'s casual delivery cannot hide how much resolve it took to tell him the truth. Michio understands that wherever Ryou is taking him must matter terribly. But <tips=10>Michio Mido</tips> folds every subtle feeling away where no one else can see."
+      "en": "That does not mean he feels nothing. Even now, <tips=1>Ryou</tips>'s casual delivery cannot hide how much resolve it took to tell him the truth. Michio understands that wherever Ryou is taking him must matter terribly. But <tips=10>Michio Mido</tips> folds every subtle feeling away where no one else can see.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0080",
@@ -392,7 +558,17 @@
       "sj": "",
       "se": "",
       "jp": "　これは彼の長所というべきで、彼に何か秘密を告白したり、相談するものは、みな彼の変わらない態度に安心感を得るのだった。",
-      "en": "It is one of his gifts. People who bring him secrets or ask his advice find comfort in the fact that his manner never changes."
+      "en": "It is one of his gifts. People who bring him secrets or ask his advice find comfort in the fact that his manner never changes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0081",
@@ -401,7 +577,17 @@
       "sj": "",
       "se": "",
       "jp": "　ほんの数年前は子供っぽく軽さが目に付くところもあったが、この頃は随分と老成し、重みのある人物になっている。リーダーとして振る舞ううち、度量の広さのようなものが身についてきたのだろう。内面だけでなく、身体的にも身長が伸びて、もう大人と並んでも見劣りしなくなっている。",
-      "en": "Only a few years ago, his childish flippancy was hard to miss. Now he carries real weight for someone so young. Perhaps leading others has taught him breadth. The change is physical too: he has grown tall enough to stand beside an adult without looking small."
+      "en": "Only a few years ago, his childish flippancy was hard to miss. Now he carries real weight for someone so young. Perhaps leading others has taught him breadth. The change is physical too: he has grown tall enough to stand beside an adult without looking small.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0082",
@@ -410,7 +596,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「半分ね。父親だけ中国人なんだ。母親は日本人で……それで、今日はその母親に会って貰おうと思ってさ」",
-      "en": "“Half. My father's Chinese. My mother's Japanese... and today I want you to meet her.”"
+      "en": "“Half. My father's Chinese. My mother's Japanese... and today I want you to meet her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0083",
@@ -419,7 +615,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「へえ、それは嬉しいなあ。でも、それならもっときれいな服着て来れば良かったよ。朝作業したまんま来たから、適当な服を着てる」",
-      "en": "“Hey, I'm honored. Wish I'd worn something nicer, though. I came straight from work this morning and just threw on whatever.”"
+      "en": "“Hey, I'm honored. Wish I'd worn something nicer, though. I came straight from work this morning and just threw on whatever.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0084",
@@ -428,7 +634,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はそう言って苦い顔をする。",
-      "en": "<tips=10>Michio</tips> grimaces."
+      "en": "<tips=10>Michio</tips> grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0085",
@@ -437,7 +653,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「なんだっていいさ。どうせわかりゃしないんだから」",
-      "en": "“Wear anything. She won't know the difference.”"
+      "en": "“Wear anything. She won't know the difference.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0086",
@@ -446,7 +672,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そりゃ、おれなんかが何着てたって大差ないだろうけどさ。あんまり汚い格好だと、こんなやつが友人なのかってお前が恥をかくんだぞ？」",
-      "en": "“Sure, I look like me no matter what I wear. But if I show up filthy, you're the one who'll be embarrassed to call this guy your friend.”"
+      "en": "“Sure, I look like me no matter what I wear. But if I show up filthy, you're the one who'll be embarrassed to call this guy your friend.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0087",
@@ -455,7 +691,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はわざとおどけた態度で言う。",
-      "en": "<tips=10>Michio</tips> puts on the clowning tone deliberately."
+      "en": "<tips=10>Michio</tips> puts on the clowning tone deliberately.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0088",
@@ -464,7 +710,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は肩をすくめて、",
-      "en": "<tips=1>Ryou</tips> shrugs."
+      "en": "<tips=1>Ryou</tips> shrugs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0089",
@@ -473,7 +729,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そうじゃない。うちの母はね、目の前の誰がどんな服を着てたって理解出来るような状況じゃないってことさ」",
-      "en": "“That's not what I meant. My mother isn't in any state to understand what the person in front of her is wearing.”"
+      "en": "“That's not what I meant. My mother isn't in any state to understand what the person in front of her is wearing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0090",
@@ -482,7 +748,17 @@
       "sj": "",
       "se": "",
       "jp": "　と、ほんの少しだけ笑って見せた。",
-      "en": "For the briefest instant, he manages a smile."
+      "en": "For the briefest instant, he manages a smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0097",
@@ -491,7 +767,8 @@
       "sj": "",
       "se": "",
       "jp": "　さて、そうして何を見せられるのかと戦々恐々としながらついてきた<tips=10>道夫</tips>が案内されたのが<tips=69>義勝</tips>の本拠地で、そして到着したのがそのあたりでもひときわ大きな豪邸なのである。<tips=10>道夫</tips>でなくともこれはどういうことかと心配になるだろう。",
-      "en": "So <tips=10>Michio</tips>, following with some dread of what he is about to be shown, finds himself in the old heartland of <tips=69>Yi Shen</tips>, before one of the grandest mansions in the neighborhood. Anyone in <tips=10>Michio</tips>'s place would be uneasy."
+      "en": "So <tips=10>Michio</tips>, following with some dread of what he is about to be shown, finds himself in the old heartland of <tips=69>Yi Shen</tips>, before one of the grandest mansions in the neighborhood. Anyone in <tips=10>Michio</tips>'s place would be uneasy.",
+      "bg": "assets/vn/backgrounds/bg-3104f02cffef.webp"
     },
     {
       "id": "X18:0098",
@@ -644,7 +921,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「何ニヤニヤしているんだ？」",
-      "en": "“What are you grinning at?”"
+      "en": "“What are you grinning at?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0116",
@@ -653,7 +936,13 @@
       "sj": "",
       "se": "",
       "jp": "　ドアの前までやって来た<tips=1>亮</tips>は、<tips=10>道夫</tips>の顔を見て怪訝そうに首を捻る。",
-      "en": "At the front door, <tips=1>Ryou</tips> catches sight of <tips=10>Michio</tips>'s face and tilts his head suspiciously."
+      "en": "At the front door, <tips=1>Ryou</tips> catches sight of <tips=10>Michio</tips>'s face and tilts his head suspiciously.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0117",
@@ -662,7 +951,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「大事な肉親を紹介してくれるなんて光栄だな。ということは、つまりおれも肉親同様の存在だって認めてくれたってことなんだよな？」",
-      "en": "“I'm honored you'd introduce me to someone this important. Which means you've finally admitted I'm practically family too, right?”"
+      "en": "“I'm honored you'd introduce me to someone this important. Which means you've finally admitted I'm practically family too, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0118",
@@ -671,7 +970,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「気持ち悪いことを言うなあ」",
-      "en": "“Don't say disgusting things.”"
+      "en": "“Don't say disgusting things.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0119",
@@ -680,7 +989,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は苦い顔をして<tips=10>道夫</tips>から目をそらしドアの方を振り返ると、",
-      "en": "<tips=1>Ryou</tips> grimaces, looks away from <tips=10>Michio</tips>, and turns back to the door."
+      "en": "<tips=1>Ryou</tips> grimaces, looks away from <tips=10>Michio</tips>, and turns back to the door.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0120",
@@ -689,7 +1008,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなの、とっくに認めてるよ」",
-      "en": "“I admitted that ages ago.”"
+      "en": "“I admitted that ages ago.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0121",
@@ -698,7 +1027,17 @@
       "sj": "",
       "se": "",
       "jp": "　と小さい声で呟いた。",
-      "en": "The words are almost too quiet to hear."
+      "en": "The words are almost too quiet to hear.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0128",
@@ -806,7 +1145,8 @@
       "sj": "",
       "se": "",
       "jp": "　広い部屋に、女性の寝室らしく化粧台などが置かれている。家具はいずれも古びてはいたがアンティークというわけでもない。どこにでもある普通の家具なのだが、使い古されているわりには傷や汚れなどが少なく、使用者が物を大事にする性格であることを教えてくれた。",
-      "en": "A dressing table and other furnishings mark the spacious room as a woman's bedroom. The furniture is old but not antique—ordinary pieces one might find anywhere. Yet despite years of use, there are remarkably few scratches or stains. Their owner plainly took care of her things."
+      "en": "A dressing table and other furnishings mark the spacious room as a woman's bedroom. The furniture is old but not antique—ordinary pieces one might find anywhere. Yet despite years of use, there are remarkably few scratches or stains. Their owner plainly took care of her things.",
+      "bg": "assets/vn/backgrounds/bg-ea4e739a8ace.webp"
     },
     {
       "id": "X18:0146",
@@ -851,7 +1191,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「母さん、こいつが僕の遊び仲間の<tips=10>見土道夫</tips>だ」",
-      "en": "“Mother, this is <tips=10>Michio Mido</tips>. He's the friend I run around with.”"
+      "en": "“Mother, this is <tips=10>Michio Mido</tips>. He's the friend I run around with.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0151",
@@ -860,7 +1206,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「どうもはじめまして、<tips=10>見土</tips>です」",
-      "en": "“Nice to meet you. I'm <tips=10>Mido</tips>.”"
+      "en": "“Nice to meet you. I'm <tips=10>Mido</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0152",
@@ -869,7 +1225,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は、薄々この状況を想像してはいた。",
-      "en": "<tips=10>Michio</tips> had half expected something like this."
+      "en": "<tips=10>Michio</tips> had half expected something like this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0153",
@@ -878,7 +1244,17 @@
       "sj": "",
       "se": "",
       "jp": "　友人の発症した親と会う、という経験は<tips=10>道夫</tips>もこれまでに何度かしている。もちろんまったく驚かないわけではないが、それを態度に出さない程度の自制心が彼にはある。",
-      "en": "This is not the first time he has met a friend's parent after onset. He is not beyond surprise, but <tips=10>Michio</tips> has enough control not to show it."
+      "en": "This is not the first time he has met a friend's parent after onset. He is not beyond surprise, but <tips=10>Michio</tips> has enough control not to show it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0154",
@@ -887,7 +1263,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「随分綺麗なお母さんだね。お前と少し似ている」",
-      "en": "“Your mother's beautiful. You look a little like her.”"
+      "en": "“Your mother's beautiful. You look a little like her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0155",
@@ -896,7 +1282,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は驚くどころか、微笑さえ浮かべて言った。",
-      "en": "Rather than flinch, <tips=10>Michio</tips> smiles as he says it."
+      "en": "Rather than flinch, <tips=10>Michio</tips> smiles as he says it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0156",
@@ -905,7 +1301,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=56>和美</tips>は唇を動かしてぶつぶつと口の中でなにかをつぶやいている。道夫にも<tips=1>亮</tips>にも見えない誰かと会話をしているのだろう。<tips=10>道夫</tips>はそういう人間をよく見てきているし、幼い頃は一緒に暮らしてもいた。",
-      "en": "<tips=56>Kazumi</tips>'s lips keep moving in a low murmur. She must be speaking with someone neither Michio nor <tips=1>Ryou</tips> can see. <tips=10>Michio</tips> has known many people like her. When he was small, he lived with one."
+      "en": "<tips=56>Kazumi</tips>'s lips keep moving in a low murmur. She must be speaking with someone neither Michio nor <tips=1>Ryou</tips> can see. <tips=10>Michio</tips> has known many people like her. When he was small, he lived with one.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0157",
@@ -914,7 +1320,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「駄目だな。今はまるきり言葉が入らないみたいだ」",
-      "en": "“No good. Nothing's getting through to her right now.”"
+      "en": "“No good. Nothing's getting through to her right now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0158",
@@ -923,7 +1339,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は溜息をつく。",
-      "en": "<tips=1>Ryou</tips> sighs."
+      "en": "<tips=1>Ryou</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0159",
@@ -932,7 +1358,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「薬は飲んでいるのか？」",
-      "en": "“Is she taking medicine?”"
+      "en": "“Is she taking medicine?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6d5f9743c887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0160",
@@ -941,7 +1377,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「医者が処方してくれたやつを飲ませてる。たまにこっちの世界に帰って来るけど、一日のほとんどはこうやってあっちの世界に行ったきりだ。これでも少しマシになったんだ。あう薬が見つかるまでは、暴れて仕方がなかった。……そこに座りなよ」",
-      "en": "“What the doctor prescribed. Sometimes she comes back to this world, but most of the day she's somewhere else. Believe it or not, this is better. Before we found a drug that suited her, she was violent all the time. ...Sit down.”"
+      "en": "“What the doctor prescribed. Sometimes she comes back to this world, but most of the day she's somewhere else. Believe it or not, this is better. Before we found a drug that suited her, she was violent all the time. ...Sit down.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6d5f9743c887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0161",
@@ -950,7 +1396,17 @@
       "sj": "",
       "se": "",
       "jp": "　言われたとおり部屋の中央の小さな丸いテーブルを囲む椅子の一つに座ると、<tips=1>亮</tips>は冷蔵庫からコーラの缶を二本取り出してテーブルの上に置き、<tips=10>道夫</tips>の正面に座った。",
-      "en": "<tips=1>Ryou</tips> tells him to sit. <tips=10>Michio</tips> takes a chair at the little round table in the middle of the room while Ryou pulls two cans of cola from the refrigerator, sets them down, and sits across from him."
+      "en": "<tips=1>Ryou</tips> tells him to sit. <tips=10>Michio</tips> takes a chair at the little round table in the middle of the room while Ryou pulls two cans of cola from the refrigerator, sets them down, and sits across from him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6d5f9743c887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0162",
@@ -959,7 +1415,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「たすかる。喉が渇いていたんだ」",
-      "en": "“Thanks. I was getting thirsty.”"
+      "en": "“Thanks. I was getting thirsty.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0163",
@@ -968,7 +1434,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はさっそくその缶に手を伸ばす。",
-      "en": "<tips=10>Michio</tips> reaches for a can at once."
+      "en": "<tips=10>Michio</tips> reaches for a can at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0164",
@@ -977,7 +1453,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「発症したのは大分前なんだけれど、二ヶ月前にこの状態になっちゃってね。ずっと拘束したままなんだ。それでいろいろバタバタしていて、今は僕もここに住んでいる。連絡も返さないで悪かったね」",
-      "en": "“She manifested years ago, but she became like this two months back. She's been restrained ever since. Everything's been chaos, so I'm living here for now. Sorry I didn't answer you.”"
+      "en": "“She manifested years ago, but she became like this two months back. She's been restrained ever since. Everything's been chaos, so I'm living here for now. Sorry I didn't answer you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0165",
@@ -986,7 +1472,17 @@
       "sj": "",
       "se": "",
       "jp": "　まだ二ヶ月ってことは、状況には慣れていないんだろうな――<tips=10>道夫</tips>はそう思いつつ、",
-      "en": "Only two months. He cannot possibly be used to it yet. <tips=10>Michio</tips> thinks this, then says,"
+      "en": "Only two months. He cannot possibly be used to it yet. <tips=10>Michio</tips> thinks this, then says,",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0166",
@@ -995,7 +1491,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いいさ。仕方ない。しかし、お前がこんないいところのお坊ちゃんだったとは」",
-      "en": "“Forget it. Couldn't be helped. Still, I never knew you were some rich family's young master.”"
+      "en": "“Forget it. Couldn't be helped. Still, I never knew you were some rich family's young master.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0167",
@@ -1004,7 +1510,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「いいところってのとは、ちょっと違う。お前も想像はついているだろうけれど」",
-      "en": "“‘Rich family’ isn't quite right. Though I imagine you've guessed that already.”"
+      "en": "“‘Rich family’ isn't quite right. Though I imagine you've guessed that already.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0168",
@@ -1013,7 +1529,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「少しはね」",
-      "en": "“I've got an idea.”"
+      "en": "“I've got an idea.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0169",
@@ -1022,7 +1548,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=7>ＹＳ</tips><tips=81>龍頭</tips><tips=3>クリス・ツェー</tips>。それが僕の父親の名だ」",
-      "en": "“<tips=7>YS</tips> <tips=81>Longtou</tips> <tips=3>Chris Xie</tips>. That's my father's name.”"
+      "en": "“<tips=7>YS</tips> <tips=81>Longtou</tips> <tips=3>Chris Xie</tips>. That's my father's name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0170",
@@ -1031,7 +1567,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はうわごとを呟く母親の方を見ながらそう言った。",
-      "en": "<tips=1>Ryou</tips> says it while watching his mother mutter to herself."
+      "en": "<tips=1>Ryou</tips> says it while watching his mother mutter to herself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0171",
@@ -1040,7 +1586,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうか」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0172",
@@ -1049,7 +1605,17 @@
       "sj": "",
       "se": "",
       "jp": "　返事をしてから、<tips=10>道夫</tips>は喉を鳴らしてコーラを飲む。",
-      "en": "Then <tips=10>Michio</tips> takes a loud swallow of cola."
+      "en": "Then <tips=10>Michio</tips> takes a loud swallow of cola.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0173",
@@ -1058,7 +1624,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それだけか？　もっと驚かれると思ってたんだけど」",
-      "en": "“That's all? I thought you'd be a little more surprised.”"
+      "en": "“That's all? I thought you'd be a little more surprised.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0174",
@@ -1067,7 +1643,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はあきれたように<tips=10>道夫</tips>を見る。",
-      "en": "<tips=1>Ryou</tips> gives <tips=10>Michio</tips> an exasperated look."
+      "en": "<tips=1>Ryou</tips> gives <tips=10>Michio</tips> an exasperated look.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0175",
@@ -1076,7 +1662,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「まあね。そりゃまったくの予想外だけれど、言われて納得だよ。お前はちょっと違うもんな」",
-      "en": "“Oh, I never would've guessed. But now that you say it, it makes sense. You are a little different.”"
+      "en": "“Oh, I never would've guessed. But now that you say it, it makes sense. You are a little different.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0176",
@@ -1085,7 +1681,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「違うって、ロクな意味じゃなさそうだな」",
-      "en": "“Somehow I doubt ‘different’ is a compliment.”"
+      "en": "“Somehow I doubt ‘different’ is a compliment.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0177",
@@ -1094,7 +1700,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ロクでもない意味もあるが、いい意味もある。……でも、<tips=7>ＹＳ</tips>の現役の幹部の家族って<tips=41>グランドタワー</tips>に住んでると思ってたよ。だから、ここに連れて来られたとき、親戚か何かかなって想像してた。警備もいないしさ。それとも、お前の母さんは正式な妻じゃないってことか？」",
-      "en": "“Some of it isn't. Some of it is. ...But I thought the families of active <tips=7>YS</tips> executives lived in <tips=41>Grand Tower</tips>. When you brought me here, I figured you must be related to one of them. There aren't even guards. Or is your mother not his legal wife?”"
+      "en": "“Some of it isn't. Some of it is. ...But I thought the families of active <tips=7>YS</tips> executives lived in <tips=41>Grand Tower</tips>. When you brought me here, I figured you must be related to one of them. There aren't even guards. Or is your mother not his legal wife?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0178",
@@ -1103,7 +1719,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>の遠慮のない質問に<tips=1>亮</tips>は苦笑しつつ、",
-      "en": "At <tips=10>Michio</tips>'s complete lack of tact, <tips=1>Ryou</tips> gives a rueful smile."
+      "en": "At <tips=10>Michio</tips>'s complete lack of tact, <tips=1>Ryou</tips> gives a rueful smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0179",
@@ -1112,7 +1738,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「一応この人が<tips=3>クリス・ツェー</tips>の正妻だよ。<tips=41>グランドタワー</tips>に住んでいないのはね、親戚の爺さんたちがどうしてもそうしろって言うからさ」",
-      "en": "“Technically, she is <tips=3>Chris Xie</tips>'s legal wife. She isn't in <tips=41>Grand Tower</tips> because the old men in the family absolutely refuse to allow it.”"
+      "en": "“Technically, she is <tips=3>Chris Xie</tips>'s legal wife. She isn't in <tips=41>Grand Tower</tips> because the old men in the family absolutely refuse to allow it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0180",
@@ -1121,7 +1757,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「どうして？」",
-      "en": "“Why?”"
+      "en": "“Why?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0181",
@@ -1130,7 +1776,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=17>タイプB</tips>はうつるって迷信を信じてる。それに、母さんが日本人なのもあるかな。<tips=41>グランドタワー</tips>に住んで他のメンバーと接触したり、<tips=81>龍頭</tips>の日本人妻として勢力を持つのを恐れてるのかもしれない。……僕があんな街中の定食屋で暮らしているのも爺さんたちの要望だろうよ。<tips=17>タイプB</tips>がうつらないようにってのと、あと、半分日本人だってことでね。<tips=69>義勝</tips>はもともと古い組織で、年寄りの力が強いから<tips=3>クリス・ツェー</tips>もなかなか逆らえない。<tips=81>龍頭</tips>さまだなんて言われて普段偉そうにしてるけど情けない話さ」",
-      "en": "“They believe the superstition that <tips=17>Type B</tips> is contagious. Her being Japanese probably doesn't help. Maybe they're afraid that if she lived in <tips=41>Grand Tower</tips> and mixed with the others, she'd gain influence as the <tips=81>Longtou</tips>'s Japanese wife. ...I imagine those old men are also why I live over a diner in the middle of the City: partly so I won't catch <tips=17>Type B</tips>, partly because I'm half Japanese. <tips=69>Yi Shen</tips> is an old organization, and its elders still have teeth. Even <tips=3>Chris Xie</tips> can't easily go against them. Everyone calls him Lord <tips=81>Longtou</tips>, and he struts around like a great man, but it's pathetic.”"
+      "en": "“They believe the superstition that <tips=17>Type B</tips> is contagious. Her being Japanese probably doesn't help. Maybe they're afraid that if she lived in <tips=41>Grand Tower</tips> and mixed with the others, she'd gain influence as the <tips=81>Longtou</tips>'s Japanese wife. ...I imagine those old men are also why I live over a diner in the middle of the City: partly so I won't catch <tips=17>Type B</tips>, partly because I'm half Japanese. <tips=69>Yi Shen</tips> is an old organization, and its elders still have teeth. Even <tips=3>Chris Xie</tips> can't easily go against them. Everyone calls him Lord <tips=81>Longtou</tips>, and he struts around like a great man, but it's pathetic.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0182",
@@ -1139,7 +1795,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は苦笑をする。<tips=10>道夫</tips>は黙ってコーラの缶を咥えている。",
-      "en": "<tips=1>Ryou</tips> gives a bitter smile. <tips=10>Michio</tips> keeps the cola can to his lips and says nothing."
+      "en": "<tips=1>Ryou</tips> gives a bitter smile. <tips=10>Michio</tips> keeps the cola can to his lips and says nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0183",
@@ -1148,7 +1814,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まあ、僕にとっては有り難いことだけれどね。<tips=41>グランドタワー</tips>で暮らすだなんて想像したくもない。あんなバベルの塔みたいな建物に住んで、毎日毎日坊っちゃん坊っちゃんと言われてごらんよ。頭がおかしくなるに決まってる」",
-      "en": "“Personally, I'm grateful. I don't even want to imagine living in <tips=41>Grand Tower</tips>. Live in that Tower of Babel and have people calling you ‘young master’ morning, noon, and night. You'd go mad.”"
+      "en": "“Personally, I'm grateful. I don't even want to imagine living in <tips=41>Grand Tower</tips>. Live in that Tower of Babel and have people calling you ‘young master’ morning, noon, and night. You'd go mad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0184",
@@ -1157,7 +1833,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は溜息をつく。",
-      "en": "<tips=1>Ryou</tips> sighs."
+      "en": "<tips=1>Ryou</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0185",
@@ -1166,7 +1852,17 @@
       "sj": "",
       "se": "",
       "jp": "　この説明で、<tips=10>道夫</tips>はこの屋敷にボディーガードらしきものがいないことの理由がわかったような気がした。",
-      "en": "The explanation seems to tell <tips=10>Michio</tips> why the mansion has no bodyguards."
+      "en": "The explanation seems to tell <tips=10>Michio</tips> why the mansion has no bodyguards.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0186",
@@ -1175,7 +1871,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「年寄りってのは下らない迷信を信じるものさ。でも、<tips=81>龍頭</tips>の息子なのに、まったく組織と無関係なんだな」",
-      "en": "“Old people love stupid superstitions. Still, you're the <tips=81>Longtou</tips>'s son, and you have nothing to do with the organization.”"
+      "en": "“Old people love stupid superstitions. Still, you're the <tips=81>Longtou</tips>'s son, and you have nothing to do with the organization.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0187",
@@ -1184,7 +1890,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「無関係ってわけでもないよ。定期的にね、会合とかに連れて行かれて、幹部と挨拶したり、その子供らとつき合ったりもしてる。いわば定食屋の息子との二重生活だよ。馬鹿馬鹿しい」",
-      "en": "“Not nothing. Every so often they drag me to a meeting to greet the executives and socialize with their children. Call it a double life: heir to YS and son of a diner. It's ridiculous.”"
+      "en": "“Not nothing. Every so often they drag me to a meeting to greet the executives and socialize with their children. Call it a double life: heir to YS and son of a diner. It's ridiculous.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0188",
@@ -1193,7 +1909,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は顔を顰めて言うと、",
-      "en": "<tips=1>Ryou</tips> grimaces."
+      "en": "<tips=1>Ryou</tips> grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0189",
@@ -1202,7 +1928,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まあ、身の上話はこんなものかな。話が長くなったが、今日<tips=10>道夫</tips>に来て貰ったのは、こんな、自分のクソみたいな境遇を話すのが目的ってわけじゃないんだ」",
-      "en": "“Well, that's enough of my life story. It took long enough, but I didn't bring <tips=10>Michio</tips> here just to complain about my shitty circumstances.”"
+      "en": "“Well, that's enough of my life story. It took long enough, but I didn't bring <tips=10>Michio</tips> here just to complain about my shitty circumstances.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0190",
@@ -1211,7 +1947,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「じゃあなにが本題なんだい？」",
-      "en": "“Then what's the real reason?”"
+      "en": "“Then what's the real reason?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0191",
@@ -1220,7 +1966,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は終始イライラとしている<tips=1>亮</tips>に苦笑しながら問い返す。",
-      "en": "<tips=10>Michio</tips> asks with a rueful smile. <tips=1>Ryou</tips> has been irritable from beginning to end."
+      "en": "<tips=10>Michio</tips> asks with a rueful smile. <tips=1>Ryou</tips> has been irritable from beginning to end.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0192",
@@ -1229,7 +1985,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それは……」",
-      "en": "“It's...”"
+      "en": "“It's...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0193",
@@ -1238,7 +2004,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は珍しく口ごもり、人に会うたび聰明そうだと言われる機敏に動く目で<tips=10>道夫</tips>の顔をじっと見つめてから、",
-      "en": "For once, <tips=1>Ryou</tips> falters. He studies <tips=10>Michio</tips>'s face with those quick eyes that make everyone remark on how intelligent he looks."
+      "en": "For once, <tips=1>Ryou</tips> falters. He studies <tips=10>Michio</tips>'s face with those quick eyes that make everyone remark on how intelligent he looks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0194",
@@ -1247,7 +2023,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=10>道夫</tips>に訊きたいことがあるんだよ」",
-      "en": "“There's something I want to ask <tips=10>Michio</tips>.”"
+      "en": "“There's something I want to ask <tips=10>Michio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0195",
@@ -1256,7 +2042,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いいよ。何でも答えてやろうじゃないか」",
-      "en": "“Go on. I'll answer anything.”"
+      "en": "“Go on. I'll answer anything.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0196",
@@ -1265,7 +2061,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が相手を安心させるような微笑みを浮かべてそう返事をすると、<tips=1>亮</tips>は立ち上がる。そして、横たわる母親の側に立って、その独り言を続ける顔を見下ろした。",
-      "en": "<tips=10>Michio</tips> gives him a reassuring smile. <tips=1>Ryou</tips> rises, goes to his mother's bedside, and looks down at her as she continues talking to herself."
+      "en": "<tips=10>Michio</tips> gives him a reassuring smile. <tips=1>Ryou</tips> rises, goes to his mother's bedside, and looks down at her as she continues talking to herself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0197",
@@ -1274,7 +2080,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「さっき言った通り、<tips=69>義勝</tips>の爺さんたちは冷淡だ。発症してからはさらに露骨になった。治療やケアにも積極的じゃなくてね、父さんが看護師を雇ってくれたけど、通いではなかなか手が回らない。それで僕は、ここのところ毎日母さんの面倒を見ているんだ。食事を食べさせたり、身体を拭いたり、おむつを取り替えたり……」",
-      "en": "“Like I said, the old men in <tips=69>Yi Shen</tips> are cold. They got worse after her onset. They have no interest in treatment or care. Father hired nurses, but visiting staff can only do so much. So lately I take care of Mother every day. I feed her, wipe her body, change her diapers...”"
+      "en": "“Like I said, the old men in <tips=69>Yi Shen</tips> are cold. They got worse after her onset. They have no interest in treatment or care. Father hired nurses, but visiting staff can only do so much. So lately I take care of Mother every day. I feed her, wipe her body, change her diapers...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0198",
@@ -1283,7 +2099,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「すごいな。なかなか出来ることじゃない」",
-      "en": "“That's incredible. Most people couldn't.”"
+      "en": "“That's incredible. Most people couldn't.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0199",
@@ -1292,7 +2118,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>が今日一番の驚きを見せてそう言うが、<tips=1>亮</tips>は首を横に振る。",
-      "en": "It is <tips=10>Michio</tips>'s first real show of surprise all day. <tips=1>Ryou</tips> shakes his head."
+      "en": "It is <tips=10>Michio</tips>'s first real show of surprise all day. <tips=1>Ryou</tips> shakes his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0200",
@@ -1301,7 +2137,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「どうってことないよ。今はもう暴れるわけじゃないからね」",
-      "en": "“It's nothing. She doesn't get violent anymore.”"
+      "en": "“It's nothing. She doesn't get violent anymore.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0201",
@@ -1310,7 +2156,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は<tips=56>和美</tips>の手首を拘束する白いベルトの間に指を差し入れた。ベルトがきつ過ぎれば<ruby=うっけつ>鬱血</ruby>してしまうし、ゆる過ぎれば外れて事故に繋がる。その具合を、指を差し入れて確認するのだ。",
-      "en": "<tips=1>Ryou</tips> slips one finger beneath the white strap around <tips=56>Kazumi</tips>'s wrist. Too tight, and it will <ruby=うっけつ>cut off her circulation</ruby>. Too loose, and it may come free and cause an accident. His finger tests the fit."
+      "en": "<tips=1>Ryou</tips> slips one finger beneath the white strap around <tips=56>Kazumi</tips>'s wrist. Too tight, and it will <ruby=うっけつ>cut off her circulation</ruby>. Too loose, and it may come free and cause an accident. His finger tests the fit.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0202",
@@ -1319,7 +2175,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は介護生活で、この動作は癖になっているのだろう。頭では言葉の続きを考えながら、ほとんど無意識のままその動作をしているように見えた。",
-      "en": "The gesture must have become second nature to <tips=1>Ryou</tips> during these months of care. His mind searches for his next words while his hand performs the check almost unconsciously."
+      "en": "The gesture must have become second nature to <tips=1>Ryou</tips> during these months of care. His mind searches for his next words while his hand performs the check almost unconsciously.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0203",
@@ -1328,7 +2194,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は、この母を大事に慈しむ<tips=1>亮</tips>の後ろ姿を見て、寂しげに目を細める。",
-      "en": "<tips=10>Michio</tips> watches <tips=1>Ryou</tips> tend his mother so tenderly, his eyes narrowed with sadness."
+      "en": "<tips=10>Michio</tips> watches <tips=1>Ryou</tips> tend his mother so tenderly, his eyes narrowed with sadness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0204",
@@ -1337,7 +2213,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「本当に、どうってことないんだ。でも普通なら色々と考えちゃうのかな？　でも、僕にとってはずっとこの人は遠い存在だったからね。僕は定食屋、母さんはこの屋敷で、ほとんど会う機会がなかった。父さんは昔はよくここに来ていたそうだから、僕以外の三人はよく家族らしいことしてたらしいけど、僕はそうじゃない」",
-      "en": "“It really is nothing. Maybe an ordinary person would have all kinds of feelings about it. But she was always distant from me. I lived at the diner, Mother in this mansion. We hardly ever met. Father used to visit often, apparently, so the other three did things together like a real family. I wasn't part of it.”"
+      "en": "“It really is nothing. Maybe an ordinary person would have all kinds of feelings about it. But she was always distant from me. I lived at the diner, Mother in this mansion. We hardly ever met. Father used to visit often, apparently, so the other three did things together like a real family. I wasn't part of it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0205",
@@ -1346,7 +2232,17 @@
       "sj": "",
       "se": "",
       "jp": "　今日はよく自分のことを話す。<tips=1>亮</tips>がこのように自分の心境を話すのは本当にまれなことだ。",
-      "en": "<tips=1>Ryou</tips> has spoken about himself all day. It is extraordinarily rare for him to expose his feelings this openly."
+      "en": "<tips=1>Ryou</tips> has spoken about himself all day. It is extraordinarily rare for him to expose his feelings this openly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0206",
@@ -1355,7 +2251,17 @@
       "sj": "",
       "se": "",
       "jp": "　顔には出さないが、とてつもなく疲れ果てている、と<tips=10>道夫</tips>は思った。",
-      "en": "He's exhausted beyond words, <tips=10>Michio</tips> thinks. He simply refuses to show it."
+      "en": "He's exhausted beyond words, <tips=10>Michio</tips> thinks. He simply refuses to show it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0207",
@@ -1364,7 +2270,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「妹とも、こうなってから初めてまともに話したくらいだ。その妹は、母さんがおむつのなかに粗相をしたり、誰か別人の名前で妹を呼んだり、よくある<tips=17>タイプＢ</tips>の症状を見せるたびに泣きじゃくっていた。そして、今は変わり果てた母さんを見ることが恐ろしくて、ここに入れなくなってる。でも、それじゃいけないっていう気持ちはあるらしいね。まだちっちゃいのに、自分を責めてるらしくて、よくドアの外で震えて泣いているよ。そんなに気にすることはないのにね。妹はまともなときの母さんの印象が強いから、ボロボロになった姿が見てられないんだ。本当に親しいってのはそういうことなんだろう。僕にはそんな感情はない。飼い主がペットの糞をスコップで拾って処分するのと大差ないような、単なる作業だよ。……で、訊きたいことってのはさ」",
-      "en": "“I barely had a real conversation with my sister before this. Whenever Mother soiled her diaper, called her by someone else's name, or showed any other ordinary symptom of <tips=17>Type B</tips>, she would sob. Now she's too frightened by what Mother has become to enter this room. She seems to know she ought to, though. She's still tiny, but she blames herself. She stands outside the door shaking and crying. There's no reason to take it so hard. She remembers Mother as she was, and she can't bear to look at her ruined like this. Maybe that's what real closeness is. I don't feel any of it. For me, this is just a task—hardly different from an owner scooping up a pet's mess. ...Anyway, what I wanted to ask...”"
+      "en": "“I barely had a real conversation with my sister before this. Whenever Mother soiled her diaper, called her by someone else's name, or showed any other ordinary symptom of <tips=17>Type B</tips>, she would sob. Now she's too frightened by what Mother has become to enter this room. She seems to know she ought to, though. She's still tiny, but she blames herself. She stands outside the door shaking and crying. There's no reason to take it so hard. She remembers Mother as she was, and she can't bear to look at her ruined like this. Maybe that's what real closeness is. I don't feel any of it. For me, this is just a task—hardly different from an owner scooping up a pet's mess. ...Anyway, what I wanted to ask...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0208",
@@ -1373,7 +2289,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は立ったまま<tips=10>道夫</tips>を振り返る。",
-      "en": "Still standing beside the bed, <tips=1>Ryou</tips> looks back at <tips=10>Michio</tips>."
+      "en": "Still standing beside the bed, <tips=1>Ryou</tips> looks back at <tips=10>Michio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0209",
@@ -1382,7 +2308,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「何の感情のゆらぎもないはずなのに、なんだか胸がぽっかりと空虚な感じがするんだよ。こんなの初めてなんだ。これ、なんなんだろう？」",
-      "en": "“I shouldn't be feeling anything. But there's this hollow place in my chest. I've never felt it before. What is it?”"
+      "en": "“I shouldn't be feeling anything. But there's this hollow place in my chest. I've never felt it before. What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0210",
@@ -1391,7 +2327,17 @@
       "sj": "",
       "se": "",
       "jp": "　端正な顔に不安げな影が浮かんでいる。道ばたで突然対抗チームの不良少年に取り囲まれても、傍観者のようにせせら笑っている見栄っ張りでプライドの高い<tips=1>亮</tips>が、こうした弱気の表情を顔に出すのを見たのは初めてだった。",
-      "en": "Anxiety shadows his fine features. Proud and vain, <tips=1>Ryou</tips> can be surrounded by rival delinquents in the street and sneer as though he were only a spectator. Michio has never seen uncertainty naked on his face like this."
+      "en": "Anxiety shadows his fine features. Proud and vain, <tips=1>Ryou</tips> can be surrounded by rival delinquents in the street and sneer as though he were only a spectator. Michio has never seen uncertainty naked on his face like this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0211",
@@ -1400,7 +2346,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は眉を片方しかめて怪訝な自分を見つめる相手の顔をじろじろと見ていたが、徐々にその唇がわなわなと震え、",
-      "en": "<tips=10>Michio</tips> stares at him, one eyebrow raised. Then his lips begin to tremble."
+      "en": "<tips=10>Michio</tips> stares at him, one eyebrow raised. Then his lips begin to tremble.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0212",
@@ -1409,7 +2365,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「あははっ」",
-      "en": "“Ahahaha!”"
+      "en": "“Ahahaha!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0213",
@@ -1418,7 +2384,17 @@
       "sj": "",
       "se": "",
       "jp": "　ついに堪えきれずに笑ってしまった。",
-      "en": "He cannot hold it in any longer."
+      "en": "He cannot hold it in any longer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0214",
@@ -1427,7 +2403,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「まったく、お前は本当に馬鹿だなあ……」",
-      "en": "“God, you really are an idiot...”"
+      "en": "“God, you really are an idiot...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0215",
@@ -1436,7 +2422,17 @@
       "sj": "",
       "se": "",
       "jp": "　笑顔のまましみじみと言う。",
-      "en": "He says it with affectionate wonder, still laughing."
+      "en": "He says it with affectionate wonder, still laughing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0216",
@@ -1445,7 +2441,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「どっ、どういう意味だよ」",
-      "en": "“W-what's that supposed to mean?”"
+      "en": "“W-what's that supposed to mean?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0217",
@@ -1454,7 +2460,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は顔を赤らめてそう返す。",
-      "en": "<tips=1>Ryou</tips>'s face turns red."
+      "en": "<tips=1>Ryou</tips>'s face turns red.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0218",
@@ -1463,7 +2479,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そんなの、わかりきったことだろうに」",
-      "en": "“You really can't tell? It's obvious.”"
+      "en": "“You really can't tell? It's obvious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0219",
@@ -1472,7 +2498,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「わ、わかりきったって……」",
-      "en": "“O-obvious...?”"
+      "en": "“O-obvious...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0220",
@@ -1481,7 +2517,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「悲しいってだけだろ。お前はとっても悲しんでるんだ。それだけだよ」",
-      "en": "“You're sad. That's all. You're terribly sad.”"
+      "en": "“You're sad. That's all. You're terribly sad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0221",
@@ -1490,7 +2536,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「な、なんで悲しむ必要があるんだよっ」",
-      "en": "“W-why would I be sad?”"
+      "en": "“W-why would I be sad?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0222",
@@ -1499,7 +2555,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そりゃお前がお母さんのこと好きだからだろ」",
-      "en": "“Because you love your mother. Obviously.”"
+      "en": "“Because you love your mother. Obviously.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0223",
@@ -1508,7 +2574,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は呆れたように笑う。<tips=1>亮</tips>は反論したいが、いつものようにすらすらと言葉が出て来ずに口ごもっている。",
-      "en": "<tips=10>Michio</tips> laughs in disbelief. <tips=1>Ryou</tips> wants to argue, but for once the words refuse to come, and he stammers."
+      "en": "<tips=10>Michio</tips> laughs in disbelief. <tips=1>Ryou</tips> wants to argue, but for once the words refuse to come, and he stammers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0224",
@@ -1517,7 +2593,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は椅子から立ち上がり、顔を<tips=1>亮</tips>に近づけるとまくしたてた。",
-      "en": "<tips=10>Michio</tips> rises, leans close to <tips=1>Ryou</tips>, and lets him have it."
+      "en": "<tips=10>Michio</tips> rises, leans close to <tips=1>Ryou</tips>, and lets him have it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0225",
@@ -1526,7 +2612,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「なあ、一度言おうと思ってたことを言わせて貰うぜ！　お前さ、よく<tips=55>松坊</tips>のこと情緒欠落人間とか言ってからかってるよな？",
-      "en": "“Listen, I've been meaning to tell you something! You're always making fun of <tips=55>Matsu-bo</tips>, calling her emotionally defective, right?”"
+      "en": "“Listen, I've been meaning to tell you something! You're always making fun of <tips=55>Matsu-bo</tips>, calling her emotionally defective, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0226",
@@ -1535,7 +2631,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「あ、ああ……」",
-      "en": "“Y-yeah...”"
+      "en": "“Y-yeah...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0227",
@@ -1544,7 +2650,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「お前は欠落してるわけじゃないんだろうが、幼い」",
-      "en": "“You're not defective. You're just a child.”"
+      "en": "“You're not defective. You're just a child.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0228",
@@ -1553,7 +2669,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「お、幼いだと？」",
-      "en": "“A-a child?”"
+      "en": "“A-a child?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0229",
@@ -1562,7 +2688,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうだ。頭良さげなことをくっちゃべるからみんな誤解しがちだが、お前は口が達者なだけで心はベイビーちゃんなんだよ。だから思い通りにいかないとすーぐ腹を立ててむずがるし、空気を読まずに無茶苦茶なことをする」",
-      "en": "“That's right. You run your mouth and sound clever, so everybody gets fooled. But talking is all you're good at. Inside, you're a little baby. The second things don't go your way, you throw a tantrum. Then you ignore the room and do something completely insane.”"
+      "en": "“That's right. You run your mouth and sound clever, so everybody gets fooled. But talking is all you're good at. Inside, you're a little baby. The second things don't go your way, you throw a tantrum. Then you ignore the room and do something completely insane.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0230",
@@ -1571,7 +2707,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「お、お前な……」",
-      "en": "“Y-you...”"
+      "en": "“Y-you...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0231",
@@ -1580,7 +2726,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は移動しようとしたようだが、よほど慌てていたのか、ベッドが太ももに当たってよろける。",
-      "en": "<tips=1>Ryou</tips> tries to step away. He is so flustered that his thigh strikes the bed and he stumbles."
+      "en": "<tips=1>Ryou</tips> tries to step away. He is so flustered that his thigh strikes the bed and he stumbles.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0232",
@@ -1589,7 +2745,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「これからな、お前は心でものごとを受け止めるんだ。じゃないと、もっとひどいことになっちゃうぜ」",
-      "en": "“From now on, you need to let things reach your heart. If you don't, this is only going to get worse.”"
+      "en": "“From now on, you need to let things reach your heart. If you don't, this is only going to get worse.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0233",
@@ -1598,7 +2764,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ひどいって、どういう意味だよ？」",
-      "en": "“What do you mean, worse?”"
+      "en": "“What do you mean, worse?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0234",
@@ -1607,7 +2783,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は顔を真っ赤にして<tips=10>道夫</tips>を睨み付ける。",
-      "en": "Face burning red, <tips=1>Ryou</tips> glares at <tips=10>Michio</tips>."
+      "en": "Face burning red, <tips=1>Ryou</tips> glares at <tips=10>Michio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0235",
@@ -1616,7 +2802,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「お前はな、なんでも頭使って理屈だけで解決して来たから、心が全然成長しなかったんだ。人の感情や心を読み取るのはうまいくせに、自分の悲しみがわからないなんて重症だぜ？　妹さんみたいに泣けばいいんだよ。だって、こんな悲しいことって世の中にそうそうないぜ？　引き裂かれ、恋い焦がれたお母さんとやっと一緒にいられると思ったら、夢と戯れてこっちを見てくれないんだ。号泣したっていいくらいだろう。少なくとも、すまし顔で『何にも感じない』なんてくだらないことを言ってる場合じゃない。それとも、もう泣いたのか？」",
-      "en": "“You've solved everything with your head and your precious logic, so your heart never got the chance to grow up. You can read everyone else's feelings, but you can't even recognize your own grief. That's serious. Cry like your little sister. Because honestly, how many things in this world are sadder than this? You were torn away from the mother you spent years longing for. Now you can finally be with her, and she's off playing in a dream where she won't even look at you. You could sob your eyes out and no one would blame you. At the very least, this is no time to put on that cool face and say something stupid like ‘I don't feel anything.’ Or did you already cry?”"
+      "en": "“You've solved everything with your head and your precious logic, so your heart never got the chance to grow up. You can read everyone else's feelings, but you can't even recognize your own grief. That's serious. Cry like your little sister. Because honestly, how many things in this world are sadder than this? You were torn away from the mother you spent years longing for. Now you can finally be with her, and she's off playing in a dream where she won't even look at you. You could sob your eyes out and no one would blame you. At the very least, this is no time to put on that cool face and say something stupid like ‘I don't feel anything.’ Or did you already cry?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0236",
@@ -1625,7 +2821,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「い、いや、全然泣いてないけど……」",
-      "en": "“N-no. I haven't cried at all...”"
+      "en": "“N-no. I haven't cried at all...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0237",
@@ -1634,7 +2840,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「じゃあ泣け。いまここで泣け。赤ん坊のように声を立てて泣け。おれはむこう向いててやるから」",
-      "en": "“Then cry. Right here. Right now. Wail like a baby. I'll turn around.”"
+      "en": "“Then cry. Right here. Right now. Wail like a baby. I'll turn around.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0238",
@@ -1643,7 +2859,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=10>道夫</tips>は言葉通りくるりと背を向ける。",
-      "en": "True to his word, <tips=10>Michio</tips> spins around and gives him his back."
+      "en": "True to his word, <tips=10>Michio</tips> spins around and gives him his back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0239",
@@ -1652,7 +2878,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「む、無理に決まってるだろ」",
-      "en": "“O-of course I can't do that!”"
+      "en": "“O-of course I can't do that!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0240",
@@ -1661,7 +2897,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は動揺で顔を引きつらせながら部屋のなかを移動し、<tips=10>道夫</tips>と離れた場所にある窓枠に手を掛けた。",
-      "en": "Face tight with panic, <tips=1>Ryou</tips> retreats across the room and grips the frame of a window as far from <tips=10>Michio</tips> as possible."
+      "en": "Face tight with panic, <tips=1>Ryou</tips> retreats across the room and grips the frame of a window as far from <tips=10>Michio</tips> as possible.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0241",
@@ -1670,7 +2916,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうか。まあそうだな」",
-      "en": "“No? Fair enough.”"
+      "en": "“No? Fair enough.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0242",
@@ -1679,7 +2935,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はあっさりと撤回し、またこちらを向く。いつの間にか遠くに逃げている<tips=1>亮</tips>を見て怪訝そうな顔をしてから、",
-      "en": "<tips=10>Michio</tips> drops the suggestion at once and turns back. He looks puzzled to find <tips=1>Ryou</tips> all the way across the room."
+      "en": "<tips=10>Michio</tips> drops the suggestion at once and turns back. He looks puzzled to find <tips=1>Ryou</tips> all the way across the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0243",
@@ -1688,7 +2954,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「でも、お前のお母さんは幸せだな」",
-      "en": "“Still, your mother's lucky.”"
+      "en": "“Still, your mother's lucky.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0244",
@@ -1697,7 +2973,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って<tips=56>和美</tips>の顔を見た。",
-      "en": "He looks at <tips=56>Kazumi</tips> as he says it."
+      "en": "He looks at <tips=56>Kazumi</tips> as he says it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0245",
@@ -1706,7 +2992,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は目の前の騒ぎには無関心で、相変わらず彼女だけにしか見えない誰かと小声で話し、笑っている。",
-      "en": "Oblivious to the commotion, she keeps laughing and talking softly with someone only she can see."
+      "en": "Oblivious to the commotion, she keeps laughing and talking softly with someone only she can see.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0246",
@@ -1715,7 +3011,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「お母さんの世話の仕方とかさ、しっかり看護師の人に教わったのか？」",
-      "en": "“The nurses taught you how to take care of her properly, right?”"
+      "en": "“The nurses taught you how to take care of her properly, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0247",
@@ -1724,7 +3030,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「……ああ。あと、自分でも調べて、そっくりそのままマネしてるはずだけど……何かおかしなところあるか？」",
-      "en": "“...Yes. I researched it myself too. I should be copying exactly what they do. ...Am I doing something wrong?”"
+      "en": "“...Yes. I researched it myself too. I should be copying exactly what they do. ...Am I doing something wrong?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0248",
@@ -1733,7 +3049,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いや。……とても清潔にしてるなと思ってさ。いやな臭いが全然しない。こんな発症者はなかなかいないよ」",
-      "en": "“No. ...I was thinking how clean you keep her. There isn't any bad smell at all. You don't see many people this well cared for after onset.”"
+      "en": "“No. ...I was thinking how clean you keep her. There isn't any bad smell at all. You don't see many people this well cared for after onset.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0249",
@@ -1742,7 +3068,17 @@
       "sj": "",
       "se": "",
       "jp": "　その時<tips=10>道夫</tips>の目に寂しそうな色が浮かんだのを<tips=1>亮</tips>は見逃さなかったが、どういう意味なのかまではわからなかった。",
-      "en": "Sadness flickers through <tips=10>Michio</tips>'s eyes. <tips=1>Ryou</tips> notices, but cannot tell what it means."
+      "en": "Sadness flickers through <tips=10>Michio</tips>'s eyes. <tips=1>Ryou</tips> notices, but cannot tell what it means.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0250",
@@ -1751,7 +3087,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は母親が発症したあと死んだということは伝えていたものの、その詳しい状況などは何も話していない。それは<tips=1>亮</tips>にということでなく、母が死に、住んでいたアパートを出てから、誰にも一言も話したことがない。",
-      "en": "<tips=10>Michio</tips> has said that his mother died after onset, but nothing more. Nor has he hidden the story only from <tips=1>Ryou</tips>. Since his mother died and he left their apartment, he has never told a soul."
+      "en": "<tips=10>Michio</tips> has said that his mother died after onset, but nothing more. Nor has he hidden the story only from <tips=1>Ryou</tips>. Since his mother died and he left their apartment, he has never told a soul.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0251",
@@ -1760,7 +3106,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「これだけ一生懸命世話をして、何にも思ってないなんてこと、あるわけないさ」",
-      "en": "“Nobody works this hard to care for someone and feels nothing. That's impossible.”"
+      "en": "“Nobody works this hard to care for someone and feels nothing. That's impossible.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0252",
@@ -1769,7 +3125,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=56>和美</tips>の顔を見ながら<tips=10>道夫</tips>は微笑むが、いつものように自然に笑うことが出来ず、少しひきつっていた。",
-      "en": "Looking at <tips=56>Kazumi</tips>, <tips=10>Michio</tips> tries to smile. It will not come naturally; the expression is tight at the edges."
+      "en": "Looking at <tips=56>Kazumi</tips>, <tips=10>Michio</tips> tries to smile. It will not come naturally; the expression is tight at the edges.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0253",
@@ -1778,7 +3144,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「どうした？」",
-      "en": "“What's wrong?”"
+      "en": "“What's wrong?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0254",
@@ -1787,7 +3163,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が訊ねると<tips=10>道夫</tips>は首を横に振り、",
-      "en": "When <tips=1>Ryou</tips> asks, <tips=10>Michio</tips> shakes his head."
+      "en": "When <tips=1>Ryou</tips> asks, <tips=10>Michio</tips> shakes his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0255",
@@ -1796,7 +3182,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いや、なんでもない。おれ、今日はもう帰るよ。……おばさん、今度おれメロン持って来てやるよ。マスクメロン食べると、症状がよくなるって最近話題なんだぜ」",
-      "en": "“Nothing. I think I'll head home. ...Ma'am, next time I'll bring you a melon. Everybody's saying muskmelon helps with the symptoms.”"
+      "en": "“Nothing. I think I'll head home. ...Ma'am, next time I'll bring you a melon. Everybody's saying muskmelon helps with the symptoms.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0256",
@@ -1805,7 +3201,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなのよくあるデマさ」",
-      "en": "“That's just another stupid rumor.”"
+      "en": "“That's just another stupid rumor.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0257",
@@ -1814,7 +3220,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「デマでもなんでもいいだろうよ。効果がなかったとしても、毒になるわけでもない」",
-      "en": "“Rumor or not, who cares? Even if it doesn't help, it isn't poison.”"
+      "en": "“Rumor or not, who cares? Even if it doesn't help, it isn't poison.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0258",
@@ -1823,7 +3239,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はベッドの側を離れ、<tips=1>亮</tips>に近づいた。",
-      "en": "<tips=10>Michio</tips> leaves the bedside and walks toward <tips=1>Ryou</tips>."
+      "en": "<tips=10>Michio</tips> leaves the bedside and walks toward <tips=1>Ryou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0259",
@@ -1832,7 +3258,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「<tips=1>亮</tips>、そんなに悲しむことばかりじゃないんだぜ。お前みたいな意地っ張りが母親に優しくするなんて、こんなチャンスでもないと出来ないだろ？　逆に考えるんだよ。今まで離れていて寂しかったのに、今は思う存分かまってあげられて嬉しいなって」",
-      "en": "“<tips=1>Ryou</tips>, this isn't all sadness. A stubborn bastard like you would never be this sweet to his mother without a chance like this. Turn it around. You spent all those years apart, lonely. Now you get to fuss over her as much as you like. Tell yourself you're happy about that.”"
+      "en": "“<tips=1>Ryou</tips>, this isn't all sadness. A stubborn bastard like you would never be this sweet to his mother without a chance like this. Turn it around. You spent all those years apart, lonely. Now you get to fuss over her as much as you like. Tell yourself you're happy about that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0260",
@@ -1841,7 +3277,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ば、ばかやろうっ！」",
-      "en": "“Y-you bastard!”"
+      "en": "“Y-you bastard!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0261",
@@ -1850,7 +3296,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が顔を真っ赤にして飛び退くと、<tips=10>道夫</tips>は声をたてて笑った。",
-      "en": "<tips=1>Ryou</tips> leaps back, face crimson. <tips=10>Michio</tips> bursts out laughing."
+      "en": "<tips=1>Ryou</tips> leaps back, face crimson. <tips=10>Michio</tips> bursts out laughing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0276",
@@ -1859,7 +3315,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=56>和美</tips>に食事を食べさせるところを見届けると、<tips=10>道夫</tips>は帰っていった。",
-      "en": "After staying to see <tips=56>Kazumi</tips> fed, <tips=10>Michio</tips> goes home."
+      "en": "After staying to see <tips=56>Kazumi</tips> fed, <tips=10>Michio</tips> goes home.",
+      "bg": "assets/vn/backgrounds/bg-ea4e739a8ace.webp"
     },
     {
       "id": "X18:0277",
@@ -2129,7 +3586,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「失礼するよ」",
-      "en": "“Excuse me.”"
+      "en": "“Excuse me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0308",
@@ -2138,7 +3601,13 @@
       "sj": "",
       "se": "",
       "jp": "　全く無関心な和美にそう声をかけると身体にかかっていた毛布をめくる。拘束されたきりだがベッドの上でやたらと身体を動かすのでそこまで筋肉は落ちきっていない。<tips=56>和美</tips>は毛布をめくられたことにも気づかぬようだった。",
-      "en": "He addresses the oblivious Kazumi and draws back her blanket. Though constantly restrained, she moves enough on the bed that her muscles have not completely wasted. <tips=56>Kazumi</tips> does not seem to notice the blanket being lifted."
+      "en": "He addresses the oblivious Kazumi and draws back her blanket. Though constantly restrained, she moves enough on the bed that her muscles have not completely wasted. <tips=56>Kazumi</tips> does not seem to notice the blanket being lifted.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0309",
@@ -2147,7 +3616,13 @@
       "sj": "",
       "se": "",
       "jp": "　拘束は手足と体幹の五カ所で行われている。<tips=1>亮</tips>は腰の上辺りで固定された体幹の拘束を緩め、ズボンを引き降ろす。",
-      "en": "Five restraints secure her limbs and torso. <tips=1>Ryou</tips> loosens the strap above her waist and pulls down her pants."
+      "en": "Five restraints secure her limbs and torso. <tips=1>Ryou</tips> loosens the strap above her waist and pulls down her pants.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0311",
@@ -2156,7 +3631,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして水色のおむつがあらわれると慣れた仕草でバリッと音を立てて両サイドの面ファスナーを剥がしてめくる。",
-      "en": "A pale-blue diaper appears. With practiced hands, he tears open the hook-and-loop tabs on both sides and folds it back."
+      "en": "A pale-blue diaper appears. With practiced hands, he tears open the hook-and-loop tabs on both sides and folds it back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0313",
@@ -2165,7 +3646,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうして<tips=56>和美</tips>の下半身は丸裸になり、チューブの差し込まれた陰部があらわになった。",
-      "en": "<tips=56>Kazumi</tips>'s lower body lies bare, the catheter visible between her legs."
+      "en": "<tips=56>Kazumi</tips>'s lower body lies bare, the catheter visible between her legs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0314",
@@ -2174,7 +3661,13 @@
       "sj": "",
       "se": "",
       "jp": "　看護師によるとそろそろ生理が来ると言う話だったので心配していたが汚れておらず、便もなかった。それを確認すると<tips=1>亮</tips>は外したときとおなじように手際よくおむつを装着し、ズボンを引き上げた。",
-      "en": "The nurse said her period was due, but there is no blood and no stool. After checking, <tips=1>Ryou</tips> refastens the diaper with the same practiced efficiency and pulls up her pants."
+      "en": "The nurse said her period was due, but there is no blood and no stool. After checking, <tips=1>Ryou</tips> refastens the diaper with the same practiced efficiency and pulls up her pants.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0316",
@@ -2183,7 +3676,13 @@
       "sj": "",
       "se": "",
       "jp": "　体幹の拘束を緩めたついでに、背中の裏にあてがっているマットの位置を変えて、身体が少し斜めになるように寝る姿勢を整えた。高価なマットを使ってはいるが、あまり長い時間寝かせていると床ずれが出来、場合によってはそこから感染症になって最悪命取りになることもあるということなので、おりを見てはこのように身体の向きを変えてやっている。",
-      "en": "With the torso strap already loose, he shifts the pad supporting her back and settles her at a slight angle. The mattress is expensive, but too long in one position can still cause pressure sores. Those can become infected and, at worst, kill her. He turns her whenever he has the chance."
+      "en": "With the torso strap already loose, he shifts the pad supporting her back and settles her at a slight angle. The mattress is expensive, but too long in one position can still cause pressure sores. Those can become infected and, at worst, kill her. He turns her whenever he has the chance.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0317",
@@ -2192,7 +3691,13 @@
       "sj": "",
       "se": "",
       "jp": "　一通り作業を終えた<tips=1>亮</tips>は尿を捨てるために尿器を持って立ち上がった。",
-      "en": "Routine complete, <tips=1>Ryou</tips> picks up the urinal and stands to empty it."
+      "en": "Routine complete, <tips=1>Ryou</tips> picks up the urinal and stands to empty it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0324",
@@ -2219,7 +3724,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「おっと」",
-      "en": "“Whoa.”"
+      "en": "“Whoa.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0327",
@@ -2228,7 +3739,13 @@
       "sj": "",
       "se": "",
       "jp": "　急に立ち止まると尿器のなかで尿が揺れる。",
-      "en": "He stops short. Urine sloshes in the vessel."
+      "en": "He stops short. Urine sloshes in the vessel.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0328",
@@ -2237,7 +3754,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「あっ、ごめんなさい」",
-      "en": "“Oh! Sorry.”"
+      "en": "“Oh! Sorry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0329",
@@ -2246,7 +3773,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は慌てて謝ると<tips=1>亮</tips>の手元を見て、",
-      "en": "<tips=44>Xiaoqiao</tips> apologizes in alarm. Then she notices what <tips=1>Ryou</tips> is holding."
+      "en": "<tips=44>Xiaoqiao</tips> apologizes in alarm. Then she notices what <tips=1>Ryou</tips> is holding.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0330",
@@ -2255,7 +3792,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「それ、捨てるの？」",
-      "en": "“Are you going to throw that out?”"
+      "en": "“Are you going to throw that out?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0331",
@@ -2264,7 +3811,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「うん」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0332",
@@ -2273,7 +3830,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「私がやるよ」",
-      "en": "“I'll do it.”"
+      "en": "“I'll do it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0333",
@@ -2282,7 +3849,17 @@
       "sj": "",
       "se": "",
       "jp": "　と言って、尿器に手を伸ばす。",
-      "en": "She reaches for the urinal."
+      "en": "She reaches for the urinal.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0334",
@@ -2291,7 +3868,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「いいよ。僕は手袋してるから」",
-      "en": "“It's fine. I already have gloves on.”"
+      "en": "“It's fine. I already have gloves on.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0335",
@@ -2300,7 +3887,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「ちょっと待ってて」",
-      "en": "“Wait here.”"
+      "en": "“Wait here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0337",
@@ -2390,7 +3987,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ありがとう。助かるよ」",
-      "en": "“Thank you. That helped.”"
+      "en": "“Thank you. That helped.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0348",
@@ -2399,7 +4002,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が微笑み、尿器を受け取ろうと手を伸ばしたが、",
-      "en": "<tips=1>Ryou</tips> smiles and reaches for the urinal, but"
+      "en": "<tips=1>Ryou</tips> smiles and reaches for the urinal, but",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0349",
@@ -2408,7 +4017,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「私が持っていくよ」",
-      "en": "“Siu will put it back.”"
+      "en": "“Siu will put it back.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0351",
@@ -2426,7 +4045,8 @@
       "sj": "",
       "se": "",
       "jp": "　珍しいこともあるものだ。",
-      "en": "Now there was a rare sight."
+      "en": "Now there was a rare sight.",
+      "bg": "assets/vn/backgrounds/bg-ea4e739a8ace.webp"
     },
     {
       "id": "X18:0364",
@@ -2453,7 +4073,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「その、ベッドの下に敷いてあるビニールシートの上に置いて」",
-      "en": "“Put it on the plastic sheet under the bed.”"
+      "en": "“Put it on the plastic sheet under the bed.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0367",
@@ -2462,7 +4088,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「わかった。……他に、何か私が手伝えることある？」",
-      "en": "“Okay. ...Is there anything else I can do?”"
+      "en": "“Okay. ...Is there anything else I can do?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0368",
@@ -2471,7 +4107,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って<tips=44>筱喬</tips>は強い意志の宿った瞳で兄を見る。",
-      "en": "<tips=44>Xiaoqiao</tips> looks up at her brother, determination in her eyes."
+      "en": "<tips=44>Xiaoqiao</tips> looks up at her brother, determination in her eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0369",
@@ -2480,7 +4126,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「特にないかな。もう一通りのことは終わったから」",
-      "en": "“Not right now. I've finished everything that needed doing.”"
+      "en": "“Not right now. I've finished everything that needed doing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0370",
@@ -2489,7 +4145,17 @@
       "sj": "",
       "se": "",
       "jp": "　急に積極的になった妹を不思議に思いながら<tips=1>亮</tips>は答える。",
-      "en": "<tips=1>Ryou</tips> answers, puzzled by his sister's sudden resolve."
+      "en": "<tips=1>Ryou</tips> answers, puzzled by his sister's sudden resolve.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0371",
@@ -2498,7 +4164,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「もっと早く来ればよかった。ごめんなさい、いつもお兄ちゃんにばっかりやらせちゃって」",
-      "en": "“I should have come sooner. I'm sorry I always made Brother do everything.”"
+      "en": "“I should have come sooner. I'm sorry I always made Brother do everything.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0372",
@@ -2507,7 +4183,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それはいいよ。でも、大丈夫なのかい？」",
-      "en": "“That's all right. But are you sure you're okay?”"
+      "en": "“That's all right. But are you sure you're okay?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0373",
@@ -2516,7 +4202,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「もう大丈夫。いままで何にもしないでごめんなさい……。ずっと、こんなのじゃお母さんにもお兄ちゃんにも悪いって、<tips=44>シウ</tips>がいやな子だってわかってたんだけど、こわくてしかたなくて……」",
-      "en": "“I'm okay now. I'm sorry I didn't do anything before... I knew it was wrong to treat Mother and Brother this way. I knew <tips=44>Siu</tips> was a bad girl. But I was so scared...”"
+      "en": "“I'm okay now. I'm sorry I didn't do anything before... I knew it was wrong to treat Mother and Brother this way. I knew <tips=44>Siu</tips> was a bad girl. But I was so scared...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0374",
@@ -2525,7 +4221,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=44>筱喬</tips>の大きな瞳にじんわり涙が浮かぶ。",
-      "en": "Tears gather in <tips=44>Xiaoqiao</tips>'s large eyes."
+      "en": "Tears gather in <tips=44>Xiaoqiao</tips>'s large eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0375",
@@ -2534,7 +4240,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=44>シウ</tips>、自分を責める必要はないよ。お前は僕より母さんのことを大切に思ってるから、耐えられなかったというだけのことだよ」",
-      "en": "“<tips=44>Siu</tips>, don't blame yourself. You care about Mother more than I do. It was simply more than you could bear.”"
+      "en": "“<tips=44>Siu</tips>, don't blame yourself. You care about Mother more than I do. It was simply more than you could bear.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0376",
@@ -2543,7 +4259,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は言いながら<tips=44>筱喬</tips>の手にはめたままの手袋を脱がしてやり、自分のものと纏めてまるめて部屋の隅にあるふた付きゴミ箱のペダルを踏んでその中に捨てた。",
-      "en": "As he speaks, <tips=1>Ryou</tips> pulls off the gloves <tips=44>Xiaoqiao</tips> is still wearing. He balls them up with his own, steps on the pedal of the lidded trash can in the corner, and drops them inside."
+      "en": "As he speaks, <tips=1>Ryou</tips> pulls off the gloves <tips=44>Xiaoqiao</tips> is still wearing. He balls them up with his own, steps on the pedal of the lidded trash can in the corner, and drops them inside.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0377",
@@ -2552,7 +4278,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まだ小さいんだし、僕や看護師さんと同じことはやらなくていい。かわりに、母さんのために泣いたり喜んだりしてあげてほしい。僕の分までね。それだけでいいんだ」",
-      "en": "“You're still little. You don't have to do what the nurses and I do. Instead, cry for Mother. Be happy for her. Do my share too. That's enough.”"
+      "en": "“You're still little. You don't have to do what the nurses and I do. Instead, cry for Mother. Be happy for her. Do my share too. That's enough.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0378",
@@ -2561,7 +4297,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃん……」",
-      "en": "“Brother...”"
+      "en": "“Brother...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0379",
@@ -2570,7 +4316,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「僕は平気なんだよ。汚れたおむつを見たって、症状がひどいのを見たって、そんなにつらくはない。だからやってるだけだよ。子供が二人いて、両方とも僕みたいだったらお母さんが可哀想だろう？　だからこれは役割分担だ。僕はこういう世話をするから、お前は一杯お母さんのことを考えてあげてくれ」",
-      "en": "“I'm fine. A dirty diaper or a bad spell doesn't hurt me that much. That's why I do this part. Mother would be pitiful if both her children were like me, wouldn't she? So we'll divide the work. I'll care for her body. You think about her with all your heart.”"
+      "en": "“I'm fine. A dirty diaper or a bad spell doesn't hurt me that much. That's why I do this part. Mother would be pitiful if both her children were like me, wouldn't she? So we'll divide the work. I'll care for her body. You think about her with all your heart.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0380",
@@ -2579,7 +4335,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「でも、私何かしたい」",
-      "en": "“But I want to do something.”"
+      "en": "“But I want to do something.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0381",
@@ -2588,7 +4354,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それなら、料理とか掃除とか、他のことでもいい。僕が教えるから」",
-      "en": "“Then cook, or clean, or help some other way. I'll teach you.”"
+      "en": "“Then cook, or clean, or help some other way. I'll teach you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0382",
@@ -2597,7 +4373,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「う、うん……」",
-      "en": "“O-okay...”"
+      "en": "“O-okay...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0383",
@@ -2606,7 +4392,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は<tips=44>筱喬</tips>で複雑な思いがあるらしく、頷きはしたものの兄の提案を素直に受け入れられないようだった。",
-      "en": "<tips=44>Xiaoqiao</tips> has complicated feelings of her own. <tips=44>Xiaoqiao</tips> nods, but cannot quite accept her brother's answer."
+      "en": "<tips=44>Xiaoqiao</tips> has complicated feelings of her own. <tips=44>Xiaoqiao</tips> nods, but cannot quite accept her brother's answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0384",
@@ -2615,7 +4411,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「どうしてもって言うなら、介助も教えるよ。でも<tips=44>シウ</tips>に出来る範囲のことでいい」",
-      "en": "“If you insist, I'll teach you some of the caregiving too. But only what <tips=44>Siu</tips> can manage.”"
+      "en": "“If you insist, I'll teach you some of the caregiving too. But only what <tips=44>Siu</tips> can manage.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0385",
@@ -2624,7 +4430,17 @@
       "sj": "",
       "se": "",
       "jp": "　兄の優しい言葉に<tips=44>筱喬</tips>はうつむき、",
-      "en": "At her brother's gentleness, <tips=44>Xiaoqiao</tips> lowers her eyes."
+      "en": "At her brother's gentleness, <tips=44>Xiaoqiao</tips> lowers her eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0386",
@@ -2633,7 +4449,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「本当にごめんなさい。ずっと一人で暮らしてたお兄ちゃんに、こんなときばっかり……」",
-      "en": "“I'm really sorry. Brother lived apart all that time, and now, only when something like this happened...”"
+      "en": "“I'm really sorry. Brother lived apart all that time, and now, only when something like this happened...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0387",
@@ -2642,7 +4468,17 @@
       "sj": "",
       "se": "",
       "jp": "　ほとんど泣きそうになって言う妹を見て、<tips=1>亮</tips>は苦笑する。",
-      "en": "His sister is on the verge of tears again. <tips=1>Ryou</tips> smiles ruefully."
+      "en": "His sister is on the verge of tears again. <tips=1>Ryou</tips> smiles ruefully.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0388",
@@ -2651,7 +4487,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「別に一人ってわけじゃない。むしろすごく賑やかに……」",
-      "en": "“I wasn't alone. If anything, my life was incredibly noisy...”"
+      "en": "“I wasn't alone. If anything, my life was incredibly noisy...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0389",
@@ -2660,7 +4506,17 @@
       "sj": "",
       "se": "",
       "jp": "　言いかけたところで、ポケットのなかの携帯電話が振動する。",
-      "en": "Before he can finish, the phone in his pocket vibrates."
+      "en": "Before he can finish, the phone in his pocket vibrates.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0390",
@@ -2669,7 +4525,17 @@
       "sj": "",
       "se": "",
       "jp": "　取り出してみると、<tips=3>クリス・ツェー</tips>からのメールを着信したという通知が表示されていた。",
-      "en": "He takes it out. A notification shows a new message from <tips=3>Chris Xie</tips>."
+      "en": "He takes it out. A notification shows a new message from <tips=3>Chris Xie</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0391",
@@ -2678,7 +4544,17 @@
       "sj": "",
       "se": "",
       "jp": "　すぐにポケットにしまい、",
-      "en": "He slips it straight back into his pocket."
+      "en": "He slips it straight back into his pocket.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0392",
@@ -2687,7 +4563,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「なんでもない」",
-      "en": "“It's nothing.”"
+      "en": "“It's nothing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0393",
@@ -2696,7 +4582,17 @@
       "sj": "",
       "se": "",
       "jp": "　その動作を見つめていた<tips=44>筱喬</tips>にそう言うと、",
-      "en": "He tells <tips=44>Xiaoqiao</tips>, who watched him hide the phone, then continues."
+      "en": "He tells <tips=44>Xiaoqiao</tips>, who watched him hide the phone, then continues.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0394",
@@ -2705,7 +4601,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「とにかく、僕は本当に大丈夫なんだ。だけど、<tips=44>シウ</tips>が手助けしたいって言ってくれたのは嬉しい。ねえ<tips=44>シウ</tips>、何かしなくちゃいけないと心から思ってくれたなら、したのと同じことなんだよ」",
-      "en": "“Anyway, I'm really all right. But I'm glad <tips=44>Siu</tips> wants to help. Listen, <tips=44>Siu</tips>. If your whole heart told you that you had to do something, that matters just as much as doing it.”"
+      "en": "“Anyway, I'm really all right. But I'm glad <tips=44>Siu</tips> wants to help. Listen, <tips=44>Siu</tips>. If your whole heart told you that you had to do something, that matters just as much as doing it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0395",
@@ -2714,7 +4620,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃん。<tips=44>シウ</tips>は悪い子だったけど、もう頑張るからきらいにならないでね。お兄ちゃんにきらわれたら、<tips=44>シウ</tips>……」",
-      "en": "“Brother, <tips=44>Siu</tips> was a bad girl. But she'll try hard now, so please don't hate her. If Brother hated <tips=44>Siu</tips>, she...”"
+      "en": "“Brother, <tips=44>Siu</tips> was a bad girl. But she'll try hard now, so please don't hate her. If Brother hated <tips=44>Siu</tips>, she...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0396",
@@ -2723,7 +4639,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>の目から涙がこぼれ落ちる。それを見て、<tips=1>亮</tips>は不覚にも胸がつまった。",
-      "en": "Tears spill from <tips=44>Xiaoqiao</tips>'s eyes. The sight catches unexpectedly in <tips=1>Ryou</tips>'s chest."
+      "en": "Tears spill from <tips=44>Xiaoqiao</tips>'s eyes. The sight catches unexpectedly in <tips=1>Ryou</tips>'s chest.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0397",
@@ -2732,7 +4658,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「大丈夫。安心して。絶対にきらいになることなんかないよ」",
-      "en": "“It's all right. Don't be afraid. I could never hate you.”"
+      "en": "“It's all right. Don't be afraid. I could never hate you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0398",
@@ -2741,7 +4677,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は<tips=44>筱喬</tips>の頭をくしゃりとなでた。",
-      "en": "<tips=1>Ryou</tips> tousles <tips=44>Xiaoqiao</tips>'s hair."
+      "en": "<tips=1>Ryou</tips> tousles <tips=44>Xiaoqiao</tips>'s hair.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X18:0413",
@@ -2750,7 +4696,8 @@
       "sj": "",
       "se": "",
       "jp": "　夕食を取り、入浴を済ませると<tips=1>亮</tips>はまた<tips=56>和美</tips>の部屋に戻ってきた。",
-      "en": "After dinner and a bath, <tips=1>Ryou</tips> returns to <tips=56>Kazumi</tips>'s room."
+      "en": "After dinner and a bath, <tips=1>Ryou</tips> returns to <tips=56>Kazumi</tips>'s room.",
+      "bg": "assets/vn/backgrounds/bg-ea4e739a8ace.webp"
     },
     {
       "id": "X18:0414",
@@ -2975,7 +4922,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「母さん、眠れないのかい？」",
-      "en": "“Mother, can't you sleep?”"
+      "en": "“Mother, can't you sleep?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0439",
@@ -2984,7 +4937,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>の言葉に<tips=56>和美</tips>は反応を示さず、ぼんやり視線がさまよっている。それは<tips=1>亮</tips>の顔を見ているようにも見えたし、何も見ていないようにも見えた。",
-      "en": "<tips=1>Ryou</tips>'s words draw no response from <tips=56>Kazumi</tips>. Her unfocused gaze wanders. At moments, she seems to be looking at <tips=1>Ryou</tips>'s face. At others, at nothing."
+      "en": "<tips=1>Ryou</tips>'s words draw no response from <tips=56>Kazumi</tips>. Her unfocused gaze wanders. At moments, she seems to be looking at <tips=1>Ryou</tips>'s face. At others, at nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0440",
@@ -2993,7 +4952,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「明日、父さん来れないんだってさ。寂しい？」",
-      "en": "“Father can't come tomorrow. Will you miss him?”"
+      "en": "“Father can't come tomorrow. Will you miss him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0441",
@@ -3002,7 +4967,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう訊ねても、母親はやはりなにも語ろうとはしない。",
-      "en": "Again, his mother says nothing."
+      "en": "Again, his mother says nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0442",
@@ -3011,7 +4982,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕はほっとしてる。会うと緊張するからね」",
-      "en": "“I'm relieved. He makes me nervous.”"
+      "en": "“I'm relieved. He makes me nervous.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0443",
@@ -3020,7 +4997,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は立ち上がって、<tips=56>和美</tips>の布団の裾がめくれあがっているのを直した。",
-      "en": "<tips=1>Ryou</tips> rises and straightens the turned edge of <tips=56>Kazumi</tips>'s blanket."
+      "en": "<tips=1>Ryou</tips> rises and straightens the turned edge of <tips=56>Kazumi</tips>'s blanket.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0444",
@@ -3029,7 +5012,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ひとの繋がりっていうのはなんなんだろうね。僕らはみんな血で繋がっている。……でも、そんなに打ち解け合ってるわけじゃないでしょう？　僕だったら、<tips=55>松子</tips>とか<tips=10>道夫</tips>とか、他の仲間の方がずっと親しい。なのに、彼らとの約束や時間を捨てて、ここに来てずっと母さんの面倒を見ているんだ。不思議なものだと思う。<tips=10>道夫</tips>が言うように、僕の感情はどこか幼稚な部分があるのかもしれない。だから、どこかちょっと、無条件に親に従ってしまうんだ。赤ん坊とか、そうだろう？」",
-      "en": "“What is it that binds people together? We're all connected by blood. ...But we aren't close, are we? I'm much closer to <tips=55>Matsuko</tips>, <tips=10>Michio</tips>, and the others. Yet I broke my promises to them, gave up that time, and came here to care for you. It's strange. Maybe <tips=10>Michio</tips> is right. Maybe part of my heart is still a child. Somewhere inside, I obey my parents without question. Babies do that, don't they?”"
+      "en": "“What is it that binds people together? We're all connected by blood. ...But we aren't close, are we? I'm much closer to <tips=55>Matsuko</tips>, <tips=10>Michio</tips>, and the others. Yet I broke my promises to them, gave up that time, and came here to care for you. It's strange. Maybe <tips=10>Michio</tips> is right. Maybe part of my heart is still a child. Somewhere inside, I obey my parents without question. Babies do that, don't they?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0445",
@@ -3038,7 +5027,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はまた椅子に腰掛けた。",
-      "en": "<tips=1>Ryou</tips> sits again."
+      "en": "<tips=1>Ryou</tips> sits again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0446",
@@ -3047,7 +5042,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「正直、ずっと母さんや父さんを恨んでたんだ」",
-      "en": "“Honestly, I resented you and Father for years.”"
+      "en": "“Honestly, I resented you and Father for years.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0447",
@@ -3056,7 +5057,13 @@
       "sj": "",
       "se": "",
       "jp": "　母親の心にはもうどんな言葉も届かないのかもしれない。しかし<tips=1>亮</tips>は何か言わずにはいられなかった。",
-      "en": "Perhaps no words can reach his mother's heart anymore. Still, <tips=1>Ryou</tips> cannot stop."
+      "en": "Perhaps no words can reach his mother's heart anymore. Still, <tips=1>Ryou</tips> cannot stop.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0448",
@@ -3065,7 +5072,13 @@
       "sj": "",
       "se": "",
       "jp": "　それとも、届かないから言えるのだろうか？　もし母が正気であったなら、あるいはこんな話は一生口にせずに終わっていたかもしれない。",
-      "en": "Or can he speak only because they cannot reach her? If his mother were lucid, perhaps he would live his whole life without saying any of this."
+      "en": "Or can he speak only because they cannot reach her? If his mother were lucid, perhaps he would live his whole life without saying any of this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0449",
@@ -3074,7 +5087,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それは、この世の中自体が好きじゃなかったからだ。世界自体があんまり好きじゃない。悲しいことばっかりで、どんなに頑張ったって報われないことの方が多い。色んな事を知れば意見が変わるかと思ったけれど、何を見たってがっかりさせられるばかりだ。僕らは苦しむためだけにこんな場所に生まれたんだと思ってた。……でもいまはそう思わない」",
-      "en": "“It was because I didn't like the world itself. I still don't like it much. It's full of grief. No matter how hard people try, most of them get nothing for it. I thought learning more might change my mind. Everything I saw only disappointed me. I thought we were born into this place for no reason but to suffer. ...I don't think that anymore.”"
+      "en": "“It was because I didn't like the world itself. I still don't like it much. It's full of grief. No matter how hard people try, most of them get nothing for it. I thought learning more might change my mind. Everything I saw only disappointed me. I thought we were born into this place for no reason but to suffer. ...I don't think that anymore.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0450",
@@ -3083,7 +5102,13 @@
       "sj": "",
       "se": "",
       "jp": "　本当に何も届いていないのだろうか？",
-      "en": "Does none of it truly reach her?"
+      "en": "Does none of it truly reach her?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0451",
@@ -3092,7 +5117,13 @@
       "sj": "",
       "se": "",
       "jp": "　母が黙っているその顔を見ていると、とてもそうは思われない。何か理由があって、発症したふりをしているのか――そんなふうにも考えたくなる。",
-      "en": "Looking at his mother's silent face, he cannot quite believe that. He almost wants to imagine she is only pretending to be ill for some hidden reason."
+      "en": "Looking at his mother's silent face, he cannot quite believe that. He almost wants to imagine she is only pretending to be ill for some hidden reason.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0452",
@@ -3101,7 +5132,13 @@
       "sj": "",
       "se": "",
       "jp": "　何しろ、この母は若い頃は研究者として<tips=8>グレートホール</tips>の研究に携わっていたくらい賢い人間だったのだ。昔は<tips=8>グレートホール</tips>に対して大がかりな調査が行われており、そこには<tips=54>汐健慈朗</tips>もいた。",
-      "en": "After all, his mother was once brilliant enough to work as a researcher studying the <tips=8>Great Hole</tips>. In those days, large-scale surveys of the <tips=8>Great Hole</tips> were still being conducted, and <tips=54>Kenjirou Shio</tips> was among the researchers."
+      "en": "After all, his mother was once brilliant enough to work as a researcher studying the <tips=8>Great Hole</tips>. In those days, large-scale surveys of the <tips=8>Great Hole</tips> were still being conducted, and <tips=54>Kenjirou Shio</tips> was among the researchers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0453",
@@ -3110,7 +5147,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=54>汐健慈朗</tips>は同僚だった<tips=56>和美</tips>のことを殆ど語らない。調査に関わった人間は多く、同僚としてのつき合いはあったにしろ、そこまで親しいわけではなかったのだろうと<tips=1>亮</tips>は考えている。",
-      "en": "<tips=54>Kenjirou Shio</tips> almost never speaks of his former colleague <tips=56>Kazumi</tips>. Many people worked on the survey. <tips=1>Ryou</tips> assumes they knew one another as colleagues but were never especially close."
+      "en": "<tips=54>Kenjirou Shio</tips> almost never speaks of his former colleague <tips=56>Kazumi</tips>. Many people worked on the survey. <tips=1>Ryou</tips> assumes they knew one another as colleagues but were never especially close.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0454",
@@ -3119,7 +5162,13 @@
       "sj": "",
       "se": "",
       "jp": "　とにかくそんな聡明な人間が、このように何もわからなくなるとは、まあそういうものなのだとは知識では知っているが、感情の面からすると納得出来ない部分があった。",
-      "en": "He knows, intellectually, that illness can do this: even a brilliant mind can lose the power to understand. Some part of his heart still refuses to accept it."
+      "en": "He knows, intellectually, that illness can do this: even a brilliant mind can lose the power to understand. Some part of his heart still refuses to accept it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0455",
@@ -3128,7 +5177,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「いまはね、わりと素直に楽しめるんだ。まわりの連中は馬鹿だけどいいやつらだし、いつだって僕を信じてくれる。世の中は不思議に満ちていて、新しい発見がたくさんある。悪いことのなかにもいいことがある。こうなるまで、妹がこんなに可愛いってことも気がつかなかった。ねえ、人生は短いかもしれないし、この先ひどいことも沢山あるかもしれないけど、今のこの楽しいっていう感情は永遠に消えないものだろう？　……それに、そもそも母さんたちだって苦しめるために僕らを産んだわけじゃないからね。親を恨むのは最初から筋違いなんだ。母さんたちだって素敵な将来を夢見て結婚して、子供を産んだわけでしょう？」",
-      "en": "“Now I can simply enjoy things. The people around me are idiots, but they're good people, and they always believe in me. The world is full of mysteries and new discoveries. Even bad things contain something good. Until this happened, I never knew how adorable my sister was. Life may be short. Terrible things may still be waiting for me. But the happiness I feel now can never be erased, can it? ...Besides, you and Father didn't have us so we could suffer. I was wrong to resent you from the beginning. You must have married and had children because you dreamed of a wonderful future too. Didn't you?”"
+      "en": "“Now I can simply enjoy things. The people around me are idiots, but they're good people, and they always believe in me. The world is full of mysteries and new discoveries. Even bad things contain something good. Until this happened, I never knew how adorable my sister was. Life may be short. Terrible things may still be waiting for me. But the happiness I feel now can never be erased, can it? ...Besides, you and Father didn't have us so we could suffer. I was wrong to resent you from the beginning. You must have married and had children because you dreamed of a wonderful future too. Didn't you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0456",
@@ -3137,7 +5192,13 @@
       "sj": "",
       "se": "",
       "jp": "　やはり母の反応はないが、<tips=1>亮</tips>は続ける。",
-      "en": "His mother still gives no sign, but <tips=1>Ryou</tips> continues."
+      "en": "His mother still gives no sign, but <tips=1>Ryou</tips> continues.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0457",
@@ -3146,7 +5207,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まあとにかく、僕はいろいろと学んだんだよ。この街は、人間について学ぶには良い場所だと思う。世間の大半の連中は<tips=9>Y地区</tips>にはクソみたいな人しかいないと思ってて……まあそれは確かにそうなんだけど、でも、じゃあそれを言っている人間はそんなに立派なのかなって思うよ。僕は誰だってそこまで変わらないと思うんだ。根っから悪い奴なんかそこまでいないし、間違いを犯した奴が特別愚かだったわけでも、イカレてるわけでもない。ただちょっと、うまくいかないだけなんだ」",
-      "en": "“Anyway, I've learned a great deal. The City is a good place to learn about human beings. Most people think <tips=9>Y District</tips> contains nothing but pieces of shit... and, yes, it does. But are the people who say that so admirable themselves? I don't think any of us are very different. There aren't many people who are evil to the bone. Someone who made a mistake wasn't uniquely stupid or insane. Something only went a little wrong.”"
+      "en": "“Anyway, I've learned a great deal. The City is a good place to learn about human beings. Most people think <tips=9>Y District</tips> contains nothing but pieces of shit... and, yes, it does. But are the people who say that so admirable themselves? I don't think any of us are very different. There aren't many people who are evil to the bone. Someone who made a mistake wasn't uniquely stupid or insane. Something only went a little wrong.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0458",
@@ -3155,7 +5222,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>の言葉は幾分熱を帯びはじめている。",
-      "en": "Heat begins to enter <tips=1>Ryou</tips>'s voice."
+      "en": "Heat begins to enter <tips=1>Ryou</tips>'s voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0459",
@@ -3164,7 +5237,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「その、ボタンの掛け違いみたいなところで、この街の人間は本当にくだらなくて馬鹿馬鹿しい死に方をするし、何だかいつもうるさく喚き合ってる。そういうのは好きじゃないけど、でも、おかげで色々学んだ。充分すぎるくらい学んだよ。……いつかこの街を出たいんだ。ずっとここにいたら僕もこの街にいる得体の知れない何かに振り回されてしまいそうだから。まあ、もしかしたら、どこへ行っても同じようなものかもしれないけれど」",
-      "en": "“Like the first button in the wrong hole. People in this City die in ways so stupid and ridiculous you can barely believe them, and everyone is always shouting at everyone else. I don't like it. But I learned from it. More than enough. ...Someday I want to leave. If I stay forever, I think whatever nameless thing lives in this City will start tossing me around too. Though perhaps everywhere is the same.”"
+      "en": "“Like the first button in the wrong hole. People in this City die in ways so stupid and ridiculous you can barely believe them, and everyone is always shouting at everyone else. I don't like it. But I learned from it. More than enough. ...Someday I want to leave. If I stay forever, I think whatever nameless thing lives in this City will start tossing me around too. Though perhaps everywhere is the same.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0460",
@@ -3173,7 +5252,13 @@
       "sj": "",
       "se": "",
       "jp": "　時計はもうずいぶんと遅い時間を指し示している。<tips=44>筱喬</tips>はもう寝ただろう。<tips=1>亮</tips>も明日のためにそろそろ寝る支度をしなくてはいけない。",
-      "en": "The clock shows a late hour. <tips=44>Xiaoqiao</tips> must already be asleep. <tips=1>Ryou</tips> needs to prepare for bed and for tomorrow."
+      "en": "The clock shows a late hour. <tips=44>Xiaoqiao</tips> must already be asleep. <tips=1>Ryou</tips> needs to prepare for bed and for tomorrow.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0461",
@@ -3182,7 +5267,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「僕は何でもやってみるつもりだよ。たとえ短い命だとしても、生きるだけの価値は充分にあると、今は感じてるんだ」",
-      "en": "“I mean to try everything. Even if my life is short, now I know it's worth living.”"
+      "en": "“I mean to try everything. Even if my life is short, now I know it's worth living.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0462",
@@ -3191,7 +5282,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は立ち上がり、そして母に向かってこの日最後の言葉を口にした。",
-      "en": "<tips=1>Ryou</tips> stands and speaks his last words to his mother that day."
+      "en": "<tips=1>Ryou</tips> stands and speaks his last words to his mother that day.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X18:0463",
@@ -3200,7 +5297,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「母さん、こんな素敵な場所に、僕を産んでくれてありがとう」",
-      "en": "“Mother, thank you for giving birth to me in a place this wonderful.”"
+      "en": "“Mother, thank you for giving birth to me in a place this wonderful.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

@@ -95,7 +95,8 @@
       "sj": "",
       "se": "",
       "jp": "　平日の昼間にもかかわらず<tips=57>滑走路通り</tips>は活気で満ちている。",
-      "en": "It's the middle of a weekday, but <tips=57>Runway Street</tips> is bustling."
+      "en": "It's the middle of a weekday, but <tips=57>Runway Street</tips> is bustling.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "A1:0019",
@@ -419,7 +420,8 @@
       "sj": "",
       "se": "",
       "jp": "　いよいよ嘔気がたまらないものとなってきた。",
-      "en": "By now, the nausea is unbearable."
+      "en": "By now, the nausea is unbearable.",
+      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
     },
     {
       "id": "A1:0071",
@@ -527,7 +529,8 @@
       "sj": "",
       "se": "",
       "jp": "　ウェイターの声で顔をあげる。",
-      "en": "At the waiter's voice, I lift my head."
+      "en": "At the waiter's voice, I lift my head.",
+      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
     },
     {
       "id": "A1:0094",
@@ -968,7 +971,8 @@
       "sj": "",
       "se": "",
       "jp": "　お茶を半分ほど飲んだところで、人混みの向こうから、一人の少女がやってくるのが目にはいる。",
-      "en": "When I have drunk about half my tea, I notice a girl approaching from beyond the crowd."
+      "en": "When I have drunk about half my tea, I notice a girl approaching from beyond the crowd.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "A1:0151",
@@ -1454,7 +1458,8 @@
       "sj": "",
       "se": "",
       "jp": "　――いつの間にか僕は目を閉じていたらしい。ハッとして、すぐに時計を見る。",
-      "en": "—At some point, I must have closed my eyes. I jolt awake and check the time."
+      "en": "—At some point, I must have closed my eyes. I jolt awake and check the time.",
+      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
     },
     {
       "id": "A1:0224",
@@ -1490,7 +1495,8 @@
       "sj": "",
       "se": "",
       "jp": "　会計を済ませ、路上に戻ったところで<tips=4>馬明</tips>に電話をかけた。",
-      "en": "After settling the bill and returning to the street, I call <tips=4>Ma Ming</tips>."
+      "en": "After settling the bill and returning to the street, I call <tips=4>Ma Ming</tips>.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "A1:0231",
@@ -1670,7 +1676,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いやあ、久しぶりだなあ。少し痩せたんじゃないかい？　ちっとも連絡しないから、どうしてるかなっていつも心配していたんだ」",
-      "en": "“Well, look at you! It's been ages. Have you lost some weight? You never call, so I'm always wondering how you're doing.”"
+      "en": "“Well, look at you! It's been ages. Have you lost some weight? You never call, so I'm always wondering how you're doing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0259",
@@ -1679,7 +1691,13 @@
       "sj": "",
       "se": "",
       "jp": "「お前に心配される筋合いはないだろう」",
-      "en": "“It's none of your business whether I'm doing well.”"
+      "en": "“It's none of your business whether I'm doing well.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0260",
@@ -1688,7 +1706,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうか？　ちゃんとバランス良く食事を食べてるかとか、学校で新しい友だちは作れたのかとか、気になって仕方ないことはたくさんある」",
-      "en": "“Isn't it? I can't help wondering about all sorts of things. Are you eating properly? Have you made any new friends at school?”"
+      "en": "“Isn't it? I can't help wondering about all sorts of things. Are you eating properly? Have you made any new friends at school?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0261",
@@ -1697,7 +1721,13 @@
       "sj": "",
       "se": "",
       "jp": "「……なんでそんなことを心配されなきゃいけないんだ」",
-      "en": "“...Why are you worrying about any of that?”"
+      "en": "“...Why are you worrying about any of that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0262",
@@ -1706,7 +1736,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そりゃ、お前はしっかりしているようで抜けてるからな」",
-      "en": "“Because you look like you've got it all together, but you can be pretty scatterbrained.”"
+      "en": "“Because you look like you've got it all together, but you can be pretty scatterbrained.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0263",
@@ -1715,7 +1751,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は黙ってしまうが、彼は僕の沈黙の理由などまったく興味がない。",
-      "en": "I fall silent. He has no interest at all in why."
+      "en": "I fall silent. He has no interest at all in why.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0264",
@@ -1724,7 +1766,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ちょうど最近、お前のことをよく話していたところなんだよ。思えば今日出会う予感があったのかもね。いやあ、会えて良かった」",
-      "en": "“Funny, I've been talking about you a lot lately. Maybe some part of me knew we'd run into each other today. Anyway, I'm glad we did.”"
+      "en": "“Funny, I've been talking about you a lot lately. Maybe some part of me knew we'd run into each other today. Anyway, I'm glad we did.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0265",
@@ -1733,7 +1781,13 @@
       "sj": "",
       "se": "",
       "jp": "　荷台に大きな荷物をくくりつけたシティサイクルにまたがった<tips=10>道夫</tips>は、のどかな笑顔で僕の肩を叩く。",
-      "en": "Straddling a city bicycle with a large load lashed to its rear rack, <tips=10>Michio</tips> pats me on the shoulder with an easy smile."
+      "en": "Straddling a city bicycle with a large load lashed to its rear rack, <tips=10>Michio</tips> pats me on the shoulder with an easy smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0266",
@@ -1742,7 +1796,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はかつてこの街の少年たちのリーダーで、そして僕にとっては親しい友人だ。",
-      "en": "He was once the leader of the boys in this City, and he is a close friend of mine."
+      "en": "He was once the leader of the boys in this City, and he is a close friend of mine.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0267",
@@ -1751,7 +1811,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「やっぱり故郷が懐かしくて帰って来たのか？　学校で勉強なんかしてたって面白くないもんなあ」",
-      "en": "“What, did you get homesick and come running back? Sitting around studying can't be that much fun.”"
+      "en": "“What, did you get homesick and come running back? Sitting around studying can't be that much fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0268",
@@ -1760,7 +1826,13 @@
       "sj": "",
       "se": "",
       "jp": "「結婚式に呼ばれたから、ちょっと来ただけだ」",
-      "en": "“I was invited to a wedding. I only came for a short visit.”"
+      "en": "“I was invited to a wedding. I only came for a short visit.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0269",
@@ -1769,7 +1841,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうか、それはめでたい。で、誰の結婚式なの？　おれが知らないってことは、お前の家の関係か？」",
-      "en": "“Oh, good for them. Whose wedding? If I didn't hear about it, was it someone from your other family?”"
+      "en": "“Oh, good for them. Whose wedding? If I didn't hear about it, was it someone from your other family?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0270",
@@ -1778,7 +1856,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0271",
@@ -1787,7 +1871,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は頷いた。<tips=10>道夫</tips>は、僕が自分から素性を明かした、この街では数少ない相手の一人である。",
-      "en": "I nod. <tips=10>Michio</tips> is one of the very few people in this City I chose to tell about my background."
+      "en": "I nod. <tips=10>Michio</tips> is one of the very few people in this City I chose to tell about my background.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0272",
@@ -1796,7 +1886,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「へー。お前、そういう集まりに顔出すの大嫌いだったのに、大人になったもんだなあ」",
-      "en": "“Huh. You always hated showing your face at family gatherings. Look at you, all grown up.”"
+      "en": "“Huh. You always hated showing your face at family gatherings. Look at you, all grown up.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0273",
@@ -1805,7 +1901,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は感心したように頷いている。",
-      "en": "<tips=10>Michio</tips> nods as though impressed."
+      "en": "<tips=10>Michio</tips> nods as though impressed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0274",
@@ -1814,7 +1916,13 @@
       "sj": "",
       "se": "",
       "jp": "「……まあ、そんな話はどうだっていいんだよ。それより、その荷物はなんだ？　識らない間に配達屋にでもなったんだろうか」",
-      "en": "“...Never mind that. What's all the cargo? Did you become a deliveryman while I wasn't looking?”"
+      "en": "“...Never mind that. What's all the cargo? Did you become a deliveryman while I wasn't looking?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0275",
@@ -1823,7 +1931,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ああ、これか」",
-      "en": "“Oh, this?”"
+      "en": "“Oh, this?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0276",
@@ -1832,7 +1946,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>ははにかんで荷台のダンボール箱を叩くと、紐をといて中身を見せてくれた。",
-      "en": "<tips=10>Michio</tips> smiles bashfully and taps the cardboard box on the rack, then unties the cord to show me what's inside."
+      "en": "<tips=10>Michio</tips> smiles bashfully and taps the cardboard box on the rack, then unties the cord to show me what's inside.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0277",
@@ -1841,7 +1961,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこには黒ごまをまぶした菓子のようなものが、一つ一つ透明なフィルムで包装した形で並べられている。",
-      "en": "Rows of what appear to be black-sesame-coated sweets sit inside, each individually wrapped in clear film."
+      "en": "Rows of what appear to be black-sesame-coated sweets sit inside, each individually wrapped in clear film.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0278",
@@ -1850,7 +1976,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんだコレ？　<ruby=チーマーカオ>芝麻球</ruby>か？」",
-      "en": "“What are these? <ruby=チーマーカオ>Sesame balls</ruby>?”"
+      "en": "“What are these? <ruby=チーマーカオ>Sesame balls</ruby>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0279",
@@ -1859,7 +1991,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ほら」",
-      "en": "“Here.”"
+      "en": "“Here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0280",
@@ -1868,7 +2006,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は一つ放り投げる。僕はそれをキャッチして、彼に言われるまま一口囓った。ゴマに包まれていたのは黒い餡を包んだ白いもっちりとした生地で、口のなかいっぱいに甘味がし、鼻先に香ばしいにおいがする。",
-      "en": "<tips=10>Michio</tips> tosses me one. I catch it and, at his urging, take a bite. Under the sesame coating is chewy white dough wrapped around a black filling. Sweetness floods my mouth, followed by the rich fragrance of toasted sesame."
+      "en": "<tips=10>Michio</tips> tosses me one. I catch it and, at his urging, take a bite. Under the sesame coating is chewy white dough wrapped around a black filling. Sweetness floods my mouth, followed by the rich fragrance of toasted sesame.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0281",
@@ -1877,7 +2021,13 @@
       "sj": "",
       "se": "",
       "jp": "「うまい」",
-      "en": "“It's good.”"
+      "en": "“It's good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0282",
@@ -1886,7 +2036,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうだろう？」",
-      "en": "“Isn't it?”"
+      "en": "“Isn't it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0283",
@@ -1895,7 +2051,13 @@
       "sj": "",
       "se": "",
       "jp": "「でもこれ、やっぱり芝麻球のアレンジじゃないの？」",
-      "en": "“But isn't it really just a variation on a sesame ball?”"
+      "en": "“But isn't it really just a variation on a sesame ball?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0284",
@@ -1904,7 +2066,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いやあ、それがちがうんだな。まったく、食い物にうるさいわりには、意外と味がわからないんだな。あの中華ごま団子とは、見た目は似てるが使ってる材料も製法も全然違うのだよ。揚げてもいないし、生地は饅頭に近い。これはおれと仲間で独自に開発した新製法の菓子、『<tips=71>グレートホール饅頭</tips>』っていうんだ」",
-      "en": "“Nope. That's where you're wrong. For someone so fussy about food, you really don't know what you're tasting, do you? They may look like Chinese sesame balls, but the ingredients and method are completely different. They aren't even fried, and the dough is closer to manju. My friends and I invented the process ourselves. We call them <tips=71>Great Hole Manju</tips>.”"
+      "en": "“Nope. That's where you're wrong. For someone so fussy about food, you really don't know what you're tasting, do you? They may look like Chinese sesame balls, but the ingredients and method are completely different. They aren't even fried, and the dough is closer to manju. My friends and I invented the process ourselves. We call them <tips=71>Great Hole Manju</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0285",
@@ -1913,7 +2081,13 @@
       "sj": "",
       "se": "",
       "jp": "「おい、そうやって人の肩を気軽に叩くのやめてくれよ。頭に響く。酒を飲み過ぎて、頭蓋骨のなかでオーケストラが騒いでるみたいにガンガンとするんだ」",
-      "en": "“Hey, stop slapping me on the shoulder. It goes straight to my head. I drank too much, and now there's an orchestra raising hell inside my skull.”"
+      "en": "“Hey, stop slapping me on the shoulder. It goes straight to my head. I drank too much, and now there's an orchestra raising hell inside my skull.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0286",
@@ -1922,7 +2096,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「アハハ、そんなのおれは知らないよ！　それよりも、聞いてくれよ<tips=1>亮</tips>。これはとても重要なビジネスなんだよ。おれの人生を賭けてるんだ」",
-      "en": "“Ha ha! Not my problem! More importantly, listen, <tips=1>Ryou</tips>. This is serious business. I'm betting my life on it.”"
+      "en": "“Ha ha! Not my problem! More importantly, listen, <tips=1>Ryou</tips>. This is serious business. I'm betting my life on it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0287",
@@ -1931,7 +2111,13 @@
       "sj": "",
       "se": "",
       "jp": "「お前はしょっちゅう人生を賭けてるな」",
-      "en": "“You bet your life on something every other day.”"
+      "en": "“You bet your life on something every other day.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0288",
@@ -1940,7 +2126,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうさ。なんだって、全力を尽くさなきゃ気持ちが悪いからな」",
-      "en": "“That’s right. I can’t stand doing anything halfway.”"
+      "en": "“That’s right. I can’t stand doing anything halfway.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0289",
@@ -1949,7 +2141,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は白い歯を見せてさわやかに笑い、",
-      "en": "<tips=10>Michio</tips> flashes his white teeth in a bright, open smile."
+      "en": "<tips=10>Michio</tips> flashes his white teeth in a bright, open smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0290",
@@ -1958,7 +2156,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「なあ<tips=1>亮</tips>。この街には、いい年をしてるのにまともに働きもしないでぶらぶらしてる若者やおっさんが多すぎると思わんか？　そういう人らがね、くだらない犯罪をおかしたり、お前のおやじさんの組織に入ったりしてる。その一方で、働きたくたって働けない<tips=17>タイプB</tips>やら<tips=16>タイプA</tips>やらもたくさんいる。そいつらもお前のおやじさんの組織に入る。つまり、社会に行き場がないやつは大体お前のおやじさんの組織に入るんだ。これじゃいかんと思わないか？」",
-      "en": "“Listen, <tips=1>Ryou</tips>. Don't you think this City has far too many young men—and grown men, for that matter—wandering around without doing an honest day's work? They commit some petty crime or join your father's organization. At the same time, there are plenty of <tips=17>Type B</tips> and <tips=16>Type A</tips> people who want to work but can't. They join your father's organization too. Basically, anyone with nowhere else to go ends up there. You can't tell me that's good.”"
+      "en": "“Listen, <tips=1>Ryou</tips>. Don't you think this City has far too many young men—and grown men, for that matter—wandering around without doing an honest day's work? They commit some petty crime or join your father's organization. At the same time, there are plenty of <tips=17>Type B</tips> and <tips=16>Type A</tips> people who want to work but can't. They join your father's organization too. Basically, anyone with nowhere else to go ends up there. You can't tell me that's good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0291",
@@ -1967,7 +2171,13 @@
       "sj": "",
       "se": "",
       "jp": "　往来でそんなに大きな声で話すものではないだろう。",
-      "en": "He really shouldn't be saying all this at the top of his lungs in the middle of the street."
+      "en": "He really shouldn't be saying all this at the top of his lungs in the middle of the street.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0292",
@@ -1976,7 +2186,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、よくないな。あの組織に入るようじゃ。そりゃあよくない」",
-      "en": "“No, it isn't good. If they're joining that organization, it definitely isn't good.”"
+      "en": "“No, it isn't good. If they're joining that organization, it definitely isn't good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0293",
@@ -1985,7 +2201,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうだろう？　おれはこれを<tips=9>Y地区</tips>の新しい名産品にしてな、じゃんじゃん売って、そいつらみんなに仕事を与えてやろうと思ってる。饅頭ってのもいいだろ？　甘い物って、食べるとなんだか平和な気持ちになるからな。この街も、いや、世界というものはあまりにも殺伐としすぎていると思うんさ。そこに、この平和な食べ物を売ることで、みんな幸せになる。それが今のおれの人生の目標だ」",
-      "en": "“Exactly! I'm going to turn these into a new <tips=9>Y District</tips> specialty, sell them by the cartload, and give all those people jobs. Manju are perfect, don't you think? Something sweet just makes you feel peaceful. This City—no, the whole world—is far too grim and violent. Sell people peaceful food, make everyone happier. That's my goal in life now.”"
+      "en": "“Exactly! I'm going to turn these into a new <tips=9>Y District</tips> specialty, sell them by the cartload, and give all those people jobs. Manju are perfect, don't you think? Something sweet just makes you feel peaceful. This City—no, the whole world—is far too grim and violent. Sell people peaceful food, make everyone happier. That's my goal in life now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0294",
@@ -1994,7 +2216,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は目をきらきらと輝かせて大いに語る。",
-      "en": "<tips=10>Michio</tips>'s eyes sparkle as he launches into his grand vision."
+      "en": "<tips=10>Michio</tips>'s eyes sparkle as he launches into his grand vision.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0295",
@@ -2003,7 +2231,13 @@
       "sj": "",
       "se": "",
       "jp": "　あまりにも自信に満ちあふれているので、もう一口『<tips=71>グレートホール饅頭</tips>』を食べてみる。",
-      "en": "He sounds so supremely confident that I try another bite of the <tips=71>Great Hole Manju</tips>."
+      "en": "He sounds so supremely confident that I try another bite of the <tips=71>Great Hole Manju</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0296",
@@ -2012,7 +2246,13 @@
       "sj": "",
       "se": "",
       "jp": "　なかの餡は、こしあんに干し柿と、ごま油かなにかを混ぜ込んでいるのだろうか？　これが<tips=10>道夫</tips>の言う工夫なのだろうか？　そんな感じがする。",
-      "en": "Has he mixed dried persimmon and perhaps sesame oil into the smooth red-bean paste? Is that the innovation <tips=10>Michio</tips> was talking about? It tastes that way."
+      "en": "Has he mixed dried persimmon and perhaps sesame oil into the smooth red-bean paste? Is that the innovation <tips=10>Michio</tips> was talking about? It tastes that way.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0297",
@@ -2021,7 +2261,13 @@
       "sj": "",
       "se": "",
       "jp": "　旨いことは旨い。他の甘い物と比較して特別旨いのかどうかは僕にはわからない。",
-      "en": "It is good. Whether it's any better than other sweets, I couldn't say."
+      "en": "It is good. Whether it's any better than other sweets, I couldn't say.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0298",
@@ -2030,7 +2276,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=10>道夫</tips>の人生だから好きにすればいいさ。だけれど『<tips=71>グレートホール饅頭</tips>』というネーミングはどうなんだ」",
-      "en": "“It's your life, <tips=10>Michio</tips>. Do what you want. But <tips=71>Great Hole Manju</tips>? That's really the name?”"
+      "en": "“It's your life, <tips=10>Michio</tips>. Do what you want. But <tips=71>Great Hole Manju</tips>? That's really the name?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0299",
@@ -2039,7 +2291,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「この街にふさわしいし、インパクトもあるだろ？　世界でも数少ない謎の大穴<tips=8>グレートホール</tips>がすぐ近くにあるんだから、これを名前に使わない手がない。むしろ、この名前をはじめに思いついて、そのあとでふさわしい商品を開発したくらいなんよ。なあ、おれってアイデアマンじゃないか？　お前のやたらと厳しい目で見ても、思わず褒めたくなるでしょう？」",
-      "en": "“It suits the City, and you remember it, right? One of the world's few mysterious giant holes is right next door. How could I not use the <tips=8>Great Hole</tips> in the name? Actually, I thought of the name first and invented a product to match. Pretty clever, huh? Even a hard man to please like you has to give me that.”"
+      "en": "“It suits the City, and you remember it, right? One of the world's few mysterious giant holes is right next door. How could I not use the <tips=8>Great Hole</tips> in the name? Actually, I thought of the name first and invented a product to match. Pretty clever, huh? Even a hard man to please like you has to give me that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0300",
@@ -2048,7 +2306,13 @@
       "sj": "",
       "se": "",
       "jp": "「ふーん」",
-      "en": "“Hm.”"
+      "en": "“Hm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0301",
@@ -2057,7 +2321,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「それだけか」",
-      "en": "“Is that all?”"
+      "en": "“Is that all?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0302",
@@ -2066,7 +2336,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0303",
@@ -2075,7 +2351,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「素っ気ないなあ」",
-      "en": "“That's it? Cold, man.”"
+      "en": "“That's it? Cold, man.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0304",
@@ -2084,7 +2366,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は不満げに顔を顰める。",
-      "en": "<tips=10>Michio</tips> frowns in dissatisfaction."
+      "en": "<tips=10>Michio</tips> frowns in dissatisfaction.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0305",
@@ -2093,7 +2381,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「なあ<tips=1>亮</tips>。おれはなあ、この街を変えたいんだよ。この<tips=9>Y地区</tips>は、確かに自由があって、いろんな素晴らしい人間が住んでいる良い街だけど、その反面あまりにも悲惨なことが多すぎる。お前が昔からこの街に対してイライラしてたのが理解出来なかったけれど、最近は少しわかるところもあるんだ。それをなんとかしたいと思ってさ」",
-      "en": "“Listen, <tips=1>Ryou</tips>. I want to change this City. <tips=9>Y District</tips> is a good place. It's free, and all kinds of wonderful people live here. But there's far too much misery, too. I never understood why this City made you so angry, but lately I'm starting to. And I want to do something about it.”"
+      "en": "“Listen, <tips=1>Ryou</tips>. I want to change this City. <tips=9>Y District</tips> is a good place. It's free, and all kinds of wonderful people live here. But there's far too much misery, too. I never understood why this City made you so angry, but lately I'm starting to. And I want to do something about it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0306",
@@ -2102,7 +2396,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って何か訴えかけるように僕を見るが、僕は返事をしないで黙っている。すると彼はまた口を開き、",
-      "en": "He looks at me as if asking for an answer. I give him none, so he goes on:"
+      "en": "He looks at me as if asking for an answer. I give him none, so he goes on:",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0307",
@@ -2111,7 +2411,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「……あのさあ、だから、お前も手伝ってくれないか？　この仕事をさ」",
-      "en": "“...So, well, will you help me? With the business?”"
+      "en": "“...So, well, will you help me? With the business?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0308",
@@ -2120,7 +2426,13 @@
       "sj": "",
       "se": "",
       "jp": "「いやだよ」",
-      "en": "“No.”"
+      "en": "“No.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0309",
@@ -2129,7 +2441,13 @@
       "sj": "",
       "se": "",
       "jp": "　と僕はきっぱりと言った。",
-      "en": "I say it flatly."
+      "en": "I say it flatly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0310",
@@ -2138,7 +2456,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そう言わないでさ。大学ってのはあとでもまた続けられるんだろ？　まず、ここを変えるのが、この街で生まれたおれたちのやることなんじゃないか？」",
-      "en": "“Don't say that. You can always go back to university later, can't you? People like us were born in this City. Shouldn't changing it come first?”"
+      "en": "“Don't say that. You can always go back to university later, can't you? People like us were born in this City. Shouldn't changing it come first?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0311",
@@ -2147,7 +2471,13 @@
       "sj": "",
       "se": "",
       "jp": "「冗談じゃない。僕は全然興味がない」",
-      "en": "“You've got to be joking. I'm not interested.”"
+      "en": "“You've got to be joking. I'm not interested.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0312",
@@ -2156,7 +2486,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「冷たいなあ」",
-      "en": "“You're cold.”"
+      "en": "“You're cold.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0313",
@@ -2165,7 +2501,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はがっくりと肩を落とす。",
-      "en": "<tips=10>Michio</tips>'s shoulders slump."
+      "en": "<tips=10>Michio</tips>'s shoulders slump.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0314",
@@ -2174,7 +2516,13 @@
       "sj": "",
       "se": "",
       "jp": "　いや、当たり前じゃないか。何が悲しくてまんじゅう売りなんかしなくてはいけないんだ。",
-      "en": "Well, of course not. Why in the world would I sell manju?"
+      "en": "Well, of course not. Why in the world would I sell manju?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0315",
@@ -2183,7 +2531,13 @@
       "sj": "",
       "se": "",
       "jp": "　そんなものをいくら売ったって街が変わるはずもないじゃないか。",
-      "en": "He could sell a million of them and never change the City."
+      "en": "He could sell a million of them and never change the City.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0316",
@@ -2192,7 +2546,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>はこのやり方で他のヤツを魔法に掛けたように味方にするけれども、僕には通用しない。",
-      "en": "<tips=10>Michio</tips> wins other people over with this routine as if casting a spell. It doesn't work on me."
+      "en": "<tips=10>Michio</tips> wins other people over with this routine as if casting a spell. It doesn't work on me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0317",
@@ -2201,7 +2561,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「まあ、今はそういう時期なんだろう。でもそのうち気がつくはずさ。学校で学問だとかなんだとか、でかくて小難しいことを考えるよりも、自分を生んだ街の方が大事だってな。気が変わったらいつでも言ってくれよ。そうしたら仲間に入れてやるからな」",
-      "en": "“Well, maybe that's just where you are in life right now. Someday you'll realize this City—the place that made you—matters more than whatever you're studying or all those huge, complicated questions you think about. Tell me when you change your mind. I'll let you join us.”"
+      "en": "“Well, maybe that's just where you are in life right now. Someday you'll realize this City—the place that made you—matters more than whatever you're studying or all those huge, complicated questions you think about. Tell me when you change your mind. I'll let you join us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0318",
@@ -2210,7 +2576,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>道夫</tips>は悠然と笑っている。どうせ、どう話したって僕の考えなんかわかりゃしないんだ。",
-      "en": "<tips=10>Michio</tips> smiles as serenely as ever. No matter how I explain myself, he'll never understand."
+      "en": "<tips=10>Michio</tips> smiles as serenely as ever. No matter how I explain myself, he'll never understand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0319",
@@ -2219,7 +2591,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は溜息をつき、そして気がつくと、携帯電話にメールが届いていた。",
-      "en": "I sigh. Then I notice that a message has arrived on my phone."
+      "en": "I sigh. Then I notice that a message has arrived on my phone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0320",
@@ -2228,7 +2606,13 @@
       "sj": "",
       "se": "",
       "jp": "「やっと今日の宿のアドレスが届いた」",
-      "en": "“Finally. The address of tonight's hotel.”"
+      "en": "“Finally. The address of tonight's hotel.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0321",
@@ -2237,7 +2621,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「どこに泊まるんだ？」",
-      "en": "“Where are you staying?”"
+      "en": "“Where are you staying?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0322",
@@ -2246,7 +2636,13 @@
       "sj": "",
       "se": "",
       "jp": "「言わないよ。のんきに訪ねられても困るからね。まあ、久しぶりに近況を聞けて良かった。またね」",
-      "en": "“I'm not telling you. You'd come wandering over whenever the mood struck. Still, it was good to hear what you've been up to. See you.”"
+      "en": "“I'm not telling you. You'd come wandering over whenever the mood struck. Still, it was good to hear what you've been up to. See you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0323",
@@ -2255,7 +2651,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕がそう言って話を打ち切ろうとすると、",
-      "en": "I try to bring the conversation to an end."
+      "en": "I try to bring the conversation to an end.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0324",
@@ -2264,7 +2666,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「なあ、本当にこの街に戻るつもりはないのか？」",
-      "en": "“Tell me—you're really not coming back to this City?”"
+      "en": "“Tell me—you're really not coming back to this City?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0325",
@@ -2273,7 +2681,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は真顔で僕を見つめる。",
-      "en": "He looks at me with a serious expression."
+      "en": "He looks at me with a serious expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0326",
@@ -2282,7 +2696,13 @@
       "sj": "",
       "se": "",
       "jp": "「ないよ」",
-      "en": "“No.”"
+      "en": "“No.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0327",
@@ -2291,7 +2711,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「戻ってくれよ。そして一緒にやろう。きっと楽しいぜ」",
-      "en": "“Come back. We can do this together. I know it would be fun.”"
+      "en": "“Come back. We can do this together. I know it would be fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0328",
@@ -2300,7 +2726,13 @@
       "sj": "",
       "se": "",
       "jp": "「もしかしたら楽しいかもしれない。でも、もう僕は、そういう時代は終わったんだよ」",
-      "en": "“Maybe it would be fun. But that part of my life is over.”"
+      "en": "“Maybe it would be fun. But that part of my life is over.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0329",
@@ -2309,7 +2741,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕はきっぱりと言ってから、",
-      "en": "I answer firmly, then add:"
+      "en": "I answer firmly, then add:",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0330",
@@ -2318,7 +2756,13 @@
       "sj": "",
       "se": "",
       "jp": "「今の僕の心はこの街のごちゃごちゃしたものに対してあまりにも冷淡だ。たとえば今目の前でヤク中が現れて、<tips=57>滑走路通り</tips>の通行人を片っ端からナイフで襲ったとしても、ふんと頷いて通り過ぎるだけだろう」",
-      "en": "“By now, I'm far too cold toward all the chaos in this City. A drug addict could appear in front of me this instant and start knifing everyone on <tips=57>Runway Street</tips>, and I'd probably just nod and keep walking.”"
+      "en": "“By now, I'm far too cold toward all the chaos in this City. A drug addict could appear in front of me this instant and start knifing everyone on <tips=57>Runway Street</tips>, and I'd probably just nod and keep walking.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0331",
@@ -2327,7 +2771,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いやあ、それは嘘だろうさ」",
-      "en": "“Nah. That's a lie.”"
+      "en": "“Nah. That's a lie.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0332",
@@ -2336,7 +2786,13 @@
       "sj": "",
       "se": "",
       "jp": "「嘘じゃないさ。僕も大人になったんだよ」",
-      "en": "“It isn't. I've grown up too.”"
+      "en": "“It isn't. I've grown up too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0334",
@@ -2435,7 +2891,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>の使いは見たことのないブラジル人だった。",
-      "en": "The man <tips=4>Ma Ming</tips> sends for me is a Brazilian I have never seen before."
+      "en": "The man <tips=4>Ma Ming</tips> sends for me is a Brazilian I have never seen before.",
+      "bg": "assets/vn/backgrounds/bg-d6fb04408fb6.webp"
     },
     {
       "id": "A1:0368",
@@ -2633,7 +3090,8 @@
       "sj": "",
       "se": "",
       "jp": "『<tips=41>グランドタワー</tips>』と呼ばれるその建物は３５階建てであり、特別高層というわけでもないが、<tips=9>Y地区</tips>には他に巨大なビルがないのでよく目立つ。",
-      "en": "<tips=41>Grand Tower</tips> stands thirty-five stories tall. Nothing exceptional elsewhere, but with no other enormous buildings in <tips=9>Y District</tips>, it dominates the skyline."
+      "en": "<tips=41>Grand Tower</tips> stands thirty-five stories tall. Nothing exceptional elsewhere, but with no other enormous buildings in <tips=9>Y District</tips>, it dominates the skyline.",
+      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
     },
     {
       "id": "A1:0404",
@@ -2948,7 +3406,8 @@
       "sj": "",
       "se": "",
       "jp": "　僕はまたエレベーターに乗って少し階を下りる。",
-      "en": "I get back into the elevator and descend a few floors."
+      "en": "I get back into the elevator and descend a few floors.",
+      "bg": "assets/vn/backgrounds/bg-a119ef071cac.webp"
     },
     {
       "id": "A1:0451",
@@ -3056,7 +3515,8 @@
       "sj": "",
       "se": "",
       "jp": "　彼女の住まいとなった部屋はちょっとした家のリビングルームくらい広く、向こうにはベランダへ続くガラス戸も見られる。",
-      "en": "Her residence is as spacious as the living room of a modest house. Across the room, I can see glass doors opening onto a balcony."
+      "en": "Her residence is as spacious as the living room of a modest house. Across the room, I can see glass doors opening onto a balcony.",
+      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
     },
     {
       "id": "A1:0467",
@@ -3092,7 +3552,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃん！」",
-      "en": "“Big brother!”"
+      "en": "“Big brother!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0483",
@@ -3101,7 +3567,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は顔立ち自体は幼いというわけでもなかったが、世間と隔離された生活を送って来たせいか喋り方も表情も実年齢よりずっと幼い。",
-      "en": "Her features aren't especially childish. But perhaps because she has lived cut off from the world, both her speech and expressions seem far younger than her real age."
+      "en": "Her features aren't especially childish. But perhaps because she has lived cut off from the world, both her speech and expressions seem far younger than her real age.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0484",
@@ -3110,7 +3582,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「今日来るって聞いてたから、楽しみにしてたんだ。久しぶりだね！　学校は楽しい？」",
-      "en": "“I heard you were coming today, so I've been looking forward to it. It's been so long! Are you having fun at school?”"
+      "en": "“I heard you were coming today, so I've been looking forward to it. It's been so long! Are you having fun at school?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0485",
@@ -3119,7 +3597,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言うと、童女のように首をかしげた。",
-      "en": "She tilts her head like a little girl."
+      "en": "She tilts her head like a little girl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0486",
@@ -3128,7 +3612,13 @@
       "sj": "",
       "se": "",
       "jp": "「楽しいよ。<tips=44>シウ</tips>は元気だった？」",
-      "en": "“Yeah. Have you been well, <tips=44>Siu</tips>?”"
+      "en": "“Yeah. Have you been well, <tips=44>Siu</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0487",
@@ -3137,7 +3627,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「元気だよ！　……ねえ、昨日は<ruby=メイメイ><tips=24>美美</tips></ruby>ちゃんの結婚式行って来たんでしょ？　<tips=44>シウ</tips>も行きたかったな……。お父さんもお兄ちゃんも行ったのに、<tips=44>シウ</tips>だけいけないだなんてつまんないよ」",
-      "en": "“I have! ...You went to <ruby=メイメイ><tips=24>Meimei</tips></ruby>'s wedding yesterday, didn't you? <tips=44>Siu</tips> wanted to go too... Father went, and you went, and only <tips=44>Siu</tips> had to stay home. It's no fun.”"
+      "en": "“I have! ...You went to <ruby=メイメイ><tips=24>Meimei</tips></ruby>'s wedding yesterday, didn't you? <tips=44>Siu</tips> wanted to go too... Father went, and you went, and only <tips=44>Siu</tips> had to stay home. It's no fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0488",
@@ -3146,7 +3642,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はそう言って唇をとがらせる。",
-      "en": "She pouts."
+      "en": "She pouts.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0489",
@@ -3155,7 +3657,13 @@
       "sj": "",
       "se": "",
       "jp": "「行ったって面白いことなんか何もないよ」",
-      "en": "“You didn't miss anything interesting.”"
+      "en": "“You didn't miss anything interesting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0490",
@@ -3164,7 +3672,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=24>美美</tips>ちゃんの花嫁姿見たかったの。……それに、この部屋にいるよりは楽しいでしょう？　私、久しぶりに<tips=36>アウロラ</tips>ちゃんとかと会ってお話したかった。教会も見たい。もうずっとこの家から見える風景しか見てないし……」",
-      "en": "“I wanted to see <tips=24>Meimei</tips> in her wedding dress. ...And it had to be more fun than sitting in this room, right? I wanted to see <tips=36>Aurora</tips> and the others and talk again. I want to see the church too. It's been so long since I've seen anything but the view from this house...”"
+      "en": "“I wanted to see <tips=24>Meimei</tips> in her wedding dress. ...And it had to be more fun than sitting in this room, right? I wanted to see <tips=36>Aurora</tips> and the others and talk again. I want to see the church too. It's been so long since I've seen anything but the view from this house...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0491",
@@ -3173,7 +3687,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなに外に出して貰っていないのか？」",
-      "en": "“They hardly ever let you out?”"
+      "en": "“They hardly ever let you out?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0492",
@@ -3182,7 +3702,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「う、うん……」",
-      "en": "“Y-yes...”"
+      "en": "“Y-yes...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0493",
@@ -3191,7 +3717,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう頷く<tips=44>筱喬</tips>の態度に動揺が垣間見える。僕はおやと思ったが、あえて何も聞かず、気がつかないフリをした。",
-      "en": "I catch a flicker of unease in <tips=44>Xiaoqiao</tips> as she nods. Something strikes me as odd, but I choose not to ask and pretend I noticed nothing."
+      "en": "I catch a flicker of unease in <tips=44>Xiaoqiao</tips> as she nods. Something strikes me as odd, but I choose not to ask and pretend I noticed nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0494",
@@ -3200,7 +3732,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕から<tips=81>龍頭</tips>に、もっと外に出すように言っておくよ」",
-      "en": "“I'll tell the <tips=81>Longtou</tips> to let you go out more often.”"
+      "en": "“I'll tell the <tips=81>Longtou</tips> to let you go out more often.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0495",
@@ -3209,7 +3747,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「い、いいよ！　お父さんが<tips=44>シウ</tips>のことを心配してくれてるのはわかってるから！　わがままはいいたくないの」",
-      "en": "“N-no, that's all right! I know Father only worries about <tips=44>Siu</tips>! I don't want to be selfish.”"
+      "en": "“N-no, that's all right! I know Father only worries about <tips=44>Siu</tips>! I don't want to be selfish.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0496",
@@ -3218,7 +3762,13 @@
       "sj": "",
       "se": "",
       "jp": "「じゃあ言わないでおく」",
-      "en": "“Then I won't say anything.”"
+      "en": "“Then I won't say anything.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0497",
@@ -3227,7 +3777,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕がそう言うと、<tips=44>筱喬</tips>は安堵の溜息をついた。",
-      "en": "At my answer, <tips=44>Xiaoqiao</tips> sighs with relief."
+      "en": "At my answer, <tips=44>Xiaoqiao</tips> sighs with relief.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0498",
@@ -3236,7 +3792,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「ありがとう。……ねえ、それでお兄ちゃん、聞きたいことがあるんだけどいい？」",
-      "en": "“Thank you. ...So, big brother, there's something I want to ask. Is that all right?”"
+      "en": "“Thank you. ...So, big brother, there's something I want to ask. Is that all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0499",
@@ -3245,7 +3807,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は上目遣いで、僕の表情をうかがうようにしながらそう尋ねる。",
-      "en": "<tips=44>Xiaoqiao</tips> looks up at me, searching my expression as she asks."
+      "en": "<tips=44>Xiaoqiao</tips> looks up at me, searching my expression as she asks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0500",
@@ -3254,7 +3822,13 @@
       "sj": "",
       "se": "",
       "jp": "「なに？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0501",
@@ -3263,7 +3837,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は若干緊張して身構える。<tips=44>筱喬</tips>は、変に鋭いというか、勘が良いところがあって、変な誤魔化しをするとすぐに見抜いてしまう。",
-      "en": "I tense slightly. <tips=44>Xiaoqiao</tips> can be uncannily perceptive—or perhaps she simply has excellent instincts. She sees straight through any clumsy evasion."
+      "en": "I tense slightly. <tips=44>Xiaoqiao</tips> can be uncannily perceptive—or perhaps she simply has excellent instincts. She sees straight through any clumsy evasion.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0502",
@@ -3272,7 +3852,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「今日お兄ちゃんは、お父さんに呼ばれてここに来たんでしょ」",
-      "en": "“Father called you here today, didn't he?”"
+      "en": "“Father called you here today, didn't he?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0503",
@@ -3281,7 +3867,13 @@
       "sj": "",
       "se": "",
       "jp": "「うん」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0504",
@@ -3290,7 +3882,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そんなの、初めてだよね」",
-      "en": "“That's never happened before, has it?”"
+      "en": "“That's never happened before, has it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0505",
@@ -3299,7 +3897,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうだったかな。結婚式のついでだよ」",
-      "en": "“Was it? I only came here because of the wedding.”"
+      "en": "“Was it? I only came here because of the wedding.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0506",
@@ -3308,7 +3912,13 @@
       "sj": "",
       "se": "",
       "jp": "　いま妹の頭の中にある疑問をなんとなく察した僕は、わざととぼけてみせた。",
-      "en": "Sensing the question now forming in my sister's mind, I deliberately play dumb."
+      "en": "Sensing the question now forming in my sister's mind, I deliberately play dumb.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0507",
@@ -3317,7 +3927,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そうだよ。それに、こんなに素直にお兄ちゃんが、お父さんの言うことを聞くのも滅多にないよね。普通だったら、絶対にありえない……」",
-      "en": "“That's right. And you almost never do what Father says so readily. Usually, that would never happen...”"
+      "en": "“That's right. And you almost never do what Father says so readily. Usually, that would never happen...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0508",
@@ -3326,7 +3942,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は確信があるようだ。",
-      "en": "<tips=44>Xiaoqiao</tips> seems convinced of it."
+      "en": "<tips=44>Xiaoqiao</tips> seems convinced of it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0509",
@@ -3335,7 +3957,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなことないさ。気が向くときだってあるよ」",
-      "en": "“That's not true. Sometimes the mood strikes me.”"
+      "en": "“That's not true. Sometimes the mood strikes me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0510",
@@ -3344,7 +3972,13 @@
       "sj": "",
       "se": "",
       "jp": "　このくらいの誤魔化し方じゃ、<tips=44>筱喬</tips>に悟られてしまうな。",
-      "en": "An excuse this feeble won't fool <tips=44>Xiaoqiao</tips>."
+      "en": "An excuse this feeble won't fool <tips=44>Xiaoqiao</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0511",
@@ -3353,7 +3987,13 @@
       "sj": "",
       "se": "",
       "jp": "　その予感はすぐに現実のものとなり、",
-      "en": "She proves me right at once."
+      "en": "She proves me right at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0512",
@@ -3362,7 +4002,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「ねえ、お父さんはもうすぐ死んじゃうの？」",
-      "en": "“Big brother... is Father going to die soon?”"
+      "en": "“Big brother... is Father going to die soon?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0513",
@@ -3371,7 +4017,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は真剣な目でそう尋ねる。",
-      "en": "<tips=44>Xiaoqiao</tips> asks with solemn eyes."
+      "en": "<tips=44>Xiaoqiao</tips> asks with solemn eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0514",
@@ -3380,7 +4032,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お父さんの体調の話って、誰に聞いても全然教えてくれないけど、いつもとあまりにも違うもの。いくらばかな私だって気がつくよ……」",
-      "en": "“No one tells me anything when I ask about Father's health, but everything is too different from usual. Even someone as stupid as me can tell...”"
+      "en": "“No one tells me anything when I ask about Father's health, but everything is too different from usual. Even someone as stupid as me can tell...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0515",
@@ -3389,7 +4047,13 @@
       "sj": "",
       "se": "",
       "jp": "「うーん、じゃあ、はっきり言うよ。いい？」",
-      "en": "“All right. I'll tell you plainly. Are you sure?”"
+      "en": "“All right. I'll tell you plainly. Are you sure?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0516",
@@ -3398,7 +4062,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「う、うん……」",
-      "en": "“Y-yes...”"
+      "en": "“Y-yes...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0517",
@@ -3407,7 +4077,13 @@
       "sj": "",
       "se": "",
       "jp": "「まず、僕も父さんの詳しい病状なんか知らない。でも、今<tips=44>筱喬</tips>が想像したことと同じような事態を予測している。……そうだな。結婚式に来いって連絡が来た時くらいからかな。違和感があったんだ」",
-      "en": "“First, I don't know the details of Father's condition either. But I expect the same thing <tips=44>Xiaoqiao</tips> just imagined. ...I think I first sensed something was wrong when they told me to come to the wedding.”"
+      "en": "“First, I don't know the details of Father's condition either. But I expect the same thing <tips=44>Xiaoqiao</tips> just imagined. ...I think I first sensed something was wrong when they told me to come to the wedding.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0518",
@@ -3416,7 +4092,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「やっぱり……」",
-      "en": "“I knew it...”"
+      "en": "“I knew it...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "A1:0532",
@@ -3425,7 +4107,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は糸の切れた操り人形のように全身を脱力させて、床にぺたりと座り込む。そして急に大粒の涙をボロボロとこぼして泣き始めた。",
-      "en": "Like a puppet with its strings cut, <tips=44>Xiaoqiao</tips> goes limp and crumples to the floor. Then huge tears spill from her eyes and she begins to sob."
+      "en": "Like a puppet with its strings cut, <tips=44>Xiaoqiao</tips> goes limp and crumples to the floor. Then huge tears spill from her eyes and she begins to sob.",
+      "bg": "assets/vn/backgrounds/bg-b9b977e09bbf.webp"
     },
     {
       "id": "A1:0533",
@@ -4019,7 +4702,8 @@
       "sj": "",
       "se": "",
       "jp": "「ばかっ！」",
-      "en": "“Idiot!”"
+      "en": "“Idiot!”",
+      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
     },
     {
       "id": "A1:0606",
@@ -4109,7 +4793,8 @@
       "sj": "",
       "se": "",
       "jp": "　他の階は良くも悪くもオフィスビルを思わせる近代的でシンプルな内装であったけれど、<tips=81>龍頭</tips>の居住となるその場所は、それに相応しい装飾があしらわれ、絢爛と言うべきだろう。",
-      "en": "For better or worse, the other floors are modern and plain, much like any office building. This one is the <tips=81>Longtou</tips>'s home, decorated to match. Resplendent is the word."
+      "en": "For better or worse, the other floors are modern and plain, much like any office building. This one is the <tips=81>Longtou</tips>'s home, decorated to match. Resplendent is the word.",
+      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
     },
     {
       "id": "A1:0630",
@@ -4136,7 +4821,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「兄貴は相変わらず冗談ばかりを言っているが、あれは空元気だろう。非常に状態が悪い」",
-      "en": "“Brother still jokes as much as ever, but it's all bravado. He's in bad shape. Very bad.”"
+      "en": "“Brother still jokes as much as ever, but it's all bravado. He's in bad shape. Very bad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0641",
@@ -4145,7 +4836,13 @@
       "sj": "",
       "se": "",
       "jp": "　隣に並んで歩く<tips=4>馬明</tips>のいつにない深刻な口調が反響する。",
-      "en": "The uncharacteristically grave voice of <tips=4>Ma Ming</tips>, walking beside me, echoes down the corridor."
+      "en": "The uncharacteristically grave voice of <tips=4>Ma Ming</tips>, walking beside me, echoes down the corridor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0642",
@@ -4154,7 +4851,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は、扉を開けるその最初の瞬間を、まずどういう態度で迎えるかについて考えていた。",
-      "en": "I'm still deciding what face to wear in that first instant after the door opens."
+      "en": "I'm still deciding what face to wear in that first instant after the door opens.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0643",
@@ -4163,7 +4866,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「医者の見解は、明日や明後日にどうにかなるという可能性は少ないにしろ、もっと先、たとえば１０日後となると難しいということだ」",
-      "en": "“The doctor says he probably won't die tomorrow or the day after. Ten days from now, though? That's another matter.”"
+      "en": "“The doctor says he probably won't die tomorrow or the day after. Ten days from now, though? That's another matter.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0644",
@@ -4172,7 +4881,13 @@
       "sj": "",
       "se": "",
       "jp": "　思ったよりも事態は切迫しているようだ。昨日遠目に見たときは、車椅子ではあったが会話などをして元気そうだったのに。",
-      "en": "This is more urgent than I expected. From a distance yesterday, Father was in a wheelchair, but he was talking and seemed lively enough."
+      "en": "This is more urgent than I expected. From a distance yesterday, Father was in a wheelchair, but he was talking and seemed lively enough.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0645",
@@ -4181,7 +4896,13 @@
       "sj": "",
       "se": "",
       "jp": "　困ったな。",
-      "en": "That complicates things."
+      "en": "That complicates things.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0646",
@@ -4190,7 +4911,13 @@
       "sj": "",
       "se": "",
       "jp": "　事情を知る周囲の人間は、僕が父のことを嫌っていると思っているだろう。",
-      "en": "People who know the circumstances probably believe that I hate my father."
+      "en": "People who know the circumstances probably believe that I hate my father.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0647",
@@ -4199,7 +4926,13 @@
       "sj": "",
       "se": "",
       "jp": "　確かに僕と<tips=3>クリス・ツェー</tips>は長らく疎遠でほとんど接点というものがなかったし、お互いのお互いに対する接し方も打ち解けたものではなかった。",
-      "en": "It is true that <tips=3>Chris Xie</tips> and I have been estranged for years and barely speak. Neither of us knows how to act naturally around the other."
+      "en": "It is true that <tips=3>Chris Xie</tips> and I have been estranged for years and barely speak. Neither of us knows how to act naturally around the other.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0648",
@@ -4208,7 +4941,13 @@
       "sj": "",
       "se": "",
       "jp": "　だけれど、それだけじゃない。",
-      "en": "But that is not the whole of it."
+      "en": "But that is not the whole of it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0649",
@@ -4217,7 +4956,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「なあ<tips=2>阿亮</tips>、いろいろわだかまりはあるだろう。しかし、今日は素直に兄貴の言葉を聞いてやって欲しいんだ」",
-      "en": "“Listen, <tips=2>Ah Liang</tips>. I know you two have history. But today, put it aside and hear Brother out.”"
+      "en": "“Listen, <tips=2>Ah Liang</tips>. I know you two have history. But today, put it aside and hear Brother out.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0650",
@@ -4226,7 +4971,13 @@
       "sj": "",
       "se": "",
       "jp": "　確かに今でも他人行儀になってしまう程度の距離の隔たりはあるし、事実少年時代はどうしても馴染めないものを感じていた。",
-      "en": "Even now, enough distance lies between us that I behave like a stranger. As a boy, I always felt there was something about him I could never get used to."
+      "en": "Even now, enough distance lies between us that I behave like a stranger. As a boy, I always felt there was something about him I could never get used to.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0651",
@@ -4235,7 +4986,13 @@
       "sj": "",
       "se": "",
       "jp": "　父側の理由を全く理解出来なかったわけではなかったけれど、まるっきり放置された状況では、自分たちの家庭は彼に捨てられていたのではという疑惑はいつもつきまとう。",
-      "en": "I wasn't blind to Father's reasons. But after he left us entirely to ourselves, I could never shake the suspicion that he had abandoned our family."
+      "en": "I wasn't blind to Father's reasons. But after he left us entirely to ourselves, I could never shake the suspicion that he had abandoned our family.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0652",
@@ -4244,7 +5001,13 @@
       "sj": "",
       "se": "",
       "jp": "　世間が<tips=3>クリス・ツェー</tips>に対して賞賛したり恐れたりする様子も、僕にすれば尊敬心よりも、距離の遠さを感じさせた。破れたボールを直したり、ほどけにくい靴紐の結び方を教えてくれるような友人の父親が羨ましかった。",
-      "en": "The way the world praised and feared <tips=3>Chris Xie</tips> inspired no respect in me. It only made him feel farther away. I envied friends whose fathers patched their torn soccer balls or showed them how to tie knots that wouldn't come loose."
+      "en": "The way the world praised and feared <tips=3>Chris Xie</tips> inspired no respect in me. It only made him feel farther away. I envied friends whose fathers patched their torn soccer balls or showed them how to tie knots that wouldn't come loose.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0653",
@@ -4253,7 +5016,13 @@
       "sj": "",
       "se": "",
       "jp": "　だから、少年時代の僕は<tips=3>クリス・ツェー</tips>を憎むとはいかないまでも、その存在を思うと非常に冷淡な感情が心を支配するのを咎めようがなかった。",
-      "en": "So although I couldn't quite say I hated <tips=3>Chris Xie</tips>, as a boy I couldn't stop my heart from going cold whenever I thought of him."
+      "en": "So although I couldn't quite say I hated <tips=3>Chris Xie</tips>, as a boy I couldn't stop my heart from going cold whenever I thought of him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0654",
@@ -4262,7 +5031,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「このドアの向こうだ。……心の準備はいいか？」",
-      "en": "“He's behind this door. ...Are you ready?”"
+      "en": "“He's behind this door. ...Are you ready?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "A1:0663",
@@ -4361,7 +5136,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>がノックをすると、音もなくドアは開いた。",
-      "en": "When <tips=4>Ma Ming</tips> knocks, the door opens without a sound."
+      "en": "When <tips=4>Ma Ming</tips> knocks, the door opens without a sound.",
+      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
     },
     {
       "id": "A1:0684",
@@ -4370,7 +5146,8 @@
       "sj": "",
       "se": "",
       "jp": "　広い部屋の中央にベッドが設置され、その脇に<tips=39>ジェフリー・ウォン</tips>と、父の身のまわりの世話をする役目であろう女の従者が立っている。",
-      "en": "A bed stands in the center of a spacious room. Beside it are <tips=39>Jeffrey Wong</tips> and a female attendant whose role must be to see to my father's daily needs."
+      "en": "A bed stands in the center of a spacious room. Beside it are <tips=39>Jeffrey Wong</tips> and a female attendant whose role must be to see to my father's daily needs.",
+      "bg": "assets/vn/backgrounds/bg-ac3eb4995358.webp"
     },
     {
       "id": "A1:0693",
@@ -5090,7 +5867,8 @@
       "sj": "",
       "se": "",
       "jp": "　彼は目を閉じる。",
-      "en": "He closes his eyes."
+      "en": "He closes his eyes.",
+      "bg": "assets/vn/backgrounds/bg-f1031c2ebc8d.webp"
     },
     {
       "id": "A1:0779",
@@ -5450,7 +6228,8 @@
       "sj": "",
       "se": "",
       "jp": "　どうにか言うと、僕は父の顔を睨み付けた。彼は案の定、ニヤニヤと笑っている。",
-      "en": "When I finally manage it, I glare at Father. Just as I expected, he is grinning."
+      "en": "When I finally manage it, I glare at Father. Just as I expected, he is grinning.",
+      "bg": "assets/vn/backgrounds/bg-ac3eb4995358.webp"
     },
     {
       "id": "A1:0833",
@@ -5504,7 +6283,8 @@
       "sj": "",
       "se": "",
       "jp": "　地下の駐車場までやって来ると、くつろいで煙草を吸っていたブラジル人運転手を促し、ドアを開けさせた。",
-      "en": "In the underground garage, I find the Brazilian driver relaxing with a cigarette. I hurry him along and have him open the door."
+      "en": "In the underground garage, I find the Brazilian driver relaxing with a cigarette. I hurry him along and have him open the door.",
+      "bg": "assets/vn/backgrounds/bg-d6fb04408fb6.webp"
     },
     {
       "id": "A1:0854",
@@ -5594,7 +6374,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「……おい、おれの事務所に寄ってくれ」",
-      "en": "“...Hey. Stop by my office.”"
+      "en": "“...Hey. Stop by my office.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0865",
@@ -5603,7 +6389,13 @@
       "sj": "",
       "se": "",
       "jp": "「あっ、<tips=4>馬明</tips>様」",
-      "en": "“Oh, Master <tips=4>Ma Ming</tips>.”"
+      "en": "“Oh, Master <tips=4>Ma Ming</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0866",
@@ -5612,7 +6404,13 @@
       "sj": "",
       "se": "",
       "jp": "　突然乗り込んで来た<tips=4>馬明</tips>の言葉に、運転手が戸惑いを浮かべる。",
-      "en": "The driver looks bewildered by <tips=4>Ma Ming</tips>'s sudden arrival and order."
+      "en": "The driver looks bewildered by <tips=4>Ma Ming</tips>'s sudden arrival and order.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0867",
@@ -5621,7 +6419,13 @@
       "sj": "",
       "se": "",
       "jp": "「他の車で帰れよ。僕は一人になりたいんだ」",
-      "en": "“Take another car back. I want to be alone.”"
+      "en": "“Take another car back. I want to be alone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0868",
@@ -5630,7 +6434,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「まあまあ、そう言うな。大事な話があるんだ。……おい、事務所まで頼むぞ」",
-      "en": "“Come on, don't be like that. I have something important to discuss. ...My office, driver.”"
+      "en": "“Come on, don't be like that. I have something important to discuss. ...My office, driver.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0869",
@@ -5639,7 +6449,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は僕に有無を言わさず、運転手にもう一度行き先を指示する。",
-      "en": "Without giving me a chance to object, he repeats the destination to the driver."
+      "en": "Without giving me a chance to object, he repeats the destination to the driver.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0871",
@@ -5648,7 +6464,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いやあ、しかし、なんだな、あれは……」",
-      "en": "“Still, that was... Well, that was something.”"
+      "en": "“Still, that was... Well, that was something.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0872",
@@ -5657,7 +6479,13 @@
       "sj": "",
       "se": "",
       "jp": "　車が走り出すと、<tips=4>馬明</tips>はクックッと笑いを堪えている。",
-      "en": "As the car pulls away, <tips=4>Ma Ming</tips> struggles to hold in a chuckle."
+      "en": "As the car pulls away, <tips=4>Ma Ming</tips> struggles to hold in a chuckle.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0873",
@@ -5666,7 +6494,13 @@
       "sj": "",
       "se": "",
       "jp": "「笑いたいなら素直に笑えばいいさ」",
-      "en": "“If you want to laugh, go ahead and laugh.”"
+      "en": "“If you want to laugh, go ahead and laugh.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0874",
@@ -5675,7 +6509,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は苛々しながらそう言う。",
-      "en": "I speak irritably."
+      "en": "I speak irritably.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0875",
@@ -5684,7 +6524,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いやあ、すまん！　しかし、兄貴があんなことを言い出すとは、おれもちっとも想像していなかった。おれもな、てっきり<tips=2>阿亮</tips>に組織に入れって話をするもんだと思っていたんだよ。あれが一番の望みだったとはなあ。いやあ、やっぱり親心というやつだな」",
-      "en": "“Sorry, sorry! But I never imagined Brother would say something like that. I was certain he meant to tell <tips=2>Ah Liang</tips> to join the organization. To think that was his greatest wish! Well, I suppose that's a father's heart for you.”"
+      "en": "“Sorry, sorry! But I never imagined Brother would say something like that. I was certain he meant to tell <tips=2>Ah Liang</tips> to join the organization. To think that was his greatest wish! Well, I suppose that's a father's heart for you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0876",
@@ -5693,7 +6539,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなわけないだろう。最初は今後の組織の話をするつもりだったのは間違いない。ただ、部屋に来た僕の様子を見て、どうしても説得出来そうになかったから、僕をからかうために、その場であんなことを思い付いたんだよ」",
-      "en": "“Of course it wasn't. He meant to talk about the organization's future at first. Then I walked in, he saw he'd never persuade me, and he invented the whole thing on the spot to make a fool of me.”"
+      "en": "“Of course it wasn't. He meant to talk about the organization's future at first. Then I walked in, he saw he'd never persuade me, and he invented the whole thing on the spot to make a fool of me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0877",
@@ -5702,7 +6554,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いくら兄貴でも、そこまで人が悪くはないだろう」",
-      "en": "“Even Brother isn't that cruel.”"
+      "en": "“Even Brother isn't that cruel.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0878",
@@ -5711,7 +6569,13 @@
       "sj": "",
       "se": "",
       "jp": "「いいや、瀕死でもやる人だね。彼は」",
-      "en": "“He is. Even on his deathbed.”"
+      "en": "“He is. Even on his deathbed.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0879",
@@ -5720,7 +6584,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「ううむ」",
-      "en": "“Hmmm.”"
+      "en": "“Hmmm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0880",
@@ -5729,7 +6599,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は腕組みをすると、",
-      "en": "<tips=4>Ma Ming</tips> folds his arms."
+      "en": "<tips=4>Ma Ming</tips> folds his arms.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0881",
@@ -5738,7 +6614,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「兄貴の本心はわからんが、おれは、いまの<tips=7>ＹＳ</tips>の状況を考えれば後継者としてふさわしいのは<tips=2>阿亮</tips>しかいないと思っている。血の繋がった長男が継承する以外に兄貴亡きあとの組織をまとめる方法はない」",
-      "en": "“I don't know what Brother truly intends. But given the state of <tips=7>YS</tips>, <tips=2>Ah Liang</tips> is the only suitable successor. Once Brother dies, nothing but his eldest son taking over will hold the organization together.”"
+      "en": "“I don't know what Brother truly intends. But given the state of <tips=7>YS</tips>, <tips=2>Ah Liang</tips> is the only suitable successor. Once Brother dies, nothing but his eldest son taking over will hold the organization together.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0882",
@@ -5747,7 +6629,13 @@
       "sj": "",
       "se": "",
       "jp": "「他にいないわけないだろう。いくらでも有能なやつがいるんだから、そこから誰か昇格させるのが穏当だ」",
-      "en": "“Of course there are other choices. You have plenty of capable people. Promote one of them. That's the sensible thing.”"
+      "en": "“Of course there are other choices. You have plenty of capable people. Promote one of them. That's the sensible thing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0883",
@@ -5756,7 +6644,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「<tips=81>龍頭</tips>の地位は血族が継ぐ。それが伝統だ」",
-      "en": "“The <tips=81>Longtou</tips>'s position passes to his blood relatives. That is tradition.”"
+      "en": "“The <tips=81>Longtou</tips>'s position passes to his blood relatives. That is tradition.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0884",
@@ -5765,7 +6659,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは<tips=7>ＹＳ</tips>じゃなくて、<tips=69>義勝</tips>の伝統じゃないか」",
-      "en": "“That is the tradition of <tips=69>Yi Shen</tips>, not <tips=7>YS</tips>.”"
+      "en": "“That is the tradition of <tips=69>Yi Shen</tips>, not <tips=7>YS</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0885",
@@ -5774,7 +6674,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「同じことだ。<tips=69>義勝</tips>時代の掟は今も生きている。それに、この世界には血よりも濃いものはない」",
-      "en": "“Same thing. The old rules from <tips=69>Yi Shen</tips> still stand. And in this world, nothing is thicker than blood.”"
+      "en": "“Same thing. The old rules from <tips=69>Yi Shen</tips> still stand. And in this world, nothing is thicker than blood.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0886",
@@ -5783,7 +6689,13 @@
       "sj": "",
       "se": "",
       "jp": "「前時代的だな。そんな考えでいるのは<tips=76>香港派</tips>の連中だけだよ。他の幹部が納得すると思えない。<tips=81>龍頭</tips>自身そう言ってたじゃないか」",
-      "en": "“That's archaic. Only the <tips=76>Hong Kong Faction</tips> still thinks that way. The other executives will never accept it. The <tips=81>Longtou</tips> himself just said so.”"
+      "en": "“That's archaic. Only the <tips=76>Hong Kong Faction</tips> still thinks that way. The other executives will never accept it. The <tips=81>Longtou</tips> himself just said so.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0887",
@@ -5792,7 +6704,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「あれは本心なのかな？　まあ、何にしろ、<tips=3>クリス・ツェー</tips>と関わりが強い人間が跡を継ぐ以外、方法はないのさ」",
-      "en": "“Was that really what he thinks? Either way, someone with a close connection to <tips=3>Chris Xie</tips> has to succeed him. There's no other choice.”"
+      "en": "“Was that really what he thinks? Either way, someone with a close connection to <tips=3>Chris Xie</tips> has to succeed him. There's no other choice.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0888",
@@ -5801,7 +6719,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこで<tips=4>馬明</tips>は声のトーンを落とし、",
-      "en": "Here <tips=4>Ma Ming</tips> lowers his voice."
+      "en": "Here <tips=4>Ma Ming</tips> lowers his voice.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0889",
@@ -5810,7 +6734,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「兄貴が弱り、死が近づくにつれて、この街には昔の雰囲気が戻りつつある」",
-      "en": "“As Brother weakens and death draws closer, the old feeling is returning to this City.”"
+      "en": "“As Brother weakens and death draws closer, the old feeling is returning to this City.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0890",
@@ -5819,7 +6749,13 @@
       "sj": "",
       "se": "",
       "jp": "「昔？」",
-      "en": "“The old feeling?”"
+      "en": "“The old feeling?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0891",
@@ -5828,7 +6764,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「そうとも。<tips=7>ＹＳ</tips>が生まれる前の、組織同士で対立していた時代さ。今は大人しくしている連中が、みな兄貴の死後の勢力図について考えはじめ、その時少しでも有利になるように動いている。そこらじゅうに、きなくさいにおいが漂ってやがるんだ。昨日の結婚式で気がつかなかったか？　あちこちに固まって、身内だけで話していやがる。あからさまじゃねえか」",
-      "en": "“That's right. The days before <tips=7>YS</tips>, when every organization fought the others. Men who have kept quiet until now are thinking about the balance of power after Brother dies, moving to gain whatever advantage they can. Something ugly is in the air. Didn't you notice at the wedding? They were huddled in little groups everywhere, talking only among themselves. They could hardly make it more obvious.”"
+      "en": "“That's right. The days before <tips=7>YS</tips>, when every organization fought the others. Men who have kept quiet until now are thinking about the balance of power after Brother dies, moving to gain whatever advantage they can. Something ugly is in the air. Didn't you notice at the wedding? They were huddled in little groups everywhere, talking only among themselves. They could hardly make it more obvious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0892",
@@ -5837,7 +6779,13 @@
       "sj": "",
       "se": "",
       "jp": "「少し気になっていた。<tips=81>龍頭</tips>の影響力があそこまで弱まっているとは」",
-      "en": "“I did notice. I hadn't realized the <tips=81>Longtou</tips>'s influence had weakened so much.”"
+      "en": "“I did notice. I hadn't realized the <tips=81>Longtou</tips>'s influence had weakened so much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0893",
@@ -5846,7 +6794,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「そうだろう？　だから<tips=2>阿亮</tips>はあんなにイライラしていたんだな」",
-      "en": "“Exactly. So that was why <tips=2>Ah Liang</tips> was so irritated.”"
+      "en": "“Exactly. So that was why <tips=2>Ah Liang</tips> was so irritated.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0894",
@@ -5855,7 +6809,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは全然違う」",
-      "en": "“That had nothing to do with it.”"
+      "en": "“That had nothing to do with it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0896",
@@ -5864,7 +6824,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕がむすっとして言うと、彼は笑い、",
-      "en": "I reply sullenly, and he laughs."
+      "en": "I reply sullenly, and he laughs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0897",
@@ -5873,7 +6839,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「とにかく、こんな状態で、よその派閥のボスをスライドさせて<tips=81>龍頭</tips>にしたら、組織が割れて元の戦国時代に逆戻りするのは火を見るより明らかだ。<tips=7>ＹＳ</tips>は元々結びつきの強い組織じゃない。街の英雄<tips=3>クリス・ツェー</tips>がボスとして仕切っていたから、どの派閥にも利益があって、それでまとまっていただけの話だ。だから、その名声を引き継げる後継者が必要なんだよ」",
-      "en": "“Anyway, if we simply take the boss of another faction and install him as <tips=81>Longtou</tips>, the organization will split and we'll go straight back to the old warring days. That's plain as day. <tips=7>YS</tips> was never tightly knit. It held together because the City's hero, <tips=3>Chris Xie</tips>, was in charge and every faction benefited. We need a successor who can carry that legend forward.”"
+      "en": "“Anyway, if we simply take the boss of another faction and install him as <tips=81>Longtou</tips>, the organization will split and we'll go straight back to the old warring days. That's plain as day. <tips=7>YS</tips> was never tightly knit. It held together because the City's hero, <tips=3>Chris Xie</tips>, was in charge and every faction benefited. We need a successor who can carry that legend forward.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0898",
@@ -5882,7 +6854,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうしても血の繋がりが必要なら<tips=76>旧義勝</tips>にいる親戚連中の誰かから選べばいい。いくらでもいるじゃないか。まあ、僕は血族の掟なんか捨てて、<tips=39>ジェフリー</tips>や<tips=4>馬明</tips>がやるのが一番いいんじゃないかと思っているけれどね」",
-      "en": "“If blood is all that matters, choose one of the relatives in <tips=76>Old Yi Shen</tips>. There are plenty. Personally, I'd throw out the bloodline rule and let <tips=39>Jeffrey</tips> or <tips=4>Ma Ming</tips> do it.”"
+      "en": "“If blood is all that matters, choose one of the relatives in <tips=76>Old Yi Shen</tips>. There are plenty. Personally, I'd throw out the bloodline rule and let <tips=39>Jeffrey</tips> or <tips=4>Ma Ming</tips> do it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0899",
@@ -5891,7 +6869,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「おれや<tips=39>ジェフリー</tips>じゃ、<tips=7>ＹＳ</tips>全体どころか、身内も納得しないよ。……しかし、お前は全くわかっていないな。ただ血が繋がってるってだけじゃ駄目なのさ。組織にいる親戚なんか、兄貴よりお年を召してらっしゃる方ばかりだ。失礼ながら、兄貴が頭角を現すまで何も出来なかった人たちだ。誰も彼らには期待しないよ。……だから、若くて活きのいい、可能性に満ちあふれた御曹司がどうしても必要なんだよ」",
-      "en": "“Neither <tips=39>Jeffrey</tips> nor I could satisfy our own people, never mind all of <tips=7>YS</tips>. ...You really understand nothing. Sharing Brother's blood isn't enough. The relatives in the organization are all older than he is. With all due respect, none of them managed a thing before Brother rose to power. No one expects anything from them. ...That's why we need a young heir bursting with promise.”"
+      "en": "“Neither <tips=39>Jeffrey</tips> nor I could satisfy our own people, never mind all of <tips=7>YS</tips>. ...You really understand nothing. Sharing Brother's blood isn't enough. The relatives in the organization are all older than he is. With all due respect, none of them managed a thing before Brother rose to power. No one expects anything from them. ...That's why we need a young heir bursting with promise.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0900",
@@ -5900,7 +6884,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕からすればいい面の皮だ」",
-      "en": "“And I'm the poor fool who gets stuck with it.”"
+      "en": "“And I'm the poor fool who gets stuck with it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0901",
@@ -5909,7 +6899,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「どうしてそんなにいやがる？　やりがいのある仕事じゃないか」",
-      "en": "“Why are you so against it? It's worthwhile work.”"
+      "en": "“Why are you so against it? It's worthwhile work.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0902",
@@ -5918,7 +6914,13 @@
       "sj": "",
       "se": "",
       "jp": "「冗談じゃない。伝統芸能じゃないんだから、子が親の仕事を継ぐのが当たり前って考え方はナンセンスだ。そっちの世界から見れば僕は<tips=3>クリス・ツェー</tips>の息子でしかないんだろうけれども、僕には僕の考えがある。自分を後継者だなんて考えたこともない。だから、苦労して学生になったんだよ。何でここまで来て、犯罪組織と関わらなきゃならないのか」",
-      "en": "“You've got to be joking. This isn't a traditional art. Children don't automatically inherit their parents' jobs. From inside your world, maybe I'm nothing but <tips=3>Chris Xie</tips>'s son. But I have a life of my own. I've never thought of myself as his successor. That's why I worked so hard to become a student. Why should I come this far only to get dragged into a criminal organization?”"
+      "en": "“You've got to be joking. This isn't a traditional art. Children don't automatically inherit their parents' jobs. From inside your world, maybe I'm nothing but <tips=3>Chris Xie</tips>'s son. But I have a life of my own. I've never thought of myself as his successor. That's why I worked so hard to become a student. Why should I come this far only to get dragged into a criminal organization?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0903",
@@ -5927,7 +6929,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「その考えは改めてもらう。そりゃお前にも考えがあるのだろうが、この街の人間にとって、<tips=3>クリス・ツェー</tips>の血を継いでいるというのはそれくらい特別なことなんだ。無視して生きてゆくことは出来ないんだよ。……なあ、もしお前が後継者となることを拒否したとしても、同じ血を引く別の者が継ぐことになるんだぞ？　そのことはわかってるのか？」",
-      "en": "“Then you'll have to change your thinking. I know you have a life of your own. But to the people of this City, carrying <tips=3>Chris Xie</tips>'s blood means more than you understand. You can't simply ignore it and walk away. ...Listen. If you refuse to succeed him, someone else with the same blood will. Do you understand?”"
+      "en": "“Then you'll have to change your thinking. I know you have a life of your own. But to the people of this City, carrying <tips=3>Chris Xie</tips>'s blood means more than you understand. You can't simply ignore it and walk away. ...Listen. If you refuse to succeed him, someone else with the same blood will. Do you understand?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0904",
@@ -5936,7 +6944,13 @@
       "sj": "",
       "se": "",
       "jp": "「もしかして」",
-      "en": "“Do you mean...”"
+      "en": "“Do you mean...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0905",
@@ -5945,7 +6959,13 @@
       "sj": "",
       "se": "",
       "jp": "　いやな予感がして、僕は顔を顰める。",
-      "en": "A dreadful suspicion crosses my mind."
+      "en": "A dreadful suspicion crosses my mind.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0906",
@@ -5954,7 +6974,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=44>シウ</tips>のことを言っているのか？」",
-      "en": "“Are you talking about <tips=44>Siu</tips>?”"
+      "en": "“Are you talking about <tips=44>Siu</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0907",
@@ -5963,7 +6989,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は黙って僕を見ている。",
-      "en": "<tips=4>Ma Ming</tips> looks at me in silence."
+      "en": "<tips=4>Ma Ming</tips> looks at me in silence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0908",
@@ -5972,7 +7004,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=4>馬明</tips>、それはありえないよ。お前が言うとおり、<tips=76>旧義勝</tips>の連中はおそろしく保守的なんだぜ。<tips=44>シウ</tips>みたいな子供で、しかも<tips=17>タイプB</tips>の<tips=81>龍頭</tips>を認めるわけがない。そもそも、僕だって、半分日本人の血が入っているから、受け入れられるかどうか。母さんと<tips=81>龍頭</tips>が結婚するときも、散々反対されたんだろう？」",
-      "en": "“<tips=4>Ma Ming</tips>, that's impossible. You said it yourself—the people of <tips=76>Old Yi Shen</tips> are terrifyingly conservative. They'd never accept a child like <tips=44>Siu</tips>, a girl and <tips=17>Type B</tips> besides, as <tips=81>Longtou</tips>. They may not even accept me because I'm half Japanese. There was tremendous opposition when Mother married the <tips=81>Longtou</tips>, wasn't there?”"
+      "en": "“<tips=4>Ma Ming</tips>, that's impossible. You said it yourself—the people of <tips=76>Old Yi Shen</tips> are terrifyingly conservative. They'd never accept a child like <tips=44>Siu</tips>, a girl and <tips=17>Type B</tips> besides, as <tips=81>Longtou</tips>. They may not even accept me because I'm half Japanese. There was tremendous opposition when Mother married the <tips=81>Longtou</tips>, wasn't there?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0909",
@@ -5981,7 +7019,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「<tips=3>クリス・ツェー</tips>の血を継いでいるという事実はお前が思っている以上に重い。兄貴が<tips=69>義勝</tips>のなかでどれだけ特別な存在なのか、お前は全くわかっていない」",
-      "en": "“The blood of <tips=3>Chris Xie</tips> carries more weight than you realize. You have no idea how special Brother is within <tips=69>Yi Shen</tips>.”"
+      "en": "“The blood of <tips=3>Chris Xie</tips> carries more weight than you realize. You have no idea how special Brother is within <tips=69>Yi Shen</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0910",
@@ -5990,7 +7034,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は真顔で断言する。",
-      "en": "<tips=4>Ma Ming</tips>'s face is utterly serious."
+      "en": "<tips=4>Ma Ming</tips>'s face is utterly serious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0911",
@@ -5999,7 +7049,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「もしお前が降りれば、<tips=44>シウ</tips>を担ぎ出す者は必ず現れる。女子供だなんてことは問題にはならん。その方が利用しやすいと考えるやつもいるだろう。もし<tips=81>龍頭</tips>に出来なかったとしても、自分の陣営に引き込めばどれだけ有利になるか」",
-      "en": "“If you step aside, someone will put <tips=44>Siu</tips> forward. Being a woman and a child won't matter. Some will see that as an advantage—she'll be easier to use. Even if they can't make her <tips=81>Longtou</tips>, think how much they'd gain by pulling her into their camp.”"
+      "en": "“If you step aside, someone will put <tips=44>Siu</tips> forward. Being a woman and a child won't matter. Some will see that as an advantage—she'll be easier to use. Even if they can't make her <tips=81>Longtou</tips>, think how much they'd gain by pulling her into their camp.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0912",
@@ -6008,7 +7064,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=44>シウ</tips>を持ち出すなんて卑怯だな」",
-      "en": "“Using <tips=44>Siu</tips> against me is cowardly.”"
+      "en": "“Using <tips=44>Siu</tips> against me is cowardly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0913",
@@ -6017,7 +7079,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「事実を言っているだけだ」",
-      "en": "“I'm only telling you the truth.”"
+      "en": "“I'm only telling you the truth.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0914",
@@ -6026,7 +7094,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の表情は嘘をついているようには見えない。いや、もともと嘘が苦手な男である。",
-      "en": "His face shows no sign of a lie. Then again, he has always been a terrible liar."
+      "en": "His face shows no sign of a lie. Then again, he has always been a terrible liar.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0915",
@@ -6035,7 +7109,13 @@
       "sj": "",
       "se": "",
       "jp": "「妹のために犠牲になれってのか？」",
-      "en": "“You want me to sacrifice myself for my sister?”"
+      "en": "“You want me to sacrifice myself for my sister?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0916",
@@ -6044,7 +7124,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「そんなことを言っているわけじゃない。お前には<tips=81>龍頭</tips>としての器がある。それを無駄にして欲しくないだけだ。……大体、学生生活なんてものがそんなに楽しいのか？　お前が大人しく机でお勉強しているなんて想像も出来ない」",
-      "en": "“That's not what I'm saying. You have what it takes to be <tips=81>Longtou</tips>. I just don't want to see it wasted. ...Besides, is student life really that much fun? I can't picture you sitting quietly at a desk doing your homework.”"
+      "en": "“That's not what I'm saying. You have what it takes to be <tips=81>Longtou</tips>. I just don't want to see it wasted. ...Besides, is student life really that much fun? I can't picture you sitting quietly at a desk doing your homework.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0917",
@@ -6053,7 +7139,13 @@
       "sj": "",
       "se": "",
       "jp": "「楽しいよ」",
-      "en": "“It is fun.”"
+      "en": "“It is fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0918",
@@ -6062,7 +7154,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「いやいや、そんな筈ないだろう？　そろそろ飽きているはずさ。なあ、よく考えろよ。お前にはありふれた人間とは違う特別な道が用意されているんだ。組織内にもお前が入って来るのを期待してる人間は少なくない。特に女どもに人気があるな。うちの娘もフェルナンデス家の三姉妹もお前のファンだそうじゃないか。まったく、美男子は得だ。おれもそんな顔に生まれたかったぞ」",
-      "en": "“No, no. Can't be. You must be getting bored by now. Think about it. There's a special path waiting for you, something no ordinary person gets. Plenty of people in the organization hope you'll join us. Especially the women. My daughter and all three Fernandez girls are fans of yours, aren't they? Handsome men have all the luck. I wish I'd been born with a face like that.”"
+      "en": "“No, no. Can't be. You must be getting bored by now. Think about it. There's a special path waiting for you, something no ordinary person gets. Plenty of people in the organization hope you'll join us. Especially the women. My daughter and all three Fernandez girls are fans of yours, aren't they? Handsome men have all the luck. I wish I'd been born with a face like that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0919",
@@ -6071,7 +7169,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=4>馬明</tips>だって味のある顔をしているよ」",
-      "en": "“You have a face with character too, <tips=4>Ma Ming</tips>.”"
+      "en": "“You have a face with character too, <tips=4>Ma Ming</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0920",
@@ -6080,7 +7184,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「それで褒めているつもりかよ」",
-      "en": "“And that's supposed to be a compliment?”"
+      "en": "“And that's supposed to be a compliment?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0921",
@@ -6089,7 +7199,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は苦々しく言って、僕の肩を叩く。",
-      "en": "<tips=4>Ma Ming</tips> says sourly, then claps me on the shoulder."
+      "en": "<tips=4>Ma Ming</tips> says sourly, then claps me on the shoulder.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0922",
@@ -6098,7 +7214,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「なあ<tips=2>阿亮</tips>。兄貴は今日あんなことを言ったが、本心はおれと同じなのは間違いない。もし兄貴がいなくなったら、お前以外に我々の組織をまとめられる人間はいないんだ。そのことを少し考えてくれないか？　もう少し、この街にいてくれ。兄貴が言い出さない以上、おれからは継ぐ継がないの話は出来ないが、もし仮に<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>にならなくとも、お前が謝家の跡取りであることはかわらない。最後まで見届ける義務がある」",
-      "en": "“Listen, <tips=2>Ah Liang</tips>. Brother said what he did today, but I know he wants the same thing I do. Once he's gone, no one but you can hold our organization together. Will you at least think about that? Stay in the City a little longer. Brother didn't raise the subject, so I can't press you for an answer. But even if you never become <tips=81>Longtou</tips> of <tips=7>YS</tips>, you're still heir to the Xie family. You have a duty to see this through.”"
+      "en": "“Listen, <tips=2>Ah Liang</tips>. Brother said what he did today, but I know he wants the same thing I do. Once he's gone, no one but you can hold our organization together. Will you at least think about that? Stay in the City a little longer. Brother didn't raise the subject, so I can't press you for an answer. But even if you never become <tips=81>Longtou</tips> of <tips=7>YS</tips>, you're still heir to the Xie family. You have a duty to see this through.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0923",
@@ -6107,7 +7229,13 @@
       "sj": "",
       "se": "",
       "jp": "　僕は黙っていた。",
-      "en": "I remain silent."
+      "en": "I remain silent.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0924",
@@ -6116,7 +7244,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうしてなかなか話しだそうとしないので、<tips=4>馬明</tips>がまた口を開いた。",
-      "en": "I show no sign of answering, so <tips=4>Ma Ming</tips> speaks again."
+      "en": "I show no sign of answering, so <tips=4>Ma Ming</tips> speaks again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0926",
@@ -6125,7 +7259,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「話は変わるが、今度うちのやつが、披露パーティを考えているらしい。おれは参加しないが、今言った<tips=35>フェルナンデス</tips>の娘たちや、<tips=28>トミー</tips>なんかも来るそうだ。きっと<tips=2>阿亮</tips>も誘われるだろう。そこで幼なじみと旧交を温めるのもいいんじゃないか？」",
-      "en": "“Changing the subject—my wife is apparently planning a reception. I won't be there, but the <tips=35>Fernandez</tips> girls I mentioned are coming, and so is <tips=28>Tommy</tips>. I'm sure she'll invite <tips=2>Ah Liang</tips>. Why not go and catch up with your old friends?”"
+      "en": "“Changing the subject—my wife is apparently planning a reception. I won't be there, but the <tips=35>Fernandez</tips> girls I mentioned are coming, and so is <tips=28>Tommy</tips>. I'm sure she'll invite <tips=2>Ah Liang</tips>. Why not go and catch up with your old friends?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0927",
@@ -6134,7 +7274,13 @@
       "sj": "",
       "se": "",
       "jp": "「あまり気の進む集まりじゃないな」",
-      "en": "“Doesn't sound like my kind of gathering.”"
+      "en": "“Doesn't sound like my kind of gathering.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0928",
@@ -6143,7 +7289,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「幼なじみは大事にした方が良いぞ。おれだって、兄貴と幼なじみでなかったら、こんな人生は送れなかった。くだらないチンピラのままだったろう」",
-      "en": "“Take care of your childhood friends. If Brother and I hadn't grown up together, I'd never have lived this life. I'd still be some worthless thug.”"
+      "en": "“Take care of your childhood friends. If Brother and I hadn't grown up together, I'd never have lived this life. I'd still be some worthless thug.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0929",
@@ -6152,7 +7304,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなに卑下する必要もないと思うけれどね」",
-      "en": "“You don't have to put yourself down that much.”"
+      "en": "“You don't have to put yourself down that much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0930",
@@ -6161,7 +7319,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は、リーダーとしての素質に恵まれた父や、冷静で知恵のある<tips=39>ジェフリー</tips>に対し、腕っ節しかない自分を低く見るきらいがある。",
-      "en": "Beside my father, a born leader, and the calm, clever <tips=39>Jeffrey</tips>, <tips=4>Ma Ming</tips> tends to see himself as nothing but muscle."
+      "en": "Beside my father, a born leader, and the calm, clever <tips=39>Jeffrey</tips>, <tips=4>Ma Ming</tips> tends to see himself as nothing but muscle.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0931",
@@ -6170,7 +7334,13 @@
       "sj": "",
       "se": "",
       "jp": "　昔からそういった傾向はあったが、幹部として年を経てその自慢の腕っ節も衰えたいま、より強く感じているのだろう。",
-      "en": "He always had that tendency. Now that years as an executive have weakened even the strength he once took pride in, he must feel it more keenly."
+      "en": "He always had that tendency. Now that years as an executive have weakened even the strength he once took pride in, he must feel it more keenly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0932",
@@ -6179,7 +7349,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、少し考えてみるさ。さすがに余命僅かとあっちゃね」",
-      "en": "“Fine. I'll think about it. He really doesn't have long, after all.”"
+      "en": "“Fine. I'll think about it. He really doesn't have long, after all.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0933",
@@ -6188,7 +7364,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「それがいい。暇なら街を歩いてみたらどうだ？　ここが今どういう状況になっているか、その目で確かめるんだ」",
-      "en": "“Good. If you've got time, walk around the City. See for yourself what it's become.”"
+      "en": "“Good. If you've got time, walk around the City. See for yourself what it's become.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "A1:0941",
@@ -6233,7 +7415,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>の言葉に感化された訳じゃない。ふと、昨日歩いている時に嗅いだコシーニャを揚げるにおいを思い出しただけだ。",
-      "en": "<tips=4>Ma Ming</tips> hasn't won me over. I simply remember the smell of coxinhas frying as I walked yesterday."
+      "en": "<tips=4>Ma Ming</tips> hasn't won me over. I simply remember the smell of coxinhas frying as I walked yesterday.",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
     },
     {
       "id": "A1:0951",
@@ -6350,7 +7533,8 @@
       "sj": "",
       "se": "",
       "jp": "　ここで<tips=57>滑走路通り</tips>に混乱が訪れた。",
-      "en": "Then chaos comes to <tips=57>Runway Street</tips>."
+      "en": "Then chaos comes to <tips=57>Runway Street</tips>.",
+      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
     },
     {
       "id": "A1:0973",

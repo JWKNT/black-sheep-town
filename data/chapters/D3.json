@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　あの発症の夜から<tips=44>筱喬</tips>がおかしい。",
-      "en": "Ever since the night her symptoms appeared, <tips=44>Xiaoqiao</tips> has been acting strange."
+      "en": "Ever since the night her symptoms appeared, <tips=44>Xiaoqiao</tips> has been acting strange.",
+      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
     },
     {
       "id": "D3:0010",
@@ -122,7 +123,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「あ、えっと。なになに？」",
-      "en": "“Oh, um... What? What were you saying?”"
+      "en": "“Oh, um... What? What were you saying?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0022",
@@ -131,7 +138,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は取り繕うように苦笑いをしてこちらを見る。",
-      "en": "<tips=44>Xiaoqiao</tips> turns to me with an awkward little smile, trying to smooth things over."
+      "en": "<tips=44>Xiaoqiao</tips> turns to me with an awkward little smile, trying to smooth things over.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0023",
@@ -140,7 +153,13 @@
       "sj": "",
       "se": "",
       "jp": "「もういいよー。諦めた」",
-      "en": "“Never mind. I give up.”"
+      "en": "“Never mind. I give up.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0024",
@@ -149,7 +168,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「え、そんなあ。ごめんなさい。……気を悪くした？」",
-      "en": "“Aw, come on. I’m sorry. ...Are you mad?”"
+      "en": "“Aw, come on. I’m sorry. ...Are you mad?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0025",
@@ -158,7 +183,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が唇を尖らせると、<tips=44>筱喬</tips>はシュンとして申し訳なさそうに肩をすくめる。",
-      "en": "I pout, and <tips=44>Xiaoqiao</tips> wilts, hunching her shoulders apologetically."
+      "en": "I pout, and <tips=44>Xiaoqiao</tips> wilts, hunching her shoulders apologetically.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0026",
@@ -167,7 +198,13 @@
       "sj": "",
       "se": "",
       "jp": "　くそう、こういう素直なところは相変わらず可愛いな。",
-      "en": "Damn it. That honest streak of hers is still adorable."
+      "en": "Damn it. That honest streak of hers is still adorable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0027",
@@ -176,7 +213,13 @@
       "sj": "",
       "se": "",
       "jp": "「気は悪くしてないよ。ただ、また症状が出たなと思って」",
-      "en": "“I’m not mad. I was only thinking your symptoms had come back.”"
+      "en": "“I’m not mad. I was only thinking your symptoms had come back.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0028",
@@ -185,7 +228,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「えっ、症状が？　全然気がつかなかった！　しかも『また』って……」",
-      "en": "“My symptoms? I didn’t notice anything! And what do you mean, ‘come back’...?”"
+      "en": "“My symptoms? I didn’t notice anything! And what do you mean, ‘come back’...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0029",
@@ -194,7 +243,13 @@
       "sj": "",
       "se": "",
       "jp": "　慌てふためく彼女に、私は首を横に振ってみせてからこう言った。",
-      "en": "I shake my head at her panic, then say—"
+      "en": "I shake my head at her panic, then say—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0030",
@@ -203,7 +258,13 @@
       "sj": "",
       "se": "",
       "jp": "「たしかにそれは難病であることには違いないけど、<tips=44>筱喬</tips>が思ってる病気とは違うかもね。他にも症状があるでしょう？　わけもなく胸がドキドキしたり、苦しくなったりする病気だよきっと」",
-      "en": "“Oh, it’s definitely a serious, incurable disease. Just maybe not the one <tips=44>Xiaoqiao</tips> has in mind. There are other symptoms too, aren’t there? Your heart starts racing for no reason. Your chest hurts. I’m sure it’s that kind of illness.”"
+      "en": "“Oh, it’s definitely a serious, incurable disease. Just maybe not the one <tips=44>Xiaoqiao</tips> has in mind. There are other symptoms too, aren’t there? Your heart starts racing for no reason. Your chest hurts. I’m sure it’s that kind of illness.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0031",
@@ -212,7 +273,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「えっ、心臓病？」",
-      "en": "“What—heart disease?”"
+      "en": "“What—heart disease?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0032",
@@ -221,7 +288,13 @@
       "sj": "",
       "se": "",
       "jp": "「違う」",
-      "en": "“No.”"
+      "en": "“No.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0033",
@@ -230,7 +303,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は彼女の目をじっと見つめて、",
-      "en": "I look straight into her eyes."
+      "en": "I look straight into her eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0034",
@@ -239,7 +318,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなた、好きな人が出来たでしょ」",
-      "en": "“You’ve fallen for someone, haven’t you?”"
+      "en": "“You’ve fallen for someone, haven’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0035",
@@ -248,7 +333,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう、彼女が最近やたらと症状を見せているというのは『恋の病』のことだ。",
-      "en": "Yes. The ‘symptoms’ she’s been showing so often lately are the symptoms of lovesickness."
+      "en": "Yes. The ‘symptoms’ she’s been showing so often lately are the symptoms of lovesickness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0036",
@@ -257,7 +348,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そっ、そっ、そんなことないよっ！」",
-      "en": "“N-no! No, I haven’t!”"
+      "en": "“N-no! No, I haven’t!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0037",
@@ -266,7 +363,13 @@
       "sj": "",
       "se": "",
       "jp": "　むきになって否定する<tips=44>筱喬</tips>は、顔だけでなく首まで真っ赤に染めている。",
-      "en": "<tips=44>Xiaoqiao</tips> denies it so vehemently that even her neck turns bright red."
+      "en": "<tips=44>Xiaoqiao</tips> denies it so vehemently that even her neck turns bright red.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0038",
@@ -275,7 +378,13 @@
       "sj": "",
       "se": "",
       "jp": "　まったく、こんなにわかりやすいやつがいるだろうか？",
-      "en": "Honestly, could anyone be easier to read?"
+      "en": "Honestly, could anyone be easier to read?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0039",
@@ -284,7 +393,13 @@
       "sj": "",
       "se": "",
       "jp": "　あの夜、<tips=10>見土道夫</tips>が助けに来てからずっと様子がおかしいのである。",
-      "en": "She’s been acting strange ever since <tips=10>Michio Mido</tips> came to save her that night."
+      "en": "She’s been acting strange ever since <tips=10>Michio Mido</tips> came to save her that night.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0040",
@@ -293,7 +408,13 @@
       "sj": "",
       "se": "",
       "jp": "　無理もないと言えば、そうなのかもしれない。正気をうしない、そして回復することのないと言われていた『発症』は<tips=44>筱喬</tips>にとってあまりにも絶望的で、これまでの彼女の人生全体を重苦しい悲劇の色調に染め上げていた。それがついに彼女の精神を捕らえ混乱の泥沼に突き落としたところで、颯爽と現れたあの男が引き上げてくれたのである。",
-      "en": "Maybe no one could blame her. ‘Onset’—the supposedly irreversible loss of her sanity—had hung over <tips=44>Xiaoqiao</tips> with such despair that it cast her entire life in the heavy tones of tragedy. Then, just as it finally seized her mind and dragged her down into the mire, that man came sweeping in and pulled her free."
+      "en": "Maybe no one could blame her. ‘Onset’—the supposedly irreversible loss of her sanity—had hung over <tips=44>Xiaoqiao</tips> with such despair that it cast her entire life in the heavy tones of tragedy. Then, just as it finally seized her mind and dragged her down into the mire, that man came sweeping in and pulled her free.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0041",
@@ -302,7 +423,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかも、この<tips=41>グランドタワー</tips>という、<tips=10>見土</tips>にとってはあまりにも危険なギャングの巣窟に単身乗り込んで来たのだ。ただ、彼女を助けるためだけに。何の見返りもないのに。",
-      "en": "And he came alone into <tips=41>Grand Tower</tips>, a den of gangsters where <tips=10>Mido</tips> was in mortal danger. He did it only to save her. There was nothing in it for him."
+      "en": "And he came alone into <tips=41>Grand Tower</tips>, a den of gangsters where <tips=10>Mido</tips> was in mortal danger. He did it only to save her. There was nothing in it for him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0042",
@@ -311,7 +438,13 @@
       "sj": "",
       "se": "",
       "jp": "　むしろ、これで気にならないほうがおかしいじゃないか。あまりにも卑怯なシチュエーションである。世間の女性百人を同じ状況に立たせたら、八割くらいは惚れてしまうんじゃないか？",
-      "en": "It would be stranger if she weren’t interested after that. The whole situation was practically cheating. Put a hundred women in her place and eighty of them would fall for him, wouldn’t they?"
+      "en": "It would be stranger if she weren’t interested after that. The whole situation was practically cheating. Put a hundred women in her place and eighty of them would fall for him, wouldn’t they?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0043",
@@ -320,7 +453,13 @@
       "sj": "",
       "se": "",
       "jp": "　もっとも、まあ、卑怯と言えば私だって卑怯だった。部屋から出られなかった<tips=44>筱喬</tips>を、外に連れ出してやると言って近づいたのだからね。それはわかっている。だが、わかっていたってさ、自分がやってることは許せて、他人がやると不快なのは、これはもう仕方ないよね。",
-      "en": "Though if we’re calling things cheating, I suppose I cheated too. I got close to <tips=44>Xiaoqiao</tips>, who couldn’t leave her room, by promising to take her outside. I know that. But you can know you’re a hypocrite and still forgive yourself while resenting anyone else who does the same thing. It can’t be helped, right?"
+      "en": "Though if we’re calling things cheating, I suppose I cheated too. I got close to <tips=44>Xiaoqiao</tips>, who couldn’t leave her room, by promising to take her outside. I know that. But you can know you’re a hypocrite and still forgive yourself while resenting anyone else who does the same thing. It can’t be helped, right?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0044",
@@ -329,7 +468,13 @@
       "sj": "",
       "se": "",
       "jp": "　恋は人を変えるものらしいが、それにしても、変貌するにもほどがある。四六時中ぽーっとしちゃってさ。ちょっと前まで、暇さえあれば人生だのなんだのって話ばかりして、絶望して、暗くなっていたのに。<tips=4>馬明</tips>という人が殺されてからはホントウに酷かった。なのに、男に惚れるとこうなってしまうのか。",
-      "en": "They say love changes people, but this is ridiculous. She walks around in a daze all day. Not long ago, every free moment had her talking about life and whatnot, sinking into despair and gloom. After that man <tips=4>Ma Ming</tips> was killed, she was truly unbearable. And one crush has turned her into this?"
+      "en": "They say love changes people, but this is ridiculous. She walks around in a daze all day. Not long ago, every free moment had her talking about life and whatnot, sinking into despair and gloom. After that man <tips=4>Ma Ming</tips> was killed, she was truly unbearable. And one crush has turned her into this?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0045",
@@ -338,7 +483,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、健全なことではあるよ。暗く落ち込んでるよりはマシだよ。ここのところずっと塞ぎ込んでたからね」",
-      "en": "“Well, it’s healthy, at least. Better than moping around in the dark. You’ve been down for ages.”"
+      "en": "“Well, it’s healthy, at least. Better than moping around in the dark. You’ve been down for ages.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0046",
@@ -347,7 +498,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は溜息をつく。",
-      "en": "I sigh."
+      "en": "I sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0047",
@@ -356,7 +513,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=51>さくら</tips>の言ってることはわかるけど、でも、私が考えていたのはそれじゃないの」",
-      "en": "“I know what <tips=51>Sakura</tips> means. But that’s not what I was thinking about.”"
+      "en": "“I know what <tips=51>Sakura</tips> means. But that’s not what I was thinking about.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0048",
@@ -365,7 +528,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>はそう言って首を振る。",
-      "en": "<tips=44>Xiaoqiao</tips> shakes her head."
+      "en": "<tips=44>Xiaoqiao</tips> shakes her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0049",
@@ -374,7 +543,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=51>さくら</tips>。ちょっと自分のことを話すから、聞いて」",
-      "en": "“<tips=51>Sakura</tips>, I want to tell you something about myself. Will you listen?”"
+      "en": "“<tips=51>Sakura</tips>, I want to tell you something about myself. Will you listen?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0050",
@@ -383,7 +558,13 @@
       "sj": "",
       "se": "",
       "jp": "　もちろん私は頷く。",
-      "en": "Of course I nod."
+      "en": "Of course I nod.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0051",
@@ -392,7 +573,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「……私はずっと、自分のことを存在してはいけない人間のような気がしてたの。だから、なんでも我慢するしかないって思ってたの」",
-      "en": "“...I’ve always felt like I was someone who shouldn’t exist. So I thought I had no choice but to put up with everything.”"
+      "en": "“...I’ve always felt like I was someone who shouldn’t exist. So I thought I had no choice but to put up with everything.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0052",
@@ -401,7 +588,13 @@
       "sj": "",
       "se": "",
       "jp": "　最近私が気がついたのは、<tips=44>筱喬</tips>というのは何か喋るとき、いつもせわしなく手を動かす癖があるということだ。",
-      "en": "Something I’ve noticed lately: whenever <tips=44>Xiaoqiao</tips> talks, her hands are constantly moving."
+      "en": "Something I’ve noticed lately: whenever <tips=44>Xiaoqiao</tips> talks, her hands are constantly moving.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0053",
@@ -410,7 +603,13 @@
       "sj": "",
       "se": "",
       "jp": "　今もテーブルの上で組んだ手の親指が、もじもじと動いている。それは、頭の中で考えたことがうまく言葉にならず、もどかしさとなって手に出ているように見えた。そんなに強く他人に伝えたい何かがある彼女のことを、いつもうらやましく感じる。私はややこしいことは、最初から誰にも伝わるはずがないと、話す気もおきない。たとえ相手が<tips=44>筱喬</tips>だとしてもだ。",
-      "en": "Even now, her hands are clasped on the table, her thumbs fidgeting against each other. It looks as though the thoughts in her head refuse to become words, and the frustration comes out through her fingers. I’m always jealous that she has something she wants so badly to make another person understand. If something is complicated, I assume from the start that no one could possibly understand it. I don’t even feel like trying to explain. Not even to <tips=44>Xiaoqiao</tips>."
+      "en": "Even now, her hands are clasped on the table, her thumbs fidgeting against each other. It looks as though the thoughts in her head refuse to become words, and the frustration comes out through her fingers. I’m always jealous that she has something she wants so badly to make another person understand. If something is complicated, I assume from the start that no one could possibly understand it. I don’t even feel like trying to explain. Not even to <tips=44>Xiaoqiao</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0054",
@@ -419,7 +618,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃんともお父さんとも別れて、<tips=44>シウ</tips>とお母さんだけが暮らしてた本当の理由、<tips=51>さくら</tips>に話したことあったっけ？」",
-      "en": "“Have I ever told you the real reason it was only <tips=44>Siu</tips> and Mother living together, apart from my brother and Father, <tips=51>Sakura</tips>?”"
+      "en": "“Have I ever told you the real reason it was only <tips=44>Siu</tips> and Mother living together, apart from my brother and Father, <tips=51>Sakura</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0055",
@@ -428,7 +633,13 @@
       "sj": "",
       "se": "",
       "jp": "「はっきりと聞いたことはないね」",
-      "en": "“Not exactly, no.”"
+      "en": "“Not exactly, no.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0056",
@@ -437,7 +648,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「あのね、安全上の問題だとか、いろいろあったけど、本当は<tips=44>シウ</tips>とお母さんが<tips=17>タイプB</tips>だったっていうのが一番の原因なの」",
-      "en": "“Well, there were security problems and all sorts of things, but the biggest reason was that <tips=44>Siu</tips> and Mother were both <tips=17>Type B</tips>.”"
+      "en": "“Well, there were security problems and all sorts of things, but the biggest reason was that <tips=44>Siu</tips> and Mother were both <tips=17>Type B</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0057",
@@ -446,7 +663,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは……」",
-      "en": "“That's...”"
+      "en": "“That's...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0058",
@@ -455,7 +678,13 @@
       "sj": "",
       "se": "",
       "jp": "　センシティブな話になったので、私は言葉をうまく選べずに口ごもってしまう。",
-      "en": "The conversation has suddenly turned delicate, and I stumble, unable to find the right words."
+      "en": "The conversation has suddenly turned delicate, and I stumble, unable to find the right words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0059",
@@ -464,7 +693,13 @@
       "sj": "",
       "se": "",
       "jp": "　一方<tips=44>筱喬</tips>はその曇りのない瞳で、私の目をまっすぐ見つめている。彼女は人と話すとき、よくそうやって正面から見つめる。人に目を見つめられると思わず目をそらしたくなるという、どうしようもない私からすると、そのまっすぐさが眩しい。",
-      "en": "<tips=44>Xiaoqiao</tips>, meanwhile, meets my eyes with that clear, open gaze of hers. She often looks people squarely in the eye when she talks. For a hopeless creature like me, who instinctively wants to look away whenever anyone meets my gaze, that directness is dazzling."
+      "en": "<tips=44>Xiaoqiao</tips>, meanwhile, meets my eyes with that clear, open gaze of hers. She often looks people squarely in the eye when she talks. For a hopeless creature like me, who instinctively wants to look away whenever anyone meets my gaze, that directness is dazzling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0060",
@@ -473,7 +708,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「……お父さんの方の親戚の人たちが、<tips=17>タイプB</tips>はうつるって信じてたの。だから、お兄ちゃんやお父さんのそばにいたらいけないって。お兄ちゃんはもしかしたら、自分が追い出されたんだと感じてるんだろうけど、本当は私とお母さんがあの家に隔離されていたの」",
-      "en": "“...The relatives on Father’s side believed <tips=17>Type B</tips> was contagious. They said Mother and I couldn’t be near Father or my brother. My brother may feel like he was the one who got driven away, but really, Mother and I were quarantined in that house.”"
+      "en": "“...The relatives on Father’s side believed <tips=17>Type B</tips> was contagious. They said Mother and I couldn’t be near Father or my brother. My brother may feel like he was the one who got driven away, but really, Mother and I were quarantined in that house.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0061",
@@ -482,7 +723,13 @@
       "sj": "",
       "se": "",
       "jp": "「えーっ、それ、何十年前の迷信よ？　確かに大昔はそんな言われ方もあったけど、とっくにそんなのは出鱈目だって判明してるじゃない」",
-      "en": "“What? What decade was that superstition from? Sure, people said things like that a long time ago, but it’s been proven nonsense for years.”"
+      "en": "“What? What decade was that superstition from? Sure, people said things like that a long time ago, but it’s been proven nonsense for years.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0062",
@@ -491,7 +738,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そうだけど……でも、お年寄りには、どこで証明されたとか、そんなの関係ないんだよきっと」",
-      "en": "“I know... But with old people, I don’t think it matters where or how something was proven.”"
+      "en": "“I know... But with old people, I don’t think it matters where or how something was proven.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0063",
@@ -500,7 +753,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は深く溜息をつく。",
-      "en": "She lets out a deep sigh."
+      "en": "She lets out a deep sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0064",
@@ -509,7 +768,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「だから、私とお母さんは<tips=7>ＹＳ</tips>の人たちから嫌われてたんだ。お母さんが死んで、お父さんがここに呼んでくれた時も、みんなの反対を押し切ってのことなの。私は大事な娘だからって。そこまでしてくれたから、私もお父さんのために色んなことを我慢しなきゃいけないって……」",
-      "en": "“That’s why the people in <tips=7>YS</tips> hated Mother and me. Even after Mother died, when Father called me here, he had to go against everyone. He said I was his precious daughter. He went that far for me, so I thought I had to put up with all sorts of things for him...”"
+      "en": "“That’s why the people in <tips=7>YS</tips> hated Mother and me. Even after Mother died, when Father called me here, he had to go against everyone. He said I was his precious daughter. He went that far for me, so I thought I had to put up with all sorts of things for him...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0065",
@@ -518,7 +783,13 @@
       "sj": "",
       "se": "",
       "jp": "「なるほどね」",
-      "en": "“That makes sense.”"
+      "en": "“That makes sense.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0066",
@@ -527,7 +798,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「今も私のことを嫌いな人は沢山いる。<tips=17>タイプB</tips>のくせにお父さんの血を引いてるから、死んで欲しいと思ってる人もいると思う。だから、私が発症しちゃって、<tips=21>八龍会</tips>の薬を使ってるってことが知られたら、また何か言われて、お兄ちゃんにも迷惑がかかる」",
-      "en": "“Plenty of people still hate me. I have Father’s blood even though I’m <tips=17>Type B</tips>, so I think some of them want me dead. If anyone finds out my symptoms appeared and I’m using medicine from the <tips=21>Dragon Club</tips>, they’ll start saying things again. It’ll cause trouble for my brother too.”"
+      "en": "“Plenty of people still hate me. I have Father’s blood even though I’m <tips=17>Type B</tips>, so I think some of them want me dead. If anyone finds out my symptoms appeared and I’m using medicine from the <tips=21>Dragon Club</tips>, they’ll start saying things again. It’ll cause trouble for my brother too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0067",
@@ -536,7 +813,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は少しうつむき、その声は少し震えている。私は、彼女がこれから何か大事なことを言おうとしているのだと予感した。",
-      "en": "<tips=44>Xiaoqiao</tips> lowers her head, her voice trembling a little. I can tell she’s about to say something important."
+      "en": "<tips=44>Xiaoqiao</tips> lowers her head, her voice trembling a little. I can tell she’s about to say something important.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0068",
@@ -545,7 +828,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼女は強い意志を表情に浮かべてからまた顔を上げ、私をまっすぐ見た。",
-      "en": "Then determination enters her face. She raises her head and looks directly at me again."
+      "en": "Then determination enters her face. She raises her head and looks directly at me again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0069",
@@ -554,7 +843,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「私はここに居るべきじゃないかもしれない。このビルを出て、外で暮らしたい。<tips=7>ＹＳ</tips>ともお兄ちゃんとも関係ない場所で」",
-      "en": "“Maybe I shouldn’t be here. I want to leave this building and live outside, somewhere with no connection to <tips=7>YS</tips> or my brother.”"
+      "en": "“Maybe I shouldn’t be here. I want to leave this building and live outside, somewhere with no connection to <tips=7>YS</tips> or my brother.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0070",
@@ -563,7 +858,13 @@
       "sj": "",
       "se": "",
       "jp": "「本気？」",
-      "en": "“Are you serious?”"
+      "en": "“Are you serious?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0071",
@@ -572,7 +873,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「本気だよ。<tips=10>見土</tips>さんが来てから、ずっとそのことを考えてたの。私が考えていたのは、そのこと。<tips=51>さくら</tips>のお話聞かないでごめんなさい」",
-      "en": "“I mean it. I’ve been thinking about it ever since Mr. <tips=10>Mido</tips> came. That’s what was on my mind. I’m sorry I wasn’t listening to <tips=51>Sakura</tips>.”"
+      "en": "“I mean it. I’ve been thinking about it ever since Mr. <tips=10>Mido</tips> came. That’s what was on my mind. I’m sorry I wasn’t listening to <tips=51>Sakura</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0072",
@@ -581,7 +888,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、それはいいけど……」",
-      "en": "“No, that’s fine, but...”"
+      "en": "“No, that’s fine, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0073",
@@ -590,7 +903,13 @@
       "sj": "",
       "se": "",
       "jp": "　突然の言葉に、私は戸惑っていた。一方彼女はよく考えての発言らしく、興奮も見せず、落ち着いている。",
-      "en": "The sudden declaration throws me. She, on the other hand, has clearly thought this through. She’s calm, not excited at all."
+      "en": "The sudden declaration throws me. She, on the other hand, has clearly thought this through. She’s calm, not excited at all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0074",
@@ -599,7 +918,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「この街では、<tips=17>タイプB</tips>の人たちが、お互いを支え合いながら生きているんでしょ？　私もそこに行きたい。そして私も、ただ可哀想な<tips=17>タイプＢ</tips>の娘としてこんなところに匿われているだけじゃなくて、誰かを助けたり、人の役に立ったりしたいの。もっと色んな人と、対等につき合いたいの。<tips=51>さくら</tips>と友だちになったみたいに」",
-      "en": "“The <tips=17>Type B</tips> people in the City support one another, don’t they? I want to go there too. I don’t want to stay hidden here as some poor, pitiful <tips=17>Type B</tips> girl. I want to help someone. I want to be useful. I want to meet all kinds of people as an equal, the way I became friends with <tips=51>Sakura</tips>.”"
+      "en": "“The <tips=17>Type B</tips> people in the City support one another, don’t they? I want to go there too. I don’t want to stay hidden here as some poor, pitiful <tips=17>Type B</tips> girl. I want to help someone. I want to be useful. I want to meet all kinds of people as an equal, the way I became friends with <tips=51>Sakura</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0075",
@@ -608,7 +933,13 @@
       "sj": "",
       "se": "",
       "jp": "「私みたいに？」",
-      "en": "“Like me?”"
+      "en": "“Like me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0076",
@@ -617,7 +948,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そう。<tips=51>さくら</tips>は素敵なことをたくさん教えてくれた」",
-      "en": "“Yes. <tips=51>Sakura</tips> has taught me so many wonderful things.”"
+      "en": "“Yes. <tips=51>Sakura</tips> has taught me so many wonderful things.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0077",
@@ -626,7 +963,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は恥ずかしげもなく私を見つめる。",
-      "en": "She looks right at me, not the least bit embarrassed."
+      "en": "She looks right at me, not the least bit embarrassed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0078",
@@ -635,7 +978,13 @@
       "sj": "",
       "se": "",
       "jp": "「ふ、ふーん」",
-      "en": "“O-oh. Really.”"
+      "en": "“O-oh. Really.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0079",
@@ -644,7 +993,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「照れないで。本当のことだよ」",
-      "en": "“Don’t be embarrassed. It’s true.”"
+      "en": "“Don’t be embarrassed. It’s true.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0080",
@@ -653,7 +1008,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は曖昧な態度でかわそうとしたのだが、<tips=44>筱喬</tips>はまっすぐ詰めてくる。",
-      "en": "I try to brush it off with a vague response, but <tips=44>Xiaoqiao</tips> comes straight at me."
+      "en": "I try to brush it off with a vague response, but <tips=44>Xiaoqiao</tips> comes straight at me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0081",
@@ -662,7 +1023,13 @@
       "sj": "",
       "se": "",
       "jp": "「て、照れてなんかいないけど……」",
-      "en": "“I-I’m not embarrassed...”"
+      "en": "“I-I’m not embarrassed...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0082",
@@ -671,7 +1038,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は頑張ってまっすぐ彼女の目を見つめ返す。",
-      "en": "I do my best to meet her gaze head-on."
+      "en": "I do my best to meet her gaze head-on.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0083",
@@ -680,7 +1053,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、それって、<tips=21>八龍会</tips>に行くってこと？」",
-      "en": "“But does that mean joining the <tips=21>Dragon Club</tips>?”"
+      "en": "“But does that mean joining the <tips=21>Dragon Club</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0084",
@@ -689,7 +1068,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「どうなるかはわからない」",
-      "en": "“I don’t know yet.”"
+      "en": "“I don’t know yet.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0085",
@@ -698,7 +1083,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、<tips=17>タイプB</tips>が街でやってゆくには、それしかないんじゃないの？」",
-      "en": "“But isn’t that the only way for someone who’s <tips=17>Type B</tips> to make a life in the City?”"
+      "en": "“But isn’t that the only way for someone who’s <tips=17>Type B</tips> to make a life in the City?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0086",
@@ -707,7 +1098,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=10>見土</tips>さんを頼ろうと思うの。一番良い方法を教えてくれると思う」",
-      "en": "“I’m going to ask Mr. <tips=10>Mido</tips> for help. I think he’ll know the best way.”"
+      "en": "“I’m going to ask Mr. <tips=10>Mido</tips> for help. I think he’ll know the best way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0087",
@@ -716,7 +1113,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、あの人<tips=21>八龍会</tips>の人だよ？」",
-      "en": "“You do realize he’s with the <tips=21>Dragon Club</tips>?”"
+      "en": "“You do realize he’s with the <tips=21>Dragon Club</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0088",
@@ -725,7 +1128,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「でも、きっと<tips=10>見土</tips>さんなら、<tips=21>八龍会</tips>の一人としてではなく、個人として助けてくれると思う。迷惑だったら、一人でもなんとか生きるよ」",
-      "en": "“Even so, I think Mr. <tips=10>Mido</tips> will help me as himself, not as a member of the <tips=21>Dragon Club</tips>. If I’d only be a burden, I’ll find some way to live on my own.”"
+      "en": "“Even so, I think Mr. <tips=10>Mido</tips> will help me as himself, not as a member of the <tips=21>Dragon Club</tips>. If I’d only be a burden, I’ll find some way to live on my own.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0089",
@@ -734,7 +1143,13 @@
       "sj": "",
       "se": "",
       "jp": "「信じられるの？　もし、<tips=10>見土</tips>さんがあなたを<tips=21>八龍会</tips>の人質にしようとしたらどうするつもり？」",
-      "en": "“You trust him that much? What if Mr. <tips=10>Mido</tips> tries to make you a hostage for the <tips=21>Dragon Club</tips>?”"
+      "en": "“You trust him that much? What if Mr. <tips=10>Mido</tips> tries to make you a hostage for the <tips=21>Dragon Club</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0090",
@@ -743,7 +1158,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「その時は死ぬよ。元々<tips=10>見土</tips>さんが助けてくれなかったら、まともには生きられなかったんだから」",
-      "en": "“Then I’ll die. If Mr. <tips=10>Mido</tips> hadn’t saved me, I couldn’t have gone on living normally anyway.”"
+      "en": "“Then I’ll die. If Mr. <tips=10>Mido</tips> hadn’t saved me, I couldn’t have gone on living normally anyway.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0091",
@@ -752,7 +1173,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>の顔には決意の色がある。",
-      "en": "The resolve is plain on <tips=44>Xiaoqiao</tips>’s face."
+      "en": "The resolve is plain on <tips=44>Xiaoqiao</tips>’s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0092",
@@ -761,7 +1188,13 @@
       "sj": "",
       "se": "",
       "jp": "　確かに彼女の言うとおり、<tips=10>見土道夫</tips>なら請け負ってくれるかもしれない。私もそうは思うのだが、",
-      "en": "She’s right: <tips=10>Michio Mido</tips> might agree to take her in. I think so too, but—"
+      "en": "She’s right: <tips=10>Michio Mido</tips> might agree to take her in. I think so too, but—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0093",
@@ -770,7 +1203,13 @@
       "sj": "",
       "se": "",
       "jp": "「あなたの覚悟はわかったわ。でも、理由は本当にそれだけなの？」",
-      "en": "“I understand that you’re serious. But is that honestly the only reason?”"
+      "en": "“I understand that you’re serious. But is that honestly the only reason?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0094",
@@ -779,7 +1218,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「それだけ……って？」",
-      "en": "“The only reason...?”"
+      "en": "“The only reason...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0095",
@@ -788,7 +1233,13 @@
       "sj": "",
       "se": "",
       "jp": "「ここが自分の居場所じゃないとか、お兄さんに迷惑をかけるとか、それだけ？　本当は<tips=10>見土</tips>さんのところに行きたいとか、そう思ってるんじゃないの？」",
-      "en": "“Not belonging here, causing trouble for your brother—is that really all? Don’t you actually want to go to Mr. <tips=10>Mido</tips>?”"
+      "en": "“Not belonging here, causing trouble for your brother—is that really all? Don’t you actually want to go to Mr. <tips=10>Mido</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0096",
@@ -797,7 +1248,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「そ、そ、それは……」",
-      "en": "“Th-th-that’s...”"
+      "en": "“Th-th-that’s...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0097",
@@ -806,7 +1263,13 @@
       "sj": "",
       "se": "",
       "jp": "　言った途端、<tips=44>筱喬</tips>の顔はゆでだこみたいに真っ赤に染め上がる。",
-      "en": "The moment I say it, <tips=44>Xiaoqiao</tips> turns red as a boiled octopus."
+      "en": "The moment I say it, <tips=44>Xiaoqiao</tips> turns red as a boiled octopus.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0098",
@@ -815,7 +1278,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=44>シウ</tips>にはわかんない。うまく区別出来ないの……でも、もっと仲良くなりたいなあとは思う……」",
-      "en": "“<tips=44>Siu</tips> doesn’t know. I can’t tell the feelings apart very well... But I do think I want to get closer to him...”"
+      "en": "“<tips=44>Siu</tips> doesn’t know. I can’t tell the feelings apart very well... But I do think I want to get closer to him...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0099",
@@ -824,7 +1293,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はしどろもどろになりながら身体を揺らす。",
-      "en": "She sways from side to side, tripping over the words."
+      "en": "She sways from side to side, tripping over the words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0100",
@@ -833,7 +1308,13 @@
       "sj": "",
       "se": "",
       "jp": "「ふーん、なるほどね」",
-      "en": "“Hmm. I see.”"
+      "en": "“Hmm. I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-877a788c3887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0101",
@@ -842,7 +1323,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=44>シウ</tips>だって、いけないってわかってるよ。<tips=7>ＹＳ</tips>と<tips=21>八龍会</tips>はいまなかが良くないし、<tips=10>見土</tips>さんを困らせちゃうだろうし、全部間違ってるんだと思うけど……」",
-      "en": "“<tips=44>Siu</tips> knows it’s wrong too. <tips=7>YS</tips> and the <tips=21>Dragon Club</tips> aren’t getting along, and I’d probably make trouble for Mr. <tips=10>Mido</tips>. I think everything about it is wrong, but...”"
+      "en": "“<tips=44>Siu</tips> knows it’s wrong too. <tips=7>YS</tips> and the <tips=21>Dragon Club</tips> aren’t getting along, and I’d probably make trouble for Mr. <tips=10>Mido</tips>. I think everything about it is wrong, but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0102",
@@ -851,7 +1338,13 @@
       "sj": "",
       "se": "",
       "jp": "「まるで、ロミオとジュリエットみたいね」",
-      "en": "“It’s like Romeo and Juliet.”"
+      "en": "“It’s like Romeo and Juliet.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0103",
@@ -860,7 +1353,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は溜息をついて、",
-      "en": "I sigh."
+      "en": "I sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0104",
@@ -869,7 +1368,13 @@
       "sj": "",
       "se": "",
       "jp": "「とにかく、心から行きたいんだね？　<tips=10>見土</tips>さんのところに」",
-      "en": "“Forget everything else. You truly want to go to Mr. <tips=10>Mido</tips>. Right?”"
+      "en": "“Forget everything else. You truly want to go to Mr. <tips=10>Mido</tips>. Right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0105",
@@ -878,7 +1383,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「うん」",
-      "en": "“Mm-hm.”"
+      "en": "“Mm-hm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0106",
@@ -887,7 +1398,13 @@
       "sj": "",
       "se": "",
       "jp": "　ジュリエットはあっさりと即答して、頷いた。",
-      "en": "Juliet answers at once with a nod."
+      "en": "Juliet answers at once with a nod.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0107",
@@ -896,7 +1413,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=10>見土</tips>さんのところに行きたい」",
-      "en": "“I want to go to Mr. <tips=10>Mido</tips>.”"
+      "en": "“I want to go to Mr. <tips=10>Mido</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0108",
@@ -905,7 +1428,13 @@
       "sj": "",
       "se": "",
       "jp": "　迷いなくそう答える。",
-      "en": "There isn’t a trace of hesitation."
+      "en": "There isn’t a trace of hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0109",
@@ -914,7 +1443,13 @@
       "sj": "",
       "se": "",
       "jp": "　自分から質問をして、そして予想通りの答えが返って来ただけなのに、何故だか私の胸がチクリとした。",
-      "en": "I asked the question myself, and she only gave me the answer I expected. Even so, something pricks inside my chest."
+      "en": "I asked the question myself, and she only gave me the answer I expected. Even so, something pricks inside my chest.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0110",
@@ -923,7 +1458,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「でもね、もし<tips=10>見土</tips>さんのことがなくても、それでもここにいたらいけないと思う。それだけはもうはっきりと心に決まってるんだ。だって、私がここにいると、お兄ちゃんが苦労してばっかりなんだもの……」",
-      "en": "“But even if Mr. <tips=10>Mido</tips> weren’t involved, I still don’t think I should stay here. I’ve made up my mind about that much. Whenever I’m here, all my brother ever does is suffer...”"
+      "en": "“But even if Mr. <tips=10>Mido</tips> weren’t involved, I still don’t think I should stay here. I’ve made up my mind about that much. Whenever I’m here, all my brother ever does is suffer...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0111",
@@ -932,7 +1473,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは違うよ」",
-      "en": "“That's not true.”"
+      "en": "“That's not true.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0112",
@@ -941,7 +1488,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はその言葉は否定したかった。",
-      "en": "That, I want to deny."
+      "en": "That, I want to deny.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0113",
@@ -950,7 +1503,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>亮</tips>さんがあなたのために苦労をしてるのなら、それは、そうしたいからなんだよ。だから、<tips=1>亮</tips>さんのことを考えるのなら、ここにいた方がいいと思う」",
-      "en": "“If Mr. <tips=1>Ryou</tips> goes through hardship for you, it’s because he wants to. If you’re doing this for Mr. <tips=1>Ryou</tips>’s sake, I think you should stay.”"
+      "en": "“If Mr. <tips=1>Ryou</tips> goes through hardship for you, it’s because he wants to. If you’re doing this for Mr. <tips=1>Ryou</tips>’s sake, I think you should stay.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0114",
@@ -959,7 +1518,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「でも、私がいなかったら、もう<tips=81>龍頭</tips>をやめられるんじゃない？　組織に入りたくなかったのに、戻って来て、そしていろんな人をたくさん殺して、それは全部私のせいなんでしょ？　私がここに人質にとられているから、みんなの反対を押し切って入った学校をやめて、あんな恐ろしいことばっかりしてるんでしょ？　<tips=4>馬明</tips>さんまで殺して……私、もう見ていられないの」",
-      "en": "“But if I weren’t here, couldn’t he quit being <tips=81>Longtou</tips>? He never wanted to join the organization. He came back and killed so many people, and it was all because of me, wasn’t it? I’m a hostage here, so he left the school he fought everyone to attend and started doing all those horrible things. He even killed Mr. <tips=4>Ma Ming</tips>... I can’t watch it anymore.”"
+      "en": "“But if I weren’t here, couldn’t he quit being <tips=81>Longtou</tips>? He never wanted to join the organization. He came back and killed so many people, and it was all because of me, wasn’t it? I’m a hostage here, so he left the school he fought everyone to attend and started doing all those horrible things. He even killed Mr. <tips=4>Ma Ming</tips>... I can’t watch it anymore.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0115",
@@ -968,7 +1533,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は悲しげに顔を歪める。",
-      "en": "<tips=44>Xiaoqiao</tips>’s face twists with grief."
+      "en": "<tips=44>Xiaoqiao</tips>’s face twists with grief.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0116",
@@ -977,7 +1548,13 @@
       "sj": "",
       "se": "",
       "jp": "「……私は<tips=1>亮</tips>さんがどういう気持ちでいるのかわからない。もしかしたらあなたの言う通りの理由なのかもしれない。でも、もしいま<tips=44>筱喬</tips>がいなくなっても、元に戻ることなんか出来ないんだよ」",
-      "en": "“...I don’t know how Mr. <tips=1>Ryou</tips> feels. Maybe you’re right about his reasons. But even if <tips=44>Xiaoqiao</tips> leaves now, he can’t go back to the life he had before.”"
+      "en": "“...I don’t know how Mr. <tips=1>Ryou</tips> feels. Maybe you’re right about his reasons. But even if <tips=44>Xiaoqiao</tips> leaves now, he can’t go back to the life he had before.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0117",
@@ -986,7 +1563,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「でも……」",
-      "en": "“But...”"
+      "en": "“But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0118",
@@ -995,7 +1578,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は戸惑いながら、",
-      "en": "<tips=44>Xiaoqiao</tips> hesitates, then—"
+      "en": "<tips=44>Xiaoqiao</tips> hesitates, then—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0119",
@@ -1004,7 +1593,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「それでも、もうここにはいられないの。ねえ<tips=51>さくら</tips>、私を逃がして？」",
-      "en": "“Even so, I can’t stay here anymore. Please, <tips=51>Sakura</tips>. Help me get away.”"
+      "en": "“Even so, I can’t stay here anymore. Please, <tips=51>Sakura</tips>. Help me get away.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0120",
@@ -1013,7 +1608,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私を潤んだ目で見つめる。",
-      "en": "She gazes at me, her eyes wet."
+      "en": "She gazes at me, her eyes wet.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0121",
@@ -1022,7 +1623,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「簡単なことじゃないのはわかってる。でも、<tips=51>さくら</tips>にしかこんなことは頼めないの」",
-      "en": "“I know it won’t be easy. But <tips=51>Sakura</tips> is the only person I can ask.”"
+      "en": "“I know it won’t be easy. But <tips=51>Sakura</tips> is the only person I can ask.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0122",
@@ -1031,7 +1638,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は溜息をついた。",
-      "en": "I sigh."
+      "en": "I sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0123",
@@ -1040,7 +1653,13 @@
       "sj": "",
       "se": "",
       "jp": "　自分の言っていることが正しいと思うのなら、逃げるなんていう強硬手段をとらなくとも、兄に説明してビルから出して貰えばいい。<tips=1>亮</tips>さんは何が何でも閉じ込めたいという感じではなさそうだし、許可を得られないわけでもないだろう。でも、<tips=44>筱喬</tips>はそれじゃだめなんだ。",
-      "en": "If she believes she’s right, she doesn’t need to resort to anything as drastic as an escape. She could explain it to her brother and ask him to let her leave. Mr. <tips=1>Ryou</tips> doesn’t seem determined to lock her up at any cost. He might give her permission. But that won’t do for <tips=44>Xiaoqiao</tips>."
+      "en": "If she believes she’s right, she doesn’t need to resort to anything as drastic as an escape. She could explain it to her brother and ask him to let her leave. Mr. <tips=1>Ryou</tips> doesn’t seem determined to lock her up at any cost. He might give her permission. But that won’t do for <tips=44>Xiaoqiao</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0124",
@@ -1049,7 +1668,13 @@
       "sj": "",
       "se": "",
       "jp": "　だって、<tips=10>見土</tips>さんのところへ行きたいのだから。さすがの<tips=1>亮</tips>さんも、それは許可が出せない。だから、説明せずに脱走するしかないということだ。",
-      "en": "Because she wants to go to Mr. <tips=10>Mido</tips>. Even Mr. <tips=1>Ryou</tips> could never allow that. Which means she has to run away without telling him."
+      "en": "Because she wants to go to Mr. <tips=10>Mido</tips>. Even Mr. <tips=1>Ryou</tips> could never allow that. Which means she has to run away without telling him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0125",
@@ -1058,7 +1683,13 @@
       "sj": "",
       "se": "",
       "jp": "　困ったな。",
-      "en": "Now this is a problem."
+      "en": "Now this is a problem.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0126",
@@ -1067,7 +1698,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>の言うことは聞いてやりたいが、こればかりはどうだろう？　<tips=81>龍頭</tips>の妹を脱走させるというのは<tips=7>ＹＳ</tips>を敵に回すことになるんだろうけれど、まあそれはそれとして、なんで彼女の恋の手助けをしてやらなきゃいけないんだ。",
-      "en": "I want to give <tips=44>Xiaoqiao</tips> what she asks for, but this may be going too far. Helping the <tips=81>Longtou</tips>’s sister escape would mean making an enemy of <tips=7>YS</tips>, but never mind that—why should I have to help her love life?"
+      "en": "I want to give <tips=44>Xiaoqiao</tips> what she asks for, but this may be going too far. Helping the <tips=81>Longtou</tips>’s sister escape would mean making an enemy of <tips=7>YS</tips>, but never mind that—why should I have to help her love life?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0127",
@@ -1076,7 +1713,13 @@
       "sj": "",
       "se": "",
       "jp": "　私としてはちっとも面白くないのだけれど、かといって即座に断ることも出来ず、結局その場では返事が出来なかった。",
-      "en": "I don’t find that prospect entertaining in the least. But I can’t refuse her on the spot either, so in the end I give her no answer."
+      "en": "I don’t find that prospect entertaining in the least. But I can’t refuse her on the spot either, so in the end I give her no answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0141",
@@ -1085,7 +1728,8 @@
       "sj": "",
       "se": "",
       "jp": "　夜。自宅のベッドの上で、悶々として眠れない。",
-      "en": "That night, I lie awake in bed at home, miserable and restless."
+      "en": "That night, I lie awake in bed at home, miserable and restless.",
+      "bg": "assets/vn/backgrounds/bg-ca47107ec396.webp"
     },
     {
       "id": "D3:0142",
@@ -1256,7 +1900,14 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「<tips=51>さくら</tips>、良い？　ジェニファーが入って来たらね、ちゃんと怯えたフリをするんだよ」",
-      "en": "“All right, <tips=51>Sakura</tips>? When Jennifer comes in, make sure you pretend to be frightened.”"
+      "en": "“All right, <tips=51>Sakura</tips>? When Jennifer comes in, make sure you pretend to be frightened.”",
+      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0175",
@@ -1265,7 +1916,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は上着を身に纏い、当面必要なものは大きな旅行鞄に詰めて、もうすっかり出かける準備を整えていた。そして手には、彼女の華奢な身体にはいかにも重そうなオートマチックのピストルが握られている。",
-      "en": "<tips=44>Xiaoqiao</tips> is wearing her coat, with everything she’ll need for now packed into a large suitcase. She is completely ready to leave. In one hand, she grips an automatic pistol that looks much too heavy for her slender body."
+      "en": "<tips=44>Xiaoqiao</tips> is wearing her coat, with everything she’ll need for now packed into a large suitcase. She is completely ready to leave. In one hand, she grips an automatic pistol that looks much too heavy for her slender body.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0176",
@@ -1274,7 +1931,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は平気だけど、あなたこそ大丈夫？　ものすごーく、緊張してるみたいだけど？」",
-      "en": "“I’m fine, but are you? You look extremely nervous.”"
+      "en": "“I’m fine, but are you? You look extremely nervous.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0177",
@@ -1283,7 +1946,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女の顔は少し紅く火照り、目はギラギラとしている。呼吸も荒く、何か運動をしたわけでもないのに肩を上下させてハァハァ言っている。冷や汗も顔に浮かんでいる。何か病気の発作でも起こしているのかと心配になるほどなのだ。",
-      "en": "Her face is flushed, her eyes glittering. Her breathing is ragged; though she hasn’t exercised, her shoulders pump as she pants. Cold sweat beads on her face. I could almost believe she was having some kind of attack."
+      "en": "Her face is flushed, her eyes glittering. Her breathing is ragged; though she hasn’t exercised, her shoulders pump as she pants. Cold sweat beads on her face. I could almost believe she was having some kind of attack.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0178",
@@ -1292,7 +1961,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし彼女はそのままニヤリと笑い、",
-      "en": "But then she grins."
+      "en": "But then she grins.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0179",
@@ -1301,7 +1976,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「大丈夫。ちっとも心配ないよ。……でも、なんだかワクワクして楽しいね。<tips=44>シウ</tips>ね、こんなことするの初めてだよ」",
-      "en": "“I’m fine. Nothing to worry about. ...This is exciting, though, isn’t it? It’s fun. <tips=44>Siu</tips> has never done anything like this before.”"
+      "en": "“I’m fine. Nothing to worry about. ...This is exciting, though, isn’t it? It’s fun. <tips=44>Siu</tips> has never done anything like this before.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0180",
@@ -1310,7 +1991,13 @@
       "sj": "",
       "se": "",
       "jp": "「そりゃあ、こんなことする人あんまりいないと思うけど……」",
-      "en": "“Well, I don’t think many people have...”"
+      "en": "“Well, I don’t think many people have...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0181",
@@ -1319,7 +2006,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が言いかけたとき、ドアが外側からノックされる。",
-      "en": "Before I can finish, someone knocks on the other side of the door."
+      "en": "Before I can finish, someone knocks on the other side of the door.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0188",
@@ -1382,7 +2075,8 @@
       "sj": "",
       "se": "",
       "jp": "「えっ、これは……」",
-      "en": "“Wh-what is going on...?”"
+      "en": "“Wh-what is going on...?”",
+      "bg": "assets/vn/backgrounds/bg-7da040fcde3a.webp"
     },
     {
       "id": "D3:0212",
@@ -1643,7 +2337,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は顎をしゃくってベランダの方へ出るよう指示する。私は頷き、彼女の銃口に怯えるふりをしながらドアを開け、ベランダに出る。",
-      "en": "<tips=44>Xiaoqiao</tips> jerks her chin toward the balcony. I nod, open the door while pretending to cower before the gun, and step outside."
+      "en": "<tips=44>Xiaoqiao</tips> jerks her chin toward the balcony. I nod, open the door while pretending to cower before the gun, and step outside.",
+      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
     },
     {
       "id": "D3:0257",
@@ -1697,7 +2392,8 @@
       "sj": "",
       "se": "",
       "jp": "　私はジェニファーの態度に複雑な思いを抱いていたら、",
-      "en": "I’m wrestling with mixed feelings over Jennifer’s reaction when—"
+      "en": "I’m wrestling with mixed feelings over Jennifer’s reaction when—",
+      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp"
     },
     {
       "id": "D3:0269",
@@ -1706,7 +2402,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「ジェニファーには可哀想なことをしちゃった。今度何かの形で埋め合わせてあげないと……」",
-      "en": "“I feel awful about what we did to Jennifer. I’ll have to find some way to make it up to her...”"
+      "en": "“I feel awful about what we did to Jennifer. I’ll have to find some way to make it up to her...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0270",
@@ -1715,7 +2417,13 @@
       "sj": "",
       "se": "",
       "jp": "　と背中の<tips=44>筱喬</tips>が耳元で呟いた。",
-      "en": "<tips=44>Xiaoqiao</tips> murmurs into my ear from my back."
+      "en": "<tips=44>Xiaoqiao</tips> murmurs into my ear from my back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0271",
@@ -1724,7 +2432,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女が優しくて良かった。私はそう思いながら、",
-      "en": "I’m glad she’s kind. With that thought—"
+      "en": "I’m glad she’s kind. With that thought—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0272",
@@ -1733,7 +2447,13 @@
       "sj": "",
       "se": "",
       "jp": "「大丈夫だよ。あの子も<tips=44>筱喬</tips>のことが好きだから、動揺しているだけ。そのうちきっとわかってくれるはず」",
-      "en": "“It’ll be all right. She loves <tips=44>Xiaoqiao</tips> too. She’s only shaken up. I’m sure she’ll understand eventually.”"
+      "en": "“It’ll be all right. She loves <tips=44>Xiaoqiao</tips> too. She’s only shaken up. I’m sure she’ll understand eventually.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0273",
@@ -1742,7 +2462,13 @@
       "sj": "",
       "se": "",
       "jp": "　と慰めた。",
-      "en": "I try to comfort her."
+      "en": "I try to comfort her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0280",
@@ -1787,7 +2513,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「いや、ここ数日色々とバタバタしていて忙しくてね。出て来る時トラブルはなかったかい？」",
-      "en": "“No, the last few days have been hectic, that’s all. I’ve been busy. Did you have any trouble getting out?”"
+      "en": "“No, the last few days have been hectic, that’s all. I’ve been busy. Did you have any trouble getting out?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0285",
@@ -1796,7 +2528,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「おかげさまで。<tips=51>さくら</tips>がすごくよくやってくれたんです」",
-      "en": "“No, thanks to <tips=51>Sakura</tips>. She did a wonderful job.”"
+      "en": "“No, thanks to <tips=51>Sakura</tips>. She did a wonderful job.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0286",
@@ -1805,7 +2547,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>のこたえに<tips=10>見土</tips>さんはいつも通り微笑んではいたけれど、その心中は簡単なものではないだろう。",
-      "en": "At <tips=44>Xiaoqiao</tips>’s answer, Mr. <tips=10>Mido</tips> gives his usual smile, but his feelings can’t be simple."
+      "en": "At <tips=44>Xiaoqiao</tips>’s answer, Mr. <tips=10>Mido</tips> gives his usual smile, but his feelings can’t be simple.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0287",
@@ -1814,7 +2566,17 @@
       "sj": "",
       "se": "",
       "jp": "　何と言ったって、<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>の妹を預かるというのだ。これはヘタをするとこの街の裏社会の勢力図を変えてしまうほどの重要な出来事だ。",
-      "en": "After all, he is taking in the sister of the <tips=7>YS</tips> <tips=81>Longtou</tips>. Handled badly, this could shift the balance of power in the City’s underworld."
+      "en": "After all, he is taking in the sister of the <tips=7>YS</tips> <tips=81>Longtou</tips>. Handled badly, this could shift the balance of power in the City’s underworld.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0288",
@@ -1823,7 +2585,17 @@
       "sj": "",
       "se": "",
       "jp": "　例えば、八龍会が<tips=44>筱喬</tips>を人質にとって<tips=7>ＹＳ</tips>に何かを要求する可能性もあるし、<tips=7>ＹＳ</tips>内に潜在的にたくさん存在すると思われる反<tips=1>謝亮</tips>派への工作に使うという手もある。<tips=10>見土</tips>さん自身が<tips=21>八龍会</tips>の幹部であるから、彼がそのように企むことだってあるわけだ。――私はそのことについて事前に彼に質問をしていた。もし<tips=44>筱喬</tips>を預かったとして、そのように利用するつもりはあるのか？　<tips=44>筱喬</tips>は彼を信じていたけれど、私はそれほどではない。",
-      "en": "The Dragon Club could take <tips=44>Xiaoqiao</tips> hostage and make demands of <tips=7>YS</tips>. It could use her to manipulate the many factions presumably lying dormant inside <tips=7>YS</tips> in opposition to <tips=1>Xie Liang</tips>. Mr. <tips=10>Mido</tips> is himself an executive of the <tips=21>Dragon Club</tips>; he might have plans like that of his own. —I asked him beforehand. If he took <tips=44>Xiaoqiao</tips> in, did he intend to use her? <tips=44>Xiaoqiao</tips> trusted him. I didn’t trust him quite that much."
+      "en": "The Dragon Club could take <tips=44>Xiaoqiao</tips> hostage and make demands of <tips=7>YS</tips>. It could use her to manipulate the many factions presumably lying dormant inside <tips=7>YS</tips> in opposition to <tips=1>Xie Liang</tips>. Mr. <tips=10>Mido</tips> is himself an executive of the <tips=21>Dragon Club</tips>; he might have plans like that of his own. —I asked him beforehand. If he took <tips=44>Xiaoqiao</tips> in, did he intend to use her? <tips=44>Xiaoqiao</tips> trusted him. I didn’t trust him quite that much.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0289",
@@ -1832,7 +2604,17 @@
       "sj": "",
       "se": "",
       "jp": "　その時<tips=10>見土</tips>さんは絶対にありえないと言った。彼は自分を信じてくれた人を裏切ったことがないと言う。<tips=44>筱喬</tips>はおそらく<tips=21>八龍会</tips>で保護することになるが、<tips=81>龍頭</tips>の妹であるという身分は絶対に隠すと約束してくれた。それに、もし身分が露見することがあっても、<tips=21>八龍会</tips>は一度仲間になったものを人質などにはしないと言う。",
-      "en": "Mr. <tips=10>Mido</tips> said that was absolutely out of the question. He had never betrayed anyone who placed their trust in him. <tips=44>Xiaoqiao</tips> would probably be placed under the <tips=21>Dragon Club</tips>’s protection, but he promised to conceal the fact that she was the <tips=81>Longtou</tips>’s sister. Even if her identity came out, he said, the <tips=21>Dragon Club</tips> would never use one of its own as a hostage."
+      "en": "Mr. <tips=10>Mido</tips> said that was absolutely out of the question. He had never betrayed anyone who placed their trust in him. <tips=44>Xiaoqiao</tips> would probably be placed under the <tips=21>Dragon Club</tips>’s protection, but he promised to conceal the fact that she was the <tips=81>Longtou</tips>’s sister. Even if her identity came out, he said, the <tips=21>Dragon Club</tips> would never use one of its own as a hostage.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0290",
@@ -1841,7 +2623,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「<tips=21>八龍会</tips>はね、<tips=17>タイプB</tips>の仲間は絶対に裏切らないんだ。それを今までずっと守ってたからこそ、<tips=21>八龍会</tips>は強い繋がりを築けている。<tips=21>八龍会</tips>のメンバーはいろんな組織のなかに潜り込んでいるが、そのみんながいざとなれば<tips=21>八龍会</tips>のために動いてくれるのは、この繋がりがあるからだ。一度でも仲間を売るようなことをしたら、この繋がりは崩壊するだろう。そうしたら、最大の武器を失う。だから、<tips=21>八龍会</tips>は、たとえ敵対者の妹でも入会した以上は身内として保護せざるを得ない。おれを信じなくてもいいが、理屈はわかるだろう？」",
-      "en": "“The <tips=21>Dragon Club</tips> never betrays a fellow <tips=17>Type B</tips>. The <tips=21>Dragon Club</tips> has built these bonds by keeping that promise all these years. <tips=21>Dragon Club</tips> members are embedded in all kinds of organizations, and when the time comes, every one of them will move for the <tips=21>Dragon Club</tips> because those bonds exist. Sell out one of our own even once and the whole thing falls apart. We lose our greatest weapon. So once someone joins the <tips=21>Dragon Club</tips>, we have to protect her as family—even if she’s our enemy’s sister. You don’t have to trust me. But the logic makes sense, doesn’t it?”"
+      "en": "“The <tips=21>Dragon Club</tips> never betrays a fellow <tips=17>Type B</tips>. The <tips=21>Dragon Club</tips> has built these bonds by keeping that promise all these years. <tips=21>Dragon Club</tips> members are embedded in all kinds of organizations, and when the time comes, every one of them will move for the <tips=21>Dragon Club</tips> because those bonds exist. Sell out one of our own even once and the whole thing falls apart. We lose our greatest weapon. So once someone joins the <tips=21>Dragon Club</tips>, we have to protect her as family—even if she’s our enemy’s sister. You don’t have to trust me. But the logic makes sense, doesn’t it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0291",
@@ -1850,7 +2642,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼の言っていることに、少なくとも私は説得力を感じた。",
-      "en": "At the very least, I find his argument persuasive."
+      "en": "At the very least, I find his argument persuasive.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0292",
@@ -1859,7 +2661,17 @@
       "sj": "",
       "se": "",
       "jp": "　さらに<tips=10>見土</tips>さんはしばらく考えた後、こう言った。",
-      "en": "After thinking a little longer, Mr. <tips=10>Mido</tips> adds—"
+      "en": "After thinking a little longer, Mr. <tips=10>Mido</tips> adds—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0293",
@@ -1868,7 +2680,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「おれ自身は、<tips=44>シウ</tips>ちゃんはあのビルにいるより、こっちに出て来た方がずっと安全だと思っている。だから、本人がそう言うなら協力は惜しまない」",
-      "en": "“Personally, I think little <tips=44>Siu</tips> will be much safer out here than in that building. If this is what she wants, I’ll do anything I can to help.”"
+      "en": "“Personally, I think little <tips=44>Siu</tips> will be much safer out here than in that building. If this is what she wants, I’ll do anything I can to help.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0294",
@@ -1877,7 +2699,17 @@
       "sj": "",
       "se": "",
       "jp": "　それは<tips=21>八龍会</tips>に<tips=7>ＹＳ</tips>を攻撃する予定があるのか、それとも一般論なのか。私には判別がつかなかったけれど、その顔はあくまでも真剣で、少なくとも私の目には何かを企んでいるようには見えなかった。だから私は信じることにした。",
-      "en": "Did that mean the <tips=21>Dragon Club</tips> planned to attack <tips=7>YS</tips>, or was he speaking in general terms? I couldn’t tell. But his face was completely serious, and at least to me, he didn’t look as though he were plotting anything. So I chose to believe him."
+      "en": "Did that mean the <tips=21>Dragon Club</tips> planned to attack <tips=7>YS</tips>, or was he speaking in general terms? I couldn’t tell. But his face was completely serious, and at least to me, he didn’t look as though he were plotting anything. So I chose to believe him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0295",
@@ -1886,7 +2718,17 @@
       "sj": "",
       "se": "",
       "jp": "　こうしたやりとりは<tips=44>筱喬</tips>には伝えていない。私が彼女に言ったのは「<tips=10>見土</tips>さんは協力してくれるって」という一言だけだった。それでもう<tips=44>筱喬</tips>は薔薇の花が咲いたみたいにぱあっと表情を明るくさせ、喜んだ。",
-      "en": "I told <tips=44>Xiaoqiao</tips> none of this. All I said was, ‘Mr. <tips=10>Mido</tips> says he’ll help.’ That was enough to make <tips=44>Xiaoqiao</tips>’s face light up like a rose opening."
+      "en": "I told <tips=44>Xiaoqiao</tips> none of this. All I said was, ‘Mr. <tips=10>Mido</tips> says he’ll help.’ That was enough to make <tips=44>Xiaoqiao</tips>’s face light up like a rose opening.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0296",
@@ -1895,7 +2737,17 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは部屋に移動する。私は二度目だけれども、それを悟られないよう初めての振りをする。やましいことがあるわけではないけれど、先に私が訪れていると知ったらいやな気分になるのではないかと思ったからだ。だけれど、そんな必要はなかったかもしれない。<tips=44>筱喬</tips>はすっかり緊張してカチコチになって、私の態度を観察する余裕なんか全然ないみたいだ。",
-      "en": "We move to his apartment. It’s my second visit, but I pretend it’s the first. Nothing improper happened; I only thought she might not like knowing I’d been here before her. The deception may be pointless. <tips=44>Xiaoqiao</tips> is stiff with nerves and has no attention to spare for anything I do."
+      "en": "We move to his apartment. It’s my second visit, but I pretend it’s the first. Nothing improper happened; I only thought she might not like knowing I’d been here before her. The deception may be pointless. <tips=44>Xiaoqiao</tips> is stiff with nerves and has no attention to spare for anything I do.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0308",
@@ -1904,7 +2756,8 @@
       "sj": "",
       "se": "",
       "jp": "　あの夜私が座ったソファーに二人で腰掛けると、<tips=10>見土</tips>さんもあの夜と同じ場所に座る。そして、じっと<tips=44>筱喬</tips>の顔を見つめた。",
-      "en": "We sit together on the sofa where I sat that night. Mr. <tips=10>Mido</tips> takes the same seat as before and studies <tips=44>Xiaoqiao</tips>’s face."
+      "en": "We sit together on the sofa where I sat that night. Mr. <tips=10>Mido</tips> takes the same seat as before and studies <tips=44>Xiaoqiao</tips>’s face.",
+      "bg": "assets/vn/backgrounds/bg-acd468ca7e3b.webp"
     },
     {
       "id": "D3:0309",
@@ -1913,7 +2766,13 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「<tips=44>シウ</tips>ちゃん。きみが<tips=21>八龍会</tips>に入るというのなら、おれは歓迎するよ。ただ、そのためには条件がある」",
-      "en": "“Little <tips=44>Siu</tips>, if you want to join the <tips=21>Dragon Club</tips>, I’ll welcome you. But there is one condition.”"
+      "en": "“Little <tips=44>Siu</tips>, if you want to join the <tips=21>Dragon Club</tips>, I’ll welcome you. But there is one condition.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0310",
@@ -1922,7 +2781,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「条件？」",
-      "en": "“A condition?”"
+      "en": "“A condition?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0311",
@@ -1931,7 +2800,17 @@
       "sj": "",
       "se": "",
       "jp": "　いつにない<tips=10>見土</tips>さんの真面目な調子に圧倒されながら<tips=44>筱喬</tips>は問い返す。",
-      "en": "Mr. <tips=10>Mido</tips> is unusually grave. Overawed, <tips=44>Xiaoqiao</tips> repeats the word."
+      "en": "Mr. <tips=10>Mido</tips> is unusually grave. Overawed, <tips=44>Xiaoqiao</tips> repeats the word.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0312",
@@ -1940,7 +2819,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「知っての通り、今おれたち<tips=21>八龍会</tips>ときみの兄である<tips=1>亮</tips>の<tips=7>ＹＳ</tips>の関係は緊張感のあるものに変化しつつある。そうした状況で、きみが<tips=21>八龍会</tips>の一員になることの意味はわかってるね？」",
-      "en": "“As you know, things are becoming tense between our <tips=21>Dragon Club</tips> and your brother <tips=1>Ryou</tips>’s <tips=7>YS</tips>. You understand what it would mean to join the <tips=21>Dragon Club</tips> under these circumstances, don’t you?”"
+      "en": "“As you know, things are becoming tense between our <tips=21>Dragon Club</tips> and your brother <tips=1>Ryou</tips>’s <tips=7>YS</tips>. You understand what it would mean to join the <tips=21>Dragon Club</tips> under these circumstances, don’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0313",
@@ -1949,7 +2838,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「はい……」",
-      "en": "“Yes...”"
+      "en": "“Yes...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0314",
@@ -1958,7 +2857,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「<tips=3>クリス・ツェー</tips>の娘が入会すれば、いろいろとややこしい問題が出て来るだろう。それはきみも望まないだろうし、おれも望まない。そしてきっと、<tips=51>さくら</tips>ちゃんもね」",
-      "en": "“If <tips=3>Chris Xie</tips>’s daughter joined us, it would create all sorts of complications. You don’t want that. Neither do I. And I’m sure little <tips=51>Sakura</tips> doesn’t either.”"
+      "en": "“If <tips=3>Chris Xie</tips>’s daughter joined us, it would create all sorts of complications. You don’t want that. Neither do I. And I’m sure little <tips=51>Sakura</tips> doesn’t either.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0315",
@@ -1967,7 +2876,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>さんがチラとこちらに視線をくれたので頷きを返す。",
-      "en": "Mr. <tips=10>Mido</tips> glances my way, and I nod."
+      "en": "Mr. <tips=10>Mido</tips> glances my way, and I nod.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0316",
@@ -1976,7 +2895,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「だから、おれはややこしくならない方法を考えたんだ」",
-      "en": "“So I’ve thought of a way to keep things simple.”"
+      "en": "“So I’ve thought of a way to keep things simple.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0317",
@@ -1985,7 +2914,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>さんの言葉に、<tips=44>筱喬</tips>は緊張でごくりとつばを飲む。",
-      "en": "At Mr. <tips=10>Mido</tips>’s words, <tips=44>Xiaoqiao</tips> swallows hard."
+      "en": "At Mr. <tips=10>Mido</tips>’s words, <tips=44>Xiaoqiao</tips> swallows hard.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0318",
@@ -1994,7 +2933,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「申し訳ないが、きみには<tips=44>謝筱喬</tips>であることをやめて貰う」",
-      "en": "“I’m sorry, but I need you to stop being <tips=44>Xie Xiaoqiao</tips>.”"
+      "en": "“I’m sorry, but I need you to stop being <tips=44>Xie Xiaoqiao</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0319",
@@ -2003,7 +2952,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「え」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0320",
@@ -2012,7 +2971,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は唇を開いて驚く。",
-      "en": "<tips=44>Xiaoqiao</tips>’s lips part in surprise."
+      "en": "<tips=44>Xiaoqiao</tips>’s lips part in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0321",
@@ -2021,7 +2990,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「何でもいい。誰か別の名前を名乗るんだ。そして、きみは<tips=7>ＹＳ</tips>とは何の関係もない人間として生活してゆく。たとえば日本人の名前を使ったりしてもいいな。まあ、細かい設定とかはあとで自然で無理のないものを考えるとして、とにかく、そうして別人になりすまして、ここにいる三人以外、たとえ<tips=21>八龍会</tips>の他の仲間たちにも絶対に本当のことを知られないようにするんだ。面倒に巻き込まれたくなければそうするしかない」",
-      "en": "“Any name will do. Call yourself someone else and live as someone with no connection at all to <tips=7>YS</tips>. You could use a Japanese name, for example. We can work out a natural, convincing history later. The point is, you take on another identity. No one but the three of us in this room—not even the rest of the <tips=21>Dragon Club</tips>—can ever learn the truth. If you want to stay out of trouble, that’s the only way.”"
+      "en": "“Any name will do. Call yourself someone else and live as someone with no connection at all to <tips=7>YS</tips>. You could use a Japanese name, for example. We can work out a natural, convincing history later. The point is, you take on another identity. No one but the three of us in this room—not even the rest of the <tips=21>Dragon Club</tips>—can ever learn the truth. If you want to stay out of trouble, that’s the only way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0322",
@@ -2030,7 +3009,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「別人として……」",
-      "en": "“As someone else...”"
+      "en": "“As someone else...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0323",
@@ -2039,7 +3028,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>はこんな提案を予想してはいなかったらしく、眉間に皺を寄せる。",
-      "en": "<tips=44>Xiaoqiao</tips> clearly never expected such a proposal. Her brow furrows."
+      "en": "<tips=44>Xiaoqiao</tips> clearly never expected such a proposal. Her brow furrows.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0324",
@@ -2048,7 +3047,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「この条件を受け入れて貰わなければ、おれは力を貸すことは出来ない。ただ、飲んでくれたら出来る限りのことはすると約束しよう」",
-      "en": "“If you can’t accept that condition, I can’t help you. But if you do, I promise I’ll do everything in my power.”"
+      "en": "“If you can’t accept that condition, I can’t help you. But if you do, I promise I’ll do everything in my power.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0325",
@@ -2057,7 +3066,17 @@
       "sj": "",
       "se": "",
       "jp": "　本当に隠し通すことが出来るか、というのが私としては気になるところだけれど、残念ながら判断する材料がない。",
-      "en": "My concern is whether they can really keep the secret. Unfortunately, I have nothing to judge that by."
+      "en": "My concern is whether they can really keep the secret. Unfortunately, I have nothing to judge that by.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0326",
@@ -2066,7 +3085,17 @@
       "sj": "",
       "se": "",
       "jp": "　結局のところ、この話が妥当かどうかというのは、最終的には<tips=10>見土</tips>さんを信じるかどうかという話でしかない。そしてそれを判断する権利があるのは、<tips=44>筱喬</tips>本人だけだ。",
-      "en": "In the end, whether this plan is sound comes down to whether she trusts Mr. <tips=10>Mido</tips>. And the only person entitled to make that judgment is <tips=44>Xiaoqiao</tips> herself."
+      "en": "In the end, whether this plan is sound comes down to whether she trusts Mr. <tips=10>Mido</tips>. And the only person entitled to make that judgment is <tips=44>Xiaoqiao</tips> herself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0327",
@@ -2075,7 +3104,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女にしてみれば自分の名も過去も、そして兄も捨てるということになる重大な判断だが、そう長く考えることなく、結論を口にした。",
-      "en": "For her, it’s a momentous choice: giving up her name, her past, and her brother. Yet she doesn’t think long before answering."
+      "en": "For her, it’s a momentous choice: giving up her name, her past, and her brother. Yet she doesn’t think long before answering.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0328",
@@ -2084,7 +3123,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「わかりました」",
-      "en": "“All right.”"
+      "en": "“All right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0329",
@@ -2093,7 +3142,17 @@
       "sj": "",
       "se": "",
       "jp": "　そうだろうね。",
-      "en": "Of course."
+      "en": "Of course.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0330",
@@ -2102,7 +3161,17 @@
       "sj": "",
       "se": "",
       "jp": "　ああいう形で<tips=41>グランドタワー</tips>を出て来た以上、彼女にとっては戻るという選択肢はない。いや、この計画を立てた時点で既に彼女の頭からそんな考えは消えていたはずだ。",
-      "en": "After leaving <tips=41>Grand Tower</tips> the way she did, she can’t go back. No—the thought of going back must have left her mind the moment she made this plan."
+      "en": "After leaving <tips=41>Grand Tower</tips> the way she did, she can’t go back. No—the thought of going back must have left her mind the moment she made this plan.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0331",
@@ -2111,7 +3180,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、彼女が<tips=10>見土</tips>さんを疑ったり断ったりするはずがない。彼女は私のことだって、一度も疑うことなく全ての言葉を信じてくれたのだ。",
-      "en": "And there’s no chance she would doubt or refuse Mr. <tips=10>Mido</tips>. She believed every word I ever told her without doubting me once."
+      "en": "And there’s no chance she would doubt or refuse Mr. <tips=10>Mido</tips>. She believed every word I ever told her without doubting me once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0332",
@@ -2120,7 +3199,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「ありがとう。……<tips=51>さくら</tips>ちゃんはどう思う？」",
-      "en": "“Thank you. ...What do you think, little <tips=51>Sakura</tips>?”"
+      "en": "“Thank you. ...What do you think, little <tips=51>Sakura</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0333",
@@ -2129,7 +3218,17 @@
       "sj": "",
       "se": "",
       "jp": "「本人がこう言った以上、私の意見は必要ないです」",
-      "en": "“She’s decided. My opinion isn’t necessary.”"
+      "en": "“She’s decided. My opinion isn’t necessary.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0334",
@@ -2138,7 +3237,17 @@
       "sj": "",
       "se": "",
       "jp": "　私は肩をすくめて溜息をつく。",
-      "en": "I shrug and sigh."
+      "en": "I shrug and sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0335",
@@ -2147,7 +3256,17 @@
       "sj": "見土道夫",
       "se": "Michio Mido",
       "jp": "「そうかい。保護者のように見えたからね」",
-      "en": "“Is that right? You looked almost like her guardian.”"
+      "en": "“Is that right? You looked almost like her guardian.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0336",
@@ -2156,7 +3275,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=10>見土</tips>さんは苦笑する。",
-      "en": "Mr. <tips=10>Mido</tips> gives me a wry smile."
+      "en": "Mr. <tips=10>Mido</tips> gives me a wry smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0337",
@@ -2165,7 +3294,17 @@
       "sj": "",
       "se": "",
       "jp": "「ねえ、新しい名前が決まったら、うっかり自分を呼ぶ時に『<tips=44>シウ</tips>』って言っちゃダメだからね」",
-      "en": "“Listen. Once you have a new name, don’t accidentally call yourself ‘<tips=44>Siu</tips>,’ okay?”"
+      "en": "“Listen. Once you have a new name, don’t accidentally call yourself ‘<tips=44>Siu</tips>,’ okay?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0338",
@@ -2174,7 +3313,17 @@
       "sj": "",
       "se": "",
       "jp": "　私の横顔を見つめている<tips=44>筱喬</tips>にそう念を押すと、",
-      "en": "I make sure <tips=44>Xiaoqiao</tips>, who is watching me in profile, understands."
+      "en": "I make sure <tips=44>Xiaoqiao</tips>, who is watching me in profile, understands.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0339",
@@ -2183,7 +3332,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「うん」",
-      "en": "“Okay.”"
+      "en": "“Okay.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0340",
@@ -2192,7 +3351,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はそう言って頷いた。",
-      "en": "She nods."
+      "en": "She nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0342",
@@ -2237,7 +3406,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「うん。今日はありがとう」",
-      "en": "“Okay. Thank you for today.”"
+      "en": "“Okay. Thank you for today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0347",
@@ -2246,7 +3421,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>はこれからの希望にあふれた笑顔でそう言った。",
-      "en": "<tips=44>Xiaoqiao</tips> says it with a smile full of hope for everything ahead."
+      "en": "<tips=44>Xiaoqiao</tips> says it with a smile full of hope for everything ahead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0348",
@@ -2255,7 +3436,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「私、<tips=51>さくら</tips>と友だちになれてよかった。<tips=51>さくら</tips>がいなければ、きっと何も出来ないで部屋で泣いているだけの人生だったと思う」",
-      "en": "“I’m glad I became friends with <tips=51>Sakura</tips>. Without <tips=51>Sakura</tips>, I think I would have spent my whole life doing nothing but crying in that room.”"
+      "en": "“I’m glad I became friends with <tips=51>Sakura</tips>. Without <tips=51>Sakura</tips>, I think I would have spent my whole life doing nothing but crying in that room.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0349",
@@ -2264,7 +3451,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなことないよ」",
-      "en": "“That's not true.”"
+      "en": "“That's not true.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0350",
@@ -2273,7 +3466,13 @@
       "sj": "",
       "se": "",
       "jp": "　と私が言ったのは嘘じゃない。私がいなくとも、彼女はきっと何らかのかたちで行動を起こしていただろう。彼女は弱そうに見えて、強い意志の持ち主だ。それは、お父さんやお兄さんと似ているのかもしれない。",
-      "en": "I’m not lying when I deny it. Even without me, she would have acted somehow. She may look weak, but she has a powerful will. Perhaps she got that from her father and brother."
+      "en": "I’m not lying when I deny it. Even without me, she would have acted somehow. She may look weak, but she has a powerful will. Perhaps she got that from her father and brother.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0351",
@@ -2282,7 +3481,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はそのことについて細かく説明しようと思ったけれど、どうしてもその場にいられない事情があったので、素っ気なくそう返すことしか出来なかった。",
-      "en": "I want to explain all of that, but I can’t bear to stay another moment. A curt denial is all I can manage."
+      "en": "I want to explain all of that, but I can’t bear to stay another moment. A curt denial is all I can manage.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0352",
@@ -2291,7 +3496,13 @@
       "sj": "",
       "se": "",
       "jp": "「じゃ」",
-      "en": "“Bye.”"
+      "en": "“Bye.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0353",
@@ -2300,7 +3511,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は言って彼女に背を向ける。",
-      "en": "I turn my back on her."
+      "en": "I turn my back on her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-8a4b348b6b5f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0354",
@@ -2309,7 +3526,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「またね」",
-      "en": "“See you.”"
+      "en": "“See you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0355",
@@ -2318,7 +3541,13 @@
       "sj": "",
       "se": "",
       "jp": "「また」",
-      "en": "“See you.”"
+      "en": "“See you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0362",
@@ -2354,7 +3583,8 @@
       "sj": "",
       "se": "",
       "jp": "　屋上に上り、そこから空に飛び立つ。つい先日まで雨が降っていたのに、こんな日に限って晴れている。",
-      "en": "I climb to the roof and take to the sky. It rained until only a few days ago, but of course today is clear."
+      "en": "I climb to the roof and take to the sky. It rained until only a few days ago, but of course today is clear.",
+      "bg": "assets/vn/backgrounds/bg-1dcc8adb4995.webp"
     },
     {
       "id": "D3:0371",
@@ -2480,7 +3710,8 @@
       "sj": "",
       "se": "",
       "jp": "　私は部屋に戻ってパソコンのスイッチをいれた。そしてゲームをやった。時々涙を拭いながら。そして、身体からとめどもなく流れる粘液も。何も考えたくなかった。",
-      "en": "I go back to my room, turn on the computer, and play a game. Every so often I wipe away my tears, then the slime that keeps pouring from my body. I don’t want to think."
+      "en": "I go back to my room, turn on the computer, and play a game. Every so often I wipe away my tears, then the slime that keeps pouring from my body. I don’t want to think.",
+      "bg": "assets/vn/backgrounds/bg-e3308be6701a.webp"
     },
     {
       "id": "D3:0390",
@@ -2597,7 +3828,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=41>グランドタワー</tips>に到着し、入り口の前に着陸をする。扉を入ると警備の人たちがいる。彼らは私の顔を知っていて、そして<tips=1>亮</tips>さんから指示もあったんだろう。私が何かを言うまでもなく、先導してエレベーターまで連れて行ってくれる。",
-      "en": "I reach <tips=41>Grand Tower</tips> and land outside the entrance. Security guards wait beyond the doors. They know my face, and Mr. <tips=1>Ryou</tips> must have left instructions. Before I can say a word, they lead me to the elevator."
+      "en": "I reach <tips=41>Grand Tower</tips> and land outside the entrance. Security guards wait beyond the doors. They know my face, and Mr. <tips=1>Ryou</tips> must have left instructions. Before I can say a word, they lead me to the elevator.",
+      "bg": "assets/vn/backgrounds/bg-f636942c383b.webp"
     },
     {
       "id": "D3:0417",
@@ -2615,7 +3847,8 @@
       "sj": "",
       "se": "",
       "jp": "　正面の机のところに<tips=1>亮</tips>さんは浮かない顔で座っている。その右側には<tips=40>天明</tips>と<tips=40>天祥</tips>。二人ともそわそわとしていて、入って来た私に心配するような視線を送ってきてくれている。彼女たちはこのビルで、<tips=44>筱喬</tips>の次に親しい人々だ。",
-      "en": "Mr. <tips=1>Ryou</tips> sits behind the desk looking glum. <tips=40>Tianming</tips> and <tips=40>Tianxiang</tips> stand to his right, both fidgeting, both watching me with concern as I enter. Other than <tips=44>Xiaoqiao</tips>, they’re the people here I feel closest to."
+      "en": "Mr. <tips=1>Ryou</tips> sits behind the desk looking glum. <tips=40>Tianming</tips> and <tips=40>Tianxiang</tips> stand to his right, both fidgeting, both watching me with concern as I enter. Other than <tips=44>Xiaoqiao</tips>, they’re the people here I feel closest to.",
+      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
     },
     {
       "id": "D3:0424",
@@ -2633,7 +3866,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「よく来てくれた」",
-      "en": "“Thank you for coming.”"
+      "en": "“Thank you for coming.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0426",
@@ -2642,7 +3881,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんはまずそう言った。",
-      "en": "That is Mr. <tips=1>Ryou</tips>’s greeting."
+      "en": "That is Mr. <tips=1>Ryou</tips>’s greeting.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0427",
@@ -2651,7 +3896,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=44>筱喬</tips>に銃で脅されたんだって。怪我はないかい？」",
-      "en": "“I hear <tips=44>Xiaoqiao</tips> threatened you with a gun. You’re not hurt, are you?”"
+      "en": "“I hear <tips=44>Xiaoqiao</tips> threatened you with a gun. You’re not hurt, are you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0428",
@@ -2660,7 +3911,13 @@
       "sj": "",
       "se": "",
       "jp": "「別に怪我はないです。あの子は、人を傷つけるような子じゃないですから」",
-      "en": "“No. She isn’t the kind of person who would hurt anyone.”"
+      "en": "“No. She isn’t the kind of person who would hurt anyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0429",
@@ -2669,7 +3926,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そうか。何もないなら良かった。迷惑をかけてしまってすまないね」",
-      "en": "“Good. As long as you’re unharmed. I’m sorry she dragged you into this.”"
+      "en": "“Good. As long as you’re unharmed. I’m sorry she dragged you into this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0430",
@@ -2678,7 +3941,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんは眠そうに目を半開きにしながら言う。声にも抑揚がなく、感情と意図が読めない。",
-      "en": "Mr. <tips=1>Ryou</tips> speaks with his eyes half-lidded, almost sleepy. His voice is flat. I can’t read his feelings or his intentions."
+      "en": "Mr. <tips=1>Ryou</tips> speaks with his eyes half-lidded, almost sleepy. His voice is flat. I can’t read his feelings or his intentions.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0431",
@@ -2687,7 +3956,13 @@
       "sj": "",
       "se": "",
       "jp": "「いえ、それは別に。私こそ、彼女を外に連れ出すことになって申し訳ありません」",
-      "en": "“No, it’s all right. I’m the one who should apologize for carrying her out.”"
+      "en": "“No, it’s all right. I’m the one who should apologize for carrying her out.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0432",
@@ -2696,7 +3971,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「あやまる必要はないよ。あいつは、一度決めたらなかなか頑固なところがあるからね」",
-      "en": "“You don’t need to apologize. Once she decides on something, she can be remarkably stubborn.”"
+      "en": "“You don’t need to apologize. Once she decides on something, she can be remarkably stubborn.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0433",
@@ -2705,7 +3986,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はどういうふうに事態をとらえているのだろう？",
-      "en": "How does he see this situation?"
+      "en": "How does he see this situation?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0434",
@@ -2714,7 +4001,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>の脱走に怒っているのかも、私を疑っているのかも、今回の件を重大なものと考えているのかすら、そのたたずまいから推測することが出来ない。私は人の顔色を見て、雰囲気から気持ちを読み取ることにはすこし自信があったんだけれども、彼にはまったく通用しないようだ。",
-      "en": "I can’t tell from his manner whether he’s angry about <tips=44>Xiaoqiao</tips>’s escape, whether he suspects me, or even whether he considers it serious. I’ve always had some confidence in my ability to watch a face and read the mood around a person. None of it works on him."
+      "en": "I can’t tell from his manner whether he’s angry about <tips=44>Xiaoqiao</tips>’s escape, whether he suspects me, or even whether he considers it serious. I’ve always had some confidence in my ability to watch a face and read the mood around a person. None of it works on him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0435",
@@ -2723,7 +4016,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は<tips=44>筱喬</tips>のことを隠す。彼はそれを知りたがる。となると、私と彼の対決ということになるのだな。",
-      "en": "I’m hiding the truth about <tips=44>Xiaoqiao</tips>. He wants to learn it. Which means this is a contest between him and me."
+      "en": "I’m hiding the truth about <tips=44>Xiaoqiao</tips>. He wants to learn it. Which means this is a contest between him and me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0436",
@@ -2732,7 +4031,13 @@
       "sj": "",
       "se": "",
       "jp": "　この街で最も勢力のあるギャングのリーダーと、そんなふうに対決出来るなんて、なかなか面白いような気もするよ。普通に生きていたらまず体験出来ないことだ。",
-      "en": "The thought of facing off against the leader of the City’s most powerful gang is actually rather exciting. You would never experience this in an ordinary life."
+      "en": "The thought of facing off against the leader of the City’s most powerful gang is actually rather exciting. You would never experience this in an ordinary life.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0437",
@@ -2741,7 +4046,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ビルを出た後のことを、詳しく教えてくれないか？」",
-      "en": "“Would you tell me exactly what happened after you left the building?”"
+      "en": "“Would you tell me exactly what happened after you left the building?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0438",
@@ -2750,7 +4061,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0439",
@@ -2759,7 +4076,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は頷く。",
-      "en": "I nod."
+      "en": "I nod.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0440",
@@ -2768,7 +4091,13 @@
       "sj": "",
       "se": "",
       "jp": "　心臓がバクバクとする。緊張しているのだ。これから彼に対し、嘘をつかなければいけないのだから。",
-      "en": "My heart pounds. Of course I’m nervous. I’m about to lie to him."
+      "en": "My heart pounds. Of course I’m nervous. I’m about to lie to him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0441",
@@ -2777,7 +4106,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「つまり、<tips=57>滑走路通り</tips>のそばで<tips=44>筱喬</tips>と別れ、そのあとのことは知らないって言うんだね」",
-      "en": "“So near <tips=57>Runway Street</tips>, you parted from <tips=44>Xiaoqiao</tips> and learned nothing about what happened next. Is that right?”"
+      "en": "“So near <tips=57>Runway Street</tips>, you parted from <tips=44>Xiaoqiao</tips> and learned nothing about what happened next. Is that right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0442",
@@ -2786,7 +4121,13 @@
       "sj": "",
       "se": "",
       "jp": "　私がでっち上げたストーリーを語り終わると、彼はそう確認する。",
-      "en": "When I finish the story I invented, he repeats the point back to me."
+      "en": "When I finish the story I invented, he repeats the point back to me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0443",
@@ -2795,7 +4136,13 @@
       "sj": "",
       "se": "",
       "jp": "「はい」",
-      "en": "“Yes.”"
+      "en": "“Yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0444",
@@ -2804,7 +4151,13 @@
       "sj": "",
       "se": "",
       "jp": "　頷きながらも、不自然な感じがする作り話であることには自分でも気がついている。",
-      "en": "Even as I nod, I know the story sounds unnatural."
+      "en": "Even as I nod, I know the story sounds unnatural.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0445",
@@ -2813,7 +4166,13 @@
       "sj": "",
       "se": "",
       "jp": "　だって、普段の粘着質な私の性格と<tips=44>筱喬</tips>への偏愛からすれば、もっとしつこく<tips=44>筱喬</tips>のあとをついてまわるに決まってる。なのに、そこですぐに引き返して、何も知らないなんてことになるはずがない。",
-      "en": "Given my usual obsessive nature and my fixation on <tips=44>Xiaoqiao</tips>, obviously I would have followed <tips=44>Xiaoqiao</tips> around and refused to let go. There’s no chance I simply turned back and learned nothing else."
+      "en": "Given my usual obsessive nature and my fixation on <tips=44>Xiaoqiao</tips>, obviously I would have followed <tips=44>Xiaoqiao</tips> around and refused to let go. There’s no chance I simply turned back and learned nothing else.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0446",
@@ -2822,7 +4181,13 @@
       "sj": "",
       "se": "",
       "jp": "　そこをつつかれたらなんて返そうか？　銃を向けられたショックで混乱していて、少し一人で静かになりたかったとか？　――嘘というものはなるべく事実に近いほうがバレにくいという原則を踏まえると、「彼女の考えを尊重してあえて引き下がった」という方が自然かもしれない。実際、<tips=10>見土</tips>さんの許に置いて来るとき、それに近い気持ちは私のなかにあった。",
-      "en": "What will I say if he presses me? The shock of having a gun pointed at me left me confused, and I needed some time alone? —A lie is harder to catch when it stays close to the truth. Maybe it would sound more natural to say I respected her wishes and deliberately withdrew. I did feel something like that when I left her with Mr. <tips=10>Mido</tips>."
+      "en": "What will I say if he presses me? The shock of having a gun pointed at me left me confused, and I needed some time alone? —A lie is harder to catch when it stays close to the truth. Maybe it would sound more natural to say I respected her wishes and deliberately withdrew. I did feel something like that when I left her with Mr. <tips=10>Mido</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0447",
@@ -2831,7 +4196,13 @@
       "sj": "",
       "se": "",
       "jp": "　そんなふうに次の質問に備えていたのだけれども、彼の反応は拍子抜けするものだった。",
-      "en": "I brace myself for the next question. His response is almost disappointing."
+      "en": "I brace myself for the next question. His response is almost disappointing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0448",
@@ -2840,7 +4211,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そうか、それは大変だったね。うちの妹のわがままにつき合わせて申し訳なかった」",
-      "en": "“I see. That must have been difficult. I’m sorry you had to humor my sister’s selfishness.”"
+      "en": "“I see. That must have been difficult. I’m sorry you had to humor my sister’s selfishness.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0449",
@@ -2849,7 +4226,13 @@
       "sj": "",
       "se": "",
       "jp": "　というだけで、それ以上何かを質問するふうでもない。",
-      "en": "That’s all. He shows no sign of asking another question."
+      "en": "That’s all. He shows no sign of asking another question.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0450",
@@ -2858,7 +4241,13 @@
       "sj": "",
       "se": "",
       "jp": "　沈黙が生まれてしまう。",
-      "en": "Silence settles over the room."
+      "en": "Silence settles over the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0451",
@@ -2867,7 +4256,13 @@
       "sj": "",
       "se": "",
       "jp": "「あ、あの」",
-      "en": "“U-um...”"
+      "en": "“U-um...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0452",
@@ -2876,7 +4271,13 @@
       "sj": "",
       "se": "",
       "jp": "　おかげで、私の方がその静寂に焦って口を開くことになった。",
-      "en": "It makes me so conscious of the silence that I’m the one who has to speak."
+      "en": "It makes me so conscious of the silence that I’m the one who has to speak.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0453",
@@ -2885,7 +4286,13 @@
       "sj": "",
       "se": "",
       "jp": "「彼女は彼女なりに、思いがあったんです。だから、変な風に思わないでください」",
-      "en": "“She had reasons of her own. Please don’t think badly of her.”"
+      "en": "“She had reasons of her own. Please don’t think badly of her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0454",
@@ -2894,7 +4301,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「変な風って？」",
-      "en": "“Badly in what way?”"
+      "en": "“Badly in what way?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0455",
@@ -2903,7 +4316,13 @@
       "sj": "",
       "se": "",
       "jp": "「……たとえば、<tips=1>亮</tips>さんのやり方に反抗してとか、そういう意味はないと思います。むしろ全然逆で、<tips=17>タイプB</tips>の自分が迷惑をかけてしまうんじゃないかって、いつも申し訳なさそうにしていました」",
-      "en": "“...I don’t think she meant it as rebellion against Mr. <tips=1>Ryou</tips> or the way he does things. It’s the exact opposite. She was always afraid that being <tips=17>Type B</tips> would make her a burden. She felt terribly guilty about it.”"
+      "en": "“...I don’t think she meant it as rebellion against Mr. <tips=1>Ryou</tips> or the way he does things. It’s the exact opposite. She was always afraid that being <tips=17>Type B</tips> would make her a burden. She felt terribly guilty about it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0456",
@@ -2912,7 +4331,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「きみは優しいな」",
-      "en": "“You’re kind.”"
+      "en": "“You’re kind.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0457",
@@ -2921,7 +4346,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼はくすりと笑う。",
-      "en": "He gives a quiet laugh."
+      "en": "He gives a quiet laugh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0458",
@@ -2930,7 +4361,13 @@
       "sj": "",
       "se": "",
       "jp": "　その思いがけない笑顔に、私は不覚にもドキリとして視線を下にそらしてしまった。顔が少し紅くなったかもしれない。恥ずかしい。",
-      "en": "The unexpected smile makes my heart jump. Mortified, I lower my eyes. I may be blushing a little."
+      "en": "The unexpected smile makes my heart jump. Mortified, I lower my eyes. I may be blushing a little.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0459",
@@ -2939,7 +4376,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕は、妹やきみのことを責めるつもりはない。あいつは昔からどうも、臆病っていうか、義務感が強いというか、自分で自分を台無しにしてしまうところがある。いつもうじうじとネガティブなことばかり考えてしまって、だから、やりたいことを好きにやったほうがいいと常々言っていたんだ。友だちに銃をつきつけて脱走するだなんて、なかなか面白いと思うね。それでこそ僕の妹だ」",
-      "en": "“I don’t mean to blame my sister or you. She’s always had a habit of ruining things for herself. Maybe she’s timid; maybe she feels too much responsibility. She broods over one miserable thought after another. I’ve always told her she ought to do what she wants for once. Threatening a friend with a gun and escaping—now that is interesting. That’s my sister.”"
+      "en": "“I don’t mean to blame my sister or you. She’s always had a habit of ruining things for herself. Maybe she’s timid; maybe she feels too much responsibility. She broods over one miserable thought after another. I’ve always told her she ought to do what she wants for once. Threatening a friend with a gun and escaping—now that is interesting. That’s my sister.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0460",
@@ -2948,7 +4391,13 @@
       "sj": "",
       "se": "",
       "jp": "「……心配じゃないんですか？」",
-      "en": "“...Aren't you worried?”"
+      "en": "“...Aren't you worried?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0461",
@@ -2957,7 +4406,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そりゃ、心配だよ。……そう言えばきみは知ってるかい？」",
-      "en": "“Of course I’m worried. ...Speaking of which, have you heard?”"
+      "en": "“Of course I’m worried. ...Speaking of which, have you heard?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0462",
@@ -2966,7 +4421,13 @@
       "sj": "",
       "se": "",
       "jp": "「何をですか？」",
-      "en": "“Heard what?”"
+      "en": "“Heard what?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0463",
@@ -2975,7 +4436,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=21>八龍会</tips>のことだよ」",
-      "en": "“About the <tips=21>Dragon Club</tips>.”"
+      "en": "“About the <tips=21>Dragon Club</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0464",
@@ -2984,7 +4451,13 @@
       "sj": "",
       "se": "",
       "jp": "　その言葉で、私はドキリとした。",
-      "en": "My heart jumps at the words."
+      "en": "My heart jumps at the words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0465",
@@ -2993,7 +4466,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「もう五日ほど前だったかな。町外れにある病院が襲撃されたんだ。そこは発症した<tips=17>タイプB</tips>を専門に扱う病院でね。ここを襲撃したのはどうやら<tips=21>八龍会</tips>のメンバーらしい。職員を大量に殺し、病院に閉じ込められた<tips=17>タイプB</tips>のお仲間を助け出したそうなんだよ。<tips=47>八龍解放軍</tips>とかいう武装チームを作ったらしくてね。そのリーダーは<tips=10>見土道夫</tips>。……街では騒ぎになったし、我々もここ数日はその対応のことばかり考えていたんだが、きみは知らなかったのかい？」",
-      "en": "“About five days ago, I believe, a hospital on the outskirts of the City was attacked. It specialized in treating <tips=17>Type B</tips> patients after onset. Apparently, members of the <tips=21>Dragon Club</tips> were behind it. They slaughtered many of the staff and freed their fellow <tips=17>Type B</tips> people who were confined there. It seems they’ve formed an armed unit called the <tips=47>Dragon Liberation Army</tips>, led by <tips=10>Michio Mido</tips>. ...The whole City is in an uproar. We’ve spent the last few days doing little but deciding how to respond. Did you truly not know?”"
+      "en": "“About five days ago, I believe, a hospital on the outskirts of the City was attacked. It specialized in treating <tips=17>Type B</tips> patients after onset. Apparently, members of the <tips=21>Dragon Club</tips> were behind it. They slaughtered many of the staff and freed their fellow <tips=17>Type B</tips> people who were confined there. It seems they’ve formed an armed unit called the <tips=47>Dragon Liberation Army</tips>, led by <tips=10>Michio Mido</tips>. ...The whole City is in an uproar. We’ve spent the last few days doing little but deciding how to respond. Did you truly not know?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0466",
@@ -3002,7 +4481,13 @@
       "sj": "",
       "se": "",
       "jp": "「い、いえ、知りませんでした。<tips=44>筱喬</tips>も知らなかったと思います。街には出なかったし、<tips=7>ＹＳ</tips>が何をしてるかなんて教えてくれる人もいないですし……」",
-      "en": "“N-no, I didn’t. I don’t think <tips=44>Xiaoqiao</tips> knew either. She never went out into the City, and no one told us what <tips=7>YS</tips> was doing...”"
+      "en": "“N-no, I didn’t. I don’t think <tips=44>Xiaoqiao</tips> knew either. She never went out into the City, and no one told us what <tips=7>YS</tips> was doing...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0467",
@@ -3011,7 +4496,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の言葉は二重の意味でショッキングだった。",
-      "en": "His words shock me twice over."
+      "en": "His words shock me twice over.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0468",
@@ -3020,7 +4511,13 @@
       "sj": "",
       "se": "",
       "jp": "　まず、<tips=21>八龍会</tips>がそんな恐ろしいことをして、しかも<tips=10>見土</tips>さんが指揮をとっていたなんて！　<tips=44>筱喬</tips>のことを相談するために連絡したときも、さっき会ったときも、ちっともそんなことは言わなかった。顔色が悪かったような気がしたけれど、そんな事件のあとだったからだろうか？",
-      "en": "First, the <tips=21>Dragon Club</tips> did something that horrific, and Mr. <tips=10>Mido</tips> was in command. He said nothing when I called to discuss <tips=44>Xiaoqiao</tips>, or when I saw him earlier. I thought he looked unwell. Was that why?"
+      "en": "First, the <tips=21>Dragon Club</tips> did something that horrific, and Mr. <tips=10>Mido</tips> was in command. He said nothing when I called to discuss <tips=44>Xiaoqiao</tips>, or when I saw him earlier. I thought he looked unwell. Was that why?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0469",
@@ -3029,7 +4526,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてもう一つ、今の<tips=1>亮</tips>さんの言葉には『<tips=21>八龍会</tips>』、『<tips=10>見土道夫</tips>』など、<tips=44>筱喬</tips>の今の状況に関する重要なワードがちりばめられている。これは、どういうことなんだろう？",
-      "en": "Second, Mr. <tips=1>Ryou</tips> has scattered crucial words throughout his story—the ‘<tips=21>Dragon Club</tips>,’ ‘<tips=10>Michio Mido</tips>’—all tied directly to <tips=44>Xiaoqiao</tips>’s present situation. What does that mean?"
+      "en": "Second, Mr. <tips=1>Ryou</tips> has scattered crucial words throughout his story—the ‘<tips=21>Dragon Club</tips>,’ ‘<tips=10>Michio Mido</tips>’—all tied directly to <tips=44>Xiaoqiao</tips>’s present situation. What does that mean?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0470",
@@ -3038,7 +4541,13 @@
       "sj": "",
       "se": "",
       "jp": "　全てを知った上で何か私を試しているの？　それとも当てずっぽうにカマをかけているのだろうか。あるいは、別のことを言おうとして偶然そのワードが出ただけなのか。",
-      "en": "Does he know everything and mean to test me? Is he fishing blindly, watching to see how I react? Or did those words only come up by chance while he was trying to say something else?"
+      "en": "Does he know everything and mean to test me? Is he fishing blindly, watching to see how I react? Or did those words only come up by chance while he was trying to say something else?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0471",
@@ -3047,7 +4556,13 @@
       "sj": "",
       "se": "",
       "jp": "　緊張して冷や汗が出るのを感じる。こういうときは私の体質が便利だ。少しくらい汗をかいても、<tips=77>特質変異</tips>でべっちゃりと身体が濡れるのと区別がつかないだろう。",
-      "en": "A cold sweat breaks out over me. My constitution is useful at times like this. A little nervous sweat must look no different from the slick coating caused by my <tips=77>Trait Mutation</tips>."
+      "en": "A cold sweat breaks out over me. My constitution is useful at times like this. A little nervous sweat must look no different from the slick coating caused by my <tips=77>Trait Mutation</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0472",
@@ -3056,7 +4571,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「とにかく、そういう大事件があったんだよ。<tips=21>八龍会</tips>はすっかり過激な組織に豹変してしまった。この先、街の人間が<tips=17>タイプB</tips>に向ける視線も変わるだろう。だから、<tips=44>筱喬</tips>は大変なときに街に出ていったわけだ。……まったくあいつは間が悪いというか、タイミングの悪いやつだ。昔からそうなんだよな」",
-      "en": "“Anyway, that’s the situation. The <tips=21>Dragon Club</tips> has transformed into a thoroughly radical organization. People in the City will look at <tips=17>Type B</tips> people differently from now on. So <tips=44>Xiaoqiao</tips> picked an awful time to venture out. ...Honestly, that girl has always had terrible timing.”"
+      "en": "“Anyway, that’s the situation. The <tips=21>Dragon Club</tips> has transformed into a thoroughly radical organization. People in the City will look at <tips=17>Type B</tips> people differently from now on. So <tips=44>Xiaoqiao</tips> picked an awful time to venture out. ...Honestly, that girl has always had terrible timing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0473",
@@ -3065,7 +4586,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんは溜息をついて、",
-      "en": "Mr. <tips=1>Ryou</tips> sighs, then continues."
+      "en": "Mr. <tips=1>Ryou</tips> sighs, then continues.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0474",
@@ -3074,7 +4601,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「だから、心配は心配だよ。世間並みにね。……でも、だからといってこのビルに居させるのがいいとも思わないからね。ここにならこの素晴らしく頼りになる<tips=40>黄姉妹</tips>もいるし、僕もいるから、この先どんなことがあっても安全だとは思う。だけれども行動が制限されるのも間違いない。この先<tips=7>ＹＳ</tips>は<tips=17>タイプＢ</tips>との戦いになるだろうけれど、そうしたらますます<tips=44>筱喬</tips>は不自由になる。……人生なんて、長けりゃ良いって訳じゃない。あいつは自分の人生を選んだだけだ。きっとその先にあいつの幸福があると思ったんだろう。ならば、この先どうなってもそれはあいつの責任だ。だから、きみは少しも気にすることはない。……今日ここに来たのは、事情を聞きたかったのもあるが、それをきみに直接伝えたかったからだよ。<tips=7>ＹＳ</tips>の<tips=81>龍頭</tips>としてではなく、<tips=44>筱喬</tips>の兄として、妹の恩人であり親友であるきみにね」",
-      "en": "“Naturally I’m worried. As worried as anyone would be. ...But that doesn’t mean keeping her in this building is best. Here she has the <tips=40>wonderfully dependable Wong sisters</tips>, and she has me. Whatever happens, she would probably be safe. Her freedom would also be limited. <tips=7>YS</tips> will soon be at war with <tips=17>Type B</tips> people, and then <tips=44>Xiaoqiao</tips> would have even less freedom than before. ...A life isn’t good simply because it is long. She chose her own. She must believe happiness lies somewhere down that path. Whatever happens now is her responsibility, so you needn’t let it trouble you. ...I asked you here partly because I wanted to hear what happened. But I also wanted to tell you that myself—not as the <tips=7>YS</tips> <tips=81>Longtou</tips>, but as <tips=44>Xiaoqiao</tips>’s brother, speaking to my sister’s benefactor and closest friend.”"
+      "en": "“Naturally I’m worried. As worried as anyone would be. ...But that doesn’t mean keeping her in this building is best. Here she has the <tips=40>wonderfully dependable Wong sisters</tips>, and she has me. Whatever happens, she would probably be safe. Her freedom would also be limited. <tips=7>YS</tips> will soon be at war with <tips=17>Type B</tips> people, and then <tips=44>Xiaoqiao</tips> would have even less freedom than before. ...A life isn’t good simply because it is long. She chose her own. She must believe happiness lies somewhere down that path. Whatever happens now is her responsibility, so you needn’t let it trouble you. ...I asked you here partly because I wanted to hear what happened. But I also wanted to tell you that myself—not as the <tips=7>YS</tips> <tips=81>Longtou</tips>, but as <tips=44>Xiaoqiao</tips>’s brother, speaking to my sister’s benefactor and closest friend.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0475",
@@ -3083,7 +4616,13 @@
       "sj": "",
       "se": "",
       "jp": "　やっぱり、彼は真実をほとんど理解した上で言っているんじゃないのか？",
-      "en": "He really is speaking as though he knows almost everything."
+      "en": "He really is speaking as though he knows almost everything.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0476",
@@ -3092,7 +4631,13 @@
       "sj": "",
       "se": "",
       "jp": "　だからこんなことが私に言えるのだろう。",
-      "en": "Otherwise, how could he say any of this to me?"
+      "en": "Otherwise, how could he say any of this to me?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0477",
@@ -3101,7 +4646,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、いなくなるのはお兄さんにとって困ったことじゃないんですか？」",
-      "en": "“But isn’t her disappearance a problem for you as her brother?”"
+      "en": "“But isn’t her disappearance a problem for you as her brother?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0478",
@@ -3110,7 +4661,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は顔を上げてそう言った。",
-      "en": "I raise my head and ask."
+      "en": "I raise my head and ask.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0479",
@@ -3119,7 +4676,13 @@
       "sj": "",
       "se": "",
       "jp": "「たとえば、あの子がどこかのギャングに捕まって駆け引きに利用されるとか、人質にされるとか、そういうことだって考えられるわけで……」",
-      "en": "“Some gang could capture her and use her as leverage, for example. They could take her hostage. That might happen...”"
+      "en": "“Some gang could capture her and use her as leverage, for example. They could take her hostage. That might happen...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0480",
@@ -3128,7 +4691,13 @@
       "sj": "",
       "se": "",
       "jp": "　この際だからと開き直って、私が気にしていたことをそのまま質問してやった。",
-      "en": "I’ve come this far. I cast caution aside and ask him exactly what has been bothering me."
+      "en": "I’ve come this far. I cast caution aside and ask him exactly what has been bothering me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0481",
@@ -3137,7 +4706,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「大丈夫」",
-      "en": "“It'll be fine.”"
+      "en": "“It'll be fine.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0482",
@@ -3146,7 +4721,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんは笑ったまま、",
-      "en": "Mr. <tips=1>Ryou</tips> keeps smiling."
+      "en": "Mr. <tips=1>Ryou</tips> keeps smiling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0483",
@@ -3155,7 +4736,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなことをしたって、何にもならない。その時、世間とその不埒者は、はっきりと理解するだろうね。この<tips=1>謝亮</tips>を脅迫するという愚行はまったく意味のないもので、それがどれだけ恐ろしい結果を招くのか」",
-      "en": "“It would accomplish nothing. The world—and the insolent fool responsible—would learn that trying to threaten <tips=1>Xie Liang</tips> is pointless, and exactly what terrible consequences such stupidity brings.”"
+      "en": "“It would accomplish nothing. The world—and the insolent fool responsible—would learn that trying to threaten <tips=1>Xie Liang</tips> is pointless, and exactly what terrible consequences such stupidity brings.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0484",
@@ -3164,7 +4751,13 @@
       "sj": "",
       "se": "",
       "jp": "　その自信に満ちた暗い微笑に、私は背筋がゾクリとする。",
-      "en": "The dark, utterly confident smile sends a chill down my spine."
+      "en": "The dark, utterly confident smile sends a chill down my spine.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0485",
@@ -3173,7 +4766,13 @@
       "sj": "",
       "se": "",
       "jp": "　これがあのほんわかした<tips=44>筱喬</tips>と同じ血が流れる人間なのだろうか？　それとも、私が気づいていないだけで、何か共通点があるのだろうか。",
-      "en": "Does this man really share blood with that soft, easygoing <tips=44>Xiaoqiao</tips>? Or are there similarities I simply haven’t noticed?"
+      "en": "Does this man really share blood with that soft, easygoing <tips=44>Xiaoqiao</tips>? Or are there similarities I simply haven’t noticed?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0486",
@@ -3182,7 +4781,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まあ、あいつも謝家の人間ならば、誇りを持って自分の生き死にを決めるだろう」",
-      "en": "“And if she is a member of the Xie family, she’ll choose how she lives and dies with pride.”"
+      "en": "“And if she is a member of the Xie family, she’ll choose how she lives and dies with pride.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0487",
@@ -3191,7 +4796,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私の顔を見るが、私は度肝を抜かれて言うべき言葉が見つからない。",
-      "en": "He looks at me. I’m too stunned to find an answer."
+      "en": "He looks at me. I’m too stunned to find an answer.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0488",
@@ -3200,7 +4811,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「用事はそれだけだ。わざわざ来て貰って悪かったね。……お客様がお帰りだ」",
-      "en": "“That’s all I needed. Sorry to make you come all this way. ...Our guest is leaving.”"
+      "en": "“That’s all I needed. Sorry to make you come all this way. ...Our guest is leaving.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0489",
@@ -3209,7 +4826,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼が言うと、後ろで彼の部下がドアを開ける音がした。",
-      "en": "At his words, I hear one of his subordinates open the door behind me."
+      "en": "At his words, I hear one of his subordinates open the door behind me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0490",
@@ -3218,7 +4841,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「言い忘れたが、<tips=44>筱喬</tips>がいなくなってもきみへの感謝は変わらない。足に関するケアで費用がかかったりしたら、その時は請求してくれ。約束通り生涯補償しよう」",
-      "en": "“I almost forgot. Even with <tips=44>Xiaoqiao</tips> gone, my gratitude to you hasn’t changed. If caring for your leg costs you anything, send me the bill. As promised, I’ll cover it for the rest of your life.”"
+      "en": "“I almost forgot. Even with <tips=44>Xiaoqiao</tips> gone, my gratitude to you hasn’t changed. If caring for your leg costs you anything, send me the bill. As promised, I’ll cover it for the rest of your life.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0491",
@@ -3227,7 +4856,13 @@
       "sj": "",
       "se": "",
       "jp": "「あ、ありがとうございます」",
-      "en": "“Th-thank you.”"
+      "en": "“Th-thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0492",
@@ -3236,7 +4871,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「じゃ、ご苦労さん」",
-      "en": "“All right. Thanks for coming.”"
+      "en": "“All right. Thanks for coming.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0493",
@@ -3245,7 +4886,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんはそう言うと、急に興味を失ったように私から視線を外し、隣の<tips=25>馬世傑</tips>に何か小声で話し始めた。",
-      "en": "With that, Mr. <tips=1>Ryou</tips> turns away as though he has abruptly lost interest and begins speaking quietly to <tips=25>Ma Saiki</tips> beside him."
+      "en": "With that, Mr. <tips=1>Ryou</tips> turns away as though he has abruptly lost interest and begins speaking quietly to <tips=25>Ma Saiki</tips> beside him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0495",
@@ -3281,7 +4928,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「どうしたんだい？」",
-      "en": "“What's wrong?”"
+      "en": "“What's wrong?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0499",
@@ -3290,7 +4943,13 @@
       "sj": "",
       "se": "",
       "jp": "　動き出そうとしない私に<tips=1>亮</tips>さんが尋ねる。",
-      "en": "Mr. <tips=1>Ryou</tips> asks when I make no move to leave."
+      "en": "Mr. <tips=1>Ryou</tips> asks when I make no move to leave.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0500",
@@ -3299,7 +4958,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はもう一度彼に向き直って言った。",
-      "en": "I turn back to face him."
+      "en": "I turn back to face him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0501",
@@ -3308,7 +4973,13 @@
       "sj": "",
       "se": "",
       "jp": "「私を、<tips=7>ＹＳ</tips>に入れてください」",
-      "en": "“Please let me join <tips=7>YS</tips>.”"
+      "en": "“Please let me join <tips=7>YS</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0502",
@@ -3317,7 +4988,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「えっ」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0503",
@@ -3326,7 +5003,13 @@
       "sj": "",
       "se": "",
       "jp": "　さすがの若き<tips=81>龍頭</tips>も私の提案は全く予期していなかったようで、びっくりして声をあげる。",
-      "en": "Even the unflappable young <tips=81>Longtou</tips> didn’t see that coming. His voice rises in surprise."
+      "en": "Even the unflappable young <tips=81>Longtou</tips> didn’t see that coming. His voice rises in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0504",
@@ -3335,7 +5018,13 @@
       "sj": "",
       "se": "",
       "jp": "　やった、<tips=1>亮</tips>さんを一泡吹かせることが出来たぞ。私は俄然調子づいて続けた。",
-      "en": "Yes! I actually caught Mr. <tips=1>Ryou</tips> off guard. Suddenly emboldened, I press on."
+      "en": "Yes! I actually caught Mr. <tips=1>Ryou</tips> off guard. Suddenly emboldened, I press on.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0505",
@@ -3344,7 +5033,13 @@
       "sj": "",
       "se": "",
       "jp": "「ここで、働きたいんです。正式なメンバーにしてください！」",
-      "en": "“I want to work here. Make me a full member!”"
+      "en": "“I want to work here. Make me a full member!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e02373d52fcd.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0506",
@@ -3353,7 +5048,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ダメだよ。きみみたいな女の子は入れられない。我々はおままごとをやっているわけじゃないんだ」",
-      "en": "“No. I can’t bring in a girl like you. We aren’t playing make-believe.”"
+      "en": "“No. I can’t bring in a girl like you. We aren’t playing make-believe.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0507",
@@ -3362,7 +5063,13 @@
       "sj": "",
       "se": "",
       "jp": "「普通の女の子ならそうかもしれませんが、私はサイキックですよ。サイキックならいいんでしょう？　だって、<tips=40><tips=40>天明</tips>や<tips=40>天祥</tips></tips>がいるじゃないですか。それに、<tips=28>トーマス</tips>さんのところの<tips=29>アイス</tips>さんも」",
-      "en": "“Maybe that would be true for an ordinary girl, but I’m a psychic. Psychics are different, aren’t they? You already have <tips=40><tips=40>Tianming</tips> and <tips=40>Tianxiang</tips></tips>. And Mr. <tips=28>Tomas</tips> has <tips=29>Aisu</tips>.”"
+      "en": "“Maybe that would be true for an ordinary girl, but I’m a psychic. Psychics are different, aren’t they? You already have <tips=40><tips=40>Tianming</tips> and <tips=40>Tianxiang</tips></tips>. And Mr. <tips=28>Tomas</tips> has <tips=29>Aisu</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0508",
@@ -3371,7 +5078,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「彼女たちときみは違う。<tips=40><tips=40>天明</tips>と<tips=40>天祥</tips></tips>は幹部の娘だし、<tips=29>アイス</tips>だってまっとうな道を生きて来たわけじゃない」",
-      "en": "“You aren’t like them. <tips=40><tips=40>Tianming</tips> and <tips=40>Tianxiang</tips></tips> are an executive’s daughters, and <tips=29>Aisu</tips> hasn’t exactly lived an honest life.”"
+      "en": "“You aren’t like them. <tips=40><tips=40>Tianming</tips> and <tips=40>Tianxiang</tips></tips> are an executive’s daughters, and <tips=29>Aisu</tips> hasn’t exactly lived an honest life.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0509",
@@ -3380,7 +5093,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は役に立ちませんか？　この力、使えると思いますけど？」",
-      "en": "“Would I really be useless? I think you could make use of this power.”"
+      "en": "“Would I really be useless? I think you could make use of this power.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0510",
@@ -3389,7 +5108,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんは答えず、机に頬杖をついたまま苦い顔で私を見ている。",
-      "en": "Mr. <tips=1>Ryou</tips> doesn’t answer. His cheek still propped on one hand, he gives me a sour look."
+      "en": "Mr. <tips=1>Ryou</tips> doesn’t answer. His cheek still propped on one hand, he gives me a sour look.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0511",
@@ -3398,7 +5123,13 @@
       "sj": "",
       "se": "",
       "jp": "「空飛ぶだけじゃ、<tips=40><tips=40>天明</tips>たち</tips>ほど便利じゃないかもしれないですけど、私だけに出来ることだってあるんです。例えば、私以外の誰かだったら<tips=44>筱喬</tips>を助けられたと思いますか？」",
-      "en": "“Flying may not be as useful as what <tips=40><tips=40>Tianming</tips> and her sister</tips> can do, but there are things only I can do. Do you think anyone else could have saved <tips=44>Xiaoqiao</tips>?”"
+      "en": "“Flying may not be as useful as what <tips=40><tips=40>Tianming</tips> and her sister</tips> can do, but there are things only I can do. Do you think anyone else could have saved <tips=44>Xiaoqiao</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0512",
@@ -3407,7 +5138,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると彼は溜息をつき、",
-      "en": "He sighs."
+      "en": "He sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0513",
@@ -3416,7 +5153,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=81>龍頭</tips>としての僕はきみの能力に使い道を見いだすことが出来る。だが、これはきみの友人の兄として言っているんだ」",
-      "en": "“As <tips=81>Longtou</tips>, I can certainly find uses for your ability. But I’m saying this as your friend’s brother.”"
+      "en": "“As <tips=81>Longtou</tips>, I can certainly find uses for your ability. But I’m saying this as your friend’s brother.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0514",
@@ -3425,7 +5168,13 @@
       "sj": "",
       "se": "",
       "jp": "「それなら<tips=81>龍頭</tips>として決断してください。使えるか、使えないか。それなら結論ははっきりしているはずです」",
-      "en": "“Then decide as <tips=81>Longtou</tips>. Can you use me or not? If that’s the question, the answer should be obvious.”"
+      "en": "“Then decide as <tips=81>Longtou</tips>. Can you use me or not? If that’s the question, the answer should be obvious.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0515",
@@ -3434,7 +5183,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「強情だな。きみにとって、ここはそんなに魅力的な世界とは思えないがね。このビルに出入りするようになっていろんなものを見ただろう？」",
-      "en": "“You’re stubborn. I can’t imagine this world holds much appeal for you. You’ve seen all kinds of things since you began visiting this building, haven’t you?”"
+      "en": "“You’re stubborn. I can’t imagine this world holds much appeal for you. You’ve seen all kinds of things since you began visiting this building, haven’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0516",
@@ -3443,7 +5198,13 @@
       "sj": "",
       "se": "",
       "jp": "「見た結果の答えです。なんでもやります。最初は新人がやるような雑用でもいいです。高いところの窓掃除とか、きっと誰よりも得意ですよ？」",
-      "en": "“I have, and this is my answer. I’ll do anything. I can start with the chores you give new recruits. I bet I’d be better than anyone at washing windows up high.”"
+      "en": "“I have, and this is my answer. I’ll do anything. I can start with the chores you give new recruits. I bet I’d be better than anyone at washing windows up high.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0517",
@@ -3452,7 +5213,13 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなもの業者にやらせるから必要ない。それに、さっきも言ったように、これからこの街は緊張状態になる。きみみたいな素人は命を落とす可能性が高い」",
-      "en": "“We hire contractors for that. And as I said, the City is entering a period of tension. An amateur like you is likely to get killed.”"
+      "en": "“We hire contractors for that. And as I said, the City is entering a period of tension. An amateur like you is likely to get killed.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0518",
@@ -3461,7 +5228,13 @@
       "sj": "",
       "se": "",
       "jp": "「死にません。私はうまくやりますから。そういうの意外と得意なんですよ」",
-      "en": "“I won’t die. I’ll manage. I’m surprisingly good at that kind of thing.”"
+      "en": "“I won’t die. I’ll manage. I’m surprisingly good at that kind of thing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0519",
@@ -3470,7 +5243,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は強く言ったが、彼は無言で首を横に振る。",
-      "en": "I say it firmly. He only shakes his head."
+      "en": "I say it firmly. He only shakes his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0520",
@@ -3479,7 +5258,13 @@
       "sj": "",
       "se": "",
       "jp": "　けれど私はここで引き下がるわけにはいかなかった。",
-      "en": "But I can’t back down now."
+      "en": "But I can’t back down now.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0521",
@@ -3488,7 +5273,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は特別な力を持って産まれました。でも、この街以外じゃそれを活かし切ることが出来ません。それどころか、なるべく使うなといわれるんです。だけど、ここでは違う」",
-      "en": "“I was born with a special power. Outside this City, I can’t make full use of it. I’m told not to use it at all. But here is different.”"
+      "en": "“I was born with a special power. Outside this City, I can’t make full use of it. I’m told not to use it at all. But here is different.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0522",
@@ -3497,7 +5288,13 @@
       "sj": "",
       "se": "",
       "jp": "　私はしっかり<tips=1>亮</tips>さんの目を見つめて、",
-      "en": "I look Mr. <tips=1>Ryou</tips> straight in the eye."
+      "en": "I look Mr. <tips=1>Ryou</tips> straight in the eye.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0523",
@@ -3506,7 +5303,13 @@
       "sj": "",
       "se": "",
       "jp": "「能力を使って、<tips=44>筱喬</tips>に頼りにされたり、ここの皆さんに一目置かれるようになって、私はやっと自分の価値みたいなものを理解し始めて来たんです。……それに龍頭。私を味方につけないと損をしますよ？　私はここで断られてもこの街で仕事を見つけるつもりですし、そうなったら<tips=81>龍頭</tips>と対立する立場になるかもしれない。この街にはサイキックが欲しい組織は他にもありますよね」",
-      "en": "“Using my power, having <tips=44>Xiaoqiao</tips> rely on me, earning some respect from the people here—I finally started to understand that I might have value. ...And Longtou, you’ll regret it if you don’t bring me to your side. If you reject me, I still intend to find work in the City. I may end up working against the <tips=81>Longtou</tips>. Other organizations here want psychics too, don’t they?”"
+      "en": "“Using my power, having <tips=44>Xiaoqiao</tips> rely on me, earning some respect from the people here—I finally started to understand that I might have value. ...And Longtou, you’ll regret it if you don’t bring me to your side. If you reject me, I still intend to find work in the City. I may end up working against the <tips=81>Longtou</tips>. Other organizations here want psychics too, don’t they?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0524",
@@ -3515,7 +5318,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんの表情に変化はないけれど、私は続ける。",
-      "en": "Mr. <tips=1>Ryou</tips>’s expression doesn’t change. I continue."
+      "en": "Mr. <tips=1>Ryou</tips>’s expression doesn’t change. I continue.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0525",
@@ -3524,7 +5333,13 @@
       "sj": "",
       "se": "",
       "jp": "「客観的に自分で見て思うんですが、私にはこの世界で生きてゆく才能があります。これを買って下さい」",
-      "en": "“Looking at myself objectively, I think I have a talent for surviving in this world. Buy that talent.”"
+      "en": "“Looking at myself objectively, I think I have a talent for surviving in this world. Buy that talent.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0526",
@@ -3533,7 +5348,13 @@
       "sj": "",
       "se": "",
       "jp": "　その言葉に、<tips=1>亮</tips>さんではなく、その後ろの<tips=25>世傑</tips>がニヤリと笑った。",
-      "en": "It isn’t Mr. <tips=1>Ryou</tips> who smiles at that, but <tips=25>Saiki</tips> behind him."
+      "en": "It isn’t Mr. <tips=1>Ryou</tips> who smiles at that, but <tips=25>Saiki</tips> behind him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "D3:0527",
@@ -3542,7 +5363,17 @@
       "sj": "馬世傑",
       "se": "Ma Saiki",
       "jp": "「おもしろいお嬢ちゃんじゃないですか。<tips=81>龍頭</tips>がいらないのなら、私が部下にしていいですか？　確か、今の私には自分の部下を採用する人事権があるんですよね」",
-      "en": "“Isn’t she an interesting young lady? If the <tips=81>Longtou</tips> doesn’t want her, may I take her as my subordinate? I do have the authority to hire my own people now, don’t I?”"
+      "en": "“Isn’t she an interesting young lady? If the <tips=81>Longtou</tips> doesn’t want her, may I take her as my subordinate? I do have the authority to hire my own people now, don’t I?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0528",
@@ -3551,7 +5382,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「きみのところに入ったら、殺し屋になるしかないじゃないか」",
-      "en": "“If she joins your unit, she’ll have no choice but to become an assassin.”"
+      "en": "“If she joins your unit, she’ll have no choice but to become an assassin.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0529",
@@ -3560,7 +5401,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>さんは苦い顔をして、",
-      "en": "Mr. <tips=1>Ryou</tips> grimaces."
+      "en": "Mr. <tips=1>Ryou</tips> grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0530",
@@ -3569,7 +5420,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「わかったよ。そこまで言うなら買おう。ただし、特別扱いはしないよ」",
-      "en": "“Fine. If you insist, I’ll buy what you’re selling. But don’t expect special treatment.”"
+      "en": "“Fine. If you insist, I’ll buy what you’re selling. But don’t expect special treatment.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34b92392ec62.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0531",
@@ -3578,7 +5439,17 @@
       "sj": "",
       "se": "",
       "jp": "「ありがとうございます！」",
-      "en": "“Thank you!”"
+      "en": "“Thank you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34b92392ec62.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "D3:0532",
@@ -3587,7 +5458,17 @@
       "sj": "",
       "se": "",
       "jp": "　私がそう言って腰を勢いよく曲げて頭を床に付きそうなくらい下げたあとも、<tips=1>亮</tips>さんの苦虫を噛みつぶしたような表情は変わらなかった。",
-      "en": "I snap forward at the waist, bowing until my head nearly touches the floor. Mr. <tips=1>Ryou</tips> still looks as though he has bitten into something bitter."
+      "en": "I snap forward at the waist, bowing until my head nearly touches the floor. Mr. <tips=1>Ryou</tips> still looks as though he has bitten into something bitter.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34b92392ec62.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "r"
+        }
+      ]
     }
   ]
 }

@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　まっすぐと伸びた通路の左右にいくつものドアが並んでいる。",
-      "en": "Doors lined both sides of a corridor that ran straight ahead."
+      "en": "Doors lined both sides of a corridor that ran straight ahead.",
+      "bg": "assets/vn/backgrounds/bg-35cbb0b4a1be.webp"
     },
     {
       "id": "X10:0011",
@@ -320,7 +321,8 @@
       "sj": "",
       "se": "",
       "jp": "　こんな状況に陥ってしまった発端は、一週間ほど前に遡る。",
-      "en": "The chain of events that brought them here had begun about a week earlier."
+      "en": "The chain of events that brought them here had begun about a week earlier.",
+      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
     },
     {
       "id": "X10:0052",
@@ -446,7 +448,13 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「どうにかしなくてはならん。やつらはやる気だ。<tips=35>フェルナンデス</tips>の件だって、裏で糸を引いている可能性もある」",
-      "en": "“We have to do something. They’re serious. They may even have been pulling the strings behind the <tips=35>Fernandez</tips> affair.”"
+      "en": "“We have to do something. They’re serious. They may even have been pulling the strings behind the <tips=35>Fernandez</tips> affair.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0066",
@@ -455,7 +463,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>がそう言った時、はじめて<tips=1>亮</tips>は意見を口にした。",
-      "en": "Only after <tips=4>Ma Ming</tips> said this did <tips=1>Liang</tips> speak."
+      "en": "Only after <tips=4>Ma Ming</tips> said this did <tips=1>Liang</tips> speak.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0067",
@@ -464,7 +478,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「前にも言ったかもしれないが、あの事件には『<tips=22>老人たち</tips>』は絡んでいない」",
-      "en": "“I may have said this already, but the <tips=22>Elders</tips> had nothing to do with that.”"
+      "en": "“I may have said this already, but the <tips=22>Elders</tips> had nothing to do with that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0068",
@@ -473,7 +497,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=36>アウロラ</tips>の名前が出ると<tips=28>トーマス</tips>などは事件を思い出して悲しい気持ちになってしまうが、表情を見る限り<tips=1>亮</tips>にはそのような感傷はなさそうだった。その態度の裏では彼も自分と同様悲しんでいるに違いないと<tips=28>トーマス</tips>は思っている。",
-      "en": "Hearing <tips=36>Aurora</tips>’s name brought the murders back to <tips=28>Tomas</tips> and filled him with grief. Nothing in <tips=1>Liang</tips>’s face suggested the same sadness. <tips=28>Tomas</tips> was sure Liang was grieving beneath the surface just as he was."
+      "en": "Hearing <tips=36>Aurora</tips>’s name brought the murders back to <tips=28>Tomas</tips> and filled him with grief. Nothing in <tips=1>Liang</tips>’s face suggested the same sadness. <tips=28>Tomas</tips> was sure Liang was grieving beneath the surface just as he was.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0069",
@@ -482,7 +516,17 @@
       "sj": "",
       "se": "",
       "jp": "　確証は何もないが。",
-      "en": "He had no evidence whatsoever."
+      "en": "He had no evidence whatsoever.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0070",
@@ -491,7 +535,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「誰かの指示があったとは思えない。もしそうだったら、あんなチンピラ、死ぬ前に依頼主を吐いてるさ。一言も言わないで死んでいったんだ。ほぼ間違いないね。<tips=21>八龍会</tips>側には、あわよくばあの件を利用してやろうという下心はあるようだけれど、直接の繋がりはない」",
-      "en": "“I don’t think anyone ordered them. Scum like that would have given up their employer before they died. They died without naming anyone, so we can be almost certain. The <tips=21>Dragon Club</tips> clearly hopes to use the murders to its advantage, but it had no direct hand in them.”"
+      "en": "“I don’t think anyone ordered them. Scum like that would have given up their employer before they died. They died without naming anyone, so we can be almost certain. The <tips=21>Dragon Club</tips> clearly hopes to use the murders to its advantage, but it had no direct hand in them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0071",
@@ -500,7 +554,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はよほど自信があるらしく、きっぱりと言った。",
-      "en": "<tips=1>Liang</tips> said it flatly, with absolute confidence."
+      "en": "<tips=1>Liang</tips> said it flatly, with absolute confidence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0072",
@@ -509,7 +573,17 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「そんなに強く言い切れるのか？　<tips=21>八龍会</tips>は昔から陰謀が得意じゃないか。いつもああやって、どこかの組織に仲間を送り込んで『爆発』させるんだよ。おれたちが若い時も大分苦労させられた」",
-      "en": "“You’re that certain? The <tips=21>Dragon Club</tips> has always loved conspiracies. They plant one of their people in an organization and make it ‘explode.’ They gave us hell that way when we were young.”"
+      "en": "“You’re that certain? The <tips=21>Dragon Club</tips> has always loved conspiracies. They plant one of their people in an organization and make it ‘explode.’ They gave us hell that way when we were young.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0073",
@@ -518,7 +592,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は疑わしげにそう訊ねる。彼は<tips=1>亮</tips>が<tips=81>龍頭</tips>になってから、最高幹部のなかで一回り年長という立場になったせいか、苦言を呈す役割になることが増えていた。",
-      "en": "<tips=4>Ma Ming</tips> asked skeptically. Since <tips=1>Liang</tips> became <tips=81>Longtou</tips>, Ma Ming had found himself a generation older than the other senior executives. More and more often, he became the one who said what the young men did not want to hear."
+      "en": "<tips=4>Ma Ming</tips> asked skeptically. Since <tips=1>Liang</tips> became <tips=81>Longtou</tips>, Ma Ming had found himself a generation older than the other senior executives. More and more often, he became the one who said what the young men did not want to hear.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0074",
@@ -527,7 +611,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「だって、意味がないじゃないか。<tips=21>八龍会</tips>としては、<tips=35>フェルナンデス</tips>は健在のまま<tips=7>ＹＳ</tips>と対立させた方が都合が良かったはずだ。彼らが襲撃を受けて死んだのは<tips=7>ＹＳ</tips>にとってはむしろ都合がいい」",
-      "en": "“Because there’d be no point. The <tips=21>Dragon Club</tips> was better off with <tips=35>Fernandez</tips> alive and at odds with <tips=7>YS</tips>. His death is more convenient for <tips=7>YS</tips> than for them.”"
+      "en": "“Because there’d be no point. The <tips=21>Dragon Club</tips> was better off with <tips=35>Fernandez</tips> alive and at odds with <tips=7>YS</tips>. His death is more convenient for <tips=7>YS</tips> than for them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0075",
@@ -536,7 +630,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は淡々と説明をする。",
-      "en": "<tips=1>Liang</tips> explained in his usual detached tone."
+      "en": "<tips=1>Liang</tips> explained in his usual detached tone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0076",
@@ -545,7 +649,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「偉大なるカリスマ、<tips=35>ジョゼ・フェルナンデス</tips>が死んで、なんの実績もない<tips=38>リタ</tips>がリーダーじゃ、当面は身内をまとめるので手一杯だ。もつれれば、もう一度<tips=7>ＹＳ</tips>に呼び戻す目が出て来るかもしれない。そうなればもう我々には逆らえないだろう。そうはならなくとも、しばらく活動は鈍る。……いずれにしろ、当面は彼らの脅威はなくなったわけだ。<tips=22>老人たち</tips>が僕の仕業だと騒ぎたくなるのもわかる。客観的に見ても僕らがやったと考えたほうが自然なのさ」",
-      "en": "“With the great, charismatic <tips=35>Jose Fernandez</tips> dead and the unproven <tips=38>Rita</tips> in charge, she’ll have her hands full simply holding the family together. If things deteriorate, we may get a chance to invite them back into <tips=7>YS</tips>. After that, they won’t be able to defy us again. Even if it never comes to that, they’ll be quiet for a while. ...Either way, they’re no immediate threat. I understand why the <tips=22>Elders</tips> want to accuse me. Objectively, it makes more sense to think we did it.”"
+      "en": "“With the great, charismatic <tips=35>Jose Fernandez</tips> dead and the unproven <tips=38>Rita</tips> in charge, she’ll have her hands full simply holding the family together. If things deteriorate, we may get a chance to invite them back into <tips=7>YS</tips>. After that, they won’t be able to defy us again. Even if it never comes to that, they’ll be quiet for a while. ...Either way, they’re no immediate threat. I understand why the <tips=22>Elders</tips> want to accuse me. Objectively, it makes more sense to think we did it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0077",
@@ -554,7 +668,21 @@
       "sj": "馬世傑",
       "se": "Ma Saiki",
       "jp": "「まさか本当に<tips=81>龍頭</tips>の差し金ってことはないですよねえ？」",
-      "en": "“It really wasn’t the <tips=81>Longtou</tips> behind it, was it?”"
+      "en": "“It really wasn’t the <tips=81>Longtou</tips> behind it, was it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0078",
@@ -563,7 +691,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>が本気だか冗談のつもりだかわからない中途半端な表情で訊ねる。",
-      "en": "<tips=25>Saiki</tips>’s expression hovered so perfectly between earnestness and amusement that no one could tell whether he was joking."
+      "en": "<tips=25>Saiki</tips>’s expression hovered so perfectly between earnestness and amusement that no one could tell whether he was joking.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0079",
@@ -572,7 +714,21 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ないよ。僕としては円満で合併が最善だったし、その可能性はまだあったんだから。それにね、何度も言うが僕は平和主義なんだよ。人が死なないで済むならそれよりいいことはないじゃないか」",
-      "en": "“No. A peaceful merger was still possible, and that would have been the best outcome for me. Besides, as I keep telling you, I’m a pacifist. If someone doesn’t have to die, what could be better?”"
+      "en": "“No. A peaceful merger was still possible, and that would have been the best outcome for me. Besides, as I keep telling you, I’m a pacifist. If someone doesn’t have to die, what could be better?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0080",
@@ -581,7 +737,21 @@
       "sj": "馬世傑",
       "se": "Ma Saiki",
       "jp": "「なるほど」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0081",
@@ -590,7 +760,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は笑って頷く。この青年にとっては、組織同士の陰謀や勢力争いなどどうでも良く、年下のボスの個性が面白くて仕方がないのだろう。",
-      "en": "<tips=25>Saiki</tips> smiled and nodded. Schemes and power struggles between organizations probably meant little to him. He simply found his younger boss endlessly entertaining."
+      "en": "<tips=25>Saiki</tips> smiled and nodded. Schemes and power struggles between organizations probably meant little to him. He simply found his younger boss endlessly entertaining.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0082",
@@ -599,7 +783,25 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「結局、<tips=2>阿亮</tips>はどうするつもりなんだい？　これから、<tips=17>タイプB</tips>を敵にしようとしているのかい？」",
-      "en": "“So what are you going to do, <tips=2>Ah Liang</tips>? Are you planning to make enemies of every <tips=17>Type B</tips> person?”"
+      "en": "“So what are you going to do, <tips=2>Ah Liang</tips>? Are you planning to make enemies of every <tips=17>Type B</tips> person?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0083",
@@ -608,7 +810,25 @@
       "sj": "",
       "se": "",
       "jp": "　と質問したのは<tips=28>トーマス</tips>だった。",
-      "en": "The question came from <tips=28>Tomas</tips>."
+      "en": "The question came from <tips=28>Tomas</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0084",
@@ -617,7 +837,25 @@
       "sj": "",
       "se": "",
       "jp": "　彼としては、<tips=17>タイプB</tips>はあくまでも不幸な運命を背負った人々であり、彼らと戦うような事態はどうしても気が進まないのだ。",
-      "en": "To Tomas, <tips=17>Type B</tips> people were first and foremost victims burdened with a cruel fate. He could not stomach the thought of fighting them."
+      "en": "To Tomas, <tips=17>Type B</tips> people were first and foremost victims burdened with a cruel fate. He could not stomach the thought of fighting them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0085",
@@ -626,7 +864,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は首を振って否定する。",
-      "en": "<tips=1>Liang</tips> denied it with a shake of his head."
+      "en": "<tips=1>Liang</tips> denied it with a shake of his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0086",
@@ -635,7 +891,25 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんな単純な構図にはならない。<tips=22>老人たち</tips>もよほど愚かじゃなければ、あまり大々的な抗争にはしたくないはずだ。もっとじわじわとコントロールしようとするはずだよ。いくらでもスパイがいるんだからね」",
-      "en": "“It won’t be that simple. Unless the <tips=22>Elders</tips> are complete fools, they won’t want an open war. They’ll try to tighten their control little by little. They have spies everywhere.”"
+      "en": "“It won’t be that simple. Unless the <tips=22>Elders</tips> are complete fools, they won’t want an open war. They’ll try to tighten their control little by little. They have spies everywhere.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0087",
@@ -644,7 +918,25 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「そっちの方が厄介だな……。組織内の<tips=17>タイプB</tips>たちに監視を付けるか……」",
-      "en": "“That’s even worse... Do we put the <tips=17>Type B</tips> people in our organization under watch?”"
+      "en": "“That’s even worse... Do we put the <tips=17>Type B</tips> people in our organization under watch?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0088",
@@ -653,7 +945,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は腕組みをし、難しい顔で言う。",
-      "en": "<tips=4>Ma Ming</tips> folded his arms and spoke with a grave expression."
+      "en": "<tips=4>Ma Ming</tips> folded his arms and spoke with a grave expression.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0089",
@@ -662,7 +972,25 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そんなことをしたら、本当に<tips=17>タイプB</tips>全部が敵になってしまう。僕は別に<tips=17>タイプB</tips>と戦いたいわけじゃない。彼らの待遇は今まで通りで何も変えない」",
-      "en": "“Then we really would make enemies of every <tips=17>Type B</tips> person. I don’t want to fight <tips=17>Type B</tips> people. Their treatment stays exactly as it is.”"
+      "en": "“Then we really would make enemies of every <tips=17>Type B</tips> person. I don’t want to fight <tips=17>Type B</tips> people. Their treatment stays exactly as it is.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0090",
@@ -671,7 +999,25 @@
       "sj": "馬明",
       "se": "Ma Ming",
       "jp": "「じゃあ、ジジイたちの挑発に対し何の手も打たないってことか？　あそこまで言われて」",
-      "en": "“So we do nothing after the old bastards provoke us like that?”"
+      "en": "“So we do nothing after the old bastards provoke us like that?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0091",
@@ -680,7 +1026,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>は渋い顔をする。",
-      "en": "<tips=4>Ma Ming</tips> looked displeased."
+      "en": "<tips=4>Ma Ming</tips> looked displeased.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0092",
@@ -689,7 +1053,25 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「見過ごしはしないよ。……まあ慌てなくていいさ。僕が思うに、これはピンチじゃなくてチャンスなんだよ。なんでだろうな？　みんな勝手に自分たちが有利だと思い込んで軽率なことばかりしてくれている。元<tips=69>義勝</tips>の爺さんたちもそうだし、今回の<tips=22>老人たち</tips>の挑発だってそうさ。僕を舐めているんだろうけど、あんな風に自分の欲望を相手に見せつけるなんて、簡単にしてはいけないのさ」",
-      "en": "“I won’t ignore it. ...But there’s no need to rush. This is an opportunity, not a crisis. Why does everyone decide they have the upper hand, then help me by doing something reckless? The old men from <tips=69>Yi Shen</tips> did the same thing, and now the <tips=22>Elders</tips> have too. They must look down on me. But showing an opponent exactly what you want is never something to do lightly.”"
+      "en": "“I won’t ignore it. ...But there’s no need to rush. This is an opportunity, not a crisis. Why does everyone decide they have the upper hand, then help me by doing something reckless? The old men from <tips=69>Yi Shen</tips> did the same thing, and now the <tips=22>Elders</tips> have too. They must look down on me. But showing an opponent exactly what you want is never something to do lightly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0093",
@@ -698,7 +1080,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は眠そうに半目を閉じたまま笑って、",
-      "en": "<tips=1>Liang</tips> smiled through half-lidded, sleepy eyes."
+      "en": "<tips=1>Liang</tips> smiled through half-lidded, sleepy eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0094",
@@ -707,7 +1107,25 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=22>老人たち</tips>の野心はわかったんだから、見過ごしたりはしない。いつかは決着をつけるつもりだよ。しかし、それには時期がある。その時になったら改めて何か言うよ。当面は僕らも自分の組織を整えよう。うちだってまだごちゃごちゃとしているからね」",
-      "en": "“Now that I know what the <tips=22>Elders</tips> want, I won’t let it pass. I’ll settle matters someday—but timing is everything. When the time comes, I’ll tell you. For now, let’s put our own house in order. We’re still a mess ourselves.”"
+      "en": "“Now that I know what the <tips=22>Elders</tips> want, I won’t let it pass. I’ll settle matters someday—but timing is everything. When the time comes, I’ll tell you. For now, let’s put our own house in order. We’re still a mess ourselves.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0095",
@@ -716,7 +1134,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はついにあくびを堪えきれなくなって大きな口を開けると、手を振って一同に退出するよう命じた。",
-      "en": "At last, <tips=1>Liang</tips> could no longer hold back a huge yawn. He waved everyone out of the room."
+      "en": "At last, <tips=1>Liang</tips> could no longer hold back a huge yawn. He waved everyone out of the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0103",
@@ -725,7 +1161,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は何か考えがあるようで、今は焦る必要がないとも言うが、<tips=28>トーマス</tips>はそう落ち着いてもいられない。",
-      "en": "<tips=1>Liang</tips> seemed to have a plan and insisted there was no need to rush. <tips=28>Tomas</tips> could not be so calm."
+      "en": "<tips=1>Liang</tips> seemed to have a plan and insisted there was no need to rush. <tips=28>Tomas</tips> could not be so calm.",
+      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
     },
     {
       "id": "X10:0104",
@@ -842,7 +1279,8 @@
       "sj": "",
       "se": "",
       "jp": "「確かに今バーロンが配ってる新薬は<tips=17>タイプB</tips>にいい薬なんでしょうが、あれは個人的にはどうかと思いますねえ」",
-      "en": "“I’m sure this new drug the Dragon Club is handing out does help <tips=17>Type B</tips> people. Personally, though, I don’t trust it.”"
+      "en": "“I’m sure this new drug the Dragon Club is handing out does help <tips=17>Type B</tips> people. Personally, though, I don’t trust it.”",
+      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
     },
     {
       "id": "X10:0123",
@@ -914,7 +1352,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そ、そこまではちょっと、僕にはわからないですね」",
-      "en": "“I-I’m afraid I don’t know that much.”"
+      "en": "“I-I’m afraid I don’t know that much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0131",
@@ -923,7 +1367,13 @@
       "sj": "",
       "se": "",
       "jp": "「あれを買ったの、ついこの間まで路上で寝転がってヘラヘラ笑いながら幻覚と戯れていたような連中なんですよ。それが誰かに<tips=46>ネオ・ローズ</tips>を使って貰って社会復帰したってわけなんですが……どうも良くない噂があるんです」",
-      "en": "“The men who bought it were lying in the street until quite recently, grinning and playing with their hallucinations. Then someone administered <tips=46>Neo-Rose</tips> and returned them to society... But there are unpleasant rumors.”"
+      "en": "“The men who bought it were lying in the street until quite recently, grinning and playing with their hallucinations. Then someone administered <tips=46>Neo-Rose</tips> and returned them to society... But there are unpleasant rumors.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0132",
@@ -932,7 +1382,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「良くない噂ってなんです？」",
-      "en": "“What kind of rumors?”"
+      "en": "“What kind of rumors?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0133",
@@ -941,7 +1397,13 @@
       "sj": "",
       "se": "",
       "jp": "「ホテルを買う資金なんて、すぐにためられるわけないでしょう？　それでおかしな仕事をしてると……。どうも、スラムで貧しい家の子供を買って、業者に売りさばいてるとか……」",
-      "en": "“No one can save the price of a hotel overnight, can they? People say the men are engaged in some ugly business... That they buy children from poor families in the slums and sell them to traffickers...”"
+      "en": "“No one can save the price of a hotel overnight, can they? People say the men are engaged in some ugly business... That they buy children from poor families in the slums and sell them to traffickers...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0134",
@@ -950,7 +1412,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「それって、つまり、人身売買……！」",
-      "en": "“You mean... human trafficking?!”"
+      "en": "“You mean... human trafficking?!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0135",
@@ -959,7 +1427,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は驚いて大きな声をあげると、店主は唇に人差し指を当てて静かにするよう促し、",
-      "en": "When <tips=28>Tomas</tips> cried out in shock, the proprietor pressed one finger to his lips and motioned for silence."
+      "en": "When <tips=28>Tomas</tips> cried out in shock, the proprietor pressed one finger to his lips and motioned for silence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0136",
@@ -968,7 +1442,13 @@
       "sj": "",
       "se": "",
       "jp": "「あくまでも、噂ですがね。でも、深夜に子供をあのホテルに連れ込んでいるところを、うちの女の子も見ているんです。おかしいでしょう。子供をあんなところに……」",
-      "en": "“It’s only a rumor. But one of my girls saw them taking children into that hotel late at night. Strange, isn’t it? Children in a place like that...”"
+      "en": "“It’s only a rumor. But one of my girls saw them taking children into that hotel late at night. Strange, isn’t it? Children in a place like that...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0137",
@@ -977,7 +1457,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「それだけじゃなんとも言えませんが、何か怪しい感じはしますね。もし人身売買がらみだとしたら、これは大問題です」",
-      "en": "“That alone doesn’t establish anything, but it certainly sounds suspicious. If human trafficking is involved, this is a very serious matter.”"
+      "en": "“That alone doesn’t establish anything, but it certainly sounds suspicious. If human trafficking is involved, this is a very serious matter.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0138",
@@ -986,7 +1472,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=7>ＹＳ</tips>の方針として、人身売買業者の街への立ち入りは許していない。また、そういう業者と関係を持ったものに対しても容赦なく排除するという態度をとっている。",
-      "en": "By the policy of <tips=7>YS</tips>, human traffickers were forbidden even to enter the City. Anyone who formed connections with such traders was likewise eliminated without mercy."
+      "en": "By the policy of <tips=7>YS</tips>, human traffickers were forbidden even to enter the City. Anyone who formed connections with such traders was likewise eliminated without mercy.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0139",
@@ -995,7 +1487,13 @@
       "sj": "",
       "se": "",
       "jp": "　これは初代<tips=3>クリス・ツェー</tips>が<tips=18>ローズ・クラブ</tips>、及び<tips=68>木下組</tips>を街から排除したときにまっさきに決めた街のルールのひとつであった。それ以来ルール違反で処罰されたものはなくはないが、片手で数えられるほどに留まっている。みな<tips=7>ＹＳ</tips>を恐れていたのだ。",
-      "en": "This was among the first laws established by the founding leader <tips=3>Chris Xie</tips> when he expelled the <tips=18>Rose Club</tips> and the <tips=68>Kinoshita-gumi</tips> from the City. There had been offenders since then, but those punished could be counted on one hand. Everyone feared <tips=7>YS</tips>."
+      "en": "This was among the first laws established by the founding leader <tips=3>Chris Xie</tips> when he expelled the <tips=18>Rose Club</tips> and the <tips=68>Kinoshita-gumi</tips> from the City. There had been offenders since then, but those punished could be counted on one hand. Everyone feared <tips=7>YS</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0140",
@@ -1004,7 +1502,13 @@
       "sj": "",
       "se": "",
       "jp": "　それが本当に行われているとすれば、初代が死に、ごたごたが続く<tips=7>ＹＳ</tips>の影響力が落ちたのか、それとも店長が言うようにアウトローが<tips=46>ネオ・ローズ</tips>の効果で勢いづいてしまった結果なのかはわからない。とにかく、事実をはっきりさせる必要がある。",
-      "en": "If the traffic truly existed, Tomas could not know whether the first leader’s death and the turmoil that followed had weakened <tips=7>YS</tips>’s influence, or whether—as the proprietor suggested—<tips=46>Neo-Rose</tips> had emboldened these outlaws. In either event, the facts must be established."
+      "en": "If the traffic truly existed, Tomas could not know whether the first leader’s death and the turmoil that followed had weakened <tips=7>YS</tips>’s influence, or whether—as the proprietor suggested—<tips=46>Neo-Rose</tips> had emboldened these outlaws. In either event, the facts must be established.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0148",
@@ -1013,7 +1517,14 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「これはどうすべきか……」",
-      "en": "“What ought I to do about this...?”"
+      "en": "“What ought I to do about this...?”",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0149",
@@ -1022,7 +1533,13 @@
       "sj": "",
       "se": "",
       "jp": "　店主との会話を終え路上に出た<tips=28>トーマス</tips>は考え込んでしまった。",
-      "en": "After concluding his conversation with the proprietor and stepping into the street, <tips=28>Tomas</tips> fell into thought."
+      "en": "After concluding his conversation with the proprietor and stepping into the street, <tips=28>Tomas</tips> fell into thought.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0150",
@@ -1031,7 +1548,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「まず<tips=81>龍頭</tips>に報告なさってはいかがでしょう？」",
-      "en": "“Might you first report the matter to the <tips=81>Longtou</tips>?”"
+      "en": "“Might you first report the matter to the <tips=81>Longtou</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0151",
@@ -1040,7 +1567,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=29>アイス</tips>がそう提案する。",
-      "en": "This was <tips=29>Aisu</tips>’s suggestion."
+      "en": "This was <tips=29>Aisu</tips>’s suggestion.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0152",
@@ -1049,7 +1586,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そりゃ、<tips=2>阿亮</tips>に報告したらいいのかもしれないけど、でも、まだ噂の段階だし……」",
-      "en": "“I suppose I could report it to <tips=2>Ah Liang</tips>. But for now it’s only a rumor...”"
+      "en": "“I suppose I could report it to <tips=2>Ah Liang</tips>. But for now it’s only a rumor...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0153",
@@ -1058,7 +1605,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼は首を捻ってから、",
-      "en": "He cocked his head."
+      "en": "He cocked his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0154",
@@ -1067,7 +1624,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「うん、やっぱり<tips=2>阿亮</tips>に頼むのはやめよう。彼はものすごく忙しいし、なんでもかんでも頼むのは間違ってる。僕だってそれなりの立場の人間なんだ。出来ることはやらなきゃいけないよね」",
-      "en": "“No. I don’t think I’ll ask <tips=2>Ah Liang</tips> after all. He’s terribly busy, and it would be wrong to rely on him for every last thing. I’m a man with responsibilities of my own. I must do what I can myself, don’t you think?”"
+      "en": "“No. I don’t think I’ll ask <tips=2>Ah Liang</tips> after all. He’s terribly busy, and it would be wrong to rely on him for every last thing. I’m a man with responsibilities of my own. I must do what I can myself, don’t you think?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0155",
@@ -1076,7 +1643,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は一人でそう頷くと、自分の美しいボディーガードを振り返り、",
-      "en": "<tips=28>Tomas</tips> nodded to himself, then turned to his beautiful bodyguard."
+      "en": "<tips=28>Tomas</tips> nodded to himself, then turned to his beautiful bodyguard.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0156",
@@ -1085,7 +1662,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「ちょっと、そのホテルを調べてみよう。僕らで。きみも手伝ってくれるかい？」",
-      "en": "“Let’s investigate the hotel ourselves—just the two of us. Will you help me?”"
+      "en": "“Let’s investigate the hotel ourselves—just the two of us. Will you help me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0157",
@@ -1094,7 +1681,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「はい、もちろん。<tips=28>トーマス</tips>様のご命令ならば」",
-      "en": "“Yes, of course. If that is Master <tips=28>Tomas</tips>’s command.”"
+      "en": "“Yes, of course. If that is Master <tips=28>Tomas</tips>’s command.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0158",
@@ -1103,7 +1700,17 @@
       "sj": "",
       "se": "",
       "jp": "　すぐに返事をしたものの、<tips=29>アイス</tips>の顔は不安げだった。",
-      "en": "Although she answered at once, unease shadowed <tips=29>Aisu</tips>’s face."
+      "en": "Although she answered at once, unease shadowed <tips=29>Aisu</tips>’s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0159",
@@ -1112,7 +1719,17 @@
       "sj": "",
       "se": "",
       "jp": "　その顔を見ながら<tips=28>トーマス</tips>は、こんなとき、こんな表情をされる男であってはいけないと、奮起したものである。",
-      "en": "As he regarded that expression, <tips=28>Tomas</tips> roused himself with the conviction that he must not be the sort of man who made her look this way at such a time."
+      "en": "As he regarded that expression, <tips=28>Tomas</tips> roused himself with the conviction that he must not be the sort of man who made her look this way at such a time.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0160",
@@ -1121,7 +1738,17 @@
       "sj": "",
       "se": "",
       "jp": "　そうと決めると<tips=28>トーマス</tips>はその場で部下に電話をした。",
-      "en": "Once he had made up his mind, <tips=28>Tomas</tips> called a subordinate right then and there."
+      "en": "Once he had made up his mind, <tips=28>Tomas</tips> called a subordinate right then and there.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0161",
@@ -1130,7 +1757,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=41>グランドタワー</tips>の執務室ではなく、かつて父も使っていた街中の事務所である。不動産の売買などはそちらで管理しており、疑惑のホテルの情報がそこにはあった。",
-      "en": "He called not his office in <tips=41>Grand Tower</tips>, but the office in the City that his father had once used. Real-estate transactions and similar matters were administered there, and it had information concerning the suspect hotel."
+      "en": "He called not his office in <tips=41>Grand Tower</tips>, but the office in the City that his father had once used. Real-estate transactions and similar matters were administered there, and it had information concerning the suspect hotel.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0162",
@@ -1139,7 +1776,17 @@
       "sj": "",
       "se": "",
       "jp": "　そのホテルは元々は<tips=9>Y地区</tips>の大地主の一人が所有していたものだが、ギャンブル狂いの当主がカジノで大きな借金を作ってしまったため、債権を買い取った<tips=74>廖ファミリー</tips>の所有となった。<tips=9>Y地区</tips>で金を借りればどんなに良心的に見える窓口であっても、最終的には確実にギャングに売られると考えた方が良い。",
-      "en": "The hotel had originally belonged to one of <tips=9>Y District</tips>’s great landowners. When the gambling-mad head of the household accumulated enormous casino debts, the <tips=74>Liao Family</tips> purchased his debt and took possession. Anyone borrowing money in <tips=9>Y District</tips> would be wise to assume that even the most respectable-looking lender would ultimately sell the claim to a gang."
+      "en": "The hotel had originally belonged to one of <tips=9>Y District</tips>’s great landowners. When the gambling-mad head of the household accumulated enormous casino debts, the <tips=74>Liao Family</tips> purchased his debt and took possession. Anyone borrowing money in <tips=9>Y District</tips> would be wise to assume that even the most respectable-looking lender would ultimately sell the claim to a gang.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0163",
@@ -1148,7 +1795,17 @@
       "sj": "",
       "se": "",
       "jp": "　もちろんファミリーでホテルを経営するつもりはないから、すぐに新たな買い手を探すことになる。幸いすぐに売却先は見つかった。",
-      "en": "Naturally, the family had no intention of operating the hotel itself. It immediately sought another buyer and, fortunately, found one at once."
+      "en": "Naturally, the family had no intention of operating the hotel itself. It immediately sought another buyer and, fortunately, found one at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0164",
@@ -1157,7 +1814,17 @@
       "sj": "",
       "se": "",
       "jp": "　相手の名義はご大層な会社の名前になっているが、現れたのはどこにでもいそうな若者二人で、うさんくさくはあったが現金を持って来たのでファミリーとしては断る理由がなかった。",
-      "en": "The buyer of record had the imposing name of a corporation, but the representatives who appeared were two commonplace young men. They seemed suspicious, yet they brought cash; the family had no reason to refuse them."
+      "en": "The buyer of record had the imposing name of a corporation, but the representatives who appeared were two commonplace young men. They seemed suspicious, yet they brought cash; the family had no reason to refuse them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0165",
@@ -1166,7 +1833,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「その二人は<tips=17>タイプＢ</tips>だったかい？」",
-      "en": "“Were those two <tips=17>Type B</tips>?”"
+      "en": "“Were those two <tips=17>Type B</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0166",
@@ -1175,7 +1852,17 @@
       "sj": "",
       "se": "",
       "jp": "『いやあ、それはちょっとわかりませんでしたね。ただやたらとテンションが高くて、金が出来たから事業をしようと思ったとかなんとか、聞いてもいないのにベラベラと喋っていました』",
-      "en": "“No, I’m afraid we couldn’t tell. They were tremendously excited, though. Without anyone asking, they babbled about having come into money and deciding to start a business.”"
+      "en": "“No, I’m afraid we couldn’t tell. They were tremendously excited, though. Without anyone asking, they babbled about having come into money and deciding to start a business.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0167",
@@ -1184,7 +1871,17 @@
       "sj": "",
       "se": "",
       "jp": "　売買契約を担当した部下はそのように説明をした。",
-      "en": "Thus the subordinate responsible for the sale described them."
+      "en": "Thus the subordinate responsible for the sale described them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0168",
@@ -1193,7 +1890,17 @@
       "sj": "",
       "se": "",
       "jp": "　話からすると今<tips=17>タイプＢ</tips>に流行っているという薬の影響のようにも思えるが、これから事業をはじめようとする夢のある青年ならそんなものなのかもしれない。",
-      "en": "The description suggested the influence of the drug said to be spreading among <tips=17>Type B</tips> people. Then again, perhaps any young men dreaming of their first business might behave that way."
+      "en": "The description suggested the influence of the drug said to be spreading among <tips=17>Type B</tips> people. Then again, perhaps any young men dreaming of their first business might behave that way.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0169",
@@ -1202,7 +1909,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「金が出来た理由はきいたかい？」",
-      "en": "“Did you ask where the money came from?”"
+      "en": "“Did you ask where the money came from?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0170",
@@ -1211,7 +1928,17 @@
       "sj": "",
       "se": "",
       "jp": "『いや、そこまではちょっと……』",
-      "en": "“No, I’m afraid I didn’t ask...”"
+      "en": "“No, I’m afraid I didn’t ask...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0171",
@@ -1220,7 +1947,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「わかった。ありがとう。この後すぐに、僕の携帯にホテルの見取り図を送って欲しい。それから、その売った相手についてこれから少し調べてくれないか？　素性とか、前にしていた仕事とか」",
-      "en": "“I see. Thank you. Please send the hotel’s floor plan to my phone immediately. Then would you investigate the buyers a little further—their backgrounds, their former occupations, anything of that kind?”"
+      "en": "“I see. Thank you. Please send the hotel’s floor plan to my phone immediately. Then would you investigate the buyers a little further—their backgrounds, their former occupations, anything of that kind?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0172",
@@ -1229,7 +1966,17 @@
       "sj": "",
       "se": "",
       "jp": "『わかりました』",
-      "en": "“Understood.”"
+      "en": "“Understood.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0173",
@@ -1238,7 +1985,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「なんだか、いつもごめんね」",
-      "en": "“I’m sorry. I always seem to ask so much of you.”"
+      "en": "“I’m sorry. I always seem to ask so much of you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0174",
@@ -1247,7 +2004,17 @@
       "sj": "",
       "se": "",
       "jp": "『そんなこと言わないでください。<tips=7>ＹＳ</tips>直属になっても、我々のリーダーは<tips=28>トーマス</tips>様だけです』",
-      "en": "“Please don’t say that. Even now that we report directly to <tips=7>YS</tips>, our one and only leader is Master <tips=28>Tomas</tips>.”"
+      "en": "“Please don’t say that. Even now that we report directly to <tips=7>YS</tips>, our one and only leader is Master <tips=28>Tomas</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0175",
@@ -1256,7 +2023,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は通話を切ると、首をひねる。",
-      "en": "After ending the call, <tips=28>Tomas</tips> cocked his head."
+      "en": "After ending the call, <tips=28>Tomas</tips> cocked his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0176",
@@ -1265,7 +2042,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼はいつも不思議に思う。どうして自分の部下たちはこれほどに自分を慕ってくれるのだろう？　頼りなすぎて、保護欲を刺激されるとか、そういうやつなんだろうか？　いいことなんか何もしてやったことがない、どころか、迷惑をかけてばかりだ。",
-      "en": "He was forever wondering why his subordinates loved him so well. Was he so unreliable that he aroused their instinct to protect him? Far from doing them any good, he had caused them nothing but trouble."
+      "en": "He was forever wondering why his subordinates loved him so well. Was he so unreliable that he aroused their instinct to protect him? Far from doing them any good, he had caused them nothing but trouble.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0177",
@@ -1274,7 +2061,17 @@
       "sj": "",
       "se": "",
       "jp": "　自分の判断ミスで失敗などをしたときも、かわりに<tips=2>阿亮</tips>に叱られてくれたり、うまい言い訳を考えてくれたりする。",
-      "en": "Even when an error in his judgment ended in failure, they would accept <tips=2>Ah Liang</tips>’s reprimand in his place, or devise some skillful excuse for him."
+      "en": "Even when an error in his judgment ended in failure, they would accept <tips=2>Ah Liang</tips>’s reprimand in his place, or devise some skillful excuse for him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0178",
@@ -1283,7 +2080,17 @@
       "sj": "",
       "se": "",
       "jp": "　自分はまわりの人間に恵まれている、と、ただ喜んでいるだけでいいのだろうかこれは？　",
-      "en": "Could he truly content himself with delight that he had been blessed with such people?"
+      "en": "Could he truly content himself with delight that he had been blessed with such people?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0179",
@@ -1292,7 +2099,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「どうしますか？」",
-      "en": "“What will you do?”"
+      "en": "“What will you do?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0180",
@@ -1301,7 +2118,17 @@
       "sj": "",
       "se": "",
       "jp": "　腕組みをして考え込んでいると、<tips=29>アイス</tips>が訊ねる。",
-      "en": "As he stood with his arms folded in thought, <tips=29>Aisu</tips> asked the question."
+      "en": "As he stood with his arms folded in thought, <tips=29>Aisu</tips> asked the question.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0181",
@@ -1310,7 +2137,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そうだね。思ったより大した情報がなかった。これはやっぱり、直接のりこんで調査しなくちゃいけないと思う。<tips=29>アイス</tips>は手伝ってくれるかい？」",
-      "en": "“There was less useful information than I hoped. I think we must enter the place and investigate directly after all. Will you help me, <tips=29>Aisu</tips>?”"
+      "en": "“There was less useful information than I hoped. I think we must enter the place and investigate directly after all. Will you help me, <tips=29>Aisu</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-2a46ac18f127.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0182",
@@ -1319,7 +2156,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「<tips=28>トーマス</tips>様みずからそんなことをするのですか？」",
-      "en": "“Does Master <tips=28>Tomas</tips> intend to undertake such a thing personally?”"
+      "en": "“Does Master <tips=28>Tomas</tips> intend to undertake such a thing personally?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0183",
@@ -1328,7 +2175,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=29>アイス</tips>は驚いて言った。",
-      "en": "<tips=29>Aisu</tips> asked in surprise."
+      "en": "<tips=29>Aisu</tips> asked in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0184",
@@ -1337,7 +2194,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そうとも、僕らにはきみの特別な能力があるんだし、誰かにやらせるより僕ときみでやったほうがうまく行く」",
-      "en": "“Certainly. We have your extraordinary ability, and the two of us can do it more successfully than anyone we might send.”"
+      "en": "“Certainly. We have your extraordinary ability, and the two of us can do it more successfully than anyone we might send.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0185",
@@ -1346,7 +2213,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はにっこりと笑う。",
-      "en": "<tips=28>Tomas</tips> beamed."
+      "en": "<tips=28>Tomas</tips> beamed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0186",
@@ -1355,7 +2232,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「でも、私の能力は万能ではなく、欠点もあります。この間も、<tips=81>龍頭</tips>に見破られたばかりではないですか」",
-      "en": "“But my ability is not absolute. It possesses weaknesses. Only recently, the <tips=81>Longtou</tips> saw through it.”"
+      "en": "“But my ability is not absolute. It possesses weaknesses. Only recently, the <tips=81>Longtou</tips> saw through it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0187",
@@ -1364,7 +2251,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「<tips=2>阿亮</tips>は特別だよ。それに、僕も一回やって学んだから、もっと慎重に動けるはずだ。鏡と、カメラに気をつければいいんでしょ？」",
-      "en": "“<tips=2>Ah Liang</tips> is exceptional. Besides, I’ve learned from doing it once. We should be able to move much more carefully now. We need only watch for mirrors and cameras, don’t we?”"
+      "en": "“<tips=2>Ah Liang</tips> is exceptional. Besides, I’ve learned from doing it once. We should be able to move much more carefully now. We need only watch for mirrors and cameras, don’t we?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0188",
@@ -1373,7 +2270,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「しかし、調査なら私だけでも……」",
-      "en": "“But if investigation is all that is required, I could go alone...”"
+      "en": "“But if investigation is all that is required, I could go alone...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0189",
@@ -1382,7 +2289,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「女の子を一人で行かせるわけにはいかない。きみは立場上は僕の部下かも知れないが、僕からすれば、かけがえのない世界で一番大事なパートナーなんだ」",
-      "en": "“I can’t send a young woman there alone. You may be my subordinate in formal terms, but to me you’re irreplaceable—the dearest partner I possess in all the world.”"
+      "en": "“I can’t send a young woman there alone. You may be my subordinate in formal terms, but to me you’re irreplaceable—the dearest partner I possess in all the world.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0190",
@@ -1391,7 +2308,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は真顔である。",
-      "en": "<tips=28>Tomas</tips> was utterly serious."
+      "en": "<tips=28>Tomas</tips> was utterly serious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0191",
@@ -1400,7 +2327,17 @@
       "sj": "",
       "se": "",
       "jp": "　この場面でこんな言葉を冗談でなく言う人間を、<tips=29>アイス</tips>はどんな言葉で思いなおさせればいいのかを知らない。",
-      "en": "<tips=29>Aisu</tips> did not know what words could dissuade a man who said such a thing without the least irony at a moment like this."
+      "en": "<tips=29>Aisu</tips> did not know what words could dissuade a man who said such a thing without the least irony at a moment like this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0192",
@@ -1409,7 +2346,17 @@
       "sj": "",
       "se": "",
       "jp": "　過去の経験的に言っても、こんな時の<tips=28>トーマス</tips>はけして意見を撤回しない。楽観的というか、頑固というか、これは正しいと決めたら絶対に後には引かないのがこのおっとりとした青年の別の一面である。",
-      "en": "Past experience told her that <tips=28>Tomas</tips> never withdrew an opinion in moments of this kind. Call it optimism or obstinacy: once this mild young man decided a course was right, he absolutely refused to retreat. It was another side of his nature."
+      "en": "Past experience told her that <tips=28>Tomas</tips> never withdrew an opinion in moments of this kind. Call it optimism or obstinacy: once this mild young man decided a course was right, he absolutely refused to retreat. It was another side of his nature.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0193",
@@ -1418,7 +2365,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「それに、僕もこの目でもっと色んな物を見ないとね。思うに僕には経験が必要なんだよ。<tips=2>阿亮</tips>はあとからこの世界に入ったのに、僕よりもずっとテキパキといろんなことをこなしている。<tips=26>劉建志</tips>の襲撃にだって行ったんだよ？　僕にだってこれくらいのことは出来るはずだ。……<tips=29>アイス</tips>は心配しないで大丈夫。うまくやるから」",
-      "en": "“Besides, I need to see more of this world with my own eyes. What I lack is experience. <tips=2>Ah Liang</tips> entered this life after I did, yet he handles everything far more efficiently than I can. He even joined the attack on <tips=26>Kenshi Ryuu</tips>, remember? Surely I can manage this much. ...Don’t worry, <tips=29>Aisu</tips>. I’ll do it properly.”"
+      "en": "“Besides, I need to see more of this world with my own eyes. What I lack is experience. <tips=2>Ah Liang</tips> entered this life after I did, yet he handles everything far more efficiently than I can. He even joined the attack on <tips=26>Kenshi Ryuu</tips>, remember? Surely I can manage this much. ...Don’t worry, <tips=29>Aisu</tips>. I’ll do it properly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0194",
@@ -1427,7 +2384,17 @@
       "sj": "",
       "se": "",
       "jp": "　自信満々の主人の顔をしばらく見つめたのちに、",
-      "en": "She studied the confidence in her master’s face for some time."
+      "en": "She studied the confidence in her master’s face for some time.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-74fa94660f5c.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0195",
@@ -1436,7 +2403,17 @@
       "sj": "アイス",
       "se": "Aisu",
       "jp": "「……わかりました。行きましょう」",
-      "en": "“...Very well. Let us go.”"
+      "en": "“...Very well. Let us go.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-38d626351dbd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0196",
@@ -1445,7 +2422,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=29>アイス</tips>からすれば賢明とは言えない冒険に思えたろうが、この愛すべき主人はこう見えて頑固であることを知っている。しつこく反論するのは諦めて、溜息をついた。",
-      "en": "To <tips=29>Aisu</tips>, the venture doubtless appeared unwise. Yet she knew that her lovable master, for all appearances, could be remarkably stubborn. She abandoned further objections with a sigh."
+      "en": "To <tips=29>Aisu</tips>, the venture doubtless appeared unwise. Yet she knew that her lovable master, for all appearances, could be remarkably stubborn. She abandoned further objections with a sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-38d626351dbd.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0206",
@@ -1454,7 +2441,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして能力を使う<tips=29>アイス</tips>の手を引いて、<tips=28>トーマス</tips>はホテルの右手の小さなドアから侵入したのであった。",
-      "en": "And so <tips=29>Aisu</tips> activated her power, and <tips=28>Tomas</tips>, leading her by the hand, entered through a small door on the hotel’s right side."
+      "en": "And so <tips=29>Aisu</tips> activated her power, and <tips=28>Tomas</tips>, leading her by the hand, entered through a small door on the hotel’s right side.",
+      "bg": "assets/vn/backgrounds/bg-6f02069db2fd.webp"
     },
     {
       "id": "X10:0207",
@@ -1625,7 +2613,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は従業員の後ろを通り抜け、まず奥にある事務室兼従業員用休憩室を調べることにした。",
-      "en": "<tips=28>Tomas</tips> passed behind the employee and decided to search the office and staff lounge at the back first."
+      "en": "<tips=28>Tomas</tips> passed behind the employee and decided to search the office and staff lounge at the back first.",
+      "bg": "assets/vn/backgrounds/bg-bdc890c0d4d8.webp"
     },
     {
       "id": "X10:0231",
@@ -1724,7 +2713,8 @@
       "sj": "",
       "se": "",
       "jp": "　受付の従業員が誰かと言葉を交わしている。",
-      "en": "The receptionist was speaking with someone."
+      "en": "The receptionist was speaking with someone.",
+      "bg": "assets/vn/backgrounds/bg-6f02069db2fd.webp"
     },
     {
       "id": "X10:0249",
@@ -1904,7 +2894,8 @@
       "sj": "",
       "se": "",
       "jp": "　監視カメラを避けて出っ張りの裏に隠れていた時間は実際にはそう長い間ではなかった。",
-      "en": "In fact, they had not spent very long concealed behind the projection and outside the camera’s sight."
+      "en": "In fact, they had not spent very long concealed behind the projection and outside the camera’s sight.",
+      "bg": "assets/vn/backgrounds/bg-35cbb0b4a1be.webp"
     },
     {
       "id": "X10:0285",
@@ -2057,7 +3048,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は戸惑いながらドアを開ける。",
-      "en": "Perplexed, <tips=28>Tomas</tips> opened the door."
+      "en": "Perplexed, <tips=28>Tomas</tips> opened the door.",
+      "bg": "assets/vn/backgrounds/bg-e00381ff9881.webp"
     },
     {
       "id": "X10:0307",
@@ -2345,7 +3337,8 @@
       "sj": "",
       "se": "",
       "jp": "　その部屋のベッドや内装は、ホテルの設備そのままの普通の客室であったが、まわりにはいくつもの三脚が立てられ、撮影用の照明や、レフ板、そしてベッドの方を向いて固定されたハンディカメラが設置されている。",
-      "en": "The bed and furnishings belonged to an ordinary hotel room. Around them, however, stood tripods, studio lights, reflectors, and a handheld camera aimed at the bed."
+      "en": "The bed and furnishings belonged to an ordinary hotel room. Around them, however, stood tripods, studio lights, reflectors, and a handheld camera aimed at the bed.",
+      "bg": "assets/vn/backgrounds/bg-557f9bcc8909.webp"
     },
     {
       "id": "X10:0357",
@@ -2633,7 +3626,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「あなたは広瀬平太だね」",
-      "en": "“You’re Heita Hirose, aren’t you?”"
+      "en": "“You’re Heita Hirose, aren’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0396",
@@ -2642,7 +3641,13 @@
       "sj": "",
       "se": "",
       "jp": "　その声と共に、<tips=29>アイス</tips>の能力は効果を失って二人は姿を現す。",
-      "en": "With those words, <tips=29>Aisu</tips>'s ability ended, and the two appeared."
+      "en": "With those words, <tips=29>Aisu</tips>'s ability ended, and the two appeared.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0397",
@@ -2651,7 +3656,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「騒いではいけない。僕は<tips=7>ＹＳ</tips>の<tips=28>トーマス・リャオ</tips>。<tips=27>廖志明</tips>の長男と言えばわかるかい？」",
-      "en": "“Don’t make a sound. I’m <tips=7>YS</tips>’s <tips=28>Tomas Liao</tips>. Does it make things clearer if I tell you I’m <tips=27>Liao Zhiming</tips>’s eldest son?”"
+      "en": "“Don’t make a sound. I’m <tips=7>YS</tips>’s <tips=28>Tomas Liao</tips>. Does it make things clearer if I tell you I’m <tips=27>Liao Zhiming</tips>’s eldest son?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0398",
@@ -2660,7 +3671,13 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は突然のことに混乱してしまい、カメラを持ったまま呆然とその場に立ち尽くしている。",
-      "en": "Overwhelmed by the sudden development, Hirose stood frozen in place, still holding the camera."
+      "en": "Overwhelmed by the sudden development, Hirose stood frozen in place, still holding the camera.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0399",
@@ -2669,7 +3686,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「きみら兄弟がやろうとしていることは、はっきりとこの目で見させて貰った。見逃すことは出来ない。変な気を起こしたらいけないよ。きみは本物のギャングのボスの前にいるんだ」",
-      "en": "“I’ve seen exactly what you brothers are doing. I can’t overlook it. Don’t try anything stupid. You’re standing in front of a real gang boss.”"
+      "en": "“I’ve seen exactly what you brothers are doing. I can’t overlook it. Don’t try anything stupid. You’re standing in front of a real gang boss.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0400",
@@ -2678,7 +3701,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はそう言って目を細める。",
-      "en": "<tips=28>Tomas</tips> narrowed his eyes."
+      "en": "<tips=28>Tomas</tips> narrowed his eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0401",
@@ -2687,7 +3716,13 @@
       "sj": "",
       "se": "",
       "jp": "　目のまわりはまだ涙で濡れていたが、もう興奮はしていなかった。人に拳銃を向けるのは初めてだが、泣いたせいで、さほど緊張しないのは有り難い。",
-      "en": "His eyes were still wet, but the first rush of emotion had passed. He had never pointed a gun at anyone before. Fortunately, crying had wrung enough tension out of him to keep his hand steady."
+      "en": "His eyes were still wet, but the first rush of emotion had passed. He had never pointed a gun at anyone before. Fortunately, crying had wrung enough tension out of him to keep his hand steady.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0402",
@@ -2696,7 +3731,13 @@
       "sj": "",
       "se": "",
       "jp": "　隣の<tips=29>アイス</tips>はもう目を見開いており、彼の濡れた横顔を見ている。もう能力もとけており、手を繋いでいる必要はないのだが、彼はそれには気がつかず今も握りしめたままだった。その手のひらが汗だくになっている。",
-      "en": "<tips=29>Aisu</tips> had opened her eyes and was studying his tear-streaked face. Her power had ended; they no longer needed to hold hands. Tomas had not noticed. He still gripped hers with a palm slick with sweat."
+      "en": "<tips=29>Aisu</tips> had opened her eyes and was studying his tear-streaked face. Her power had ended; they no longer needed to hold hands. Tomas had not noticed. He still gripped hers with a palm slick with sweat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0403",
@@ -2705,7 +3746,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=29>アイス</tips>は何も言わずに視線を辺りに走らせ、素早く状況を確認すると自分の拳銃を抜いた。",
-      "en": "Without speaking, <tips=29>Aisu</tips> swept her gaze around, rapidly assessed the situation, and drew her own handgun."
+      "en": "Without speaking, <tips=29>Aisu</tips> swept her gaze around, rapidly assessed the situation, and drew her own handgun.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0404",
@@ -2714,7 +3761,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「まず話を聞こう。きみと弟はスラムから子供を連れて来て、ポルノを撮影したり、街の外の人間に売り飛ばしている。……これは間違いがないね？」",
-      "en": "“Let’s start with the facts. You and your brother bring children here from the slums, film pornography with them, and sell them to people outside the City. ...That’s all true, isn’t it?”"
+      "en": "“Let’s start with the facts. You and your brother bring children here from the slums, film pornography with them, and sell them to people outside the City. ...That’s all true, isn’t it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0405",
@@ -2723,7 +3776,13 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬はまだ硬直がとけず、ぎょろりと目を剥いたまま黙っている。",
-      "en": "Hirose remained frozen and silent, his eyes bulging."
+      "en": "Hirose remained frozen and silent, his eyes bulging.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0406",
@@ -2732,7 +3791,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「僕は向こうの部屋で遊んでいる子供たちや、売買の書類も確認している。言い逃れは出来ないよ」",
-      "en": "“I saw the children in the other room. I saw the sales records too. You can’t talk your way out of this.”"
+      "en": "“I saw the children in the other room. I saw the sales records too. You can’t talk your way out of this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0407",
@@ -2741,7 +3806,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「ち、違う」",
-      "en": "“N-no, that's wrong.”"
+      "en": "“N-no, that's wrong.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0408",
@@ -2750,7 +3825,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「何が違うの？　あなたたち兄弟は子供を食い物にしてる。それが事実だよ」",
-      "en": "“What’s wrong about it? You and your brother prey on children. That’s the truth.”"
+      "en": "“What’s wrong about it? You and your brother prey on children. That’s the truth.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0409",
@@ -2759,7 +3844,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は相手を見つめて、いつものおっとりとした口調ながらも彼なりの憤りを込めてはっきりと言った。",
-      "en": "<tips=28>Tomas</tips> met the man’s eyes. His voice remained gentle, but his anger came through clearly."
+      "en": "<tips=28>Tomas</tips> met the man’s eyes. His voice remained gentle, but his anger came through clearly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0410",
@@ -2768,7 +3863,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「違うんだ。ほらっ、この怪我を見ろ！　この子は毎晩のように<tips=59>暗闇通り</tips>に立って客を取っていた。親の命令でだ。だけど、この撮影を一回やれば三ヶ月は客を取らないで済むだけの金が手に入る」",
-      "en": "“You’re wrong! Look—look at these bruises! Her parents made her stand on <tips=59>Darkness Street</tips> and take customers almost every night. One shoot earns enough that she won’t have to do that for three months.”"
+      "en": "“You’re wrong! Look—look at these bruises! Her parents made her stand on <tips=59>Darkness Street</tips> and take customers almost every night. One shoot earns enough that she won’t have to do that for three months.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0411",
@@ -2777,7 +3882,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は少女の手を掴んで、その腕についた痣を見せた。",
-      "en": "Hirose seized the girl's hand and displayed the bruises on her arm."
+      "en": "Hirose seized the girl's hand and displayed the bruises on her arm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0412",
@@ -2786,7 +3901,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「それに、向こうの部屋の子供たちだって、人身売買なんてもんじゃない。ただ、養子が欲しい金持ちに紹介してやっているだけだ。子供たちだって、美味しいものが沢山食べられると聞いて大喜びしているし、親だって大金が手に入る。おれたちは良いことをしてやってるんだよ」",
-      "en": "“And the children next door aren’t being trafficked! We’re introducing them to rich people who want to adopt. The kids are thrilled when they hear they’ll get all the good food they can eat, and their parents make a fortune. We’re helping them.”"
+      "en": "“And the children next door aren’t being trafficked! We’re introducing them to rich people who want to adopt. The kids are thrilled when they hear they’ll get all the good food they can eat, and their parents make a fortune. We’re helping them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0413",
@@ -2795,7 +3920,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「ポルノに関しては難しい問題だね」",
-      "en": "“The pornography is... complicated.”"
+      "en": "“The pornography is... complicated.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0414",
@@ -2804,7 +3939,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は顔をしかめる。",
-      "en": "<tips=28>Tomas</tips> frowned."
+      "en": "<tips=28>Tomas</tips> frowned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0415",
@@ -2813,7 +3958,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「そ、そうだろう？」",
-      "en": "“R-right?”"
+      "en": "“R-right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0416",
@@ -2822,7 +3977,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「でも、少なくとも養子縁組は間違ってるよ。だって、本当に養子が欲しくて、育てる資格がある人間だったら、正規の手続きをして施設の子を貰うでしょう。なのに、どうしてこの街の、戸籍もないような、書類上存在しないことになってる子供を大金払って買うんだと思う？　善意の人もいるかもしれないけれど、そうでない訳ありの客がいることくらい想像出来るはずじゃないか。きみは誤魔化しを言っているだけだ」",
-      "en": "“But the adoptions are wrong. Anyone who genuinely wanted a child and was fit to raise one would follow the proper process and adopt through an institution. Why would someone pay a fortune for a child from this City—one with no family register, who doesn’t officially exist? Some buyers may mean well. But you have to know others are avoiding scrutiny for a reason. You’re making excuses.”"
+      "en": "“But the adoptions are wrong. Anyone who genuinely wanted a child and was fit to raise one would follow the proper process and adopt through an institution. Why would someone pay a fortune for a child from this City—one with no family register, who doesn’t officially exist? Some buyers may mean well. But you have to know others are avoiding scrutiny for a reason. You’re making excuses.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0417",
@@ -2831,7 +3996,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は反論できずに黙り込んでしまう。",
-      "en": "Unable to answer, Hirose fell silent."
+      "en": "Unable to answer, Hirose fell silent.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0418",
@@ -2840,7 +4015,17 @@
       "sj": "",
       "se": "",
       "jp": "（……この人、あまりこういう仕事に慣れていないのかな？）",
-      "en": "(Maybe this man isn’t used to this kind of work.)"
+      "en": "(Maybe this man isn’t used to this kind of work.)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0419",
@@ -2849,7 +4034,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>の知っているギャングたちというものは、こんなに簡単にうなだれたりはしない。",
-      "en": "The gangsters <tips=28>Tomas</tips> knew did not hang their heads so easily."
+      "en": "The gangsters <tips=28>Tomas</tips> knew did not hang their heads so easily.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0420",
@@ -2858,7 +4053,17 @@
       "sj": "",
       "se": "",
       "jp": "　素人なのだろうか？",
-      "en": "Was he an amateur?"
+      "en": "Was he an amateur?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0421",
@@ -2867,7 +4072,17 @@
       "sj": "",
       "se": "",
       "jp": "　それに、今言ったのが本当に彼の考えなら、これくらいの反論で諦めてしまうものなのだろうか？",
-      "en": "And if he truly believed what he had said, would one simple objection make him give up?"
+      "en": "And if he truly believed what he had said, would one simple objection make him give up?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-29ae59f3cc3e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0422",
@@ -2876,7 +4091,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「ねえ、一つ聞きたいんだけど、今の意見、誰かから聞いたの？　なんだか、きみの意見じゃないような気がするんだ」",
-      "en": "“Can I ask you something? Did someone else give you that argument? It doesn’t sound like your own opinion.”"
+      "en": "“Can I ask you something? Did someone else give you that argument? It doesn’t sound like your own opinion.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0423",
@@ -2885,7 +4110,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「それは……」",
-      "en": "“That...”"
+      "en": "“That...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0424",
@@ -2894,7 +4129,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は一旦口ごもったが、すぐにまた言葉を続ける。",
-      "en": "Hirose faltered, then quickly continued."
+      "en": "Hirose faltered, then quickly continued.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0425",
@@ -2903,7 +4148,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「女にそう言われたんだよ」",
-      "en": "“A woman told us.”"
+      "en": "“A woman told us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0426",
@@ -2912,7 +4167,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「女？」",
-      "en": "“A woman?”"
+      "en": "“A woman?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0427",
@@ -2921,7 +4186,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「そう、路上で転がっていたおれたちに『<tips=46>ネオ・ローズ</tips>』を注射してくれたのもそいつだ。そう、何もかもあの女が悪いんだよ！」",
-      "en": "“Yes! She’s the one who injected us with <tips=46>Neo-Rose</tips> when we were lying in the street. That’s right—this is all her fault!”"
+      "en": "“Yes! She’s the one who injected us with <tips=46>Neo-Rose</tips> when we were lying in the street. That’s right—this is all her fault!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0428",
@@ -2930,7 +4205,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬の顔は感情の高ぶりによって茹でたように赤くなった。",
-      "en": "Emotion boiled Hirose’s face red."
+      "en": "Emotion boiled Hirose’s face red.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-c1a506b184d7.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0429",
@@ -2939,7 +4224,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「頼んでもいないのに、おれたちに薬を使って、正気に戻しやがった！　おかげでおれたちは、人に恵んで貰うことも出来なくなった。かといって、今更まともな仕事も出来やしねえ。それがわかってて、そそのかしたんだ。……おれたちみたいなクズでも、みんなのためになって、誰よりも金持ちになる仕事があるって」",
-      "en": "“We never asked her to drug us and make us sane again! After that, nobody would give us handouts. But by then it was too late for us to find honest work. She knew that and tempted us. ...She said even scum like us could help everyone and become richer than anybody.”"
+      "en": "“We never asked her to drug us and make us sane again! After that, nobody would give us handouts. But by then it was too late for us to find honest work. She knew that and tempted us. ...She said even scum like us could help everyone and become richer than anybody.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0430",
@@ -2948,7 +4243,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「どんな女なんだい？」",
-      "en": "“What sort of woman?”"
+      "en": "“What sort of woman?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0431",
@@ -2957,7 +4262,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「若い女だ。黒い髪のアジア人で、日本語と英語を使ってた。良い服を着て、金を沢山持ってるみたいだった。おれたちに最初の資金を提供してくれたのもそいつだ」",
-      "en": "“A young woman. Asian, black hair. She spoke Japanese and English, wore expensive clothes, and seemed to have plenty of money. She gave us our start-up cash.”"
+      "en": "“A young woman. Asian, black hair. She spoke Japanese and English, wore expensive clothes, and seemed to have plenty of money. She gave us our start-up cash.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0432",
@@ -2966,7 +4281,17 @@
       "sj": "",
       "se": "",
       "jp": "　どうにもおだやかじゃない話になってきた。",
-      "en": "The story was taking a very ugly turn."
+      "en": "The story was taking a very ugly turn.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0433",
@@ -2975,7 +4300,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「資金を……その女のこと、詳しく教えてくれないか？」",
-      "en": "“She provided the money... Can you tell me more about her?”"
+      "en": "“She provided the money... Can you tell me more about her?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0434",
@@ -2984,7 +4319,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「わからない。連絡先は知らせずに、いつも向こうから会いに来る。金のやりとりも、現金を手渡されただけで何の書類もなかった。名前さえ名乗ろうとしない」",
-      "en": "“I don’t know. She never gave us a way to reach her; she always came to us. She handed over the money in cash, with no paperwork. She wouldn’t even tell us her name.”"
+      "en": "“I don’t know. She never gave us a way to reach her; she always came to us. She handed over the money in cash, with no paperwork. She wouldn’t even tell us her name.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0435",
@@ -2993,7 +4338,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「その女が、このビルを買い取って、この仕事をやれと指示したのかい？」",
-      "en": "“Did this woman tell you to buy the building and run this business?”"
+      "en": "“Did this woman tell you to buy the building and run this business?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0436",
@@ -3002,7 +4357,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「そう、そうだ。おれたちはあの女にそそのかされただけなんだよ！　はじめは子供をつかって稼いで……それで金が出来たら、ホテルの営業をやめてビル全体を娯楽施設にするんだって。昔にあった、<tips=18>ローズ・クラブ</tips>みたいな……。子供を売る相手の見つけ方とか、ビデオを市場に流すやりかたとか、全部あの女から教わったんだ！　おれたちだけじゃ、とてもこんな仕事が出来るわけないじゃないか。出鱈目を言ってるんじゃなくて、その女が主謀者なんだよ。おれたちはただ、言いなりになっただけで……」",
-      "en": "“Yes! That woman led us astray! First we were supposed to make money off children... Then, once we had enough, we’d close the hotel and turn the whole building into an entertainment complex. Something like the old <tips=18>Rose Club</tips>... She taught us everything—how to find buyers for the children, how to put the videos on the market. We could never run something like this by ourselves! I’m not lying. She planned it. We only did what she told us...”"
+      "en": "“Yes! That woman led us astray! First we were supposed to make money off children... Then, once we had enough, we’d close the hotel and turn the whole building into an entertainment complex. Something like the old <tips=18>Rose Club</tips>... She taught us everything—how to find buyers for the children, how to put the videos on the market. We could never run something like this by ourselves! I’m not lying. She planned it. We only did what she told us...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0437",
@@ -3011,7 +4376,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は昂ぶって、涙を流し始める。",
-      "en": "Hirose’s emotions spilled over, and he began to cry."
+      "en": "Hirose’s emotions spilled over, and he began to cry.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d2ebe52a063d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0438",
@@ -3020,7 +4395,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「こんなはずじゃなかったんだ。どうしておれたちを正気にしたんだ？　あのまま狂っていた方が、罪を犯さずに済んだのに……」",
-      "en": "“It wasn’t supposed to turn out like this. Why did she make us sane again? If she’d left us mad, we never would’ve committed these crimes...”"
+      "en": "“It wasn’t supposed to turn out like this. Why did she make us sane again? If she’d left us mad, we never would’ve committed these crimes...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0439",
@@ -3029,7 +4414,17 @@
       "sj": "",
       "se": "",
       "jp": "　嗚咽をはじめた広瀬を見て、<tips=28>トーマス</tips>は溜息をつく。",
-      "en": "Watching Hirose sob, <tips=28>Tomas</tips> sighed."
+      "en": "Watching Hirose sob, <tips=28>Tomas</tips> sighed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0440",
@@ -3038,7 +4433,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「このビルは僕ら<tips=7>ＹＳ</tips>のテリトリーのなかにある。きみと弟がやっていたポルノビデオの制作は我々の領域をおかしており、しかも子供の人身売買は僕らがもっとも嫌っているものだ。それくらい、この街で育ったなら知っているよね？」",
-      "en": "“This building is in <tips=7>YS</tips> territory. By producing pornography here, you and your brother trespassed on our business. And child trafficking is the crime we hate most. You grew up in this City. You know that, don’t you?”"
+      "en": "“This building is in <tips=7>YS</tips> territory. By producing pornography here, you and your brother trespassed on our business. And child trafficking is the crime we hate most. You grew up in this City. You know that, don’t you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0441",
@@ -3047,7 +4452,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「知っているさ！　知っているけど、そんなの守られてないじゃないか。おれたちだって、子供のころは大人たちに食い物にされて来たんだ。どうして、大人になったからといって、我慢しなくちゃいけないんだい？　あんたにおれたちの気持ちがわかるのか？」",
-      "en": "“Of course I know! But those rules never protected us. Adults preyed on us when we were children too. Why should we have to hold back just because we grew up? Do you understand how we feel?”"
+      "en": "“Of course I know! But those rules never protected us. Adults preyed on us when we were children too. Why should we have to hold back just because we grew up? Do you understand how we feel?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0442",
@@ -3056,7 +4471,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬は涙目でそう叫ぶ。",
-      "en": "Hirose shouted through tearful eyes."
+      "en": "Hirose shouted through tearful eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0443",
@@ -3065,7 +4490,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は口ごもってしまう。",
-      "en": "<tips=28>Tomas</tips> faltered."
+      "en": "<tips=28>Tomas</tips> faltered.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0444",
@@ -3074,7 +4509,17 @@
       "sj": "",
       "se": "",
       "jp": "（確かに、僕には彼らの気持ちがわからない）",
-      "en": "(It’s true. I don’t understand how they feel.)"
+      "en": "(It’s true. I don’t understand how they feel.)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0445",
@@ -3083,7 +4528,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼も子供の時は被害者であり続けたのだろう。それが彼らにとって当たり前だったのだ。だから、大人になってそれをするのも『仕方ない』ことで、何が悪いのかわからないかもしれない。",
-      "en": "He too must have spent his whole childhood as a victim. For the brothers, abuse had been ordinary. Perhaps doing the same thing as adults felt ‘inevitable,’ and they could no longer understand what made it wrong."
+      "en": "He too must have spent his whole childhood as a victim. For the brothers, abuse had been ordinary. Perhaps doing the same thing as adults felt ‘inevitable,’ and they could no longer understand what made it wrong.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0446",
@@ -3092,7 +4547,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は、隣の部屋で子供と楽しそうに遊んでいた男の姿や、今この部屋で少女に気遣いを見せていた広瀬の態度を思い出す。",
-      "en": "<tips=28>Tomas</tips> remembered Koji happily playing with the children in the next room, and Heita displaying concern for the girl here."
+      "en": "<tips=28>Tomas</tips> remembered Koji happily playing with the children in the next room, and Heita displaying concern for the girl here.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0447",
@@ -3101,7 +4566,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、口を開いた。",
-      "en": "Then he spoke."
+      "en": "Then he spoke.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0448",
@@ -3110,7 +4585,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「通例通りならば、こういうケースだと極めて重い罰が与えられる。<tips=81>龍頭</tips>に報告すれば、きみらは間違いなく殺されるだろう」",
-      "en": "“Ordinarily, a case like this receives the harshest punishment. If I report you to the <tips=81>Longtou</tips>, both of you’ll be killed.”"
+      "en": "“Ordinarily, a case like this receives the harshest punishment. If I report you to the <tips=81>Longtou</tips>, both of you’ll be killed.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0449",
@@ -3119,7 +4604,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬はうなだれたまま無反応に聞いている。",
-      "en": "Hirose listened without reaction, head hanging."
+      "en": "Hirose listened without reaction, head hanging.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0450",
@@ -3128,7 +4623,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「しかし、きみの話にも同情出来るところがある。ある意味きみらもこの街の犠牲者と言えるだろう。これから僕が言う約束を守ってくれるなら、命だけは助けよう」",
-      "en": "“But there are parts of your story I can sympathize with. In a way, you’re victims of this City too. If you keep the promise I’m about to ask of you, I’ll spare your lives.”"
+      "en": "“But there are parts of your story I can sympathize with. In a way, you’re victims of this City too. If you keep the promise I’m about to ask of you, I’ll spare your lives.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0451",
@@ -3137,7 +4642,17 @@
       "sj": "",
       "se": "",
       "jp": "　広瀬はそこで顔を上げる。",
-      "en": "Hirose raised his head."
+      "en": "Hirose raised his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0452",
@@ -3146,7 +4661,17 @@
       "sj": "",
       "se": "",
       "jp": "　隣の<tips=29>アイス</tips>も驚きを浮かべて、主人の横顔を見る。",
-      "en": "Beside him, <tips=29>Aisu</tips> looked at her master’s profile in surprise."
+      "en": "Beside him, <tips=29>Aisu</tips> looked at her master’s profile in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0453",
@@ -3155,7 +4680,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「今すぐ街を出るんだ。そして、もうここに戻って来てはいけない。それを約束できるのなら、この件は僕の胸におさめよう」",
-      "en": "“Leave the City now and never come back. Promise me that, and what happened here stays with me.”"
+      "en": "“Leave the City now and never come back. Promise me that, and what happened here stays with me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0454",
@@ -3164,7 +4699,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「ほ、本当かい？」",
-      "en": "“A-are you serious?”"
+      "en": "“A-are you serious?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0455",
@@ -3173,7 +4718,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「僕は嘘はつかない」",
-      "en": "“I don’t lie.”"
+      "en": "“I don’t lie.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0456",
@@ -3182,7 +4737,17 @@
       "sj": "広瀬平太",
       "se": "Heita Hirose",
       "jp": "「あ、ありがとうございますっ……」",
-      "en": "“Th-thank you...”"
+      "en": "“Th-thank you...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0457",
@@ -3191,7 +4756,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして広瀬は<tips=28>トーマス</tips>の足元にひれ伏すようにして泣いた。",
-      "en": "Then Hirose fell prostrate at <tips=28>Tomas</tips>’s feet and wept."
+      "en": "Then Hirose fell prostrate at <tips=28>Tomas</tips>’s feet and wept.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-9bad0642e158.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0472",
@@ -3200,7 +4775,8 @@
       "sj": "",
       "se": "",
       "jp": "　そのあと<tips=28>トーマス</tips>は広瀬を銃で脅しながら、弟孝司が子供と遊んでいた部屋へ行き、驚く彼に同じように説明をする。",
-      "en": "Afterward, <tips=28>Tomas</tips> kept Heita at gunpoint and took him to the room where Koji was playing with the children. There he explained everything again to the shocked younger brother."
+      "en": "Afterward, <tips=28>Tomas</tips> kept Heita at gunpoint and took him to the room where Koji was playing with the children. There he explained everything again to the shocked younger brother.",
+      "bg": "assets/vn/backgrounds/bg-e00381ff9881.webp"
     },
     {
       "id": "X10:0473",
@@ -3218,7 +4794,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「他に経営に関わった人間はいるかい？」",
-      "en": "“Was anyone else involved in running this business?”"
+      "en": "“Was anyone else involved in running this business?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0475",
@@ -3227,7 +4809,13 @@
       "sj": "",
       "se": "",
       "jp": "　説明を終えて、<tips=28>トーマス</tips>はそう訊ねる。",
-      "en": "After explaining, <tips=28>Tomas</tips> asked the question."
+      "en": "After explaining, <tips=28>Tomas</tips> asked the question.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0476",
@@ -3236,7 +4824,17 @@
       "sj": "広瀬孝司",
       "se": "Koji Hirose",
       "jp": "「じ、自分と兄貴だけです。あとはただのアルバイトで、深く関わってはいません」",
-      "en": "“J-just my brother and me. Everyone else is part-time. They don’t know much.”"
+      "en": "“J-just my brother and me. Everyone else is part-time. They don’t know much.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0477",
@@ -3245,7 +4843,17 @@
       "sj": "",
       "se": "",
       "jp": "　すっかり生気を失った兄のかわりに、孝司がビクビクしながらそう答えた。",
-      "en": "His elder brother looked completely hollowed out, so Koji answered in his place, trembling all the while."
+      "en": "His elder brother looked completely hollowed out, so Koji answered in his place, trembling all the while.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0478",
@@ -3254,7 +4862,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「わかった」",
-      "en": "“I understand.”"
+      "en": "“I understand.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0479",
@@ -3263,7 +4881,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はテーブルの上から札束を一つ掴むと、兄弟の方に向かって放り投げる。",
-      "en": "<tips=28>Tomas</tips> grabbed a bundle of cash from the table and tossed it to the brothers."
+      "en": "<tips=28>Tomas</tips> grabbed a bundle of cash from the table and tossed it to the brothers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0480",
@@ -3272,7 +4900,17 @@
       "sj": "",
       "se": "",
       "jp": "　それを、孝司が取り落としそうになりながらもなんとかキャッチする。",
-      "en": "Koji nearly dropped it but managed to catch it."
+      "en": "Koji nearly dropped it but managed to catch it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0481",
@@ -3281,7 +4919,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「外に出たら、それを当面の生活費にしてまともな仕事を探すんだ。まだ若いんだし、きっと見つかるはずだよ。役所には<tips=17>タイプB</tips>の支援係があるから、そこで相談するのもいい。この街の役所よりはまともに仕事をしてくれると思うから。わかったね？」",
-      "en": "“Use that to live on while you look for honest work outside the City. You’re still young. I’m sure you’ll find something. Government offices have support desks for <tips=17>Type B</tips> people, so try one of those. They probably do a better job than City Hall here. Understood?”"
+      "en": "“Use that to live on while you look for honest work outside the City. You’re still young. I’m sure you’ll find something. Government offices have support desks for <tips=17>Type B</tips> people, so try one of those. They probably do a better job than City Hall here. Understood?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0482",
@@ -3290,7 +4938,17 @@
       "sj": "広瀬孝司",
       "se": "Koji Hirose",
       "jp": "「わ、わかりましたっ」",
-      "en": "“Y-yes!”"
+      "en": "“Y-yes!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0483",
@@ -3299,7 +4957,17 @@
       "sj": "",
       "se": "",
       "jp": "　孝司は首の骨が外れたかのように、ガクガクと何度も頭を揺らして頷いた。",
-      "en": "Koji nodded so violently his head looked ready to come off."
+      "en": "Koji nodded so violently his head looked ready to come off.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0484",
@@ -3308,7 +4976,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そうしたら、このまままっすぐにこの街を出るんだ。荷物を取りに行ったり、誰かに別れを告げたり、そんな寄り道をしてはいけない。この街でのきみたちは今この瞬間に死んだ。もし少しでも余計なことをしたら、僕の使いがあらわれてきみたちに本来の罰を与えるだろう。それは僕としても悲しい。僕を悲しませないよう、言うことを聞いてくれるね？」",
-      "en": "“Then go straight out of the City. Don’t stop for your things or to say goodbye to anyone. As far as this City is concerned, both of you died this instant. Make one unnecessary move, and my men will appear to give you the punishment you should have received. That would make me sad. You don’t want to make me sad, do you?”"
+      "en": "“Then go straight out of the City. Don’t stop for your things or to say goodbye to anyone. As far as this City is concerned, both of you died this instant. Make one unnecessary move, and my men will appear to give you the punishment you should have received. That would make me sad. You don’t want to make me sad, do you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0485",
@@ -3317,7 +4995,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>の言葉に、兄弟は真っ青な顔で頷いた。",
-      "en": "At <tips=28>Tomas</tips>’s words, the brothers nodded, faces deathly pale."
+      "en": "At <tips=28>Tomas</tips>’s words, the brothers nodded, faces deathly pale.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-87a5fb48fc19.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0487",
@@ -3362,7 +5050,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「これから怖いおじちゃんたちがあがってくるけど、心配しないでいい。彼らはきみたちを送り届けるのが仕事だからね」",
-      "en": "“Some scary-looking men will come upstairs soon, but don’t worry. They’re here to take you home.”"
+      "en": "“Some scary-looking men will come upstairs soon, but don’t worry. They’re here to take you home.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0492",
@@ -3371,7 +5065,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼の温和な表情と口調は子供たちに安心感を与えたようだった。",
-      "en": "His gentle face and tone appeared to reassure them."
+      "en": "His gentle face and tone appeared to reassure them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0493",
@@ -3380,7 +5080,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼らはしばし戸惑いお互いの顔を見合って、ボソボソと何か呟いた後、一人の少女が口を開いた。",
-      "en": "They hesitated, looking at one another and muttering, until one girl spoke."
+      "en": "They hesitated, looking at one another and muttering, until one girl spoke.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0494",
@@ -3389,7 +5095,13 @@
       "sj": "",
       "se": "",
       "jp": "「私たち、家に帰れるの？」",
-      "en": "“Can we go home?”"
+      "en": "“Can we go home?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0495",
@@ -3398,7 +5110,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そうだよ。帰るときには少しずつお金を渡す。あと、大事なことだけど、リャオの家の息子に貰ったって言うといい。きみたちはそれぞれいろんな事情があるだろうけど、そうしたら、きみのお父さんもお母さんも、あたたかく受け入れてくれるだろう。そうしたらもう今回のことは終わりだ。全部忘れて、誰にも喋らないようにするんだ」",
-      "en": "“Yes. Before you go, we’ll give each of you some money. This part is important: tell your families it came from the Liao family’s son. Whatever your circumstances are, that should make your mothers and fathers welcome you home. Then this is over. Forget everything that happened here, and don’t tell anyone.”"
+      "en": "“Yes. Before you go, we’ll give each of you some money. This part is important: tell your families it came from the Liao family’s son. Whatever your circumstances are, that should make your mothers and fathers welcome you home. Then this is over. Forget everything that happened here, and don’t tell anyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0496",
@@ -3407,7 +5125,13 @@
       "sj": "",
       "se": "",
       "jp": "　子供たちはそれでようやく状況を理解したようだった。",
-      "en": "At last, the children appeared to understand the situation."
+      "en": "At last, the children appeared to understand the situation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0497",
@@ -3416,7 +5140,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼ら同士で話し合うのをよそに、<tips=28>トーマス</tips>はその子供たちの輪に入れない少女――撮影の現場からつれてきたリーサに向かって話しかける。",
-      "en": "While the children discussed the matter among themselves, <tips=28>Tomas</tips> addressed the girl unable to join their circle: Lisa, whom he had brought from the filming room."
+      "en": "While the children discussed the matter among themselves, <tips=28>Tomas</tips> addressed the girl unable to join their circle: Lisa, whom he had brought from the filming room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0498",
@@ -3425,7 +5155,13 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「リーサ、きみは家に帰りたくなければ、ここに残ってもいい。そしたら僕が面倒を見よう」",
-      "en": "“Lisa, if you don’t want to go home, you can stay. I’ll look after you.”"
+      "en": "“Lisa, if you don’t want to go home, you can stay. I’ll look after you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0499",
@@ -3434,7 +5170,17 @@
       "sj": "リーサ",
       "se": "Lisa",
       "jp": "「いいわ。私、家がいい」",
-      "en": "“No. I want my home.”"
+      "en": "“No. I want my home.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0500",
@@ -3443,7 +5189,17 @@
       "sj": "",
       "se": "",
       "jp": "　親に虐待されているのを危惧した<tips=28>トーマス</tips>の申し出だったが、少女はきっぱりとそう言った。",
-      "en": "<tips=28>Tomas</tips> had made the offer because he feared that her parents abused her. The girl’s refusal was decisive."
+      "en": "<tips=28>Tomas</tips> had made the offer because he feared that her parents abused her. The girl’s refusal was decisive.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0501",
@@ -3452,7 +5208,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「そうか、それなら無理強いはしないよ。きみも立派なレディだからね。意志を尊重しよう。でも、つらいことがあったらいつでも連絡してくれよ」",
-      "en": "“I see. Then I won’t force you. You’re a proper young lady, and I’ll respect your choice. But if anything hurts you, call me anytime.”"
+      "en": "“I see. Then I won’t force you. You’re a proper young lady, and I’ll respect your choice. But if anything hurts you, call me anytime.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0502",
@@ -3461,7 +5227,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はそう言って自分の電話番号をテーブルにあった紙片にメモし、手渡そうとしたが、少女は受け取ろうとせずにこちらをじっと見つめている。",
-      "en": "<tips=28>Tomas</tips> wrote his phone number on a scrap of paper and tried to give it to her. She did not take it. She only stared."
+      "en": "<tips=28>Tomas</tips> wrote his phone number on a scrap of paper and tried to give it to her. She did not take it. She only stared.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0503",
@@ -3470,7 +5246,17 @@
       "sj": "リーサ",
       "se": "Lisa",
       "jp": "「あなたたち、さっき、急に出て来たけどユーレイなの？」",
-      "en": "“You two appeared out of nowhere. Are you ghosts?”"
+      "en": "“You two appeared out of nowhere. Are you ghosts?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0504",
@@ -3479,7 +5265,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「違うよ。僕は正義のギャング・ヒーローだよ。この街を良い街にするために、いつも姿を消して、みんなの生活を見守っているんだ」",
-      "en": "“No. I’m a righteous gangster hero. I turn invisible and watch over everyone, all so I can make this City a better place.”"
+      "en": "“No. I’m a righteous gangster hero. I turn invisible and watch over everyone, all so I can make this City a better place.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0505",
@@ -3488,7 +5284,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は穏やかに微笑みかけ、",
-      "en": "<tips=28>Tomas</tips> smiled gently."
+      "en": "<tips=28>Tomas</tips> smiled gently.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0506",
@@ -3497,7 +5303,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「だから、けっして悪いことをしたらいけないよ。僕はいつだって見張ってるんだから」",
-      "en": "“So don’t ever do anything bad. I’m always watching.”"
+      "en": "“So don’t ever do anything bad. I’m always watching.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0507",
@@ -3506,7 +5322,17 @@
       "sj": "リーサ",
       "se": "Lisa",
       "jp": "「……そんなの嘘だよ」",
-      "en": "“...That's a lie.”"
+      "en": "“...That's a lie.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0508",
@@ -3515,7 +5341,17 @@
       "sj": "",
       "se": "",
       "jp": "　少女は眉間に皺を寄せて言った。",
-      "en": "The girl furrowed her brow."
+      "en": "The girl furrowed her brow.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0509",
@@ -3524,7 +5360,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「どうしてそう思う？」",
-      "en": "“Why do you think so?”"
+      "en": "“Why do you think so?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0510",
@@ -3533,7 +5379,17 @@
       "sj": "リーサ",
       "se": "Lisa",
       "jp": "「だって、そうなら、なんで今までずっと助けてくれなかったの……」",
-      "en": "“Because if that’s true, why didn’t you ever help me before...?”"
+      "en": "“Because if that’s true, why didn’t you ever help me before...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9e7f8cc635a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0512",
@@ -3542,7 +5398,13 @@
       "sj": "",
       "se": "",
       "jp": "　少女はそう言うと、それまで無表情だった顔が急にしわくちゃに崩れて、ボロボロと涙をこぼし、泣き始めた。",
-      "en": "As she spoke, her blank face suddenly crumpled. Tears spilled down her cheeks, and she began to sob."
+      "en": "As she spoke, her blank face suddenly crumpled. Tears spilled down her cheeks, and she began to sob.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0528",
@@ -3551,7 +5413,14 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「<tips=28>トミー</tips>、きみは、人身売買というものが、死をもってしか贖えない重い罪だってことを忘れたわけではないよね？」",
-      "en": "“<tips=28>Tommy</tips>, you haven’t forgotten that human trafficking is a crime only death can atone for, have you?”"
+      "en": "“<tips=28>Tommy</tips>, you haven’t forgotten that human trafficking is a crime only death can atone for, have you?”",
+      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0529",
@@ -3560,7 +5429,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=41>グランドタワー</tips>の最上階、<tips=81>龍頭</tips>の執務室で<tips=1>謝亮</tips>は眉一つ動かさぬ冷たい表情のままそう言った。",
-      "en": "On the top floor of <tips=41>Grand Tower</tips>, inside the <tips=81>Longtou</tips>’s office, <tips=1>Xie Liang</tips> asked the question without so much as twitching an eyebrow."
+      "en": "On the top floor of <tips=41>Grand Tower</tips>, inside the <tips=81>Longtou</tips>’s office, <tips=1>Xie Liang</tips> asked the question without so much as twitching an eyebrow.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0531",
@@ -3569,7 +5444,13 @@
       "sj": "",
       "se": "",
       "jp": "　目の前には<tips=28>トーマス</tips>が立っている。",
-      "en": "<tips=28>Tomas</tips> stood before him."
+      "en": "<tips=28>Tomas</tips> stood before him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0532",
@@ -3578,7 +5459,13 @@
       "sj": "",
       "se": "",
       "jp": "　かれは日が明けるとすぐここへ訪れて、昨日の広瀬兄弟の件を彼に報告していた。",
-      "en": "Tomas had come at daybreak to report what had happened with the Hirose brothers."
+      "en": "Tomas had come at daybreak to report what had happened with the Hirose brothers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X10:0533",
@@ -3587,7 +5474,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「もちろん、忘れちゃいないよ」",
-      "en": "“Of course I haven't forgotten.”"
+      "en": "“Of course I haven't forgotten.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0534",
@@ -3596,7 +5493,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>といえども、こうしたかたちで<tips=1>謝亮</tips>の前に立つとなれば萎縮しないわけにはいかなかった。",
-      "en": "Even <tips=28>Tomas</tips> could not help shrinking as he stood before <tips=1>Xie Liang</tips> like this."
+      "en": "Even <tips=28>Tomas</tips> could not help shrinking as he stood before <tips=1>Xie Liang</tips> like this.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0535",
@@ -3605,7 +5512,17 @@
       "sj": "",
       "se": "",
       "jp": "　この第三代<tips=81>龍頭</tips><tips=1>謝亮</tips>はルールに厳格で、たとえ親しい間柄の血族でも、新しく入ったばかりの下部構成員でも、区別なく公平な判断を下すことはよく知られている。",
-      "en": "The third <tips=81>Longtou</tips>, <tips=1>Xie Liang</tips>, was famously strict about rules and perfectly impartial, whether the offender was a close blood relative or the lowest recruit who had joined yesterday."
+      "en": "The third <tips=81>Longtou</tips>, <tips=1>Xie Liang</tips>, was famously strict about rules and perfectly impartial, whether the offender was a close blood relative or the lowest recruit who had joined yesterday.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0536",
@@ -3614,7 +5531,17 @@
       "sj": "",
       "se": "",
       "jp": "　もちろん、幼なじみである自分に対してもそれは変わらないだろう。",
-      "en": "Naturally, he would make no exception for a childhood friend."
+      "en": "Naturally, he would make no exception for a childhood friend.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0537",
@@ -3623,7 +5550,17 @@
       "sj": "",
       "se": "",
       "jp": "　最近皆がこの何かと決断癖のある新しい<tips=81>龍頭</tips>の能力と人格を理解し、畏怖しはじめているが、今<tips=28>トーマス</tips>はその気持ちを肌で感じていた。",
-      "en": "People were beginning to understand—and fear—the decisive new <tips=81>Longtou</tips>’s ability and character. <tips=28>Tomas</tips> now felt that fear firsthand."
+      "en": "People were beginning to understand—and fear—the decisive new <tips=81>Longtou</tips>’s ability and character. <tips=28>Tomas</tips> now felt that fear firsthand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0538",
@@ -3632,7 +5569,17 @@
       "sj": "",
       "se": "",
       "jp": "（やっぱり、<tips=2>阿亮</tips>ってこわいな）",
-      "en": "(<tips=2>Ah Liang</tips> really is scary.)"
+      "en": "(<tips=2>Ah Liang</tips> really is scary.)",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0539",
@@ -3641,7 +5588,17 @@
       "sj": "",
       "se": "",
       "jp": "　かつてこの評判の幼なじみを見くびったことはないし、わかっていたつもりではあったが、再確認させられている。",
-      "en": "He had never underestimated his celebrated childhood friend. He thought he understood him. Now the lesson was sinking in all over again."
+      "en": "He had never underestimated his celebrated childhood friend. He thought he understood him. Now the lesson was sinking in all over again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0540",
@@ -3650,7 +5607,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>本人にとっては特別な意味のない仏頂面や冷淡な物言いなのだろうし、昔から何一つ変わってはいないのだが、<tips=81>龍頭</tips>となった彼のそういった細かい動作は周囲の人間にとってはいちいち意味のあるものに感じられてしまうのだ。それが、権力のある人間の影響力というものなのだろう。",
-      "en": "To <tips=1>Liang</tips>, the scowl and cold voice probably meant nothing; he had always been that way. But now that he was <tips=81>Longtou</tips>, every tiny gesture seemed charged with meaning to the people around him. Perhaps that was simply what power did."
+      "en": "To <tips=1>Liang</tips>, the scowl and cold voice probably meant nothing; he had always been that way. But now that he was <tips=81>Longtou</tips>, every tiny gesture seemed charged with meaning to the people around him. Perhaps that was simply what power did.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0541",
@@ -3659,7 +5626,17 @@
       "sj": "",
       "se": "",
       "jp": "　いくらリーダー格といっても、基本的には友だち繋がりである不良グループにいた時とは違う形の人間関係が<tips=81>龍頭</tips>となった<tips=1>亮</tips>のまわりに出来はじめている。彼自身もいずれその効果を理解してゆくのだろうが、この頃はまだそういった自分の存在が自然と生み出す作用について自覚が薄かったのかもしれない。",
-      "en": "The relationships forming around <tips=81>Longtou</tips> <tips=1>Liang</tips> were different from those in a delinquent gang held together mainly by friendship. He would eventually learn the effect he had on people. At this stage, he may barely have recognized it."
+      "en": "The relationships forming around <tips=81>Longtou</tips> <tips=1>Liang</tips> were different from those in a delinquent gang held together mainly by friendship. He would eventually learn the effect he had on people. At this stage, he may barely have recognized it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0542",
@@ -3668,7 +5645,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「本来だったらその兄弟は処刑しなくてはいけないんだ。だから厳密に言えばきみのやったことはアウトだけれど、その謎の女のことが気になる。そんな存在がこの街に潜んでいるなら、広瀬兄弟なんかよりそちらの方が大問題だからね。もしかしたら、今後兄弟の情報が必要になることがあるかもしれない。……つまり、死んだことにして追放したのは悪くない判断だ。咄嗟にそんな機転が利くなんてやるじゃないか」",
-      "en": "“Ordinarily, those brothers would have to be executed. Strictly speaking, what you did is against the rules. But this mysterious woman concerns me. If someone like that is hiding in the City, she’s a much greater problem than the Hirose brothers. We may need information from them later. ...So declaring them dead and exiling them wasn’t a bad decision. Pretty quick thinking.”"
+      "en": "“Ordinarily, those brothers would have to be executed. Strictly speaking, what you did is against the rules. But this mysterious woman concerns me. If someone like that is hiding in the City, she’s a much greater problem than the Hirose brothers. We may need information from them later. ...So declaring them dead and exiling them wasn’t a bad decision. Pretty quick thinking.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0543",
@@ -3677,7 +5664,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が淡々と言うと、<tips=28>トーマス</tips>は内心で安堵の溜息をつく。",
-      "en": "<tips=1>Liang</tips> delivered the verdict in his usual flat tone. <tips=28>Tomas</tips> breathed an inward sigh of relief."
+      "en": "<tips=1>Liang</tips> delivered the verdict in his usual flat tone. <tips=28>Tomas</tips> breathed an inward sigh of relief.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0544",
@@ -3686,7 +5683,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「でも、本当に僕もびっくりしたよ。まさか今時<tips=18>ローズ・クラブ</tips>どうこうを言い出す人間がいるだなんて」",
-      "en": "“It really shocked me, though. I never imagined anyone would start talking about the <tips=18>Rose Club</tips> after all these years.”"
+      "en": "“It really shocked me, though. I never imagined anyone would start talking about the <tips=18>Rose Club</tips> after all these years.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0545",
@@ -3695,7 +5702,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「そうだね」",
-      "en": "“No.”"
+      "en": "“No.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0546",
@@ -3704,7 +5721,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は椅子をぐるりと回して片肘を机につくと、",
-      "en": "<tips=1>Liang</tips> swiveled his chair and rested one elbow on the desk."
+      "en": "<tips=1>Liang</tips> swiveled his chair and rested one elbow on the desk.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0547",
@@ -3713,7 +5740,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「今の<tips=9>Y地区</tips>であんな施設を作ろうなんてのは妄想もいいところだけれど、どんな人間が言っているのかは気になる。過去からの亡霊か、それとも、広瀬兄弟みたいに何年かぶりに正気に返った浦島太郎か……」",
-      "en": "“Trying to build a place like that in today’s <tips=9>Y District</tips> is pure fantasy. Still, I’d like to know who proposed it. A ghost from the past? Or a Rip Van Winkle who woke up sane after years, like the Hirose brothers...?”"
+      "en": "“Trying to build a place like that in today’s <tips=9>Y District</tips> is pure fantasy. Still, I’d like to know who proposed it. A ghost from the past? Or a Rip Van Winkle who woke up sane after years, like the Hirose brothers...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0548",
@@ -3722,7 +5759,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って人の悪い笑みを薄い唇に浮かべる。",
-      "en": "A malicious smile touched his thin lips."
+      "en": "A malicious smile touched his thin lips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0549",
@@ -3731,7 +5778,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「何にしろ想定外だね。これに引っかき回されるようなことになると、僕は非常に困る」",
-      "en": "“Whatever she is, I didn’t account for her. I’ll be in real trouble if she starts throwing everything into disorder.”"
+      "en": "“Whatever she is, I didn’t account for her. I’ll be in real trouble if she starts throwing everything into disorder.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0550",
@@ -3740,7 +5797,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は感情の読めないのんびりとした口調で言った。",
-      "en": "<tips=1>Liang</tips> said it in an unhurried tone that revealed nothing."
+      "en": "<tips=1>Liang</tips> said it in an unhurried tone that revealed nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0551",
@@ -3749,7 +5816,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「まだ何か話があるのかい？」",
-      "en": "“Is there something else?”"
+      "en": "“Is there something else?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0552",
@@ -3758,7 +5835,17 @@
       "sj": "",
       "se": "",
       "jp": "　一通りの報告を終えたあともまだもじもじとして<tips=1>亮</tips>の前に立っている<tips=28>トーマス</tips>に、彼はそう問いかける。",
-      "en": "The report was over, but before <tips=1>Liang</tips>, <tips=28>Tomas</tips> still stood fidgeting. Liang finally asked."
+      "en": "The report was over, but before <tips=1>Liang</tips>, <tips=28>Tomas</tips> still stood fidgeting. Liang finally asked.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0553",
@@ -3767,7 +5854,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「<tips=2>阿亮</tips>、僕はこの仕事のことをちゃんと理解してなかったのかもしれない」",
-      "en": "“<tips=2>Ah Liang</tips>, maybe I never really understood this job.”"
+      "en": "“<tips=2>Ah Liang</tips>, maybe I never really understood this job.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0554",
@@ -3776,7 +5873,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>が重い口調でそう言うと、これから何を言い始めるのかと<tips=1>亮</tips>は怪訝に目を細める。",
-      "en": "<tips=28>Tomas</tips> spoke so gravely that <tips=1>Liang</tips> narrowed his eyes, wondering what on earth was coming."
+      "en": "<tips=28>Tomas</tips> spoke so gravely that <tips=1>Liang</tips> narrowed his eyes, wondering what on earth was coming.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0555",
@@ -3785,7 +5892,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「ただ、父さんの跡を継いで、そして出来ればこの街をよくしたいなと思ってた。ギャングというのは恐ろしい仕事だけど、<tips=7>ＹＳ</tips>ならこの街の色んなものを変えられる。それだけしか考えてなかったんだよ」",
-      "en": "“I only wanted to succeed Father and, if I could, make this City better. Being a gangster is frightening, but <tips=7>YS</tips> can change so much here. I never thought any further than that.”"
+      "en": "“I only wanted to succeed Father and, if I could, make this City better. Being a gangster is frightening, but <tips=7>YS</tips> can change so much here. I never thought any further than that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0556",
@@ -3794,7 +5911,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>の青みがかった目には、不安と、それに負けない意志の輝きが浮かんでいる。",
-      "en": "Anxiety shone in <tips=28>Tomas</tips>’s blue-gray eyes, and with it a determination every bit as strong."
+      "en": "Anxiety shone in <tips=28>Tomas</tips>’s blue-gray eyes, and with it a determination every bit as strong.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0557",
@@ -3803,7 +5930,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「その理想自体は変わっていない……だけど、今回僕もちゃんと『ギャング』にならなければいけないんだと思った。それが現実を受け止めるってことだと思う。手も汚さなくちゃいけない時もあるんだろう。……それでも、目的さえ忘れなければ、ただのギャングじゃない何かになれると思うんだ。ねえ、僕はこの街のみんなに幸せになってほしいんだよ」",
-      "en": "“That ideal hasn’t changed... But this time, I realized I have to become a real ‘gangster’ too. That’s what accepting reality means. Sometimes I’ll have to dirty my hands. ...Even so, if I never lose sight of the reason, I think I can become something more than just another gangster. I want everyone in this City to be happy.”"
+      "en": "“That ideal hasn’t changed... But this time, I realized I have to become a real ‘gangster’ too. That’s what accepting reality means. Sometimes I’ll have to dirty my hands. ...Even so, if I never lose sight of the reason, I think I can become something more than just another gangster. I want everyone in this City to be happy.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0558",
@@ -3812,7 +5949,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「それは立派な決意だけど、今ここで僕に報告するような話かい？」",
-      "en": "“An admirable resolution. But is it something you need to report to me right now?”"
+      "en": "“An admirable resolution. But is it something you need to report to me right now?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0559",
@@ -3821,7 +5968,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は苦笑を見せる。",
-      "en": "<tips=1>Liang</tips> gave a wry smile."
+      "en": "<tips=1>Liang</tips> gave a wry smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0560",
@@ -3830,7 +5987,17 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「それは、わからないけど……でも<tips=2>阿亮</tips>にも聞いて欲しかったんだ」",
-      "en": "“I don’t know... I just wanted you to hear it too, <tips=2>Ah Liang</tips>.”"
+      "en": "“I don’t know... I just wanted you to hear it too, <tips=2>Ah Liang</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0561",
@@ -3839,7 +6006,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は気持ちに突き動かされてつい口にしてしまったものの、こうして<tips=1>亮</tips>に指摘されると自分の行動の脈絡のなさに気がつき、恥ずかしそうに俯いた。",
-      "en": "Swept up in the moment, <tips=28>Tomas</tips> had spoken before he thought. Once <tips=1>Liang</tips> pointed it out, he realized how little the declaration had to do with his report and lowered his head in embarrassment."
+      "en": "Swept up in the moment, <tips=28>Tomas</tips> had spoken before he thought. Once <tips=1>Liang</tips> pointed it out, he realized how little the declaration had to do with his report and lowered his head in embarrassment.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0562",
@@ -3848,7 +6025,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「悩める青年だね」",
-      "en": "“Such a troubled young man.”"
+      "en": "“Such a troubled young man.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0563",
@@ -3857,7 +6044,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は肩をすくめて、",
-      "en": "<tips=1>Liang</tips> shrugged."
+      "en": "<tips=1>Liang</tips> shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0564",
@@ -3866,7 +6063,17 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ま、悩むことが出来るうちは悩めばいいよ」",
-      "en": "“Well, while you’re still capable of worrying, you may as well worry.”"
+      "en": "“Well, while you’re still capable of worrying, you may as well worry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X10:0565",
@@ -3875,7 +6082,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、正体不明の苦笑を浮かべた。",
-      "en": "An unreadable, crooked smile crossed his face."
+      "en": "An unreadable, crooked smile crossed his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "s": "r"
+        }
+      ]
     }
   ]
 }

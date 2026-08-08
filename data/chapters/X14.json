@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　最近の<tips=55>汐松子</tips>は頼りになると、同僚の間で評判だった。",
-      "en": "Lately, <tips=55>Matsuko Shio</tips> had earned a reputation among her coworkers for being someone they could rely on."
+      "en": "Lately, <tips=55>Matsuko Shio</tips> had earned a reputation among her coworkers for being someone they could rely on.",
+      "bg": "assets/vn/backgrounds/bg-f74325abbc5c.webp"
     },
     {
       "id": "X14:0012",
@@ -284,7 +285,8 @@
       "sj": "",
       "se": "",
       "jp": "　夜、ベッドに潜り込んでから眠りにつくまでの間にも、彼のことをよく考える。",
-      "en": "At night, after crawling into bed but before falling asleep, she often thought about him."
+      "en": "At night, after crawling into bed but before falling asleep, she often thought about him.",
+      "bg": "assets/vn/backgrounds/bg-ca47107ec396.webp"
     },
     {
       "id": "X14:0052",
@@ -329,7 +331,8 @@
       "sj": "",
       "se": "",
       "jp": "　その日、<tips=55>松子</tips>は日が傾きかける頃に出勤した。その日のシフトは夜勤だった。彼女の施設では夜勤者は十七時から翌朝九時までが勤務時間となっていた。",
-      "en": "That day, <tips=55>Matsuko</tips> came to work as the sun began to sink. She was on the night shift, which at her facility ran from five in the evening until nine the next morning."
+      "en": "That day, <tips=55>Matsuko</tips> came to work as the sun began to sink. She was on the night shift, which at her facility ran from five in the evening until nine the next morning.",
+      "bg": "assets/vn/backgrounds/bg-305dc1f27510.webp"
     },
     {
       "id": "X14:0064",
@@ -365,7 +368,13 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「今日は一階だっけ？」",
-      "en": "“You’re on the first floor today, right?”"
+      "en": "“You’re on the first floor today, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0068",
@@ -374,7 +383,13 @@
       "sj": "",
       "se": "",
       "jp": "　机の上の整理をしているとハシモトが話しかけてくる。",
-      "en": "Hashimoto spoke to Matsuko as she straightened her desk."
+      "en": "Hashimoto spoke to Matsuko as she straightened her desk.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0069",
@@ -383,7 +398,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうです。タグチさんと一緒です」",
-      "en": "“That’s right. I’m with Taguchi.”"
+      "en": "“That’s right. I’m with Taguchi.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0070",
@@ -392,7 +417,17 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「じゃあ今日はこき使われちゃうねー」",
-      "en": "“Then Taguchi's gonna work you to death tonight.”"
+      "en": "“Then Taguchi's gonna work you to death tonight.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0071",
@@ -401,7 +436,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ハシモトさんは日勤でしたか？」",
-      "en": "“Were you on the day shift, Hashimoto?”"
+      "en": "“Were you on the day shift, Hashimoto?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0072",
@@ -410,7 +455,17 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「ううん、早番。だから、もう帰らせて貰うわ。今日はねー、デートなの」",
-      "en": "“Nope, early shift. So I'm heading home. I've got a date tonight.”"
+      "en": "“Nope, early shift. So I'm heading home. I've got a date tonight.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0073",
@@ -419,7 +474,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ああ、この間言っていた人と」",
-      "en": "“Oh, with that man you mentioned.”"
+      "en": "“Oh, with that man you mentioned.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6061145715b6.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0074",
@@ -428,7 +493,17 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「そう！　はっきりしない男なんだけどねー。今日こそビシッと言わせてやるわ。絶対あたしのこと好きなんだから」",
-      "en": "“That's him! He can never make up his mind, but tonight I'm making him say it straight. I know he's into me.”"
+      "en": "“That's him! He can never make up his mind, but tonight I'm making him say it straight. I know he's into me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0075",
@@ -437,7 +512,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「アハハ、楽しそうですね」",
-      "en": "“Ahaha. You sound excited.”"
+      "en": "“Ahaha. You sound excited.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0076",
@@ -446,7 +531,17 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「そうよ。あなたも仕事ばっかりしてないで遊ばなきゃ」",
-      "en": "“I am. You can't spend all your time working. Go have some fun.”"
+      "en": "“I am. You can't spend all your time working. Go have some fun.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0077",
@@ -455,7 +550,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「いやあ、私はべつに……」",
-      "en": "“Oh, I'm fine...”"
+      "en": "“Oh, I'm fine...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0078",
@@ -464,7 +569,17 @@
       "sj": "ハシモト",
       "se": "Hashimoto",
       "jp": "「やっぱり、本当は<tips=10>見土</tips>さんとつき合ってるんじゃないの？」",
-      "en": "“So you really are seeing Mr. <tips=10>Mido</tips>, aren't you?”"
+      "en": "“So you really are seeing Mr. <tips=10>Mido</tips>, aren't you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0079",
@@ -473,7 +588,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どうしてそうなるんですか」",
-      "en": "“How did you get there?”"
+      "en": "“How did you get there?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0080",
@@ -482,7 +607,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は愛想笑いをしながら話をはぐらかすと、今日は自分の予定で夢中になっているハシモトはいつもほどしつこくなく話題を切り上げ、別の職員を捕まえて同じようなことを話し始めた。",
-      "en": "<tips=55>Matsuko</tips> laughed politely and steered the conversation away. Hashimoto was wrapped up in her own plans today, so she was less persistent than usual. She dropped the subject, caught another coworker, and began telling her the same story."
+      "en": "<tips=55>Matsuko</tips> laughed politely and steered the conversation away. Hashimoto was wrapped up in her own plans today, so she was less persistent than usual. She dropped the subject, caught another coworker, and began telling her the same story.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-4c83201972cb.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0082",
@@ -599,7 +734,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「あ、私が出ます」",
-      "en": "“Oh, I’ll get it.”"
+      "en": "“Oh, I’ll get it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0095",
@@ -608,7 +749,13 @@
       "sj": "",
       "se": "",
       "jp": "　同僚のタナベにそう言ってドアを開けると、三人の女子児童が立っている。",
-      "en": "She says it to her coworker Tanabe and opens the door. Three girls stand outside."
+      "en": "She says it to her coworker Tanabe and opens the door. Three girls stand outside.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0096",
@@ -617,7 +764,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どうしたの？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0097",
@@ -626,7 +779,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=55>汐さん</tips>、テレビを見たいの」",
-      "en": "“Ms. <tips=55>Shio</tips>, we want to watch TV.”"
+      "en": "“Ms. <tips=55>Shio</tips>, we want to watch TV.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0098",
@@ -635,7 +794,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「テレビ？」",
-      "en": "“Television?”"
+      "en": "“Television?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0099",
@@ -644,7 +809,13 @@
       "sj": "",
       "se": "",
       "jp": "　学校で話題になっている深夜番組があるのだと言う。",
-      "en": "They explain that everyone at school is talking about a late-night program."
+      "en": "They explain that everyone at school is talking about a late-night program.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0100",
@@ -653,7 +824,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>がどうしてもダメだと言うと、児童たちは「<tips=55>汐さん</tips>のケチ」と捨て台詞を残して去って言った。",
-      "en": "<tips=55>Matsuko</tips> insists they cannot. The girls leave with one final shot: ‘You're so stingy, Ms. <tips=55>Shio</tips>.’"
+      "en": "<tips=55>Matsuko</tips> insists they cannot. The girls leave with one final shot: ‘You're so stingy, Ms. <tips=55>Shio</tips>.’",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0101",
@@ -662,7 +839,13 @@
       "sj": "",
       "se": "",
       "jp": "「もっとピシっと言いなさいよ。そんなんだから舐められるのよ」",
-      "en": "“You need to be firmer. This is why they don't take you seriously.”"
+      "en": "“You need to be firmer. This is why they don't take you seriously.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0102",
@@ -671,7 +854,13 @@
       "sj": "",
       "se": "",
       "jp": "　席に戻ってくるとタナベはそう言って苦い顔をした。",
-      "en": "Tanabe grimaces when Matsuko returns to her seat."
+      "en": "Tanabe grimaces when Matsuko returns to her seat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0103",
@@ -680,7 +869,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうなんですけど、でも、テレビくらい好きに観させてあげたいなって気持ちもあって、なかなか言えないんですよね」",
-      "en": "“I know. But part of me wants to let them watch something as harmless as TV whenever they like. That makes it hard to be firm.”"
+      "en": "“I know. But part of me wants to let them watch something as harmless as TV whenever they like. That makes it hard to be firm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0104",
@@ -689,7 +884,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は困り顔で溜息をつく。",
-      "en": "<tips=55>Matsuko</tips> sighs, troubled."
+      "en": "<tips=55>Matsuko</tips> sighs, troubled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0105",
@@ -698,7 +899,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなこと気にしないでいいのよ。どこの家庭だって、子供の生活に口を出すわ。ルールはルールなんだから、それを崩したらだめ。どうしても見たいなら大人の目を盗んでコソコソ見たらいいのよ。そういうものよ。あなただって子供の頃、そうやってこっそり何かすることはあったでしょ？」",
-      "en": "“Don't worry about that. Every family interferes in its children's lives. Rules are rules. You can't undermine them. If they want to see it that badly, they can sneak around behind the adults' backs and watch. That's how it works. You must have done something in secret when you were a child.”"
+      "en": "“Don't worry about that. Every family interferes in its children's lives. Rules are rules. You can't undermine them. If they want to see it that badly, they can sneak around behind the adults' backs and watch. That's how it works. You must have done something in secret when you were a child.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0106",
@@ -707,7 +914,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベの夕食は出勤途中にコンビニエンスストアで購入したスパゲッティナポリタンだった。電子レンジで温めたそれは、部屋中にケチャップの甘い香りを漂わせている。",
-      "en": "Tanabe's dinner is convenience-store spaghetti Napolitan, bought on her way to work. Heated in the microwave, it fills the room with the sweet smell of ketchup."
+      "en": "Tanabe's dinner is convenience-store spaghetti Napolitan, bought on her way to work. Heated in the microwave, it fills the room with the sweet smell of ketchup.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0107",
@@ -716,7 +929,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ええ、まあ」",
-      "en": "“Yes, I suppose.”"
+      "en": "“Yes, I suppose.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0108",
@@ -725,7 +944,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は深夜番組を見たり、なにか不良行為をしたということはなかったけれども、食べるのが面倒でなんでもミキサーにかけて飲んでいたことを思い出しながらそう頷いた。",
-      "en": "<tips=55>Matsuko</tips> had never watched late-night programs or done anything delinquent. But she nods, remembering how she used to blend all her food and drink it because eating felt like too much work."
+      "en": "<tips=55>Matsuko</tips> had never watched late-night programs or done anything delinquent. But she nods, remembering how she used to blend all her food and drink it because eating felt like too much work.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0109",
@@ -734,7 +959,13 @@
       "sj": "",
       "se": "",
       "jp": "　大人になって振り返ると、自分はけして威張れるようなものではない、おかしな子供だったのである。",
-      "en": "Looking back as an adult, she had been a strange child herself. Hardly one with any right to act superior."
+      "en": "Looking back as an adult, she had been a strange child herself. Hardly one with any right to act superior.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0110",
@@ -743,7 +974,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「なんだか、自分が出来ていなかったことで子供を怒るのは疲れますね。そうしなきゃいけないとはわかっているんですけど」",
-      "en": "“It's tiring to scold children for things I couldn't manage myself. I know I have to, but still.”"
+      "en": "“It's tiring to scold children for things I couldn't manage myself. I know I have to, but still.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0111",
@@ -752,7 +989,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言って肩をすくめた。",
-      "en": "She shrugged."
+      "en": "She shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0112",
@@ -761,7 +1004,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんなの気にしないでいいのよ。私なんか、うちのチビの前ではなんでも出来る完全無欠の人間みたいに振る舞ってるんだから。そうじゃないとやっていけないわ」",
-      "en": "“Don't worry about it. In front of my little ones, I act like some perfect human being who can do anything. You couldn't raise them otherwise.”"
+      "en": "“Don't worry about it. In front of my little ones, I act like some perfect human being who can do anything. You couldn't raise them otherwise.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0113",
@@ -770,7 +1019,13 @@
       "sj": "",
       "se": "",
       "jp": "　今年三十歳になるタナベの家には五歳と二歳の子供がいる。彼女が仕事に出ている間は夫が面倒を見ていた。夫は複数の言語を操るベトナム人で、留学生としてやって来て将来を嘱望されたエリートだったらしい。それがどういうわけか<tips=9>Y地区</tips>に流れ着き、今は近所の飲食店のメニューを他の言語に変換したりといった翻訳業のような仕事をしている。ただしあまり熱心でなく、収入が心許ない。",
-      "en": "Tanabe, who would turn thirty that year, had children of five and two. Her husband watched them while she worked. A multilingual Vietnamese man, he had come to Japan as an international student and was apparently once an elite with a promising future. Somehow he washed up in <tips=9>Y District</tips>. Now he did translation work, such as putting local restaurant menus into other languages. But he was not very industrious, and his income was unreliable."
+      "en": "Tanabe, who would turn thirty that year, had children of five and two. Her husband watched them while she worked. A multilingual Vietnamese man, he had come to Japan as an international student and was apparently once an elite with a promising future. Somehow he washed up in <tips=9>Y District</tips>. Now he did translation work, such as putting local restaurant menus into other languages. But he was not very industrious, and his income was unreliable.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0114",
@@ -779,7 +1034,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女と夜勤に入るとその愚痴を延々と聞かされるのがいつものことであった。",
-      "en": "A night shift with Tanabe usually meant listening to endless complaints about him."
+      "en": "A night shift with Tanabe usually meant listening to endless complaints about him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0115",
@@ -788,7 +1049,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、夫の怠惰を批判する彼女も腰が重いタイプで、夜勤になるとパートナーに仕事を押しつけてばかりいるのであまり評判はよくない。",
-      "en": "Yet for all she criticized her husband's laziness, Tanabe was slow to move herself. On night shifts she constantly pushed work onto her partner, which had not made her popular."
+      "en": "Yet for all she criticized her husband's laziness, Tanabe was slow to move herself. On night shifts she constantly pushed work onto her partner, which had not made her popular.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0116",
@@ -797,7 +1064,13 @@
       "sj": "",
       "se": "",
       "jp": "　ただ一旦動けばテキパキと片付ける方で、子供たちへの愛情も強く、<tips=55>松子</tips>は特別苦手というわけではなかった。",
-      "en": "Once she got moving, though, she worked briskly, and her love for the children was genuine. <tips=55>Matsuko</tips> did not especially dislike her."
+      "en": "Once she got moving, though, she worked briskly, and her love for the children was genuine. <tips=55>Matsuko</tips> did not especially dislike her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0118",
@@ -950,7 +1223,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうなんですか。驚きですねえ」",
-      "en": "“Really? That's surprising.”"
+      "en": "“Really? That's surprising.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0135",
@@ -959,7 +1238,13 @@
       "sj": "",
       "se": "",
       "jp": "　いつそのことを訊かれるのか。",
-      "en": "When would Tanabe ask her about it?"
+      "en": "When would Tanabe ask her about it?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0136",
@@ -968,7 +1253,13 @@
       "sj": "",
       "se": "",
       "jp": "　訊かれたら誤魔化すのも気が重いなあと、内心おだやかではなかったが、タナベの態度を見る限り彼女はそのことを知らないようだった。",
-      "en": "The thought of evading the question weighed on her, and she was anything but calm inside. From Tanabe's behavior, though, it seemed she did not know."
+      "en": "The thought of evading the question weighed on her, and she was anything but calm inside. From Tanabe's behavior, though, it seemed she did not know.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0137",
@@ -977,7 +1268,13 @@
       "sj": "",
       "se": "",
       "jp": "「まったく怖いわねえ。あの人たちって、入院してた<tips=17>タイプB</tips>の人たちを解放するっていって襲ったんでしょ？　<tips=17>タイプＢ</tips>のアルバイトに何かしたとかで、レストランを壊したりもしたって聞いたわよ。だとしたら、うちも<tips=17>タイプB</tips>の子供を自由にしろって襲われたりしない？」",
-      "en": "“It's frightening. Those people attacked because they wanted to free the <tips=17>Type B</tips> patients, right? I heard they also destroyed a restaurant over something it did to a <tips=17>Type B</tips> employee. What if they attack us and demand we free the <tips=17>Type B</tips> children?”"
+      "en": "“It's frightening. Those people attacked because they wanted to free the <tips=17>Type B</tips> patients, right? I heard they also destroyed a restaurant over something it did to a <tips=17>Type B</tips> employee. What if they attack us and demand we free the <tips=17>Type B</tips> children?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0138",
@@ -986,7 +1283,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「さあ、どうでしょうか……」",
-      "en": "“I don't know...”"
+      "en": "“I don't know...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0139",
@@ -995,7 +1298,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう考えると、もうちょっと門限を緩めてあげたりしないとダメかしら？」",
-      "en": "“When you think of it that way, should we loosen the curfew a little?”"
+      "en": "“When you think of it that way, should we loosen the curfew a little?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0140",
@@ -1004,7 +1313,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベは真顔で首をかしげる。",
-      "en": "Tanabe tilts her head, entirely serious."
+      "en": "Tanabe tilts her head, entirely serious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0141",
@@ -1013,7 +1328,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「それはあんまり関係ないような気がしますが」",
-      "en": "“I don't think those things are really connected.”"
+      "en": "“I don't think those things are really connected.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0142",
@@ -1022,7 +1343,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうお？　でも、怖いわねえ」",
-      "en": "“You don't? Still, it's frightening.”"
+      "en": "“You don't? Still, it's frightening.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0145",
@@ -1094,7 +1421,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「はい、もしもし」",
-      "en": "“Hello. Can I help you?”"
+      "en": "“Hello. Can I help you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0154",
@@ -1103,7 +1436,13 @@
       "sj": "",
       "se": "",
       "jp": "　声をかけると、イギリス訛りの英語で返事がきた。この街では英語を母語にする住人も多いが、このアクセントはそう多くない。",
-      "en": "The answer came in English with a British accent. Many people in the City spoke English as their first language, but that accent was uncommon here."
+      "en": "The answer came in English with a British accent. Many people in the City spoke English as their first language, but that accent was uncommon here.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0155",
@@ -1112,7 +1451,13 @@
       "sj": "",
       "se": "",
       "jp": "『あの、すみません……。なかに入れて欲しいんです』",
-      "en": "“Um, excuse me... I need you to let me in.”"
+      "en": "“Um, excuse me... I need you to let me in.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0156",
@@ -1121,7 +1466,13 @@
       "sj": "",
       "se": "",
       "jp": "　その顔には彼女のこれまでの人生における苦悩を物語るように細かい皺がいくつも刻み込まれ、頬がこけ落ちている。見ようによってはまるで老婆のようにも見える。",
-      "en": "Fine wrinkles covered the woman's gaunt face, as if each one recorded some hardship from her life. Seen a certain way, she looked almost elderly."
+      "en": "Fine wrinkles covered the woman's gaunt face, as if each one recorded some hardship from her life. Seen a certain way, she looked almost elderly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0157",
@@ -1130,7 +1481,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>の目には四十歳くらいに見えたが、もしかしたらもう少し若いかもしれない。",
-      "en": "To <tips=55>Matsuko</tips>, she looked about forty. She might have been younger."
+      "en": "To <tips=55>Matsuko</tips>, she looked about forty. She might have been younger.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0158",
@@ -1139,7 +1496,13 @@
       "sj": "",
       "se": "",
       "jp": "『ここに私の子供がいると聞きまして、どうしても会いたくて……』",
-      "en": "“I heard my child is here. I have to see them...”"
+      "en": "“I heard my child is here. I have to see them...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0159",
@@ -1148,7 +1511,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「すみません。この時間にお通しすることは出来ないんです。明日になってから改めていらしてはいただけませんか？」",
-      "en": "“I'm sorry. We can't admit anyone at this hour. Could you please come back tomorrow?”"
+      "en": "“I'm sorry. We can't admit anyone at this hour. Could you please come back tomorrow?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0160",
@@ -1157,7 +1526,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は相手の表情をよく観察しながら英語で言う。",
-      "en": "<tips=55>Matsuko</tips> spoke in English, watching the woman's expression closely."
+      "en": "<tips=55>Matsuko</tips> spoke in English, watching the woman's expression closely.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0161",
@@ -1166,7 +1541,13 @@
       "sj": "",
       "se": "",
       "jp": "　こんな夜中に、そのような用件で訪れるのはいかにも不審だ。薬物中毒のせいで存在しない自分の子を探し求めて施設を訪れた女が過去にいたと、先輩職員から聞いたことがあった。",
-      "en": "Someone arriving in the middle of the night with a request like this was plainly suspicious. A senior colleague once told her about a drug-addicted woman who came looking for a child who did not exist."
+      "en": "Someone arriving in the middle of the night with a request like this was plainly suspicious. A senior colleague once told her about a drug-addicted woman who came looking for a child who did not exist.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0162",
@@ -1175,7 +1556,13 @@
       "sj": "",
       "se": "",
       "jp": "　それは<tips=59>暗闇通り</tips>の娼婦で、いないと言っても聞き入れず、事務所で暴れて大変な目に遭ったそうだ。",
-      "en": "She had been a sex worker from <tips=59>Darkness Street</tips>. She refused to believe the child was not there and caused a terrible scene in the office."
+      "en": "She had been a sex worker from <tips=59>Darkness Street</tips>. She refused to believe the child was not there and caused a terrible scene in the office.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0163",
@@ -1184,7 +1571,13 @@
       "sj": "",
       "se": "",
       "jp": "『非常識なのはわかっています。でも、どうしても、どうしても今夜でなければならないんです。どうか、特別に開けていただけませんか？　一目見て、少し会話をするだけでいいんです。そうしたら私は満足して帰りますから』",
-      "en": "“I know this is unreasonable. But it has to be tonight. It absolutely has to. Please, couldn't you make an exception and open the gate? I only need to see my child and exchange a few words. Then I'll be satisfied. I'll leave.”"
+      "en": "“I know this is unreasonable. But it has to be tonight. It absolutely has to. Please, couldn't you make an exception and open the gate? I only need to see my child and exchange a few words. Then I'll be satisfied. I'll leave.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0164",
@@ -1193,7 +1586,13 @@
       "sj": "",
       "se": "",
       "jp": "　目は金色ではない。口調はしっかりしている。正気のように見えるが、しかし、話している内容がどうにも信用しきれない。",
-      "en": "Her eyes were not gold. Her speech was clear. She seemed sane, but Matsuko still could not bring herself to trust what she was saying."
+      "en": "Her eyes were not gold. Her speech was clear. She seemed sane, but Matsuko still could not bring herself to trust what she was saying.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0165",
@@ -1202,7 +1601,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「子供たちはもう眠っています。こんな時間に起こして、会って頂くわけにはいかないんですよ」",
-      "en": "“The children are already asleep. We can't wake one at this hour for a visit.”"
+      "en": "“The children are already asleep. We can't wake one at this hour for a visit.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0166",
@@ -1211,7 +1616,13 @@
       "sj": "",
       "se": "",
       "jp": "『それなら、職員のかたで構いません。どうか、中に入れて、お話だけでも聞いて下さい』",
-      "en": "“Then let me speak to a member of staff. Please let me in and hear what I have to say.”"
+      "en": "“Then let me speak to a member of staff. Please let me in and hear what I have to say.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0167",
@@ -1220,7 +1631,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「申し訳ありません。それは出来ないんです」",
-      "en": "“I'm sorry. We can't.”"
+      "en": "“I'm sorry. We can't.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0168",
@@ -1229,7 +1646,13 @@
       "sj": "",
       "se": "",
       "jp": "『どうか、どうかお慈悲を……』",
-      "en": "“Please. Please, have mercy...”"
+      "en": "“Please. Please, have mercy...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0169",
@@ -1238,7 +1661,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして女はすすり泣きをはじめる。",
-      "en": "The woman begins to sob."
+      "en": "The woman begins to sob.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0170",
@@ -1247,7 +1676,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は戸惑って顔を曇らせる。",
-      "en": "<tips=55>Matsuko</tips> hesitates, her face clouding."
+      "en": "<tips=55>Matsuko</tips> hesitates, her face clouding.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0171",
@@ -1256,7 +1691,13 @@
       "sj": "",
       "se": "",
       "jp": "「なんだって？」",
-      "en": "“What is she saying?”"
+      "en": "“What is she saying?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0172",
@@ -1265,7 +1706,13 @@
       "sj": "",
       "se": "",
       "jp": "　振り返ると、タナベが眉間にしわを浮かべてこちらを見ていた。",
-      "en": "Matsuko turns. Tanabe is watching her with a frown."
+      "en": "Matsuko turns. Tanabe is watching her with a frown.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0173",
@@ -1274,7 +1721,13 @@
       "sj": "",
       "se": "",
       "jp": "　夫は語学に堪能だが彼女自身は日本語以外は理解が出来ない。",
-      "en": "Tanabe's husband spoke several languages, but she understood only Japanese."
+      "en": "Tanabe's husband spoke several languages, but she understood only Japanese.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0174",
@@ -1283,7 +1736,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ここにお子さんがいるからどうしても会いたいと。こんな時間だからとお断りしたんですが、そうしたら、中で話だけでも聞いてくれないかとおっしゃって……」",
-      "en": "“She says her child is here and she has to see them. I told her we couldn't let her in this late. Then she asked if we could at least let her inside to explain...”"
+      "en": "“She says her child is here and she has to see them. I told her we couldn't let her in this late. Then she asked if we could at least let her inside to explain...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0175",
@@ -1292,7 +1751,13 @@
       "sj": "",
       "se": "",
       "jp": "「えーっ」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0176",
@@ -1301,7 +1766,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベは思い切り顔を顰めると、",
-      "en": "Tanabe screws up her face."
+      "en": "Tanabe screws up her face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0177",
@@ -1310,7 +1781,13 @@
       "sj": "",
       "se": "",
       "jp": "「非常識よ。ほっときなさい」",
-      "en": "“That's ridiculous. Ignore her.”"
+      "en": "“That's ridiculous. Ignore her.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0178",
@@ -1319,7 +1796,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「はあ」",
-      "en": "“All right.”"
+      "en": "“All right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0179",
@@ -1328,7 +1811,13 @@
       "sj": "",
       "se": "",
       "jp": "「こんな時間にそんな対応は出来ないわ。それに、どうも怪しいじゃない。薬か病気の可能性もあるわ。存在しない子供を作り出してしまう妄想というのはよくあるし」",
-      "en": "“We can't deal with something like that at this hour. And she sounds suspicious. It could be drugs or illness. Delusions about children who don't exist are common.”"
+      "en": "“We can't deal with something like that at this hour. And she sounds suspicious. It could be drugs or illness. Delusions about children who don't exist are common.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0180",
@@ -1337,7 +1826,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「意識ははっきりしてる感じなんですよ。それに、何か特別な事情があるかもしれませんし……」",
-      "en": "“She seems lucid. And there may be some special circumstance...”"
+      "en": "“She seems lucid. And there may be some special circumstance...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0181",
@@ -1346,7 +1841,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、<tips=55>汐さん</tips>は、ここのルールを破りたくなるくらい、その人のことを信じちゃったの？」",
-      "en": "“Ms. <tips=55>Shio</tips>, do you really trust her enough to break the rules?”"
+      "en": "“Ms. <tips=55>Shio</tips>, do you really trust her enough to break the rules?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0182",
@@ -1355,7 +1856,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「いや、そうじゃありませんけれど、もし万が一本当にここにお子さんがいて、今しかチャンスがなくて二度と会えないとなったら、取り返しのつかないことになってしまうのかなって……」",
-      "en": "“No, it isn't that. But what if her child really is here? What if this is their only chance, and they never get to meet again? I keep thinking that sending her away might cause something we can never put right...”"
+      "en": "“No, it isn't that. But what if her child really is here? What if this is their only chance, and they never get to meet again? I keep thinking that sending her away might cause something we can never put right...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0183",
@@ -1364,7 +1871,13 @@
       "sj": "",
       "se": "",
       "jp": "　ただ困惑したまま態度をはっきりしない<tips=55>松子</tips>に対してタナベは首を左右に振り、",
-      "en": "<tips=55>Matsuko</tips> remains confused and cannot take a clear position. Tanabe shakes her head."
+      "en": "<tips=55>Matsuko</tips> remains confused and cannot take a clear position. Tanabe shakes her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0184",
@@ -1373,7 +1886,13 @@
       "sj": "",
       "se": "",
       "jp": "「どんな事情があったって関係ないの。それに、本当に今しか会えないのなら会わない方が良いわ。そんな言い方をしているなら、引き取ってくれるってわけでもないでしょうし、お互いつらいだけでしょう」",
-      "en": "“Her circumstances don't matter. And if this really is her only chance, they'd be better off not meeting. The way she talks, she isn't offering to take the child home. It would only hurt them both.”"
+      "en": "“Her circumstances don't matter. And if this really is her only chance, they'd be better off not meeting. The way she talks, she isn't offering to take the child home. It would only hurt them both.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0185",
@@ -1382,7 +1901,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうかもしれません」",
-      "en": "“Maybe you're right.”"
+      "en": "“Maybe you're right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0186",
@@ -1391,7 +1916,13 @@
       "sj": "",
       "se": "",
       "jp": "「大体、誰のお母さんだって言ってるの？」",
-      "en": "“Whose mother does she say she is, anyway?”"
+      "en": "“Whose mother does she say she is, anyway?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0187",
@@ -1400,7 +1931,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「聞きましょうか？」",
-      "en": "“Should I ask?”"
+      "en": "“Should I ask?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0188",
@@ -1409,7 +1946,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、いいわ聞かないで。もう一回、帰るよう言って頂戴」",
-      "en": "“No, don't. Tell her one more time that she has to leave.”"
+      "en": "“No, don't. Tell her one more time that she has to leave.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0189",
@@ -1418,7 +1961,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「はい、わかりました」",
-      "en": "“Yes. Understood.”"
+      "en": "“Yes. Understood.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0190",
@@ -1427,7 +1976,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は浮かない顔でまたパネルに向かう。",
-      "en": "Looking unhappy, <tips=55>Matsuko</tips> turns back to the panel."
+      "en": "Looking unhappy, <tips=55>Matsuko</tips> turns back to the panel.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0191",
@@ -1436,7 +1991,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベの言っていることは理解出来るし、間違っているとは思わない。いや、むしろ正しいだろう。マニュアルに従って帰って貰うのが正解なのはわかっている。",
-      "en": "She understood Tanabe's reasoning and did not think it wrong. If anything, Tanabe was probably right. Following the manual and sending the woman away was the correct response."
+      "en": "She understood Tanabe's reasoning and did not think it wrong. If anything, Tanabe was probably right. Following the manual and sending the woman away was the correct response.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0192",
@@ -1445,7 +2006,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、自分だったらどうだろう？　もし実の親が訪れて、一度だけ会って会話が出来るとなったら、やはり会いたいのではないだろうか？",
-      "en": "But what if Matsuko were the child? If her real parent came and she had one chance to meet and speak with them, would she not want it?"
+      "en": "But what if Matsuko were the child? If her real parent came and she had one chance to meet and speak with them, would she not want it?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0193",
@@ -1454,7 +2021,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は割り切れない思いを感じながら通話ボタンを押した。",
-      "en": "Her feelings still unresolved, <tips=55>Matsuko</tips> presses the call button."
+      "en": "Her feelings still unresolved, <tips=55>Matsuko</tips> presses the call button.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0194",
@@ -1463,7 +2036,13 @@
       "sj": "",
       "se": "",
       "jp": "　女はまだそこにいた。<tips=55>松子</tips>はどうしても今日会うことは不可能であるともう一度説明し、帰って出直すよう伝える。",
-      "en": "The woman was still there. <tips=55>Matsuko</tips> explained once more that a meeting tonight was impossible and told her to go home and come back another day."
+      "en": "The woman was still there. <tips=55>Matsuko</tips> explained once more that a meeting tonight was impossible and told her to go home and come back another day.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0195",
@@ -1472,7 +2051,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると女は取り乱し、",
-      "en": "The woman loses control."
+      "en": "The woman loses control.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0196",
@@ -1481,7 +2066,13 @@
       "sj": "",
       "se": "",
       "jp": "『出直すことなんか出来ないんです！　それならば、ここで待てる限り待たせて頂きます。私には、今しかないんですから。だから、気が変わったら、どうか……』",
-      "en": "“I can't come back! Then I'll wait here as long as I possibly can. This is my only chance. So if you change your mind, please...”"
+      "en": "“I can't come back! Then I'll wait here as long as I possibly can. This is my only chance. So if you change your mind, please...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0197",
@@ -1490,7 +2081,13 @@
       "sj": "",
       "se": "",
       "jp": "　カメラに顔を近づけ、画面一杯にその涙で濡れた顔を映しながら泣き声で言った。",
-      "en": "She leans into the camera until her tear-soaked face fills the screen, pleading through her sobs."
+      "en": "She leans into the camera until her tear-soaked face fills the screen, pleading through her sobs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0198",
@@ -1499,7 +2096,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「それは出来ないんです。……失礼します」",
-      "en": "“You can't wait there. ...Good night.”"
+      "en": "“You can't wait there. ...Good night.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0199",
@@ -1508,7 +2111,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は悲痛な面持ちで通話を切り、席に戻る。",
-      "en": "With a pained expression, <tips=55>Matsuko</tips> ends the call and returns to her seat."
+      "en": "With a pained expression, <tips=55>Matsuko</tips> ends the call and returns to her seat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0200",
@@ -1517,7 +2126,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして無言で折り紙をはじめるが、どうも集中出来ず、本を見ているのに間違えてしまう。",
-      "en": "She silently returns to the origami, but cannot concentrate. Even with the book open, she keeps making mistakes."
+      "en": "She silently returns to the origami, but cannot concentrate. Even with the book open, she keeps making mistakes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0201",
@@ -1526,7 +2141,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベが先に仮眠を取ると、一人になった<tips=55>松子</tips>はあれこれと考えてしまう。",
-      "en": "Once Tanabe goes to nap, <tips=55>Matsuko</tips> is left alone with her thoughts."
+      "en": "Once Tanabe goes to nap, <tips=55>Matsuko</tips> is left alone with her thoughts.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0202",
@@ -1535,7 +2156,13 @@
       "sj": "",
       "se": "",
       "jp": "　気を紛らわすために、何かすることはないかと探して、所長から勧められた資格を取るための参考書などを本棚から取り出して目を通すが、一向に頭に内容が入って来ない。",
-      "en": "She looks for something to distract herself and takes down a study guide for one of the qualifications the director recommended. She reads, but none of it enters her head."
+      "en": "She looks for something to distract herself and takes down a study guide for one of the qualifications the director recommended. She reads, but none of it enters her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0203",
@@ -1544,7 +2171,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしてついインターフォンのパネルの前に立ち、カメラの映像を表示させてしまう。",
-      "en": "Before long, she finds herself standing at the intercom panel and pulling up the camera feed."
+      "en": "Before long, she finds herself standing at the intercom panel and pulling up the camera feed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0204",
@@ -1553,7 +2186,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると、むこうの塀に寄りかかるようにしてさっきの女が蹲っているのが見える。本当に待っているのだ。",
-      "en": "The woman is crouched outside, leaning against the far wall. She truly is waiting."
+      "en": "The woman is crouched outside, leaning against the far wall. She truly is waiting.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0206",
@@ -1661,7 +2300,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「いえ、まだ門の前に……」",
-      "en": "“No. She’s still outside the gate...”"
+      "en": "“No. She’s still outside the gate...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0218",
@@ -1670,7 +2315,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0219",
@@ -1679,7 +2330,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベは言って、目をゴシゴシと擦る。",
-      "en": "Tanabe rubbed her eyes vigorously."
+      "en": "Tanabe rubbed her eyes vigorously.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0220",
@@ -1688,7 +2345,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女も外で待つあの女のことが気になっていて、眠れなかったのかもしれないと<tips=55>松子</tips>は思った。",
-      "en": "<tips=55>Matsuko</tips> wonders whether the woman outside had been bothering Tanabe too, keeping her awake."
+      "en": "<tips=55>Matsuko</tips> wonders whether the woman outside had been bothering Tanabe too, keeping her awake.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0221",
@@ -1697,7 +2360,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「あの、タナベさん。話だけでも聞いたら駄目ですか？　私が応接室で対応しますから、タナベさんはその間ここにいてください。今日私は仮眠はいらないので……」",
-      "en": "“Um, Tanabe. Couldn't we at least hear her story? I'll speak with her in the reception room while you stay here. I don't need a nap tonight...”"
+      "en": "“Um, Tanabe. Couldn't we at least hear her story? I'll speak with her in the reception room while you stay here. I don't need a nap tonight...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0222",
@@ -1706,7 +2375,13 @@
       "sj": "",
       "se": "",
       "jp": "「そう言うと思ったわ」",
-      "en": "“I knew you'd say that.”"
+      "en": "“I knew you'd say that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0223",
@@ -1715,7 +2390,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベは肩をすくめると、",
-      "en": "Tanabe shrugged."
+      "en": "Tanabe shrugged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0224",
@@ -1724,7 +2405,13 @@
       "sj": "",
       "se": "",
       "jp": "「わかった。そうしましょう」",
-      "en": "“All right. Let's hear her out.”"
+      "en": "“All right. Let's hear her out.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0225",
@@ -1733,7 +2420,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ありがとうございます！」",
-      "en": "“Thank you!”"
+      "en": "“Thank you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0226",
@@ -1742,7 +2435,13 @@
       "sj": "",
       "se": "",
       "jp": "「ただし、私も一緒に行くわ。上の階の人に連絡だけしておけば、ここは少しくらいあけても大丈夫よ」",
-      "en": "“But I'm coming with you. If we notify the people upstairs, we can leave this room for a little while.”"
+      "en": "“But I'm coming with you. If we notify the people upstairs, we can leave this room for a little while.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0227",
@@ -1751,7 +2450,13 @@
       "sj": "",
       "se": "",
       "jp": "　タナベはそう言ってから、あくびをかみ殺した。",
-      "en": "Tanabe stifles a yawn."
+      "en": "Tanabe stifles a yawn.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0235",
@@ -1805,7 +2510,8 @@
       "sj": "",
       "se": "",
       "jp": "　管理棟の応接室に通し、お茶を出す。",
-      "en": "They show her into a reception room in the administration building and serve tea."
+      "en": "They show her into a reception room in the administration building and serve tea.",
+      "bg": "assets/vn/backgrounds/bg-d649b33a2aba.webp"
     },
     {
       "id": "X14:0247",
@@ -1859,7 +2565,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「いえ、そんな」",
-      "en": "“Oh, I didn't really...”"
+      "en": "“Oh, I didn't really...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0253",
@@ -1868,7 +2580,13 @@
       "sj": "",
       "se": "",
       "jp": "「子供の名前を聞いた？」",
-      "en": "“Did you ask which child?”"
+      "en": "“Did you ask which child?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0254",
@@ -1877,7 +2595,13 @@
       "sj": "",
       "se": "",
       "jp": "　恐縮する<tips=55>松子</tips>の横で、二人の英語による会話が聞き取れないタナベが囁く。",
-      "en": "Beside the embarrassed <tips=55>Matsuko</tips>, Tanabe—unable to follow their English—whispers."
+      "en": "Beside the embarrassed <tips=55>Matsuko</tips>, Tanabe—unable to follow their English—whispers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0255",
@@ -1886,7 +2610,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は頷き、",
-      "en": "<tips=55>Matsuko</tips> nodded."
+      "en": "<tips=55>Matsuko</tips> nodded.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0256",
@@ -1895,7 +2625,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「あの、それでお子さんの名前を教えて頂けませんか？」",
-      "en": "“Um, could you tell me your child's name?”"
+      "en": "“Um, could you tell me your child's name?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0257",
@@ -1904,7 +2640,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、そうですね！　まだその名前を言っていませんでしたね。私のその生き別れになった娘の名前を。いくらあなたといえども、言わなきゃわからないですものね」",
-      "en": "“Oh, of course! I haven't told you yet, have I? The name of the daughter I was separated from. Even you can't know unless I tell you.”"
+      "en": "“Oh, of course! I haven't told you yet, have I? The name of the daughter I was separated from. Even you can't know unless I tell you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0258",
@@ -1913,7 +2655,13 @@
       "sj": "",
       "se": "",
       "jp": "　女は上機嫌だ。いくらなんでも上機嫌過ぎるようにも見える。ほとんどはしゃいでいると言ってもいい。",
-      "en": "The woman is in high spirits. Too high. She is practically giddy."
+      "en": "The woman is in high spirits. Too high. She is practically giddy.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0259",
@@ -1922,7 +2670,13 @@
       "sj": "",
       "se": "",
       "jp": "　こんなに嬉しいものなのだろうかと、<tips=55>松子</tips>は違和感を覚えた。",
-      "en": "Could anyone really be this happy? <tips=55>Matsuko</tips> feels something is wrong."
+      "en": "Could anyone really be this happy? <tips=55>Matsuko</tips> feels something is wrong.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0260",
@@ -1931,7 +2685,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ええ、名前を言っていただかないと、お連れ出来ませんし、会うことも出来ません」",
-      "en": "“Yes. Unless you tell us her name, we can't bring her here, and you can't meet.”"
+      "en": "“Yes. Unless you tell us her name, we can't bring her here, and you can't meet.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0261",
@@ -1940,7 +2700,13 @@
       "sj": "",
       "se": "",
       "jp": "「あはは」",
-      "en": "“Ahaha.”"
+      "en": "“Ahaha.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0262",
@@ -1949,7 +2715,13 @@
       "sj": "",
       "se": "",
       "jp": "　女は唇の両端をつり上げて笑うと、まっすぐ<tips=55>松子</tips>の目を見つめながら言う。",
-      "en": "The corners of the woman's lips curl upward. She looks straight into <tips=55>Matsuko</tips>'s eyes."
+      "en": "The corners of the woman's lips curl upward. She looks straight into <tips=55>Matsuko</tips>'s eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0263",
@@ -1958,7 +2730,13 @@
       "sj": "",
       "se": "",
       "jp": "「もうどこへも連れて行かなくて結構。だって、もう子供と出会えたんだから」",
-      "en": "“There's no need to bring anyone. I've already found my child.”"
+      "en": "“There's no need to bring anyone. I've already found my child.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0264",
@@ -1967,7 +2745,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「えっ」",
-      "en": "“What?”"
+      "en": "“What?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-01dda9d8ae52.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0265",
@@ -1976,7 +2760,13 @@
       "sj": "",
       "se": "",
       "jp": "「私の子供は、お前だよ」",
-      "en": "“You're my child.”"
+      "en": "“You're my child.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-01dda9d8ae52.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0266",
@@ -1985,7 +2775,13 @@
       "sj": "",
       "se": "",
       "jp": "　驚く<tips=55>松子</tips>の前で、女はさっと手をあげる。",
-      "en": "Before the astonished <tips=55>Matsuko</tips>, the woman suddenly raises one hand."
+      "en": "Before the astonished <tips=55>Matsuko</tips>, the woman suddenly raises one hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-01dda9d8ae52.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0269",
@@ -2039,7 +2835,8 @@
       "sj": "",
       "se": "",
       "jp": "　それはまるでクレイアニメーションのようにぐにゃぐにゃと形を変え、やがて全く別人の姿をそこに作り出す。",
-      "en": "It twists and warps like clay animation until a completely different person stands before them."
+      "en": "It twists and warps like clay animation until a completely different person stands before them.",
+      "bg": "assets/vn/backgrounds/bg-764de49ed90c.webp"
     },
     {
       "id": "X14:0285",
@@ -3065,7 +3862,14 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「よし、じゃあ次の質問だ。きみは……」",
-      "en": "“Very well. Next question. Do you...”"
+      "en": "“Very well. Next question. Do you...”",
+      "bg": "assets/vn/backgrounds/bg-d649b33a2aba.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0410",
@@ -3074,7 +3878,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼がそう言いかけた時だ。",
-      "en": "He has barely begun when it happens."
+      "en": "He has barely begun when it happens.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0412",
@@ -3083,7 +3893,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「うっ」",
-      "en": "“Ugh!”"
+      "en": "“Ugh!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0413",
@@ -3092,7 +3908,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は急に目を大きく見開いて、そしてガクリと俯く。",
-      "en": "<tips=64>Alexey</tips>'s eyes fly wide. He doubles over."
+      "en": "<tips=64>Alexey</tips>'s eyes fly wide. He doubles over.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0414",
@@ -3101,7 +3923,13 @@
       "sj": "",
       "se": "",
       "jp": "　何か発作でも起きたかのように身体が揺れ、銃口がブレた。",
-      "en": "His body sways as if seized by a fit. The muzzle wavers."
+      "en": "His body sways as if seized by a fit. The muzzle wavers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0415",
@@ -3110,7 +3938,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>はその隙を見逃さなかった。立ち上がりながらさっと手を伸ばし、相手の銃を掴む。",
-      "en": "<tips=55>Matsuko</tips> does not miss the opening. She rises, shoots out one hand, and seizes the pistol."
+      "en": "<tips=55>Matsuko</tips> does not miss the opening. She rises, shoots out one hand, and seizes the pistol.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0416",
@@ -3119,7 +3953,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「お、お前っ……」",
-      "en": "“Y-You...”"
+      "en": "“Y-You...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0417",
@@ -3128,7 +3968,13 @@
       "sj": "",
       "se": "",
       "jp": "　苦悶で皺だらけにした表情で<tips=64>アレクセイ</tips>は<tips=55>松子</tips>を睨み付けた。",
-      "en": "His face knotted in agony, <tips=64>Alexey</tips> glares at <tips=55>Matsuko</tips>."
+      "en": "His face knotted in agony, <tips=64>Alexey</tips> glares at <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0418",
@@ -3137,7 +3983,13 @@
       "sj": "",
       "se": "",
       "jp": "　その時引き金を引いたようだが、銃口は既に<tips=55>松子</tips>の身体からは大きく外れており、壁に掛かった創立者の顔写真を撃ち抜く。",
-      "en": "He pulls the trigger, but the muzzle has already swung far from <tips=55>Matsuko</tips>. The bullet tears through the founder's portrait on the wall."
+      "en": "He pulls the trigger, but the muzzle has already swung far from <tips=55>Matsuko</tips>. The bullet tears through the founder's portrait on the wall.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0419",
@@ -3146,7 +3998,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は掴んだ拳銃を<tips=64>アレクセイ</tips>の手の甲の方にねじりあげる。",
-      "en": "<tips=55>Matsuko</tips> wrenches the pistol backward over the back of <tips=64>Alexey</tips>'s hand."
+      "en": "<tips=55>Matsuko</tips> wrenches the pistol backward over the back of <tips=64>Alexey</tips>'s hand.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0421",
@@ -3155,7 +4013,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると引き金にかかったままの<tips=64>アレクセイ</tips>の人差し指が、トリガーガードに締め上げられる形になって、パキッと割り箸を折ったような乾いた音がする。",
-      "en": "<tips=64>Alexey</tips>'s index finger, still hooked around the trigger, is crushed against the trigger guard. A dry crack rings out like a pair of disposable chopsticks snapping."
+      "en": "<tips=64>Alexey</tips>'s index finger, still hooked around the trigger, is crushed against the trigger guard. A dry crack rings out like a pair of disposable chopsticks snapping.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0422",
@@ -3164,7 +4028,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「くっ」",
-      "en": "“Guh!”"
+      "en": "“Guh!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0423",
@@ -3173,7 +4043,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は苦痛に顔を歪める。人差し指の骨が折れたのだ。",
-      "en": "<tips=64>Alexey</tips>'s face twists in pain. His index finger is broken."
+      "en": "<tips=64>Alexey</tips>'s face twists in pain. His index finger is broken.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0424",
@@ -3182,7 +4058,13 @@
       "sj": "",
       "se": "",
       "jp": "　松子はもう片方の手で、拳銃を握る彼の手首を握りしめ、そのまま彼の腕を関節と逆向きにねじる。",
-      "en": "With her other hand, Matsuko clamps down on his wrist and twists his arm against the joint."
+      "en": "With her other hand, Matsuko clamps down on his wrist and twists his arm against the joint.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0425",
@@ -3191,7 +4073,13 @@
       "sj": "",
       "se": "",
       "jp": "　痛みから逃れるにはその回転に逆らわずに<tips=55>松子</tips>の手の動きに従うしかない。そうなれば、彼の身体は完全に<tips=55>松子</tips>の制圧下に置かれるはずだった。",
-      "en": "To escape the pain, he has to turn with <tips=55>Matsuko</tips>'s hands instead of resisting. Then his body will be completely under <tips=55>Matsuko</tips>'s control."
+      "en": "To escape the pain, he has to turn with <tips=55>Matsuko</tips>'s hands instead of resisting. Then his body will be completely under <tips=55>Matsuko</tips>'s control.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0426",
@@ -3200,7 +4088,13 @@
       "sj": "",
       "se": "",
       "jp": "　これは子供の頃<tips=1>亮</tips>から教わった護身術だった。使うのは久しぶりだが、身体はまだ覚えている。",
-      "en": "It is a self-defense technique <tips=1>Ryou</tips> taught her as a child. She has not used it in years, but her body remembers."
+      "en": "It is a self-defense technique <tips=1>Ryou</tips> taught her as a child. She has not used it in years, but her body remembers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0427",
@@ -3209,7 +4103,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし<tips=64>アレクセイ</tips>は<tips=55>松子</tips>の腹の辺りを蹴って力任せに腕を引き抜く。肘や肩から鈍い音がし、彼はそのまま後ろに転がった。テーブルの上から転がり落ちたカップが音を立てて床ではじける。",
-      "en": "But <tips=64>Alexey</tips> kicks <tips=55>Matsuko</tips> in the stomach and tears his arm free by brute force. Dull cracks come from his elbow and shoulder as he tumbles backward. A cup rolls off the table and shatters on the floor."
+      "en": "But <tips=64>Alexey</tips> kicks <tips=55>Matsuko</tips> in the stomach and tears his arm free by brute force. Dull cracks come from his elbow and shoulder as he tumbles backward. A cup rolls off the table and shatters on the floor.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0428",
@@ -3218,7 +4118,13 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「ぐあっ……うっ……」",
-      "en": "“Agh... Ugh...”"
+      "en": "“Agh... Ugh...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0429",
@@ -3227,7 +4133,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は床の上で折れた腕の痛みにのたうちまわりながらも、銃は手放さない。",
-      "en": "<tips=64>Alexey</tips> writhes on the floor with his arm broken, but he does not let go of the pistol."
+      "en": "<tips=64>Alexey</tips> writhes on the floor with his arm broken, but he does not let go of the pistol.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0431",
@@ -3317,7 +4229,8 @@
       "sj": "",
       "se": "",
       "jp": "「ああ……ミシェル……」",
-      "en": "“Oh... Michelle...”"
+      "en": "“Oh... Michelle...”",
+      "bg": "assets/vn/backgrounds/bg-bf3c2f0ef25c.webp"
     },
     {
       "id": "X14:0458",
@@ -3722,7 +4635,8 @@
       "sj": "",
       "se": "",
       "jp": "　女の身体はみるみるうちに膨れ上がり、服が内側から押し上げられパンパンに表面が張っている。",
-      "en": "The woman's body swells before her eyes, pushing her clothes outward until they stretch taut."
+      "en": "The woman's body swells before her eyes, pushing her clothes outward until they stretch taut.",
+      "bg": "assets/vn/backgrounds/bg-d649b33a2aba.webp"
     },
     {
       "id": "X14:0516",
@@ -3767,7 +4681,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「くっ」",
-      "en": "“Ngh...”"
+      "en": "“Ngh...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0521",
@@ -3776,7 +4696,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は我を取り戻し、銃を構える。もう躊躇している暇はない。相手の頭辺りに銃を向けると、目をつぶって引き金にかけた人差し指に力を込めた。",
-      "en": "<tips=55>Matsuko</tips> comes to herself and raises the pistol. There is no time left to hesitate. She aims for the figure's head, closes her eyes, and tightens her finger on the trigger."
+      "en": "<tips=55>Matsuko</tips> comes to herself and raises the pistol. There is no time left to hesitate. She aims for the figure's head, closes her eyes, and tightens her finger on the trigger.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0522",
@@ -3785,7 +4711,13 @@
       "sj": "",
       "se": "",
       "jp": "　この時彼女が握っているのは、<tips=20>コシチェイ</tips>が独自ルートで入手した中国製の拳銃だった。",
-      "en": "The weapon in her hand is a Chinese-made pistol <tips=20>Koschei</tips> obtained through his own channels."
+      "en": "The weapon in her hand is a Chinese-made pistol <tips=20>Koschei</tips> obtained through his own channels.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0523",
@@ -3794,7 +4726,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー・ホワイト</tips>が密輸しているものよりも大分質が劣る。パーツ製造の精度が低く、しばしばトラブルが発生し、病院襲撃の際も故障する銃が見られた。",
-      "en": "It is far inferior to the weapons smuggled by <tips=31>Elly White</tips>. The parts are poorly machined and often malfunction. Guns of the same kind failed during the hospital attack."
+      "en": "It is far inferior to the weapons smuggled by <tips=31>Elly White</tips>. The parts are poorly machined and often malfunction. Guns of the same kind failed during the hospital attack.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0524",
@@ -3803,7 +4741,13 @@
       "sj": "",
       "se": "",
       "jp": "　この時もそれが起こった。",
-      "en": "It happens again now."
+      "en": "It happens again now.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0525",
@@ -3812,7 +4756,13 @@
       "sj": "",
       "se": "",
       "jp": "　引き金が固く、<tips=55>松子</tips>の力でもビクともしない。動転して二度、三度引いたが同じことだ。",
-      "en": "The trigger is locked solid. Even <tips=55>Matsuko</tips>'s strength cannot move it. Panicking, she pulls a second time, then a third. Nothing."
+      "en": "The trigger is locked solid. Even <tips=55>Matsuko</tips>'s strength cannot move it. Panicking, she pulls a second time, then a third. Nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0526",
@@ -3821,7 +4771,13 @@
       "sj": "",
       "se": "",
       "jp": "　排莢がうまくいかなくて、銃のなかで先ほど撃った弾の薬莢が詰まっている。これではいくら引き金を引こうとしたところで弾は発射されない。",
-      "en": "The previous casing failed to eject and is jammed inside the gun. No matter how many times she pulls the trigger, it will not fire."
+      "en": "The previous casing failed to eject and is jammed inside the gun. No matter how many times she pulls the trigger, it will not fire.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0527",
@@ -3830,7 +4786,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は銃器には疎く、もちろんそんなことは知るよしもない。突然のトラブルに呆然としていると、何か黒いものが視界を覆った。",
-      "en": "<tips=55>Matsuko</tips> knows nothing about firearms. Of course she has no idea what happened. As she stares at the failed weapon, something black fills her vision."
+      "en": "<tips=55>Matsuko</tips> knows nothing about firearms. Of course she has no idea what happened. As she stares at the failed weapon, something black fills her vision.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0531",
@@ -3884,7 +4846,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>の意識は危ういところで繋ぎ止められていた。",
-      "en": "<tips=55>Matsuko</tips> barely holds on to consciousness."
+      "en": "<tips=55>Matsuko</tips> barely holds on to consciousness.",
+      "bg": "assets/vn/backgrounds/bg-7bb251c3af7a.webp"
     },
     {
       "id": "X14:0545",
@@ -4181,7 +5144,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は<tips=20>コシチェイ</tips>を尻目にドアを開けて廊下へ飛び出す。",
-      "en": "<tips=55>Matsuko</tips> leaves <tips=20>Koschei</tips> behind, flings open the door, and bursts into the corridor."
+      "en": "<tips=55>Matsuko</tips> leaves <tips=20>Koschei</tips> behind, flings open the door, and bursts into the corridor.",
+      "bg": "assets/vn/backgrounds/bg-1dcc8adb4995.webp"
     },
     {
       "id": "X14:0594",
@@ -4397,7 +5361,8 @@
       "sj": "",
       "se": "",
       "jp": "　一方部屋に残された<tips=20>コシチェイ</tips>は床の上に蹲り顔を押さえている。",
-      "en": "Meanwhile, <tips=20>Koschei</tips> crouches on the reception-room floor, clutching his face."
+      "en": "Meanwhile, <tips=20>Koschei</tips> crouches on the reception-room floor, clutching his face.",
+      "bg": "assets/vn/backgrounds/bg-d649b33a2aba.webp"
     },
     {
       "id": "X14:0625",
@@ -4559,7 +5524,8 @@
       "sj": "",
       "se": "",
       "jp": "　それを追って廊下に出る。",
-      "en": "He follows them into the corridor."
+      "en": "He follows them into the corridor.",
+      "bg": "assets/vn/backgrounds/bg-f74325abbc5c.webp"
     },
     {
       "id": "X14:0647",
@@ -4694,7 +5660,8 @@
       "sj": "",
       "se": "",
       "jp": "　そこで待ち構えていた<tips=55>松子</tips>が襲い掛かる。",
-      "en": "<tips=55>Matsuko</tips> is waiting. She attacks."
+      "en": "<tips=55>Matsuko</tips> is waiting. She attacks.",
+      "bg": "assets/vn/backgrounds/bg-305dc1f27510.webp"
     },
     {
       "id": "X14:0674",
@@ -4775,7 +5742,8 @@
       "sj": "",
       "se": "",
       "jp": "　エミールが一息つく間も与えず、すぐに飛びかかった。身体ごと包丁を突き出す。しかしその刃はエミールに届かない。",
-      "en": "She gives Emir no time to breathe. She springs again, driving the knife forward with her whole body. The blade never reaches him."
+      "en": "She gives Emir no time to breathe. She springs again, driving the knife forward with her whole body. The blade never reaches him.",
+      "bg": "assets/vn/backgrounds/bg-7bb251c3af7a.webp"
     },
     {
       "id": "X14:0690",
@@ -4928,7 +5896,8 @@
       "sj": "",
       "se": "",
       "jp": "　それから三十分後。部屋は完全に静寂を取り戻し、タナベがおそるおそる戻ってくる。",
-      "en": "Thirty minutes later, the room is silent again. Tanabe creeps back inside."
+      "en": "Thirty minutes later, the room is silent again. Tanabe creeps back inside.",
+      "bg": "assets/vn/backgrounds/bg-305dc1f27510.webp"
     },
     {
       "id": "X14:0725",
@@ -5000,7 +5969,13 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「何もする気はないわ」",
-      "en": "“We aren't going to hurt you.”"
+      "en": "“We aren't going to hurt you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X14:0734",
@@ -5009,7 +5984,17 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「その死体を見せて」",
-      "en": "“Let us see the body.”"
+      "en": "“Let us see the body.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0735",
@@ -5018,7 +6003,17 @@
       "sj": "",
       "se": "",
       "jp": "　二人は交互にそう言った。",
-      "en": "They speak in turn."
+      "en": "They speak in turn.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0736",
@@ -5027,7 +6022,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女たちは張り詰めた表情をしているが、敵意は感じられない。タナベはその静かな口調に促されて、彼女たちのために道を空けた。",
-      "en": "Their faces are tense, but Tanabe senses no hostility. Their quiet voices make her step aside."
+      "en": "Their faces are tense, but Tanabe senses no hostility. Their quiet voices make her step aside.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0737",
@@ -5036,7 +6041,17 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「ありがとう」",
-      "en": "“Thank you.”"
+      "en": "“Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0738",
@@ -5045,7 +6060,17 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「ありがとう」",
-      "en": "“Thank you.”"
+      "en": "“Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0739",
@@ -5054,7 +6079,17 @@
       "sj": "",
       "se": "",
       "jp": "　二人は軽く頭を下げると、<tips=55>松子</tips>に近づく。",
-      "en": "They bow lightly and approach <tips=55>Matsuko</tips>."
+      "en": "They bow lightly and approach <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0740",
@@ -5063,7 +6098,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして二人は両腕が折れ、顔は腫れ上がり、身体のあちこちはガラスが突き刺さって血みどろになり、下半身の衣服は脱がされている無惨なその遺体を見た。",
-      "en": "They see the ruined body: both arms broken, face swollen, glass buried throughout blood-soaked flesh, lower half stripped bare."
+      "en": "They see the ruined body: both arms broken, face swollen, glass buried throughout blood-soaked flesh, lower half stripped bare.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0741",
@@ -5072,7 +6117,17 @@
       "sj": "",
       "se": "",
       "jp": "　手を伸ばし、その首のあたりに触れる。",
-      "en": "They reach out and touch her neck."
+      "en": "They reach out and touch her neck.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-dbd564f6467a.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0742",
@@ -5081,7 +6136,17 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「冷たいね」",
-      "en": "“She’s cold.”"
+      "en": "“She’s cold.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-e2cf788c201e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0743",
@@ -5090,7 +6155,17 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「冷たい」",
-      "en": "“Cold.”"
+      "en": "“Cold.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0744",
@@ -5099,7 +6174,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=86>双子</tips>は小さな声で囁きあう。",
-      "en": "The <tips=86>twins</tips> whisper to each other."
+      "en": "The <tips=86>twins</tips> whisper to each other.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0745",
@@ -5108,7 +6193,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして、二人の目からは同時に大粒の涙がぽろぽろと落ち、彼女たちはそれを袖で拭った。",
-      "en": "Large tears fall from both pairs of eyes at once. They wipe them away with their sleeves."
+      "en": "Large tears fall from both pairs of eyes at once. They wipe them away with their sleeves.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0746",
@@ -5117,7 +6212,17 @@
       "sj": "",
       "se": "",
       "jp": "「あなたたち、なんなの？」",
-      "en": "“Who are you?”"
+      "en": "“Who are you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0747",
@@ -5126,7 +6231,17 @@
       "sj": "",
       "se": "",
       "jp": "　タナベはまだバットを構えたまま二人にそう尋ねる。",
-      "en": "Tanabe asks without lowering the bat."
+      "en": "Tanabe asks without lowering the bat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0748",
@@ -5135,7 +6250,17 @@
       "sj": "",
       "se": "",
       "jp": "　二人はゆっくりとタナベを振り返った。",
-      "en": "They slowly turn toward her."
+      "en": "They slowly turn toward her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0749",
@@ -5144,7 +6269,17 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「私たちは何者でもないわ」",
-      "en": "“We aren't anyone.”"
+      "en": "“We aren't anyone.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-794784954a64.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0750",
@@ -5153,7 +6288,17 @@
       "sj": "",
       "se": "",
       "jp": "　一人がそう言い、",
-      "en": "One of them speaks."
+      "en": "One of them speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-794784954a64.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-7fb73fc7fe24.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0751",
@@ -5162,7 +6307,17 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「この子とは友だちだったの」",
-      "en": "“We were friends with this girl.”"
+      "en": "“We were friends with this girl.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-794784954a64.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0aa5877d139b.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X14:0752",
@@ -5171,7 +6326,17 @@
       "sj": "",
       "se": "",
       "jp": "　もう一人がそう言った。",
-      "en": "The other finishes."
+      "en": "The other finishes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-794784954a64.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0aa5877d139b.webp",
+          "s": "l"
+        }
+      ]
     }
   ]
 }

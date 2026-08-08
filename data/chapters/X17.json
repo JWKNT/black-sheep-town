@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>のメインストリートである<tips=57>滑走路通り</tips>を歩くと、シャッターを下ろしている店が目に付く。",
-      "en": "In <tips=9>Y District</tips>, walk down the main artery of <tips=57>Runway Street</tips> and the shuttered storefronts are impossible to miss."
+      "en": "In <tips=9>Y District</tips>, walk down the main artery of <tips=57>Runway Street</tips> and the shuttered storefronts are impossible to miss.",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "X17:0008",
@@ -851,7 +852,8 @@
       "sj": "",
       "se": "",
       "jp": "　顎をあげてそちらを見ると、この街特有の雲で覆われた真っ暗な夜空を背景に、女が浮かんでいる。",
-      "en": "I tip back my head. A woman floats against the lightless sky and the blanket of clouds peculiar to this City."
+      "en": "I tip back my head. A woman floats against the lightless sky and the blanket of clouds peculiar to this City.",
+      "bg": "assets/vn/backgrounds/bg-30556cac1544.webp"
     },
     {
       "id": "X17:0117",
@@ -1211,7 +1213,8 @@
       "sj": "",
       "se": "",
       "jp": "　そして私はさっきまで飲んでいた店に<tips=51>サクラ</tips>を連れて戻り、彼女から話を聞き出した。",
-      "en": "I take <tips=51>Sakura</tips> back to the bar I just left and get the story from her."
+      "en": "I take <tips=51>Sakura</tips> back to the bar I just left and get the story from her.",
+      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp"
     },
     {
       "id": "X17:0174",
@@ -1247,7 +1250,13 @@
       "sj": "熨田さくら10年後",
       "se": "Sakura Noshida",
       "jp": "「警察が<tips=31>エリー</tips>さんのことを知りたがっているのか？」",
-      "en": "“Are the police looking for information on <tips=31>Elly</tips>?”"
+      "en": "“Are the police looking for information on <tips=31>Elly</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0178",
@@ -1256,7 +1265,13 @@
       "sj": "",
       "se": "",
       "jp": "「警察は関係ない。これはおれの趣味だ」",
-      "en": "“The police have nothing to do with this. Call it a hobby.”"
+      "en": "“The police have nothing to do with this. Call it a hobby.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0179",
@@ -1265,7 +1280,13 @@
       "sj": "熨田さくら10年後",
       "se": "Sakura Noshida",
       "jp": "「趣味のために、あんたはその特別なサイキック能力で調査した結果を<tips=7>ＹＳ</tips>の人間である私に流してくれるというのか？　私にとっては組織を離れた人間の情報を渡すことはなんでもないが、あんたにとって割の良い交換条件だとは思えないな」",
-      "en": "“For a hobby, you're willing to hand someone from <tips=7>YS</tips> the results of an investigation done with that special power of yours? It costs me nothing to talk about someone who already left. I don't see what you get out of the trade.”"
+      "en": "“For a hobby, you're willing to hand someone from <tips=7>YS</tips> the results of an investigation done with that special power of yours? It costs me nothing to talk about someone who already left. I don't see what you get out of the trade.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0180",
@@ -1274,7 +1295,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>サクラ</tips>は疑いの視線を私に向ける。",
-      "en": "<tips=51>Sakura</tips> gives me a suspicious look."
+      "en": "<tips=51>Sakura</tips> gives me a suspicious look.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0181",
@@ -1283,7 +1310,13 @@
       "sj": "",
       "se": "",
       "jp": "「ただ知りたいだけだよ。損得じゃない。割の良いことを選ぶだけじゃ人生はつまらなすぎる。……そう思わないか？」",
-      "en": "“I want to know. That's all. Profit has nothing to do with it. A life spent making only the sensible trades would be unbearably dull. ...Don't you think?”"
+      "en": "“I want to know. That's all. Profit has nothing to do with it. A life spent making only the sensible trades would be unbearably dull. ...Don't you think?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0182",
@@ -1292,7 +1325,13 @@
       "sj": "熨田さくら10年後",
       "se": "Sakura Noshida",
       "jp": "「あんたは信用出来ない。だが、その言葉は嫌いじゃない」",
-      "en": "“I don't trust you. I don't hate what you just said.”"
+      "en": "“I don't trust you. I don't hate what you just said.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0183",
@@ -1301,7 +1340,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>が今どこで何をしているかまでは<tips=51>サクラ</tips>でも知らなかった。だが、<tips=7>ＹＳ</tips>を離れるまでの経緯は知っていた。",
-      "en": "Where <tips=31>Elly</tips> was now or what she was doing, even <tips=51>Sakura</tips> did not know. She did know what had led her to leave <tips=7>YS</tips>."
+      "en": "Where <tips=31>Elly</tips> was now or what she was doing, even <tips=51>Sakura</tips> did not know. She did know what had led her to leave <tips=7>YS</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30494e9653cb.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0185",
@@ -1436,7 +1481,13 @@
       "sj": "熨田さくら10年後",
       "se": "Sakura Noshida",
       "jp": "「いやそれは……わかりません」",
-      "en": "“I... don't know.”"
+      "en": "“I... don't know.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0200",
@@ -1445,7 +1496,13 @@
       "sj": "",
       "se": "",
       "jp": "　いつの間にか酒を注文していた<tips=51>サクラ</tips>は、頬を赤く染めていた。",
-      "en": "At some point, <tips=51>Sakura</tips> has ordered a drink. Her cheeks are flushed."
+      "en": "At some point, <tips=51>Sakura</tips> has ordered a drink. Her cheeks are flushed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0201",
@@ -1454,7 +1511,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうしてそう思う？」",
-      "en": "“Then why do you think she stayed?”"
+      "en": "“Then why do you think she stayed?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0202",
@@ -1463,7 +1526,13 @@
       "sj": "熨田さくら10年後",
       "se": "Sakura Noshida",
       "jp": "「あの人はきっと、この街が好きだと思うから……」",
-      "en": "“Because... I think she really loves this City.”"
+      "en": "“Because... I think she really loves this City.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0203",
@@ -1472,7 +1541,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>サクラ</tips>はそう言ったが、この言葉には特別根拠があるようではなさそうだった。",
-      "en": "<tips=51>Sakura</tips> offers no particular evidence for the belief."
+      "en": "<tips=51>Sakura</tips> offers no particular evidence for the belief.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0204",
@@ -1481,7 +1556,13 @@
       "sj": "",
       "se": "",
       "jp": "　それから私たちは情報交換をし、そしていつしか昔の<tips=9>Y地区</tips>の話になった。",
-      "en": "We trade information for a while, and before long find ourselves talking about the old <tips=9>Y District</tips>."
+      "en": "We trade information for a while, and before long find ourselves talking about the old <tips=9>Y District</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0205",
@@ -1490,7 +1571,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は<tips=3>クリス・ツェー</tips>が<tips=18>ローズ・クラブ</tips>と争っていた時代の思い出話をした。<tips=51>サクラ</tips>は<tips=1>謝亮</tips>の妹<tips=44>謝筱喬</tips>と親しかったらしく、彼女のことや、兄としての<tips=1>謝亮</tips>のことを話した。そして裏切り者の<tips=25>馬世傑</tips>を激しく罵っていた。",
-      "en": "I tell her stories from the days when <tips=3>Chris Xie</tips> fought the <tips=18>Rose Club</tips>. <tips=51>Sakura</tips>, apparently a close friend of <tips=1>Xie Liang</tips>'s sister <tips=44>Xie Xiaoqiao</tips>, tells me about Xiaoqiao and the kind of older brother <tips=1>Xie Liang</tips> was. She also curses the traitor <tips=25>Ma Saiki</tips> with real venom."
+      "en": "I tell her stories from the days when <tips=3>Chris Xie</tips> fought the <tips=18>Rose Club</tips>. <tips=51>Sakura</tips>, apparently a close friend of <tips=1>Xie Liang</tips>'s sister <tips=44>Xie Xiaoqiao</tips>, tells me about Xiaoqiao and the kind of older brother <tips=1>Xie Liang</tips> was. She also curses the traitor <tips=25>Ma Saiki</tips> with real venom.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0206",
@@ -1499,7 +1586,13 @@
       "sj": "",
       "se": "",
       "jp": "　話題はやがて<tips=20>コシチェイ</tips>の話になり、彼女は<tips=20>コシチェイ</tips>に足を奪われたと義足を叩いて笑い、私は<tips=20>コシチェイ</tips>に殺された恋人と、犬の頭をした刑事の話をした。",
-      "en": "Eventually we come to <tips=20>Koschei</tips>. She knocks on her prosthetic leg and laughs that <tips=20>Koschei</tips> took the original. I tell her about the lover <tips=20>Koschei</tips> killed and the detective with a dog's head."
+      "en": "Eventually we come to <tips=20>Koschei</tips>. She knocks on her prosthetic leg and laughs that <tips=20>Koschei</tips> took the original. I tell her about the lover <tips=20>Koschei</tips> killed and the detective with a dog's head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0207",
@@ -1508,7 +1601,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>サクラ</tips>は私の知らないことを知っており、私とは違う感じ方をしていた。同じ時代、こんなに近い場所にいながら、それぞれの立場で見えているものが違う。感じているものも違う。当たり前のことだがそれが面白く、そして既に遠い過去の出来事になったせいか全てが愛おしく思えた。",
-      "en": "<tips=51>Sakura</tips> knows things I don't and feels things differently. We lived through the same age, so near to one another, yet our positions showed us different worlds. Obvious as that is, I find it fascinating. Perhaps because it has all receded into history, every part of it now seems precious."
+      "en": "<tips=51>Sakura</tips> knows things I don't and feels things differently. We lived through the same age, so near to one another, yet our positions showed us different worlds. Obvious as that is, I find it fascinating. Perhaps because it has all receded into history, every part of it now seems precious.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0208",
@@ -1517,7 +1616,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、このまま誰もが記録に残さなければ、この愛おしい全ては忘れ去られてしまうだろう。",
-      "en": "If no one sets it down, however, every precious part will be forgotten."
+      "en": "If no one sets it down, however, every precious part will be forgotten.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-190adfb7cf35.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0216",
@@ -1580,7 +1685,8 @@
       "sj": "",
       "se": "",
       "jp": "　はじめの予定では、この稿は<tips=1>謝亮</tips>と殺人鬼<tips=20>コシチェイ</tips>の因縁を中心に据えた物語にする予定だった。しかし、調べてゆくうちに<tips=86>灰上姉妹</tips>と<tips=20>コシチェイ</tips>の関係が気になり、<tips=10>見土道夫</tips>や<tips=5>太刀川</tips>医師のことも書きたくなり、思いのまま筆を進めてゆくうちになんだか焦点のぼやけたものになってしまったかもしれない。",
-      "en": "At first, I meant to center this account on the fateful bond between <tips=1>Xie Liang</tips> and the murderer <tips=20>Koschei</tips>. As I investigated, the relationship between the <tips=86>Haigami sisters</tips> and <tips=20>Koschei</tips> began to fascinate me. Then I wanted to write about <tips=10>Michio Mido</tips> and Dr. <tips=5>Tachikawa</tips> as well. I followed my interests wherever they led, and may have produced a story without a clear center."
+      "en": "At first, I meant to center this account on the fateful bond between <tips=1>Xie Liang</tips> and the murderer <tips=20>Koschei</tips>. As I investigated, the relationship between the <tips=86>Haigami sisters</tips> and <tips=20>Koschei</tips> began to fascinate me. Then I wanted to write about <tips=10>Michio Mido</tips> and Dr. <tips=5>Tachikawa</tips> as well. I followed my interests wherever they led, and may have produced a story without a clear center.",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "X17:0229",
@@ -1805,7 +1911,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どうも」",
-      "en": "“Hello.”"
+      "en": "“Hello.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0255",
@@ -1814,7 +1926,13 @@
       "sj": "",
       "se": "",
       "jp": "　と私が軽く挨拶をすると、相手は深々と頭を下げ、",
-      "en": "I offer a casual greeting. She bows deeply."
+      "en": "I offer a casual greeting. She bows deeply.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0256",
@@ -1823,7 +1941,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「お久しぶりです。<tips=50>路地</tips>さん」",
-      "en": "“It's been a long time, <tips=50>Roji</tips>.”"
+      "en": "“It's been a long time, <tips=50>Roji</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0257",
@@ -1832,7 +1956,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう笑ったのは、かつて<tips=55>汐松子</tips>と呼ばれていた人物であった。",
-      "en": "The woman smiling at me was once known as <tips=55>Matsuko Shio</tips>."
+      "en": "The woman smiling at me was once known as <tips=55>Matsuko Shio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0258",
@@ -1841,7 +1971,13 @@
       "sj": "",
       "se": "",
       "jp": "「ボディーガードは連れてこなくていいのかい？」",
-      "en": "“Sure you don't need your bodyguard?”"
+      "en": "“Sure you don't need your bodyguard?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0259",
@@ -1850,7 +1986,13 @@
       "sj": "",
       "se": "",
       "jp": "　車に残されたままでいる彼女の連れを振り返りながら私はそう尋ねた。",
-      "en": "I glance back toward the companion still waiting in the car."
+      "en": "I glance back toward the companion still waiting in the car.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0260",
@@ -1859,7 +2001,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「いいんです。……私たちにボディーガードは必要ありますか？」",
-      "en": "“It's all right. ...Do people like us really need bodyguards?”"
+      "en": "“It's all right. ...Do people like us really need bodyguards?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0261",
@@ -1868,7 +2016,13 @@
       "sj": "",
       "se": "",
       "jp": "　並んで歩く彼女は、そう言って少し笑った。",
-      "en": "She falls into step beside me with a small laugh."
+      "en": "She falls into step beside me with a small laugh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0262",
@@ -1877,7 +2031,13 @@
       "sj": "",
       "se": "",
       "jp": "「過信しちゃいけないよ。私たちだって無敵というわけじゃない」",
-      "en": "“Don't get overconfident. We aren't invincible either.”"
+      "en": "“Don't get overconfident. We aren't invincible either.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0263",
@@ -1886,7 +2046,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうですけど。大丈夫ですよ。フフ……」",
-      "en": "“I know. But we'll be fine. Hee hee...”"
+      "en": "“I know. But we'll be fine. Hee hee...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0264",
@@ -1895,7 +2061,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は何が楽しいのか弾む声で言う。",
-      "en": "There is a bounce in her voice, though I cannot tell what she finds so amusing."
+      "en": "There is a bounce in her voice, though I cannot tell what she finds so amusing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0265",
@@ -1904,7 +2076,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「でも、<tips=50>路地</tips>さんは本当にその格好なんですね。聞いてはいましたが、実際に見ると、なんというか、すごく不思議な気分です。……今日これから会う人のために、用意したんですか？」",
-      "en": "“You really do dress like that, <tips=50>Roji</tips>. I'd heard, but seeing it in person feels... very strange. Did you put it on for the person we're meeting today?”"
+      "en": "“You really do dress like that, <tips=50>Roji</tips>. I'd heard, but seeing it in person feels... very strange. Did you put it on for the person we're meeting today?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0266",
@@ -1913,7 +2091,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は私の服装を上から下まで眺めてから言った。",
-      "en": "<tips=55>Matsuko</tips> looks me over from head to toe."
+      "en": "<tips=55>Matsuko</tips> looks me over from head to toe.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0267",
@@ -1922,7 +2106,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、今日が特別ってわけじゃない。この街の調査をはじめてからずっとこれを着ている。この格好でいると、こんな私でも、自分以外のもののために行動出来るような気がしてね。けっして、感傷のつもりではないんだ。……いや、感傷なのかな」",
-      "en": "“Today isn't special. I've dressed this way since I began investigating the City. In these clothes, even I feel capable of doing something for someone other than myself. It isn't sentimentality. ...Or perhaps it is.”"
+      "en": "“Today isn't special. I've dressed this way since I began investigating the City. In these clothes, even I feel capable of doing something for someone other than myself. It isn't sentimentality. ...Or perhaps it is.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0268",
@@ -1931,7 +2121,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どちらにしても、いいことだと思います」",
-      "en": "“Whichever it is, I think it's good.”"
+      "en": "“Whichever it is, I think it's good.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0269",
@@ -1940,7 +2136,13 @@
       "sj": "",
       "se": "",
       "jp": "　私に不死の血を分け与えた彼女はそう笑った。",
-      "en": "The woman who gave me her immortal blood smiles."
+      "en": "The woman who gave me her immortal blood smiles.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0270",
@@ -1949,7 +2151,13 @@
       "sj": "",
       "se": "",
       "jp": "　その笑顔は、もう十年も経つのにあの時とまったくかわらない。比喩ではなく、年をとっていないのだ。",
-      "en": "Ten years have passed, yet the smile is exactly the same. Not figuratively. She has not aged."
+      "en": "Ten years have passed, yet the smile is exactly the same. Not figuratively. She has not aged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0271",
@@ -1958,7 +2166,13 @@
       "sj": "",
       "se": "",
       "jp": "　不死の者特有の、老化の遅さだとか、そういった話ではない。むしろ若くなっているのではないだろうか？",
-      "en": "This goes beyond the slow aging common to immortals. If anything, she looks younger."
+      "en": "This goes beyond the slow aging common to immortals. If anything, she looks younger.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0272",
@@ -1967,7 +2181,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は今、義理の父である<tips=54>汐健慈朗</tips>の事業を引継いで、経営者となっている。表向きには死んだことになっている『<tips=55>汐松子</tips>』とは別人ということになっていて、名前も違う。",
-      "en": "She now runs the business she inherited from her adoptive father, <tips=54>Kenjirou Shio</tips>. Officially, she is a different woman from the deceased “<tips=55>Matsuko Shio</tips>,” with a different name."
+      "en": "She now runs the business she inherited from her adoptive father, <tips=54>Kenjirou Shio</tips>. Officially, she is a different woman from the deceased “<tips=55>Matsuko Shio</tips>,” with a different name.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0273",
@@ -1976,7 +2196,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「妹ってことになってるんですよ。バカみたいでしょう？」",
-      "en": "“I'm supposed to be her little sister. Silly, isn't it?”"
+      "en": "“I'm supposed to be her little sister. Silly, isn't it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0274",
@@ -1985,7 +2211,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>はそう言って笑った。",
-      "en": "<tips=55>Matsuko</tips> laughs."
+      "en": "<tips=55>Matsuko</tips> laughs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0275",
@@ -1994,7 +2226,13 @@
       "sj": "",
       "se": "",
       "jp": "　十年前、あの無惨な死体となっていた光景がまだ焼き付いている私からすると、同じ顔がこんなふうに元気そうに笑っているのは不思議な気分だった。",
-      "en": "I still have the sight of her mutilated corpse burned into my memory. Seeing the same face laugh with such life unsettles me."
+      "en": "I still have the sight of her mutilated corpse burned into my memory. Seeing the same face laugh with such life unsettles me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0276",
@@ -2003,7 +2241,13 @@
       "sj": "",
       "se": "",
       "jp": "　あの夜地下室で<tips=1>謝亮</tips>が<tips=12>灰上江梨子</tips>から受け取った小指が、<tips=54>汐健慈朗</tips>の実験室で再生されて、これほど完全な形で蘇るとは。",
-      "en": "Who could have imagined that the little finger <tips=1>Xie Liang</tips> received from <tips=12>Eriko Haigami</tips> in that basement would regenerate in <tips=54>Kenjirou Shio</tips>'s laboratory and restore her so completely?"
+      "en": "Who could have imagined that the little finger <tips=1>Xie Liang</tips> received from <tips=12>Eriko Haigami</tips> in that basement would regenerate in <tips=54>Kenjirou Shio</tips>'s laboratory and restore her so completely?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0277",
@@ -2012,7 +2256,13 @@
       "sj": "",
       "se": "",
       "jp": "　当時はもちろんそんな事情は全く知らなかったが、数々の取材を終えた今、私はほぼ全ての真相を知っている。",
-      "en": "I knew none of that at the time. After all my interviews, I now know almost the whole truth."
+      "en": "I knew none of that at the time. After all my interviews, I now know almost the whole truth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0278",
@@ -2021,7 +2271,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「<tips=50>路地</tips>さんのことも、<tips=5>太刀川</tips>先生のことも、良く知ってますよ」",
-      "en": "“I know all about you, <tips=50>Roji</tips>. And Dr. <tips=5>Tachikawa</tips> too.”"
+      "en": "“I know all about you, <tips=50>Roji</tips>. And Dr. <tips=5>Tachikawa</tips> too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0279",
@@ -2030,7 +2286,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>謝亮</tips>は<tips=54>健慈朗</tips>に彼女の小指を渡すとき、『<tips=55>汐松子</tips>』時代の記憶を与えず、まったくの別人として育てるよう指示したと聞いているが、<tips=54>汐</tips>はその約束を守らなかったようである。",
-      "en": "When <tips=1>Xie Liang</tips> gave the finger to <tips=54>Kenjirou</tips>, he reportedly ordered him to raise her as a new person, without any memories of “<tips=55>Matsuko Shio</tips>.” <tips=54>Shio</tips> seems not to have kept that promise."
+      "en": "When <tips=1>Xie Liang</tips> gave the finger to <tips=54>Kenjirou</tips>, he reportedly ordered him to raise her as a new person, without any memories of “<tips=55>Matsuko Shio</tips>.” <tips=54>Shio</tips> seems not to have kept that promise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0280",
@@ -2039,7 +2301,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「でも、父にしても、仕方なかったんですよ」",
-      "en": "“But Father didn't have much choice.”"
+      "en": "“But Father didn't have much choice.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0281",
@@ -2048,7 +2316,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はそう言って、生物学的には何の繋がりもない父を擁護した。",
-      "en": "She defends the man she calls father, though they share no blood."
+      "en": "She defends the man she calls father, though they share no blood.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0282",
@@ -2057,7 +2331,13 @@
       "sj": "",
       "se": "",
       "jp": "　再生された<tips=55>松子</tips>は、おぼろげながら以前の記憶を引き継いでいた。それはあまりにも断片的で、自分でもただの夢なのか、本当のことなのかもわからないようなものだった。",
-      "en": "The regenerated <tips=55>Matsuko</tips> retained dim fragments of her earlier life. They were so faint that even she could not tell whether they were memories or dreams."
+      "en": "The regenerated <tips=55>Matsuko</tips> retained dim fragments of her earlier life. They were so faint that even she could not tell whether they were memories or dreams.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0283",
@@ -2066,7 +2346,13 @@
       "sj": "",
       "se": "",
       "jp": "　その記憶は彼女の感情をかき乱し、不安定にした。それを見守る<tips=54>健慈朗</tips>は、事実を伝えないわけにはいかなかったのだと言う。そしていくつかの事実を与えると、記憶は少しずつ鮮明になり、最終的にはほとんど元通りになった。",
-      "en": "They left her frightened and unstable. <tips=54>Kenjirou</tips>, watching over her, decided he could not hide the truth. As he supplied pieces of it, the memories grew clearer, until almost all of them returned."
+      "en": "They left her frightened and unstable. <tips=54>Kenjirou</tips>, watching over her, decided he could not hide the truth. As he supplied pieces of it, the memories grew clearer, until almost all of them returned.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0284",
@@ -2075,7 +2361,13 @@
       "sj": "",
       "se": "",
       "jp": "　とすると、脳ってのは物事を記憶する場所ではないってことか？　それとも、彼女の特殊な血にはサイキックの能力に似た別の仕組みがあるのか。あるいは、あとから学習しただけのことを、自分の本当の記憶と思い込んでいるのか。",
-      "en": "Does that mean memory does not reside in the brain? Does her unusual blood carry some other mechanism resembling psychic power? Or did she simply learn the story afterward and come to mistake it for memory?"
+      "en": "Does that mean memory does not reside in the brain? Does her unusual blood carry some other mechanism resembling psychic power? Or did she simply learn the story afterward and come to mistake it for memory?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0285",
@@ -2084,7 +2376,13 @@
       "sj": "",
       "se": "",
       "jp": "　――何にしろ、ここにいるのは<tips=55>汐松子</tips>だということには変わりない。",
-      "en": "—Whatever the answer, the woman beside me is <tips=55>Matsuko Shio</tips>."
+      "en": "—Whatever the answer, the woman beside me is <tips=55>Matsuko Shio</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0286",
@@ -2093,7 +2391,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どれだけ、<tips=1>亮</tips>さんに会いたかったことか……」",
-      "en": "“I wanted to see <tips=1>Ryou</tips> so badly...”"
+      "en": "“I wanted to see <tips=1>Ryou</tips> so badly...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0287",
@@ -2102,7 +2406,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は寂しげに唇を噛む。",
-      "en": "<tips=55>Matsuko</tips> bites her lip, her expression lonely."
+      "en": "<tips=55>Matsuko</tips> bites her lip, her expression lonely.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0288",
@@ -2111,7 +2421,13 @@
       "sj": "",
       "se": "",
       "jp": "　記憶を取り戻したとは言え、かつての恋人に会うことも、連絡をすることも出来なかった。",
-      "en": "Even after her memories returned, she could neither contact her former lover nor see him."
+      "en": "Even after her memories returned, she could neither contact her former lover nor see him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0289",
@@ -2120,7 +2436,13 @@
       "sj": "",
       "se": "",
       "jp": "　少なくとも、その切ない感情は本物には違いない。",
-      "en": "At the very least, that aching longing is real."
+      "en": "At the very least, that aching longing is real.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0290",
@@ -2129,7 +2451,13 @@
       "sj": "",
       "se": "",
       "jp": "　汐家の地下室で再生された彼女はごく幼いうちに<tips=9>Y地区</tips>から連れ出され、過去の彼女を知る者がいない場所でごく当たり前の生活をしている。――言い忘れたが、今ではもう<tips=17>タイプB</tips>はかつてのように差別を受ける対象ではなくなりつつあった。",
-      "en": "After regenerating in the Shio basement, she was taken out of <tips=9>Y District</tips> while still very young and raised in an ordinary life among people who knew nothing of her past. I should add that <tips=17>Type B</tips> people are no longer treated with the prejudice they once faced."
+      "en": "After regenerating in the Shio basement, she was taken out of <tips=9>Y District</tips> while still very young and raised in an ordinary life among people who knew nothing of her past. I should add that <tips=17>Type B</tips> people are no longer treated with the prejudice they once faced.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0291",
@@ -2138,7 +2466,13 @@
       "sj": "",
       "se": "",
       "jp": "　八年ほど前に、以前『<tips=45>ローズ</tips>』がそうであったように、『<tips=46>ネオ・ローズ</tips>』のレシピが何者かによってネット上に流された。おそらく<tips=7>ＹＳ</tips>内部の誰かの差し金だろうが、事実は未だ明らかになっていない。",
-      "en": "About eight years ago, just as had once happened with “<tips=45>Rose</tips>,” someone leaked the formula for “<tips=46>Neo-Rose</tips>” online. The order probably came from inside <tips=7>YS</tips>, though the truth has never emerged."
+      "en": "About eight years ago, just as had once happened with “<tips=45>Rose</tips>,” someone leaked the formula for “<tips=46>Neo-Rose</tips>” online. The order probably came from inside <tips=7>YS</tips>, though the truth has never emerged.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0292",
@@ -2147,7 +2481,13 @@
       "sj": "",
       "se": "",
       "jp": "　この驚くべき特効薬の製法が全ての人々に公開されると、<tips=17>タイプB</tips>治療に革命が起きた。『<tips=46>ネオ・ローズ</tips>』も触れ込みほどに完璧な薬というわけではなく、問題の多い薬品であったが、その薬を研究することで、さまざまな種類の薬が生まれ、今では症状にあわせて適切な薬を投与すれば、ノーマルとほとんど変わらずに生活が出来るようになっている。",
-      "en": "Once the formula for that extraordinary treatment became public, <tips=17>Type B</tips> medicine changed overnight. “<tips=46>Neo-Rose</tips>” was never the perfect cure its makers advertised, and it brought problems of its own. Research into it nevertheless produced many new drugs. With medication tailored to their symptoms, patients can now live much as Normals do."
+      "en": "Once the formula for that extraordinary treatment became public, <tips=17>Type B</tips> medicine changed overnight. “<tips=46>Neo-Rose</tips>” was never the perfect cure its makers advertised, and it brought problems of its own. Research into it nevertheless produced many new drugs. With medication tailored to their symptoms, patients can now live much as Normals do.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0293",
@@ -2156,7 +2496,13 @@
       "sj": "",
       "se": "",
       "jp": "　ただその場合でも<tips=95>金眼現象</tips>だけは残るため、<tips=17>タイプＢ</tips>であることを完全に隠すことは出来ない。",
-      "en": "The <tips=95>Golden-Eye Phenomenon</tips> remains, however, so no <tips=17>Type B</tips> person can completely hide what they are."
+      "en": "The <tips=95>Golden-Eye Phenomenon</tips> remains, however, so no <tips=17>Type B</tips> person can completely hide what they are.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0294",
@@ -2165,7 +2511,13 @@
       "sj": "",
       "se": "",
       "jp": "　これは、私や<tips=55>松子</tips>にとっては都合が良かった。",
-      "en": "That suited both me and <tips=55>Matsuko</tips>."
+      "en": "That suited both me and <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0295",
@@ -2174,7 +2526,13 @@
       "sj": "",
       "se": "",
       "jp": "　私たち<tips=97>特殊なタイプＢ</tips>は<tips=78>金色の目</tips>を消すことが出来ない。もし<tips=46>ネオ・ローズ</tips>による治療で、一般的な<tips=17>タイプＢ</tips>の<tips=95>金眼現象</tips>が消失するのだったら、私たちばかりが目立ってしまうだろう。",
-      "en": "We <tips=97>Special Type B people</tips> cannot extinguish our <tips=78>golden eyes</tips>. If <tips=46>Neo-Rose</tips> treatment erased the ordinary <tips=17>Type B</tips> <tips=95>Golden-Eye Phenomenon</tips>, people like us would stand out at once."
+      "en": "We <tips=97>Special Type B people</tips> cannot extinguish our <tips=78>golden eyes</tips>. If <tips=46>Neo-Rose</tips> treatment erased the ordinary <tips=17>Type B</tips> <tips=95>Golden-Eye Phenomenon</tips>, people like us would stand out at once.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0296",
@@ -2183,7 +2541,13 @@
       "sj": "",
       "se": "",
       "jp": "　とにかく、こういった環境の変化があったため、<tips=55>松子</tips>は<tips=95>金眼</tips>を隠すことなく普通に友だちを作り、普通に授業を受け、何の変哲もない平和な人生を送ることが出来たのである。",
-      "en": "Because the world had changed, <tips=55>Matsuko</tips> could make ordinary friends without hiding her <tips=95>golden eyes</tips>, attend ordinary classes, and live an uneventful, peaceful life."
+      "en": "Because the world had changed, <tips=55>Matsuko</tips> could make ordinary friends without hiding her <tips=95>golden eyes</tips>, attend ordinary classes, and live an uneventful, peaceful life.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0297",
@@ -2192,7 +2556,13 @@
       "sj": "",
       "se": "",
       "jp": "　この平和な生活こそ<tips=1>謝亮</tips>の望みであり、<tips=54>健慈朗</tips>も同じ気持ちであることを<tips=55>松子</tips>は知っている。だから、<tips=9>Y地区</tips>で<tips=81>龍頭</tips>として活躍する<tips=1>謝亮</tips>と連絡をとれなかった。",
-      "en": "That peaceful life was what <tips=1>Xie Liang</tips> wanted for her, and what <tips=54>Kenjirou</tips> wanted too. <tips=55>Matsuko</tips> knew it. That was why she could not contact him in <tips=9>Y District</tips>, where he lived as <tips=81>Longtou</tips>, as <tips=1>Xie Liang</tips>."
+      "en": "That peaceful life was what <tips=1>Xie Liang</tips> wanted for her, and what <tips=54>Kenjirou</tips> wanted too. <tips=55>Matsuko</tips> knew it. That was why she could not contact him in <tips=9>Y District</tips>, where he lived as <tips=81>Longtou</tips>, as <tips=1>Xie Liang</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0298",
@@ -2201,7 +2571,13 @@
       "sj": "",
       "se": "",
       "jp": "　もし彼と接点を持てば、彼女の平和な生活は間違いなく変化してしまうだろう。あるいは、<tips=1>謝亮</tips>に迷惑をかけてしまうかもしれない。もし彼が望むなら、向こうから連絡をしてくるはずだ。彼は自分が<tips=54>健慈朗</tips>のところにいるのを知っているはずなのだから。彼から何か来るのを待つしかないのだと、<tips=55>松子</tips>は考えた。",
-      "en": "Any contact with him would change her peaceful life and might burden <tips=1>Xie Liang</tips> as well. If he wanted her, he would reach out. He must know she was with <tips=54>Kenjirou</tips>. <tips=55>Matsuko</tips> decided she had no choice but to wait."
+      "en": "Any contact with him would change her peaceful life and might burden <tips=1>Xie Liang</tips> as well. If he wanted her, he would reach out. He must know she was with <tips=54>Kenjirou</tips>. <tips=55>Matsuko</tips> decided she had no choice but to wait.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0299",
@@ -2210,7 +2586,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうして、これが<tips=1>謝亮</tips>のためなのだと自分に言いきかせながら生活をしていた。しかし、欲求を完全に殺してしまうことは出来ない。<tips=9>Y地区</tips>で<tips=7>ＹＳ</tips>がらみの事件があればニュースになることもあり、そんなときは<tips=55>松子</tips>もパソコンにかじりついてその詳細に目を通した。しかし、そのほとんどは都合良く歪められていたり、極端な情報不足だったりで、かえって彼女をもどかしくさせるだけだった。",
-      "en": "She lived by telling herself it was for <tips=1>Xie Liang</tips>. She could not kill the desire completely. Whenever some incident in <tips=9>Y District</tips> involving <tips=7>YS</tips> reached the news, <tips=55>Matsuko</tips> sat glued to her computer and devoured every detail. Most reports were either conveniently distorted or desperately incomplete. They only made her frustration worse."
+      "en": "She lived by telling herself it was for <tips=1>Xie Liang</tips>. She could not kill the desire completely. Whenever some incident in <tips=9>Y District</tips> involving <tips=7>YS</tips> reached the news, <tips=55>Matsuko</tips> sat glued to her computer and devoured every detail. Most reports were either conveniently distorted or desperately incomplete. They only made her frustration worse.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0300",
@@ -2219,7 +2601,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「一度だけ、病気が進行して包帯でグルグルになった<tips=1>亮</tips>さんの姿が公開されたことがあったでしょう？　あの時は、もう本当にいてもたってもいられなくて、家から飛び出そうとしてしまって。父が力ずくで止めてくれなければ、この街まで来ていたと思います」",
-      "en": "“You remember when they released that one image of <tips=1>Ryou</tips>, wrapped head to toe in bandages after the disease got worse? I couldn't bear it. I nearly ran straight out of the house. If Father hadn't physically stopped me, I think I would have come all the way to the City.”"
+      "en": "“You remember when they released that one image of <tips=1>Ryou</tips>, wrapped head to toe in bandages after the disease got worse? I couldn't bear it. I nearly ran straight out of the house. If Father hadn't physically stopped me, I think I would have come all the way to the City.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0301",
@@ -2228,7 +2616,13 @@
       "sj": "",
       "se": "",
       "jp": "　並んで歩きながら、彼女はそう笑った。",
-      "en": "She laughs as we walk side by side."
+      "en": "She laughs as we walk side by side.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0302",
@@ -2237,7 +2631,13 @@
       "sj": "",
       "se": "",
       "jp": "　この力ずくで止めてくれた<tips=54>汐健慈朗</tips>も、去年肝臓を患って死亡している。",
-      "en": "The man who held her back, <tips=54>Kenjirou Shio</tips>, died of liver disease last year."
+      "en": "The man who held her back, <tips=54>Kenjirou Shio</tips>, died of liver disease last year.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0303",
@@ -2246,7 +2646,13 @@
       "sj": "",
       "se": "",
       "jp": "　アルコールの影響なのは間違いない。<tips=55>松子</tips>は彼に不死の血を分け与えることを提案したが、本人は最後までかたくなに拒否したと言う。",
-      "en": "Alcohol was undoubtedly to blame. <tips=55>Matsuko</tips> offered him her immortal blood. He stubbornly refused it to the end."
+      "en": "Alcohol was undoubtedly to blame. <tips=55>Matsuko</tips> offered him her immortal blood. He stubbornly refused it to the end.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0304",
@@ -2255,7 +2661,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「急に引き継がされた仕事のせいで毎日目が回るほど忙しくて、やっと<tips=1>亮</tips>さんのことを考えないで済む日も増えたかと思ったら、お父さんが亡くなったわけでしょう？　……そしてその直後に<tips=1>亮</tips>さんが亡くなったというニュースを見た時は、ショックのあまり心臓が止まるかと思いました。まあ、もし止まっても、私の心臓はしばらくすればすぐにまた動き出すのでしょうけど」",
-      "en": "“The business was dumped on me so suddenly that every day left my head spinning. Just when I was finally having days too busy to think about <tips=1>Ryou</tips>, Father died. ...Then, right afterward, I saw the news that <tips=1>Ryou</tips> was dead. The shock was so terrible I thought my heart would stop. Though I suppose mine would only start again a little while later.”"
+      "en": "“The business was dumped on me so suddenly that every day left my head spinning. Just when I was finally having days too busy to think about <tips=1>Ryou</tips>, Father died. ...Then, right afterward, I saw the news that <tips=1>Ryou</tips> was dead. The shock was so terrible I thought my heart would stop. Though I suppose mine would only start again a little while later.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0305",
@@ -2264,7 +2676,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は苦笑する。",
-      "en": "<tips=55>Matsuko</tips> gives a wry smile."
+      "en": "<tips=55>Matsuko</tips> gives a wry smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0306",
@@ -2273,7 +2691,13 @@
       "sj": "",
       "se": "",
       "jp": "　朗らかに振る舞ってはいるが、彼女が緊張を誤魔化すためにそうしているというのが、声色と表情でわかった。",
-      "en": "She is trying to sound cheerful. Her voice and expression make the tension beneath it plain."
+      "en": "She is trying to sound cheerful. Her voice and expression make the tension beneath it plain.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0307",
@@ -2282,7 +2706,13 @@
       "sj": "",
       "se": "",
       "jp": "　これから私たちはとある人物と会う。<tips=55>汐松子</tips>はその時、どんな感情を抱くのか。それは私にもわからない。",
-      "en": "We are about to meet a certain person. Even I cannot know what <tips=55>Matsuko Shio</tips> will feel when we do."
+      "en": "We are about to meet a certain person. Even I cannot know what <tips=55>Matsuko Shio</tips> will feel when we do.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0324",
@@ -2291,7 +2721,8 @@
       "sj": "",
       "se": "",
       "jp": "　その前に、<tips=1>謝亮</tips>の死について書こう。",
-      "en": "First, however, I should tell you how <tips=1>Xie Liang</tips> died."
+      "en": "First, however, I should tell you how <tips=1>Xie Liang</tips> died.",
+      "bg": "assets/vn/backgrounds/bg-ad1c3b30d8fa.webp"
     },
     {
       "id": "X17:0325",
@@ -2489,7 +2920,13 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「ああっ！　<tips=2>阿亮</tips>！　来てくれたんだ！」",
-      "en": "“<tips=2>Ah Liang</tips>! You came!”"
+      "en": "“<tips=2>Ah Liang</tips>! You came!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0347",
@@ -2498,7 +2935,13 @@
       "sj": "",
       "se": "",
       "jp": "「ボスが簡単に駆け足なんかしたらいけない。あなどられる」",
-      "en": "“A boss shouldn't go running around like that. People will stop respecting you.”"
+      "en": "“A boss shouldn't go running around like that. People will stop respecting you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0348",
@@ -2507,7 +2950,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>が苦々しく言うと、",
-      "en": "<tips=1>Ryou</tips> sounds thoroughly displeased."
+      "en": "<tips=1>Ryou</tips> sounds thoroughly displeased.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0349",
@@ -2516,7 +2965,13 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「ああ、ごめん。でもしょうがないんだ。きみの姿を見かけたら、とても嬉しくなっちゃって」",
-      "en": "“Sorry. I couldn't help it. I was so happy when I saw you.”"
+      "en": "“Sorry. I couldn't help it. I was so happy when I saw you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0350",
@@ -2525,7 +2980,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は照れくさそうに頭をかき、",
-      "en": "<tips=28>Tomas</tips> scratches his head, embarrassed."
+      "en": "<tips=28>Tomas</tips> scratches his head, embarrassed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0351",
@@ -2534,7 +2995,13 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「<tips=2>阿亮</tips>、よく来てくれたね。ありがとう」",
-      "en": "“I'm so glad you came, <tips=2>Ah Liang</tips>. Thank you.”"
+      "en": "“I'm so glad you came, <tips=2>Ah Liang</tips>. Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0352",
@@ -2543,7 +3010,13 @@
       "sj": "",
       "se": "",
       "jp": "　子供時代からのその呼び方は、<tips=1>亮</tips>が何度注意しても結局直らなかった。",
-      "en": "He has used that name since childhood. No matter how often <tips=1>Ryou</tips> corrects him, it never sticks."
+      "en": "He has used that name since childhood. No matter how often <tips=1>Ryou</tips> corrects him, it never sticks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0353",
@@ -2552,7 +3025,17 @@
       "sj": "アイス11年後",
       "se": "Aisu",
       "jp": "「ありがとうございます」",
-      "en": "“Thank you.”"
+      "en": "“Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0354",
@@ -2561,7 +3044,17 @@
       "sj": "",
       "se": "",
       "jp": "　遅れてやって来た<tips=29>アイス</tips>が、丁寧にお辞儀をする。",
-      "en": "Arriving behind him, <tips=29>Aisu</tips> bows politely."
+      "en": "Arriving behind him, <tips=29>Aisu</tips> bows politely.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0355",
@@ -2570,7 +3063,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は包帯の奥の目を細めて、",
-      "en": "<tips=1>Ryou</tips> narrows his eyes beneath the bandages."
+      "en": "<tips=1>Ryou</tips> narrows his eyes beneath the bandages.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0356",
@@ -2579,7 +3082,17 @@
       "sj": "",
       "se": "",
       "jp": "「きれいだ。いつものやつより、今の髪型の方が良い」",
-      "en": "“You look beautiful. That style suits you better than your usual hair.”"
+      "en": "“You look beautiful. That style suits you better than your usual hair.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0357",
@@ -2588,7 +3101,17 @@
       "sj": "アイス11年後",
       "se": "Aisu",
       "jp": "「そうでしょうか？　やっぱり恥ずかしくて……」",
-      "en": "“Do you think so? It still feels embarrassing...”"
+      "en": "“Do you think so? It still feels embarrassing...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0358",
@@ -2597,7 +3120,17 @@
       "sj": "",
       "se": "",
       "jp": "「本当だとも。まるでどこかのお姫様みたいだ」",
-      "en": "“I mean it. You look like a princess.”"
+      "en": "“I mean it. You look like a princess.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0359",
@@ -2606,7 +3139,17 @@
       "sj": "アイス11年後",
       "se": "Aisu",
       "jp": "「まあ、そんな年じゃありませんよ。<tips=1>謝亮</tips>様はいつからそんなにお世辞がお上手になったのかしら」",
-      "en": "“Oh, I'm hardly young enough for that. When did Lord <tips=1>Xie Liang</tips> become such a flatterer?”"
+      "en": "“Oh, I'm hardly young enough for that. When did Lord <tips=1>Xie Liang</tips> become such a flatterer?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0360",
@@ -2615,7 +3158,17 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=81>龍頭</tips>をやめて、やっと正直な言葉を言えるようになっただけだよ。本当に美しい」",
-      "en": "“Now that I'm no longer <tips=81>Longtou</tips>, I can finally say what I honestly think. You are beautiful.”"
+      "en": "“Now that I'm no longer <tips=81>Longtou</tips>, I can finally say what I honestly think. You are beautiful.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0361",
@@ -2624,7 +3177,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=29>アイス</tips>が照れて、<tips=1>亮</tips>は笑う。",
-      "en": "<tips=29>Aisu</tips> blushes, and <tips=1>Ryou</tips> laughs."
+      "en": "<tips=29>Aisu</tips> blushes, and <tips=1>Ryou</tips> laughs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0362",
@@ -2633,7 +3196,17 @@
       "sj": "",
       "se": "",
       "jp": "「良いの？　新婦が口説かれてるわよ？」",
-      "en": "“Are you going to allow this? He's seducing your bride.”"
+      "en": "“Are you going to allow this? He's seducing your bride.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0363",
@@ -2642,7 +3215,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=25>世傑</tips>は<tips=28>トーマス</tips>を肘でつついてからかう。",
-      "en": "<tips=25>Saiki</tips> nudges <tips=28>Tomas</tips> with an elbow."
+      "en": "<tips=25>Saiki</tips> nudges <tips=28>Tomas</tips> with an elbow.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0364",
@@ -2651,7 +3234,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「大丈夫だよ。僕も<tips=2>阿亮</tips>のことは大好きだから」",
-      "en": "“It's fine. I love <tips=2>Ah Liang</tips> too.”"
+      "en": "“It's fine. I love <tips=2>Ah Liang</tips> too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0365",
@@ -2660,7 +3253,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は笑顔のままそうこたえてから、",
-      "en": "<tips=28>Tomas</tips> answers with a smile."
+      "en": "<tips=28>Tomas</tips> answers with a smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0366",
@@ -2669,7 +3272,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「就任式の途中でいなくなったから心配してたんだ。体の具合は大丈夫なのかい？」",
-      "en": "“You disappeared halfway through the inauguration, so I was worried. Are you feeling all right?”"
+      "en": "“You disappeared halfway through the inauguration, so I was worried. Are you feeling all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0367",
@@ -2678,7 +3291,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>の身体を気遣った。",
-      "en": "He looks anxiously over <tips=1>Ryou</tips>'s body."
+      "en": "He looks anxiously over <tips=1>Ryou</tips>'s body.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0368",
@@ -2687,7 +3310,17 @@
       "sj": "",
       "se": "",
       "jp": "「平気だよ。それに、たとえ平気じゃなくったってね。<tips=28>トミー</tips>の新郎姿をからかわないまま死ねない。這ってでも来るさ。まったく、きみってやつは七五三みたいに素敵な格好をしているな」",
-      "en": "“I'm fine. And even if I weren't, I couldn't die before making fun of <tips=28>Tommy</tips> in his wedding suit. I'd crawl here if I had to. Look at you—dressed up like a little boy for Shichi-Go-San.”"
+      "en": "“I'm fine. And even if I weren't, I couldn't die before making fun of <tips=28>Tommy</tips> in his wedding suit. I'd crawl here if I had to. Look at you—dressed up like a little boy for Shichi-Go-San.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0369",
@@ -2696,7 +3329,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「<tips=29>アイス</tips>はお姫様で、僕は七五三か！　ひどいな！」",
-      "en": "“<tips=29>Aisu</tips> gets to be a princess, and I'm a little boy at Shichi-Go-San? That's cruel!”"
+      "en": "“<tips=29>Aisu</tips> gets to be a princess, and I'm a little boy at Shichi-Go-San? That's cruel!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0370",
@@ -2705,7 +3348,17 @@
       "sj": "",
       "se": "",
       "jp": "「でも、今日は本当にお元気なんですよ。朝食も全部召し上がって、そのあとにコーヒーを二杯もお飲みになって……」",
-      "en": "“He really is doing well today. He ate all his breakfast, and afterward he even drank two cups of coffee...”"
+      "en": "“He really is doing well today. He ate all his breakfast, and afterward he even drank two cups of coffee...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0371",
@@ -2714,7 +3367,17 @@
       "sj": "",
       "se": "",
       "jp": "　車椅子を<tips=25>世傑</tips>にとられた<tips=30>レイレイ</tips>が、手持ち無沙汰になった両手を落ち着きなく動かしながらそう言った。",
-      "en": "With <tips=25>Saiki</tips> at the wheelchair, <tips=30>Reirei</tips> has nothing to do with her hands. She fidgets as she speaks."
+      "en": "With <tips=25>Saiki</tips> at the wheelchair, <tips=30>Reirei</tips> has nothing to do with her hands. She fidgets as she speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0372",
@@ -2723,7 +3386,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「コーヒーを二杯も！　それはすごい！」",
-      "en": "“Two whole cups! That's wonderful!”"
+      "en": "“Two whole cups! That's wonderful!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0373",
@@ -2732,7 +3405,17 @@
       "sj": "",
       "se": "",
       "jp": "「たまにはそういう日もある」",
-      "en": "“Once in a while, I have a day like this.”"
+      "en": "“Once in a while, I have a day like this.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0374",
@@ -2741,7 +3424,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「いや、きっと本当に体調が良くなってるんだよ。でもそうじゃなくっちゃ困る。これからも、相談役として僕の手助けをしてもらわなくちゃいけないんだから」",
-      "en": "“No, you must really be getting better. You have to be. I still need you beside me as my adviser.”"
+      "en": "“No, you must really be getting better. You have to be. I still need you beside me as my adviser.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0375",
@@ -2750,7 +3443,17 @@
       "sj": "",
       "se": "",
       "jp": "「手助けなんか必要ないよ。もう私は頭もろくに回らなくなってる。それに、<tips=28>トミー</tips>はきっと私よりも優秀なリーダーになるから……」",
-      "en": "“You don't need my help. My mind hardly works anymore. Besides, <tips=28>Tommy</tips>, I'm sure you'll be a better leader than I ever was...”"
+      "en": "“You don't need my help. My mind hardly works anymore. Besides, <tips=28>Tommy</tips>, I'm sure you'll be a better leader than I ever was...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0376",
@@ -2759,7 +3462,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は小さく咳込み、<tips=30>レイレイ</tips>がさっとハンカチを差し出し、口元から垂れた唾液を拭う。",
-      "en": "<tips=1>Ryou</tips> coughs softly. <tips=30>Reirei</tips> quickly offers a handkerchief and wipes the saliva from his mouth."
+      "en": "<tips=1>Ryou</tips> coughs softly. <tips=30>Reirei</tips> quickly offers a handkerchief and wipes the saliva from his mouth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0377",
@@ -2768,7 +3481,17 @@
       "sj": "",
       "se": "",
       "jp": "「ありがとう……まあ、しばらくきみは私の尻拭いに追われるだろうが、きっとうまくいく。保証するよ」",
-      "en": "“Thank you... You'll be cleaning up my messes for a while, I expect. But it will work out. I promise.”"
+      "en": "“Thank you... You'll be cleaning up my messes for a while, I expect. But it will work out. I promise.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0378",
@@ -2777,7 +3500,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「うれしいな。<tips=2>阿亮</tips>がそう言ってくれると何よりも自信になる」",
-      "en": "“That makes me happy. Nothing gives me more confidence than hearing it from <tips=2>Ah Liang</tips>.”"
+      "en": "“That makes me happy. Nothing gives me more confidence than hearing it from <tips=2>Ah Liang</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0379",
@@ -2786,7 +3519,17 @@
       "sj": "",
       "se": "",
       "jp": "「そうさ、自信を持ってくれないと困る。大勢の優秀な連中のなかから、この私が選んだ後継者なんだから」",
-      "en": "“Good. I need you to have confidence. I picked you from a crowd of excellent people to succeed me.”"
+      "en": "“Good. I need you to have confidence. I picked you from a crowd of excellent people to succeed me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0380",
@@ -2795,7 +3538,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「そうだね。まったくその通りだ。僕はもっと誇らしく振る舞わないといけない」",
-      "en": "“You're right. Absolutely right. I ought to carry myself with more pride.”"
+      "en": "“You're right. Absolutely right. I ought to carry myself with more pride.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0381",
@@ -2804,7 +3557,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして<tips=28>トーマス</tips>は新しく妻となった相手と微笑みあった。",
-      "en": "<tips=28>Tomas</tips> and his new wife smile at one another."
+      "en": "<tips=28>Tomas</tips> and his new wife smile at one another.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0382",
@@ -2813,7 +3576,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「そうだ、他にも、<tips=2>阿亮</tips>と会いたがっていた人がいるんだよ」",
-      "en": "“Oh, someone else wanted to see you, <tips=2>Ah Liang</tips>.”"
+      "en": "“Oh, someone else wanted to see you, <tips=2>Ah Liang</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0383",
@@ -2822,7 +3595,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はぐるりと辺りを見回し、会場の隅の方で並んで立っていた<tips=40>黄姉妹</tips>を見つけると、",
-      "en": "<tips=28>Tomas</tips> looks around and finds the <tips=40>Wong sisters</tips> standing together at the edge of the venue."
+      "en": "<tips=28>Tomas</tips> looks around and finds the <tips=40>Wong sisters</tips> standing together at the edge of the venue.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0384",
@@ -2831,7 +3614,17 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「二人ともおいでよ！」",
-      "en": "“Both of you, come here!”"
+      "en": "“Both of you, come here!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0385",
@@ -2840,7 +3633,17 @@
       "sj": "",
       "se": "",
       "jp": "　そう呼びかけて手招きをする。",
-      "en": "He calls and beckons."
+      "en": "He calls and beckons.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0388",
@@ -2849,7 +3652,17 @@
       "sj": "",
       "se": "",
       "jp": "　いつも通り、パーティには参加せずに優位を警戒する役目についていた二人は、戸惑いつつも、新しい<tips=81>龍頭</tips>の指示に従ってやって来る。",
-      "en": "As usual, the sisters are not joining the party; they stand watch for threats instead. Though plainly unsure, they obey the new <tips=81>Longtou</tips> and approach."
+      "en": "As usual, the sisters are not joining the party; they stand watch for threats instead. Though plainly unsure, they obey the new <tips=81>Longtou</tips> and approach.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0389",
@@ -2858,7 +3671,17 @@
       "sj": "",
       "se": "",
       "jp": "「一杯飲んでくれ」",
-      "en": "“Have a drink.”"
+      "en": "“Have a drink.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0390",
@@ -2867,7 +3690,21 @@
       "sj": "黄天祥",
       "se": "Wong Tianxiang",
       "jp": "「で、でも……」",
-      "en": "“B-but...”"
+      "en": "“B-but...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0391",
@@ -2876,7 +3713,25 @@
       "sj": "黄天明",
       "se": "Wong Tianming",
       "jp": "「私たちは……」",
-      "en": "“We...”"
+      "en": "“We...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0392",
@@ -2885,7 +3740,25 @@
       "sj": "",
       "se": "",
       "jp": "　視力を持たない姉妹はその手に無理矢理シャンパンの入ったグラスを押しつけられ、戸惑いを見せる。",
-      "en": "The blind sisters look bewildered when champagne glasses are pressed into their hands."
+      "en": "The blind sisters look bewildered when champagne glasses are pressed into their hands.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0393",
@@ -2894,7 +3767,25 @@
       "sj": "",
       "se": "",
       "jp": "「私からもお願いするよ。<tips=28>トミー</tips>の結婚を祝ってやってほしいんだ」",
-      "en": "“I'll ask too. Please celebrate <tips=28>Tommy</tips>'s marriage with us.”"
+      "en": "“I'll ask too. Please celebrate <tips=28>Tommy</tips>'s marriage with us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0394",
@@ -2903,7 +3794,25 @@
       "sj": "",
       "se": "",
       "jp": "　すっかり困り果てた二人を見かねて<tips=1>亮</tips>が言うと、",
-      "en": "Seeing them at a complete loss, <tips=1>Ryou</tips> comes to their aid."
+      "en": "Seeing them at a complete loss, <tips=1>Ryou</tips> comes to their aid.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0395",
@@ -2912,7 +3821,25 @@
       "sj": "黄天祥",
       "se": "Wong Tianxiang",
       "jp": "「わ、わかりました……」",
-      "en": "“V-very well...”"
+      "en": "“V-very well...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0396",
@@ -2921,7 +3848,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=40>黄姉妹</tips>はようやくグラスに口をつける。",
-      "en": "At last, the <tips=40>Wong sisters</tips> put the glasses to their lips."
+      "en": "At last, the <tips=40>Wong sisters</tips> put the glasses to their lips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0397",
@@ -2930,7 +3875,25 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「ちぇ、やっぱり僕より<tips=2>阿亮</tips>の言うことを聞くんだな」",
-      "en": "“Tch. You really do listen to <tips=2>Ah Liang</tips> before me.”"
+      "en": "“Tch. You really do listen to <tips=2>Ah Liang</tips> before me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0398",
@@ -2939,7 +3902,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>はそうおどけ、無意識の行動を指摘されてしまった姉妹はゴホゴホとむせる。",
-      "en": "<tips=28>Tomas</tips> makes a joke of it. Caught obeying from sheer habit, the sisters choke on their champagne."
+      "en": "<tips=28>Tomas</tips> makes a joke of it. Caught obeying from sheer habit, the sisters choke on their champagne.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0399",
@@ -2948,7 +3929,25 @@
       "sj": "",
       "se": "",
       "jp": "「そうだ、<tips=28>トミー</tips>、いいかい？」",
-      "en": "“By the way, <tips=28>Tommy</tips>, may I?”"
+      "en": "“By the way, <tips=28>Tommy</tips>, may I?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0400",
@@ -2957,7 +3956,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はふと顔を上げて言った。",
-      "en": "<tips=1>Ryou</tips> suddenly raises his face."
+      "en": "<tips=1>Ryou</tips> suddenly raises his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0401",
@@ -2966,7 +3983,25 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「なんだい？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0402",
@@ -2975,7 +4010,25 @@
       "sj": "",
       "se": "",
       "jp": "「この二人は長く尽くしてくれたのに、私は何もねぎらうことが出来なかった。せめて今日は休日をプレゼントしたいんだ。かまわないね？」",
-      "en": "“These two served me faithfully for years, and I never did anything to thank them. Let me give them today off, at least. You don't mind, do you?”"
+      "en": "“These two served me faithfully for years, and I never did anything to thank them. Let me give them today off, at least. You don't mind, do you?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0403",
@@ -2984,7 +4037,25 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「ああ、もちろんだとも！　二人とも、今日はもう仕事は終わりだ。好きなだけ料理と酒を楽しんでくれ」",
-      "en": "“Of course! Both of you are finished for the day. Eat and drink as much as you like.”"
+      "en": "“Of course! Both of you are finished for the day. Eat and drink as much as you like.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0404",
@@ -2993,7 +4064,25 @@
       "sj": "黄天祥",
       "se": "Wong Tianxiang",
       "jp": "「しかし……」",
-      "en": "“But...”"
+      "en": "“But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0405",
@@ -3002,7 +4091,25 @@
       "sj": "黄天明",
       "se": "Wong Tianming",
       "jp": "「こんな日に、それは……」",
-      "en": "“On a day like this...”"
+      "en": "“On a day like this...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0406",
@@ -3011,7 +4118,25 @@
       "sj": "トーマス・リャオ10年後",
       "se": "Tomas Liao",
       "jp": "「<tips=81>龍頭</tips>からの命令だよ？　それとも、やっぱり<tips=2>阿亮</tips>があらためて言わないときいてくれない？」",
-      "en": "“That's an order from your <tips=81>Longtou</tips>. Or do I need <tips=2>Ah Liang</tips> to say it again before you'll listen?”"
+      "en": "“That's an order from your <tips=81>Longtou</tips>. Or do I need <tips=2>Ah Liang</tips> to say it again before you'll listen?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0407",
@@ -3020,7 +4145,25 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>の言葉に、二人は一瞬黙ってから、",
-      "en": "At <tips=28>Tomas</tips>'s words, the pair falls silent for a moment."
+      "en": "At <tips=28>Tomas</tips>'s words, the pair falls silent for a moment.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0408",
@@ -3029,7 +4172,25 @@
       "sj": "黄天祥",
       "se": "Wong Tianxiang",
       "jp": "「わ、わかりました」",
-      "en": "“V-very well.”"
+      "en": "“V-very well.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0409",
@@ -3038,7 +4199,25 @@
       "sj": "黄天明",
       "se": "Wong Tianming",
       "jp": "「ありがとうございます！」",
-      "en": "“Thank you!”"
+      "en": "“Thank you!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0410",
@@ -3047,7 +4226,25 @@
       "sj": "",
       "se": "",
       "jp": "　新しい<tips=81>龍頭</tips>に頭を下げて礼をした。",
-      "en": "They bow in gratitude to the new <tips=81>Longtou</tips>."
+      "en": "They bow in gratitude to the new <tips=81>Longtou</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2a0e50fbee4e.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-188557b5b289.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "s": "c"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0412",
@@ -3074,7 +4271,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「大丈夫ですか？」",
-      "en": "“Are you all right?”"
+      "en": "“Are you all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0415",
@@ -3083,7 +4286,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>を見つけてやって来た<tips=31>エリー・ホワイト</tips>が、心配して声をかける。",
-      "en": "Finding <tips=1>Ryou</tips>, <tips=31>Elly White</tips> addresses him with concern."
+      "en": "Finding <tips=1>Ryou</tips>, <tips=31>Elly White</tips> addresses him with concern.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0416",
@@ -3092,7 +4301,13 @@
       "sj": "",
       "se": "",
       "jp": "「平気さ。久しぶりだね」",
-      "en": "“I'm fine. It's been a long time.”"
+      "en": "“I'm fine. It's been a long time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0417",
@@ -3101,7 +4316,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=7>ＹＳ</tips>での地位を譲り渡した<tips=31>エリー</tips>はすっかり<tips=41>グランドタワー</tips>に来る機会が減っている。そして、病み衰えた<tips=1>亮</tips>も自室にこもってすっかり他人との接触を断っている。",
-      "en": "Since giving up her position in <tips=7>YS</tips>, <tips=31>Elly</tips> seldom visits <tips=41>Grand Tower</tips>. <tips=1>Ryou</tips>, sick and wasting away, has shut himself in his room and nearly cut off all contact."
+      "en": "Since giving up her position in <tips=7>YS</tips>, <tips=31>Elly</tips> seldom visits <tips=41>Grand Tower</tips>. <tips=1>Ryou</tips>, sick and wasting away, has shut himself in his room and nearly cut off all contact.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0418",
@@ -3110,7 +4331,13 @@
       "sj": "",
       "se": "",
       "jp": "　お互い人と会わなくなった二人がこうして顔を合わせるのは、およそ一ヶ月ぶりだった。",
-      "en": "It has been almost a month since the two recluses last saw one another."
+      "en": "It has been almost a month since the two recluses last saw one another.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0419",
@@ -3119,7 +4346,13 @@
       "sj": "",
       "se": "",
       "jp": "「君は僕が子どもの頃に見た姿とちっとも変わらない。若いままだ。これが君に流れる血の力か」",
-      "en": "“You look exactly as you did when I was a child. Still young. Is that what your blood does?”"
+      "en": "“You look exactly as you did when I was a child. Still young. Is that what your blood does?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0420",
@@ -3128,7 +4361,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>はかすれ声で放った<tips=1>亮</tips>の冗談には何も返さず、じっと相手の顔を見ている。",
-      "en": "<tips=31>Elly</tips> gives no answer to <tips=1>Ryou</tips>'s hoarse joke. She only studies his face."
+      "en": "<tips=31>Elly</tips> gives no answer to <tips=1>Ryou</tips>'s hoarse joke. She only studies his face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0421",
@@ -3137,7 +4376,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は目を細めた。この距離だと、ヴェールの下の真剣な表情が見て取れる。",
-      "en": "<tips=1>Ryou</tips> narrows his eyes. At this distance he can make out the grave expression beneath her veil."
+      "en": "<tips=1>Ryou</tips> narrows his eyes. At this distance he can make out the grave expression beneath her veil.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0422",
@@ -3146,7 +4391,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「今日はあなたがおいでになると聞いたので、参りました。……お考えは変わりませんか？」",
-      "en": "“I came because I heard you would be here today. ...Have you changed your mind?”"
+      "en": "“I came because I heard you would be here today. ...Have you changed your mind?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0423",
@@ -3155,7 +4406,13 @@
       "sj": "",
       "se": "",
       "jp": "「その話はよしてくれと言ったじゃないか」",
-      "en": "“I told you to let that go.”"
+      "en": "“I told you to let that go.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0424",
@@ -3164,7 +4421,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は苦笑する。",
-      "en": "<tips=1>Ryou</tips> smiles wryly."
+      "en": "<tips=1>Ryou</tips> smiles wryly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0425",
@@ -3173,7 +4436,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「もし不死化に失敗して、発症したとしても<tips=46>ネオ・ローズ</tips>がある今なら症状を抑えられます」",
-      "en": "“Even if the immortality fails and you develop symptoms, we now have <tips=46>Neo-Rose</tips> to suppress them.”"
+      "en": "“Even if the immortality fails and you develop symptoms, we now have <tips=46>Neo-Rose</tips> to suppress them.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0426",
@@ -3182,7 +4451,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんな話にはのらないよ。僕を誤魔化そうったって無駄なんだ」",
-      "en": "“I won't take that gamble. There's no point trying to mislead me.”"
+      "en": "“I won't take that gamble. There's no point trying to mislead me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0427",
@@ -3191,7 +4466,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>は微笑していたが、その目は鋭い。この街の様々な人々を震え上がらせた冷徹な光はまだそのままである。",
-      "en": "<tips=31>Elly</tips> smiles, but her eyes stay sharp. They retain the cold light that once made people throughout the City tremble."
+      "en": "<tips=31>Elly</tips> smiles, but her eyes stay sharp. They retain the cold light that once made people throughout the City tremble.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0428",
@@ -3200,7 +4481,13 @@
       "sj": "",
       "se": "",
       "jp": "「君は言ってたじゃないか。昔の<tips=18>ローズ・クラブ</tips>では、不死の儀式に失敗した女は殺していたんだろう？　当時クラブには『<tips=45>ローズ</tips>』がやまほどあったのに、それを使わないで貴重な従業員を殺すなんておかしな話だ。これはつまり、特殊化に失敗した場合は『<tips=45>ローズ</tips>』でもコントロール出来ない状態になってしまうってことなんだよ。……きみだってわかってるんだろう？　もし僕がきみの血を受けて、そして不死化出来なかった場合、僕はもう僕でなくなってしまって、元に戻す方法もないんだ。そしてきみは、<tips=20>コシチェイ</tips>や<tips=55>松子</tips>よりもずっと<tips=72>傾向値</tips>が低い。ということは、きみから血を貰っても、<tips=18>ローズ・クラブ</tips>の時よりもずっと成功率が低い。数字にしたらどれくらいだ？　三割もないと思うね」",
-      "en": "“You told me what the old <tips=18>Rose Club</tips> did to women when the immortality ritual failed: they killed them. The Club had piles of ‘<tips=45>Rose</tips>’ on hand. Why waste valuable workers instead of treating them? Because once specialization failed, it left them in a state even ‘<tips=45>Rose</tips>’ couldn't control. ...You know that as well as I do. If I take your blood and fail, I won't be myself anymore, and there will be no way back. Compared with <tips=20>Koschei</tips> or <tips=55>Matsuko</tips>, your <tips=72>Tendency Index</tips> is far lower. So my odds with your blood would be much worse than they were at the <tips=18>Rose Club</tips>. Put a number on it. Less than thirty percent, I'd say.”"
+      "en": "“You told me what the old <tips=18>Rose Club</tips> did to women when the immortality ritual failed: they killed them. The Club had piles of ‘<tips=45>Rose</tips>’ on hand. Why waste valuable workers instead of treating them? Because once specialization failed, it left them in a state even ‘<tips=45>Rose</tips>’ couldn't control. ...You know that as well as I do. If I take your blood and fail, I won't be myself anymore, and there will be no way back. Compared with <tips=20>Koschei</tips> or <tips=55>Matsuko</tips>, your <tips=72>Tendency Index</tips> is far lower. So my odds with your blood would be much worse than they were at the <tips=18>Rose Club</tips>. Put a number on it. Less than thirty percent, I'd say.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0429",
@@ -3209,7 +4496,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「でも、『<tips=45>ローズ</tips>』じゃなくて『<tips=46>ネオ・ローズ</tips>』なら、もし失敗しても……」",
-      "en": "“But with ‘<tips=45>Rose</tips>’—no, with ‘<tips=46>Neo-Rose</tips>’—even if it failed...”"
+      "en": "“But with ‘<tips=45>Rose</tips>’—no, with ‘<tips=46>Neo-Rose</tips>’—even if it failed...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0430",
@@ -3218,7 +4511,13 @@
       "sj": "",
       "se": "",
       "jp": "「そんな話は信じないよ。『<tips=45>ローズ</tips>』と『<tips=46>ネオ・ローズ</tips>』の作用機序は大して変わらないんだ」",
-      "en": "“I don't believe that makes a difference. ‘<tips=45>Rose</tips>’ and ‘<tips=46>Neo-Rose</tips>’ work in much the same way.”"
+      "en": "“I don't believe that makes a difference. ‘<tips=45>Rose</tips>’ and ‘<tips=46>Neo-Rose</tips>’ work in much the same way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0431",
@@ -3227,7 +4526,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「……うまくいかなかった、その時は、私が責任を持って処理します」",
-      "en": "“...If it fails, I will take responsibility. I will put an end to it myself.”"
+      "en": "“...If it fails, I will take responsibility. I will put an end to it myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0432",
@@ -3236,7 +4541,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>はさらに食い下がる。",
-      "en": "<tips=31>Elly</tips> refuses to let the matter drop."
+      "en": "<tips=31>Elly</tips> refuses to let the matter drop.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0433",
@@ -3245,7 +4556,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は驚いたふりをして、",
-      "en": "<tips=1>Ryou</tips> affects surprise."
+      "en": "<tips=1>Ryou</tips> affects surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0434",
@@ -3254,7 +4571,13 @@
       "sj": "",
       "se": "",
       "jp": "「処理って？　つまり、発症したらちゃんと僕を殺してくれるってことかい？　それとも、どこかに幽閉でもしてくれるのかな？　どっちにしろごめんだね。最後まで自分のまま死なせてくれ」",
-      "en": "“Put an end to it? You mean you'll be sure to kill me once the symptoms begin? Or lock me away somewhere? No thank you either way. Let me die as myself.”"
+      "en": "“Put an end to it? You mean you'll be sure to kill me once the symptoms begin? Or lock me away somewhere? No thank you either way. Let me die as myself.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0435",
@@ -3263,7 +4586,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「しかし、うまくいけば病も癒え、丈夫な肉体を手に入れられるんですよ」",
-      "en": "“But if it succeeds, the disease will be cured. You will have a healthy body again.”"
+      "en": "“But if it succeeds, the disease will be cured. You will have a healthy body again.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0436",
@@ -3272,7 +4601,13 @@
       "sj": "",
       "se": "",
       "jp": "「珍しいな。今日はずいぶんとしつこい」",
-      "en": "“This is unlike you. You're awfully persistent today.”"
+      "en": "“This is unlike you. You're awfully persistent today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0437",
@@ -3281,7 +4616,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「今回は、後悔をしたくないんです」",
-      "en": "“This time, I do not want to live with regret.”"
+      "en": "“This time, I do not want to live with regret.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0438",
@@ -3290,7 +4631,13 @@
       "sj": "",
       "se": "",
       "jp": "「今回ってことは、前回があるんだ。それは、父さんのことになるのかな？」",
-      "en": "“‘This time’ means there was a last time. Father, I suppose?”"
+      "en": "“‘This time’ means there was a last time. Father, I suppose?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0439",
@@ -3299,7 +4646,13 @@
       "sj": "エリー・ホワイト",
       "se": "Elly White",
       "jp": "「……」",
-      "en": "“...”"
+      "en": "“...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0440",
@@ -3308,7 +4661,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>は無言のまま、ヴェールの下に童女のような無垢な困惑を浮かべてじっと<tips=1>亮</tips>の顔を見つめている。",
-      "en": "<tips=31>Elly</tips> says nothing. Beneath the veil, she stares at <tips=1>Ryou</tips> with the pure confusion of a little girl."
+      "en": "<tips=31>Elly</tips> says nothing. Beneath the veil, she stares at <tips=1>Ryou</tips> with the pure confusion of a little girl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0441",
@@ -3317,7 +4676,13 @@
       "sj": "",
       "se": "",
       "jp": "「きみはきっと、<tips=3>父さん</tips>にも申し出たんだね。自分の血液を使って不死の力を与えることを。そして、その時<tips=3>父さん</tips>は断った」",
-      "en": "“You must have offered <tips=3>Father</tips> the same thing—immortality through your blood. And <tips=3>Father</tips> turned you down.”"
+      "en": "“You must have offered <tips=3>Father</tips> the same thing—immortality through your blood. And <tips=3>Father</tips> turned you down.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0442",
@@ -3326,7 +4691,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>は沈黙を保ったが、否定しないということは、<tips=1>亮</tips>の言う通りだったのだろう。",
-      "en": "<tips=31>Elly</tips> remains silent. Her refusal to deny <tips=1>Ryou</tips>'s conclusion is answer enough."
+      "en": "<tips=31>Elly</tips> remains silent. Her refusal to deny <tips=1>Ryou</tips>'s conclusion is answer enough.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0443",
@@ -3335,7 +4706,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕は、たとえ成功率が百パーセントだったとしても、きみの血は飲まない」",
-      "en": "“I wouldn't drink your blood even if success were guaranteed.”"
+      "en": "“I wouldn't drink your blood even if success were guaranteed.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0444",
@@ -3344,7 +4721,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>の言葉に、<tips=31>エリー</tips>は悲しそうに顔を歪める。",
-      "en": "At <tips=1>Ryou</tips>'s words, pain twists <tips=31>Elly</tips>'s face."
+      "en": "At <tips=1>Ryou</tips>'s words, pain twists <tips=31>Elly</tips>'s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0445",
@@ -3353,7 +4736,13 @@
       "sj": "",
       "se": "",
       "jp": "「僕もあの日、きみと同じことを<tips=3>父さん</tips>に提案した。だが断られた。当時僕には、あの貪欲な人間が断るのは不思議だという思いもあったけれど、今は<tips=3>父さん</tips>の気持ちがわかるような気がする」",
-      "en": "“I made <tips=3>Father</tips> the same offer that day. He refused me. At the time, I couldn't understand why a man as greedy as him would say no. I think I understand <tips=3>Father</tips> now.”"
+      "en": "“I made <tips=3>Father</tips> the same offer that day. He refused me. At the time, I couldn't understand why a man as greedy as him would say no. I think I understand <tips=3>Father</tips> now.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0446",
@@ -3362,7 +4751,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はじっと<tips=31>エリー</tips>の目を見つめる。",
-      "en": "<tips=1>Ryou</tips> holds <tips=31>Elly</tips>'s gaze."
+      "en": "<tips=1>Ryou</tips> holds <tips=31>Elly</tips>'s gaze.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0447",
@@ -3371,7 +4766,13 @@
       "sj": "",
       "se": "",
       "jp": "「この病気は時間をかけて人を殺す。自分の死について考える時間はたくさんあった。……そして考えすぎたのかもしれない。死も、僕の一部のような気がするんだ。冷酷な血みどろの犯罪者はここで退場する。それでいいじゃないか」",
-      "en": "“This disease takes its time killing you. I've had more than enough time to think about my death. ...Perhaps too much. It feels like part of me now. The cold-blooded criminal makes his exit here. Isn't that fitting?”"
+      "en": "“This disease takes its time killing you. I've had more than enough time to think about my death. ...Perhaps too much. It feels like part of me now. The cold-blooded criminal makes his exit here. Isn't that fitting?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0448",
@@ -3380,7 +4781,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>は黙ったままだ。",
-      "en": "<tips=31>Elly</tips> remains silent."
+      "en": "<tips=31>Elly</tips> remains silent.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0449",
@@ -3389,7 +4796,13 @@
       "sj": "",
       "se": "",
       "jp": "「わからないかな。きみはちょっと私欲にまみれすぎているからね。羨ましいよ」",
-      "en": "“You don't understand, do you? You're much too full of selfish desire. I envy that.”"
+      "en": "“You don't understand, do you? You're much too full of selfish desire. I envy that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0450",
@@ -3398,7 +4811,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は目を細めて微笑む。",
-      "en": "<tips=1>Ryou</tips> narrows his eyes and smiles."
+      "en": "<tips=1>Ryou</tips> narrows his eyes and smiles.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0451",
@@ -3407,7 +4826,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=31>エリー</tips>はやはり、黙っている。",
-      "en": "<tips=31>Elly</tips> still says nothing."
+      "en": "<tips=31>Elly</tips> still says nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-079f72e8d9f2.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0460",
@@ -3443,7 +4868,8 @@
       "sj": "",
       "se": "",
       "jp": "　ボディーガードの一人が運転手として先に運転席に乗り、もう一人がドアを開けた。",
-      "en": "One bodyguard gets behind the wheel while the other opens the passenger door."
+      "en": "One bodyguard gets behind the wheel while the other opens the passenger door.",
+      "bg": "assets/vn/backgrounds/bg-ba6cdbdad30b.webp"
     },
     {
       "id": "X17:0471",
@@ -4010,7 +5436,8 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=30>レイレイ</tips>が連絡をして、最初に現場に駆けつけた幹部が<tips=31>エリー・ホワイト</tips>だったんだよ。そこから葬儀まで、彼女が全て仕切った。まあ、それ自体は不自然なことじゃない。<tips=31>エリー</tips>は昔から<tips=25>馬世傑</tips>と並ぶ<tips=1>亮</tips>の腹心だったからね。……で、その時に彼女はやったんだろう。確証はないが、この想像はいい線をついていると思うんだがね」",
-      "en": "“<tips=30>Reirei</tips> called it in, and the first executive on the scene was <tips=31>Elly White</tips>. She took charge of everything from then through the funeral. Nothing suspicious there. <tips=31>Elly</tips> had always stood beside <tips=25>Ma Saiki</tips> as one of <tips=1>Ryou</tips>'s closest confidants. ...But that must be when she did it. I can't prove it, but I think I'm close.”"
+      "en": "“<tips=30>Reirei</tips> called it in, and the first executive on the scene was <tips=31>Elly White</tips>. She took charge of everything from then through the funeral. Nothing suspicious there. <tips=31>Elly</tips> had always stood beside <tips=25>Ma Saiki</tips> as one of <tips=1>Ryou</tips>'s closest confidants. ...But that must be when she did it. I can't prove it, but I think I'm close.”",
+      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
     },
     {
       "id": "X17:0548",
@@ -4019,7 +5446,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「でも、そんなこと出来るんですかね？　撃たれてから時間が経っていたでしょうに」",
-      "en": "“Could she really have done that? He must have been dead for some time.”"
+      "en": "“Could she really have done that? He must have been dead for some time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0549",
@@ -4028,7 +5461,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は首をかしげて言う。",
-      "en": "<tips=55>Matsuko</tips> tilts her head."
+      "en": "<tips=55>Matsuko</tips> tilts her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0550",
@@ -4037,7 +5476,13 @@
       "sj": "",
       "se": "",
       "jp": "　期待が強すぎるため、同時に不安も強くわき起こっているその心情が、表情にあらわれている。",
-      "en": "Her face shows the anxiety born from hoping far too much."
+      "en": "Her face shows the anxiety born from hoping far too much.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0551",
@@ -4046,7 +5491,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうなんだろうな。必ず口から飲み込まないと特殊化は起きないのかな？　たとえば傷口に<tips=31>エリー</tips>の血液を流し込んだらどうだろう？　心臓が止まったって、体組織はすぐには死なないわけだからね。あるいは、<tips=1>亮</tips>の死体からすぐに指の一本でも切り取って、<tips=31>エリー</tips>の新鮮な血に浸すというやりかたもあるかも知れない。そしてその肉片から再生させるんだ。おれはこの線が強いんじゃないかと思っている。……<tips=31>エリー</tips>はあんたの再生の時、資材調達やらなんやらで関わっているからね。そういうことが出来るのを知っている」",
-      "en": "“Who knows? Does the blood have to be swallowed for specialization to happen? What if <tips=31>Elly</tips> poured hers straight into the wounds? The heart may stop, but the body's tissues don't die at once. Or she might have cut a finger from <tips=1>Ryou</tips>'s body immediately, soaked it in fresh blood from <tips=31>Elly</tips>, and regenerated him from that. That's my best guess. ...<tips=31>Elly</tips> helped secure materials when you regenerated. She knows it can be done.”"
+      "en": "“Who knows? Does the blood have to be swallowed for specialization to happen? What if <tips=31>Elly</tips> poured hers straight into the wounds? The heart may stop, but the body's tissues don't die at once. Or she might have cut a finger from <tips=1>Ryou</tips>'s body immediately, soaked it in fresh blood from <tips=31>Elly</tips>, and regenerated him from that. That's my best guess. ...<tips=31>Elly</tips> helped secure materials when you regenerated. She knows it can be done.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0552",
@@ -4055,7 +5506,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「……確かに、可能性としてはあるのかもしれません。でも、もしそれを試したとしても、本当に成功するとは限らないですよね……」",
-      "en": "“...I suppose it is possible. But even if she tried, it might not have worked...”"
+      "en": "“...I suppose it is possible. But even if she tried, it might not have worked...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0553",
@@ -4064,7 +5521,13 @@
       "sj": "",
       "se": "",
       "jp": "「それは確かにその通りだ。<tips=20>コシチェイ</tips>やあんたみたいな、生まれながらに特殊化しているのを第一世代だとしたら、おれや<tips=31>エリー</tips>は第二世代にあたり、<tips=72>傾向値</tips>も低い。特殊化に<tips=72>傾向値</tips>が影響しているのなら、<tips=31>エリー</tips>の血液では成功率は低いだろう。でも、現実的に起こりえないというほど低いかな？　……たしか、<tips=1>謝亮</tips>は特殊化した虎で実験しているだろう？　あの虎はショーのなかで、<tips=20>コシチェイ</tips>の血を受けた第二世代の女を食ってああなったのだから、第三世代ということになる。成功例はあるんだよ。しかも、その第三世代である虎の肉でも、何匹かの鼠が特殊化したんだ。彼が復活した可能性が全くないとは言えないだろう。精神がまともかどうかはわからないがね」",
-      "en": "“True. If people born specialized, like <tips=20>Koschei</tips> and you, are the first generation, then <tips=31>Elly</tips> and I are the second. Our <tips=72>Tendency Indexes</tips> are lower. If the <tips=72>Tendency Index</tips> affects specialization, blood from <tips=31>Elly</tips> would give poor odds. But impossible? ...Remember the specialized tiger <tips=1>Xie Liang</tips> experimented on. It ate a second-generation woman who had received <tips=20>Koschei</tips>'s blood, which made the tiger third generation. It succeeded. Then meat from that third-generation tiger specialized several mice. We can't rule out his return. Whether his mind survived is another question.”"
+      "en": "“True. If people born specialized, like <tips=20>Koschei</tips> and you, are the first generation, then <tips=31>Elly</tips> and I are the second. Our <tips=72>Tendency Indexes</tips> are lower. If the <tips=72>Tendency Index</tips> affects specialization, blood from <tips=31>Elly</tips> would give poor odds. But impossible? ...Remember the specialized tiger <tips=1>Xie Liang</tips> experimented on. It ate a second-generation woman who had received <tips=20>Koschei</tips>'s blood, which made the tiger third generation. It succeeded. Then meat from that third-generation tiger specialized several mice. We can't rule out his return. Whether his mind survived is another question.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0554",
@@ -4073,7 +5536,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は表情を曇らせたままだ。もし<tips=1>謝亮</tips>が蘇っていたとしても、彼が正気を喪っていたとしたら、彼女はそれをどう受け止めるのだろう。",
-      "en": "<tips=55>Matsuko</tips>'s face stays clouded. If <tips=1>Xie Liang</tips> returned without his sanity, what would that do to her?"
+      "en": "<tips=55>Matsuko</tips>'s face stays clouded. If <tips=1>Xie Liang</tips> returned without his sanity, what would that do to her?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0555",
@@ -4082,7 +5551,13 @@
       "sj": "",
       "se": "",
       "jp": "　気になったが、私は続ける。",
-      "en": "I wonder, but press on."
+      "en": "I wonder, but press on.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0556",
@@ -4091,7 +5566,13 @@
       "sj": "",
       "se": "",
       "jp": "「それに傍証もある。調べたところによるとね、<tips=31>エリー・ホワイト</tips>は<tips=7>ＹＳ</tips>をやめたあと、児童施設を作って子供たちの面倒を見ているらしいんだよ。闇商人のセカンドライフとしちゃあまりに突拍子もないが、子供として生まれ変わった<tips=1>謝亮</tips>をこっそり育てるには、良い商売だと思わないか？　あの<tips=7>ＹＳ</tips>の大幹部が仕事をやめて一人の子供を育て始めたとなればただごとではない何かを想像させるが、ボランティアをはじめたとなればまだ説明がつく」",
-      "en": "“There's circumstantial evidence too. <tips=31>Elly White</tips> apparently left <tips=7>YS</tips> and opened a children's home. A strange second act for a black-market merchant—but a perfect cover for secretly raising <tips=1>Xie Liang</tips> after he was reborn as a child, wouldn't you say? If a senior <tips=7>YS</tips> executive quit to raise one particular child, people would ask questions. ‘She took up charity’ explains the whole thing.”"
+      "en": "“There's circumstantial evidence too. <tips=31>Elly White</tips> apparently left <tips=7>YS</tips> and opened a children's home. A strange second act for a black-market merchant—but a perfect cover for secretly raising <tips=1>Xie Liang</tips> after he was reborn as a child, wouldn't you say? If a senior <tips=7>YS</tips> executive quit to raise one particular child, people would ask questions. ‘She took up charity’ explains the whole thing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0557",
@@ -4100,7 +5581,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「……でも、本当に、ただ子供の世話がしたかっただけかもしれません」",
-      "en": "“...Or perhaps she truly wanted to care for children.”"
+      "en": "“...Or perhaps she truly wanted to care for children.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0558",
@@ -4109,7 +5596,13 @@
       "sj": "",
       "se": "",
       "jp": "「心配性だな」",
-      "en": "“You do worry.”"
+      "en": "“You do worry.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0559",
@@ -4118,7 +5611,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は苦笑して、",
-      "en": "I smile wryly."
+      "en": "I smile wryly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0560",
@@ -4127,7 +5626,13 @@
       "sj": "",
       "se": "",
       "jp": "「それを今から確認しに行こうっていうんじゃないか」",
-      "en": "“That's what we're about to find out, isn't it?”"
+      "en": "“That's what we're about to find out, isn't it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0561",
@@ -4136,7 +5641,13 @@
       "sj": "",
       "se": "",
       "jp": "　私が言っても<tips=55>松子</tips>の表情は明るくならない。",
-      "en": "<tips=55>Matsuko</tips> does not brighten."
+      "en": "<tips=55>Matsuko</tips> does not brighten.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0562",
@@ -4145,7 +5656,13 @@
       "sj": "",
       "se": "",
       "jp": "「ま、不安になる気持ちはわかるよ。復活しているかどうかわからないし、復活していてもまともかどうかわからない。まともだとしても、きみのことを覚えていないかもしれない。いくらでも悪い方に考えられるものな。でも、きっと大丈夫だよ。根拠はないが、そんな気がするんだ」",
-      "en": "“I understand. Maybe he never came back. Maybe he did and lost his mind. Maybe he's perfectly sane and doesn't remember you. There are any number of ways this can end badly. But I think it will be all right. No evidence. Just a feeling.”"
+      "en": "“I understand. Maybe he never came back. Maybe he did and lost his mind. Maybe he's perfectly sane and doesn't remember you. There are any number of ways this can end badly. But I think it will be all right. No evidence. Just a feeling.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0563",
@@ -4154,7 +5671,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は私の顔をじっと見て、",
-      "en": "<tips=55>Matsuko</tips> studies my face."
+      "en": "<tips=55>Matsuko</tips> studies my face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0564",
@@ -4163,7 +5686,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「どうして<tips=50>路地</tips>さんは私を<tips=1>亮</tips>さんに会わせようとしてくれるんですか？　私を待たないで、一人で<tips=31>エリー</tips>さんのところに確認しに行っても良かったはずなのに」",
-      "en": "“Why are you trying to bring me to him, <tips=50>Roji</tips>? Why reunite me with <tips=1>Ryou</tips>? You could have gone to see Miss <tips=31>Elly</tips> alone. You didn't need to wait for me.”"
+      "en": "“Why are you trying to bring me to him, <tips=50>Roji</tips>? Why reunite me with <tips=1>Ryou</tips>? You could have gone to see Miss <tips=31>Elly</tips> alone. You didn't need to wait for me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0565",
@@ -4172,7 +5701,13 @@
       "sj": "",
       "se": "",
       "jp": "「おれが一人で見に行ったら、<tips=1>謝亮</tips>は死んでいるよきっと。でも、誰よりも彼と会いたいと願っているあんたと一緒なら、一番良い形で生きているような気がするんだ」",
-      "en": "“If I'd gone alone, <tips=1>Xie Liang</tips> would surely be dead. If I go with the person who wants to see him more than anyone, I have a feeling we'll find him alive in the best possible way.”"
+      "en": "“If I'd gone alone, <tips=1>Xie Liang</tips> would surely be dead. If I go with the person who wants to see him more than anyone, I have a feeling we'll find him alive in the best possible way.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0566",
@@ -4181,7 +5716,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そんな……」",
-      "en": "“But...”"
+      "en": "“But...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0567",
@@ -4190,7 +5731,13 @@
       "sj": "",
       "se": "",
       "jp": "「もちろん科学的には間違っている。でも、今のこの世界だったら、そんなこともあると思わないか？　ミュータントが現れてから、人間ってのは念じただけで物を動かしたり、触っただけで鍵を開けることが出来るようになったんだぜ。あんたの強い意志が、現実を塗り替えることだってあるかもしれない」",
-      "en": "“Of course it makes no scientific sense. But look at the world we live in. People move objects by thinking and open locks with a touch. Maybe your determination can rewrite reality too.”"
+      "en": "“Of course it makes no scientific sense. But look at the world we live in. People move objects by thinking and open locks with a touch. Maybe your determination can rewrite reality too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0568",
@@ -4199,7 +5746,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「……そんなちから、私にはないですよ」",
-      "en": "“...I don't have a power like that.”"
+      "en": "“...I don't have a power like that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2ab0688fb056.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0569",
@@ -4208,7 +5761,13 @@
       "sj": "",
       "se": "",
       "jp": "　私にからかわれているとでも思ったのか、<tips=55>松子</tips>は童女のように唇をとがらせる。",
-      "en": "Perhaps she thinks I am teasing her. <tips=55>Matsuko</tips> pouts like a little girl."
+      "en": "Perhaps she thinks I am teasing her. <tips=55>Matsuko</tips> pouts like a little girl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2ab0688fb056.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0570",
@@ -4217,7 +5776,13 @@
       "sj": "",
       "se": "",
       "jp": "「ま、そういうわけで、どうしてもあんたと一緒に確認したかったのさ。気を悪くしないでくれよ」",
-      "en": "“Anyway, that's why I wanted you here. Don't hold it against me.”"
+      "en": "“Anyway, that's why I wanted you here. Don't hold it against me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-2ab0688fb056.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0571",
@@ -4226,7 +5791,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「別に気を悪くしてはいませんが……」",
-      "en": "“I'm not offended...”"
+      "en": "“I'm not offended...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0572",
@@ -4235,7 +5806,13 @@
       "sj": "",
       "se": "",
       "jp": "「おれもね、あんたと<tips=1>亮</tips>が再会するところを見たいのさ。生き別れた恋人が、お互い一度死んで、生まれ変わって再会するんだ。その感動の場面こそが、ラストシーンに相応しいからね」",
-      "en": "“I want to see you and <tips=1>Ryou</tips> meet again. Two lovers separated by fate, both dead once, both reborn, finally reunited. What better final scene could there be?”"
+      "en": "“I want to see you and <tips=1>Ryou</tips> meet again. Two lovers separated by fate, both dead once, both reborn, finally reunited. What better final scene could there be?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0573",
@@ -4244,7 +5821,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「ラストシーン？」",
-      "en": "“Final scene?”"
+      "en": "“Final scene?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0574",
@@ -4253,7 +5836,13 @@
       "sj": "",
       "se": "",
       "jp": "「こっちの話だ。……おっと、少し雨が降ってきたようだな」",
-      "en": "“Never mind. ...Ah, here comes the rain.”"
+      "en": "“Never mind. ...Ah, here comes the rain.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0575",
@@ -4262,7 +5851,13 @@
       "sj": "",
       "se": "",
       "jp": "　しとしとと細い雨が降り始めてきた。私は黒い傘を広げて、彼女にも入るよう促す。",
-      "en": "A fine drizzle begins. I open a black umbrella and motion her beneath it."
+      "en": "A fine drizzle begins. I open a black umbrella and motion her beneath it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-24ba004f8f2e.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0576",
@@ -4271,7 +5866,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「……<tips=50>路地</tips>さんは、とても親切な方ですね」",
-      "en": "“...You really are very kind, <tips=50>Roji</tips>.”"
+      "en": "“...You really are very kind, <tips=50>Roji</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0577",
@@ -4280,7 +5881,13 @@
       "sj": "",
       "se": "",
       "jp": "「ただの物好きなのさ。そのせいで散々ひどい目に遭ってきたはずだが、どうも人間ってのは変わらないものらしい。……さて、目的の場所が近づいて来たぞ。一応連絡はとってあるがね、彼女がどんな顔で出迎えてくれるか、楽しみにしようじゃないか」",
-      "en": "“Just incurably nosy. It's brought me enough grief over the years, but I suppose people don't change. ...We're almost there. I warned her we were coming. Let's see what kind of welcome she has for us.”"
+      "en": "“Just incurably nosy. It's brought me enough grief over the years, but I suppose people don't change. ...We're almost there. I warned her we were coming. Let's see what kind of welcome she has for us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0585",
@@ -4307,7 +5914,13 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「お久しぶりです。<tips=50>路地</tips>さん……ですよね？」",
-      "en": "“It has been a long time. You are <tips=50>Roji</tips>... are you not?”"
+      "en": "“It has been a long time. You are <tips=50>Roji</tips>... are you not?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0589",
@@ -4316,7 +5929,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は以前とは違ってヴェールで顔を覆っていない。",
-      "en": "Unlike before, she wears no veil."
+      "en": "Unlike before, she wears no veil.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0590",
@@ -4325,7 +5944,13 @@
       "sj": "",
       "se": "",
       "jp": "　わかってはいたが、こうして面と向かうとハッとするほど若い。",
-      "en": "I know what to expect, yet face-to-face her youth still startles me."
+      "en": "I know what to expect, yet face-to-face her youth still startles me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0591",
@@ -4334,7 +5959,13 @@
       "sj": "",
       "se": "",
       "jp": "　唇の血色は良く、肌はみずみずしく、二十代前半といっても誰も疑わないだろう。下手すればもう五十に届こうかという実年齢にもかかわらず、ほんの小娘にしか見えないのだ。",
-      "en": "Her lips are full of color, her skin fresh. No one would question twenty-two or twenty-three. In truth she must be nearing fifty, yet she looks scarcely more than a girl."
+      "en": "Her lips are full of color, her skin fresh. No one would question twenty-two or twenty-three. In truth she must be nearing fifty, yet she looks scarcely more than a girl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0592",
@@ -4343,7 +5974,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうです。お久しぶりですな」",
-      "en": "“That's right. Been a long time.”"
+      "en": "“That's right. Been a long time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0593",
@@ -4352,7 +5989,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして私はそこで仮面を脱いだ。",
-      "en": "I remove my mask."
+      "en": "I remove my mask.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0594",
@@ -4361,7 +6004,13 @@
       "sj": "",
       "se": "",
       "jp": "　私がかぶっていたのは、鳥のような嘴のついたペストドクターの仮面で、そして私が身につけているのは黒い帽子と黒いマントだ。",
-      "en": "It is a plague doctor's mask with a birdlike beak. I wear it with a black hat and black cloak."
+      "en": "It is a plague doctor's mask with a birdlike beak. I wear it with a black hat and black cloak.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0595",
@@ -4370,7 +6019,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう、<tips=5>太刀川良馬</tips>がかつて『ドクター』として<tips=3>クリス・ツェー</tips>とコンビを組んでいたころの姿である。",
-      "en": "The very figure <tips=5>Ryouma Tachikawa</tips> once cut as “the Doctor,” partner to <tips=3>Chris Xie</tips>."
+      "en": "The very figure <tips=5>Ryouma Tachikawa</tips> once cut as “the Doctor,” partner to <tips=3>Chris Xie</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0602",
@@ -4379,7 +6034,8 @@
       "sj": "",
       "se": "",
       "jp": " 　私たちは建物の中の応接室と思しき部屋に案内された。",
-      "en": "We are shown into a room that appears to serve as a parlor."
+      "en": "We are shown into a room that appears to serve as a parlor.",
+      "bg": "assets/vn/backgrounds/bg-6b19f33154c6.webp"
     },
     {
       "id": "X17:0603",
@@ -4415,7 +6071,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「なんだか懐かしい雰囲気ですね。思い出しませんか？」",
-      "en": "“This feels strangely familiar. Doesn't it?”"
+      "en": "“This feels strangely familiar. Doesn't it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0607",
@@ -4424,7 +6086,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>が小さく囁く。",
-      "en": "<tips=55>Matsuko</tips> whispers."
+      "en": "<tips=55>Matsuko</tips> whispers.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0608",
@@ -4433,7 +6101,13 @@
       "sj": "",
       "se": "",
       "jp": "「私は懐かしくないね。最近も顔を出したばかりだ」",
-      "en": "“Not to me. I was there again only recently.”"
+      "en": "“Not to me. I was there again only recently.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0609",
@@ -4442,7 +6116,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「私も、一度行きたいなあ……」",
-      "en": "“I'd like to visit once...”"
+      "en": "“I'd like to visit once...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0610",
@@ -4451,7 +6131,13 @@
       "sj": "",
       "se": "",
       "jp": "「やめたほうがいい。あの頃の職員もまだいるし、死んだ筈の<tips=55>汐さん</tips>が現れたらびっくりするだろう」",
-      "en": "“Better not. Some of the old staff are still there. Imagine their surprise if Miss <tips=55>Shio</tips>, who is supposed to be dead, walked in.”"
+      "en": "“Better not. Some of the old staff are still there. Imagine their surprise if Miss <tips=55>Shio</tips>, who is supposed to be dead, walked in.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0611",
@@ -4460,7 +6146,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「そうですよね」",
-      "en": "“That's true.”"
+      "en": "“That's true.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0612",
@@ -4469,7 +6161,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は寂しそうに笑う。",
-      "en": "<tips=55>Matsuko</tips> smiles sadly."
+      "en": "<tips=55>Matsuko</tips> smiles sadly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0613",
@@ -4478,7 +6176,13 @@
       "sj": "",
       "se": "",
       "jp": "「ティーバッグしかないのですがよろしいですか？」",
-      "en": "“I only have tea bags. Will that be all right?”"
+      "en": "“I only have tea bags. Will that be all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0614",
@@ -4487,7 +6191,13 @@
       "sj": "",
       "se": "",
       "jp": "　給湯室の方から<tips=31>エリー</tips>の声がする。",
-      "en": "<tips=31>Elly</tips>'s voice comes from the kitchenette."
+      "en": "<tips=31>Elly</tips>'s voice comes from the kitchenette.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0615",
@@ -4496,7 +6206,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、おかまいなく」",
-      "en": "“Please, don't go to any trouble.”"
+      "en": "“Please, don't go to any trouble.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0616",
@@ -4505,7 +6221,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は断ったつもりだったが、<tips=31>エリー</tips>は紅茶を作って持って来てくれた。",
-      "en": "I mean to decline, but <tips=31>Elly</tips> makes the tea and brings it in anyway."
+      "en": "I mean to decline, but <tips=31>Elly</tips> makes the tea and brings it in anyway.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0617",
@@ -4514,7 +6236,13 @@
       "sj": "",
       "se": "",
       "jp": "「ミス･ホワイト自ら淹れて頂くとは恐縮ですな」",
-      "en": "“Tea prepared by Miss White herself. I'm honored.”"
+      "en": "“Tea prepared by Miss White herself. I'm honored.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0618",
@@ -4523,7 +6251,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「今はその名は使っていないんです。<tips=31>エリー・ホワイト</tips>というのは屋号のようなものでしたから」",
-      "en": "“I no longer use that name. <tips=31>Elly White</tips> was more a trade name than anything else.”"
+      "en": "“I no longer use that name. <tips=31>Elly White</tips> was more a trade name than anything else.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0619",
@@ -4532,7 +6270,17 @@
       "sj": "",
       "se": "",
       "jp": "「そうでしたな。ええと、確か……」",
-      "en": "“Of course. Let me see...”"
+      "en": "“Of course. Let me see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0620",
@@ -4541,7 +6289,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「<tips=87>ベルーハ</tips>です。親のように大事な方から頂いた名前です」",
-      "en": "“<tips=87>Beluha</tips>. It was given to me by someone I loved like a parent.”"
+      "en": "“<tips=87>Beluha</tips>. It was given to me by someone I loved like a parent.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0621",
@@ -4550,7 +6308,17 @@
       "sj": "",
       "se": "",
       "jp": "「そうですか」",
-      "en": "“I see.”"
+      "en": "“I see.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0622",
@@ -4559,7 +6327,17 @@
       "sj": "",
       "se": "",
       "jp": "　私は原稿のために様々な調査をしていて、彼女の素性もほぼ洗い出している。彼女の本来の名は<tips=32>アサヒ</tips>と言ったはずだ。<tips=9>Y地区</tips>の貧しい家庭に生まれ、『<tips=18>ローズ･クラブ</tips>』に売られた。そこで後に<tips=7>ＹＳ</tips>を作る<tips=3>クリス・ツェー</tips>と、『ドクター』として暗躍する前の<tips=5>太刀川良馬</tips>に救出されるのだ。",
-      "en": "My research for the manuscript uncovered nearly all of her past. Her original name was <tips=32>Asahi</tips>. Born to a poor family in <tips=9>Y District</tips>, she was sold to the “<tips=18>Rose Club</tips>.” There she was rescued by the man who would later found <tips=7>YS</tips>, <tips=3>Chris Xie</tips>, and by <tips=5>Ryouma Tachikawa</tips>, before he began working in the shadows as “the Doctor.”"
+      "en": "My research for the manuscript uncovered nearly all of her past. Her original name was <tips=32>Asahi</tips>. Born to a poor family in <tips=9>Y District</tips>, she was sold to the “<tips=18>Rose Club</tips>.” There she was rescued by the man who would later found <tips=7>YS</tips>, <tips=3>Chris Xie</tips>, and by <tips=5>Ryouma Tachikawa</tips>, before he began working in the shadows as “the Doctor.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0623",
@@ -4568,7 +6346,17 @@
       "sj": "",
       "se": "",
       "jp": "　思えば、そこで三人が出会った日から全てがはじまったのかもしれないな。",
-      "en": "Come to think of it, perhaps everything began on the day those three met."
+      "en": "Come to think of it, perhaps everything began on the day those three met.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0624",
@@ -4577,7 +6365,17 @@
       "sj": "",
       "se": "",
       "jp": "　私はそんなことをぼんやりと考えた。",
-      "en": "The thought drifts through my mind."
+      "en": "The thought drifts through my mind.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0625",
@@ -4586,7 +6384,17 @@
       "sj": "",
       "se": "",
       "jp": "　かつて<tips=32>アサヒ</tips>と呼ばれる不幸な少女だった彼女は、私がかたわらに置いたマスクをじっと見つめている。",
-      "en": "The woman who was once an unhappy girl called <tips=32>Asahi</tips> stares at the mask beside me."
+      "en": "The woman who was once an unhappy girl called <tips=32>Asahi</tips> stares at the mask beside me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0626",
@@ -4595,7 +6403,17 @@
       "sj": "",
       "se": "",
       "jp": "「気になりますか？」",
-      "en": "“Curious?”"
+      "en": "“Curious?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0627",
@@ -4604,7 +6422,17 @@
       "sj": "",
       "se": "",
       "jp": "　私が言うと彼女は頷き、",
-      "en": "At my question, she nods."
+      "en": "At my question, she nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0628",
@@ -4613,7 +6441,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「それ、本物ですか？　そっくり同じで……」",
-      "en": "“Is it the real one? It looks exactly the same...”"
+      "en": "“Is it the real one? It looks exactly the same...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0629",
@@ -4622,7 +6460,17 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=5>太刀川</tips>先生の遺品ですよ。駄目になったパーツは新しくかえましたがね」",
-      "en": "“One of Dr. <tips=5>Tachikawa</tips>'s personal effects. I had to replace a few pieces that had rotted away.”"
+      "en": "“One of Dr. <tips=5>Tachikawa</tips>'s personal effects. I had to replace a few pieces that had rotted away.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0630",
@@ -4631,7 +6479,17 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は目を丸くして驚きの顔を浮かべる。",
-      "en": "Her eyes widen in surprise."
+      "en": "Her eyes widen in surprise.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0631",
@@ -4640,7 +6498,17 @@
       "sj": "",
       "se": "",
       "jp": "「警察の保管庫に死蔵していたのを引っ張り出して来たんですよ。もう一回この街の景色を見せてやりたくて」",
-      "en": "“It was gathering dust in a police storeroom, so I brought it out. Thought I'd show it the City one more time.”"
+      "en": "“It was gathering dust in a police storeroom, so I brought it out. Thought I'd show it the City one more time.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0632",
@@ -4649,7 +6517,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「まあ……」",
-      "en": "“My...”"
+      "en": "“My...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0633",
@@ -4658,7 +6536,17 @@
       "sj": "",
       "se": "",
       "jp": "「どうぞ」",
-      "en": "“Here.”"
+      "en": "“Here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0634",
@@ -4667,7 +6555,17 @@
       "sj": "",
       "se": "",
       "jp": "　私がマスクを手渡すと、<tips=87>ベルーハ</tips>はおそるおそるそれを受け取った。",
-      "en": "I hand her the mask. <tips=87>Beluha</tips> takes it gingerly."
+      "en": "I hand her the mask. <tips=87>Beluha</tips> takes it gingerly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0635",
@@ -4676,7 +6574,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「懐かしい……。色んなことが、思い出されますわ」",
-      "en": "“How nostalgic... So many memories are coming back.”"
+      "en": "“How nostalgic... So many memories are coming back.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0636",
@@ -4685,7 +6593,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>はしみじみと眺めたあとにそれを一旦かぶって、そして外すと恥ずかしげに笑った。その仕草はまるで少女のようだ。",
-      "en": "<tips=87>Beluha</tips> studies it for a long moment, puts it on, then removes it and smiles shyly. For an instant, she is a girl again."
+      "en": "<tips=87>Beluha</tips> studies it for a long moment, puts it on, then removes it and smiles shyly. For an instant, she is a girl again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0637",
@@ -4694,7 +6612,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「私、<tips=3>クリス</tips>様のことは兄のように、<tips=5>太刀川</tips>先生のことは父のように思っています。そして、<tips=31>エリー・ホワイト</tips>は母のように……。でも、みんな死んでしまった」",
-      "en": "“Lord <tips=3>Chris</tips> was like an older brother to me. Dr. <tips=5>Tachikawa</tips> was like a father, and <tips=31>Elly White</tips> a mother... Now all of them are dead.”"
+      "en": "“Lord <tips=3>Chris</tips> was like an older brother to me. Dr. <tips=5>Tachikawa</tips> was like a father, and <tips=31>Elly White</tips> a mother... Now all of them are dead.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0638",
@@ -4703,7 +6631,17 @@
       "sj": "",
       "se": "",
       "jp": "　膝の上に置いたマスクを見つめながら<tips=87>ベルーハ</tips>は言う。",
-      "en": "<tips=87>Beluha</tips> speaks while staring at the mask on her lap."
+      "en": "<tips=87>Beluha</tips> speaks while staring at the mask on her lap.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0639",
@@ -4712,7 +6650,17 @@
       "sj": "",
       "se": "",
       "jp": "「人は死ぬものです。普通はね」",
-      "en": "“People die. Usually.”"
+      "en": "“People die. Usually.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0640",
@@ -4721,7 +6669,17 @@
       "sj": "",
       "se": "",
       "jp": "　私が言うと、",
-      "en": "When I say that—"
+      "en": "When I say that—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-735c2a587baf.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0641",
@@ -4730,7 +6688,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「それだと、ここにいる私たちは普通じゃないってことですか」",
-      "en": "“Does that make the three of us unusual?”"
+      "en": "“Does that make the three of us unusual?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0642",
@@ -4739,7 +6707,17 @@
       "sj": "",
       "se": "",
       "jp": "　紅茶を飲みながら<tips=55>松子</tips>が笑う。",
-      "en": "<tips=55>Matsuko</tips> laughs over her tea."
+      "en": "<tips=55>Matsuko</tips> laughs over her tea.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0643",
@@ -4748,7 +6726,17 @@
       "sj": "",
       "se": "",
       "jp": "「そうですとも。この三人は不死の世界に片足を踏み入れた、妖怪のようなものです。だからこうやってね、真夜中にこそこそ集まって秘密の会合をしている」",
-      "en": "“Of course. The three of us have one foot in the immortal world. We're practically monsters, sneaking together at midnight for a secret meeting.”"
+      "en": "“Of course. The three of us have one foot in the immortal world. We're practically monsters, sneaking together at midnight for a secret meeting.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0644",
@@ -4757,7 +6745,17 @@
       "sj": "",
       "se": "",
       "jp": "　私がおどけると、<tips=55>松子</tips>は肩をすくめ、<tips=87>ベルーハ</tips>は苦笑する。",
-      "en": "<tips=55>Matsuko</tips> shrugs at my performance, while <tips=87>Beluha</tips> gives a rueful smile."
+      "en": "<tips=55>Matsuko</tips> shrugs at my performance, while <tips=87>Beluha</tips> gives a rueful smile.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0645",
@@ -4766,7 +6764,17 @@
       "sj": "",
       "se": "",
       "jp": "　私はその<tips=87>ベルーハ</tips>の顔を見ながら、",
-      "en": "Looking at <tips=87>Beluha</tips>, I add—"
+      "en": "Looking at <tips=87>Beluha</tips>, I add—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0646",
@@ -4775,7 +6783,17 @@
       "sj": "",
       "se": "",
       "jp": "「いや、三人ではなく、四人かな」",
-      "en": "“Or perhaps there are four of us.”"
+      "en": "“Or perhaps there are four of us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0647",
@@ -4784,7 +6802,17 @@
       "sj": "",
       "se": "",
       "jp": "　言ったが、想像と違って<tips=87>ベルーハ</tips>は表情を変えず穏やかに笑ったままだ。",
-      "en": "Contrary to my expectations, <tips=87>Beluha</tips> does not flinch. Her gentle smile remains."
+      "en": "Contrary to my expectations, <tips=87>Beluha</tips> does not flinch. Her gentle smile remains.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0648",
@@ -4793,7 +6821,17 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=87>ベルーハ</tips>さん、今日は<tips=55>汐さん</tips>とあんたを引き合わせるのが目的だと言ったけれど、それだけじゃない。他にもう一つ大事な目的がある」",
-      "en": "“Miss <tips=87>Beluha</tips>, I told you I came tonight to introduce you to Miss <tips=55>Shio</tips>. That isn't the whole truth. There is something else, something important.”"
+      "en": "“Miss <tips=87>Beluha</tips>, I told you I came tonight to introduce you to Miss <tips=55>Shio</tips>. That isn't the whole truth. There is something else, something important.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0649",
@@ -4802,7 +6840,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「なんでしょう？」",
-      "en": "“What is it?”"
+      "en": "“What is it?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0650",
@@ -4811,7 +6859,17 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=1>謝亮</tips>に会わせてもらいたい」",
-      "en": "“I want to meet <tips=1>Xie Liang</tips>.”"
+      "en": "“I want to meet <tips=1>Xie Liang</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0652",
@@ -4820,7 +6878,17 @@
       "sj": "",
       "se": "",
       "jp": "　その名を口にした瞬間、部屋の空気が変わる。",
-      "en": "The instant I say the name, the air in the room changes."
+      "en": "The instant I say the name, the air in the room changes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0653",
@@ -4829,7 +6897,17 @@
       "sj": "",
       "se": "",
       "jp": "　隣で<tips=55>松子</tips>が息をのみ、<tips=87>ベルーハ</tips>は穏やかな表情のままではあったが、それまでの和やかな印象が消えて、警戒が見えた。",
-      "en": "Beside me, <tips=55>Matsuko</tips> catches her breath. <tips=87>Beluha</tips>'s expression remains gentle, but all its warmth is gone. I see the wariness beneath."
+      "en": "Beside me, <tips=55>Matsuko</tips> catches her breath. <tips=87>Beluha</tips>'s expression remains gentle, but all its warmth is gone. I see the wariness beneath.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-53d71934d477.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0654",
@@ -4838,7 +6916,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「その方は、とっくに亡くなりましたよ」",
-      "en": "“That person died long ago.”"
+      "en": "“That person died long ago.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0655",
@@ -4847,7 +6935,17 @@
       "sj": "",
       "se": "",
       "jp": "　溜息と共に<tips=87>ベルーハ</tips>はそう吐き出す。",
-      "en": "<tips=87>Beluha</tips> lets the words out with a sigh."
+      "en": "<tips=87>Beluha</tips> lets the words out with a sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0656",
@@ -4856,7 +6954,17 @@
       "sj": "",
       "se": "",
       "jp": "「わかってるんだ。あんたは自分の血を使って<tips=1>謝亮</tips>を蘇らせた。再生した彼は、おそらくまだ子供の姿で、ここで孤児たちにまぎれて暮らしているんですよ。それがしたくて、あなたはこんな施設をはじめたんだ」",
-      "en": "“I know what you did. You used your blood to revive <tips=1>Xie Liang</tips>. He must still be a child, living here among the orphans. That's why you opened this home.”"
+      "en": "“I know what you did. You used your blood to revive <tips=1>Xie Liang</tips>. He must still be a child, living here among the orphans. That's why you opened this home.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0657",
@@ -4865,7 +6973,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「ただの空想です。私はただ、かつての自分のような子供を救ってやりたくて、この施設を作ったんです。これは子供の頃からの夢で、<tips=31>エリー・ホワイト</tips>にだって、語ったことがあるんですよ。彼女は笑って何もこたえてはくれませんでしたが」",
-      "en": "“That is fantasy. I built this home to save children like the girl I once was. It has been my dream since childhood. I even told <tips=31>Elly White</tips> about it once. She only laughed and gave me no answer.”"
+      "en": "“That is fantasy. I built this home to save children like the girl I once was. It has been my dream since childhood. I even told <tips=31>Elly White</tips> about it once. She only laughed and gave me no answer.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0658",
@@ -4874,7 +6992,17 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、長年の夢だったのは本当なんでしょう。だが、それだけではないはずだ。絶対に」",
-      "en": "“I believe it was an old dream. I don't believe it was your only reason. Not for a moment.”"
+      "en": "“I believe it was an old dream. I don't believe it was your only reason. Not for a moment.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0659",
@@ -4883,7 +7011,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「探偵さん」",
-      "en": "“Detective.”"
+      "en": "“Detective.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0660",
@@ -4892,7 +7030,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>は私の目を見つめ、",
-      "en": "<tips=87>Beluha</tips> looks into my eyes."
+      "en": "<tips=87>Beluha</tips> looks into my eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0661",
@@ -4901,7 +7049,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「疑うならお調べになったらいかがかしら？　名探偵<tips=50>路地邦昭</tips>の超能力で、見つけ出せない真実はないはずです」",
-      "en": "“If you suspect me, why not investigate? Surely no truth can hide from the great detective <tips=50>Kuniaki Roji</tips> and his psychic gift.”"
+      "en": "“If you suspect me, why not investigate? Surely no truth can hide from the great detective <tips=50>Kuniaki Roji</tips> and his psychic gift.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0662",
@@ -4910,7 +7068,17 @@
       "sj": "",
       "se": "",
       "jp": "「それじゃ意味がないんだよ」",
-      "en": "“That would miss the point.”"
+      "en": "“That would miss the point.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0663",
@@ -4919,7 +7087,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「どういうことですか？」",
-      "en": "“What do you mean?”"
+      "en": "“What do you mean?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0665",
@@ -4928,7 +7106,17 @@
       "sj": "",
       "se": "",
       "jp": "　私は怪訝な表情を浮かべる<tips=87>ベルーハ</tips>の膝に手を伸ばし、その上にあったマスクを手に取ると、顔にかぶる。",
-      "en": "I reach toward the puzzled <tips=87>Beluha</tips>, take the mask from her lap, and pull it over my face."
+      "en": "I reach toward the puzzled <tips=87>Beluha</tips>, take the mask from her lap, and pull it over my face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0666",
@@ -4937,7 +7125,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「な、なにを……」",
-      "en": "“W-what are you doing...?”"
+      "en": "“W-what are you doing...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0667",
@@ -4946,7 +7144,17 @@
       "sj": "",
       "se": "",
       "jp": "　顔を背けようとする彼女に、",
-      "en": "As she tries to look away—"
+      "en": "As she tries to look away—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0668",
@@ -4955,7 +7163,17 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=87>ベルーハ</tips>さん、目をそらさないで聞いてください」",
-      "en": "“Miss <tips=87>Beluha</tips>, look at me. Listen.”"
+      "en": "“Miss <tips=87>Beluha</tips>, look at me. Listen.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0669",
@@ -4964,7 +7182,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「そ、その仮面をつけて言うのは卑怯です……」",
-      "en": "“It isn't fair to say this while wearing that mask...”"
+      "en": "“It isn't fair to say this while wearing that mask...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0670",
@@ -4973,7 +7201,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>はそれでも言葉に逆らえず私を見る。その表情は、ここに来てからはじめて歪んでいる。",
-      "en": "Yet she cannot bring herself to disobey. <tips=87>Beluha</tips> looks at me, her face breaking for the first time since we arrived."
+      "en": "Yet she cannot bring herself to disobey. <tips=87>Beluha</tips> looks at me, her face breaking for the first time since we arrived.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0671",
@@ -4982,7 +7220,17 @@
       "sj": "",
       "se": "",
       "jp": "「私はあんたにしっかり聞いてほしいんですよ。………なあ<tips=87>ベルーハ</tips>さん、あんたは<tips=3>クリス・ツェー</tips>の息子とその恋人を引き合わせなければいけない。そして、その場面に立ちあうんだ」",
-      "en": "“I need you to hear every word. ...Miss <tips=87>Beluha</tips>, you must bring <tips=3>Chris Xie</tips>'s son together with the woman he loved. And you must stand there and see it happen.”"
+      "en": "“I need you to hear every word. ...Miss <tips=87>Beluha</tips>, you must bring <tips=3>Chris Xie</tips>'s son together with the woman he loved. And you must stand there and see it happen.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0672",
@@ -4991,7 +7239,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「なぜ私がそんなことを……」",
-      "en": "“Why must I do such a thing...?”"
+      "en": "“Why must I do such a thing...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0673",
@@ -5000,7 +7258,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>の青い目にうっすら涙が浮かぶ。この仮面の効果は思った以上に絶大のようだ。",
-      "en": "Tears gather in <tips=87>Beluha</tips>'s blue eyes. The mask has more power over her than I expected."
+      "en": "Tears gather in <tips=87>Beluha</tips>'s blue eyes. The mask has more power over her than I expected.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0674",
@@ -5009,7 +7277,17 @@
       "sj": "",
       "se": "",
       "jp": "「あんたに彼らの邪魔をする権利はない」",
-      "en": "“You have no right to keep them apart.”"
+      "en": "“You have no right to keep them apart.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0675",
@@ -5018,7 +7296,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>は歯を食いしばる。",
-      "en": "<tips=87>Beluha</tips> clenches her teeth."
+      "en": "<tips=87>Beluha</tips> clenches her teeth.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0676",
@@ -5027,7 +7315,17 @@
       "sj": "",
       "se": "",
       "jp": "「ここで欲望のまま<tips=1>謝亮</tips>をペットみたいに飼っていたって、きみは自分の胸に空いた穴を何も埋めることが出来ない。そんなことはわかっているはずだ。彼は<tips=3>クリス・ツェー</tips>ではない。あんたの大事な人はとっくに死んだんです」",
-      "en": "“You can keep <tips=1>Xie Liang</tips> here like a pet and indulge every desire you have. It still won't fill the hole in your heart. You know that. He isn't <tips=3>Chris Xie</tips>. The person you loved died long ago.”"
+      "en": "“You can keep <tips=1>Xie Liang</tips> here like a pet and indulge every desire you have. It still won't fill the hole in your heart. You know that. He isn't <tips=3>Chris Xie</tips>. The person you loved died long ago.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-b9c221131ae8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0677",
@@ -5036,7 +7334,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「本物の先生なら、そんな残酷なことは言いませんっ」",
-      "en": "“The real Doctor would never say something so cruel!”"
+      "en": "“The real Doctor would never say something so cruel!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0679",
@@ -5045,7 +7353,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>はさっと立ち上がると、私たちに背を向けた。",
-      "en": "<tips=87>Beluha</tips> shoots to her feet and turns her back on us."
+      "en": "<tips=87>Beluha</tips> shoots to her feet and turns her back on us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0680",
@@ -5054,7 +7368,13 @@
       "sj": "",
       "se": "",
       "jp": "「ついて来てください」",
-      "en": "“Follow me.”"
+      "en": "“Follow me.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0681",
@@ -5063,7 +7383,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=87>ベルーハ</tips>」",
-      "en": "“<tips=87>Beluha</tips>.”"
+      "en": "“<tips=87>Beluha</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0682",
@@ -5072,7 +7398,13 @@
       "sj": "",
       "se": "",
       "jp": "「……彼はまだ起きています」",
-      "en": "“...He is still awake.”"
+      "en": "“...He is still awake.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0683",
@@ -5081,7 +7413,13 @@
       "sj": "",
       "se": "",
       "jp": "　震える声で言うと、彼女は顔の辺りに一旦手をやり、そしてドアの方へ歩いて行った。",
-      "en": "Her voice trembles. She lifts a hand briefly to her face, then walks toward the door."
+      "en": "Her voice trembles. She lifts a hand briefly to her face, then walks toward the door.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0684",
@@ -5090,7 +7428,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=55>汐</tips>さん」",
-      "en": "“Miss <tips=55>Shio</tips>.”"
+      "en": "“Miss <tips=55>Shio</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0685",
@@ -5099,7 +7443,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は立ち上がって<tips=55>松子</tips>を振り返る。",
-      "en": "I stand and turn to <tips=55>Matsuko</tips>."
+      "en": "I stand and turn to <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-b5c3b616021e.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0686",
@@ -5108,7 +7458,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「は、はい」",
-      "en": "“Y-yes.”"
+      "en": "“Y-yes.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0687",
@@ -5117,7 +7473,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女はこわばった顔で立ち上がると、そしてふらりとよろける。私は彼女の腕を掴んでそれを支える。",
-      "en": "She rises, her face rigid, and sways. I catch her by the arm."
+      "en": "She rises, her face rigid, and sways. I catch her by the arm.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0688",
@@ -5126,7 +7488,13 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「す、すみません。緊張して……」",
-      "en": "“S-sorry. I'm nervous...”"
+      "en": "“S-sorry. I'm nervous...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0689",
@@ -5135,7 +7503,13 @@
       "sj": "",
       "se": "",
       "jp": "　言葉通り、<tips=55>松子</tips>の顔は血の気が引いて真っ青になっていた。",
-      "en": "It is no exaggeration. Every trace of color has drained from <tips=55>Matsuko</tips>'s face."
+      "en": "It is no exaggeration. Every trace of color has drained from <tips=55>Matsuko</tips>'s face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-c3e999523571.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0697",
@@ -5144,7 +7518,8 @@
       "sj": "",
       "se": "",
       "jp": "「彼は今、<tips=1>謝亮</tips>ではなく<tips=1>菅原亮</tips>という名で生活しています」",
-      "en": "“He no longer lives as <tips=1>Xie Liang</tips>. His name now is <tips=1>Ryou Sugawara</tips>.”"
+      "en": "“He no longer lives as <tips=1>Xie Liang</tips>. His name now is <tips=1>Ryou Sugawara</tips>.”",
+      "bg": "assets/vn/backgrounds/bg-3334c7884ded.webp"
     },
     {
       "id": "X17:0698",
@@ -5468,7 +7843,13 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「ここです」",
-      "en": "“Here.”"
+      "en": "“Here.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0735",
@@ -5477,7 +7858,13 @@
       "sj": "",
       "se": "",
       "jp": "　廊下に並んだドアのなかでただ一つ、隙間から明かりの漏れるドアの前に立ち、<tips=87>ベルーハ</tips>は振り返った。",
-      "en": "Only one of the doors along the corridor leaks light through its frame. <tips=87>Beluha</tips> stops before it and turns."
+      "en": "Only one of the doors along the corridor leaks light through its frame. <tips=87>Beluha</tips> stops before it and turns.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0736",
@@ -5486,7 +7873,13 @@
       "sj": "",
       "se": "",
       "jp": "「心の準備はどうだ？」",
-      "en": "“Are you ready?”"
+      "en": "“Are you ready?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0737",
@@ -5495,7 +7888,13 @@
       "sj": "",
       "se": "",
       "jp": "　私は<tips=55>松子</tips>に尋ねる。",
-      "en": "I ask <tips=55>Matsuko</tips>."
+      "en": "I ask <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "X17:0738",
@@ -5504,7 +7903,17 @@
       "sj": "汐松子",
       "se": "Matsuko Shio",
       "jp": "「はい、大丈夫です」",
-      "en": "“Yes. I'm ready.”"
+      "en": "“Yes. I'm ready.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0739",
@@ -5513,7 +7922,17 @@
       "sj": "",
       "se": "",
       "jp": "　うわずった声だが、はっきりとした意志と覚悟が感じられる。もう怯えてはいないようだ。",
-      "en": "Her voice is high with strain, but the resolve beneath it is unmistakable. She is no longer afraid."
+      "en": "Her voice is high with strain, but the resolve beneath it is unmistakable. She is no longer afraid.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0740",
@@ -5522,7 +7941,17 @@
       "sj": "",
       "se": "",
       "jp": "「いい子だ」",
-      "en": "“Good girl.”"
+      "en": "“Good girl.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0741",
@@ -5531,7 +7960,17 @@
       "sj": "",
       "se": "",
       "jp": "　そして私は<tips=87>ベルーハ</tips>に目で合図する。",
-      "en": "I signal <tips=87>Beluha</tips> with my eyes."
+      "en": "I signal <tips=87>Beluha</tips> with my eyes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0742",
@@ -5540,7 +7979,17 @@
       "sj": "エリー・ホワイト（ベル―）",
       "se": "Elly White",
       "jp": "「それでは」",
-      "en": "“Very well.”"
+      "en": "“Very well.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0743",
@@ -5549,7 +7998,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=87>ベルーハ</tips>は言うと、ガチャリと音を立ててドアを開いた。",
-      "en": "<tips=87>Beluha</tips> opens the door with a click."
+      "en": "<tips=87>Beluha</tips> opens the door with a click.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-43ed49197591.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-34d1404bc76b.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "X17:0756",
@@ -5558,7 +8017,8 @@
       "sj": "",
       "se": "",
       "jp": "　真っ暗な廊下で漏れた光を見たときに想像していたほど部屋のなかは明るくなく、むしろ薄暗い。",
-      "en": "The room is far dimmer than the light spilling into the black corridor suggested."
+      "en": "The room is far dimmer than the light spilling into the black corridor suggested.",
+      "bg": "assets/vn/backgrounds/bg-8730fd6b9d62.webp"
     },
     {
       "id": "X17:0757",
@@ -5675,7 +8135,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「やあ、久しぶり」",
-      "en": "“Hello. It's been a while.”"
+      "en": "“Hello. It's been a while.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0774",
@@ -5684,7 +8150,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼は恥ずかしそうに頭をかきつつ、",
-      "en": "He scratches his head, embarrassed."
+      "en": "He scratches his head, embarrassed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0775",
@@ -5693,7 +8165,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「実にみっともない話だけれど、僕はまだ、生きているようだ」",
-      "en": "“Humiliating as it is, I seem to be alive.”"
+      "en": "“Humiliating as it is, I seem to be alive.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0776",
@@ -5702,7 +8180,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして溜息をつく。",
-      "en": "Then he sighs."
+      "en": "Then he sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0777",
@@ -5711,7 +8195,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=55>松子</tips>は目を見開き、その少年の顔を食い入るように見つめている。",
-      "en": "<tips=55>Matsuko</tips>'s eyes widen. She stares hungrily at the boy's face."
+      "en": "<tips=55>Matsuko</tips>'s eyes widen. She stares hungrily at the boy's face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-bf0578d7832c.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0778",
@@ -5720,7 +8210,13 @@
       "sj": "謝亮（少年時代）",
       "se": "Xie Liang",
       "jp": "「思ったようにはならなかったが、しかし生きるしかない。そもそも、我々は全員、生まれてきたから、生きているというだけなんだからね」",
-      "en": "“It isn't what I intended. Still, I have no choice but to live. None of us has any grander reason, after all. We were born, so we live.”"
+      "en": "“It isn't what I intended. Still, I have no choice but to live. None of us has any grander reason, after all. We were born, so we live.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0779",
@@ -5729,7 +8225,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう言った瞬間、<tips=55>松子</tips>は膝を折って泣き崩れた。",
-      "en": "The moment he says it, <tips=55>Matsuko</tips>'s knees give way. She collapses, sobbing."
+      "en": "The moment he says it, <tips=55>Matsuko</tips>'s knees give way. She collapses, sobbing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-30054268ef85.webp",
+          "s": "c"
+        }
+      ]
     },
     {
       "id": "X17:0786",
@@ -5756,7 +8258,8 @@
       "sj": "",
       "se": "",
       "jp": "　彼は号泣する<tips=55>松子</tips>に近づき、その震える肩にぽんと手を置く。",
-      "en": "He approaches the sobbing <tips=55>Matsuko</tips> and rests one hand lightly on her trembling shoulder."
+      "en": "He approaches the sobbing <tips=55>Matsuko</tips> and rests one hand lightly on her trembling shoulder.",
+      "bg": "assets/vn/backgrounds/bg-3a35a93e7057.webp"
     },
     {
       "id": "X17:0805",

@@ -14,7 +14,8 @@
       "sj": "",
       "se": "",
       "jp": "　おれたちは食事をとるために<tips=59>暗闇通り</tips>を歩いて店を探した。",
-      "en": "We walk down <tips=59>Darkness Street</tips>, looking for somewhere to eat."
+      "en": "We walk down <tips=59>Darkness Street</tips>, looking for somewhere to eat.",
+      "bg": "assets/vn/backgrounds/bg-3e917cd04648.webp"
     },
     {
       "id": "B3-2:0011",
@@ -32,7 +33,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「<tips=33>壬生屋</tips>が<tips=7>ＹＳ</tips>の本体に取り込まれたからねえ……」",
-      "en": "“Because <tips=33>Mibuya</tips> has been absorbed into <tips=7>YS</tips> proper...”"
+      "en": "“Because <tips=33>Mibuya</tips> has been absorbed into <tips=7>YS</tips> proper...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0013",
@@ -41,7 +48,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれがふと感想を口にすると、<tips=59>暗闇通り</tips>出身の<tips=66>コンタ</tips>がそう言った。",
-      "en": "When I mention it, the man from <tips=59>Darkness Street</tips>—<tips=66>Konta</tips>—explains."
+      "en": "When I mention it, the man from <tips=59>Darkness Street</tips>—<tips=66>Konta</tips>—explains.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0014",
@@ -50,7 +63,13 @@
       "sj": "",
       "se": "",
       "jp": "「それがどう影響するんだ？　所属がかわったって、経営してるのは相変わらず<tips=33>壬生屋</tips>だろ？」",
-      "en": "“Why would that change anything? His affiliation changed, but <tips=33>Mibuya</tips> still runs the businesses, doesn’t he?”"
+      "en": "“Why would that change anything? His affiliation changed, but <tips=33>Mibuya</tips> still runs the businesses, doesn’t he?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0015",
@@ -59,7 +78,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「元々<tips=59>暗闇通り</tips>は<tips=33>壬生屋</tips>のテリトリーで立ちんぼは禁止なんだが、半グレの連中は気にせず女を立たせてた。だって、<tips=33>壬生屋</tips>は<tips=7>ＹＳ</tips>の幹部といっても、中枢の人間じゃないし、どっちかと言うと舐められてたからね。それが、正式に<tips=7>ＹＳ</tips>の本体に組み込まれたんだ。となると、今後やつらと揉めると<tips=76>旧義勝</tips>の怖い連中が顔を出してくるかもしれない。ほら、今話題の三代目<tips=81>龍頭</tips>は身内にも容赦しない厳しいやつだって恐れられてるしさ。実際、本当に<tips=76>旧義勝</tips>が来るとは限らないが、それを試そうというやつはいないだろう。揉めたくない連中はみんな他の通りへ移動したのさ」",
-      "en": "“<tips=59>Darkness Street</tips> has always been <tips=33>Mibuya</tips>’s territory, and street prostitution was forbidden. The half-gangsters put women out anyway. <tips=33>Mibuya</tips> was an executive in <tips=7>YS</tips>, sure, but he wasn’t part of its core. People looked down on him. Now his outfit has been formally absorbed into <tips=7>YS</tips>. Cause trouble with them, and the frightening men from <tips=76>Old Yi Shen</tips> may show up at your door. Everyone’s talking about how the third <tips=81>Longtou</tips> shows no mercy even to his own people. Maybe <tips=76>Old Yi Shen</tips> would never come, but nobody wants to test it. Anyone who wanted to avoid trouble moved to another street.”"
+      "en": "“<tips=59>Darkness Street</tips> has always been <tips=33>Mibuya</tips>’s territory, and street prostitution was forbidden. The half-gangsters put women out anyway. <tips=33>Mibuya</tips> was an executive in <tips=7>YS</tips>, sure, but he wasn’t part of its core. People looked down on him. Now his outfit has been formally absorbed into <tips=7>YS</tips>. Cause trouble with them, and the frightening men from <tips=76>Old Yi Shen</tips> may show up at your door. Everyone’s talking about how the third <tips=81>Longtou</tips> shows no mercy even to his own people. Maybe <tips=76>Old Yi Shen</tips> would never come, but nobody wants to test it. Anyone who wanted to avoid trouble moved to another street.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0016",
@@ -68,7 +93,13 @@
       "sj": "",
       "se": "",
       "jp": "「なるほど。さすがもと業界人だけあって詳しいな」",
-      "en": "“I see. Spoken like a former professional.”"
+      "en": "“I see. Spoken like a former professional.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0017",
@@ -77,7 +108,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そんなの、誰だってわかるさ。……しかし、<tips=1>亮</tips>のやつがリーダーになってから色々と街が動いてるな。そう言えば、爺さんたちはどうするんだろうね？　なんだか最近キナ臭いじゃないか。<tips=7>ＹＳ</tips>のやることにケチ付けたりしてさ。<tips=21>八龍会</tips>はそれでいいのかねえ。<tips=10>道夫</tips>君は何か聞いてない？」",
-      "en": "“Anybody could tell... Still, the City has changed in all sorts of ways since <tips=1>Liang</tips> took over. I wonder what the old men are planning. Things have started to smell dangerous. They criticize everything <tips=7>YS</tips> does. Can the <tips=21>Dragon Club</tips> really allow that? Have you heard anything, <tips=10>Michio</tips>?”"
+      "en": "“Anybody could tell... Still, the City has changed in all sorts of ways since <tips=1>Liang</tips> took over. I wonder what the old men are planning. Things have started to smell dangerous. They criticize everything <tips=7>YS</tips> does. Can the <tips=21>Dragon Club</tips> really allow that? Have you heard anything, <tips=10>Michio</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0018",
@@ -86,7 +123,13 @@
       "sj": "",
       "se": "",
       "jp": "「何も」",
-      "en": "“Nothing.”"
+      "en": "“Nothing.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0019",
@@ -95,7 +138,13 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そうか。でも、<tips=21>八龍会</tips>と<tips=7>ＹＳ</tips>で争うようなことになったらきっついな」",
-      "en": "“I see. But if the <tips=21>Dragon Club</tips> and <tips=7>YS</tips> start fighting, we’re in real trouble.”"
+      "en": "“I see. But if the <tips=21>Dragon Club</tips> and <tips=7>YS</tips> start fighting, we’re in real trouble.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0020",
@@ -104,7 +153,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>はそう言って溜息をつく。",
-      "en": "<tips=66>Konta</tips> sighs."
+      "en": "<tips=66>Konta</tips> sighs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0028",
@@ -113,7 +168,8 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=59>暗闇通り</tips>は夜は賑やかだが昼は看板をしまっている飲食店も多く、目当てのラーメン屋も臨時休業をしていたのでそのまま<tips=57>滑走路通り</tips>の方まで歩いて『Ｐｕｅｒｔｏ』というスペイン風バルの店に足を踏み入れた。",
-      "en": "<tips=59>Darkness Street</tips> comes alive at night, but many restaurants close during the day. Our ramen shop is temporarily shut, so we continue toward <tips=57>Runway Street</tips> and enter a Spanish-style bar called Puerto."
+      "en": "<tips=59>Darkness Street</tips> comes alive at night, but many restaurants close during the day. Our ramen shop is temporarily shut, so we continue toward <tips=57>Runway Street</tips> and enter a Spanish-style bar called Puerto.",
+      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp"
     },
     {
       "id": "B3-2:0029",
@@ -194,7 +250,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「お久しぶりです」",
-      "en": "“It’s been a while.”"
+      "en": "“It’s been a while.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0040",
@@ -203,7 +265,13 @@
       "sj": "",
       "se": "",
       "jp": "　白い服の方がそう言って、頭を下げると、もう一人もそれにあわせて慌てて頭を下げた。",
-      "en": "The girl in white says this and bows. The other hurriedly follows her lead."
+      "en": "The girl in white says this and bows. The other hurriedly follows her lead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0041",
@@ -212,7 +280,13 @@
       "sj": "",
       "se": "",
       "jp": "「あの時以来だね、<tips=44>シウ</tips>ちゃん。それと……<tips=51>さくら</tips>ちゃんだっけ？」",
-      "en": "“Not since the hospital, <tips=44>Siu</tips>. And... you’re <tips=51>Sakura</tips>, right?”"
+      "en": "“Not since the hospital, <tips=44>Siu</tips>. And... you’re <tips=51>Sakura</tips>, right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0042",
@@ -221,7 +295,13 @@
       "sj": "",
       "se": "",
       "jp": "　そう、そこに入って来たのは<tips=1>亮</tips>の妹である<tips=44>謝筱喬</tips>と、その友人である<tips=51>熨田さくら</tips>だった。",
-      "en": "The arrivals are <tips=1>Liang</tips>’s younger sister, <tips=44>Xie Xiaoqiao</tips>, and her friend <tips=51>Sakura Noshida</tips>."
+      "en": "The arrivals are <tips=1>Liang</tips>’s younger sister, <tips=44>Xie Xiaoqiao</tips>, and her friend <tips=51>Sakura Noshida</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0043",
@@ -230,7 +310,13 @@
       "sj": "",
       "se": "",
       "jp": "　二人と会うのは病院以来だ。あれは二ヶ月前……もう二ヶ月も過ぎているのだと思うとその早さに愕然とするが……<tips=41>グランドタワー</tips>を襲撃したサイキック少女に誘拐された<tips=44>シウ</tips>を、やはりサイキックである<tips=51>さくら</tips>が救出に向かい、<tips=7>ＹＳ</tips>のギャングたちが束になっても敵わなかったその相手から、見事奪還に成功したのだ。",
-      "en": "I haven’t seen them since the hospital. That was two months ago—the speed of it shocks me. A psychic girl attacked <tips=41>Grand Tower</tips> and abducted <tips=44>Siu</tips>. <tips=51>Sakura</tips>, another psychic, went after her and successfully took Siu back from an enemy a whole crowd of <tips=7>YS</tips> gangsters could not defeat."
+      "en": "I haven’t seen them since the hospital. That was two months ago—the speed of it shocks me. A psychic girl attacked <tips=41>Grand Tower</tips> and abducted <tips=44>Siu</tips>. <tips=51>Sakura</tips>, another psychic, went after her and successfully took Siu back from an enemy a whole crowd of <tips=7>YS</tips> gangsters could not defeat.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0044",
@@ -239,7 +325,13 @@
       "sj": "",
       "se": "",
       "jp": "　ただし無傷というわけにも行かず、彼女は足の一本を失い、また落下により体中を打ってしまうこととなったのだ。",
-      "en": "She didn’t escape unharmed. Sakura lost a leg and battered her whole body in a fall."
+      "en": "She didn’t escape unharmed. Sakura lost a leg and battered her whole body in a fall.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0045",
@@ -248,7 +340,13 @@
       "sj": "",
       "se": "",
       "jp": "　まったく勇気のある女の子である。",
-      "en": "What a brave girl."
+      "en": "What a brave girl.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0046",
@@ -257,7 +355,17 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「知り合い？」",
-      "en": "“You know them?”"
+      "en": "“You know them?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0047",
@@ -266,7 +374,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>がきょとんとした顔でおれと二人の顔を交互に見る。",
-      "en": "Looking bewildered, <tips=66>Konta</tips> glances from me to the girls and back."
+      "en": "Looking bewildered, <tips=66>Konta</tips> glances from me to the girls and back.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0048",
@@ -275,7 +393,17 @@
       "sj": "",
       "se": "",
       "jp": "　子供の頃は定食屋の息子として通していた<tips=1>亮</tips>は、その実の妹のことを仲間には話していない。<tips=66>コンタ</tips>も当然この目の前の少女が<tips=1>亮</tips>の妹だとは気がつかない。",
-      "en": "As a child, <tips=1>Liang</tips> passed himself off as a diner owner’s son and never told our friends about his real sister. Naturally, <tips=66>Konta</tips> has no idea that the girl before him is <tips=1>Liang</tips>’s sister."
+      "en": "As a child, <tips=1>Liang</tips> passed himself off as a diner owner’s son and never told our friends about his real sister. Naturally, <tips=66>Konta</tips> has no idea that the girl before him is <tips=1>Liang</tips>’s sister.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0049",
@@ -284,7 +412,17 @@
       "sj": "",
       "se": "",
       "jp": "　かといって、今ここでおれが話すわけにもいかないよな？　あの<tips=3>クリス・ツェー</tips>が常に手元に置いていた愛娘であり、現在街を騒がしている新<tips=81>龍頭</tips>の妹であると、いくらなんでもここで言うわけにはいかないもの。",
-      "en": "And I can hardly explain here, can I? She is the beloved daughter <tips=3>Chris Xie</tips> always kept close, and the sister of the new <tips=81>Longtou</tips> who has the City in an uproar. I certainly cannot announce that in public."
+      "en": "And I can hardly explain here, can I? She is the beloved daughter <tips=3>Chris Xie</tips> always kept close, and the sister of the new <tips=81>Longtou</tips> who has the City in an uproar. I certainly cannot announce that in public.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0050",
@@ -293,7 +431,17 @@
       "sj": "",
       "se": "",
       "jp": "　見たところ警備のものも居るわけでもないし、こっそりお忍びで<tips=41>グランドタワー</tips>を出て来たんだろう。その正体を、たとえ<tips=66>コンタ</tips>とは言え教えるわけにはいかないよな。そんなの絶対だめに決まっている。",
-      "en": "I see no guards. She must have slipped out of <tips=41>Grand Tower</tips> incognito. Even to <tips=66>Konta</tips>, I can’t reveal who she is. Absolutely not."
+      "en": "I see no guards. She must have slipped out of <tips=41>Grand Tower</tips> incognito. Even to <tips=66>Konta</tips>, I can’t reveal who she is. Absolutely not.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0051",
@@ -302,7 +450,17 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「おれは<tips=66>田中紺太</tips>。この<tips=10>見土</tips>君とは昔からの友だちなんだけど……きみたちのことは、一度も見たことないな」",
-      "en": "“I’m <tips=66>Konta Tanaka</tips>. This fellow, <tips=10>Mido</tips>, has been my friend since childhood, but... I’ve never seen either of you.”"
+      "en": "“I’m <tips=66>Konta Tanaka</tips>. This fellow, <tips=10>Mido</tips>, has been my friend since childhood, but... I’ve never seen either of you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0052",
@@ -311,7 +469,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>が首を捻りながら言うと、",
-      "en": "<tips=66>Konta</tips> says, tilting his head."
+      "en": "<tips=66>Konta</tips> says, tilting his head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0053",
@@ -320,7 +488,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「初めまして。私、<tips=44>謝筱喬</tips>といいます。<tips=1>謝亮</tips>の妹です」",
-      "en": "“Pleased to meet you. I’m <tips=44>Xie Xiaoqiao</tips>, <tips=1>Xie Liang</tips>’s younger sister.”"
+      "en": "“Pleased to meet you. I’m <tips=44>Xie Xiaoqiao</tips>, <tips=1>Xie Liang</tips>’s younger sister.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0054",
@@ -329,7 +507,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>シウ</tips>はあっさり答えた。",
-      "en": "<tips=44>Siu</tips> says it without hesitation."
+      "en": "<tips=44>Siu</tips> says it without hesitation.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0055",
@@ -338,7 +526,17 @@
       "sj": "",
       "se": "",
       "jp": "　えっ、言ってもいいの？",
-      "en": "Wait. She can tell him?"
+      "en": "Wait. She can tell him?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0056",
@@ -347,7 +545,21 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「ちょ、ちょっと<tips=44>筱喬</tips>。そんなに詳しく自己紹介しちゃって……」",
-      "en": "“W-wait, <tips=44>Xiaoqiao</tips>. You shouldn’t introduce yourself in quite that much detail...”"
+      "en": "“W-wait, <tips=44>Xiaoqiao</tips>. You shouldn’t introduce yourself in quite that much detail...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0057",
@@ -356,7 +568,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は慌てている。やっぱりダメらしい。そりゃそうだろう。",
-      "en": "<tips=51>Sakura</tips> panics. Apparently, she cannot. Naturally."
+      "en": "<tips=51>Sakura</tips> panics. Apparently, she cannot. Naturally.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-6a352f352150.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0058",
@@ -365,7 +591,21 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「えっ、<tips=1>謝亮</tips>の妹って……」",
-      "en": "“Wait, you’re <tips=1>Xie Liang</tips>’s sister...?”"
+      "en": "“Wait, you’re <tips=1>Xie Liang</tips>’s sister...?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0059",
@@ -374,7 +614,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>は放心して固まっている。やはりかつての友人とは言え、<tips=81>龍頭</tips>の妹をこんなに間近で発見したのはショックだったようだ。",
-      "en": "<tips=66>Konta</tips> turns to stone. Liang may be an old friend, but finding the <tips=81>Longtou</tips>’s sister at arm’s length is still a shock."
+      "en": "<tips=66>Konta</tips> turns to stone. Liang may be an old friend, but finding the <tips=81>Longtou</tips>’s sister at arm’s length is still a shock.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0060",
@@ -383,7 +637,21 @@
       "sj": "",
       "se": "",
       "jp": "「そ、そうなんだ。おれは子供の頃から知ってたんだけど、<tips=66>コンタ</tips>が会うのは初めてだよな。なかなかややこしい立場なんだから、あんまり大きな声は出さないでやってくれよ。そして、普段通り自然にするんだ」",
-      "en": "“Y-yes. I’ve known her since childhood, but this is your first time meeting her, <tips=66>Konta</tips>. Her position is complicated, so keep your voice down. Act natural. Exactly as you always do.”"
+      "en": "“Y-yes. I’ve known her since childhood, but this is your first time meeting her, <tips=66>Konta</tips>. Her position is complicated, so keep your voice down. Act natural. Exactly as you always do.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0061",
@@ -392,7 +660,21 @@
       "sj": "",
       "se": "",
       "jp": "　しかしおれの言葉は<tips=66>コンタ</tips>の耳には入らないようで、相変わらず石像のように凍り付いている。",
-      "en": "My words do not reach <tips=66>Konta</tips>. He remains frozen like a statue."
+      "en": "My words do not reach <tips=66>Konta</tips>. He remains frozen like a statue.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0062",
@@ -401,7 +683,21 @@
       "sj": "",
       "se": "",
       "jp": "　少なくとも大きな声を出す心配はなさそうだ。",
-      "en": "At least he won’t shout."
+      "en": "At least he won’t shout.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0063",
@@ -410,7 +706,21 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、二人ともそこに座りなよ。相席だけどいいかな？」",
-      "en": "“Well, sit down, both of you. You don’t mind sharing a table?”"
+      "en": "“Well, sit down, both of you. You don’t mind sharing a table?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0064",
@@ -419,7 +729,21 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「あ、はい」",
-      "en": "“Oh, sure.”"
+      "en": "“Oh, sure.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0065",
@@ -428,7 +752,21 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「じゃあ遠慮なく」",
-      "en": "“Then we’d be happy to.”"
+      "en": "“Then we’d be happy to.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0066",
@@ -437,7 +775,21 @@
       "sj": "",
       "se": "",
       "jp": "　おれが<tips=66>コンタ</tips>の隣に移動して、テーブルをはさんで向かいの二つの席を彼女たちにゆずる。",
-      "en": "I shift beside <tips=66>Konta</tips> and yield the two seats across the table to the girls."
+      "en": "I shift beside <tips=66>Konta</tips> and yield the two seats across the table to the girls.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0067",
@@ -446,7 +798,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は片足を気遣いながらの着席で、手間取りながら椅子に腰をおろした。",
-      "en": "Mindful of her missing leg, <tips=51>Sakura</tips> lowers herself into the chair with some difficulty."
+      "en": "Mindful of her missing leg, <tips=51>Sakura</tips> lowers herself into the chair with some difficulty.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "r"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0074",
@@ -455,7 +821,8 @@
       "sj": "",
       "se": "",
       "jp": "「足の調子はどうだい？」",
-      "en": "“How’s your leg?”"
+      "en": "“How’s your leg?”",
+      "bg": "assets/vn/backgrounds/bg-e429992f2860.webp"
     },
     {
       "id": "B3-2:0075",
@@ -896,7 +1263,14 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「申し訳ないです。今日は、私がいるせいで暗くなっちゃって……」",
-      "en": "“I’m sorry. My being here cast such gloom over everything today...”"
+      "en": "“I’m sorry. My being here cast such gloom over everything today...”",
+      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0137",
@@ -905,7 +1279,13 @@
       "sj": "",
       "se": "",
       "jp": "　店の外に出てから、<tips=44>筱喬</tips>はそう頭を下げる。",
-      "en": "Outside the restaurant, <tips=44>Xiaoqiao</tips> bows as she speaks."
+      "en": "Outside the restaurant, <tips=44>Xiaoqiao</tips> bows as she speaks.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0138",
@@ -914,7 +1294,13 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「私だめなんです。感情がすぐ出ちゃう。いやな気分になると暗くなっちゃうし、悲しいときは顔に出ちゃう。お兄ちゃんにはよく我慢が足りないって言われます」",
-      "en": "“I’m no good. My feelings come out at once. When something upsets me, I grow gloomy; when I’m sad, it shows on my face. My brother often says I lack self-control.”"
+      "en": "“I’m no good. My feelings come out at once. When something upsets me, I grow gloomy; when I’m sad, it shows on my face. My brother often says I lack self-control.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0139",
@@ -923,7 +1309,13 @@
       "sj": "",
       "se": "",
       "jp": "「謝る理由なんかなにもないよ。おれは楽しかった。久しぶりに<tips=44>シウ</tips>の顔が見られたからな」",
-      "en": "“There’s nothing to apologize for. I enjoyed myself. It has been a long time since I saw <tips=44>Siu</tips>.”"
+      "en": "“There’s nothing to apologize for. I enjoyed myself. It has been a long time since I saw <tips=44>Siu</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0140",
@@ -932,7 +1324,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれはそう言って微笑んでみせると、",
-      "en": "I smile at her."
+      "en": "I smile at her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0141",
@@ -941,7 +1339,13 @@
       "sj": "",
       "se": "",
       "jp": "「誰にだって暗く落ち込むときはあるんだ。気にしないでいい。<tips=51>さくら</tips>ちゃんだって、つらいなかこうして<tips=44>シウ</tips>が来てくれただけで嬉しいはずだよ。<tips=1>亮</tips>の言うことは話半分に聞いておけばいいんだ」",
-      "en": "“Everyone grows gloomy and despondent sometimes. Pay it no mind. I’m sure <tips=51>Sakura</tips> is happy simply that <tips=44>Siu</tips> came to see her, even while suffering herself. And you need only believe half of what <tips=1>Liang</tips> tells you.”"
+      "en": "“Everyone grows gloomy and despondent sometimes. Pay it no mind. I’m sure <tips=51>Sakura</tips> is happy simply that <tips=44>Siu</tips> came to see her, even while suffering herself. And you need only believe half of what <tips=1>Liang</tips> tells you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0142",
@@ -950,7 +1354,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれの言葉に、<tips=51>さくら</tips>は無言でうんうんと頷いている。",
-      "en": "At my words, <tips=51>Sakura</tips> nods emphatically in silence."
+      "en": "At my words, <tips=51>Sakura</tips> nods emphatically in silence.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0143",
@@ -959,7 +1369,17 @@
       "sj": "田中紺太",
       "se": "Konta Tanaka",
       "jp": "「そ、そうだよ。きみのお兄ちゃんは普通の人とはちょっと違うんだから。悪い奴じゃないんだけど、ズレてるっていうか……あっ、これはお兄ちゃんには内緒だからね」",
-      "en": "“Y-yes. Your brother is a little different from ordinary people. He isn’t a bad man, but he’s rather... out of step. Ah—don’t tell him I said so.”"
+      "en": "“Y-yes. Your brother is a little different from ordinary people. He isn’t a bad man, but he’s rather... out of step. Ah—don’t tell him I said so.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0144",
@@ -968,7 +1388,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=66>コンタ</tips>が慌ててそう口止めすると、<tips=44>シウ</tips>はやっとちょっと笑い、",
-      "en": "At <tips=66>Konta</tips>’s hurried demand for secrecy, <tips=44>Siu</tips> finally smiles a little."
+      "en": "At <tips=66>Konta</tips>’s hurried demand for secrecy, <tips=44>Siu</tips> finally smiles a little.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0145",
@@ -977,7 +1407,17 @@
       "sj": "筱喬",
       "se": "Xie Xiaoqiao",
       "jp": "「ありがとうございます」",
-      "en": "“Thank you.”"
+      "en": "“Thank you.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0146",
@@ -986,7 +1426,17 @@
       "sj": "",
       "se": "",
       "jp": "　と、頭を下げた。",
-      "en": "She bows."
+      "en": "She bows.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0147",
@@ -995,7 +1445,17 @@
       "sj": "",
       "se": "",
       "jp": "　一体何があったのだろう？　おれは何度か尋ねてみたが、結局彼女は理由を一言も話さずじまいである。",
-      "en": "What in the world happened? I ask several times, but in the end she never speaks one word of the cause."
+      "en": "What in the world happened? I ask several times, but in the end she never speaks one word of the cause.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0148",
@@ -1004,7 +1464,17 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=7>ＹＳ</tips>で起こったことだったら、立場上言えないのかもしれない。",
-      "en": "If the affair occurred within <tips=7>YS</tips>, perhaps her position forbids her to discuss it."
+      "en": "If the affair occurred within <tips=7>YS</tips>, perhaps her position forbids her to discuss it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "s": "l"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-11a926cf2e6d.webp",
+          "s": "r"
+        }
+      ]
     },
     {
       "id": "B3-2:0150",
@@ -1022,7 +1492,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「あの、連絡先交換させてもらえます？　<tips=44>筱喬</tips>のことで相談したいことがあるんです」",
-      "en": "“Um, may we exchange contact information? There’s something I’d like to discuss with you about <tips=44>Xiaoqiao</tips>.”"
+      "en": "“Um, may we exchange contact information? There’s something I’d like to discuss with you about <tips=44>Xiaoqiao</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0152",
@@ -1031,7 +1507,13 @@
       "sj": "",
       "se": "",
       "jp": "　取り出した携帯電話を片手に小声でおれに耳打ちしてきた。",
-      "en": "With her phone in one hand, she whispers into my ear."
+      "en": "With her phone in one hand, she whispers into my ear.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0153",
@@ -1040,7 +1522,13 @@
       "sj": "",
       "se": "",
       "jp": "「もちろん」",
-      "en": "“Of course.”"
+      "en": "“Of course.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0154",
@@ -1049,7 +1537,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは携帯電話を取り出す。",
-      "en": "I take out my phone."
+      "en": "I take out my phone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0155",
@@ -1058,7 +1552,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「助かります。他に、<tips=44>筱喬</tips>とお兄さん両方と親しい人がいなくて……」",
-      "en": "“That would help. I don’t know anyone else close to both <tips=44>Xiaoqiao</tips> and her brother...”"
+      "en": "“That would help. I don’t know anyone else close to both <tips=44>Xiaoqiao</tips> and her brother...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0156",
@@ -1067,7 +1567,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>はさっきみなで喋っているときとは違った深刻なトーンで言う。",
-      "en": "<tips=51>Sakura</tips> speaks with a gravity completely absent from her conversation with the group."
+      "en": "<tips=51>Sakura</tips> speaks with a gravity completely absent from her conversation with the group.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0157",
@@ -1076,7 +1582,13 @@
       "sj": "",
       "se": "",
       "jp": "　そしておれたちは通信機能でお互いの連絡先を、お互いの端末に記憶させ、またポケットにしまった。",
-      "en": "Using the devices’ communication function, we save our contact details on each other’s phones and return them to our pockets."
+      "en": "Using the devices’ communication function, we save our contact details on each other’s phones and return them to our pockets.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0158",
@@ -1085,7 +1597,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「じゃあ、またあとで」",
-      "en": "“I’ll speak to you later.”"
+      "en": "“I’ll speak to you later.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0160",
@@ -1121,7 +1639,8 @@
       "sj": "",
       "se": "",
       "jp": "　夜、部屋に帰る。",
-      "en": "That night, I return to my room."
+      "en": "That night, I return to my room.",
+      "bg": "assets/vn/backgrounds/bg-acd468ca7e3b.webp"
     },
     {
       "id": "B3-2:0176",
@@ -1409,7 +1928,8 @@
       "sj": "",
       "se": "",
       "jp": "　テレビではお気に入りのアニメが放送されていて、五才のおれは床に座ってそれを見ていた。",
-      "en": "My favorite anime was playing on television. At five years old, I sat on the floor and watched."
+      "en": "My favorite anime was playing on television. At five years old, I sat on the floor and watched.",
+      "bg": "assets/vn/backgrounds/bg-54783824da23.webp"
     },
     {
       "id": "B3-2:0220",
@@ -1850,7 +2370,8 @@
       "sj": "",
       "se": "",
       "jp": "　こんなの、別に珍しい境遇じゃない。このあたりの路地ではよくあることさ。",
-      "en": "There is nothing exceptional about such a childhood. It is common in the alleys around here."
+      "en": "There is nothing exceptional about such a childhood. It is common in the alleys around here.",
+      "bg": "assets/vn/backgrounds/bg-acd468ca7e3b.webp"
     },
     {
       "id": "B3-2:0283",
@@ -1949,7 +2470,14 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「突然押しかけてすみませんでした」",
-      "en": "“I’m sorry for turning up so suddenly.”"
+      "en": "“I’m sorry for turning up so suddenly.”",
+      "bg": "assets/vn/backgrounds/bg-acd468ca7e3b.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0309",
@@ -1958,7 +2486,13 @@
       "sj": "",
       "se": "",
       "jp": "　部屋にあがった<tips=51>さくら</tips>は若干恐縮したように言う。",
-      "en": "Inside my room, <tips=51>Sakura</tips> speaks with a faintly apologetic air."
+      "en": "Inside my room, <tips=51>Sakura</tips> speaks with a faintly apologetic air.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0310",
@@ -1967,7 +2501,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「あの、失礼かなとは思ったんですけれど、電話って苦手なんで。直接話したほうが話が早いかなと思って」",
-      "en": "“Um, I thought it might be rude, but I’m poor at phone calls. It seemed quicker to speak face-to-face.”"
+      "en": "“Um, I thought it might be rude, but I’m poor at phone calls. It seemed quicker to speak face-to-face.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0311",
@@ -1976,7 +2516,13 @@
       "sj": "",
       "se": "",
       "jp": "　ソファーにちょこんと座った彼女はぼうっとしてつかみ所のない表情をしている。",
-      "en": "Perched neatly on the sofa, she wears a vague expression impossible to grasp."
+      "en": "Perched neatly on the sofa, she wears a vague expression impossible to grasp.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0312",
@@ -1985,7 +2531,13 @@
       "sj": "",
       "se": "",
       "jp": "　その顔は汗だくになったように濡れている。病院ではこの濡れ具合を見て、異常な汗をかいていると看護師や医者が驚いていたが、<tips=44>シウ</tips>がサイキックである彼女の<tips=77>特質変異</tips>なのだと説明していた。",
-      "en": "Her face looks drenched with sweat. At the hospital, nurses and physicians saw this moisture and were alarmed by what they thought abnormal perspiration. <tips=44>Siu</tips> explained that it was the psychic girl’s <tips=77>Trait Mutation</tips>."
+      "en": "Her face looks drenched with sweat. At the hospital, nurses and physicians saw this moisture and were alarmed by what they thought abnormal perspiration. <tips=44>Siu</tips> explained that it was the psychic girl’s <tips=77>Trait Mutation</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0313",
@@ -1994,7 +2546,13 @@
       "sj": "",
       "se": "",
       "jp": "　部屋にあがったのにレインコートを着ているのも、濡れた肌を隠すためなのだろう。",
-      "en": "She presumably keeps the raincoat on even indoors to hide her wet skin."
+      "en": "She presumably keeps the raincoat on even indoors to hide her wet skin.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0314",
@@ -2003,7 +2561,13 @@
       "sj": "",
       "se": "",
       "jp": "「別に失礼じゃないけどさ。こんな時間に女の子一人で出かけて大丈夫なの？」",
-      "en": "“It isn’t rude. But is it safe for a girl to go out alone at this hour?”"
+      "en": "“It isn’t rude. But is it safe for a girl to go out alone at this hour?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0315",
@@ -2012,7 +2576,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは眠気覚ましのコーヒーを飲みながらそう尋ねた。",
-      "en": "I ask while drinking coffee to keep myself awake."
+      "en": "I ask while drinking coffee to keep myself awake.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0316",
@@ -2021,7 +2591,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「大丈夫です。夜出かけるのは慣れてますから」",
-      "en": "“It’s fine. I’m used to going out at night.”"
+      "en": "“It’s fine. I’m used to going out at night.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0317",
@@ -2030,7 +2606,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は素っ気ない態度でそう言った。",
-      "en": "<tips=51>Sakura</tips> answers curtly."
+      "en": "<tips=51>Sakura</tips> answers curtly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0318",
@@ -2039,7 +2621,13 @@
       "sj": "",
       "se": "",
       "jp": "「家族とかは？」",
-      "en": "“What about your family?”"
+      "en": "“What about your family?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0319",
@@ -2048,7 +2636,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「窓から飛んできたから気づかれてません」",
-      "en": "“I flew out the window, so they didn’t notice.”"
+      "en": "“I flew out the window, so they didn’t notice.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0320",
@@ -2057,7 +2651,13 @@
       "sj": "",
       "se": "",
       "jp": "「でも、このあいだあんな怪我をしたばかりだし、大丈夫なのかい？」",
-      "en": "“But you were badly injured only recently. Are you sure this is all right?”"
+      "en": "“But you were badly injured only recently. Are you sure this is all right?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0321",
@@ -2066,7 +2666,13 @@
       "sj": "",
       "se": "",
       "jp": "　すると、彼女はちょっと嫌な顔をして、",
-      "en": "She makes a slightly displeased face."
+      "en": "She makes a slightly displeased face.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0322",
@@ -2075,7 +2681,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「あのときは親は泣きましたけど……。ひきこもりが急に家を留守したと思ったら足をなくして帰って来たって言うんで。でも、しょうがないんです。足より大事なものを守るためだから」",
-      "en": "“My parents cried then... Their shut-in daughter suddenly vanished from home and returned without one leg. But it couldn’t be helped. I had to protect something more important than the leg.”"
+      "en": "“My parents cried then... Their shut-in daughter suddenly vanished from home and returned without one leg. But it couldn’t be helped. I had to protect something more important than the leg.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0323",
@@ -2084,7 +2696,13 @@
       "sj": "",
       "se": "",
       "jp": "「もう家から出さないとか言われなかった？」",
-      "en": "“Didn’t they tell you they’d never let you leave home again?”"
+      "en": "“Didn’t they tell you they’d never let you leave home again?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0324",
@@ -2093,7 +2711,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「言われました。なんだか全寮制の学校へ行くのを勧められたりもしました。でもそれは私の望みじゃないんです。両親の気持ちもわかりますけど、私も理解して欲しかったから、説得しました。一ヶ月かかったけど、なんとか納得してもらって今に至ります」",
-      "en": "“They did. They also proposed sending me to a boarding school. That wasn’t what I wanted. I understood my parents’ feelings, but wanted them to understand mine, so I persuaded them. It took a month, but somehow they accepted it. And here we are.”"
+      "en": "“They did. They also proposed sending me to a boarding school. That wasn’t what I wanted. I understood my parents’ feelings, but wanted them to understand mine, so I persuaded them. It took a month, but somehow they accepted it. And here we are.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0325",
@@ -2102,7 +2726,13 @@
       "sj": "",
       "se": "",
       "jp": "　本当に納得していたなら窓からこっそり出なくてもいいんじゃないかな？",
-      "en": "If they truly accepted it, ought she not be able to leave without escaping through a window?"
+      "en": "If they truly accepted it, ought she not be able to leave without escaping through a window?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0326",
@@ -2111,7 +2741,13 @@
       "sj": "",
       "se": "",
       "jp": "　そうは思ったが、おれは言わなかった。",
-      "en": "I think this, but do not say it."
+      "en": "I think this, but do not say it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0327",
@@ -2120,7 +2756,13 @@
       "sj": "",
       "se": "",
       "jp": "　なんというか、複雑な気持ちである。彼女は<tips=9>Y地区</tips>の外に住んでおり、両親もどうやら普通の仕事をしているらしい。",
-      "en": "My feelings are complicated. She lives outside <tips=9>Y District</tips>, and both parents apparently hold ordinary jobs."
+      "en": "My feelings are complicated. She lives outside <tips=9>Y District</tips>, and both parents apparently hold ordinary jobs.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0328",
@@ -2129,7 +2771,13 @@
       "sj": "",
       "se": "",
       "jp": "　そんな両親からすれば、娘がこんな<tips=9>Y地区</tips>にまでふらふらと飛んできて、ギャングのボスの妹と親友になり、彼女を救うために恐ろしいサイキックと戦って、足一本なくすだなんて、失神して倒れたくなるようなものだろうね。",
-      "en": "From their perspective, their daughter flew into a place like <tips=9>Y District</tips>, befriended a gang boss’s sister, fought a terrifying psychic to save her, and lost a leg. It must be enough to make them faint dead away."
+      "en": "From their perspective, their daughter flew into a place like <tips=9>Y District</tips>, befriended a gang boss’s sister, fought a terrifying psychic to save her, and lost a leg. It must be enough to make them faint dead away.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0329",
@@ -2138,7 +2786,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>は何か補償はしてやったろうけれど、たとえば大金を渡されたとしたって、かわいい娘の足とは引き替えにはならないんじゃないか？　それどころか、その金を見てますます恐ろしくなるに違いない。",
-      "en": "<tips=1>Liang</tips> must have compensated her somehow. Yet no fortune can be exchanged fairly for a beloved daughter’s leg. If anything, the sight of so much money must have frightened them further."
+      "en": "<tips=1>Liang</tips> must have compensated her somehow. Yet no fortune can be exchanged fairly for a beloved daughter’s leg. If anything, the sight of so much money must have frightened them further.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0330",
@@ -2147,7 +2801,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし本人はけろりとしたもので、まったく後悔した様子も、気にする様子も見えない。",
-      "en": "Sakura herself appears completely unconcerned. She displays neither regret nor anxiety."
+      "en": "Sakura herself appears completely unconcerned. She displays neither regret nor anxiety.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0331",
@@ -2156,7 +2816,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>の良いところも悪いところも知っているおれとしては、せっかく平和な暮らしがあるんだから深入りをやめて帰りなよと言いたい気持ちもある。が、そう言ったところで聞く気なんかないんだろうなあ。",
-      "en": "Knowing the good and evil of <tips=9>Y District</tips>, part of me wants to tell her that she already possesses a peaceful life and ought to go home before becoming more deeply involved. She would never listen."
+      "en": "Knowing the good and evil of <tips=9>Y District</tips>, part of me wants to tell her that she already possesses a peaceful life and ought to go home before becoming more deeply involved. She would never listen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0332",
@@ -2165,7 +2831,13 @@
       "sj": "",
       "se": "",
       "jp": "　なんたって、ろくに面識もないおれのところに、こうして夜一人で来るような女の子なんだもの。しかも用件は、<tips=44>シウ</tips>に関することだそうで、自分のためでさえないのだ。",
-      "en": "After all, this girl has come alone at night to visit a man she hardly knows. Moreover, the business concerns <tips=44>Siu</tips>, not herself."
+      "en": "After all, this girl has come alone at night to visit a man she hardly knows. Moreover, the business concerns <tips=44>Siu</tips>, not herself.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0333",
@@ -2174,7 +2846,13 @@
       "sj": "",
       "se": "",
       "jp": "「きみは不思議な子だなあ」",
-      "en": "“You’re a strange girl.”"
+      "en": "“You’re a strange girl.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0334",
@@ -2183,7 +2861,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが溜息をつくと、",
-      "en": "I sigh."
+      "en": "I sigh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0335",
@@ -2192,7 +2876,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=10>見土</tips>さん、人は何のために生きるんだと思います？」",
-      "en": "“Mr. <tips=10>Mido</tips>, what do you think people live for?”"
+      "en": "“Mr. <tips=10>Mido</tips>, what do you think people live for?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0336",
@@ -2201,7 +2891,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は唐突に奇妙な質問をしてきたのでおれは思わず苦笑してしまう。",
-      "en": "<tips=51>Sakura</tips> poses the strange question without warning, and I can’t help smiling wryly."
+      "en": "<tips=51>Sakura</tips> poses the strange question without warning, and I can’t help smiling wryly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0337",
@@ -2210,7 +2906,13 @@
       "sj": "",
       "se": "",
       "jp": "「やっぱり、幸福だとかを求めるためじゃない？」",
-      "en": "“To seek happiness, perhaps.”"
+      "en": "“To seek happiness, perhaps.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0338",
@@ -2219,7 +2921,13 @@
       "sj": "",
       "se": "",
       "jp": "　とりあえずそう答えると、",
-      "en": "I offer that answer for the moment."
+      "en": "I offer that answer for the moment.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0339",
@@ -2228,7 +2936,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうですか。まあ、普通の考えですね」",
-      "en": "“I see. That’s a fairly ordinary idea.”"
+      "en": "“I see. That’s a fairly ordinary idea.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0340",
@@ -2237,7 +2951,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>の言葉には、悪気はなさそうだ。",
-      "en": "There doesn’t seem to be any malice in <tips=51>Sakura</tips>’s words."
+      "en": "There doesn’t seem to be any malice in <tips=51>Sakura</tips>’s words.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0341",
@@ -2246,7 +2966,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「私はわからないんです。いろんな欲望とか欠けてるものはあって、それを満たすところを想像するとうっとりするけど、じゃあそのために生きるのかって言われたらそれはちょっとめんどくさいですよね。情熱がないのかもしれない」",
-      "en": "“I don’t know. I possess all sorts of desires and deficiencies, and imagining them fulfilled is delightful. But to live for their fulfillment sounds rather troublesome, doesn’t it? Perhaps I lack passion.”"
+      "en": "“I don’t know. I possess all sorts of desires and deficiencies, and imagining them fulfilled is delightful. But to live for their fulfillment sounds rather troublesome, doesn’t it? Perhaps I lack passion.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0342",
@@ -2255,7 +2981,13 @@
       "sj": "",
       "se": "",
       "jp": "「でもきみは、<tips=44>シウ</tips>ちゃんを命がけで守ったじゃないか」",
-      "en": "“But you risked your life to protect <tips=44>Siu</tips>.”"
+      "en": "“But you risked your life to protect <tips=44>Siu</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0343",
@@ -2264,7 +2996,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうなんです。それは<tips=44>筱喬</tips>のことが好きだから。でもこれって確かなものですか？　そんなのわからないですよね。ただの性欲かもしれない。あんな美人で可愛い子会ったことないし……。みんな足をなくしたからすごいことをしたみたいに言うんでしょうけど、これだって別に何とも思わない。ただ、こっちだけ大けがさせられたってことで、なんだかあいつに負けたみたいでイライラはするけど。もう一回あのテレポート女に会ったらやり返してやりたいです」",
-      "en": "“That’s true. I love <tips=44>Xiaoqiao</tips>. But is that feeling anything certain? We can’t know. It may be mere sexual desire; I’ve never met another girl so beautiful and adorable... Everyone speaks as if I accomplished something tremendous because I lost a leg, but I feel nothing about that either. It does irritate me that I alone was badly hurt. It feels as though I lost to that woman. If I meet the teleporter again, I want revenge.”"
+      "en": "“That’s true. I love <tips=44>Xiaoqiao</tips>. But is that feeling anything certain? We can’t know. It may be mere sexual desire; I’ve never met another girl so beautiful and adorable... Everyone speaks as if I accomplished something tremendous because I lost a leg, but I feel nothing about that either. It does irritate me that I alone was badly hurt. It feels as though I lost to that woman. If I meet the teleporter again, I want revenge.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0344",
@@ -2273,7 +3011,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は思い出したらしく、怒ったような表情をする。",
-      "en": "Apparently reminded of the woman, <tips=51>Sakura</tips> looks angry."
+      "en": "Apparently reminded of the woman, <tips=51>Sakura</tips> looks angry.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0345",
@@ -2282,7 +3026,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=44>筱喬</tips>は、世の中のことを沢山知りたいってよく言うんです。よく知って、世界のことを好きになってから死にたいって。いろんなものを好きになるっていうのが彼女の目標だったり、人生の価値なんでしょう。<tips=17>タイプB</tips>だったり、近くの人がすぐ死んだり、大人たちの思惑に振り回されたりで、彼女のまわりには受け入れられないものばかりだから……それはいいなあとは思いますけど、私には共有出来ません。私は嫌いなものは嫌い」",
-      "en": "“<tips=44>Xiaoqiao</tips> often says she wants to know as much of the world as she can. She wants to understand it and die only after learning to love it. Loving many things is perhaps her goal, or the value she finds in life. She’s <tips=17>Type B</tips>; people close to her die without warning; adults’ designs toss her about. Her surroundings are full of things she cannot accept... I think her wish is admirable, but I can’t share it. What I hate, I hate.”"
+      "en": "“<tips=44>Xiaoqiao</tips> often says she wants to know as much of the world as she can. She wants to understand it and die only after learning to love it. Loving many things is perhaps her goal, or the value she finds in life. She’s <tips=17>Type B</tips>; people close to her die without warning; adults’ designs toss her about. Her surroundings are full of things she cannot accept... I think her wish is admirable, but I can’t share it. What I hate, I hate.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e1ec83691e84.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0346",
@@ -2291,7 +3041,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は真顔で言う。確かに、彼女は嫌いなものはどうあっても嫌いそうだ。",
-      "en": "<tips=51>Sakura</tips> speaks with a straight face. She certainly seems like someone who will hate what she hates under any circumstances."
+      "en": "<tips=51>Sakura</tips> speaks with a straight face. She certainly seems like someone who will hate what she hates under any circumstances.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-e1ec83691e84.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0347",
@@ -2300,7 +3056,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=44>筱喬</tips>と違って、私は自分のことが知りたい。私は何者なのか。何が出来るのか。この空を飛ぶ能力は使い道があるのか。この人の人生に何か目的があるのか。……だから、良いと思ったらなんでもクビを突っ込むし、すぐ実行することにしてるんです。しないと忘れちゃうかもしれないし、飽きちゃうかもしれないから。……ここまでやって飽きちゃったら最低でしょう？　私それはいやなんですよねー。カッコつけたがりだから」",
-      "en": "“Unlike <tips=44>Xiaoqiao</tips>, I want to understand myself. What am I? What can I do? Is there any use for this power of flight? Does this person’s life possess any purpose? ...That is why I thrust myself into anything that seems worthwhile and act at once. Otherwise, I may forget or grow bored. ...It would be awful to lose interest after going this far, wouldn’t it? I don’t want that. I like looking impressive.”"
+      "en": "“Unlike <tips=44>Xiaoqiao</tips>, I want to understand myself. What am I? What can I do? Is there any use for this power of flight? Does this person’s life possess any purpose? ...That is why I thrust myself into anything that seems worthwhile and act at once. Otherwise, I may forget or grow bored. ...It would be awful to lose interest after going this far, wouldn’t it? I don’t want that. I like looking impressive.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0348",
@@ -2309,7 +3071,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして彼女は顔を顰める。",
-      "en": "Then she grimaces."
+      "en": "Then she grimaces.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0349",
@@ -2318,7 +3086,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「だから今日もこうしてすぐに来たんです。へんな怪しい企みとかはないです。個人的な思想に基づく行動です。<tips=10>見土</tips>さんって、<tips=17>タイプB</tips>のへんな組織の人なんでしょ？　だから、ちゃんと説明しておかないと、私も<tips=7>ＹＳ</tips>側だから誤解を招くんじゃないかと思って……」",
-      "en": "“That is why I came immediately tonight. I’ve no strange or suspicious design. I’m acting from personal conviction. Mr. <tips=10>Mido</tips>, you belong to some strange <tips=17>Type B</tips> organization, don’t you? I’m on the side of <tips=7>YS</tips>, so I thought I ought to explain myself properly before you misunderstood...”"
+      "en": "“That is why I came immediately tonight. I’ve no strange or suspicious design. I’m acting from personal conviction. Mr. <tips=10>Mido</tips>, you belong to some strange <tips=17>Type B</tips> organization, don’t you? I’m on the side of <tips=7>YS</tips>, so I thought I ought to explain myself properly before you misunderstood...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0350",
@@ -2327,7 +3101,13 @@
       "sj": "",
       "se": "",
       "jp": "「あはは、そんなことを心配してくれたのか！　確かにおれは<tips=17>タイプB</tips>のへんな組織と関わりが深いけど、そんなこと思いもしなかったな。親友の妹についての相談となれば、これはもう一大事だなあって、それしか考えてなかったよ」",
-      "en": "“Ha ha! You were worried about that? Certainly I’ve deep ties to a strange <tips=17>Type B</tips> organization, but the idea never entered my head. When you asked for advice about my best friend’s sister, all I thought was that this must be a matter of great consequence.”"
+      "en": "“Ha ha! You were worried about that? Certainly I’ve deep ties to a strange <tips=17>Type B</tips> organization, but the idea never entered my head. When you asked for advice about my best friend’s sister, all I thought was that this must be a matter of great consequence.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0351",
@@ -2336,7 +3116,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「ああ、そうですか……」",
-      "en": "“Oh. I see...”"
+      "en": "“Oh. I see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0352",
@@ -2345,7 +3131,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>はなぜか困ったような顔をする。",
-      "en": "For some reason, <tips=51>Sakura</tips> looks troubled."
+      "en": "For some reason, <tips=51>Sakura</tips> looks troubled.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0353",
@@ -2354,7 +3146,13 @@
       "sj": "",
       "se": "",
       "jp": "「どうしたの？」",
-      "en": "“What’s wrong?”"
+      "en": "“What’s wrong?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0354",
@@ -2363,7 +3161,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「すみません。私、そういうさわやかな言い方ってどうしても嘘臭くて信用出来ないんです。心が歪んでるから」",
-      "en": "“I’m sorry. Anything phrased so wholesomely sounds false to me, and I can’t trust it. My heart is twisted.”"
+      "en": "“I’m sorry. Anything phrased so wholesomely sounds false to me, and I can’t trust it. My heart is twisted.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0355",
@@ -2372,7 +3176,13 @@
       "sj": "",
       "se": "",
       "jp": "　つくづく変わった子である。やっぱりサイキックってのは変人が多いのかね？",
-      "en": "What an exceedingly strange girl. Do psychics tend to be eccentrics?"
+      "en": "What an exceedingly strange girl. Do psychics tend to be eccentrics?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0356",
@@ -2381,7 +3191,13 @@
       "sj": "",
       "se": "",
       "jp": "　と、おれは自分を差し置いて思ってみたり。",
-      "en": "A rich thought, coming from me."
+      "en": "A rich thought, coming from me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0357",
@@ -2390,7 +3206,13 @@
       "sj": "",
       "se": "",
       "jp": "　ともあれ、頭の良い子だ。そうでなければ、あんな危険なことを成功させられるはずもないのだろうが。",
-      "en": "In any event, she is intelligent. Otherwise she could never have succeeded at so dangerous an undertaking."
+      "en": "In any event, she is intelligent. Otherwise she could never have succeeded at so dangerous an undertaking.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0358",
@@ -2399,7 +3221,13 @@
       "sj": "",
       "se": "",
       "jp": "「それで、<tips=44>シウ</tips>ちゃんに関する相談ってのはなんだい？　確かに今日は随分と暗かったようだが」",
-      "en": "“Then what did you want to discuss about <tips=44>Siu</tips>? She certainly seemed terribly gloomy today.”"
+      "en": "“Then what did you want to discuss about <tips=44>Siu</tips>? She certainly seemed terribly gloomy today.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0359",
@@ -2408,7 +3236,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが笑いで誤魔化しつつそう言うと、彼女は頷き、",
-      "en": "I laugh to cover the awkwardness as I ask. She nods."
+      "en": "I laugh to cover the awkwardness as I ask. She nods.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0360",
@@ -2417,7 +3251,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「昨日、<tips=7>ＹＳ</tips>の幹部が一人処刑されたんです。<tips=41>グランドタワー</tips>で」",
-      "en": "“Yesterday, one of the executives of <tips=7>YS</tips> was executed inside <tips=41>Grand Tower</tips>.”"
+      "en": "“Yesterday, one of the executives of <tips=7>YS</tips> was executed inside <tips=41>Grand Tower</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0361",
@@ -2426,7 +3266,13 @@
       "sj": "",
       "se": "",
       "jp": "「処刑とは……急におだやかじゃない話になったね」",
-      "en": "“This turned grim rather suddenly.”"
+      "en": "“This turned grim rather suddenly.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0362",
@@ -2435,7 +3281,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは言って頭を指先で掻いた。",
-      "en": "I scratch my head with my fingertips."
+      "en": "I scratch my head with my fingertips.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0363",
@@ -2444,7 +3296,13 @@
       "sj": "",
       "se": "",
       "jp": "　正直おれはもっと乙女らしい悩みを想像していたんだ。",
-      "en": "Honestly, I had imagined a more maidenly sort of trouble."
+      "en": "Honestly, I had imagined a more maidenly sort of trouble.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0364",
@@ -2453,7 +3311,13 @@
       "sj": "",
       "se": "",
       "jp": "　なのに<tips=7>ＹＳ</tips>の処刑の話ときたもんだ。これは確かに、<tips=51>さくら</tips>が事前に前置きをして自分の立場を表明したくなるような話題だ。",
-      "en": "Instead, she brings up an execution inside <tips=7>YS</tips>. No wonder <tips=51>Sakura</tips> wanted to declare her position first."
+      "en": "Instead, she brings up an execution inside <tips=7>YS</tips>. No wonder <tips=51>Sakura</tips> wanted to declare her position first.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0365",
@@ -2462,7 +3326,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「殺されたのは<tips=4>馬明</tips>という人で……知ってますか？」",
-      "en": "“The man who died was <tips=4>Ma Ming</tips>... Do you know him?”"
+      "en": "“The man who died was <tips=4>Ma Ming</tips>... Do you know him?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0366",
@@ -2471,7 +3341,13 @@
       "sj": "",
       "se": "",
       "jp": "「もちろん。いや……でも、驚いたな。それは本当かい？」",
-      "en": "“Of course. But... that’s a shock. Is it true?”"
+      "en": "“Of course. But... that’s a shock. Is it true?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0367",
@@ -2480,7 +3356,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=4>馬明</tips>と言えば先代<tips=3>クリス・ツェー</tips>の義兄弟にして、<tips=7>ＹＳ</tips>の大幹部中の大幹部だ。<tips=3>クリス・ツェー</tips>を劉備に例えるならば、張飛にあたる人物であり、そして、<tips=1>亮</tips>が<tips=81>龍頭</tips>になってから後見人的な役割をになっていたという噂だ。",
-      "en": "<tips=4>Ma Ming</tips> was sworn brother to the former leader, <tips=3>Chris Xie</tips>, and one of the highest executives in <tips=7>YS</tips>. If <tips=3>Chris Xie</tips> was Liu Bei, Ma Ming was Zhang Fei. Rumor said that after <tips=1>Liang</tips> became <tips=81>Longtou</tips>, Ma Ming acted as his guardian."
+      "en": "<tips=4>Ma Ming</tips> was sworn brother to the former leader, <tips=3>Chris Xie</tips>, and one of the highest executives in <tips=7>YS</tips>. If <tips=3>Chris Xie</tips> was Liu Bei, Ma Ming was Zhang Fei. Rumor said that after <tips=1>Liang</tips> became <tips=81>Longtou</tips>, Ma Ming acted as his guardian.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0368",
@@ -2489,7 +3371,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「本当なんです。禁制になっている麻薬取引をしたり組織のお金を横領したりしていたのを<tips=44>筱喬</tips>のお兄さんが見つけて、大幹部を集めた会議室で詰問し、本人もそれを認めたそうです」",
-      "en": "“It’s true. <tips=44>Xiaoqiao</tips>’s brother discovered that Ma Ming had dealt forbidden drugs and embezzled money from the organization. He confronted him before all the senior executives, and Ma Ming admitted it.”"
+      "en": "“It’s true. <tips=44>Xiaoqiao</tips>’s brother discovered that Ma Ming had dealt forbidden drugs and embezzled money from the organization. He confronted him before all the senior executives, and Ma Ming admitted it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0369",
@@ -2498,7 +3386,13 @@
       "sj": "",
       "se": "",
       "jp": "「なるほどね。そりゃ<tips=44>シウ</tips>ちゃんも落ち込むわけだ」",
-      "en": "“I see. No wonder <tips=44>Siu</tips> is so upset.”"
+      "en": "“I see. No wonder <tips=44>Siu</tips> is so upset.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0370",
@@ -2507,7 +3401,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>はそういったことを語りたがらないから直接聞いたわけではないけれど、<tips=4>馬明</tips>の立場を考えれば彼が謝家の兄妹と幼いころから親しくしていたのは簡単に想像がつく話だ。",
-      "en": "<tips=1>Liang</tips> never likes discussing such things, so I didn’t hear it from him. But given <tips=4>Ma Ming</tips>’s position, he must have been close to the Xie siblings since they were children."
+      "en": "<tips=1>Liang</tips> never likes discussing such things, so I didn’t hear it from him. But given <tips=4>Ma Ming</tips>’s position, he must have been close to the Xie siblings since they were children.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0371",
@@ -2516,7 +3416,13 @@
       "sj": "",
       "se": "",
       "jp": "　それを兄が処刑したとなれば、平気でいられるほうがおかしい。",
-      "en": "After her brother executed him, it would be stranger if Siu felt nothing."
+      "en": "After her brother executed him, it would be stranger if Siu felt nothing.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0372",
@@ -2525,7 +3431,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「それだけじゃなくて、<tips=4>馬明</tips>さんの娘さんも、それを受けて怒りのあまり自殺したんです。まだ新婚で、お腹にはもうすぐ生まれる子供がいたのに……。<tips=44>筱喬</tips>は、<tips=4>馬明</tips>さんともこの娘さんとも小さい時から仲良かったから、とても動揺していて……」",
-      "en": "“And that wasn’t all. Mr. <tips=4>Ma Ming</tips>’s daughter was so furious that she killed herself. She was newly married, with a child due soon... <tips=44>Xiaoqiao</tips> had been close to both Mr. <tips=4>Ma Ming</tips> and his daughter since childhood. She’s terribly shaken...”"
+      "en": "“And that wasn’t all. Mr. <tips=4>Ma Ming</tips>’s daughter was so furious that she killed herself. She was newly married, with a child due soon... <tips=44>Xiaoqiao</tips> had been close to both Mr. <tips=4>Ma Ming</tips> and his daughter since childhood. She’s terribly shaken...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0373",
@@ -2534,7 +3446,13 @@
       "sj": "",
       "se": "",
       "jp": "「ふむ」",
-      "en": "“Hmm.”"
+      "en": "“Hmm.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0374",
@@ -2543,7 +3461,13 @@
       "sj": "",
       "se": "",
       "jp": "　どうも壮絶な話になってきた。",
-      "en": "The story grows more harrowing by the moment."
+      "en": "The story grows more harrowing by the moment.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0375",
@@ -2552,7 +3476,13 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、<tips=4>馬明</tips>が激しい人物だというのはよく知られていたが、娘も負けず劣らずの気性の持ち主だったということか。妊婦の身で憤死するとは。",
-      "en": "<tips=4>Ma Ming</tips> was famous for his violence of spirit. Evidently his daughter had a temper no less fierce. To kill herself from fury while pregnant..."
+      "en": "<tips=4>Ma Ming</tips> was famous for his violence of spirit. Evidently his daughter had a temper no less fierce. To kill herself from fury while pregnant...",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0376",
@@ -2561,7 +3491,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「彼女はお兄さんのことが世界で一番大好きだったから、なおさら混乱してしまって、受け入れようとしても受け入れられないで苦しんでるんです。私もなんとかしてあげたいんですが、<tips=4>馬明</tips>さんのこともお兄さんのことも詳しくないから……<tips=10>見土</tips>さんは、お兄さんととても親しかったんですよね？」",
-      "en": "“She loves her brother more than anyone, which only makes the confusion worse. She’s trying to accept what happened and can’t. I want to help, but I know almost nothing about Mr. <tips=4>Ma Ming</tips> or her brother... You were very close to him, weren’t you, Mr. <tips=10>Mido</tips>?”"
+      "en": "“She loves her brother more than anyone, which only makes the confusion worse. She’s trying to accept what happened and can’t. I want to help, but I know almost nothing about Mr. <tips=4>Ma Ming</tips> or her brother... You were very close to him, weren’t you, Mr. <tips=10>Mido</tips>?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0377",
@@ -2570,7 +3506,13 @@
       "sj": "",
       "se": "",
       "jp": "「そうだよ。今でも親しいつもりだよ」",
-      "en": "“Yes. I still consider us close.”"
+      "en": "“Yes. I still consider us close.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0378",
@@ -2579,7 +3521,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「お兄さんはどういう人なんでしょう？　<tips=81>龍頭</tips>になって、変わったんですかね。それとも、そういうわけじゃないのかな？　<tips=44>筱喬</tips>はそこも悩んでいるようなんです」",
-      "en": "“What kind of person is her brother? Did becoming <tips=81>Longtou</tips> change him? Or is that not it? <tips=44>Xiaoqiao</tips> seems troubled by that too.”"
+      "en": "“What kind of person is her brother? Did becoming <tips=81>Longtou</tips> change him? Or is that not it? <tips=44>Xiaoqiao</tips> seems troubled by that too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0379",
@@ -2588,7 +3536,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=81>龍頭</tips>になってから全然会ってないおれが言うのもなんだけれど」",
-      "en": "“I haven’t seen him once since he became <tips=81>Longtou</tips>, so perhaps I’m not the one to ask.”"
+      "en": "“I haven’t seen him once since he became <tips=81>Longtou</tips>, so perhaps I’m not the one to ask.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0380",
@@ -2597,7 +3551,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは肩をすくめて、",
-      "en": "I shrug."
+      "en": "I shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0381",
@@ -2606,7 +3566,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあ、<tips=44>シウ</tips>ちゃんはあいつを信じて良いと思うよ。あいつはいつだって家族のことを大事に考えてる。だから、自分がそういう乱暴なことをすれば<tips=44>シウ</tips>ちゃんが傷つくのも想像したはずさ。それでも行為に及んだってのは、その方が結果として<tips=44>シウ</tips>ちゃんにとってプラスだからだよ」",
-      "en": "“Still, <tips=44>Siu</tips> can trust him. He has always put his family first. He must have known that violence like this would hurt <tips=44>Siu</tips>. If he did it anyway, he believed the result would ultimately be better for <tips=44>Siu</tips>.”"
+      "en": "“Still, <tips=44>Siu</tips> can trust him. He has always put his family first. He must have known that violence like this would hurt <tips=44>Siu</tips>. If he did it anyway, he believed the result would ultimately be better for <tips=44>Siu</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0382",
@@ -2615,7 +3581,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「でも、今は昔とは全然立場が違うでしょう？　生活も全然変わってるし、人が変わってしまうこともありそうな気がするんです」",
-      "en": "“But his position is completely different now, isn’t it? His whole life has changed. That can change a person.”"
+      "en": "“But his position is completely different now, isn’t it? His whole life has changed. That can change a person.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0383",
@@ -2624,7 +3596,13 @@
       "sj": "",
       "se": "",
       "jp": "「あいつに限って、そんなことは絶対にないよ。悩むことはあるだろうけど、おかしくなったりはしない。断言出来る。子供の時からのつき合いだからね」",
-      "en": "“Not him. Never. He may struggle, but he won’t lose himself. I know that for certain. I’ve known him since childhood.”"
+      "en": "“Not him. Never. He may struggle, but he won’t lose himself. I know that for certain. I’ve known him since childhood.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0384",
@@ -2633,7 +3611,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうですか……」",
-      "en": "“I see...”"
+      "en": "“I see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0385",
@@ -2642,7 +3626,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は腕組みをして首を捻る。腑に落ちないのだろう。",
-      "en": "<tips=51>Sakura</tips> folds her arms and cocks her head. Evidently, she isn’t convinced."
+      "en": "<tips=51>Sakura</tips> folds her arms and cocks her head. Evidently, she isn’t convinced.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0386",
@@ -2651,7 +3641,13 @@
       "sj": "",
       "se": "",
       "jp": "「誤解されやすいやつなのさ。冷酷でクールな人間みたいに言われてるけど、全然クールじゃないよ。短気だし、調子にのったりもする。冷酷さ……はちょっとあるかもしれないけど、必要なときだけさ」",
-      "en": "“People misunderstand him. They call him cold and coolheaded, but he isn’t coolheaded at all. He’s short-tempered and gets carried away. Ruthless... yes, perhaps a little. But only when he needs to be.”"
+      "en": "“People misunderstand him. They call him cold and coolheaded, but he isn’t coolheaded at all. He’s short-tempered and gets carried away. Ruthless... yes, perhaps a little. But only when he needs to be.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0387",
@@ -2660,7 +3656,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「ふむ……」",
-      "en": "“Hmm...”"
+      "en": "“Hmm...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0388",
@@ -2669,7 +3671,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は何度も何度も首を捻ってから、",
-      "en": "<tips=51>Sakura</tips> tilts her head again and again."
+      "en": "<tips=51>Sakura</tips> tilts her head again and again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0389",
@@ -2678,7 +3686,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうかな。そうなのかな……」",
-      "en": "“Is that true? I wonder...”"
+      "en": "“Is that true? I wonder...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0390",
@@ -2687,7 +3701,13 @@
       "sj": "",
       "se": "",
       "jp": "「納得出来ない？」",
-      "en": "“You don’t believe me?”"
+      "en": "“You don’t believe me?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0391",
@@ -2696,7 +3716,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうじゃなくて……」",
-      "en": "“It’s not that...”"
+      "en": "“It’s not that...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0392",
@@ -2705,7 +3731,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は顎に手を当て、考え考え、言葉を選ぶようにして言った。",
-      "en": "<tips=51>Sakura</tips> rests a hand on her chin and chooses every word carefully."
+      "en": "<tips=51>Sakura</tips> rests a hand on her chin and chooses every word carefully.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0393",
@@ -2714,7 +3746,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「この街の人ってもしかしたら普通とは感覚がズレてるのかもしれないけど、あんな、人間を何人も殺すだなんて極限状態ですよ？　もし警察に逮捕されたら三人前くらい死刑判決が出そうなことやってます。……お兄さんは、子供の時は組織とはすこし離れてて、外の街で大学生とかやってたんですよね？　それが急にそんな立場について、血で手を染めるような状況になったら、誰だって正気じゃなくなるような気がする……」",
-      "en": "“Maybe people in this City have a different sense of normal. Even so, killing that many people is extreme. If the police arrested him, he’s done enough for three death sentences... Her brother grew up somewhat removed from the organization and attended university outside the City, right? Put anyone suddenly in that position and make him stain his hands with blood, and I think he’d lose his mind...”"
+      "en": "“Maybe people in this City have a different sense of normal. Even so, killing that many people is extreme. If the police arrested him, he’s done enough for three death sentences... Her brother grew up somewhat removed from the organization and attended university outside the City, right? Put anyone suddenly in that position and make him stain his hands with blood, and I think he’d lose his mind...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0394",
@@ -2723,7 +3761,13 @@
       "sj": "",
       "se": "",
       "jp": "「ああ、<tips=51>さくら</tips>ちゃんはまっとうな人間だな」",
-      "en": "“Ah, <tips=51>Sakura</tips>. You’re a decent human being.”"
+      "en": "“Ah, <tips=51>Sakura</tips>. You’re a decent human being.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0395",
@@ -2732,7 +3776,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは笑って、",
-      "en": "I laugh."
+      "en": "I laugh.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0396",
@@ -2741,7 +3791,13 @@
       "sj": "",
       "se": "",
       "jp": "「言われてみればその通りだ。相手が誰だろうと、そもそも当たり前に殺人を犯してること自体がとんでもない大犯罪だよ！　まったく耳の痛い話だが、ここの連中はみんな普通とは感覚がズレてるんだ」",
-      "en": "“Now that you say it, you’re absolutely right. Whoever the victim is, casually committing murder is an outrageous crime! It hurts to hear, but everyone here has a warped sense of normal.”"
+      "en": "“Now that you say it, you’re absolutely right. Whoever the victim is, casually committing murder is an outrageous crime! It hurts to hear, but everyone here has a warped sense of normal.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0397",
@@ -2750,7 +3806,13 @@
       "sj": "",
       "se": "",
       "jp": "　あっさりと肯定されたことに、<tips=51>さくら</tips>はきょとんとしている。",
-      "en": "<tips=51>Sakura</tips> stares, bewildered by how readily I agree."
+      "en": "<tips=51>Sakura</tips> stares, bewildered by how readily I agree.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0398",
@@ -2759,7 +3821,13 @@
       "sj": "",
       "se": "",
       "jp": "「昔誰かが言ってたな。この街の子供は、生まれた時点でみな魂の半分を悪魔とリース契約させられるんだよ。貧乏な家の男の子はみんなそのうち人殺しになると思ってるし、女の子は身体を売ることになると思ってる。おれはそれを変えたかったんだがね」",
-      "en": "“Someone once said every child in this City is forced at birth to lease half their soul to the devil. Every poor boy expects to become a killer someday; every poor girl expects to sell her body. I wanted to change that.”"
+      "en": "“Someone once said every child in this City is forced at birth to lease half their soul to the devil. Every poor boy expects to become a killer someday; every poor girl expects to sell her body. I wanted to change that.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0399",
@@ -2768,7 +3836,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれは肩をすくめるしかない。",
-      "en": "I can only shrug."
+      "en": "I can only shrug.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0400",
@@ -2777,7 +3851,13 @@
       "sj": "",
       "se": "",
       "jp": "「ま、人ごとじゃない。みんな最初から正気じゃなかったのかもしれないね。<tips=1>亮</tips>もそうだし、おれも、<tips=44>シウ</tips>ちゃんも、誰も彼もね。みな知らず知らず心に狂気を忍び込ませている。これは自覚しないといけないよ」",
-      "en": "“But none of us stands outside it. Maybe we were all mad from the beginning—<tips=1>Liang</tips>, me, <tips=44>Siu</tips>, everyone. Madness slips into our hearts without our noticing. We have to stay aware of it.”"
+      "en": "“But none of us stands outside it. Maybe we were all mad from the beginning—<tips=1>Liang</tips>, me, <tips=44>Siu</tips>, everyone. Madness slips into our hearts without our noticing. We have to stay aware of it.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0401",
@@ -2786,7 +3866,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「べ、別に非難してるわけじゃないです。それに、ズレって言ったのは、あくまでも環境が違うから感覚が違うっていう相対的な意味でしかないんです。外の街の人たちとは適応しなきゃいけないものが違うんだから、違いがあって当然なんです。適応というのは狂気とは違う……いくら殺し合ってても、みんなまっとうに見えます。外の人よりずっと……」",
-      "en": "“I-I’m not condemning anyone. When I said your sense of things was different, I only meant that different environments produce different ideas of normal. People outside the City adapt to other things. Of course they’re different. Adaptation isn’t madness... No matter how much people kill each other here, they seem decent. Much more decent than outsiders...”"
+      "en": "“I-I’m not condemning anyone. When I said your sense of things was different, I only meant that different environments produce different ideas of normal. People outside the City adapt to other things. Of course they’re different. Adaptation isn’t madness... No matter how much people kill each other here, they seem decent. Much more decent than outsiders...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-168c07a68cd8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0402",
@@ -2795,7 +3881,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>はなぜか照れてうつむく。",
-      "en": "For some reason, <tips=51>Sakura</tips> blushes and lowers her head."
+      "en": "For some reason, <tips=51>Sakura</tips> blushes and lowers her head.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-168c07a68cd8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0403",
@@ -2804,7 +3896,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「とにかく……こんど三人で一緒にゲームをする約束をしたんで、その時自分の目でお兄さんがどんな人か確かめてみます」",
-      "en": "“Anyway... The three of us promised to play a game together next time. I’ll see for myself what her brother is like.”"
+      "en": "“Anyway... The three of us promised to play a game together next time. I’ll see for myself what her brother is like.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-168c07a68cd8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0404",
@@ -2813,7 +3911,13 @@
       "sj": "",
       "se": "",
       "jp": "「ゲームするの？」",
-      "en": "“You’re playing a game together?”"
+      "en": "“You’re playing a game together?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-168c07a68cd8.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0405",
@@ -2822,7 +3926,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「はい、とても楽しみです。あの美形兄妹に挟まれてゲームすると想像するだけで鼻血が出そうで眠れません」",
-      "en": "“Yes. I’m looking forward to it. Just imagining myself gaming between those beautiful siblings gives me a nosebleed. I can’t sleep.”"
+      "en": "“Yes. I’m looking forward to it. Just imagining myself gaming between those beautiful siblings gives me a nosebleed. I can’t sleep.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0406",
@@ -2831,7 +3941,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は真顔でうなずいた。",
-      "en": "<tips=51>Sakura</tips> nods with perfect seriousness."
+      "en": "<tips=51>Sakura</tips> nods with perfect seriousness.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0407",
@@ -2840,7 +3956,13 @@
       "sj": "",
       "se": "",
       "jp": "「いいんじゃないか？　<tips=1>亮</tips>のやつもたまには息抜きが必要だろう」",
-      "en": "“Why not? <tips=1>Liang</tips> needs to relax once in a while too.”"
+      "en": "“Why not? <tips=1>Liang</tips> needs to relax once in a while too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0408",
@@ -2849,7 +3971,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=1>亮</tips>がそういう遊びに参加するかどうかわからないが、おれは適当にそう言った。",
-      "en": "I had no idea whether <tips=1>Liang</tips> would join in, but I said it anyway."
+      "en": "I had no idea whether <tips=1>Liang</tips> would join in, but I said it anyway.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0409",
@@ -2858,7 +3986,13 @@
       "sj": "",
       "se": "",
       "jp": "「まあでも、<tips=51>さくら</tips>ちゃん、あまり危ないことをしちゃいけないよ」",
-      "en": "“Still, <tips=51>Sakura</tips>, don’t do anything too dangerous.”"
+      "en": "“Still, <tips=51>Sakura</tips>, don’t do anything too dangerous.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0410",
@@ -2867,7 +4001,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「え、急に何の話ですか？」",
-      "en": "“What? Where did that come from?”"
+      "en": "“What? Where did that come from?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0411",
@@ -2876,7 +4016,13 @@
       "sj": "",
       "se": "",
       "jp": "「いや、あまりにも自分をかえりみないからさ。まあ、サイキックと戦ったのは好きな人間を救うためだからわかる。でも、足がなくなっても平気そうにしたり、今日だってこんな時間に一人でおれのところを訪ねるなんて、本当はよくないんだぜ」",
-      "en": "“You have far too little regard for yourself. I understand fighting a psychic to save someone you love. But acting as though losing a leg is nothing, or visiting a man alone this late at night—those things aren’t right.”"
+      "en": "“You have far too little regard for yourself. I understand fighting a psychic to save someone you love. But acting as though losing a leg is nothing, or visiting a man alone this late at night—those things aren’t right.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-0c2f794c6427.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0412",
@@ -2885,7 +4031,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「<tips=10>見土</tips>さんは良い人ですから」",
-      "en": "“You’re a good person, Mr. <tips=10>Mido</tips>.”"
+      "en": "“You’re a good person, Mr. <tips=10>Mido</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0413",
@@ -2894,7 +4046,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は軽い戸惑いを浮かべる。",
-      "en": "<tips=51>Sakura</tips> looks mildly confused."
+      "en": "<tips=51>Sakura</tips> looks mildly confused.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0414",
@@ -2903,7 +4061,13 @@
       "sj": "",
       "se": "",
       "jp": "「きみは自分を粗末にしすぎなんだ。このまんまじゃそのうち死んじゃうよ。そうなったらおれはちょっと悲しいな」",
-      "en": "“You treat yourself too cheaply. Keep this up and one day you’ll die. That would make me a little sad.”"
+      "en": "“You treat yourself too cheaply. Keep this up and one day you’ll die. That would make me a little sad.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0415",
@@ -2912,7 +4076,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「そうですか……」",
-      "en": "“I see...”"
+      "en": "“I see...”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0416",
@@ -2921,7 +4091,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は言ってから、少し考えたのちに口を開く。",
-      "en": "<tips=51>Sakura</tips> says this, thinks for a moment, then speaks again."
+      "en": "<tips=51>Sakura</tips> says this, thinks for a moment, then speaks again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0417",
@@ -2930,7 +4106,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「まあ、悲しむ必要はないですよ。別に私が死んだって<tips=10>見土</tips>さんのせいじゃないんですし。それに、自分で決めて自分で勝手にやってるだけなんですから本人としては満足ですし、すぐに忘れればいいんです。私は別にそれでいいんです。好きでやってるだけなんですから」",
-      "en": "“There’s no need to be sad. If I die, it won’t be your fault, Mr. <tips=10>Mido</tips>. I make my own choices and do exactly as I please, so I’ll be satisfied. You can forget me immediately. That’s fine with me. I’m only doing what I want.”"
+      "en": "“There’s no need to be sad. If I die, it won’t be your fault, Mr. <tips=10>Mido</tips>. I make my own choices and do exactly as I please, so I’ll be satisfied. You can forget me immediately. That’s fine with me. I’m only doing what I want.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0418",
@@ -2939,7 +4121,13 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=51>さくら</tips>は冷たい声で淡々と言う。その言葉の背景には、彼女が自分の頭のなかで何度も考えた深い思索があるのを感じる。",
-      "en": "<tips=51>Sakura</tips> says it evenly, her voice cold. I can feel the deep conclusion beneath the words, something she has thought through again and again."
+      "en": "<tips=51>Sakura</tips> says it evenly, her voice cold. I can feel the deep conclusion beneath the words, something she has thought through again and again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0419",
@@ -2948,7 +4136,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「さて、そろそろ帰ります」",
-      "en": "“Well, it’s about time I went home.”"
+      "en": "“Well, it’s about time I went home.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0420",
@@ -2957,7 +4151,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれが黙っていると、<tips=51>さくら</tips>は立ち上がり、上着を羽織る。そして窓の方へ向かって歩き出す。",
-      "en": "I remain silent. <tips=51>Sakura</tips> rises, puts on her coat, and walks toward the window."
+      "en": "I remain silent. <tips=51>Sakura</tips> rises, puts on her coat, and walks toward the window.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0421",
@@ -2966,7 +4166,13 @@
       "sj": "",
       "se": "",
       "jp": "「きみは寂しい人なんだな」",
-      "en": "“You’re a lonely person.”"
+      "en": "“You’re a lonely person.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0422",
@@ -2975,7 +4181,13 @@
       "sj": "",
       "se": "",
       "jp": "　おれの言葉に<tips=51>さくら</tips>は振り返り、苦笑をすると、",
-      "en": "At my words, <tips=51>Sakura</tips> turns and smiles bitterly."
+      "en": "At my words, <tips=51>Sakura</tips> turns and smiles bitterly.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0423",
@@ -2984,7 +4196,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「人間って本質的にそういうものですよ？」",
-      "en": "“Isn’t everyone, fundamentally?”"
+      "en": "“Isn’t everyone, fundamentally?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0425",
@@ -2993,7 +4211,13 @@
       "sj": "",
       "se": "",
       "jp": "　そして鍵を外して窓を開けると、外から冷たい夜の風が部屋に吹き込んできた。",
-      "en": "She unlocks and opens the window. Cold night air pours into the room."
+      "en": "She unlocks and opens the window. Cold night air pours into the room.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0426",
@@ -3002,7 +4226,13 @@
       "sj": "",
       "se": "",
       "jp": "　彼女は窓枠に片足をかけ、半身を窓の向こうへ乗り出す。",
-      "en": "She plants one foot on the sill and leans halfway outside."
+      "en": "She plants one foot on the sill and leans halfway outside.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0427",
@@ -3011,7 +4241,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「明日は雨ですね。風が湿ってるし、おぼろ月が出てる」",
-      "en": "“It’ll rain tomorrow. The wind is damp, and there’s a hazy moon.”"
+      "en": "“It’ll rain tomorrow. The wind is damp, and there’s a hazy moon.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a7da2955c67f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0428",
@@ -3020,7 +4256,13 @@
       "sj": "",
       "se": "",
       "jp": "「<tips=44>シウ</tips>ちゃんのこと、頼むぜ。おれにとっても親友の大事な妹なんだ」",
-      "en": "“Take care of <tips=44>Siu</tips>. She’s my best friend’s precious little sister too.”"
+      "en": "“Take care of <tips=44>Siu</tips>. She’s my best friend’s precious little sister too.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a7da2955c67f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0429",
@@ -3029,7 +4271,13 @@
       "sj": "熨田さくら",
       "se": "Sakura Noshida",
       "jp": "「わかってます。じゃあ」",
-      "en": "“I know. Goodbye.”"
+      "en": "“I know. Goodbye.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-a7da2955c67f.webp",
+          "s": "l"
+        }
+      ]
     },
     {
       "id": "B3-2:0431",
