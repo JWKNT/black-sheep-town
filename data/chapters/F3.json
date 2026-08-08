@@ -394,7 +394,21 @@
       "sj": "",
       "se": "",
       "jp": "　建物の門の前に乗用車がまだ残っており、その前で二人の人影が話している。",
-      "en": "One car remained outside the gate. Two silhouettes spoke beside it."
+      "en": "One car remained outside the gate. Two silhouettes spoke beside it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0054",
@@ -403,7 +417,21 @@
       "sj": "",
       "se": "",
       "jp": "　一人は小柄な女性、そしてもう一人は逞しい男の背中をこちらに向けている。",
-      "en": "One belonged to a small woman. The other was a powerfully built man with his back to us."
+      "en": "One belonged to a small woman. The other was a powerfully built man with his back to us.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0055",
@@ -412,7 +440,21 @@
       "sj": "",
       "se": "",
       "jp": "「あれは<tips=50>路地邦昭</tips>だ」",
-      "en": "“That's <tips=50>Kuniaki Roji</tips>.”"
+      "en": "“That's <tips=50>Kuniaki Roji</tips>.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0056",
@@ -421,7 +463,21 @@
       "sj": "",
       "se": "",
       "jp": "「ほんとうだ」",
-      "en": "“It really is.”"
+      "en": "“It really is.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0057",
@@ -430,7 +486,21 @@
       "sj": "",
       "se": "",
       "jp": "　後ろ姿でも、その額から伸びた角が見えた。",
-      "en": "Even from behind, we could see the horns rising from his forehead."
+      "en": "Even from behind, we could see the horns rising from his forehead.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0058",
@@ -439,7 +509,21 @@
       "sj": "",
       "se": "",
       "jp": "「やっぱり、あいつも警察と一緒に捜査しているんだね」",
-      "en": "“So he really is helping the police investigate.”"
+      "en": "“So he really is helping the police investigate.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0059",
@@ -448,7 +532,21 @@
       "sj": "",
       "se": "",
       "jp": "「そうだね。ちょっと大変かもしれない」",
-      "en": "“Mm. That could make things difficult.”"
+      "en": "“Mm. That could make things difficult.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0060",
@@ -457,7 +555,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>の家で死んだあの犬頭の刑事もサイキック能力を捜査に用いて普通の警察では突き止めることが出来ないことを暴き出すということで恐れられていたが、かつての<tips=50>路地</tips>もそれに劣らない優秀な探偵だったと聞いている。",
-      "en": "The dog-headed detective who died in <tips=50>Roji</tips>'s home had been feared for using psychic ability to uncover things ordinary police never could. But we had heard that, in his day, <tips=50>Roji</tips> was every bit as gifted a detective."
+      "en": "The dog-headed detective who died in <tips=50>Roji</tips>'s home had been feared for using psychic ability to uncover things ordinary police never could. But we had heard that, in his day, <tips=50>Roji</tips> was every bit as gifted a detective.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0061",
@@ -466,7 +578,21 @@
       "sj": "",
       "se": "",
       "jp": "　なにより彼は、刑事と違ってこの街の住人だ。警察相手では口が重くなる人々でも、彼には協力的に振る舞う可能性がある。",
-      "en": "More importantly, he lived in the City. Even people who refused to speak to police might cooperate with him."
+      "en": "More importantly, he lived in the City. Even people who refused to speak to police might cooperate with him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0062",
@@ -475,7 +601,21 @@
       "sj": "",
       "se": "",
       "jp": "「あいつ、きっと私たちを恨んでるわ」",
-      "en": "“He must hate us.”"
+      "en": "“He must hate us.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0063",
@@ -484,7 +624,21 @@
       "sj": "",
       "se": "",
       "jp": "「だろうね。女の人も、犬のおまわりさんも殺しちゃったもの」",
-      "en": "“Probably. We killed the woman and the doggy policeman.”"
+      "en": "“Probably. We killed the woman and the doggy policeman.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "F3:0065",
@@ -493,7 +647,15 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=50>路地</tips>と話している相手は車に乗って立ち去り、<tips=50>路地</tips>だけがその場に取り残される。",
-      "en": "The person speaking with <tips=50>Roji</tips> got into the car and drove away, leaving <tips=50>Roji</tips> alone."
+      "en": "The person speaking with <tips=50>Roji</tips> got into the car and drove away, leaving <tips=50>Roji</tips> alone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "F3:0066",
@@ -502,7 +664,15 @@
       "sj": "",
       "se": "",
       "jp": "　彼は去りゆく車を見送りもせず、車と逆方向に歩き出す。",
-      "en": "He didn't watch the car go. He simply walked in the opposite direction."
+      "en": "He didn't watch the car go. He simply walked in the opposite direction.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "F3:0068",
@@ -933,7 +1103,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -948,7 +1120,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -963,7 +1137,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -978,7 +1154,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -993,7 +1171,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1008,7 +1188,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1023,7 +1205,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1038,7 +1222,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1053,7 +1239,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1068,7 +1256,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1083,7 +1273,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1098,7 +1290,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1113,7 +1307,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1128,7 +1324,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1143,7 +1341,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1158,7 +1358,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1173,7 +1375,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1188,7 +1392,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1203,7 +1409,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1218,7 +1426,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1233,7 +1443,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1248,7 +1460,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1263,7 +1477,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1278,7 +1494,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1293,7 +1511,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1308,7 +1528,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1323,7 +1545,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1338,7 +1562,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1353,7 +1579,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1368,7 +1596,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1383,7 +1613,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1452,7 +1684,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1467,7 +1701,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2116,7 +2352,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2131,7 +2369,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2146,7 +2386,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2161,7 +2403,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2176,7 +2420,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2191,7 +2437,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2206,7 +2454,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2221,7 +2471,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2236,7 +2488,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2251,7 +2505,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2266,7 +2522,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2281,7 +2539,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2296,7 +2556,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2311,7 +2573,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2562,7 +2826,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2577,7 +2843,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2592,7 +2860,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2607,7 +2877,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2622,7 +2894,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2637,7 +2911,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2652,7 +2928,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2667,7 +2945,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2682,7 +2962,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2697,7 +2979,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2712,7 +2996,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2727,7 +3013,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2742,7 +3030,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2757,7 +3047,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2772,7 +3064,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2787,7 +3081,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2802,7 +3098,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2817,7 +3115,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2832,7 +3132,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2847,7 +3149,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2862,7 +3166,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2877,7 +3183,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2892,7 +3200,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2907,7 +3217,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2959,7 +3271,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2974,7 +3288,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2989,7 +3305,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3004,7 +3322,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3019,7 +3339,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3034,7 +3356,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3049,7 +3373,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3064,7 +3390,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3079,7 +3407,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3094,7 +3424,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3109,7 +3441,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3124,7 +3458,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3139,7 +3475,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3154,7 +3492,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3169,7 +3509,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3184,7 +3526,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3199,7 +3543,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3214,7 +3560,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3229,7 +3577,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3244,7 +3594,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3259,7 +3611,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3274,7 +3628,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3289,7 +3645,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3304,7 +3662,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3319,7 +3679,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3334,7 +3696,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3349,7 +3713,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3364,7 +3730,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3379,7 +3747,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3394,7 +3764,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3409,7 +3781,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3424,7 +3798,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3439,7 +3815,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3454,7 +3832,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3469,7 +3849,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3484,7 +3866,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3499,7 +3883,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3514,7 +3900,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3529,7 +3917,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3544,7 +3934,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3559,7 +3951,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3574,7 +3968,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3589,7 +3985,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3604,7 +4002,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3619,7 +4019,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3634,7 +4036,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3649,7 +4053,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3664,7 +4070,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-05.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3679,7 +4087,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3694,7 +4104,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3709,7 +4121,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3723,8 +4137,10 @@
       "en": "<tips=66>Konta</tips> shrugged.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3738,8 +4154,10 @@
       "en": "“All right. I'll remember.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4190,7 +4608,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4205,7 +4625,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4220,7 +4642,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4235,7 +4659,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4250,7 +4676,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4265,7 +4693,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4280,7 +4710,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4341,7 +4773,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4356,7 +4790,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4371,7 +4807,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4386,7 +4824,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4401,7 +4841,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4416,7 +4858,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4431,7 +4875,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4446,7 +4892,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4461,7 +4909,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4476,7 +4926,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4491,7 +4943,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4506,7 +4960,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4521,7 +4977,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4536,7 +4994,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4551,7 +5011,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4566,7 +5028,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4581,7 +5045,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4596,7 +5062,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4611,7 +5079,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4626,7 +5096,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4641,7 +5113,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4656,7 +5130,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nancy-liu-f077-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4907,7 +5383,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4922,7 +5400,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4937,7 +5417,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4952,7 +5434,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4967,7 +5451,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4982,7 +5468,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -4997,7 +5485,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5012,7 +5502,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5027,7 +5519,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5042,7 +5536,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5057,7 +5553,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5072,7 +5570,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5087,7 +5587,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5102,7 +5604,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5117,7 +5621,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5132,7 +5638,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5147,7 +5655,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5162,7 +5672,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5177,7 +5689,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5192,7 +5706,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5207,7 +5723,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5222,7 +5740,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5237,7 +5757,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5252,7 +5774,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5267,7 +5791,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5282,7 +5808,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5297,7 +5825,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5312,7 +5842,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5327,7 +5859,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5342,7 +5876,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5357,7 +5893,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5372,7 +5910,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5387,7 +5927,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5402,7 +5944,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5417,7 +5961,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5432,7 +5978,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5447,7 +5995,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5462,7 +6012,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5477,7 +6029,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5492,7 +6046,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5507,7 +6063,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5522,7 +6080,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5537,7 +6097,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5552,7 +6114,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5567,7 +6131,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5582,7 +6148,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5597,7 +6165,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5612,7 +6182,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5627,7 +6199,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5642,7 +6216,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5657,7 +6233,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5672,7 +6250,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5687,7 +6267,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5702,7 +6284,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5717,7 +6301,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5732,7 +6318,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5747,7 +6335,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5762,7 +6352,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5777,7 +6369,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5792,7 +6386,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5807,7 +6403,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5822,7 +6420,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5837,7 +6437,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5852,7 +6454,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5867,7 +6471,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5882,7 +6488,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5897,7 +6505,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },

@@ -173,7 +173,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -188,7 +190,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -203,7 +207,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -218,7 +224,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -233,7 +241,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -248,7 +258,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -263,7 +275,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -278,7 +292,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -290,7 +306,15 @@
       "se": "",
       "jp": "　からんでいたのは『鉄拳のフリット』。<tips=34>ダリオ・ボネット</tips>が主催している賭けボクシングの選手だ。",
       "en": "The drunk bothering him was ‘Iron Fist Fritt,’ one of the fighters in <tips=34>Dario Bonetto</tips>’s underground boxing matches.",
-      "bg": "assets/vn/backgrounds/background-英国式のバー.webp"
+      "bg": "assets/vn/backgrounds/background-英国式のバー.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0047",
@@ -299,7 +323,15 @@
       "sj": "",
       "se": "",
       "jp": "　街で一番てわけじゃないがなかなか優秀な<tips=17>タイプB</tips>のボクサーだった。普段は大人しく無口なやつだったがとにかく酒癖が悪く、飲むとやたらとまわりの人間に喧嘩をふっかけ、しょっちゅう問題を起こしている。だからそいつが店に入ってくると他の客はみんな離れるか、店を出て行ってしまう。",
-      "en": "He wasn’t the best boxer in the City, but he was a damn good <tips=17>Type B</tips> fighter. Normally he was quiet and meek. The problem was that he was a terrible drunk: once he started drinking, he picked fights with everyone around him and caused trouble everywhere he went. Whenever he walked into a place, the other customers either gave him a wide berth or left altogether."
+      "en": "He wasn’t the best boxer in the City, but he was a damn good <tips=17>Type B</tips> fighter. Normally he was quiet and meek. The problem was that he was a terrible drunk: once he started drinking, he picked fights with everyone around him and caused trouble everywhere he went. Whenever he walked into a place, the other customers either gave him a wide berth or left altogether.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0048",
@@ -308,7 +340,15 @@
       "sj": "",
       "se": "",
       "jp": "　そのときもやつがドアから入って来るとそれに気がついた何人かの客はこそこそと会計を済ませて逃げていった。",
-      "en": "That day was no different. The moment he came through the door, several customers quietly paid their tabs and slipped out."
+      "en": "That day was no different. The moment he came through the door, several customers quietly paid their tabs and slipped out.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0050",
@@ -317,7 +357,21 @@
       "sj": "",
       "se": "",
       "jp": "　エリオットはカウンターで一人で座っていて、ウイスキーの入ったグラスと火のついた煙草を交互に口にしている。フリットはその隣に座る。<tips=23>エリオット</tips>がそちらをチラと見ただけでなんの反応もなかったのは、多分フリットのことを知らなかったんだろう。",
-      "en": "Elliott was sitting alone at the counter, going back and forth between his whiskey and his cigarette. Fritt took the stool beside him. <tips=23>Elliott</tips> gave him one glance and no other reaction. He probably had no idea who Fritt was."
+      "en": "Elliott was sitting alone at the counter, going back and forth between his whiskey and his cigarette. Fritt took the stool beside him. <tips=23>Elliott</tips> gave him one glance and no other reaction. He probably had no idea who Fritt was.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0051",
@@ -326,7 +380,21 @@
       "sj": "",
       "se": "",
       "jp": "　おれは<tips=66>コンタ</tips>や他の仲間と一緒に飲んでいたが、何か起こるんじゃないかと思ってチラチラと様子を見ていたんだ。",
-      "en": "I was drinking with <tips=66>Konta</tips> and some of the others, but I kept glancing over, sure something was about to happen."
+      "en": "I was drinking with <tips=66>Konta</tips> and some of the others, but I kept glancing over, sure something was about to happen.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0052",
@@ -335,7 +403,21 @@
       "sj": "",
       "se": "",
       "jp": "　で、フリットは二、三杯ビールを飲んだらもう顔が真っ赤になって、<tips=23>エリオット</tips>にからみはじめたというわけさ。",
-      "en": "Sure enough, two or three beers were enough to turn Fritt bright red, and then he started in on <tips=23>Elliott</tips>."
+      "en": "Sure enough, two or three beers were enough to turn Fritt bright red, and then he started in on <tips=23>Elliott</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0053",
@@ -344,7 +426,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=23>エリオット</tips>は相手をしないが、フリットはとにかくしつこい。脅したり、罵倒してあざ笑ってみたり、最初っから喧嘩をするつもりでからんでいるんだよなあれは。もうその時点で興奮して、目が金色に輝いている。マスターも変に口を出せばとばっちりを喰らうから、苦々しい顔で見ることしか出来ない。",
-      "en": "<tips=23>Elliott</tips> ignored him, but Fritt just wouldn’t quit. Threats, insults, sneering—the bastard had come over looking for a fight from the start. He was already so worked up his eyes were shining gold. The bartender could only watch with a sour look; if he stepped in, he’d get caught in it too."
+      "en": "<tips=23>Elliott</tips> ignored him, but Fritt just wouldn’t quit. Threats, insults, sneering—the bastard had come over looking for a fight from the start. He was already so worked up his eyes were shining gold. The bartender could only watch with a sour look; if he stepped in, he’d get caught in it too.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0054",
@@ -353,7 +449,21 @@
       "sj": "",
       "se": "",
       "jp": "　店内に響くような怒鳴り声を上げた時点で、おれは立ち上がった。フリットを止めようと思ったんだ。",
-      "en": "When Fritt started bellowing loud enough for the whole bar to hear, I got up to stop him."
+      "en": "When Fritt started bellowing loud enough for the whole bar to hear, I got up to stop him.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0055",
@@ -362,7 +472,21 @@
       "sj": "",
       "se": "",
       "jp": "　あいつはおれのことを恐れていたからね。サイキックが怖くて怖くて仕方ないんだよ。実際殴り合いになればおれが勝てるか怪しいもんだが、<tips=77>特質変異</tips>の真っ黒な手を見せて脅せば言うことを聞く。その時おれは絡まれている方があの有名な<tips=23>エリオット</tips>と知らなかったから、おれがなんとかしなきゃ大けがをすると思ったんだ。",
-      "en": "He was afraid of me, you see. Psychics scared him half to death. Honestly, if we traded punches, I wasn’t sure I’d win. But all I had to do was show him my pitch-black <tips=77>Trait Mutation</tips> hand and threaten him, and he’d behave. At the time I didn’t know the man he was harassing was the famous <tips=23>Elliott</tips>, so I figured someone would get badly hurt if I didn’t step in."
+      "en": "He was afraid of me, you see. Psychics scared him half to death. Honestly, if we traded punches, I wasn’t sure I’d win. But all I had to do was show him my pitch-black <tips=77>Trait Mutation</tips> hand and threaten him, and he’d behave. At the time I didn’t know the man he was harassing was the famous <tips=23>Elliott</tips>, so I figured someone would get badly hurt if I didn’t step in.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0056",
@@ -371,7 +495,21 @@
       "sj": "",
       "se": "",
       "jp": "　おれが立ち上がったと同時に、<tips=23>エリオット</tips>も立ち上がった。そしてフリットと二人で表に出て行く。",
-      "en": "The moment I stood, <tips=23>Elliott</tips> did too. Then he and Fritt headed outside together."
+      "en": "The moment I stood, <tips=23>Elliott</tips> did too. Then he and Fritt headed outside together.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-flit-f047-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0058",
@@ -390,7 +528,15 @@
       "se": "",
       "jp": "　フリットが道路の上にひっくりかえって白目を剥いている。<tips=23>エリオット</tips>はくわえ煙草をしたまましかめっつらで右手をぷらぷらと振っている。",
       "en": "Fritt is flat on his back in the road, eyes rolled white. <tips=23>Elliott</tips> stands there with his cigarette still in his mouth, grimacing as he shakes out his right hand.",
-      "bg": "assets/vn/backgrounds/background-裏路地.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0071",
@@ -399,7 +545,15 @@
       "sj": "",
       "se": "",
       "jp": "　近くにいたやつに聞くと、そいつもよくわかっていなかった。フリットがボクシングの構えから殴りかかったその瞬間、ゴキッと音がして逆にひっくり返っていたらしい。",
-      "en": "I ask someone nearby, but he didn’t see it clearly either. Apparently, just as Fritt lunged from his boxing stance, there was a nasty crack—and Fritt was the one who went flying."
+      "en": "I ask someone nearby, but he didn’t see it clearly either. Apparently, just as Fritt lunged from his boxing stance, there was a nasty crack—and Fritt was the one who went flying.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "B4-1:0072",
@@ -412,7 +566,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -427,7 +583,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -442,7 +600,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -457,7 +617,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -472,7 +634,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -525,7 +689,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -540,7 +706,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -555,7 +723,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -570,11 +740,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -589,11 +763,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -608,11 +786,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -627,11 +809,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1359,7 +1545,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1383,7 +1571,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1398,11 +1588,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1417,11 +1611,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1436,11 +1634,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1455,11 +1657,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1474,11 +1680,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1493,11 +1703,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1512,11 +1726,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1531,11 +1749,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1550,11 +1772,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1569,11 +1795,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1588,11 +1818,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1607,11 +1841,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1626,11 +1864,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1645,11 +1887,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1664,11 +1910,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -1737,7 +1987,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1752,7 +2004,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1767,7 +2021,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1782,7 +2038,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1797,11 +2055,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1816,11 +2078,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1835,11 +2101,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1854,11 +2130,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1873,11 +2159,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1892,11 +2188,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1911,11 +2217,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1930,11 +2246,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1949,11 +2275,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1968,11 +2304,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -1987,11 +2333,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2006,15 +2362,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2029,15 +2397,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2052,15 +2432,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2075,15 +2467,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2098,15 +2502,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2121,15 +2537,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2144,15 +2572,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2167,15 +2607,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2190,15 +2642,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2213,15 +2677,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2236,19 +2712,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2263,19 +2747,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2290,19 +2782,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2317,19 +2817,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2344,19 +2852,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2371,19 +2887,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2398,19 +2922,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2425,19 +2957,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2452,19 +2992,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2479,19 +3027,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2506,19 +3062,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2533,19 +3097,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2560,19 +3132,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2587,19 +3167,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2614,19 +3202,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2641,19 +3237,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2668,19 +3272,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2695,19 +3307,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2722,19 +3342,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2749,19 +3377,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2776,19 +3412,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2803,19 +3447,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2830,19 +3482,27 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "r"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -2858,7 +3518,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2873,7 +3535,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2888,7 +3552,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2903,7 +3569,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2918,7 +3586,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2933,7 +3603,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2948,7 +3620,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2963,7 +3637,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2978,7 +3654,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2993,7 +3671,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3008,7 +3688,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3023,7 +3705,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3038,7 +3722,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3053,7 +3739,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3068,7 +3756,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3083,7 +3785,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3098,7 +3814,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3113,7 +3843,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3128,7 +3872,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3143,7 +3901,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3158,7 +3930,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3173,7 +3959,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3188,7 +3988,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3203,7 +4017,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3218,7 +4046,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3233,7 +4075,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3248,7 +4104,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3263,7 +4133,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3278,7 +4162,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3293,7 +4191,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3308,7 +4220,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3323,7 +4249,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3338,7 +4278,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3353,7 +4307,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3368,7 +4336,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3383,7 +4365,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3398,7 +4394,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3413,7 +4423,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3428,7 +4452,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3443,7 +4481,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3458,7 +4510,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3473,7 +4539,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3488,7 +4568,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3503,7 +4597,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3518,7 +4626,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3533,7 +4655,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3548,7 +4684,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3563,7 +4713,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3578,7 +4742,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3593,7 +4771,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3608,7 +4800,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3623,7 +4829,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3638,7 +4858,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3653,7 +4887,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3668,7 +4916,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3683,7 +4945,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3698,7 +4974,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3713,11 +5003,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3732,11 +5032,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3751,11 +5061,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3770,15 +5090,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3793,15 +5119,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3816,15 +5148,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3839,15 +5177,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3862,15 +5206,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3885,15 +5235,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3908,15 +5264,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3931,15 +5293,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3954,15 +5322,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -3977,15 +5351,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4000,15 +5380,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4023,15 +5409,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4046,15 +5438,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4069,15 +5467,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4092,15 +5496,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4115,15 +5525,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4138,15 +5554,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4161,15 +5583,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4184,15 +5612,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4207,15 +5641,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4230,15 +5670,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4253,15 +5699,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4276,15 +5728,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4299,15 +5757,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4322,15 +5786,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4345,15 +5815,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4368,15 +5844,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4391,15 +5873,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4414,15 +5902,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-evgenij-hess-f068-02.webp",
-          "s": "l"
-        },
-        {
-          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-camilla-northam-f115-03.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-konta-tanaka-f052-04.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
         }
       ]
     },
@@ -4465,7 +5959,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4480,7 +5976,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4495,7 +5993,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4510,7 +6010,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4525,7 +6027,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4540,7 +6044,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4555,7 +6061,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4570,7 +6078,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4585,7 +6095,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4600,7 +6112,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4615,7 +6129,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4630,7 +6146,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4645,7 +6163,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4660,7 +6180,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4675,7 +6197,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4690,7 +6214,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4705,7 +6231,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4720,7 +6248,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4735,7 +6265,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4750,7 +6282,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4765,7 +6299,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4780,7 +6316,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4795,7 +6333,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4810,7 +6350,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4825,7 +6367,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4840,7 +6384,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4855,7 +6401,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4870,7 +6418,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4885,7 +6435,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     },
@@ -4900,7 +6452,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-konta-tanaka-f052-03.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         }
       ]
     }

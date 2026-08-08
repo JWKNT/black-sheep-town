@@ -271,7 +271,9 @@ def used_visuals(compiled_root: Path) -> tuple[set[str], set[str]]:
                 state.pop(TAG_RE.sub("", row["arg1"]), None)
             else:
                 state.clear()
-        if row["line_type"] != "text" or not row["arg1"]:
+        # Blank scenario rows can display a portrait before any dialogue. They
+        # are game events, not translation rows, and their art must be exported.
+        if row["command"] or not row["arg1"]:
             continue
         name = TAG_RE.sub("", row["arg1"])
         previous = state.get(name, {})

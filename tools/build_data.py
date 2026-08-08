@@ -69,12 +69,28 @@ def compact_line(
     return result
 
 
-def portrait_side(position: str) -> str:
-    if "左" in position:
-        return "l"
-    if "右" in position:
-        return "r"
-    return "c"
+def portrait_position(position: str) -> tuple[str, str, str]:
+    """Convert the game's named character anchor into compact reader coordinates."""
+    if "最左" in position:
+        horizontal = "fl"
+    elif "最右" in position:
+        horizontal = "fr"
+    elif "左" in position:
+        horizontal = "l"
+    elif "右" in position:
+        horizontal = "r"
+    else:
+        horizontal = "c"
+
+    if "上" in position:
+        vertical = "t"
+    elif "下" in position:
+        vertical = "b"
+    else:
+        vertical = "m"
+
+    side = "l" if horizontal in {"fl", "l"} else "r" if horizontal in {"r", "fr"} else "c"
+    return side, horizontal, vertical
 
 
 def load_visual_states(translation_root: Path) -> dict[str, dict[str, object]]:
@@ -127,10 +143,11 @@ def load_visual_states(translation_root: Path) -> dict[str, dict[str, object]]:
             else:
                 character_state.clear()
 
-        if row["line_type"] != "text":
-            continue
-
-        if row["arg1"]:
+        # In UTAGE, a character can be shown, moved, or have its expression
+        # changed on a blank scenario row before the next line of prose.  Those
+        # rows are part of the game's visual timeline even though they have no
+        # translatable text, so consume every real character event first.
+        if not command and row["arg1"]:
             name = TAG_RE.sub("", row["arg1"])
             previous = character_state.get(name, {})
             pattern = row["arg2"] or previous.get("pattern", "")
@@ -146,19 +163,29 @@ def load_visual_states(translation_root: Path) -> dict[str, dict[str, object]]:
                     "position": row["arg3"] or previous.get("position", ""),
                 }
 
+        if row["line_type"] != "text":
+            continue
+
         visual: dict[str, object] = {}
         if pending_background:
             visual["bg"] = pending_background
             pending_background = ""
         if character_state:
-            portraits = [
-                {
-                    "u": portrait_urls[state["subfile"]],
-                    "s": portrait_side(state.get("position", "")),
-                }
-                for state in character_state.values()
-                if state.get("subfile") in portrait_urls
-            ]
+            portraits = []
+            for state in character_state.values():
+                if state.get("subfile") not in portrait_urls:
+                    continue
+                side, horizontal, vertical = portrait_position(state.get("position", ""))
+                portraits.append(
+                    {
+                        "u": portrait_urls[state["subfile"]],
+                        "s": side,
+                        "x": horizontal,
+                        "y": vertical,
+                    }
+                )
+            horizontal_order = {"fl": 0, "l": 1, "c": 2, "r": 3, "fr": 4}
+            portraits.sort(key=lambda portrait: horizontal_order[portrait["x"]])
             if portraits:
                 visual["p"] = portraits
         if visual:

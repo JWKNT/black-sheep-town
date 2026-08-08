@@ -343,6 +343,14 @@
     }
 
     const articles = [...elements.scriptLines.querySelectorAll(".script-line")];
+    if (!articles.length) {
+      for (const side of ["l", "r"]) {
+        portraitSignatures[side] = "";
+        slots[side].replaceChildren();
+        slots[side].dataset.count = "0";
+      }
+      return;
+    }
     const focusLine = window.innerHeight * 0.48;
     let active = articles[0];
     for (const article of articles) {
@@ -350,28 +358,41 @@
       active = article;
     }
     const portraits = active?.readerPortraits || [];
-    const normalized = portraits.map((portrait, index) => ({
-      ...portrait,
-      side: portrait.s === "c" ? (index % 2 ? "r" : "l") : portrait.s,
-    }));
+    const marginPortraits = {
+      l: portraits.filter((portrait) => portrait.s === "l"),
+      r: portraits.filter((portrait) => portrait.s === "r"),
+    };
+    // The game can use a true center-stage anchor, while the reader deliberately
+    // keeps art out of the prose column. Put center art in the freer margin; the
+    // source x/y coordinates remain preserved in the chapter data and DOM.
+    for (const portrait of portraits.filter((candidate) => candidate.s === "c")) {
+      const side = marginPortraits.l.length <= marginPortraits.r.length ? "l" : "r";
+      marginPortraits[side].push(portrait);
+    }
+    const shellTop = elements.portraitStage.parentElement.getBoundingClientRect().top;
+    const anchorTop = Math.max(0, active.getBoundingClientRect().top - shellTop);
     for (const side of ["l", "r"]) {
-      const sidePortraits = normalized.filter((portrait) => portrait.side === side);
+      const sidePortraits = marginPortraits[side];
       const signature = JSON.stringify(sidePortraits);
-      if (signature === portraitSignatures[side]) continue;
-      portraitSignatures[side] = signature;
+      slots[side].style.top = `${anchorTop}px`;
+      if (signature !== portraitSignatures[side]) {
+        portraitSignatures[side] = signature;
 
-      const images = sidePortraits.map((portrait) => {
-        const image = document.createElement("img");
-        image.src = portrait.u;
-        image.alt = "";
-        image.decoding = "async";
-        image.loading = "eager";
-        image.width = 720;
-        image.height = 900;
-        return image;
-      });
-      slots[side].dataset.count = String(images.length);
-      slots[side].replaceChildren(...images);
+        const images = sidePortraits.map((portrait) => {
+          const image = document.createElement("img");
+          image.src = portrait.u;
+          image.alt = "";
+          image.decoding = "async";
+          image.loading = "eager";
+          image.width = 720;
+          image.height = 900;
+          image.dataset.gameX = portrait.x || side;
+          image.dataset.gameY = portrait.y || "m";
+          return image;
+        });
+        slots[side].dataset.count = String(images.length);
+        slots[side].replaceChildren(...images);
+      }
     }
   }
 
