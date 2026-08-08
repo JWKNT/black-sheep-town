@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　地図を見れば<tips=9>Y地区</tips>の西側に「門後」という地名を見つけることが出来るだろう。",
       "en": "Look at a map and you will find a place called Mongo on the western side of <tips=9>Y District</tips>.",
-      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上夜.webp"
     },
     {
       "id": "E2:0009",
@@ -106,7 +106,7 @@
       "se": "",
       "jp": "　一歩路地を出ると<tips=59>暗闇通り</tips>で、街娼が立ち並び、道行く男に見境なく声をかける。道の両脇に並んだボロアパートはそのほとんどが住宅にみせかけた売春宿であった。",
       "en": "Step out of the alley and you are on <tips=59>Darkness Street</tips>, where prostitutes line the road and call indiscriminately to every man who passes. Most of the crumbling apartments on either side are brothels pretending to be homes.",
-      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り夜.webp"
     },
     {
       "id": "E2:0020",
@@ -269,10 +269,10 @@
       "se": "Miyuki",
       "jp": "「おかえりなさい」",
       "en": "“Welcome home.”",
-      "bg": "assets/vn/backgrounds/bg-cdaa06c8ff03.webp",
+      "bg": "assets/vn/backgrounds/background-路地のアパート.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -287,7 +287,7 @@
       "en": "<tips=53>Miyuki</tips> greets my silent entrance with a smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -302,7 +302,7 @@
       "en": "“Want a beer? Oh—you smell like liquor. You've already been drinking.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -317,7 +317,7 @@
       "en": "<tips=53>Miyuki</tips> frowns and reaches to take back the bottle she set on the table. I snatch it first, pop the cap, and pour myself a glass.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -332,7 +332,7 @@
       "en": "“You're not working today?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -347,7 +347,7 @@
       "en": "“Yeah, I'm off today. Oh, Mr. <tips=48>Doujima</tips> was looking for you, <tips=50>Kuniaki</tips>. Did he find you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -362,7 +362,7 @@
       "en": "“Thanks to you, he caught me at Carlotta's and saddled me with a damned nuisance.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -377,7 +377,7 @@
       "en": "“Oh, so that's why you're in such a mood. What did he want?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -392,7 +392,7 @@
       "en": "Her curiosity plain, <tips=53>Miyuki</tips> sits across from me. I drink my beer and tell her what passed between <tips=48>Doujima</tips> and me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -407,7 +407,7 @@
       "en": "The story leaves a bad taste even in the retelling. It is not a very long one, yet by the time I finish, three empty beer bottles stand on the table.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -422,7 +422,7 @@
       "en": "“Honestly. What does that police dog think I am?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -437,7 +437,7 @@
       "en": "“But from the sound of it, this is just the sort of thing you would enjoy, <tips=50>Kuniaki</tips>... And he might even arrange for you to use your power again, right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -452,7 +452,7 @@
       "en": "<tips=53>Miyuki</tips> tips her head to one side.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -467,7 +467,7 @@
       "en": "“Impossible. I looked into it. Not one <tips=16>Type A</tips> who has undergone this treatment has ever been given their power back. That is how dangerous society considers <tips=16>Type A</tips> abilities.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -482,7 +482,7 @@
       "en": "“But Mr. <tips=48>Doujima</tips> might...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -497,7 +497,7 @@
       "en": "“He can't. And the money isn't the only problem. There is another matter of the utmost importance. Can you guess what?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -512,7 +512,7 @@
       "en": "<tips=53>Miyuki</tips> shakes her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -527,7 +527,7 @@
       "en": "“I don't like the way the man spoke to me. That is unforgivable. You may think I'm angry over nothing, but a man's pride is a matter of life and death. If you want a favor, there is a proper way to ask.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -542,7 +542,7 @@
       "en": "“I know. My mama always said men live on pride alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -557,7 +557,7 @@
       "en": "<tips=53>Miyuki</tips> bobs her head in vigorous agreement.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -572,7 +572,7 @@
       "en": "It is a grand display of understanding. Whether the understanding beneath it is equally grand remains doubtful. I ignore the question and press on, determined to say my piece.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -587,7 +587,7 @@
       "en": "“No one could cooperate gladly after a threat like that. Detective <tips=48>Doujima</tips> has no thought for such niceties. No tact at all. That is why he cannot work with anyone and is forever alone. No one likes the man.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -602,7 +602,7 @@
       "en": "“Really? I think Mr. <tips=48>Doujima</tips> is wonderful.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -617,7 +617,7 @@
       "en": "“That is because you like animals.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -632,7 +632,7 @@
       "en": "“Oh, that's awful.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -647,7 +647,7 @@
       "en": "“The man is hopeless. Anyway, I don't have time for a hobby like this. I'm busy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -662,7 +662,7 @@
       "en": "“That's right. <tips=50>Kuniaki</tips> is going to write his masterpiece and become a famous author.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -677,7 +677,7 @@
       "en": "From anyone else, the line would be pure sarcasm. <tips=53>Miyuki</tips> believes it with all her heart. The woman seems incapable of doubting anything I tell her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -692,7 +692,7 @@
       "en": "Her innocence catches me with a small stab of guilt.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -707,7 +707,7 @@
       "en": "“But for all you say, <tips=50>Kuniaki</tips>, I think you actually like Mr. <tips=48>Doujima</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -722,7 +722,7 @@
       "en": "“What makes you think that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -737,7 +737,7 @@
       "en": "“Because you never talk about people you truly hate, <tips=50>Kuniaki</tips>. You're the sort who refuses to waste his own time thinking about someone he dislikes. If you're willing to complain this much, then you must think Mr. <tips=48>Doujima</tips> is worth the trouble. Don't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -752,7 +752,7 @@
       "en": "<tips=53>Miyuki</tips> occasionally reveals a startling gift for seeing through me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -767,7 +767,7 @@
       "en": "With no answer to give her, I open another beer in silence.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -782,7 +782,7 @@
       "en": "“I think you should do it. It could help with your book too, couldn't it, <tips=50>Kuniaki</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -797,7 +797,7 @@
       "en": "Of all things, she is urging me to help <tips=48>Doujima</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -812,7 +812,7 @@
       "en": "“Perhaps it would give me something to write about. But a far more important event is about to happen.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -827,7 +827,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -842,7 +842,7 @@
       "en": "“<tips=3>Chris Xie</tips> is dying.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -857,7 +857,7 @@
       "en": "“What? Mr. <tips=3>Chris Xie</tips> is...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -872,7 +872,7 @@
       "en": "The mention of death startles her, but <tips=53>Miyuki</tips> cannot seem to remember at once who the dying man is.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -887,7 +887,7 @@
       "en": "“The head of <tips=7>YS</tips>. You know who I mean.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -902,7 +902,7 @@
       "en": "“Oh! Right, yes. The man with three eyes?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -917,7 +917,7 @@
       "en": "“Yes. He has had psychic disease for some time. The <tips=16>Type A</tips> disease—though apparently Normals can contract it too. Your body crumbles and rots while you are still alive. Once the symptoms appear, there is no saving you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -932,7 +932,7 @@
       "en": "“That's frightening... You'll be all right, won't you, <tips=50>Kuniaki</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -947,7 +947,7 @@
       "en": "“It is hardly contagious. You are more likely to die in a traffic accident. <tips=3>Chris Xie</tips> was unlucky—perhaps it was punishment for the life he led... Anyway, once <tips=3>Chris Xie</tips> dies, <tips=7>YS</tips> cannot go on as before. It is a patchwork of gangs from different backgrounds, held together almost single-handedly by <tips=3>Chris Xie</tips>. Something is bound to happen. And I have to cover it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -962,7 +962,7 @@
       "en": "“I see...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -977,7 +977,7 @@
       "en": "“Exactly. A serial killer is interesting, but the <tips=7>YS</tips> succession struggle matters far more to <tips=9>Y District</tips>. I have no reason to take a job that won't pay me one cent.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -992,7 +992,7 @@
       "en": "“But are you certain Mr. <tips=3>Chris</tips> will die? Doctors give people a certain amount of time, but it doesn't always happen just as they predict.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1007,7 +1007,7 @@
       "en": "“I hear he is so weak that he could die today and surprise no one. The information is sound. Details like that haven't spread through the City, but I have special connections. I don't spend every day merely drinking and amusing myself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1022,7 +1022,7 @@
       "en": "<tips=53>Miyuki</tips> fails to notice the boast.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1037,7 +1037,7 @@
       "en": "“But you hate this sort of thing, don't you, <tips=50>Kuniaki</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1052,7 +1052,7 @@
       "en": "“What sort of thing?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1067,7 +1067,7 @@
       "en": "“Cases where women or children are killed. They always make you so angry... Don't you really want to catch the killer yourself?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1082,7 +1082,7 @@
       "en": "I shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1097,7 +1097,7 @@
       "en": "“You give me too much credit. I have no such sense of justice. Why must you say the same thing as Detective <tips=48>Doujima</tips>...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1112,7 +1112,7 @@
       "en": "<tips=53>Miyuki</tips> cuts me off by closing both hands around mine.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1127,7 +1127,7 @@
       "en": "“You're trying to become a writer, <tips=50>Kuniaki</tips>, but you were happiest when you were a detective and could use your power. Even if it is only for a little while, I want to see you come alive again. I want your eyes to shine the way they used to.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1142,7 +1142,7 @@
       "en": "“What are you saying? Without money, nothing else begins. Chasing a murderer may not earn us anything, but if I write, at least some money comes in.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1157,7 +1157,7 @@
       "en": "“Don't worry about little things. Seeing you happy matters more to me than having your book sell thousands of copies and making us rich, <tips=50>Kuniaki</tips>. I want you to stop worrying over every detail and do what you love, <tips=50>Kuniaki</tips>. There is nothing to be afraid of. If money is the problem, I'll find a way... If the case truly doesn't interest you, then that's fine. But if even a little part of you wants to know...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1172,7 +1172,7 @@
       "en": "I sigh and put the beer to my lips.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1187,7 +1187,7 @@
       "en": "Tsingtao is crisp and light, well suited to the sharp bite of carbonation on a sweltering summer day or straight out of the bath. After a great deal of stronger liquor, however, it feels thin and unsatisfying.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1202,7 +1202,7 @@
       "en": "“Is it dangerous? If it is, maybe you shouldn't take it after all... Ah!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1217,7 +1217,7 @@
       "en": "I set down my half-finished glass and pull <tips=53>Miyuki</tips> toward me by the hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1232,7 +1232,7 @@
       "en": "Her body falls naturally against my chest. With my free hand I catch her chin and press my mouth to hers.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1274,7 +1274,7 @@
       "en": "“Mmm...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1289,7 +1289,7 @@
       "en": "<tips=53>Miyuki</tips>'s throat gives a small bob as she swallows.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1304,7 +1304,7 @@
       "en": "“It is not especially dangerous. Well, if you feel that strongly, I'll give it some thought.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1319,7 +1319,7 @@
       "en": "Her eyes wet, she looks up at me and gives a small nod.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1334,7 +1334,7 @@
       "en": "She is a prostitute.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1349,7 +1349,7 @@
       "en": "She works at one of the older houses on <tips=59>Darkness Street</tips>, venerable by the standards of this neighborhood.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1364,7 +1364,7 @@
       "en": "Her mother worked as a prostitute in the same house.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1379,7 +1379,7 @@
       "en": "She never knew her father. He was probably one of her mother's favored customers; several men were possible, but no one ever knew which.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1394,7 +1394,7 @@
       "en": "He may not have been Japanese. Given the house's clientele, it is more likely that some foreign blood runs through her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1409,7 +1409,7 @@
       "en": "Her eyes have sharply defined double lids. Her lips are a little full. Her skin is startlingly pale.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1424,7 +1424,7 @@
       "en": "Several of her features are uncommon among Japanese people, but none proves that she is not Japanese.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1439,7 +1439,7 @@
       "en": "The Japanese themselves are a mixture of peoples from across Asia, and our faces come in endless varieties.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1454,7 +1454,7 @@
       "en": "My own family is from Kyushu, and I can trace nothing but Japanese blood for generations. Yet my high nose, deep-set features, and enormous frame mean that people here rarely take me for Japanese. When someone names a celebrity I resemble, the man is almost always Middle Eastern.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1469,7 +1469,7 @@
       "en": "<tips=53>Miyuki</tips>'s mother, moreover, had never known her father either, and possessed the same sort of features unusual in Japan.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1484,7 +1484,7 @@
       "en": "Most of the blood in <tips=53>Miyuki</tips>'s veins, then, comes from people no one can name.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1499,7 +1499,7 @@
       "en": "It has never troubled her. She is always cheerful. That is her finest quality.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1514,7 +1514,7 @@
       "en": "Her birth and her work make her feel inferior to me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1529,7 +1529,7 @@
       "en": "I, in turn, am ashamed of how calmly I live off her. Yet I use that very inferiority to go on exploiting her, shame and all.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1544,7 +1544,7 @@
       "en": "I send her out to earn the money and then squander it. When idleness takes me, I use her body as an outlet for my desire. She seems to love me. No human feeling is infinite, and one day hers will run dry. For now, I see no sign of it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1559,7 +1559,7 @@
       "en": "The thought brings a measure of self-loathing. It has never outweighed my appetite for this idle life.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1574,7 +1574,7 @@
       "en": "How long can this ugly arrangement, so ordinary in this City, continue?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "l"
         }
       ]
@@ -1587,7 +1587,7 @@
       "se": "",
       "jp": "　その日は、朝からシトシトと雨が降っていた。",
       "en": "That morning, a fine rain has been falling since dawn.",
-      "bg": "assets/vn/backgrounds/bg-31795601b003.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上雨.webp"
     },
     {
       "id": "E2:0149",
@@ -1930,10 +1930,10 @@
       "se": "Carlotta",
       "jp": "「いらっしゃい」",
       "en": "“Welcome.”",
-      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp",
+      "bg": "assets/vn/backgrounds/background-スペイン風のバル.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8e49221c9ee8.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-02.webp",
           "s": "l"
         }
       ]
@@ -1948,7 +1948,7 @@
       "en": "Carlotta looks up from polishing a glass as I enter.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8e49221c9ee8.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-02.webp",
           "s": "l"
         }
       ]
@@ -1963,7 +1963,7 @@
       "en": "“You're soaked through. Did you come without an umbrella again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a027086c00b8.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-03.webp",
           "s": "l"
         }
       ]
@@ -1978,7 +1978,7 @@
       "en": "“I don't like umbrellas.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a027086c00b8.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-03.webp",
           "s": "l"
         }
       ]
@@ -1993,7 +1993,7 @@
       "en": "“Always some excuse with you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2008,7 +2008,7 @@
       "en": "Carlotta hands me a towel with a troubled look. I use it to wipe the rain from my drenched head and face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2023,7 +2023,7 @@
       "en": "“What if you catch cold? Never mind you—think how awful it would be if you gave it to poor <tips=53>Miyuki</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2038,7 +2038,7 @@
       "en": "“Stop nagging.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2053,7 +2053,7 @@
       "en": "I stand, open the door I have only just entered, and return to the street with Carlotta still talking at my back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2068,7 +2068,7 @@
       "en": "The rain has grown heavier. I have lost the will to drink, so I turn toward Furukawa's and tell myself I may as well do a little reporting.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-eee152d5e7b9.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-04.webp",
           "s": "l"
         }
       ]
@@ -2081,10 +2081,10 @@
       "se": "Furukawa",
       "jp": "「昨日の今日に来られたって、特に変化なんかないわ」",
       "en": "“You were here yesterday. Nothing has changed overnight.”",
-      "bg": "assets/vn/backgrounds/bg-31795601b003.webp",
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上雨.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2099,7 +2099,7 @@
       "en": "Furukawa shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2114,7 +2114,7 @@
       "en": "“No, I suppose not. Call me if anything does... On another subject, what does your man intend to do if <tips=3>Chris Xie</tips> dies like this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2129,7 +2129,7 @@
       "en": "Furukawa's lover belongs to the <tips=76>Hong Kong Faction</tips> led by <tips=3>Chris Xie</tips>, and is known for his particular loyalty to <tips=3>Chris</tips> himself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2144,7 +2144,7 @@
       "en": "“He hasn't told me anything about it. He loves the <tips=81>Longtou</tips>, but he has never gotten along with the other men...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2159,7 +2159,7 @@
       "en": "“I see. So even if a new order takes shape, <tips=26>Kenshi Ryuu</tips> may not fall into line as he did before.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2174,7 +2174,7 @@
       "en": "“Don't say that name.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2189,7 +2189,7 @@
       "en": "“Why not?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2204,7 +2204,7 @@
       "en": "“I don't want to hear it from you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2219,7 +2219,7 @@
       "en": "Furukawa sighs and fixes the camisole strap slipping from her shoulder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2234,7 +2234,7 @@
       "en": "“Never mind that. Have you heard?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2249,7 +2249,7 @@
       "en": "“Hear what?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2264,7 +2264,7 @@
       "en": "“<tips=73>Ryuka</tips>. They say someone murdered her.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2279,7 +2279,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2294,7 +2294,7 @@
       "en": "“Only last week. They found her cut to pieces in her own apartment. The police came and everything was in an uproar.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2309,7 +2309,7 @@
       "en": "“...Cut to pieces? Did he pack her into bags and arrange them on shelves?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2324,7 +2324,7 @@
       "en": "“You know about that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2339,7 +2339,7 @@
       "en": "“I knew there had been such a murder. I saw the crime-scene photographs. I didn't realize the victim was her...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2354,7 +2354,7 @@
       "en": "“Poor thing. She was so happy to have work she loved. She said every day felt full... Just a month ago, I—wait! Mr. <tips=50>Roji</tips>!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2369,7 +2369,7 @@
       "en": "I step into the street before Furukawa can finish.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-357bb5fb98f2.webp",
+          "u": "assets/vn/portraits/portrait-furukawa-f083-02.webp",
           "s": "l"
         }
       ]
@@ -2526,7 +2526,7 @@
       "se": "",
       "jp": "　調査は、<tips=48>堂島</tips>と会って中和剤をもらってから行うことにしよう。能力がなければ、私は多少腕力が強いだけの平凡な男だ。",
       "en": "I will begin the investigation after meeting <tips=48>Doujima</tips> and receiving the neutralizer. Without my power, I am only an ordinary man with more brute strength than most.",
-      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り夜.webp"
     },
     {
       "id": "E2:0257",
@@ -2628,7 +2628,7 @@
       "en": "“I have a patient waiting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2643,7 +2643,7 @@
       "en": "“You make house calls to the poor even in this rain? My admiration... Ah, don't look me in the eye. I can't have you rummaging through my heart.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2658,7 +2658,7 @@
       "en": "I cover my eyes as I speak.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2673,7 +2673,7 @@
       "en": "This is not entirely a joke. Dr. <tips=5>Tachikawa</tips> possesses an unusual gift. He can read the emotions of anyone whose gaze meets his—in other words, he is a telepath.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2688,7 +2688,7 @@
       "en": "He cannot read concrete thoughts, apparently, but the least stir of emotion is open to him. A lie, a secret feeling: he sees them all.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2703,7 +2703,7 @@
       "en": "Telepathy is a classic power, familiar to everyone in fiction, but very few people can truly use it. Even among those few, the ability is usually faint or bound by all manner of conditions. The rare psychics who can read another person's inner life well enough to be useful are invariably put to specialized work.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2718,7 +2718,7 @@
       "en": "A man like <tips=5>Tachikawa</tips>, gifted with considerable power, who nevertheless became a psychiatrist and spends his days treating miserable patients in a miserable City like this, must be a rare eccentric.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2733,7 +2733,7 @@
       "en": "What a fortunate encounter.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2748,7 +2748,7 @@
       "en": "Could I drag him into the <tips=20>Koschei</tips> investigation too?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2763,7 +2763,7 @@
       "en": "“I do not use my power at every opportunity. What could I possibly gain by looking into your heart? It is illegal for <tips=16>Type A</tips> people to use their abilities recklessly. Those of us given powerful abilities must be more careful in our conduct than people with minor gifts. You should know that better than anyone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2778,7 +2778,7 @@
       "en": "Just as I know his past, he knows mine. Mine, admittedly, is less of a secret. Most longtime residents of the City know it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2793,7 +2793,7 @@
       "en": "More than fifteen years have passed since we met. He was a young man newly made a doctor. I was a cub detective, barely twenty if that.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2808,7 +2808,7 @@
       "en": "“Still as serious as ever, Doctor. But you have me with ‘better than anyone.’ I certainly know better than most what comes of abusing a power.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2823,7 +2823,7 @@
       "en": "I take my hand from my eyes. The exaggerated hiding was a joke at his expense; just now, there is no feeling in me I particularly mind him seeing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2838,7 +2838,7 @@
       "en": "“Even with your duties at the hospital, you treat <tips=78>Gold-Eyes</tips> in your private time. Such devotion. But I would advise some restraint. I hear ‘<tips=22>the Elders</tips>’ are not pleased by all this energetic charity.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2853,7 +2853,7 @@
       "en": "I dangle one of my latest scraps of City intelligence before him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2868,7 +2868,7 @@
       "en": "Gangs and merchants in this City usually band together by birthplace or ethnicity. One secret organization, however, is both powerful and indifferent to either.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2883,7 +2883,7 @@
       "en": "Its formal name is the “<tips=21>Dragon Club</tips>.” Closer to the original pronunciation, it would be Baron Hui. Some Japanese speakers read the characters Hachiryukai, and on rare occasions someone renders them in English as “Dragon Club.” Most shorten it to Baron or use the code name “<tips=22>the Elders</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2898,7 +2898,7 @@
       "en": "Somewhere in the Chinese-speaking world, I am told, “dragon” is used as a flattering name for a <tips=17>Type B</tips> person.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2913,7 +2913,7 @@
       "en": "The Club, in short, is an organization of <tips=17>Type B</tips> people.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2928,7 +2928,7 @@
       "en": "Its <tips=17>Type B</tips> members, burdened with mental disabilities and easy targets for discrimination, secretly meet and help one another as equals, regardless of race, age, or station.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2943,7 +2943,7 @@
       "en": "Similar organizations apparently exist everywhere. But <tips=9>Y District</tips> has an exceptional number of <tips=17>Type B</tips> people scattered through every layer of society, so its local Club commands enormous influence. Since members do not reveal themselves, that influence remains invisible.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2958,7 +2958,7 @@
       "en": "A supermarket clerk may be a member. So may a police officer, or a man inside <tips=7>YS</tips>, the largest mafia organization in the district. Ask for a name, however, and no one can give you one.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2973,7 +2973,7 @@
       "en": "Everyone knows that this sinister organization is ruled by three figures called <tips=22>the Elders</tips>, who share a home in one corner of <tips=9>Y District</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -2988,7 +2988,7 @@
       "en": "The code name carries both fear of that unseen threat and a measure of contempt for <tips=17>Type B</tips> people. That is why so many in the City call them “<tips=22>the Elders</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3003,7 +3003,7 @@
       "en": "“...I don't recall doing anything to them.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3018,7 +3018,7 @@
       "en": "As expected, I have caught his interest. <tips=5>Tachikawa</tips> looks toward me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3033,7 +3033,7 @@
       "en": "“No, no.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3048,7 +3048,7 @@
       "en": "I do not want him reading my emotions now.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3063,7 +3063,7 @@
       "en": "This time, without any joke, I cover my eyes with one hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3078,7 +3078,7 @@
       "en": "“It is your charity they dislike. I know perfectly well that you treat these people out of simple goodwill. But the world is full of boors who cannot believe in goodwill, who see nothing except advantage and self-interest. The ‘<tips=22>Elders</tips>’ think no one would go to such trouble without a scheme. They suspect you of taming <tips=17>Type B</tips> children and adults with no family of their own, all for some hidden purpose.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3093,7 +3093,7 @@
       "en": "“Absurd.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3108,7 +3108,7 @@
       "en": "<tips=5>Tachikawa</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3123,7 +3123,7 @@
       "en": "“Of course. A rare saint like you could never understand the minds of such vulgar men. Still, you ought to watch yourself. The world is moved by the feelings of vulgar men, and the few who know your true identity do know it. You can hardly blame them for growing suspicious.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3138,7 +3138,7 @@
       "en": "“No. What is absurd is your making me stand in the rain through that entire tedious speech.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3153,7 +3153,7 @@
       "en": "“You've got me again.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3168,7 +3168,7 @@
       "en": "I cannot help laughing at the retort.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3183,7 +3183,7 @@
       "en": "“Tedious it may be, but it matters to me. Time passes, yet some things do not change. To you, this may be a half-forgotten past. The City remembers it perfectly... Speaking of the past, did you know <tips=3>Chris Xie</tips> is on his deathbed? Ah. That expression says you did not. Now that you have returned to respectable society, I suppose underworld rumors no longer reach you. Why not contact him once? He may wish to see you one last time. I hear death is so near that he is hardly conscious.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3198,7 +3198,7 @@
       "en": "I steal a look at his face through my fingers.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3213,7 +3213,7 @@
       "en": "“That has even less to do with me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3228,7 +3228,7 @@
       "en": "I have no gift for reading hearts, but experience has taught me some confidence in reading faces.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3243,7 +3243,7 @@
       "en": "By my eye, <tips=5>Tachikawa</tips> is slightly shaken, however firmly he calls it irrelevant.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3258,7 +3258,7 @@
       "en": "Naturally. They walk utterly different paths today, but once <tips=5>Tachikawa</tips> and <tips=3>Chris Xie</tips> were inseparable.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3273,7 +3273,7 @@
       "en": "“Forgive the long digression. The conversation happened to take us there. The reason I truly stopped you is another matter entirely.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3288,7 +3288,7 @@
       "en": "The news of <tips=3>Chris Xie</tips> has made <tips=5>Tachikawa</tips> at least a little willing to listen. Having confirmed as much, I come to the point.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3303,7 +3303,7 @@
       "en": "“You still have more to say? Why does a man with such an enormous body talk so much?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3318,7 +3318,7 @@
       "en": "“Is there some medical evidence that large bodies produce fewer words?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3333,7 +3333,7 @@
       "en": "“I really cannot deal with you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3348,7 +3348,7 @@
       "en": "<tips=5>Tachikawa</tips> starts to turn his back on me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3363,7 +3363,7 @@
       "en": "“Your patient may be the next one killed!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3378,7 +3378,7 @@
       "en": "I shout it loud enough to stop him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3393,7 +3393,7 @@
       "en": "“Doctor, have you heard about the serial murders between <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3408,7 +3408,7 @@
       "en": "Until now, I have watched him through a narrow gap between my fingers. I deliberately spread them wide, make a show of having caught his expression, and close them at once.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3423,7 +3423,7 @@
       "en": "<tips=5>Tachikawa</tips> is an honest man. His displeasure appears plainly on his face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3438,7 +3438,7 @@
       "en": "The reaction is precisely what I wanted. I cannot keep a smile from my face as I continue.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3453,7 +3453,7 @@
       "en": "“Young women cut to pieces. Some tourists, some local girls. A great many of your patients live in that quarter, don't they?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3468,7 +3468,7 @@
       "en": "<tips=5>Tachikawa</tips> says nothing, but he is no longer calm. His umbrella tilts and the rain begins soaking one shoulder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3483,7 +3483,7 @@
       "en": "A moment later he notices and straightens it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3498,7 +3498,7 @@
       "en": "“By some strange turn, I have found myself investigating the case. I was at my wits' end, but with your help I could do the work of a hundred men. There should be a fee. I cannot name the sponsor unless you accept, but it is a sound organization, so set your mind at ease. For the lives of the people in this City, please, join me and—”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3513,7 +3513,7 @@
       "en": "At that, <tips=5>Tachikawa</tips> turns away and begins to leave.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3528,7 +3528,7 @@
       "en": "I carry on regardless.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3543,7 +3543,7 @@
       "en": "“Doctor! Believe it or not, I respect you. Those of us with useful <tips=16>Type A</tips> powers ought to use them properly. That does not mean selling ourselves to corporations and governments, climbing the ladder, or feeding our appetites. We possess powers outside the rules of this world. It is our duty to save the weak whom no one else can help... Your own life is the ideal. Are you listening, Dr. <tips=5>Tachikawa</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3558,7 +3558,7 @@
       "en": "<tips=5>Tachikawa</tips> walks on without once looking back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1b472cdf1116.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
           "s": "l"
         }
       ]
@@ -3589,7 +3589,7 @@
       "se": "",
       "jp": "　その後私は<tips=59>暗闇通り</tips>にあるバーに酒を飲みに行き、一人の女と出会った。",
       "en": "Afterward I go drinking at a bar on <tips=59>Darkness Street</tips>, where I meet a woman.",
-      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
+      "bg": "assets/vn/backgrounds/background-英国式のバー.webp"
     },
     {
       "id": "E2:0350",
@@ -3788,7 +3788,7 @@
       "se": "",
       "jp": "「日本人なのか？」",
       "en": "“Are you Japanese?”",
-      "bg": "assets/vn/backgrounds/bg-1b9b9c914038.webp"
+      "bg": "assets/vn/backgrounds/background-cutin03-mask-c.webp"
     },
     {
       "id": "E2:0381",
@@ -4023,7 +4023,7 @@
       "se": "",
       "jp": "　女はこうした誘いを受けるのも、それに乗るのも慣れているようだった。",
       "en": "She seems well practiced at both receiving such invitations and accepting them.",
-      "bg": "assets/vn/backgrounds/bg-55c2b49a9074.webp"
+      "bg": "assets/vn/backgrounds/background-ホテルの天井.webp"
     },
     {
       "id": "E2:0420",
@@ -4456,10 +4456,10 @@
       "se": "Ken'ichi Doujima",
       "jp": "「なんだきみ、やたらに女臭いじゃないか。それも、<tips=53>ミユキ</tips>さんじゃない。まったく不実な男だなきみは」",
       "en": "“You positively reek of a woman. And not Ms. <tips=53>Miyuki</tips>. You are a faithless man, aren't you?”",
-      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp",
+      "bg": "assets/vn/backgrounds/background-スペイン風のバル.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "l"
         }
       ]
@@ -4474,7 +4474,7 @@
       "en": "Those are <tips=48>Doujima</tips>'s first words when we meet at Carlotta's.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "l"
         }
       ]
@@ -4489,7 +4489,7 @@
       "en": "“You can't help what that nose tells you. Even you have no control over that. But there is no need to announce every secret without a shred of shame. No wonder a man your age has neither wife nor friends. Anyone who comes near you has every private fact thrown in his face.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "l"
         }
       ]
@@ -4504,7 +4504,7 @@
       "en": "I click my tongue, pull a hand towel from my pocket, and fling it at <tips=48>Doujima</tips>'s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "l"
         }
       ]
@@ -4519,7 +4519,7 @@
       "en": "<tips=48>Doujima</tips> catches it in one raised hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "l"
         }
       ]
@@ -4532,7 +4532,7 @@
       "se": "",
       "jp": "「これはなんだ？」",
       "en": "“What is this?”",
-      "bg": "assets/vn/backgrounds/bg-1f6b811632a9.webp"
+      "bg": "assets/vn/backgrounds/background-cutin02-mask-b.webp"
     },
     {
       "id": "E2:0496",

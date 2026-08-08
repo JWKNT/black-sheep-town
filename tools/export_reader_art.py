@@ -16,6 +16,8 @@ import json
 import math
 import re
 import struct
+import unicodedata
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
@@ -34,9 +36,88 @@ def read_tsv(path: Path) -> list[dict[str, str]]:
         return list(csv.DictReader(handle, delimiter="\t"))
 
 
-def safe_name(prefix: str, source_name: str) -> str:
-    digest = hashlib.sha1(source_name.encode("utf-8")).hexdigest()[:12]
-    return f"{prefix}-{digest}.webp"
+PORTRAIT_CODE_OVERRIDES = {
+    "f023": "miao",
+    "f044": "wong-tianxiang",
+    "f045": "wong-tianming",
+    "f047": "flit",
+    "f070": "lin-dexuan",
+    "f089": "erika-billingham",
+    "f101": "haigami-sisters",
+    "f114": "shimizu",
+    "f121": "hitomi",
+}
+
+
+def slugify(value: str, fallback: str = "image") -> str:
+    """Make a readable, URL-safe-ish filename while retaining Japanese labels."""
+    value = unicodedata.normalize("NFKC", value).casefold()
+    result: list[str] = []
+    separated = False
+    for character in value:
+        if character.isalnum():
+            result.append(character)
+            separated = False
+        elif result and not separated:
+            result.append("-")
+            separated = True
+    slug = "".join(result).strip("-")
+    return slug[:96].rstrip("-") or fallback
+
+
+def unique_asset_name(
+    prefix: str,
+    label: str,
+    source_name: str,
+    claimed: dict[str, str],
+) -> str:
+    base = f"{prefix}-{slugify(label)}"
+    candidate = f"{base}.webp"
+    if candidate in claimed and claimed[candidate] != source_name:
+        digest = hashlib.sha1(source_name.encode("utf-8")).hexdigest()[:8]
+        candidate = f"{base}-{digest}.webp"
+    claimed[candidate] = source_name
+    return candidate
+
+
+def translated_speaker_names(bst_root: Path) -> dict[str, str]:
+    candidates: dict[str, Counter[str]] = defaultdict(Counter)
+    target_root = bst_root / "work/translation/targets_by_sheet"
+    for path in sorted(target_root.glob("*.tsv")):
+        for row in read_tsv(path):
+            japanese = row.get("speaker_jp", "").strip()
+            english = row.get("speaker_en", "").strip()
+            if japanese and english:
+                candidates[japanese][english] += 1
+    return {
+        japanese: counts.most_common(1)[0][0]
+        for japanese, counts in candidates.items()
+    }
+
+
+def portrait_code_names(
+    definitions: list[dict[str, str]], speaker_names: dict[str, str]
+) -> dict[str, str]:
+    names: dict[str, set[str]] = defaultdict(set)
+    for row in definitions:
+        subfile = row.get("SubFileName", "")
+        if not subfile:
+            continue
+        code = subfile.split("_", 1)[0]
+        english = speaker_names.get(row.get("CharacterName", ""), "")
+        if english:
+            names[code].add(english)
+
+    result: dict[str, str] = {}
+    for code, english_names in names.items():
+        if code in PORTRAIT_CODE_OVERRIDES:
+            result[code] = PORTRAIT_CODE_OVERRIDES[code]
+        elif len(english_names) == 1:
+            result[code] = slugify(next(iter(english_names)), code)
+        else:
+            result[code] = slugify("-".join(sorted(english_names)), code)
+    result.update(PORTRAIT_CODE_OVERRIDES)
+    return result
 
 
 def object_name(raw: bytes) -> tuple[str, int]:
@@ -218,11 +299,30 @@ def save_webp(
     max_width: int,
     max_height: int,
     quality: int,
+    canvas_size: tuple[int, int] | None = None,
 ) -> None:
-    if destination.is_file() and destination.stat().st_size > 0:
+    if destination.is_file() and destination.stat().st_size > 0 and not canvas_size:
         return
     image = image.convert("RGBA")
-    if image.width > max_width or image.height > max_height:
+    if canvas_size:
+        bounds = image.getbbox()
+        if bounds:
+            image = image.crop(bounds)
+        available_width = canvas_size[0] - 40
+        available_height = canvas_size[1] - 20
+        scale = min(available_width / image.width, available_height / image.height)
+        target_size = (
+            max(1, round(image.width * scale)),
+            max(1, round(image.height * scale)),
+        )
+        if target_size != image.size:
+            image = image.resize(target_size, Image.Resampling.LANCZOS)
+        canvas = Image.new("RGBA", canvas_size, (0, 0, 0, 0))
+        x = (canvas_size[0] - image.width) // 2
+        y = canvas_size[1] - image.height
+        canvas.alpha_composite(image, (x, y))
+        image = canvas
+    elif image.width > max_width or image.height > max_height:
         image.thumbnail((max_width, max_height), Image.Resampling.LANCZOS)
     destination.parent.mkdir(parents=True, exist_ok=True)
     image.save(destination, "WEBP", quality=quality, method=4)
@@ -272,6 +372,8 @@ def main() -> None:
 
     background_urls: dict[str, str] = {}
     missing_backgrounds: list[str] = []
+    claimed_background_names: dict[str, str] = {}
+    exported_paths: set[Path] = set()
     for label in sorted(background_labels):
         definition = texture_defs.get(label)
         if not definition:
@@ -295,7 +397,9 @@ def main() -> None:
         if image is None:
             missing_backgrounds.append(label)
             continue
-        relative = Path("assets/vn/backgrounds") / safe_name("bg", source_key)
+        relative = Path("assets/vn/backgrounds") / unique_asset_name(
+            "background", label, source_key, claimed_background_names
+        )
         save_webp(
             image,
             output_root / relative,
@@ -304,22 +408,41 @@ def main() -> None:
             quality=84,
         )
         background_urls[label] = relative.as_posix()
+        exported_paths.add(output_root / relative)
 
     portraits: dict[str, str] = {}
+    character_definitions = read_tsv(compiled_root / "character_definitions.tsv")
+    code_names = portrait_code_names(
+        character_definitions, translated_speaker_names(bst_root)
+    )
     character_archive = dicing_archives["Character"]
     for subfile in sorted(portrait_subfiles):
         record = character_archive.records.get(subfile)
         if not record:
             continue
-        relative = Path("assets/vn/portraits") / safe_name("portrait", subfile)
+        code = subfile.split("_", 1)[0]
+        character_slug = code_names.get(code, code)
+        relative = Path("assets/vn/portraits") / (
+            f"portrait-{character_slug}-{slugify(subfile, code)}.webp"
+        )
         save_webp(
             reconstruct_diced(character_archive, record, atlases),
             output_root / relative,
             max_width=720,
             max_height=900,
             quality=88,
+            canvas_size=(720, 900),
         )
         portraits[subfile] = relative.as_posix()
+        exported_paths.add(output_root / relative)
+
+    for directory in (
+        output_root / "assets/vn/backgrounds",
+        output_root / "assets/vn/portraits",
+    ):
+        for path in directory.glob("*.webp"):
+            if path not in exported_paths:
+                path.unlink()
 
     manifest = {
         "backgrounds": background_urls,

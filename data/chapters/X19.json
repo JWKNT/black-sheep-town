@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=47>八龍解放軍</tips>は病院襲撃以後も活発に活動していた。",
       "en": "The <tips=47>Dragon Liberation Army</tips> remains active after the hospital attack.",
-      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
+      "bg": "assets/vn/backgrounds/background-パラシュート通り.webp"
     },
     {
       "id": "X19:0011",
@@ -169,7 +169,7 @@
       "se": "",
       "jp": "　どうやら<tips=47>解放軍</tips>がフェルナンデス家を襲撃するらしい、という情報を<tips=7>ＹＳ</tips>が掴んだのはそれが行われる朝のことだった。",
       "en": "Word that the <tips=47>Liberation Army</tips> is apparently preparing to attack the Fernandez residence reaches <tips=7>YS</tips> on the very morning the assault is due to begin.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "X19:0035",
@@ -269,10 +269,10 @@
       "se": "Xie Liang",
       "jp": "「おはよう。早いじゃないか」",
       "en": "“Good morning. Aren't you early.”",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp",
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -287,7 +287,7 @@
       "en": "When Saiki enters the office, <tips=1>Liang</tips> greets him with a faint smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -302,7 +302,7 @@
       "en": "His hair is neat and his face clean-shaven. Dark rings surround his eyes, and his voice is a little hoarse.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -317,11 +317,11 @@
       "en": "“What happened last night?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -336,11 +336,11 @@
       "en": "“Nothing. Sorry I worried you. I was a little tired.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -355,11 +355,11 @@
       "en": "<tips=1>Liang</tips> shrugs with a rueful smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -374,11 +374,11 @@
       "en": "“I'm fine now. Let's put that aside and discuss today's work. I have a job for you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -393,11 +393,11 @@
       "en": "He leaves <tips=25>Saiki</tips> no opening for another question.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -412,11 +412,11 @@
       "en": "“Intelligence contacted me early this morning. They discovered that the <tips=47>Dragon Liberation Army</tips> is preparing an attack.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -431,11 +431,11 @@
       "en": "“My, how frightening. Who are they attacking?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "r"
         }
       ]
@@ -450,11 +450,11 @@
       "en": "“The Fernandez residence. Revenge for the comrade they lost.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "r"
         }
       ]
@@ -469,11 +469,11 @@
       "en": "“I see. So I'm off on a little business trip to the Fernandez home.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -488,11 +488,11 @@
       "en": "“Exactly. You don't need to join the fighting. Film the <tips=47>Liberation Army</tips> from somewhere safe. I want to know how well trained they are and what weapons they carry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -507,11 +507,11 @@
       "en": "“Watching people slaughter each other from a comfortable perch. What a stylish assignment. Still, letting poor little <tips=38>Rita</tips> die after you once proposed to her? How very like the coldhearted Lord <tips=1>Xie Liang</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -526,11 +526,11 @@
       "en": "“I offered <tips=96>Enzo Aranha</tips> help. He turned me down. He didn't seem to believe my warning that an attack was coming. After I went to all the trouble of giving him classified intelligence, too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -545,11 +545,11 @@
       "en": "“Well, that's what the <tips=81>Longtou</tips> gets for his usual behavior. He thinks it's one of your schemes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "r"
         }
       ]
@@ -564,11 +564,11 @@
       "en": "At <tips=25>Saiki</tips>'s teasing, <tips=1>Liang</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "r"
         }
       ]
@@ -583,11 +583,11 @@
       "en": "“I suppose the proud and famously militant <tips=75>Fernandez Family</tips> can't accept help from an organization it chose to leave. Let us hope it gives us a glorious display of courage.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "r"
         }
       ]
@@ -602,11 +602,11 @@
       "en": "“So the <tips=81>Longtou</tips> thinks the <tips=47>Liberation Army</tips> will win.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -621,11 +621,11 @@
       "en": "“What a thing to say. I have absolute faith in our dear <tips=75>Fernandez Family</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -640,11 +640,11 @@
       "en": "He gives an extravagant shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "r"
         }
       ]
@@ -657,7 +657,7 @@
       "se": "",
       "jp": "　<tips=25>世傑</tips>はフェルナンデス家の近くにある背の高い民家の主に交渉して、その一室から戦いの様子を見守ることにした。",
       "en": "<tips=25>Saiki</tips> persuades the owner of a tall house near the Fernandez residence to let him use one of the rooms as an observation post.",
-      "bg": "assets/vn/backgrounds/bg-d5d2a5eaac90.webp"
+      "bg": "assets/vn/backgrounds/background-フェルナンデス家俯瞰.webp"
     },
     {
       "id": "X19:0081",
@@ -696,7 +696,7 @@
       "en": "“If the <tips=47>Liberation Army</tips> sees this, don't you think they'll call off the attack?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -711,7 +711,7 @@
       "en": "Tired of waiting, <tips=25>Saiki</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -825,7 +825,7 @@
       "en": "“There it is.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -840,7 +840,7 @@
       "en": "Tension hardens <tips=25>Saiki</tips>'s face. He runs his tongue over lips gone completely dry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -855,7 +855,7 @@
       "en": "“Is that <tips=10>Michio Mido</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -870,7 +870,7 @@
       "en": "It is. The man stepping from the passenger seat, pistol in hand, is the leader of the <tips=47>Liberation Army</tips>, <tips=10>Michio Mido</tips> himself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -883,7 +883,7 @@
       "se": "",
       "jp": "　<tips=75>フェルナンデス・ファミリー</tips>はアサルトライフルを装備している。",
       "en": "The <tips=75>Fernandez Family</tips> carries assault rifles.",
-      "bg": "assets/vn/backgrounds/bg-8e13662ef480.webp"
+      "bg": "assets/vn/backgrounds/background-x19a-mask-a.webp"
     },
     {
       "id": "X19:0117",
@@ -1154,7 +1154,7 @@
       "se": "",
       "jp": "　その時<tips=38>リタ</tips>は奇跡的に包囲網をかいくぐって裏口から脱出を図ろうとしていた。",
       "en": "At that moment, <tips=38>Rita</tips> is threading miraculously through the cordon toward the rear entrance.",
-      "bg": "assets/vn/backgrounds/bg-e914acd9f210.webp"
+      "bg": "assets/vn/backgrounds/background-フェルナンデス家応接室.webp"
     },
     {
       "id": "X19:0160",
@@ -1175,7 +1175,7 @@
       "en": "“I am the leader! I will stay!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         }
       ]
@@ -1190,7 +1190,7 @@
       "en": "<tips=38>Rita</tips> refuses.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         }
       ]
@@ -1205,7 +1205,7 @@
       "en": "<tips=96>Enzo</tips> will not allow it. Face grim, he raises his gun to his mistress.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         }
       ]
@@ -1220,11 +1220,11 @@
       "en": "“Stay, and you die regardless. If that is your decision, I will kill you myself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9de4f87e632d.webp",
+          "u": "assets/vn/portraits/portrait-enzo-aranha-e-silva-f074-01.webp",
           "s": "r"
         }
       ]
@@ -1239,11 +1239,11 @@
       "en": "Then, without lowering the weapon,",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9de4f87e632d.webp",
+          "u": "assets/vn/portraits/portrait-enzo-aranha-e-silva-f074-01.webp",
           "s": "r"
         }
       ]
@@ -1258,11 +1258,11 @@
       "en": "“If you die, the Fernandez family vanishes from this earth. For your predecessor's sake, swallow the shame and run!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9de4f87e632d.webp",
+          "u": "assets/vn/portraits/portrait-enzo-aranha-e-silva-f074-01.webp",
           "s": "r"
         }
       ]
@@ -1277,11 +1277,11 @@
       "en": "he roars.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9de4f87e632d.webp",
+          "u": "assets/vn/portraits/portrait-enzo-aranha-e-silva-f074-01.webp",
           "s": "r"
         }
       ]
@@ -1330,7 +1330,7 @@
       "se": "",
       "jp": "　見張り組は突入チームに比べれば腕が劣るがそれでも<tips=17>タイプB</tips>の戦闘員は優秀だった。",
       "en": "The sentries are less skilled than the assault teams. Even so, their <tips=17>Type B</tips> fighters are formidable.",
-      "bg": "assets/vn/backgrounds/bg-fd9a62add0a5.webp"
+      "bg": "assets/vn/backgrounds/background-解放軍車内.webp"
     },
     {
       "id": "X19:0189",
@@ -1459,7 +1459,7 @@
       "en": "“Lara...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "l"
         }
       ]
@@ -1474,7 +1474,7 @@
       "en": "<tips=38>Rita</tips> nearly sobs. She bites hard into her lower lip and holds Lara's limp body.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "l"
         }
       ]
@@ -1489,7 +1489,7 @@
       "en": "Without her last protector, she is only a powerless girl.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "l"
         }
       ]
@@ -1504,7 +1504,7 @@
       "en": "The three <tips=47>Liberation Army</tips> soldiers drag <tips=38>Rita</tips> out of the car.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "l"
         }
       ]
@@ -1517,7 +1517,7 @@
       "se": "",
       "jp": "　彼らはあらかじめ逃げ出すものはみな射殺するよう指示を受けていた。",
       "en": "Their orders are to shoot anyone who tries to escape.",
-      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp"
+      "bg": "assets/vn/backgrounds/background-曇り空.webp"
     },
     {
       "id": "X19:0224",
@@ -1581,7 +1581,7 @@
       "se": "",
       "jp": "　そして最後に生き残った一人が見つけたのは、拳銃をこちらに構えた美青年であった。",
       "en": "The last survivor turns and finds a beautiful young man aiming a pistol straight at him.",
-      "bg": "assets/vn/backgrounds/bg-d80569da16b6.webp"
+      "bg": "assets/vn/backgrounds/background-x19b-mask-e.webp"
     },
     {
       "id": "X19:0253",
@@ -1609,10 +1609,10 @@
       "se": "Ma Saiki",
       "jp": "「ちょっと大丈夫<tips=38>リタ</tips>ちゃん？　せっかく助けたのに、死んじゃってないでしょうね？」",
       "en": "“<tips=38>Rita</tips>, dear, are you all right? I just saved you—you haven't gone and died on me, have you?”",
-      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp",
+      "bg": "assets/vn/backgrounds/background-曇り空.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1627,7 +1627,7 @@
       "en": "As he speaks, he takes <tips=38>Rita</tips> by the arm and pulls her to her feet.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1642,11 +1642,11 @@
       "en": "“M-Mr. <tips=25>Saiki</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1661,11 +1661,11 @@
       "en": "Shock crosses her face, smeared with tears and clinging dust.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1680,11 +1680,11 @@
       "en": "Yes—the man who appears in the nick of time is <tips=7>YS</tips>'s young <tips=80>Double Flower Red Pole</tips>, <tips=25>Ma Saiki</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1699,11 +1699,11 @@
       "en": "Watching through binoculars from the nearby house, he spotted <tips=38>Rita</tips> making her escape early in the battle. He left the building at once and headed for the rear entrance.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1718,11 +1718,11 @@
       "en": "“Thank goodness I made it in time. Come on, let's get out of here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1737,11 +1737,11 @@
       "en": "<tips=25>Saiki</tips> takes the still-bewildered <tips=38>Rita</tips> by the hand and leads her away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1754,10 +1754,10 @@
       "se": "Ma Saiki",
       "jp": "「コーヒーと紅茶があるけど、どっちがいい？　ミルクをあっためてあげてもいいわよ？」",
       "en": "“Coffee or tea? Or I could warm you up some milk.”",
-      "bg": "assets/vn/backgrounds/bg-db821667e2de.webp",
+      "bg": "assets/vn/backgrounds/background-世傑のリビング.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1772,7 +1772,7 @@
       "en": "Having brought <tips=38>Rita</tips> back to his apartment, <tips=25>Saiki</tips> asks the question while leading her into the living room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1787,11 +1787,11 @@
       "en": "“No, I don't want anything...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1806,11 +1806,11 @@
       "en": "<tips=38>Rita</tips> hangs her head, her face somber.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1825,11 +1825,11 @@
       "en": "“This way. Sit over there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1844,11 +1844,11 @@
       "en": "In the living room, <tips=25>Saiki</tips> points her toward the table. <tips=38>Rita</tips> does not move. Her eyes have gone instead to a small altar in the corner and the many photographs of murder scenes covering the wall.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1863,11 +1863,11 @@
       "en": "“Oh! I wasn't expecting company. I forgot to put all that away.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1882,11 +1882,11 @@
       "en": "<tips=25>Saiki</tips> gives an embarrassed laugh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1901,11 +1901,11 @@
       "en": "“What is all this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1920,11 +1920,11 @@
       "en": "“I can't sleep unless I pray like this. Pitiful, isn't it? Now come over here. Sit down and you won't have to look at those horrible pictures.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -1939,11 +1939,11 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1958,11 +1958,11 @@
       "en": "<tips=38>Rita</tips> seems unable to tear herself away from the photographs. Only after <tips=25>Saiki</tips> repeatedly urges her over does she finally take a seat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1977,11 +1977,11 @@
       "en": "“Mr. <tips=25>Saiki</tips>... who are you, really?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -1996,11 +1996,11 @@
       "en": "<tips=38>Rita</tips> asks across the counter as <tips=25>Saiki</tips> bustles about in the kitchen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2015,11 +2015,11 @@
       "en": "“Everyone wonders about you. You've always lived however you pleased...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2034,11 +2034,11 @@
       "en": "“My. Isn't it stranger to think there's something strange about living as you please? ...Tea will be fine, won't it? You look exactly like the sort of girl who loves tea.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2053,11 +2053,11 @@
       "en": "He says it lightly, but <tips=38>Rita</tips>'s expression does not brighten.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2072,11 +2072,11 @@
       "en": "“And how are you so strong? They say you're a Normal, but stronger than a <tips=17>Type B</tips>. No one else can do that. You can't be an ordinary Normal. You must have some ability you're hiding...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2091,11 +2091,11 @@
       "en": "“I'm not hiding anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2110,11 +2110,11 @@
       "en": "<tips=25>Saiki</tips> gives her a wry smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2129,11 +2129,11 @@
       "en": "“It's all the power of kung fu. Train the body and mind, and anyone can become this strong. Why not take it up yourself?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2148,11 +2148,11 @@
       "en": "<tips=38>Rita</tips> frowns at his determined evasion.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2167,11 +2167,11 @@
       "en": "“If it would truly make me strong, I would. I abandoned my subordinates and ran away alone. I am ashamed of myself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2186,11 +2186,11 @@
       "en": "She sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2205,11 +2205,11 @@
       "en": "“...Mr. <tips=25>Saiki</tips>, thank you for going out of your way to save me. Was this on the <tips=81>Longtou</tips>'s orders?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2224,11 +2224,11 @@
       "en": "“No. ...<tips=2>Ah Liang</tips> told us not to interfere.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2243,11 +2243,11 @@
       "en": "Disappointment shows plainly on <tips=38>Rita</tips>'s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2262,11 +2262,11 @@
       "en": "“Then why did you save me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2281,11 +2281,11 @@
       "en": "“You were <tips=24>Meimei</tips>'s friend, weren't you? That's all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2300,11 +2300,11 @@
       "en": "“Oh...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2319,11 +2319,11 @@
       "en": "<tips=38>Rita</tips>'s face darkens as she bows her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2338,11 +2338,11 @@
       "en": "“I don't know what I could possibly say about her...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2357,11 +2357,11 @@
       "en": "“You don't have to say a thing. That girl was an idiot. She didn't have the faintest idea what becoming a mother meant. Honestly, what am I supposed to do with her?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2376,11 +2376,11 @@
       "en": "<tips=25>Saiki</tips> carries over a flowered tray bearing a pot of tea and two cups, then takes the chair opposite <tips=38>Rita</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2395,11 +2395,11 @@
       "en": "“What are you going to do now?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2414,11 +2414,11 @@
       "en": "“I have relatives near Church Street. I intend to rebuild from their home. I will contact my subordinates and begin preparing for war with the <tips=47>Liberation Army</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2433,11 +2433,11 @@
       "en": "“Absolutely not. You might as well be going there to die.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2452,11 +2452,11 @@
       "en": "<tips=25>Saiki</tips> looks steadily into <tips=38>Rita</tips>'s eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2471,11 +2471,11 @@
       "en": "“<tips=38>Rita</tips>, listen to me. No one in this City backs the losing side. Go back now, and what remains of your Family has no chance against the <tips=21>Dragon Club</tips>. The <tips=21>Dragon Club</tips>'s network will find you easily. You won't last a month.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2490,11 +2490,11 @@
       "en": "“But even so, I...!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2509,11 +2509,11 @@
       "en": "“I know how you feel. But settle down and listen.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2528,11 +2528,11 @@
       "en": "<tips=25>Saiki</tips> pauses, as though giving <tips=38>Rita</tips>'s agitation time to ebb. He takes up the pure-white pot, gives it a gentle swirl, and pours reddish tea into both cups. Steam rises, filling the room with a sweet, floral fragrance.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2547,11 +2547,11 @@
       "en": "“<tips=2>Ah Liang</tips> is nothing like his father. He's changing one thing after another about the way his father ran YS. But there are a few policies he's kept exactly as they were. Can you guess which?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2566,11 +2566,11 @@
       "en": "As he speaks, <tips=25>Saiki</tips> places one cup before <tips=38>Rita</tips> and keeps the other for himself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2585,11 +2585,11 @@
       "en": "“Which ones?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2604,11 +2604,11 @@
       "en": "“First: no mercy, ever, for an enemy. Second: anyone who comes to him for protection is taken in, no matter who they are. ...It may surprise you, but he's very forgiving when someone comes to him and owns up. I expect he only does it because he thinks it's practical.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2623,11 +2623,11 @@
       "en": "“...What are you saying?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2642,11 +2642,11 @@
       "en": "“<tips=38>Rita</tips>, bring your Family back under <tips=7>YS</tips>. Ask <tips=2>Ah Liang</tips> to take you in.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5cd9c80da0af.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2661,11 +2661,11 @@
       "en": "“I cannot do that. Everyone died to protect the Family...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5cd9c80da0af.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2680,11 +2680,11 @@
       "en": "<tips=38>Rita</tips> lowers her head and bites her lip.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5cd9c80da0af.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2699,11 +2699,11 @@
       "en": "“You do it anyway. It's the only way to preserve the Fernandez name. He won't turn you away. Deep down, he wants to help you. I know he does.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2718,11 +2718,11 @@
       "en": "“That isn't true...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2737,11 +2737,11 @@
       "en": "“He didn't tell me to help, but that doesn't mean he'd abandoned you. So please don't be angry with him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "r"
         }
       ]
@@ -2756,11 +2756,11 @@
       "en": "“Th-that has nothing to do with it. That isn't why...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2775,11 +2775,11 @@
       "en": "<tips=38>Rita</tips> raises her head and meets <tips=25>Saiki</tips>'s gaze.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2794,11 +2794,11 @@
       "en": "“This is a matter of pride. My subordinates were killed, my home was ravaged, and I could not even fight by my own strength. To depend on <tips=7>YS</tips> now would disgrace the Fernandez name. If I did anything so shameful, I could never face my father in the next world. If some wish to leave because our power has waned, let them. Those who remain will fight.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2813,11 +2813,11 @@
       "en": "“Are you planning to die?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2832,11 +2832,11 @@
       "en": "“The Fernandez Family has survived crises like this before. I have no intention of losing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2851,11 +2851,11 @@
       "en": "“I see...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2870,11 +2870,11 @@
       "en": "<tips=25>Saiki</tips> lowers his eyes and reaches for his teacup.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "r"
         }
       ]
@@ -2986,7 +2986,7 @@
       "se": "",
       "jp": "　<tips=25>世傑</tips>はそう断って<tips=38>リタ</tips>の隣に座ると、その手を握った。",
       "en": "<tips=25>Saiki</tips> sits beside <tips=38>Rita</tips> and takes her hand.",
-      "bg": "assets/vn/backgrounds/bg-e26dcdf9e956.webp"
+      "bg": "assets/vn/backgrounds/background-x19c.webp"
     },
     {
       "id": "X19:0385",

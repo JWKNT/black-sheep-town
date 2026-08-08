@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=54>汐健慈朗</tips>の家を出たあと、私たちは狭い裏路地を伝いながら移動する。",
       "en": "After leaving <tips=54>Kenjirou Shio</tips>'s house, we keep to the narrow back alleys.",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "X16:0014",
@@ -88,7 +88,7 @@
       "se": "",
       "jp": "　喉が渇いている。水道の蛇口を捻ると水が出たので、それを直接口をつけて飲んだら顔がびしゃびしゃに濡れてしまった。",
       "en": "We're thirsty. The water still runs, so we put our mouth straight under the faucet and drink until our face is soaked.",
-      "bg": "assets/vn/backgrounds/bg-5746cd9251a2.webp"
+      "bg": "assets/vn/backgrounds/background-売り出し中の建物ダイニング.webp"
     },
     {
       "id": "X16:0031",
@@ -226,7 +226,7 @@
       "en": "“...Thank you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -241,7 +241,7 @@
       "en": "<tips=63>Sashen'ka</tips> gives us a faint smile and goes back to sleep.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -263,7 +263,7 @@
       "se": "",
       "jp": "　多分三時間くらいしか寝ていないのに、目が覚めた。身体に疲れが残っているけれど、頭が緊張してもう一度眠りにつくことは出来そうになかった。",
       "en": "We wake after perhaps three hours. Our body is still exhausted, but our mind is too tense to sleep again.",
-      "bg": "assets/vn/backgrounds/bg-5746cd9251a2.webp"
+      "bg": "assets/vn/backgrounds/background-売り出し中の建物ダイニング.webp"
     },
     {
       "id": "X16:0067",
@@ -282,7 +282,7 @@
       "se": "",
       "jp": "　食べるものも何もない。私たちはトイレに行ってから必要なものを調達するために家を出た。<tips=63>サーシェンカ</tips>を置いていくのは心配だったけれど、買い物に彼を連れて行くわけにはいかない。",
       "en": "There is nothing to eat. After using the bathroom, we leave to find supplies. We're uneasy about leaving <tips=63>Sashen'ka</tips> alone, but we can't take him shopping.",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "X16:0076",
@@ -301,7 +301,7 @@
       "se": "",
       "jp": "　そして建物に戻ってくると、<tips=63>サーシェンカ</tips>はその姿を消し、かわりに金髪の少女に変わっていた。瞬間移動の能力を持つ少女『<tips=62>マリア</tips>』だ。<tips=65>エフゲニ・イリイーチ・ヘス</tips>のお爺ちゃんの話によると、信心深い少女で、お爺ちゃんの指示の声を神の声だと信じ、それに従順に従っている。感情的になりやすいのが欠点だが、戦闘向きの能力と、その従順性から戦いの場面で呼び出されることが多い。殺人のための奴隷だ。",
       "en": "When we return, <tips=63>Sashen'ka</tips> is gone. A blond girl stands in his place: <tips=62>Maria</tips>, the girl who can teleport. Old <tips=65>Evgenij Il'ich Hess</tips> told us she was deeply religious. She believes his commands are the voice of God and obeys without question. Her emotions make her unstable, but her combat ability and obedience mean she is summoned for battle again and again. A slave made to kill.",
-      "bg": "assets/vn/backgrounds/bg-5746cd9251a2.webp"
+      "bg": "assets/vn/backgrounds/background-売り出し中の建物ダイニング.webp"
     },
     {
       "id": "X16:0085",
@@ -340,7 +340,7 @@
       "en": "“Who are you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0fe3523b979.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
           "s": "c"
         }
       ]
@@ -355,7 +355,7 @@
       "en": "<tips=62>Maria</tips> eyes us suspiciously.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0fe3523b979.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
           "s": "c"
         }
       ]
@@ -370,7 +370,7 @@
       "en": "“I think we've met.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0fe3523b979.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
           "s": "c"
         }
       ]
@@ -385,7 +385,7 @@
       "en": "“Don't know you...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0fe3523b979.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
           "s": "c"
         }
       ]
@@ -400,7 +400,7 @@
       "en": "<tips=62>Maria</tips> gives a little hop. When she lands, her face crumples with sadness.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0fe3523b979.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
           "s": "c"
         }
       ]
@@ -415,7 +415,7 @@
       "en": "“My power's gone. God went away...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -430,7 +430,7 @@
       "en": "“The drugs are only suppressing your psychic power. You were inside a capsule until yesterday, remember? They were giving you that kind of medicine.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -445,7 +445,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -460,7 +460,7 @@
       "en": "<tips=62>Maria</tips> shakes her head wildly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -475,7 +475,7 @@
       "en": "“I didn't obey. God threw me away...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -490,7 +490,7 @@
       "en": "Tears pour down <tips=62>Maria</tips>'s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -505,7 +505,7 @@
       "en": "“What do I do? ...<tips=62>Maria</tips>'s going to die. Die and go to Hell... Uuu...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -520,7 +520,7 @@
       "en": "“Your power will be back in a few days.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -535,7 +535,7 @@
       "en": "<tips=62>Maria</tips> doesn't seem to hear us. She goes on crying.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -550,7 +550,7 @@
       "en": "“Scared... I'm scared...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -565,7 +565,7 @@
       "en": "She curls up. Her body changes, swelling larger, until a beautiful black-haired woman in the prime of life crouches before us—a form we have never seen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65cbe264ed0c.webp",
+          "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
           "s": "c"
         }
       ]
@@ -625,7 +625,7 @@
       "en": "“Hey.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -640,7 +640,7 @@
       "en": "<tips=64>Alexey</tips>. He looks at us without bothering to cover himself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -655,7 +655,7 @@
       "en": "We hand him the clothes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -670,7 +670,7 @@
       "en": "“You keep awfully busy, changing every few seconds.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -685,7 +685,7 @@
       "en": "“It's not like I'm doing it for fun. Old <tips=65>Hess</tips> is finished. He can't manage us anymore, and the whole place has gone to hell.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -700,7 +700,7 @@
       "en": "Now dressed in the T-shirt and trousers, <tips=64>Alexey</tips> shrugs and laughs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -715,7 +715,7 @@
       "en": "“All these different forms make it hard to tell, but this body is getting old too. Must be falling to pieces by now. Oh, you bought apples. Mind if I have one?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -730,7 +730,7 @@
       "en": "We take one from the bag and hand it over. He wipes it on his shirt and bites in.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -745,7 +745,7 @@
       "en": "“Are you alone? Where'd the other one go? For that matter, what's going on? Last time I woke up, I could've sworn I was floating in some strange liquid...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -760,7 +760,7 @@
       "en": "“You don't know?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -775,7 +775,7 @@
       "en": "“I can't peek through the others the way the old man can.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -790,7 +790,7 @@
       "en": "<tips=64>Alexey</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -805,7 +805,7 @@
       "en": "We give him the short version. The <tips=21>Dragon Club</tips> trapped the three of us and shot us in a warehouse. Afterward, the <tips=21>Dragon Club</tips> took him away and locked him inside their <tips=46>Neo-Rose</tips> factory. Then <tips=7>YS</tips> raided the place, and custody passed to <tips=7>YS</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -820,7 +820,7 @@
       "en": "“I see. So now you've escaped from <tips=7>YS</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -835,7 +835,7 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -850,7 +850,7 @@
       "en": "“...And your other half?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -865,7 +865,7 @@
       "en": "“We were both shot with you. But after they gave us your blood, only one of us got back up. We left the other one there. The <tips=21>Dragon Club</tips> must have disposed of her.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -880,7 +880,7 @@
       "en": "“Oh, God...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -895,7 +895,7 @@
       "en": "His apple stops halfway to his mouth. Anguish crosses his face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -910,7 +910,7 @@
       "en": "“I don't know what to say... Damn it...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -925,7 +925,7 @@
       "en": "“So even you feel sad when somebody dies.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -940,7 +940,7 @@
       "en": "“Of course I do. What did you think? It's always sad when somebody you know dies. ...Still, I'm impressed you got me away from <tips=7>YS</tips>. How'd you pull that off?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -955,7 +955,7 @@
       "en": "“We didn't do anything. <tips=7>YS</tips>'s <tips=81>Longtou</tips> had you. We asked him to give you back, and he let you go.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -970,7 +970,7 @@
       "en": "“What? You mean <tips=3>Chris Xie</tips>'s son, right? He let me go just because you asked? Then he must not know what we did in this City years ago. No—even then, he wouldn't release me for no reason.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -985,7 +985,7 @@
       "en": "<tips=64>Alexey</tips>'s eyes go wide.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1000,7 +1000,7 @@
       "en": "“He knows everything. He let you go anyway. He's our childhood friend.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1015,7 +1015,7 @@
       "en": "“That's ridiculous.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1030,7 +1030,7 @@
       "en": "“It's true. So stop causing trouble in this City and going after <tips=7>YS</tips>. You should run. The <tips=81>Longtou</tips> may have released you as a personal favor, but the police are still hunting you, and <tips=7>YS</tips> is helping them. You can't win.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1045,7 +1045,7 @@
       "en": "“Hmph...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1060,7 +1060,7 @@
       "en": "<tips=64>Alexey</tips> braces a hand against the wall and thinks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -1075,7 +1075,7 @@
       "en": "“I never cared one way or the other. The old man and the woman are the ones who hate <tips=7>YS</tips>, and they've got bigger problems now. I doubt either one is planning anything grand at this point. Even if they were, we can't do a damned thing anymore... I'm grateful he set us free, but we haven't got long. At last, the immortal <tips=20>Koschei</tips>'s flame is guttering out.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -1090,7 +1090,7 @@
       "en": "He smiles hideously.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -1105,7 +1105,7 @@
       "en": "“Sorry you've stuck with us this long, but we're done for. Get away on your own. <tips=12>Eriko</tips>, <tips=11>Rieko</tips>—which are you? Doesn't matter. One of you ought to be all right alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1120,7 +1120,7 @@
       "en": "“I won't.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1135,7 +1135,7 @@
       "en": "We refuse without a second's thought.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1150,7 +1150,7 @@
       "en": "“We're accomplices. We stay together to the end.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1165,7 +1165,7 @@
       "en": "“You damned fool. You...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1180,7 +1180,7 @@
       "en": "“Wait.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1195,7 +1195,7 @@
       "en": "Our hearing catches a sound that doesn't belong.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1210,7 +1210,7 @@
       "en": "Someone is moving around the building, trying very hard not to be heard.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1225,7 +1225,7 @@
       "en": "“Somebody must've seen us shopping. They may have guns. It could be the police...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1240,7 +1240,7 @@
       "en": "I drop my voice to a whisper.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1255,7 +1255,7 @@
       "en": "“What do we do? I'm unarmed, and like this, I'm no use to you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -1270,7 +1270,7 @@
       "en": "<tips=64>Alexey</tips> smiles ruefully.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -1285,7 +1285,7 @@
       "en": "“I'd rather change into somebody useful, but like I said, no one can control that anymore. I still don't know whether you're <tips=12>Eriko</tips> or <tips=11>Rieko</tips>, but you can't carry dead weight and handle this alone. Leave me and run.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1300,7 +1300,7 @@
       "en": "“It's all right. We'll protect you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1315,7 +1315,7 @@
       "en": "We look <tips=64>Alexey</tips> in the eye.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1330,7 +1330,7 @@
       "en": "“We're stronger now than both of us were put together.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1370,10 +1370,10 @@
       "se": "Alexey",
       "jp": "「どうする？」",
       "en": "“What are you going to do?”",
-      "bg": "assets/vn/backgrounds/bg-5746cd9251a2.webp",
+      "bg": "assets/vn/backgrounds/background-売り出し中の建物ダイニング.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1388,7 +1388,7 @@
       "en": "“We'll use the front door. Straight out.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1403,7 +1403,7 @@
       "en": "“O-Okay.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1418,7 +1418,7 @@
       "en": "It is an ordinary Japanese house with an ordinary little entryway. The people outside have spread around the front and back at enough distance to watch every exit. They are probably waiting for reinforcements.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1433,7 +1433,7 @@
       "en": "There are only five. Even if every one of them is an exceptional <tips=17>Type B</tips>, we can't imagine losing. If they are psychics with unusual powers, then it depends on what those powers are. We'll deal with that when it happens.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1448,7 +1448,7 @@
       "en": "“We'll go first and take care of them. Stay out of sight. Come out when we signal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -1470,7 +1470,7 @@
       "se": "",
       "jp": "　どこから出ても良かった。",
       "en": "Any exit would do.",
-      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
+      "bg": "assets/vn/backgrounds/background-青空雲あり.webp"
     },
     {
       "id": "X16:0187",
@@ -1624,7 +1624,7 @@
       "se": "",
       "jp": "　私たちはジャンプして、それから先は自分の身体にサイキックの力を使って空中を移動しながら、その男のすぐ脇に着地する。",
       "en": "We jump, then use psychic force to carry our body through the air and land beside him.",
-      "bg": "assets/vn/backgrounds/bg-63c0cedeb01e.webp"
+      "bg": "assets/vn/backgrounds/background-x16a-mask-b.webp"
     },
     {
       "id": "X16:0218",
@@ -2021,7 +2021,7 @@
       "se": "",
       "jp": "「いくよ」",
       "en": "“Let's go.”",
-      "bg": "assets/vn/backgrounds/bg-5746cd9251a2.webp"
+      "bg": "assets/vn/backgrounds/background-売り出し中の建物ダイニング.webp"
     },
     {
       "id": "X16:0281",
@@ -2042,7 +2042,7 @@
       "en": "“That was fast. Go well?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2057,7 +2057,7 @@
       "en": "He looks down at the two officers beside the door.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2072,7 +2072,7 @@
       "en": "“Well enough. They're all dead. But they may have called for backup, so we need to move.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2087,7 +2087,7 @@
       "en": "“Clean work. Even <tips=62>Maria</tips> couldn't have done it so neatly. Plenty of power, that one, but far too stupid. If you and I had met sooner, we'd have made an unbeatable team.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2102,7 +2102,7 @@
       "en": "<tips=64>Alexey</tips> kneels beside one of the officers and takes the gun from his hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2117,7 +2117,7 @@
       "en": "“Both <tips=43>APTG</tips>s. This all they've got?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2132,7 +2132,7 @@
       "en": "He clicks his tongue, throws the weapon away, and reaches under the officer's jacket.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2147,7 +2147,7 @@
       "en": "“<tips=43>APTG</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2162,7 +2162,7 @@
       "en": "“Guns for dealing with psychics. Remember the horned old man who had one at the apartments? Good against psychics, useless against anyone else. They aren't lethal. ...Ah, there we are.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2177,7 +2177,7 @@
       "en": "<tips=64>Alexey</tips> draws out an ordinary handgun.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2192,7 +2192,7 @@
       "en": "“Barely more than a good-luck charm, but better than nothing. Come on. Let's get moving.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2207,7 +2207,7 @@
       "en": "We nod and leave.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2220,7 +2220,7 @@
       "se": "",
       "jp": "　捜査員が街中にばらまかれているなか、どこへ行けばいいんだろう？",
       "en": "Investigators are scattered all over the City. Where can we go?",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "X16:0308",
@@ -2313,7 +2313,7 @@
       "en": "“Hey, you're white as a sheet. Why don't we stop over there?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2328,7 +2328,7 @@
       "en": "<tips=64>Alexey</tips> points to what the City's adults call a “rendezvous inn.” A modern person might say love hotel or boutique hotel, but neither suits this wooden building that looks like an old Japanese inn. “Rendezvous inn” is exactly right.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2343,7 +2343,7 @@
       "en": "We don't like the idea. There is a front desk to get through, the place looks disorganized, and secrecy seems doubtful. But we really are unwell. Perhaps stopping is best.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2358,7 +2358,7 @@
       "en": "We nod. <tips=64>Alexey</tips> takes us by the hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -2373,7 +2373,7 @@
       "en": "“Could we have a room?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2388,7 +2388,7 @@
       "en": "A Black man sits at a small desk just inside. <tips=64>Alexey</tips> puts on a smile and addresses him in accented English.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2403,7 +2403,7 @@
       "en": "“Three thousand yen for an hour. Eight thousand overnight.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2418,7 +2418,7 @@
       "en": "The man answers in Japanese.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2433,7 +2433,7 @@
       "en": "“Overnight, please.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2448,7 +2448,7 @@
       "en": "<tips=64>Alexey</tips> replies in cheerful Japanese.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2481,7 +2481,7 @@
       "en": "“Places like this take me back. Used them for my hobbies all the time. Once I stayed at an inn in Kyoto and the blood leaked through the floor. Terrible mess.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2496,7 +2496,7 @@
       "en": "<tips=64>Alexey</tips> sounds positively delighted, in complete disregard of their situation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2511,7 +2511,7 @@
       "en": "“You know, <tips=12>Eriko</tips>, I think there really must be a God.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2526,7 +2526,7 @@
       "en": "“Where did that come from?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2541,7 +2541,7 @@
       "en": "The ringing in our ears makes us grimace.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2556,7 +2556,7 @@
       "en": "“People with unusual hobbies like ours give everyone else someone to point at. ‘I'm not like them, so I must be decent. I must be normal.’ They get to live happy lives without facing the truth. That means even we have value. Remarkably well-designed world, don't you think? Divine providence at work.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2571,7 +2571,7 @@
       "en": "“That's ridiculous. Why are you in such a good mood?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2586,7 +2586,7 @@
       "en": "“No idea, but I've felt wonderful since I woke up. Everything sparkles. It's glorious.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2599,7 +2599,7 @@
       "se": "",
       "jp": "　外装は和風だが、部屋のなかはベッドと椅子がある洋風の作りだった。こうしたごちゃ混ぜなあたりがこの街らしい。",
       "en": "The building is Japanese outside, but the room is Western, with a bed and chairs. That jumble is typical of the City.",
-      "bg": "assets/vn/backgrounds/bg-b3169e22d6a8.webp"
+      "bg": "assets/vn/backgrounds/background-和風ラブホテル部屋.webp"
     },
     {
       "id": "X16:0358",
@@ -2638,7 +2638,7 @@
       "en": "“What do you mean, what are we going to do?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -2653,7 +2653,7 @@
       "en": "“Do you have anywhere to run? You can't stay here forever.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -2668,7 +2668,7 @@
       "en": "“I haven't thought of anything. That was always the old man's job. Now he can't give orders either. Even if I decided on something, I'd transform into somebody else and they'd do whatever they pleased.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2683,7 +2683,7 @@
       "en": "“Unbelievable. Then you can't do anything about this crisis.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2698,7 +2698,7 @@
       "en": "“Can't be helped. Oh, there were tea bags by the kettle. Mind if I make some?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2713,7 +2713,7 @@
       "en": "“Do whatever you want.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2728,7 +2728,7 @@
       "en": "“Cold.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2743,7 +2743,7 @@
       "en": "<tips=64>Alexey</tips> rises with a crooked smile. Though we never ask, he brings back tea for us too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2758,7 +2758,7 @@
       "en": "“Ah, that's better. Even cheap tea tastes good. They gave us bags like these in the laboratory. I was happy there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -2773,7 +2773,7 @@
       "en": "<tips=64>Alexey</tips> takes a sip and sighs theatrically.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -2788,7 +2788,7 @@
       "en": "“Oh, don't look so grim. The way I see it, this creature called <tips=20>Koschei</tips> is something like a wild animal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2803,7 +2803,7 @@
       "en": "“What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2818,7 +2818,7 @@
       "en": "“Living in this body, there's no point thinking about the future, so you don't. And you have no memory of the past. You exist only in the moment, obeying whatever you were given at birth. If our existence harms society, then society ought to arrest God for product liability. He's the manufacturer. We live in perfect accordance with our nature.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2833,7 +2833,7 @@
       "en": "“We've heard that argument enough.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2848,7 +2848,7 @@
       "en": "“Hmph.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2863,7 +2863,7 @@
       "en": "<tips=64>Alexey</tips> snorts.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2878,7 +2878,7 @@
       "en": "“...Old <tips=65>Hess</tips> had this urge to build something, so he created the <tips=18>Rose Club</tips>. But that was never what we were meant to do. We should've followed our instincts, lived however we liked, and died in a ditch. Isn't that all any creature really needs? From where I live, I can't understand why people in society force themselves to spend their lives pretending to be something. In the end, none of them manages to become it. Their true nature only leaks out in pathetic little spurts.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2893,7 +2893,7 @@
       "en": "“None of that matters right now. We need to decide what happens next. Saying you have no opinion doesn't solve anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2908,7 +2908,7 @@
       "en": "We tell him so. <tips=64>Alexey</tips> doesn't listen. He keeps pouring out whatever crosses his mind.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2923,7 +2923,7 @@
       "en": "He seems drunk. At first I suspect the drugs they gave him in the basement. As I listen, I decide that isn't it. <tips=64>Alexey</tips> has given up. Despair is driving him, making him talk like a man in a fever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2938,7 +2938,7 @@
       "en": "I don't quite understand. A crisis has clearly overtaken the apartment building called <tips=20>Koschei</tips>, with all those people living inside. Old <tips=65>Evgenij Il'ich Hess</tips> warned us about it before.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2953,7 +2953,7 @@
       "en": "But what's happening to Alexey and the others? He may be mentally unstable, but physically, he looks perfectly healthy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2968,7 +2968,7 @@
       "en": "“We understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2983,7 +2983,7 @@
       "en": "We cut off <tips=64>Alexey</tips>'s rambling.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -2998,7 +2998,7 @@
       "en": "“You and the old man can't control the personalities anymore. We understand that. But what happens when it gets worse? If all that happens is one transformation after another, or every personality acting however it wants, perhaps we can help make up for the loss of control.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3013,7 +3013,7 @@
       "en": "Annoyed at having his monologue cut short, <tips=64>Alexey</tips> draws his eyebrows into sharp arches before answering.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3028,7 +3028,7 @@
       "en": "“I don't know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3043,7 +3043,7 @@
       "en": "“You don't know...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3058,7 +3058,7 @@
       "en": "“I honestly don't.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3073,7 +3073,7 @@
       "en": "<tips=64>Alexey</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3088,7 +3088,7 @@
       "en": "“Before old <tips=65>Hess</tips> became our coordinator, we had no sense of time. Whenever one of us took the body, there was no memory before or after. We couldn't even tell those moments apart from the nonsense dreams we had while buried inside. Then the old man came along and let us speak to one another. He made order out of the chaos. We agreed to cooperate, to share the body properly, and we learned to behave something like human beings. ...Now we're losing all of that. We're going back to the beginning.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3103,7 +3103,7 @@
       "en": "“You don't remember anything from the beginning?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3118,7 +3118,7 @@
       "en": "“All we remember is the laboratory. Maybe we were born there, maybe not. We probably behaved like severe <tips=17>Type B</tips> patients locked in a hospital—changing over and over, screaming things no one could understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3133,7 +3133,7 @@
       "en": "<tips=64>Alexey</tips> shrugs and smiles at his own expense.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3148,7 +3148,7 @@
       "en": "“And you think that's what you're becoming again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3163,7 +3163,7 @@
       "en": "“Maybe. Maybe not. We might simply die and vanish.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3178,7 +3178,7 @@
       "en": "“Don't give us that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3193,7 +3193,7 @@
       "en": "“It's the truth.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3208,7 +3208,7 @@
       "en": "<tips=64>Alexey</tips> rolls the empty teacup between both hands.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3223,7 +3223,7 @@
       "en": "“<tips=12>Eriko</tips>, why do you think we ended up like this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3238,7 +3238,7 @@
       "en": "“Why...? Some <tips=16>Type A</tips> psychic ability, probably.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3253,7 +3253,7 @@
       "en": "“Probably. Then this body must have belonged to one original person, and the rest of us are illusions created by that person's power. Doesn't that follow?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3268,7 +3268,7 @@
       "en": "<tips=64>Alexey</tips> looks at us with pale blue eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3283,7 +3283,7 @@
       "en": "We have no answer for the grief in them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3298,7 +3298,7 @@
       "en": "“I have no childhood. When I first became aware, I already looked like this and thought like this. Neither has changed in decades. So I can't be the original. If this chaos comes from a failing <tips=16>Type A</tips> ability, and that ability eventually disappears, then I'll disappear with it. Where is the flaw in that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3313,7 +3313,7 @@
       "en": "“...There may not be one.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3328,7 +3328,7 @@
       "en": "At our answer, <tips=64>Alexey</tips> forces the corners of his mouth into a smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3343,7 +3343,7 @@
       "en": "“Then what is this self of mine? Not a life at all, only an illusion produced by somebody else's power? ...No. Never mind. A murderer who's taken as many lives as I have won't earn anyone's sympathy by worrying about the loss of his identity.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -3358,7 +3358,7 @@
       "en": "<tips=64>Alexey</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-31d232e2bb34.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
           "s": "l"
         }
       ]
@@ -3373,7 +3373,7 @@
       "en": "“The point is, I don't know whether we'll stay trapped in this chaos or whether the power itself will vanish and leave only the original. It could be temporary. We might regain control. I wouldn't bet on it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3388,7 +3388,7 @@
       "en": "“...Are you afraid?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3403,7 +3403,7 @@
       "en": "“Maybe. Part of me thinks this is for the best. Frankly, something like me can only be evil in the eyes of society. I probably ought to die out. ...I used to rage at God—if I deserved extinction, why create me at all? But a long life wrung all the hatred out of me. Now I'd just like to take it easy and do what I enjoy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3418,7 +3418,7 @@
       "en": "“And what do you enjoy? Killing somebody again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3433,7 +3433,7 @@
       "en": "He shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3448,7 +3448,7 @@
       "en": "“I don't know. But right now, I don't feel like going into the City and chopping somebody into pieces.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3463,7 +3463,7 @@
       "en": "“You don't have to go into the City. What about the woman sitting right in front of you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3478,7 +3478,7 @@
       "en": "“Good God, do you have a death wish?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -3493,7 +3493,7 @@
       "en": "“We're only curious.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -3508,7 +3508,7 @@
       "en": "He lets out a long breath.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bab9fd7eb93d.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
           "s": "l"
         }
       ]
@@ -3523,7 +3523,7 @@
       "en": "“I don't feel that way about you. ...You're precious to me. Everyone I killed was precious too, but this is different. The original must love you. ...Which would mean this feeling may not be mine at all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3538,7 +3538,7 @@
       "en": "He sounds lonely. We don't know what to say, so we say nothing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3553,7 +3553,7 @@
       "en": "After the silence, I change the subject.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3568,7 +3568,7 @@
       "en": "“There's one thing I want to ask.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3583,7 +3583,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3598,7 +3598,7 @@
       "en": "“Why did you go so far out of your way to kill <tips=55>Matsuko Shio</tips>... your own daughter? Why go all the way to that facility?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3613,7 +3613,7 @@
       "en": "“She's not my daughter. Another woman in this body is her mother. She has nothing to do with me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3628,7 +3628,7 @@
       "en": "He shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3643,7 +3643,7 @@
       "en": "“We went to kill her because she was dangerous.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3658,7 +3658,7 @@
       "en": "“Dangerous how? The police were already hunting you. Going out of your way to cause an incident was far more dangerous. <tips=55>Matsuko Shio</tips> was living quietly. Did the old man order it? Even if he did, it makes no sense. All you accomplished was giving your enemies more information.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3673,7 +3673,7 @@
       "en": "He stares at me without a word.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3688,7 +3688,7 @@
       "en": "Then he shakes his head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a8659c83a748.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
           "s": "l"
         }
       ]
@@ -3703,7 +3703,7 @@
       "en": "“Whenever we thought of that girl, something inside us started crawling. We couldn't settle down. Not just the woman who became her mother. Me, old <tips=65>Hess</tips>, the boy—all of us... So we had to kill her.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3718,7 +3718,7 @@
       "en": "His face holds something like anguish and alarm. It is nothing like the rapture that overtakes him when he talks of murder. Does this pain belong to the original too, rather than to Alexey himself?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3733,7 +3733,7 @@
       "en": "“Isn't that because all of you love your daughter?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9729890144d6.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
           "s": "l"
         }
       ]
@@ -3748,7 +3748,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3763,7 +3763,7 @@
       "en": "The answer is much firmer than we expected.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3778,7 +3778,7 @@
       "en": "“Blood ties are nothing but a risk. They barge into your heart uninvited and stop you from acting rationally. They shouldn't be allowed to exist.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3793,7 +3793,7 @@
       "en": "Wasn't that precisely what love was?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3808,7 +3808,7 @@
       "en": "He had called us precious without hesitation. Why couldn't he say the same of <tips=55>Matsuko Shio</tips>? Because what he felt for her was stronger.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3823,7 +3823,7 @@
       "en": "That is what we think, but we don't say it. Perhaps he doesn't recognize the feeling. Then again, we understand too little ourselves to lecture anyone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3838,7 +3838,7 @@
       "en": "We remember our brother. Our heart seems to dry up inside us.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3853,7 +3853,7 @@
       "en": "“I have one request.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3868,7 +3868,7 @@
       "en": "Alexey breaks the long silence that has swallowed them both.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3883,7 +3883,7 @@
       "en": "“Will you let me kiss you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3898,7 +3898,7 @@
       "en": "“Why all of a sudden?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3913,7 +3913,7 @@
       "en": "“I don't know. I just want to.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3928,7 +3928,7 @@
       "en": "“All right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3943,7 +3943,7 @@
       "en": "We nod.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3958,7 +3958,7 @@
       "en": "“We don't love you, though. You know that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3973,7 +3973,7 @@
       "en": "“That's all right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -3988,7 +3988,7 @@
       "en": "<tips=64>Alexey</tips> stands, reaches out, and touches our lips.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -4003,7 +4003,7 @@
       "en": "“Here goes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9c3c9838254f.webp",
+          "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
           "s": "l"
         }
       ]
@@ -4250,7 +4250,7 @@
       "se": "",
       "jp": "「<tips=64>アレクセイ</tips>……」",
       "en": "“<tips=64>Alexey</tips>...”",
-      "bg": "assets/vn/backgrounds/bg-b3169e22d6a8.webp"
+      "bg": "assets/vn/backgrounds/background-和風ラブホテル部屋.webp"
     },
     {
       "id": "X16:0496",
@@ -4350,7 +4350,7 @@
       "se": "",
       "jp": "　翌朝は頭痛と共に目が覚めた。",
       "en": "The next morning, we wake with a headache.",
-      "bg": "assets/vn/backgrounds/bg-b3169e22d6a8.webp"
+      "bg": "assets/vn/backgrounds/background-和風ラブホテル部屋.webp"
     },
     {
       "id": "X16:0521",
@@ -4452,7 +4452,7 @@
       "en": "“Mmm...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4467,7 +4467,7 @@
       "en": "He makes a small sound and rolls toward me. His eyes widen when he finds my face inches away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4482,7 +4482,7 @@
       "en": "“You're... Oh...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -4497,7 +4497,7 @@
       "en": "Delighted, he reaches for my chin.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -4512,7 +4512,7 @@
       "en": "His hand stops just short. Instead of touching me, he clutches his own head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -4527,7 +4527,7 @@
       "en": "“Aah...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4542,7 +4542,7 @@
       "en": "He twists in agony.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4557,7 +4557,7 @@
       "en": "“<tips=63>Sashen'ka</tips>!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4572,7 +4572,7 @@
       "en": "I sit up, catch his shoulder, and turn him toward me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -4585,7 +4585,7 @@
       "se": "",
       "jp": "　彼は苦しみながら私の顔を見た。澄んだ淡い色の瞳が私をとらえたと思った瞬間、みるみるうちにそのまわりに皮膚に深いしわが生まれていった。",
       "en": "He looks at me through the pain. The instant his clear, pale eyes find mine, deep wrinkles race through the skin around them.",
-      "bg": "assets/vn/backgrounds/bg-a1a4d0b7c827.webp"
+      "bg": "assets/vn/backgrounds/background-x16b-mask-a.webp"
     },
     {
       "id": "X16:0551",
@@ -4820,7 +4820,7 @@
       "se": "",
       "jp": "「随分と派手にやらかしたもんだな」",
       "en": "“Well, they certainly made a show of it.”",
-      "bg": "assets/vn/backgrounds/bg-02b07cce0c9c.webp"
+      "bg": "assets/vn/backgrounds/background-警察のオフィス.webp"
     },
     {
       "id": "X16:0597",
@@ -4850,7 +4850,7 @@
       "en": "“How can you drink coffee while looking at that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cb33832e2e06.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
           "s": "l"
         }
       ]
@@ -4865,7 +4865,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> sits diagonally across from me, sounding thoroughly disgusted.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cb33832e2e06.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
           "s": "l"
         }
       ]
@@ -4880,7 +4880,7 @@
       "en": "“Coffee's good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cb33832e2e06.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
           "s": "l"
         }
       ]
@@ -4895,7 +4895,7 @@
       "en": "I make a joke of it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cb33832e2e06.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
           "s": "l"
         }
       ]
@@ -4910,7 +4910,7 @@
       "en": "“You haven't slept, have you? You look awful.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -4925,7 +4925,7 @@
       "en": "“I'm fine. Never felt better. Immortal man, remember? ...But these were an anti-psychic team from headquarters, weren't they? How did they get slaughtered this one-sidedly? Something they didn't expect must've happened.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -4940,7 +4940,7 @@
       "en": "The dead officers spotted one of the <tips=86>Haigami twins</tips> with a person believed to be <tips=20>Koschei</tips>. They surrounded the building and waited for backup. Before it arrived, someone killed them all.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -4955,7 +4955,7 @@
       "en": "“Possibly. ...There are no footprints or other signs of anyone approaching several of the bodies. Their necks were twisted from a distance. The obvious explanation is <tips=11>Rieko Haigami</tips>'s psychic ability, but she never had anything close to this much power.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -4970,7 +4970,7 @@
       "en": "“Something strengthened her. Unless it's a power of <tips=20>Koschei</tips> we haven't seen...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -4985,7 +4985,7 @@
       "en": "“If Haigami's telekinesis did this, her threat rating rises to A.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5000,7 +5000,7 @@
       "en": "“What rating?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5015,7 +5015,7 @@
       "en": "“There's something even <tips=50>Roji</tips> doesn't know?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -5030,7 +5030,7 @@
       "en": "“Even I can't know information buried somewhere I can't reach from the outside.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -5045,7 +5045,7 @@
       "en": "“...The police rank psychic abilities by the danger they pose to society. <tips=11>Rieko Haigami</tips> used to be B-minus. If this is <tips=11>Rieko</tips>'s power, she has jumped four levels.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5060,7 +5060,7 @@
       "en": "“Never knew that. What am I?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5075,7 +5075,7 @@
       "en": "“<tips=50>Roji</tips> is S-minus. Nothing ranks above S, so that puts you among the most dangerous psychics alive.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5090,7 +5090,7 @@
       "en": "“They give me too much credit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5105,7 +5105,7 @@
       "en": "I laugh and drink again. The caffeine sinks pleasantly into my sleepless skull.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5120,7 +5120,7 @@
       "en": "“Used properly, your ability could destabilize society as a whole. Even for this investigation, allowing you to use it would normally be unthinkable.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5135,7 +5135,7 @@
       "en": "“Hm. This is quite a power too. Twisted them up like clay.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5150,7 +5150,7 @@
       "en": "I toss the photograph onto the desk and sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5165,7 +5165,7 @@
       "en": "“But how did they spot the cordon? Your men surrounded the house quietly, by the book. How does every last one get found and killed? What if the survivor is the <tips=17>Type B</tips> twin? She had unusually sharp senses, didn't she?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5180,7 +5180,7 @@
       "en": "“Then we still can't explain how the investigators died...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5195,7 +5195,7 @@
       "en": "“Give <tips=20>Koschei</tips> a new power... No. If he had a choice, the teleporting brat would be much more reliable than telekinesis. Unless something stopped him from using her... We can invent possibilities all day. No point doing it from this office.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5210,7 +5210,7 @@
       "en": "I sigh. <tips=20>Koschei</tips> can turn into entirely different people. Imagination alone won't get me far.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5225,7 +5225,7 @@
       "en": "“Any trail after they broke out?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5240,7 +5240,7 @@
       "en": "“Nothing so far.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5255,7 +5255,7 @@
       "en": "“I see...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5270,7 +5270,7 @@
       "en": "I fold my arms and think.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5285,7 +5285,7 @@
       "en": "About two weeks earlier, a struggle broke out inside the <tips=21>Dragon Club</tips>. Police sources investigating the conflict learned that the <tips=47>Liberation Army</tips> had shot the <tips=86>twins</tips> and <tips=20>Koschei</tips> during an internal dispute within the <tips=21>organization</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5300,7 +5300,7 @@
       "en": "The body of <tips=20>Koschei</tips> was carried off by the <tips=47>Liberation Army</tips>. One of the <tips=86>twins</tips>' bodies disappeared.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5315,7 +5315,7 @@
       "en": "No one took that body. It escaped on its own. A girl using psychic powers was seen at a supermarket near the warehouse after the shooting.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5330,7 +5330,7 @@
       "en": "When police questioned the owner, he identified her as one of the <tips=86>twins</tips>. Because she used a psychic power, the investigation assumes she was <tips=11>Rieko</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5345,7 +5345,7 @@
       "en": "A few bullets would never kill <tips=20>Koschei</tips>. The <tips=47>Liberation Army</tips> knew that, so they must have carried him away once he stopped moving.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5360,7 +5360,7 @@
       "en": "They left the <tips=86>twins</tips> behind as corpses. Carelessly, they posted no guard.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5375,7 +5375,7 @@
       "en": "One twin died. The other somehow came into contact with <tips=20>Koschei</tips>'s blood during the attack and became immortal.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5390,7 +5390,7 @@
       "en": "She revived before the disposal crew arrived, tore through the shutter, and escaped the warehouse.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5405,7 +5405,7 @@
       "en": "—That was the investigative team's reconstruction from the evidence in hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5420,7 +5420,7 @@
       "en": "Police searched for Haigami's trail after the supermarket and for wherever the <tips=47>Liberation Army</tips> had taken <tips=20>Koschei</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5435,7 +5435,7 @@
       "en": "In the middle of that search, a team spotted both targets together and followed them into an empty house. Then came this massacre.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5450,7 +5450,7 @@
       "en": "“Has <tips=7>YS</tips> learned anything?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5465,7 +5465,7 @@
       "en": "“We haven't heard from them yet...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5480,7 +5480,7 @@
       "en": "“I see. Are they hiding something, or do they genuinely know nothing...? Let's ask.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5495,7 +5495,7 @@
       "en": "I reach for my phone. <tips=49>Hikari Miyoshi</tips> immediately objects.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5510,7 +5510,7 @@
       "en": "“We need a superior's authorization before contacting <tips=7>YS</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5525,7 +5525,7 @@
       "en": "“That's a rule for police investigations. It has nothing to do with one private citizen making one personal call. Pretend you don't see me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5540,7 +5540,7 @@
       "en": "I steamroll her objection and dial <tips=41>Grand Tower</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5780,7 +5780,7 @@
       "en": "“Where are you going?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5795,7 +5795,7 @@
       "en": "“From here, I'm investigating on my own. I was a detective once. I know methods beyond throwing police manpower at the streets.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -5810,7 +5810,7 @@
       "en": "“I'm coming too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5825,7 +5825,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> scrambles to her feet.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5840,7 +5840,7 @@
       "en": "“Don't you have work?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -5855,7 +5855,7 @@
       "en": "“The headquarters team is leading the operation, so there isn't much for me to do. Please let me learn how <tips=50>Roji</tips> investigates.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5870,7 +5870,7 @@
       "en": "“Nothing I do will help a cop. You'd be better off reading Mr. <tips=48>Doujima</tips>'s case files.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5885,7 +5885,7 @@
       "en": "“That's all right. Besides...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5900,7 +5900,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> hesitates.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5915,7 +5915,7 @@
       "en": "“I can't let <tips=50>Roji</tips> go alone. If your ability has been released, you need supervision. And...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5930,7 +5930,7 @@
       "en": "She looks me in the eye.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -5945,7 +5945,7 @@
       "en": "“I'm worried. You seem... self-destructive.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5960,7 +5960,7 @@
       "en": "“Hmph. Suit yourself. Watch me all you like. I'll still do whatever I please.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5975,7 +5975,7 @@
       "en": "I head for the door.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -5988,7 +5988,7 @@
       "se": "",
       "jp": "　まず私は街のあちこちにいる『情報屋』をまわることにした。",
       "en": "I start with the City's network of “informants.”",
-      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
+      "bg": "assets/vn/backgrounds/background-パラシュート通り.webp"
     },
     {
       "id": "X16:0695",
@@ -6214,7 +6214,7 @@
       "se": "",
       "jp": "　薄汚れた簡易宿泊所がいくつか並ぶ、うらぶれた路地である。",
       "en": "A shabby alley lined with grimy flophouses.",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "X16:0727",
@@ -6226,7 +6226,7 @@
       "en": "“Do backpackers stay in places like these?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6241,7 +6241,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> keeps her voice low.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6256,7 +6256,7 @@
       "en": "“Some. Mostly couples, or men bringing a woman they've paid for.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6271,7 +6271,7 @@
       "en": "The establishments will even arrange the prostitute. I leave that detail out. I have a trail now, and no patience for anything else.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6286,7 +6286,7 @@
       "en": "I work through every lodging house on the street.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6301,7 +6301,7 @@
       "en": "The second one reacts.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6316,7 +6316,7 @@
       "en": "“Can't say whether they came or not. Even for <tips=50>Roji</tips>. My guests have a right to privacy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6331,7 +6331,7 @@
       "en": "I show the clerk the pictures and ask. He hedges. If he had never seen them, he would simply say so. He knows something.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6346,7 +6346,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> reaches for her police wallet. I stop her. Trying to force him with a badge will only make this harder. He wants to bargain.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6361,7 +6361,7 @@
       "en": "Money would be fastest. I choose another lever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6376,7 +6376,7 @@
       "en": "“You'd better be honest, boss. This man killed <tips=53>Miyuki</tips>. He murdered God knows how many other women and chopped them to pieces. There may be a woman lying diced up somewhere in your building right now. You haven't searched the attic and under every floorboard, have you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6391,7 +6391,7 @@
       "en": "The clerk flinches.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6406,7 +6406,7 @@
       "en": "“If a body turns up, police will swarm the place. This killer is their favorite. It won't be handled like any ordinary case. You may be shut down for weeks. Help me, and I'll smooth everything over.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6421,7 +6421,7 @@
       "en": "“But, <tips=50>Roji</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6436,7 +6436,7 @@
       "en": "“Trust me. This young lady may not look it, but she's an important police officer. Go on. Show him the badge.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6451,7 +6451,7 @@
       "en": "At my prompting, she opens her police wallet.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6466,7 +6466,7 @@
       "en": "“See? I have friends in the police. Before anything happens, you're much better off going through me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6481,7 +6481,7 @@
       "en": "Now the manager's unease is plain. He may be used to trouble, but he doesn't want police traffic through his lobby. A place like this surely has secrets of its own.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6496,7 +6496,7 @@
       "en": "“Come on. This piece of shit killed people from our City. A lot of them. I won't forgive him. So help me. I need what you know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6511,7 +6511,7 @@
       "en": "For the last push, I give him the truth without disguise.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6526,7 +6526,7 @@
       "en": "“<tips=50>Roji</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6541,7 +6541,7 @@
       "en": "And the manager talks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6556,7 +6556,7 @@
       "en": "He recognizes both photographs. The check-in time matches the informant's story exactly. According to him, they checked out this morning.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6571,7 +6571,7 @@
       "en": "“Anything strange about them?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6586,7 +6586,7 @@
       "en": "The manager thinks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6601,7 +6601,7 @@
       "en": "“Now you mention it, the man with her was acting strange.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6616,7 +6616,7 @@
       "en": "“How so?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6631,7 +6631,7 @@
       "en": "“Came in like he owned the place. When he left, he had a coat or something over his head and kept sneaking around, hiding his face.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6646,7 +6646,7 @@
       "en": "If the man was <tips=20>Koschei</tips>, he probably transformed overnight and didn't want the manager seeing the new body.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6661,7 +6661,7 @@
       "en": "“Anything else?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6676,7 +6676,7 @@
       "en": "“He kept mumbling to himself too. Something about the <tips=8>Great Hole</tips>... Maybe he's having an episode.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6691,7 +6691,7 @@
       "en": "“Why would he be talking about the <tips=8>Great Hole</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6706,7 +6706,7 @@
       "en": "We search the room and leave the lodging house. Outside, <tips=49>Hikari Miyoshi</tips> asks her question.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6721,7 +6721,7 @@
       "en": "“You haven't heard? The manager was right. When <tips=17>Type B</tips> people have an episode, they often fixate on delusions like that. Missing patients sometimes turn up beside the <tips=8>Great Hole</tips>. Doesn't that happen in other cities?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6736,7 +6736,7 @@
       "en": "“I've never heard of it...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6751,7 +6751,7 @@
       "en": "“Maybe it's only this City. <tips=20>Koschei</tips> originally lived near another <tips=8>Great Hole</tips>, didn't he?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6766,7 +6766,7 @@
       "en": "“The records say so.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6781,7 +6781,7 @@
       "en": "“Maybe people in that city have the same delusion. In that case, he may really be having an episode. Hmph. The worst killer alive ends by losing his mind and wandering the streets at the command of voices. ...What happens with him? If one personality has an episode, does it stop there? Or does every form go mad?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6796,7 +6796,7 @@
       "en": "“I wonder...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6811,7 +6811,7 @@
       "en": "“Either way, an episode works in our favor. He'll do something horrible and be found soon enough.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6826,7 +6826,7 @@
       "en": "I start walking toward the <tips=8>Great Hole</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6841,7 +6841,7 @@
       "en": "They may not have gone that way. The manager made Haigami sound like the one in charge. She could have led him somewhere else instead of letting him wander toward the <tips=8>Great Hole</tips> in a delusion—<tips=20>Koschei</tips> would have followed her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6856,7 +6856,7 @@
       "en": "But investigators have sealed the roads out of the City and all the other main streets. We should eliminate the possibility no one else is covering.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6871,7 +6871,7 @@
       "en": "Besides, my instinct says they went to the <tips=8>Great Hole</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6886,7 +6886,7 @@
       "en": "“Haigami lost the other half of the <tips=86>twins</tips>. <tips=20>Koschei</tips> has lost his mind. Two people at the end of every road—somehow the <tips=8>Great Hole</tips> feels like where they'd go.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6901,7 +6901,7 @@
       "en": "I explain as we walk.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfb5d5286ef6.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
           "s": "l"
         }
       ]
@@ -6916,7 +6916,7 @@
       "en": "“Ah, excuse me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6931,7 +6931,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> takes out her phone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6946,7 +6946,7 @@
       "en": "“Who are you calling?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6961,7 +6961,7 @@
       "en": "“Headquarters. I thought I should ask them to send backup toward the <tips=8>Great Hole</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6976,7 +6976,7 @@
       "en": "“Don't.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -6991,7 +6991,7 @@
       "en": "“Why not?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7006,7 +7006,7 @@
       "en": "“I want to find him myself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7021,7 +7021,7 @@
       "en": "“So you can kill him...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7036,7 +7036,7 @@
       "en": "I ignore her and walk faster. She jogs to catch up.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7051,7 +7051,7 @@
       "en": "“Please think again. Whatever <tips=53>Miyuki</tips> means to you, killing him would still be murder.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7066,7 +7066,7 @@
       "en": "“Murder? Is that thing human?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7081,7 +7081,7 @@
       "en": "I give her a bitter smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7096,7 +7096,7 @@
       "en": "“<tips=50>Roji</tips>!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7111,7 +7111,7 @@
       "en": "“If you're going to interfere, go home. Or arrest me now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7126,7 +7126,7 @@
       "en": "“<tips=50>Roji</tips>, if you do this—if you become a criminal—<tips=53>Miyuki</tips> will be heartbroken—”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7141,7 +7141,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> steps into my path.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7156,7 +7156,7 @@
       "en": "“You don't know a damned thing. Don't pretend you understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7171,7 +7171,7 @@
       "en": "My glare stops her. I pass and keep walking.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7186,7 +7186,7 @@
       "en": "She catches up again and studies my face with grave, searching eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7201,7 +7201,7 @@
       "en": "“Listen, <tips=49>Miyoshi</tips>. I owe you, but I won't take your advice this time. Arrest me if you want. I'll even let you—after I kill him. Try it before then, and I won't come quietly.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7216,7 +7216,7 @@
       "en": "“<tips=50>Roji</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7231,7 +7231,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips> stops. I expect her to turn back. A moment later, she runs to catch up and follows just behind me. She doesn't argue again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -7244,7 +7244,7 @@
       "se": "",
       "jp": "　私は道を行きながら、通りかかる露天商や、窓を開けてゆったりしている住民に、灰上と<tips=20>コシチェイ</tips>の写真を見せ、見覚えがないか訊ねた。",
       "en": "As I walk, I show Haigami's and <tips=20>Koschei</tips>'s photographs to street vendors and residents lounging at open windows. Has anyone seen them?",
-      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
+      "bg": "assets/vn/backgrounds/background-パラシュート通り.webp"
     },
     {
       "id": "X16:0803",
@@ -7398,7 +7398,7 @@
       "se": "",
       "jp": "　私は銃をバッグにしまい、ホールスタッフから事情聴取をする。それによると、確かに灰上の方の姿は見かけたそうだ。彼女はその時白人の老人といたということで、<tips=65>ヘス</tips>かと思ったが、写真を見せると全くの別人だと言う。未知の姿に変身しているのかもしれない。",
       "en": "I put the gun away and question the floor staff. Someone did see Haigami. She was with an old white man. I think of <tips=65>Hess</tips>, but the employee takes one look at his photograph and says it was someone else entirely. Another unknown form, perhaps.",
-      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
+      "bg": "assets/vn/backgrounds/background-英国式のバー.webp"
     },
     {
       "id": "X16:0834",
@@ -7435,7 +7435,7 @@
       "se": "",
       "jp": "　彼らはきっと大通りを避け、裏の細い道を使うことだろう。そうだとすれば、道は一つしかない。ここから<tips=8>グレートホール</tips>を取り囲む廃墟の森林まではごく僅かの距離しかないのだ。",
       "en": "They'll avoid the main street and take the narrow back way. If so, there is only one route. The forest of ruins around the <tips=8>Great Hole</tips> is barely any distance from here.",
-      "bg": "assets/vn/backgrounds/bg-394233dabd8b.webp"
+      "bg": "assets/vn/backgrounds/background-パラシュート通り.webp"
     },
     {
       "id": "X16:0844",
@@ -7465,7 +7465,7 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7480,7 +7480,7 @@
       "en": "<tips=49>Hikari Miyoshi</tips>'s face is white with tension.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7495,7 +7495,7 @@
       "en": "“You'll be in the way. I'm immortal and have the body of a <tips=17>Type B</tips>. What help do you think you can give me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7510,7 +7510,7 @@
       "en": "She bites hard on her lower lip.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7525,7 +7525,7 @@
       "en": "“Do you really think that gun is enough?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7540,7 +7540,7 @@
       "en": "“Sure I can.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7555,7 +7555,7 @@
       "en": "“Do you have a plan? Both targets are psychics.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7570,7 +7570,7 @@
       "en": "“Don't need one. I've seen them fight. I'll manage.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -7585,7 +7585,7 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7600,7 +7600,7 @@
       "en": "“No time to argue. Goodbye. Thank you—for everything. In an hour, call the police if you like. Until then, please don't tell anyone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7615,7 +7615,7 @@
       "en": "I leave her there and continue alone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -7628,7 +7628,7 @@
       "se": "",
       "jp": "　胸の鼓動が早くなる。バッグのなかに突っ込んだ手に汗がにじむ。",
       "en": "My heart races. Sweat slicks the hand buried in my bag.",
-      "bg": "assets/vn/backgrounds/bg-00b49b7339de.webp"
+      "bg": "assets/vn/backgrounds/background-雑木林.webp"
     },
     {
       "id": "X16:0866",
@@ -7755,7 +7755,7 @@
       "se": "",
       "jp": "　やっと、追いついたぞ。",
       "en": "At last. I've caught them.",
-      "bg": "assets/vn/backgrounds/bg-5e3998dee984.webp"
+      "bg": "assets/vn/backgrounds/background-グレートホール付近.webp"
     },
     {
       "id": "X16:0887",
@@ -8116,7 +8116,7 @@
       "se": "",
       "jp": "　銃口が火を吹き、爆音がしたものの、照準は完全に逸れていて、目標は微動だにしない。",
       "en": "The muzzle flashes with a deafening report. My aim has been thrown completely aside. The target doesn't flinch.",
-      "bg": "assets/vn/backgrounds/bg-6e2ed5312a1f.webp"
+      "bg": "assets/vn/backgrounds/background-x16c.webp"
     },
     {
       "id": "X16:0948",
@@ -8657,7 +8657,7 @@
       "se": "",
       "jp": "　前や横からの力なら大地に踏ん張ることが出来るが、上空へと飛ばされてはそれも出来ない。",
       "en": "I can brace against force from the front or side. Once she throws me into the air, the earth is no help.",
-      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
+      "bg": "assets/vn/backgrounds/background-青空雲あり.webp"
     },
     {
       "id": "X16:1018",
@@ -8748,7 +8748,7 @@
       "se": "",
       "jp": "　浮力を失った私は土の上にぐしゃりと落ちる。立ち上がろうとするが、すっかり目が回ってしまって世界がぐらぐらとし、しかも銃を取り落としてしまう。",
       "en": "I drop hard onto the dirt. When I try to stand, the whole world pitches around my spinning head. The gun is gone from my hands.",
-      "bg": "assets/vn/backgrounds/bg-5e3998dee984.webp"
+      "bg": "assets/vn/backgrounds/background-グレートホール付近.webp"
     },
     {
       "id": "X16:1041",
@@ -8760,7 +8760,7 @@
       "en": "“I'm the cause. I have to do something for him...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cc0f77aea54d.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f109-01.webp",
           "s": "l"
         }
       ]
@@ -8775,7 +8775,7 @@
       "en": "I fall to my knees and snatch up the pistol. <tips=20>Koschei</tips> stands directly before me. His hand enters my spinning field of view.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cc0f77aea54d.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f109-01.webp",
           "s": "l"
         }
       ]
@@ -8790,7 +8790,7 @@
       "en": "Moisture floods back into the old man's dry, wrinkled hand. The creases smooth away before my eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cc0f77aea54d.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f109-01.webp",
           "s": "l"
         }
       ]
@@ -8857,7 +8857,7 @@
       "se": "",
       "jp": "　そう、そこに立っていたのは、他の誰でもない、あの<tips=53>ミユキ</tips>そのものだった。",
       "en": "Yes. No one else stands there. It is <tips=53>Miyuki</tips> herself.",
-      "bg": "assets/vn/backgrounds/bg-04ec7fd0623f.webp"
+      "bg": "assets/vn/backgrounds/background-x16d1-mask-g.webp"
     },
     {
       "id": "X16:1062",
@@ -8984,7 +8984,7 @@
       "se": "",
       "jp": "「あ……あ……」",
       "en": "“Ah... Ah...”",
-      "bg": "assets/vn/backgrounds/bg-473102f8e145.webp"
+      "bg": "assets/vn/backgrounds/background-x16d2-mask-h.webp"
     },
     {
       "id": "X16:1088",
@@ -9057,7 +9057,7 @@
       "se": "",
       "jp": "「ごめんなさい」",
       "en": "“I'm sorry.”",
-      "bg": "assets/vn/backgrounds/bg-5e3998dee984.webp"
+      "bg": "assets/vn/backgrounds/background-グレートホール付近.webp"
     },
     {
       "id": "X16:1103",
@@ -9085,7 +9085,7 @@
       "se": "",
       "jp": "　とても眩しくて、光がきらきらと輝いて、目を大きく開けているのもつらいくらい。",
       "en": "Everything dazzles. The light glitters until it hurts to hold our eyes open.",
-      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp"
+      "bg": "assets/vn/backgrounds/background-曇り空.webp"
     },
     {
       "id": "X16:1131",
@@ -9122,10 +9122,10 @@
       "se": "Sashen'ka",
       "jp": "「ほら見て。あそこに白い鳥がいる。あれなんて鳥かな？」",
       "en": "“Look. There's a white bird over there. What kind do you think it is?”",
-      "bg": "assets/vn/backgrounds/bg-5e3998dee984.webp",
+      "bg": "assets/vn/backgrounds/background-グレートホール付近.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9140,7 +9140,7 @@
       "en": "<tips=63>Sashen'ka</tips>, who became a woman a little while ago, has transformed again. He hasn't returned to the old man's body. He is the boy we first met.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9155,7 +9155,7 @@
       "en": "His eyes dart restlessly over everything to either side. In a soft, drifting voice, he chatters on whether we answer or not.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9170,7 +9170,7 @@
       "en": "This must once have been a residential neighborhood: cracked asphalt, ordinary houses and apartment blocks. Decades have passed since the <tips=8>Great Hole</tips> contaminated the area and everyone abandoned it. Green vines wrap the ruins. A tricycle by one doorway and a small garden swing rust inside their coils.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9185,7 +9185,7 @@
       "en": "“You were a shriveled old man a moment ago. Now you're a child again. Which one is really you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9200,7 +9200,7 @@
       "en": "“Oh. I do look different now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9215,7 +9215,7 @@
       "en": "He touches his smooth cheek.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9230,7 +9230,7 @@
       "en": "“It doesn't really matter. I don't think I have a true shape.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9245,7 +9245,7 @@
       "en": "“We thought the old man was what you really looked like after aging normally.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9260,7 +9260,7 @@
       "en": "“That can't be right. Cuts and burns heal at once. How could I grow old?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9275,7 +9275,7 @@
       "en": "“Logically, maybe...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9290,7 +9290,7 @@
       "en": "“Perhaps that was a shape I wanted. Growing old like an ordinary person... I don't know why I wanted it... Strange, isn't it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9305,7 +9305,7 @@
       "en": "<tips=63>Sashen'ka</tips> gives a quiet laugh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9320,7 +9320,7 @@
       "en": "“Then... what are you going to do when we reach the <tips=8>Great Hole</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9335,7 +9335,7 @@
       "en": "The question seems to startle him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9350,7 +9350,7 @@
       "en": "“What...? You can't hear it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9365,7 +9365,7 @@
       "en": "“Hear what?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9380,7 +9380,7 @@
       "en": "“The <tips=8>Great Hole</tips> is calling us. ‘Come home.’ We were born from the <tips=8>Great Hole</tips>, so we have to go back.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9395,7 +9395,7 @@
       "en": "“We don't hear anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9410,7 +9410,7 @@
       "en": "“Oh. I see. You will eventually. Then you'll understand that we came from the <tips=8>Great Hole</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9425,7 +9425,7 @@
       "en": "“The <tips=8>Great Hole</tips> is just a hole. They've investigated holes all over the world again and again. There was nothing there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9440,7 +9440,7 @@
       "en": "“That can't be true. Ordinary holes don't appear all over the world. They mean something. We simply can't measure it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9455,7 +9455,7 @@
       "en": "<tips=63>Sashen'ka</tips> smiles brightly. He is plainly out of his mind.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9470,7 +9470,7 @@
       "en": "“If you came from the <tips=8>Great Hole</tips>, what about the people you told us about? The ones who called you ‘<tips=63>Sashen'ka</tips>’ when you were little? They were your family. They were the people who gave birth to you, weren't they?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9485,7 +9485,7 @@
       "en": "“Oh, yes. They seemed like family... But it must have been a trick. They were a false family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9500,7 +9500,7 @@
       "en": "A shadow crosses <tips=63>Sashen'ka</tips>'s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9515,7 +9515,7 @@
       "en": "“If they were my real family, they would've come to save me. Nobody came. It hurt for so long, and I was always alone. ...So I called people to me. I didn't want to be lonely. People from movies and books.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9530,7 +9530,7 @@
       "en": "“That was your ‘transformation’?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9545,7 +9545,7 @@
       "en": "“That's what people call it. I don't like the word. It was much nicer than that. ...You know how other children open a friend's door and call, ‘Come on! Let's play together in here!’ That's all I did.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9560,7 +9560,7 @@
       "en": "<tips=63>Sashen'ka</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9575,7 +9575,7 @@
       "en": "“I hurt for such a long time. I was in a white place I didn't understand. They hurt me over and over, and I had no friends. It was awful. So I opened the door. They let me into a comfortable room... Oh, I remember. They did everything for me. I couldn't bear to see anymore, so they went outside in my place... I thought I was being dragged through places I didn't understand. But all of it was for me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9590,7 +9590,7 @@
       "en": "“Was the white place a laboratory?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9605,7 +9605,7 @@
       "en": "“Maybe. I hated it there... So I hated the people who never came to save me... But perhaps I only hated them because I misunderstood...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9620,7 +9620,7 @@
       "en": "“But?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9635,7 +9635,7 @@
       "en": "<tips=63>Sashen'ka</tips> looks troubled and says nothing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9650,7 +9650,7 @@
       "en": "“We understand. After you escaped the laboratory, you killed them. Your family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9665,7 +9665,7 @@
       "en": "“Yes, but... They weren't my family. Not my real family!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9680,7 +9680,7 @@
       "en": "Fear fills his denial.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9695,7 +9695,7 @@
       "en": "He killed his family too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9710,7 +9710,7 @@
       "en": "At last, we understand why we have been unable to stop thinking about him since the day we met.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9725,7 +9725,7 @@
       "en": "“They probably were your real family. You killed your real family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9740,7 +9740,7 @@
       "en": "“...If you say so, perhaps I did.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9755,7 +9755,7 @@
       "en": "<tips=63>Sashen'ka</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -9770,7 +9770,7 @@
       "en": "“But it doesn't matter. Even if they were, everything will end when I return to the <tips=8>Great Hole</tips>. It will forgive me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9785,7 +9785,7 @@
       "en": "“Forgive you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9800,7 +9800,7 @@
       "en": "“Yes. I'll never have to hurt anyone again. No one will hurt me either. What could be happier?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -9815,7 +9815,7 @@
       "en": "His face lights up once more.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -9830,7 +9830,7 @@
       "en": "“I see...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -9845,7 +9845,7 @@
       "en": "“You look sad. I want you to cheer up. I want everyone to smile. You most of all, because I love you best. Even if you don't love me, I still love you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9860,7 +9860,7 @@
       "en": "He speaks as though he remembers everything that passed between us and <tips=64>Alexey</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9875,7 +9875,7 @@
       "en": "He has changed. Earlier, he transformed in front of the detective because he chose to. He is almost another person now. Yet he hasn't noticed his own change.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9890,7 +9890,7 @@
       "en": "“Oh, wait here. I have to pee.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9905,7 +9905,7 @@
       "en": "He pushes through the brush beside the road.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -9956,7 +9956,7 @@
       "en": "“Look at this!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9971,7 +9971,7 @@
       "en": "<tips=63>Sashen'ka</tips> comes back with something in his right hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -9986,7 +9986,7 @@
       "en": "“It's a brooch. See?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10001,7 +10001,7 @@
       "en": "He proudly holds out a flower-shaped brooch.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10016,7 +10016,7 @@
       "en": "“It's a little dirty, but it isn't rusty. If I wipe it...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10031,7 +10031,7 @@
       "en": "He scrubs the dirt away with the hem of his shirt and offers it to us.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10046,7 +10046,7 @@
       "en": "“There. All clean. Try it on. I think it'll look good on you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10061,7 +10061,7 @@
       "en": "“It's a rose.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10076,7 +10076,7 @@
       "en": "“Yes. Roses are my favorite thing in the world... Oh. But you hate them, don't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10091,7 +10091,7 @@
       "en": "He snatches his hand back. We reach for it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10106,7 +10106,7 @@
       "en": "“No. It's okay. We think we like them now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10121,7 +10121,7 @@
       "en": "We take the rose brooch, pinch the fabric over our heart, and fasten it there.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10136,7 +10136,7 @@
       "en": "“Yes. It looks lovely.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10151,7 +10151,7 @@
       "en": "<tips=63>Sashen'ka</tips> beams.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10166,7 +10166,7 @@
       "en": "We remember the rose that rotted in our brother's bag. This must be how he wanted to give it to us.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10181,7 +10181,7 @@
       "en": "Even after his mind broke, he held tight to our gifts and the rose. He chased us for no reason but to make us happy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10196,7 +10196,7 @@
       "en": "Why didn't we recognize him? He looked a little different from the brother we imagined. Was that enough to blind us to all his love? They took him from his family when he was small and shut him away somewhere special. He never resented us. He kept sending things, always trying to make us smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10211,7 +10211,7 @@
       "en": "We wanted to take that rose from our brother's hand. If we had, all our lives might have become something different. Something beautiful.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9b1991daff0c.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
           "s": "l"
         }
       ]
@@ -10226,7 +10226,7 @@
       "en": "“Are you all right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10241,7 +10241,7 @@
       "en": "<tips=63>Sashen'ka</tips> is watching me with concern.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10256,7 +10256,7 @@
       "en": "“What do you mean...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10271,7 +10271,7 @@
       "en": "I start to answer. A breath of wind makes me realize.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10286,7 +10286,7 @@
       "en": "The air brushes cold over my cheeks. When I touch one, my fingers come away wet. Tears have been running silently from my eyes, soaking my whole face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10301,7 +10301,7 @@
       "en": "“It's nothing...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10316,7 +10316,7 @@
       "en": "The words become a lie almost at once.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10331,7 +10331,7 @@
       "en": "I can't control myself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10346,7 +10346,7 @@
       "en": "My shoulders shake. Sobs escape me. My face must be twisted beyond recognition.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10361,7 +10361,7 @@
       "en": "I hide it behind both hands. That only makes me look more like a crying child.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10376,7 +10376,7 @@
       "en": "I cry there for a while. When something inside me grows lighter, I start walking again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10391,7 +10391,7 @@
       "en": "As I walk, I glance at the rose brooch swaying over my heart. It no longer feels ugly. It doesn't make me sad. I understand now that the thing I couldn't bear to see—the thing I kept turning away from—was never the rose.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10413,7 +10413,7 @@
       "se": "",
       "jp": "　<tips=8>グレートホール</tips>、と、どこで誰が最初に呼び始めたのか知らない。その正体不明の巨大な穴は学校の運動場よりも広く、そして覗き込むと底が真っ暗で何も見えないほど深い。",
       "en": "The <tips=8>Great Hole</tips>. We don't know who first gave that name to the unknowable pit, or where. It is wider than a school athletic field and so deep that when we peer over the edge, the bottom is nothing but darkness.",
-      "bg": "assets/vn/backgrounds/bg-59aa5bcc4692.webp"
+      "bg": "assets/vn/backgrounds/background-グレートホール.webp"
     },
     {
       "id": "X16:1245",
@@ -10506,7 +10506,7 @@
       "en": "“To the City...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -10521,7 +10521,7 @@
       "en": "His face twists faintly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -10536,7 +10536,7 @@
       "en": "“I'm done with the City. Any city...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -10551,7 +10551,7 @@
       "en": "“It doesn't have to be a city. We can go somewhere empty, deep in the mountains...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66448c3c1dd4.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
           "s": "l"
         }
       ]
@@ -10566,7 +10566,7 @@
       "en": "“It's all right. I'm tired.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10581,7 +10581,7 @@
       "en": "He smiles.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10596,7 +10596,7 @@
       "en": "“Everyone must think I'm as terrible as a demon. They're right. But I did try. With my power, I could've done far worse things to the world. Far more dangerous things. Part of me wanted to ruin everything. I held it down to this much. There were things in this world I loved.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10611,7 +10611,7 @@
       "en": "“<tips=63>Sashen'ka</tips>, you...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10626,7 +10626,7 @@
       "en": "“Thank you, though. In the whole world, only you and one other person knew everything about me and forgave me anyway. He died a very long time ago... He was a wonderful man. I wonder if what he tried to do was wrong.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10641,7 +10641,7 @@
       "en": "He turns his back to me and faces the <tips=8>Great Hole</tips> again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cab441bec992.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
           "s": "l"
         }
       ]
@@ -10656,7 +10656,7 @@
       "en": "“I'm going home. You should stay here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1c89397467ac.webp",
+          "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
           "s": "l"
         }
       ]
@@ -10876,7 +10876,7 @@
       "se": "",
       "jp": "　日が暮れる頃、<tips=50>路地邦昭</tips>から報告があった。",
       "en": "Near sunset, <tips=50>Kuniaki Roji</tips> calls with a report.",
-      "bg": "assets/vn/backgrounds/bg-067437855f7a.webp"
+      "bg": "assets/vn/backgrounds/background-a6b.webp"
     },
     {
       "id": "X16:1307",
@@ -11185,7 +11185,7 @@
       "en": "“That's good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11200,7 +11200,7 @@
       "en": "He breathes out in relief.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11215,7 +11215,7 @@
       "en": "“If that girl had died, we would never have forgiven the police.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11230,7 +11230,7 @@
       "en": "The immortal <tips=12>Eriko</tips> is unlikely to die easily. I don't tell him that.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11245,7 +11245,7 @@
       "en": "For years, the <tips=13>Sludge Housing Complex</tips> and the City's gangs have left one another alone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11260,7 +11260,7 @@
       "en": "Its leader coming personally to <tips=41>Grand Tower</tips> means something extraordinary has happened.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11275,7 +11275,7 @@
       "en": "That he has come solely to discuss one girl is almost inconceivable.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11290,7 +11290,7 @@
       "en": "But that is exactly why he is here: to ask for <tips=12>Eriko Haigami</tips>'s protection.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11305,7 +11305,7 @@
       "en": "“Then we have an agreement. If you find <tips=12>Eriko</tips>, contact us. We'll pay whatever the information is worth.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11320,7 +11320,7 @@
       "en": "“Understood. I'll make the arrangements.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11335,7 +11335,7 @@
       "en": "“If you can, find out what happened to the dead <tips=11>Rieko</tips>'s body. If you're going to wipe out the remaining <tips=47>Liberation Army</tips>, we'll help.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11350,7 +11350,7 @@
       "en": "“...<tips=14>Fukazawa</tips> of the complex has a reputation for a jackal's ruthlessness and an accountant's eye for advantage. I didn't expect this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11365,7 +11365,7 @@
       "en": "Why does he care so much about the <tips=86>twins</tips>? To him, they are only the daughters of an acquaintance—two girls he found and raised.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11380,7 +11380,7 @@
       "en": "Granted, I've heard since childhood that he always indulged the <tips=86>twins</tips>—<tips=14>Fukazawa</tips> could never say no to them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11395,7 +11395,7 @@
       "en": "Helping <tips=12>Eriko</tips> in exchange for the complex's support is an excellent bargain for me. Part of me still finds it hard to believe.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11410,7 +11410,7 @@
       "en": "<tips=14>Fukazawa</tips> lifts one cheek in a smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11425,7 +11425,7 @@
       "en": "“Even jackals care for their pack. Those <tips=86>twins</tips> are ours. More than that—they're special. ...And this isn't my decision alone. The entire complex agrees. You can trust us. We'll fight until the last member of the <tips=47>Liberation Army</tips> stops breathing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11440,7 +11440,7 @@
       "en": "“...I see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11455,7 +11455,7 @@
       "en": "“You don't believe me? Naturally. It isn't rational. It is still the truth.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11470,7 +11470,7 @@
       "en": "“No, I believe you. I've recently learned that feelings like that can move the world.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11485,7 +11485,7 @@
       "en": "“When the world truly moves, the human heart is always involved.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11500,7 +11500,7 @@
       "en": "“You may be right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11515,7 +11515,7 @@
       "en": "“This isn't about whether it makes sense. It's our pride as human beings.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c8175d104aa0.webp",
+          "u": "assets/vn/portraits/portrait-satoshi-fukazawa-f116-01.webp",
           "s": "l"
         }
       ]
@@ -11539,7 +11539,7 @@
       "en": "“Can we really trust him? Feels like he must be after something.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-14806954c5d3.webp",
+          "u": "assets/vn/portraits/portrait-takashi-mibuya-f019-02.webp",
           "s": "l"
         }
       ]
@@ -11554,7 +11554,7 @@
       "en": "Only after every sound of <tips=14>Fukazawa</tips> has faded does the silent <tips=33>Takashi Mibuya</tips> speak, scowling.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-14806954c5d3.webp",
+          "u": "assets/vn/portraits/portrait-takashi-mibuya-f019-02.webp",
           "s": "l"
         }
       ]
@@ -11569,7 +11569,7 @@
       "en": "“<tips=14>Fukazawa</tips> of the complex is famous for keeping his word. Whatever his private motives, he'll stay with us until the <tips=47>Liberation Army</tips> is gone. After that, I make no promises.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-14806954c5d3.webp",
+          "u": "assets/vn/portraits/portrait-takashi-mibuya-f019-02.webp",
           "s": "l"
         }
       ]
@@ -11584,7 +11584,7 @@
       "en": "“Disturbing people. I don't understand them.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-14806954c5d3.webp",
+          "u": "assets/vn/portraits/portrait-takashi-mibuya-f019-02.webp",
           "s": "l"
         }
       ]
@@ -11599,7 +11599,7 @@
       "en": "<tips=33>Mibuya</tips> shrugs and sighs. I neither agree nor disagree. The silence makes him uncomfortable; he mutters an excuse about forgotten work and leaves.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-14806954c5d3.webp",
+          "u": "assets/vn/portraits/portrait-takashi-mibuya-f019-02.webp",
           "s": "l"
         }
       ]
@@ -11612,7 +11612,7 @@
       "se": "",
       "jp": "　<tips=30>レイレイ</tips>と<tips=40>黄姉妹</tips>にも下がらせ、一人になると僕は自分の携帯電話を見た。",
       "en": "I dismiss <tips=30>Reirei</tips> and the <tips=40>Wong sisters</tips>. Alone, I look at my phone.",
-      "bg": "assets/vn/backgrounds/bg-9317b00d7f49.webp"
+      "bg": "assets/vn/backgrounds/background-a6c.webp"
     },
     {
       "id": "X16:1378",
@@ -11811,7 +11811,7 @@
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>が消息を絶ってから二日後、<tips=7>ＹＳ</tips>は<tips=57>滑走路通り</tips>にモニターを引き出し、五分ほどの短い映像を映し出した。",
       "en": "Two days after <tips=20>Koschei</tips> disappeared, <tips=7>YS</tips> rolled monitors onto <tips=57>Runway Street</tips> and screened a five-minute video.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     },
     {
       "id": "X16:1417",
@@ -11875,7 +11875,7 @@
       "se": "",
       "jp": "　彼女たち三人は、<tips=7>ＹＳ</tips><tips=81>龍頭</tips><tips=1>謝亮</tips>の命によって処刑され、遺体は通例通り<tips=59>暗闇通り</tips>の裏路地に放置された。",
       "en": "All three women were executed on the order of <tips=7>YS</tips>'s <tips=81>Longtou</tips>, <tips=1>Xie Liang</tips>. As custom demanded, their bodies were left in a back alley on <tips=59>Darkness Street</tips>.",
-      "bg": "assets/vn/backgrounds/bg-3e917cd04648.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り.webp"
     },
     {
       "id": "X16:1426",
@@ -11930,7 +11930,7 @@
       "se": "",
       "jp": "　とまれ、<tips=47>解放軍</tips>の消滅、そして<tips=21>八龍会</tips>の吸収により<tips=7>ＹＳ</tips>のこの街における支配力はかつてないほどに高まることになる。",
       "en": "Whatever the truth, the destruction of the <tips=47>Liberation Army</tips> and absorption of the <tips=21>Dragon Club</tips> gave <tips=7>YS</tips> more control over the City than ever before.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "X16:1434",
