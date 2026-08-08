@@ -144,8 +144,9 @@ mark { padding: 0; background: #f4e9b8; color: inherit; }
 .english-reader-mode .has-speaker { margin-top: 2.15em; }
 .english-reader-mode .reader-background { display: block; width: 100%; margin: 3.1em 0 3.3em; padding: 6px; border: 1px solid var(--line-strong); background: var(--surface); box-shadow: 0 10px 28px rgb(0 0 0 / 8%); }
 .english-reader-mode .reader-background img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border: 1px solid var(--line); background: var(--paper); object-fit: cover; }
-.english-reader-mode .reader-portrait-stage { display: block; }
-.reader-portrait-margin { position: fixed; z-index: 5; bottom: 24px; display: flex; width: min(250px, calc((100vw - 780px) / 2 - 24px)); height: min(64vh, 620px); min-height: 320px; align-items: flex-end; justify-content: center; overflow: hidden; padding: 10px 8px 0; border: 1px solid var(--line-strong); background: linear-gradient(to bottom, rgb(250 250 250 / 78%), rgb(238 242 247 / 96%)); box-shadow: 0 10px 28px rgb(0 0 0 / 10%); pointer-events: none; }
+.english-reader-mode .reader-shell { position: relative; }
+.english-reader-mode .reader-portrait-stage { position: absolute; top: 0; left: 50%; display: block; width: 100vw; height: 100%; transform: translateX(-50%); pointer-events: none; }
+.reader-portrait-margin { position: absolute; z-index: 5; display: flex; width: min(250px, calc((100vw - 780px) / 2 - 24px)); min-width: 0; aspect-ratio: 1; align-items: flex-end; justify-content: center; overflow: hidden; padding: 8px 7px 0; border: 1px solid var(--line-strong); background: linear-gradient(to bottom, rgb(250 250 250 / 78%), rgb(238 242 247 / 96%)); box-shadow: 0 10px 28px rgb(0 0 0 / 10%); pointer-events: none; }
 .reader-portrait-margin:empty { visibility: hidden; }
 .reader-portrait-left { right: calc(50% + 414px); }
 .reader-portrait-right { left: calc(50% + 414px); }

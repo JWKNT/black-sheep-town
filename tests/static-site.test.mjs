@@ -240,6 +240,11 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /elements\.endNextChapter\.addEventListener/);
   assert.match(app, /function makeBackgroundFigure/);
   assert.match(app, /function updatePortraitStage/);
+  assert.match(app, /portrait\.s === "l"/);
+  assert.match(app, /portrait\.s === "r"/);
+  assert.match(app, /candidate\.s === "c"/);
+  assert.match(app, /if \(!articles\.length\)/);
+  assert.doesNotMatch(app, /portrait\.s === "c" \? \(index % 2/);
   assert.doesNotMatch(app, /\bportraitSignature\b/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
@@ -277,12 +282,20 @@ test("reader visual data resolves to exported game artwork", async () => {
           /^assets\/vn\/portraits\/portrait-[a-z0-9-]+-f\d{3}-[^/]+\.webp$/,
         );
         assert.ok(["l", "r", "c"].includes(portrait.s));
+        assert.ok(["fl", "l", "c", "r", "fr"].includes(portrait.x));
+        assert.ok(["t", "m", "b"].includes(portrait.y));
         artworkPaths.add(portrait.u);
       }
     }
   }
   assert.ok(backgroundChanges > 800);
   assert.ok(portraitStates > 20_000);
+  const a21 = JSON.parse(await readFile(new URL("data/chapters/A2-1.json", root), "utf8"));
+  const firstChrisAppearance = a21.lines.find((line) => line.id === "A2-1:0219");
+  assert.ok(
+    firstChrisAppearance.p?.some((portrait) => portrait.x === "c"),
+    "blank in-game character events must carry into the next translated line",
+  );
   await Promise.all([...artworkPaths].map((path) => readFile(new URL(path, root))));
 });
 

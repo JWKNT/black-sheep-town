@@ -773,7 +773,21 @@
       "se": "",
       "jp": "　見慣れぬ金髪の少女が<tips=44>筱喬</tips>の腕を掴んでいる。そしてその足元には血みどろの腕が、頭が、バラバラになった死体が転がっている。……さっきの革ジャンボディーガード。",
       "en": "An unfamiliar blond girl has <tips=44>Xiaoqiao</tips> by the arm. At their feet lie a blood-soaked arm, a head, pieces of a body... the bodyguard in the leather jacket.",
-      "bg": "assets/vn/backgrounds/background-裏路地.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0122",
@@ -782,7 +796,21 @@
       "sj": "",
       "se": "",
       "jp": "　目を離したのは一瞬のはずなのに、こんな惨状になってしまっているのはなぜ？",
-      "en": "I only looked away for an instant. How did it turn into this?"
+      "en": "I only looked away for an instant. How did it turn into this?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0123",
@@ -791,7 +819,21 @@
       "sj": "",
       "se": "",
       "jp": "　心臓の鼓動が激しくなる私の目の前で、少女は<tips=44>筱喬</tips>にしがみつこうとし、<tips=44>筱喬</tips>はそれを振りほどいて逃げようとし、もみ合うような格好になっている。",
-      "en": "My heart pounds as the girl tries to cling to <tips=44>Xiaoqiao</tips> and <tips=44>Xiaoqiao</tips> fights to break free and run. They're locked together, struggling."
+      "en": "My heart pounds as the girl tries to cling to <tips=44>Xiaoqiao</tips> and <tips=44>Xiaoqiao</tips> fights to break free and run. They're locked together, struggling.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0124",
@@ -800,7 +842,21 @@
       "sj": "",
       "se": "",
       "jp": "　どうしよう？　どうしよう？　考えていると、ついに少女が<tips=44>筱喬</tips>を抱きかかえるような姿勢をとり、そして次の瞬間、二人の姿は細い木の枝に変身した。",
-      "en": "What do I do? What do I do? As I hesitate, the girl finally wraps both arms around <tips=44>Xiaoqiao</tips>. The next instant, both of them turn into a slender tree branch."
+      "en": "What do I do? What do I do? As I hesitate, the girl finally wraps both arms around <tips=44>Xiaoqiao</tips>. The next instant, both of them turn into a slender tree branch.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0126",
@@ -827,7 +883,21 @@
       "sj": "",
       "se": "",
       "jp": "　移動するところが見えなかった。瞬間移動か？",
-      "en": "I never saw them move. Teleportation?"
+      "en": "I never saw them move. Teleportation?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0131",
@@ -836,7 +906,21 @@
       "sj": "",
       "se": "",
       "jp": "　とにかく見失ってはいけない。",
-      "en": "Whatever happens, I can't lose them."
+      "en": "Whatever happens, I can't lose them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0132",
@@ -845,7 +929,21 @@
       "sj": "",
       "se": "",
       "jp": " そちらへ向かおうとすると、二人はすぐにまた消える。",
-      "en": "The moment I start toward them, they vanish again."
+      "en": "The moment I start toward them, they vanish again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0134",
@@ -1091,7 +1189,21 @@
       "sj": "",
       "se": "",
       "jp": "　視線を巡らすと、林からさらに三十メートルほど離れた住宅の敷地のなかに、やはりさっきと同じようにもみあう<tips=44>筱喬</tips>と少女の姿を見つける。少女の方は血まみれで、それが<tips=44>筱喬</tips>の白い服を汚している。",
-      "en": "I scan the ground and find them on a residential property another thirty meters beyond the grove: <tips=44>Xiaoqiao</tips> and the girl, grappling exactly as before. The girl is drenched in blood, and it stains <tips=44>Xiaoqiao</tips>'s white clothes."
+      "en": "I scan the ground and find them on a residential property another thirty meters beyond the grove: <tips=44>Xiaoqiao</tips> and the girl, grappling exactly as before. The girl is drenched in blood, and it stains <tips=44>Xiaoqiao</tips>'s white clothes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0178",
@@ -1100,7 +1212,21 @@
       "sj": "",
       "se": "",
       "jp": "　――これを、誰か助けが来るまで見守っているなんて、私には出来ないな。",
-      "en": "—I can't simply watch this until help comes."
+      "en": "—I can't simply watch this until help comes.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0179",
@@ -1109,7 +1235,21 @@
       "sj": "",
       "se": "",
       "jp": "　やっぱり、救出作戦と行くか。",
-      "en": "A rescue mission it is."
+      "en": "A rescue mission it is.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0180",
@@ -1118,7 +1258,21 @@
       "sj": "",
       "se": "",
       "jp": "　相手の能力がある程度わかったような気がするが、やっぱり私の能力ではかなり分が悪い。",
-      "en": "I think I understand her ability now. Even so, mine leaves me at a severe disadvantage."
+      "en": "I think I understand her ability now. Even so, mine leaves me at a severe disadvantage.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0181",
@@ -1127,7 +1281,21 @@
       "sj": "",
       "se": "",
       "jp": "　単純な移動力でも負けているし、こちらは殺傷力など皆無なのに比べて相手は一撃必殺だ。まともにやったら勝ち目がない。――ボディーガードは拳銃を持っていたはずだ。あれを持ってくればよかっただろうか？　いや、今からでも引き返してとってくる？",
-      "en": "Even in pure mobility, she has me beat. I can't kill anything; she kills in a single strike. Face her head-on and I have no chance. The bodyguard must have carried a pistol. Should I have taken it? No, should I turn back for it now?"
+      "en": "Even in pure mobility, she has me beat. I can't kill anything; she kills in a single strike. Face her head-on and I have no chance. The bodyguard must have carried a pistol. Should I have taken it? No, should I turn back for it now?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0182",
@@ -1136,7 +1304,21 @@
       "sj": "",
       "se": "",
       "jp": "　一瞬迷ったけれども、やっぱりいらない。そんなことをしてる間に完全に相手を見失ってしまうかもしれないし、そもそも、ゲームのなかでしか銃を使ったことがない私に上手く扱えるはずもない。当たるはずもない拳銃に頼るのは危険だ。",
-      "en": "I hesitate for an instant, then reject the idea. I could lose them completely while I'm gone. More importantly, I've only ever fired guns in games. There is no reason to think I could handle a real one. Depending on a pistol I can't hit anything with would be dangerous."
+      "en": "I hesitate for an instant, then reject the idea. I could lose them completely while I'm gone. More importantly, I've only ever fired guns in games. There is no reason to think I could handle a real one. Depending on a pistol I can't hit anything with would be dangerous.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0183",
@@ -1145,7 +1327,21 @@
       "sj": "",
       "se": "",
       "jp": "　いまの私が相手に勝っているところを探そう。まず、こちらが先に相手を見つけている上に、その能力も既に見せて貰っている。これはとても大事なアドバンテージだ。戦局を左右するのはいつだって情報だ。私が普段やっているゲームだったら、先に相手を見つけた方がほぼ勝利する。",
-      "en": "Find where I have the advantage. First, I saw her before she saw me, and I've already watched her use her ability. That's extremely valuable. Information always decides a battle. In the games I play, the person who spots the opponent first almost always wins."
+      "en": "Find where I have the advantage. First, I saw her before she saw me, and I've already watched her use her ability. That's extremely valuable. Information always decides a battle. In the games I play, the person who spots the opponent first almost always wins.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0184",
@@ -1154,7 +1350,21 @@
       "sj": "",
       "se": "",
       "jp": "　ゲームなら躊躇なく攻撃するところだ。だって、もたもたすればするほど、相手が情報を得る確率が高くなり、せっかく得たアドバンテージが失われるだけだからね。――でも、ゲームのように見つけた敵をボタン一つで即射殺する力は現実の私にはないのだ。そもそも攻撃の手段自体がない。",
-      "en": "In a game, I would attack immediately. The longer you hesitate, the greater the chance the enemy learns something, and the more of your advantage you throw away. But in real life, I can't press a button and shoot an enemy dead the moment I spot them. I have no way to attack at all."
+      "en": "In a game, I would attack immediately. The longer you hesitate, the greater the chance the enemy learns something, and the more of your advantage you throw away. But in real life, I can't press a button and shoot an enemy dead the moment I spot them. I have no way to attack at all.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0185",
@@ -1163,7 +1373,21 @@
       "sj": "",
       "se": "",
       "jp": "　戦闘を避けて、うまく<tips=44>筱喬</tips>だけを連れ去れればベストなのだが、ああもみ合っているのを、どうやって引き剥がすか。それとも、うまく攻撃するべきなのか？",
-      "en": "The best answer is to avoid a fight and carry off <tips=44>Xiaoqiao</tips> alone. But how do I pry them apart while they're grappling like that? Or should I somehow attack?"
+      "en": "The best answer is to avoid a fight and carry off <tips=44>Xiaoqiao</tips> alone. But how do I pry them apart while they're grappling like that? Or should I somehow attack?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0186",
@@ -1172,7 +1396,21 @@
       "sj": "",
       "se": "",
       "jp": "　それほど長く悩んでいたわけではないが、考えている間に二人の姿はまた消える。そして今度はむこうの路地裏に現れた。金髪の少女は<tips=44>筱喬</tips>にしがみつきながら、ぜえぜえはあはあと肩で息をしている。",
-      "en": "I don't deliberate for long, but they vanish again before I decide. This time they appear in an alley across the way. The blond girl clings to <tips=44>Xiaoqiao</tips>, shoulders heaving as she gasps for air."
+      "en": "I don't deliberate for long, but they vanish again before I decide. This time they appear in an alley across the way. The blond girl clings to <tips=44>Xiaoqiao</tips>, shoulders heaving as she gasps for air.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0187",
@@ -1181,7 +1419,21 @@
       "sj": "",
       "se": "",
       "jp": "　能力を使えば、多かれ少なかれ体力を使う。あのサイキックがどれくらいの体力で、どれくらいの距離を移動出来るのかは知らない。しかし、すぐに次の移動をせずに、休憩を挟みながら飛んでいるところを見ると、今はフルに能力を使える体力がないのかもしれない。",
-      "en": "Using an ability always costs some stamina. I don't know how much stamina this psychic has or how far she can jump. But she rests between jumps instead of moving again at once. Maybe she's too exhausted to use her full power now."
+      "en": "Using an ability always costs some stamina. I don't know how much stamina this psychic has or how far she can jump. But she rests between jumps instead of moving again at once. Maybe she's too exhausted to use her full power now.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0188",
@@ -1190,7 +1442,21 @@
       "sj": "",
       "se": "",
       "jp": "　さっきも今回も移動距離は三十メートル前後だった。そのあたりが、今のあいつの移動限界――つまり攻撃範囲と考えていいのだろうか？　――一度の能力使用によって移動出来る距離がその程度で、しかも使うごとに休憩が必要ならば、私の能力が全面的に劣っているわけでもないのかな。私はある程度の速度までならほとんど疲れない。限界まで速度を出せば多少は疲労するが、疲れたとしても降りる必要がなく、ゆっくり飛んだまま回復することが出来る。とにかく燃費がいい。",
-      "en": "Both jumps covered about thirty meters. Can I treat that as her current limit—and thus her attack range? If each use takes her only that far and she has to rest afterward, maybe my ability isn't inferior in every way. Up to a certain speed, I barely get tired. Going all-out wears me down some, but even then I don't need to land; I can recover while flying slowly. The fuel economy is excellent."
+      "en": "Both jumps covered about thirty meters. Can I treat that as her current limit—and thus her attack range? If each use takes her only that far and she has to rest afterward, maybe my ability isn't inferior in every way. Up to a certain speed, I barely get tired. Going all-out wears me down some, but even then I don't need to land; I can recover while flying slowly. The fuel economy is excellent.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0189",
@@ -1199,7 +1465,21 @@
       "sj": "",
       "se": "",
       "jp": "　つまり、<tips=44>筱喬</tips>を奪還した後、なんとか相手の一撃必殺の距離を脱してマラソンに持ち込むことが出来れば、そのまま私が逃げ切れるということだ。",
-      "en": "In other words, once I take <tips=44>Xiaoqiao</tips> back, if I can somehow escape the girl's one-hit-kill range and turn this into a marathon, I can outrun her."
+      "en": "In other words, once I take <tips=44>Xiaoqiao</tips> back, if I can somehow escape the girl's one-hit-kill range and turn this into a marathon, I can outrun her.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0190",
@@ -1208,7 +1488,21 @@
       "sj": "",
       "se": "",
       "jp": "　もちろん、どうやって<tips=44>筱喬</tips>を手に入れて、そこまで離れられるかが一番の問題なんだけれども――。",
-      "en": "Of course, the real problem is how to grab <tips=44>Xiaoqiao</tips> and get that far away—"
+      "en": "Of course, the real problem is how to grab <tips=44>Xiaoqiao</tips> and get that far away—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0191",
@@ -1217,7 +1511,21 @@
       "sj": "",
       "se": "",
       "jp": "　そう考えている間に、彼女はまたジャンプする。そして、別の裏路地に姿を現す。人気のないところを選んでいるあたり、ある程度の土地勘はあるのだろう。――こっちの方向は、<tips=59>暗闇通り</tips>に向かってる？",
-      "en": "While I think, she jumps again and appears in another back alley. Choosing deserted places suggests she knows the area reasonably well... Are they heading toward <tips=59>Darkness Street</tips>?"
+      "en": "While I think, she jumps again and appears in another back alley. Choosing deserted places suggests she knows the area reasonably well... Are they heading toward <tips=59>Darkness Street</tips>?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0192",
@@ -1226,7 +1534,21 @@
       "sj": "",
       "se": "",
       "jp": "　このまま空から尾行して、相手のアジトを見つけ、そこで油断したところにしかけるというのは？　――いや、それはよくない。狭い屋内ではこちらの能力が活かせず、あきらかに相手が有利だ。不意打ちで相手を行動不能に出来るのなら別だが――ああ、それをやるんだったら拳銃を持って来れば良かったな。でも、ない以上はこれでやるしかない。――とにかく、仕掛けるなら開けた場所だ。そうじゃないと、逃げ切ることさえ出来ない。とすると、助け出すのなら、辿り着く前にしかけなくちゃいけないのか――。",
-      "en": "What if I follow from the air, find her hideout, then strike once she lets her guard down? No. Bad idea. I can't use my ability properly in a cramped building, and she'd have the clear advantage. An ambush might work if I could disable her at once... Ah, that would have been the time to bring the pistol. But I don't have it, so I have to use what I do have. If I make a move, it must be in the open. Otherwise I won't even be able to escape. Which means I have to rescue Xiaoqiao before they reach their destination—"
+      "en": "What if I follow from the air, find her hideout, then strike once she lets her guard down? No. Bad idea. I can't use my ability properly in a cramped building, and she'd have the clear advantage. An ambush might work if I could disable her at once... Ah, that would have been the time to bring the pistol. But I don't have it, so I have to use what I do have. If I make a move, it must be in the open. Otherwise I won't even be able to escape. Which means I have to rescue Xiaoqiao before they reach their destination—",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0193",
@@ -1235,7 +1557,21 @@
       "sj": "",
       "se": "",
       "jp": "　きっと、アジトを発見出来るのなら、そのまま見張って<tips=7>ＹＳ</tips>の誰かに連絡をするというのが一番確実なんだろうけれど、でも、救出が来る前にアジトで<tips=44>筱喬</tips>が殺されるようなことになったら、おそらく私はもう一生立ち直れない。私が失敗しても、きっと、私が死ぬだけで済む。",
-      "en": "If I find the hideout, the safest plan is probably to keep watch and contact someone from <tips=7>YS</tips>. But if <tips=44>Xiaoqiao</tips> is killed before help arrives, I will never recover. If my own plan fails, surely I'm the only one who has to die."
+      "en": "If I find the hideout, the safest plan is probably to keep watch and contact someone from <tips=7>YS</tips>. But if <tips=44>Xiaoqiao</tips> is killed before help arrives, I will never recover. If my own plan fails, surely I'm the only one who has to die.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0194",
@@ -1244,7 +1580,21 @@
       "sj": "",
       "se": "",
       "jp": "　やっぱり、やるしかないな。",
-      "en": "I have to do it."
+      "en": "I have to do it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0195",
@@ -1253,7 +1603,21 @@
       "sj": "",
       "se": "",
       "jp": "　私は自分の予想を信じて、三十メートル前後の距離を意識しながら、空中からもみ合う二人に近づいた。",
-      "en": "Trusting my estimate and keeping that thirty-meter range in mind, I approach the struggling pair through the air."
+      "en": "Trusting my estimate and keeping that thirty-meter range in mind, I approach the struggling pair through the air.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0196",
@@ -1262,7 +1626,21 @@
       "sj": "",
       "se": "",
       "jp": "　三十メートルは相当近い。けれども、人はなかなか頭上を警戒しないものだし、この雨空では私の影が落ちることもない。",
-      "en": "Thirty meters is awfully close. But people rarely watch the sky above them, and in this rain I cast no shadow."
+      "en": "Thirty meters is awfully close. But people rarely watch the sky above them, and in this rain I cast no shadow.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0197",
@@ -1271,7 +1649,21 @@
       "sj": "",
       "se": "",
       "jp": "　雨はいつだって私の味方だ。視界を悪くして私の姿を隠し、大地を濡らして私の身体から流れ落ちる液体を隠してくれる。",
-      "en": "Rain is always on my side. It hides me behind poor visibility, wets the ground, and conceals the fluid dripping from my body."
+      "en": "Rain is always on my side. It hides me behind poor visibility, wets the ground, and conceals the fluid dripping from my body.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0198",
@@ -1280,7 +1672,21 @@
       "sj": "",
       "se": "",
       "jp": "　とは言え、何かの拍子に少女が見上げればすぐに気がつくだろう。そして気づかれたらもう近づくことは出来ない。一種の賭けだが、しかしこうしなければ<tips=44>筱喬</tips>を助け出すことは出来ない。",
-      "en": "Still, one glance upward and she'll notice me. Once she does, I'll never get close again. It's a gamble, but I can't rescue <tips=44>Xiaoqiao</tips> without taking it."
+      "en": "Still, one glance upward and she'll notice me. Once she does, I'll never get close again. It's a gamble, but I can't rescue <tips=44>Xiaoqiao</tips> without taking it.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0201",
@@ -1289,7 +1695,21 @@
       "sj": "",
       "se": "",
       "jp": "　近くにあった建物の屋上におりたち、床にしゃがみ込んで半分姿を隠すようにして二人を観察する。",
-      "en": "I land on a nearby roof, crouch low enough to hide half my body, and watch them."
+      "en": "I land on a nearby roof, crouch low enough to hide half my body, and watch them.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0202",
@@ -1298,7 +1718,21 @@
       "sj": "",
       "se": "",
       "jp": "　すぐにチャンスはやって来る。",
-      "en": "My chance comes almost immediately."
+      "en": "My chance comes almost immediately.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
+        }
+      ]
     },
     {
       "id": "D2:0203",
@@ -1310,8 +1744,16 @@
       "en": "“Stop!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1325,8 +1767,16 @@
       "en": "<tips=44>Xiaoqiao</tips> cries out and shoves the girl away with both arms.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-maria-f024-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1340,8 +1790,10 @@
       "en": "The force is far greater than I expected. The girl goes flying into the wall behind her. Wow. I had no idea Xiaoqiao was that strong!",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1355,8 +1807,10 @@
       "en": "<tips=44>Xiaoqiao</tips> spins on one heel and sprints toward the car where she left her companions. The girl is struggling to stand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1370,8 +1824,10 @@
       "en": "Now! I'm not remotely ready, but I fly at <tips=44>Xiaoqiao</tips> with everything I have.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1385,8 +1841,10 @@
       "en": "<tips=44>Xiaoqiao</tips> runs shockingly fast. I fly faster.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1400,8 +1858,10 @@
       "en": "“<tips=44>Xiaoqiao</tips>!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1415,8 +1875,10 @@
       "en": "I call her name as I close in. She turns.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1430,8 +1892,10 @@
       "en": "Her eyes shine gold, proof that her <tips=17>Type B</tips> power is active.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1445,8 +1909,10 @@
       "en": "Of course. That explains how she threw the girl so far and can run this fast.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1460,8 +1926,10 @@
       "en": "“Saku—mmf!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1475,8 +1943,10 @@
       "en": "I slow down slightly and catch her with both arms. Even so, the impact jars me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1490,8 +1960,10 @@
       "en": "As I pull her close, <tips=44>Xiaoqiao</tips> smells of the other girl's blood.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "c"
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -1611,7 +2083,15 @@
       "sj": "",
       "se": "",
       "jp": "　私の右足があんなところにすっ飛んだということは、かわりに相手がその場所にやって来たということだ。",
-      "en": "If my right foot flew to that spot, then she must have come here in exchange."
+      "en": "If my right foot flew to that spot, then she must have come here in exchange.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0243",
@@ -1620,7 +2100,15 @@
       "sj": "",
       "se": "",
       "jp": "　すぐ目の前に少女がいる。その金髪の少女は、<tips=44>筱喬</tips>と甲乙付けがたいほどに美しい。そして私を見るその瞳は、やはり<tips=44>筱喬</tips>のように金色に輝いていた。",
-      "en": "The girl is right in front of me. This blond child is so beautiful I couldn't choose between her and <tips=44>Xiaoqiao</tips>. Her eyes, like <tips=44>Xiaoqiao</tips>'s, shine gold."
+      "en": "The girl is right in front of me. This blond child is so beautiful I couldn't choose between her and <tips=44>Xiaoqiao</tips>. Her eyes, like <tips=44>Xiaoqiao</tips>'s, shine gold.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0244",
@@ -1629,7 +2117,15 @@
       "sj": "",
       "se": "",
       "jp": "　ハイブリッド！",
-      "en": "A hybrid!"
+      "en": "A hybrid!",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0245",
@@ -1638,7 +2134,15 @@
       "sj": "",
       "se": "",
       "jp": "「ひっ」",
-      "en": "“Eek!”"
+      "en": "“Eek!”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0246",
@@ -1647,7 +2151,15 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=44>筱喬</tips>が悲鳴を上げる。私は彼女を強く抱きしめる。",
-      "en": "<tips=44>Xiaoqiao</tips> screams. I crush her against me."
+      "en": "<tips=44>Xiaoqiao</tips> screams. I crush her against me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0247",
@@ -1656,7 +2168,15 @@
       "sj": "",
       "se": "",
       "jp": "　相手は、その気になれば連続して能力を使えるのだ。まあ、たまたま見たものに全てを賭けた私の考えが甘かったのだろう。だが、ラッキーだ。",
-      "en": "So the girl can use her ability twice in a row when she needs to. I suppose staking everything on a few chance observations was naïve. But I got lucky."
+      "en": "So the girl can use her ability twice in a row when she needs to. I suppose staking everything on a few chance observations was naïve. But I got lucky.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0248",
@@ -1665,7 +2185,15 @@
       "sj": "",
       "se": "",
       "jp": "　二回目の移動でもまだ致命傷は与えられていない。私はまだ生きている。足はとられたがこれならまだ大丈夫だ。",
-      "en": "Even the second jump didn't kill me. I'm still alive. She took a foot, but I can survive that."
+      "en": "Even the second jump didn't kill me. I'm still alive. She took a foot, but I can survive that.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0249",
@@ -1674,7 +2202,15 @@
       "sj": "",
       "se": "",
       "jp": "　私は背筋に冷たいものを感じながら、速度を上げた。",
-      "en": "Cold runs down my spine as I force out more speed."
+      "en": "Cold runs down my spine as I force out more speed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0250",
@@ -1683,7 +2219,15 @@
       "sj": "",
       "se": "",
       "jp": "　離れなくちゃいけない。とにかく私に出来ることは、全力で逃げるだけだ。",
-      "en": "I have to get away. All I can do is flee at full speed."
+      "en": "I have to get away. All I can do is flee at full speed.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0251",
@@ -1692,7 +2236,15 @@
       "sj": "",
       "se": "",
       "jp": "　二回目の移動は、距離的には私を殺すのに充分だった。ただ、移動した場所がすこしズレていたから足一本で助かったのである。私の早さを捕捉出来なかったのか、彼女の能力自体が、それほど精度がないものなのかはわからない。もしくは、どうしても<tips=44>筱喬</tips>を殺したくなかったから中途半端な結果になったのか。何にしろ、とにかく外したのだ。もし三回目があっても、また外す可能性もある。",
-      "en": "The second jump carried her far enough to kill me. I lost only a foot because her destination was slightly off. Maybe she couldn't track my speed; maybe her ability isn't that precise; maybe refusing to kill <tips=44>Xiaoqiao</tips> spoiled her aim. Whatever the reason, she missed. If there is a third attempt, she might miss again."
+      "en": "The second jump carried her far enough to kill me. I lost only a foot because her destination was slightly off. Maybe she couldn't track my speed; maybe her ability isn't that precise; maybe refusing to kill <tips=44>Xiaoqiao</tips> spoiled her aim. Whatever the reason, she missed. If there is a third attempt, she might miss again.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-maria-f024-05.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "D2:0253",
@@ -1814,7 +2366,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -1829,7 +2383,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -1844,7 +2400,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-07.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -1859,7 +2417,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-06.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -1874,7 +2434,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-06.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -1889,7 +2451,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-06.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2004,7 +2568,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2019,7 +2585,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2034,7 +2602,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2049,7 +2619,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2064,7 +2636,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2079,7 +2653,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2094,7 +2670,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         }
       ]
     },
@@ -2109,11 +2687,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2128,11 +2710,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2147,11 +2733,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2166,11 +2756,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2185,11 +2779,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2204,11 +2802,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2223,11 +2825,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2242,11 +2848,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2261,11 +2871,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2280,11 +2894,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2299,11 +2917,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2318,11 +2940,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2337,11 +2963,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2356,11 +2986,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2375,11 +3009,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2394,11 +3032,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2413,11 +3055,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2432,11 +3078,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2451,11 +3101,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2470,11 +3124,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2489,11 +3147,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2508,11 +3170,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2527,11 +3193,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2546,11 +3216,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2565,11 +3239,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2584,11 +3262,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2603,11 +3285,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2622,11 +3308,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2641,11 +3331,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2660,11 +3354,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2679,11 +3377,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2698,11 +3400,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2717,11 +3423,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
         },
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -2754,7 +3464,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2769,7 +3481,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2784,7 +3498,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2799,7 +3515,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2814,7 +3532,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2829,7 +3549,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2844,7 +3566,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2859,7 +3583,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2874,7 +3600,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2889,7 +3617,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2904,7 +3634,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2919,7 +3651,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2934,7 +3668,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2949,7 +3685,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2964,7 +3702,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2979,7 +3719,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -2994,7 +3736,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3009,7 +3753,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3024,7 +3770,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3039,7 +3787,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3054,7 +3804,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3069,7 +3821,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3084,7 +3838,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3099,7 +3855,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3114,7 +3872,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3129,7 +3889,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3144,7 +3906,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3159,7 +3923,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3174,7 +3940,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3189,7 +3957,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3204,7 +3974,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3219,7 +3991,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3234,7 +4008,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3249,7 +4025,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3264,7 +4042,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3279,7 +4059,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3294,7 +4076,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3309,7 +4093,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3324,7 +4110,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3339,7 +4127,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3354,7 +4144,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3369,7 +4161,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3384,7 +4178,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f094-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3399,7 +4195,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f094-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3423,7 +4221,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3438,7 +4238,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -3453,11 +4255,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3472,11 +4278,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3491,11 +4301,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3510,11 +4324,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3529,11 +4347,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3548,11 +4370,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3567,11 +4393,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3586,11 +4416,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3605,11 +4439,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3624,11 +4462,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3643,11 +4485,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3662,11 +4508,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3681,11 +4531,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3700,11 +4554,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3719,11 +4577,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3738,11 +4600,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3757,11 +4623,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3776,11 +4646,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3795,11 +4669,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3814,11 +4692,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3833,11 +4715,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3852,11 +4738,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3871,11 +4761,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3890,11 +4784,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3909,11 +4807,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3928,11 +4830,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3947,11 +4853,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3966,11 +4876,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -3985,11 +4899,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4004,11 +4922,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4023,11 +4945,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4042,11 +4968,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4061,11 +4991,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4080,11 +5014,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4099,11 +5037,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4118,11 +5060,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4137,11 +5083,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4156,11 +5106,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4175,11 +5129,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4194,11 +5152,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4213,11 +5175,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4232,11 +5198,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4251,11 +5221,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4270,11 +5244,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4289,11 +5267,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4308,11 +5290,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4327,11 +5313,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4346,11 +5336,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4365,11 +5359,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4384,11 +5382,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4403,11 +5405,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4422,11 +5428,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4441,11 +5451,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4460,11 +5474,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4479,11 +5497,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4498,11 +5520,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4517,11 +5543,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4536,11 +5566,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4555,11 +5589,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4574,11 +5612,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4593,11 +5635,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4612,11 +5658,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4631,11 +5681,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4650,11 +5704,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4669,11 +5727,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4688,11 +5750,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4707,11 +5773,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4726,11 +5796,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4745,11 +5819,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4764,11 +5842,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4783,11 +5865,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4802,11 +5888,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4821,11 +5911,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4840,11 +5934,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4859,11 +5957,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4878,11 +5980,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4897,11 +6003,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4916,11 +6026,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4935,11 +6049,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4954,11 +6072,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4973,11 +6095,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -4992,11 +6118,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5011,11 +6141,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5030,7 +6164,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5045,7 +6181,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5060,7 +6198,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         }
       ]
     },
@@ -5075,11 +6215,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5094,11 +6238,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5113,11 +6261,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5132,11 +6284,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5151,11 +6307,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5170,11 +6330,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5189,11 +6353,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     },
@@ -5208,11 +6376,15 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "m"
         },
         {
           "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "m"
         }
       ]
     }

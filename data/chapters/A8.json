@@ -407,7 +407,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -422,7 +424,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -437,7 +441,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -452,7 +458,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -467,7 +475,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -482,7 +492,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -575,7 +587,33 @@
       "sj": "",
       "se": "",
       "jp": "　ジャンがいなくなった後、<tips=41>グランドタワー</tips>最上階の僕の執務室に残ったのは、<tips=25>世傑</tips>と<tips=30>レイレイ</tips>と<tips=40>黄姉妹</tips>だった。彼らは僕が組織に加わった直後から支えてくれた、信頼出来る仲間たちだ。",
-      "en": "Once Jean is gone, the only people left in my office at the top of <tips=41>Grand Tower</tips> are <tips=25>Saiki</tips>, <tips=30>Reirei</tips>, and the <tips=40>Wong sisters</tips>. They are trusted companions who have supported me almost from the moment I joined the organization."
+      "en": "Once Jean is gone, the only people left in my office at the top of <tips=41>Grand Tower</tips> are <tips=25>Saiki</tips>, <tips=30>Reirei</tips>, and the <tips=40>Wong sisters</tips>. They are trusted companions who have supported me almost from the moment I joined the organization.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0110",
@@ -584,7 +622,33 @@
       "sj": "",
       "se": "",
       "jp": "　僕の喉が渇いたのを見計らって、<tips=30>レイレイ</tips>が湯気の立つコーヒーを運んでくれる。",
-      "en": "Noticing that I am thirsty, <tips=30>Reirei</tips> brings me a steaming cup of coffee."
+      "en": "Noticing that I am thirsty, <tips=30>Reirei</tips> brings me a steaming cup of coffee.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0111",
@@ -593,7 +657,33 @@
       "sj": "",
       "se": "",
       "jp": "　まだ日が高く、もちろん今日の仕事はこれで終わりではない。<tips=10>見土道夫</tips>が死んで、この街の情勢はまた変化しようとしている。それに対応して僕の仕事は増えていたし、いまの<tips=34>ダリオ</tips>の件のような<tips=7>ＹＳ</tips>内部の仕事もある。簡単に片付くものもあれば、そうでないものもある。",
-      "en": "The sun is still high. Naturally, the day's work is nowhere near over. With <tips=10>Michio Mido</tips> dead, the balance of power in the City is shifting once again, and responding to it has added to my workload. Then there are affairs like this one with <tips=34>Dario</tips> inside <tips=7>YS</tips>. Some are easy to settle. Others are not."
+      "en": "The sun is still high. Naturally, the day's work is nowhere near over. With <tips=10>Michio Mido</tips> dead, the balance of power in the City is shifting once again, and responding to it has added to my workload. Then there are affairs like this one with <tips=34>Dario</tips> inside <tips=7>YS</tips>. Some are easy to settle. Others are not.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0112",
@@ -602,7 +692,33 @@
       "sj": "",
       "se": "",
       "jp": "　しばらくして、氷川という日本人の青年が入って来た。彼もジャンのようにノートパソコンを小脇に抱えている。そう、彼には別の動画の編集を依頼していたのだ。",
-      "en": "After a while, a young Japanese man named Hikawa enters with a laptop tucked beneath one arm, much as Jean carried his. I asked him to edit a different video."
+      "en": "After a while, a young Japanese man named Hikawa enters with a laptop tucked beneath one arm, much as Jean carried his. I asked him to edit a different video.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0113",
@@ -611,7 +727,33 @@
       "sj": "",
       "se": "",
       "jp": "　まったく、僕はいつから動画制作者になったのだろうか？",
-      "en": "When, exactly, did I become a video producer?"
+      "en": "When, exactly, did I become a video producer?",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0114",
@@ -620,7 +762,33 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、今度の動画は今の<tips=34>ダリオ</tips>の動画よりもよほど重要で、そして慎重に扱わなくてはいけないものだった。",
-      "en": "This recording, however, is far more important than <tips=34>Dario</tips>'s and demands far greater care."
+      "en": "This recording, however, is far more important than <tips=34>Dario</tips>'s and demands far greater care.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0115",
@@ -629,7 +797,33 @@
       "sj": "",
       "se": "",
       "jp": "　氷川は執務室の机にパソコンを開き、画面を僕に見えるようにする。",
-      "en": "Hikawa opens the laptop on my desk and turns the screen toward me."
+      "en": "Hikawa opens the laptop on my desk and turns the screen toward me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0116",
@@ -638,7 +832,33 @@
       "sj": "",
       "se": "",
       "jp": "　そこに映っているのは、どこかの広い部屋である。壁は白く、床には赤い絨毯が敷かれている。窓は軽く開かれレースのカーテンが涼しげに揺れている。そして絨毯と同じ赤い色のソファーに、三人の老人が腰掛けている。",
-      "en": "It shows a spacious room with white walls and red carpeting. Lace curtains stir in the breeze from a half-open window. Three old men sit on a sofa the same red as the carpet."
+      "en": "It shows a spacious room with white walls and red carpeting. Lace curtains stir in the breeze from a half-open window. Three old men sit on a sofa the same red as the carpet.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0117",
@@ -647,7 +867,33 @@
       "sj": "",
       "se": "",
       "jp": "　一番背の高い老人は痩せて白い肌と青い瞳を持ち、一番がっちりとした体格の老人は真っ黒な肌に大きな目をぎょろつかせ、一番小さな老人は黄土色の肌に口ひげを生やしている。",
-      "en": "The tallest is thin, white-skinned, and blue-eyed. The broadest is pitch-black, with enormous restless eyes. The smallest has ocher skin and a mustache."
+      "en": "The tallest is thin, white-skinned, and blue-eyed. The broadest is pitch-black, with enormous restless eyes. The smallest has ocher skin and a mustache.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0118",
@@ -656,7 +902,33 @@
       "sj": "",
       "se": "",
       "jp": "　彼らはつい数日前まで、この街で最も勢力のある組織の一つを支配していた。",
-      "en": "Until a few days ago, these men controlled one of the most powerful organizations in the City."
+      "en": "Until a few days ago, these men controlled one of the most powerful organizations in the City.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0119",
@@ -665,7 +937,33 @@
       "sj": "",
       "se": "",
       "jp": "　そう、彼らは<tips=21>八龍会</tips>の『<tips=22>老人たち</tips>』である。",
-      "en": "They are the <tips=21>Dragon Club</tips>'s <tips=22>Elders</tips>."
+      "en": "They are the <tips=21>Dragon Club</tips>'s <tips=22>Elders</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0120",
@@ -674,7 +972,33 @@
       "sj": "",
       "se": "",
       "jp": "　この部屋は<tips=41>グランドタワー</tips>の一室、そして撮影は今日の午前中に、僕の立ち会いのもとで行われた。",
-      "en": "The room is inside <tips=41>Grand Tower</tips>. I supervised the recording there this morning."
+      "en": "The room is inside <tips=41>Grand Tower</tips>. I supervised the recording there this morning.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "b"
+        }
+      ]
     },
     {
       "id": "a8:0130",
@@ -688,7 +1012,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
+          "s": "c",
+          "x": "c",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -703,7 +1041,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
+          "s": "c",
+          "x": "c",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -718,11 +1070,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -737,11 +1099,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -756,15 +1128,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -779,15 +1157,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -802,15 +1186,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -825,15 +1215,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -848,15 +1244,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -871,15 +1273,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -894,15 +1302,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -917,15 +1331,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -940,15 +1360,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -963,15 +1389,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -986,15 +1418,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1009,15 +1447,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1032,15 +1476,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1055,15 +1505,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1078,15 +1534,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1101,15 +1563,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1124,15 +1592,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1147,15 +1621,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1170,15 +1650,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1193,15 +1679,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1216,15 +1708,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1239,15 +1737,21 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
-          "s": "c"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
-          "s": "c"
+          "s": "c",
+          "x": "c",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
-          "s": "c"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -1488,7 +1992,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1503,7 +2009,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1518,7 +2026,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1533,7 +2043,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1548,7 +2060,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1563,7 +2077,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1578,7 +2094,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1593,7 +2111,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1608,7 +2128,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1623,7 +2145,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1638,7 +2162,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1653,7 +2179,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1668,7 +2196,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1683,7 +2213,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1698,7 +2230,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1713,7 +2247,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1728,7 +2264,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1743,7 +2281,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1758,7 +2298,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1773,7 +2315,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1788,7 +2332,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1803,7 +2349,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1818,7 +2366,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1833,7 +2383,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1848,7 +2400,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -1863,7 +2417,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2027,7 +2583,15 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=30>レイレイ</tips>が新しいコーヒーを淹れて僕の前に置いてくれる。",
-      "en": "<tips=30>Reirei</tips> makes fresh coffee and sets it before me."
+      "en": "<tips=30>Reirei</tips> makes fresh coffee and sets it before me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0239",
@@ -2036,7 +2600,15 @@
       "sj": "",
       "se": "",
       "jp": "「ありがとう。だが、今日はもうカフェインはやめておこうと思うんだ」",
-      "en": "“Thank you. But I think I've had enough caffeine for one day.”"
+      "en": "“Thank you. But I think I've had enough caffeine for one day.”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0240",
@@ -2048,8 +2620,10 @@
       "en": "“Oh, I'm sorry. I'll bring you something else.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-reirei-f051-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2154,7 +2728,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2169,7 +2745,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2184,7 +2762,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2199,7 +2779,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2214,7 +2796,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2228,12 +2812,16 @@
       "en": "“You have been very busy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2247,12 +2835,16 @@
       "en": "“That isn't quite it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2266,12 +2858,16 @@
       "en": "<tips=40>Tianming</tips> tilts her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2285,12 +2881,16 @@
       "en": "“I know this is an important time. I know I ought to concentrate. I simply can't make myself care... Tell me, do either of you eat natto?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2304,12 +2904,16 @@
       "en": "The question catches the <tips=40>Wong sisters</tips> completely off guard.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2323,12 +2927,16 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2342,12 +2950,16 @@
       "en": "“Not very often...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2361,12 +2973,16 @@
       "en": "“I see. I've loved it since I was a child... Everyone stirs natto before eating it, of course, but I was terrible at controlling my strength when I was small. Whenever I stirred it in the Styrofoam container, my chopsticks punched straight through the bottom. So I always transferred it to a dish first.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2380,12 +2996,16 @@
       "en": "“Ah.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2399,12 +3019,16 @@
       "en": "The sisters give a vague reply, still visibly at a loss. I understand perfectly, but I feel like talking, so I carry on anyway.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2418,12 +3042,16 @@
       "en": "“Then one day, after I began living alone, I didn't want another dish to wash. So I tried stirring it in the container again. I couldn't remember the last time I'd done that. And you know, I managed it without punching through. I could never do it as a child, but for an adult being careful, it was not difficult at all. You've had experiences like that, haven't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2437,12 +3065,16 @@
       "en": "“Yes, I suppose...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2456,12 +3088,16 @@
       "en": "“Probably.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2475,12 +3111,16 @@
       "en": "“But that didn't mean I stopped using a dish. A large dish is easier if you add condiments. More importantly, I discovered that I enjoy stirring with abandon. It feels much better than fussing carefully with the container. So from then on, I always had to decide. Did I feel like giving it a vigorous stir, or was avoiding one dirty dish more important? ...Now, of course, someone else washes every dish for me. If I ask, the chef will stir the natto beautifully and bring it to me. I could have someone spoon it into my mouth. I am the <tips=81>Longtou</tips>, after all. Here, I am practically a king. How stupid.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2494,12 +3134,16 @@
       "en": "I sigh in front of the bewildered sisters.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2513,12 +3157,16 @@
       "en": "“...For a while, I forgot the whole dilemma. Then recently, when I was alone and about to make natto over rice, it all came back. Should I mix it on a dish, or in the container? I must have spent two or three minutes deciding. Quite a long time, isn't it? I never hesitate that way over work. Don't you find that strange? I decide whether people live or die in an instant, yet agonize over a dish for my natto. Human values are fascinating. In the end, everything any of us does is...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2532,12 +3180,16 @@
       "en": "Halfway through the thought, I suddenly grow bored with it and sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2551,12 +3203,16 @@
       "en": "“Oh, never mind.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2570,12 +3226,16 @@
       "en": "“...Perhaps you really are tired?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2589,12 +3249,16 @@
       "en": "“Why not rest for a little while?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2608,12 +3272,16 @@
       "en": "Both sisters are worried about me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2627,12 +3295,16 @@
       "en": "“Thank you, but that won't be necessary.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2646,12 +3318,16 @@
       "en": "Just as I decline, <tips=30>Reirei</tips> brings me another drink: an herbal tea with a fresh scent.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
-          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2665,16 +3341,22 @@
       "en": "“They say this tea is good for your stomach.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2688,16 +3370,22 @@
       "en": "<tips=30>Reirei</tips> gives me a pointed look.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2711,16 +3399,22 @@
       "en": "She cared for Father through the final stages of this same disease. Perhaps she has noticed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2734,16 +3428,22 @@
       "en": "I cannot hide it forever from the people closest to me. Sooner or later, I will have to tell her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2757,16 +3457,22 @@
       "en": "The sooner, the better. I know that. Yet something in me resists. As long as I keep it to myself and everyone around me treats me without knowing, it can still feel like a bad dream. The moment I speak it aloud and they begin to think about it too, it will become part of reality whether I want it to or not.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2780,16 +3486,22 @@
       "en": "That is weakness on my part.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2803,16 +3515,22 @@
       "en": "I take a sip.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2826,16 +3544,22 @@
       "en": "“You needn't worry. I am surely well suited to this work. I am <tips=3>Chris Xie</tips>'s son, after all. I work so hard that he must be delighted down in Hell.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2849,16 +3573,22 @@
       "en": "That is what I tell them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
-        },
-        {
           "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         },
         {
           "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "b"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2901,7 +3631,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2916,7 +3648,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -2940,7 +3674,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2955,7 +3691,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -2970,7 +3708,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -3177,7 +3917,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3192,7 +3934,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3207,7 +3951,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3222,7 +3968,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3237,7 +3985,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3252,7 +4002,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3267,7 +4019,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3282,7 +4036,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3297,7 +4053,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3312,7 +4070,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3327,7 +4087,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3342,7 +4104,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3357,7 +4121,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3372,7 +4138,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3387,7 +4155,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3402,7 +4172,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3417,7 +4189,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3432,7 +4206,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3447,7 +4223,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3462,7 +4240,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3477,7 +4257,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3492,7 +4274,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3507,7 +4291,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3522,7 +4308,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3537,7 +4325,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3552,7 +4342,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3567,7 +4359,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3582,7 +4376,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3597,7 +4393,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3612,7 +4410,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3627,7 +4427,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3642,7 +4444,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3657,7 +4461,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3672,7 +4478,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3687,7 +4495,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
-          "s": "l"
+          "s": "l",
+          "x": "fl",
+          "y": "t"
         }
       ]
     },
@@ -3843,7 +4653,21 @@
       "se": "",
       "jp": " ",
       "en": "​",
-      "bg": "assets/vn/backgrounds/background-児童施設.webp"
+      "bg": "assets/vn/backgrounds/background-児童施設.webp",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0434",
@@ -3852,7 +4676,21 @@
       "sj": "",
       "se": "",
       "jp": "　その辺にいた部下を捕まえ車を運転させて、現場に辿り着いた僕を出迎えたのは<tips=49>三芳</tips>と<tips=50>路地</tips>の二人だった。",
-      "en": "I grab the nearest subordinate and make him drive me to the scene. <tips=49>Miyoshi</tips> and <tips=50>Roji</tips> are waiting when I arrive."
+      "en": "I grab the nearest subordinate and make him drive me to the scene. <tips=49>Miyoshi</tips> and <tips=50>Roji</tips> are waiting when I arrive.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0435",
@@ -3861,7 +4699,21 @@
       "sj": "",
       "se": "",
       "jp": "　僕が来るということで、現場検証を一時中断させ、捜査員をよそへ行かせてくれたらしい。僕と警察の付き合いは、全ての警察官が知っているわけではないのか、それとも僕に気を遣ってくれたのかはわからない。",
-      "en": "Because I was coming, they seem to have suspended the examination and sent the other investigators away. Perhaps ordinary officers do not know about my dealings with the police. Or perhaps Roji and Miyoshi are simply being considerate. I cannot tell."
+      "en": "Because I was coming, they seem to have suspended the examination and sent the other investigators away. Perhaps ordinary officers do not know about my dealings with the police. Or perhaps Roji and Miyoshi are simply being considerate. I cannot tell.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0436",
@@ -3870,7 +4722,21 @@
       "sj": "",
       "se": "",
       "jp": "　現場となったのは施設内の管理棟の応接室だそうだ。ここで暮らす子供たちはまだ異変に気づかず眠っているようで、施設のなかは静まりかえっていた。",
-      "en": "The crime scene is a reception room in the facility's administrative building. The children who live here seem to be asleep, still unaware that anything has happened. The grounds are silent."
+      "en": "The crime scene is a reception room in the facility's administrative building. The children who live here seem to be asleep, still unaware that anything has happened. The grounds are silent.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0437",
@@ -3879,7 +4745,21 @@
       "sj": "",
       "se": "",
       "jp": "　事件時当直をしていた職員たちは警察のパトカーのなかで事情聴取を受けていると<tips=49>三芳</tips>が言った。そのうち一人の田辺という職員は<tips=55>松子</tips>と共に訪れた<tips=20>コシチェイ</tips>に出会っており、彼女の口から事件の概要があきらかになったのだそうだ。",
-      "en": "<tips=49>Miyoshi</tips> tells me the employees who were on duty are being questioned in police cars. One of them, a woman named Tanabe, was with <tips=55>Matsuko</tips> when <tips=20>Koschei</tips> arrived. Her account revealed the general course of events."
+      "en": "<tips=49>Miyoshi</tips> tells me the employees who were on duty are being questioned in police cars. One of them, a woman named Tanabe, was with <tips=55>Matsuko</tips> when <tips=20>Koschei</tips> arrived. Her account revealed the general course of events.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0438",
@@ -3888,7 +4768,21 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>は最初女の姿であらわれた。インターフォンを押し、児童の母親だと名乗り面会を求めた。時間外だからと一度は断ったが門の前から動こうとせず、仕方なく施設内の応接室に招き入れる。そこで相手は例によって変身し、二人を驚かせた。本性を見せた<tips=20>コシチェイ</tips>は二人に襲い掛かり、<tips=55>松子</tips>は田辺だけを建物の外に逃がすと部屋に引き返したそうだ。",
-      "en": "<tips=20>Koschei</tips> first appeared as a woman. She rang the intercom, claimed to be a child's mother, and asked to visit. The staff refused because visiting hours were over. When she would not leave the gate, they reluctantly admitted her to the reception room. There, as always, the visitor transformed before them. Once <tips=20>Koschei</tips> showed her true nature and attacked, <tips=55>Matsuko</tips> got Tanabe out of the building, then returned to the room alone."
+      "en": "<tips=20>Koschei</tips> first appeared as a woman. She rang the intercom, claimed to be a child's mother, and asked to visit. The staff refused because visiting hours were over. When she would not leave the gate, they reluctantly admitted her to the reception room. There, as always, the visitor transformed before them. Once <tips=20>Koschei</tips> showed her true nature and attacked, <tips=55>Matsuko</tips> got Tanabe out of the building, then returned to the room alone.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0439",
@@ -3897,7 +4791,21 @@
       "sj": "",
       "se": "",
       "jp": "　しばらくたって、何の音もしなくなってから田辺はバット片手に管理棟に戻り、そこで変わり果てた姿になった<tips=55>松子</tips>を発見したという。",
-      "en": "After some time had passed and the room fallen silent, Tanabe returned to the building with a bat. There, she found what remained of <tips=55>Matsuko</tips>."
+      "en": "After some time had passed and the room fallen silent, Tanabe returned to the building with a bat. There, she found what remained of <tips=55>Matsuko</tips>.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0440",
@@ -3906,7 +4814,21 @@
       "sj": "",
       "se": "",
       "jp": "「そのタナベって職員はすごい勇気だな。<tips=20>コシチェイ</tips>にバットで立ち向かおうとしたのか」",
-      "en": "“That Tanabe has remarkable courage. Was she really planning to fight <tips=20>Koschei</tips> with a bat?”"
+      "en": "“That Tanabe has remarkable courage. Was she really planning to fight <tips=20>Koschei</tips> with a bat?”",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0441",
@@ -3915,7 +4837,21 @@
       "sj": "",
       "se": "",
       "jp": "　応接室までの道すがら説明してくれた<tips=49>三芳</tips>に対して、僕は冗談めかしてそう言ったつもりだったが、自分でも驚くくらい苛立った声になってしまった。",
-      "en": "I mean it as a joke as <tips=49>Miyoshi</tips> explains on the way to the reception room. It comes out so bitter that my own voice surprises me."
+      "en": "I mean it as a joke as <tips=49>Miyoshi</tips> explains on the way to the reception room. It comes out so bitter that my own voice surprises me.",
+      "p": [
+        {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
+        }
+      ]
     },
     {
       "id": "a8:0442",
@@ -3927,8 +4863,16 @@
       "en": "“...She seems to have a very strong sense of justice. After she returned to the room...”",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -3942,8 +4886,16 @@
       "en": "“Enough. I'll hear the rest after I see it.”",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -3957,8 +4909,16 @@
       "en": "I cut her off. We have reached the reception room where the murder took place.",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -3972,8 +4932,16 @@
       "en": "“Please touch as little as possible. Forensics has begun examining the scene, but they have not finished.”",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -3987,8 +4955,16 @@
       "en": "<tips=49>Miyoshi</tips> hands me a flashlight and a pair of white gloves.",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -4002,8 +4978,16 @@
       "en": "I say nothing. I put on the gloves, take her flashlight, and open the door myself.",
       "p": [
         {
+          "u": "assets/vn/portraits/portrait-kuniaki-roji-f014-01.webp",
+          "s": "l",
+          "x": "fl",
+          "y": "t"
+        },
+        {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -4424,7 +5408,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -4439,7 +5425,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -4454,7 +5442,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -4469,7 +5459,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6508,7 +7500,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-07.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6523,7 +7517,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-07.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6538,7 +7534,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6553,7 +7551,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6567,8 +7567,10 @@
       "en": "<tips=12>Eriko</tips> grins.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6582,8 +7584,10 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6598,7 +7602,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6613,7 +7619,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6628,7 +7636,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6643,7 +7653,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6658,7 +7670,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6673,7 +7687,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6688,7 +7704,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6703,7 +7721,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6718,7 +7738,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6733,7 +7755,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6748,7 +7772,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6763,7 +7789,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6778,7 +7806,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6793,7 +7823,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6808,7 +7840,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6823,7 +7857,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6838,7 +7874,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6853,7 +7891,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6868,7 +7908,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6883,7 +7925,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6898,7 +7942,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
@@ -6913,7 +7959,9 @@
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
-          "s": "r"
+          "s": "r",
+          "x": "fr",
+          "y": "t"
         }
       ]
     },
