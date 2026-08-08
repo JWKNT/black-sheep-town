@@ -291,7 +291,6 @@
     const anchorId = `line-${line.id.replace(":", "-")}`;
     article.id = anchorId;
     article.dataset.chapter = meta.slug;
-    article.readerPortraits = Array.isArray(line.p) ? line.p : [];
 
     const lineNumber = article.querySelector(".line-number");
     lineNumber.href = `?chapter=${encodeURIComponent(meta.slug)}#${anchorId}`;
@@ -324,81 +323,87 @@
     return figure;
   }
 
+  function portraitKey(portrait) {
+    return `${portrait.u}|${portrait.x}|${portrait.y}`;
+  }
+
+  function changedPortraits(current, previous) {
+    const prior = new Set(previous.map(portraitKey));
+    return current.filter((portrait) => !prior.has(portraitKey(portrait)));
+  }
+
+  function makePortraitCard(portrait, lineId) {
+    const card = document.createElement("figure");
+    card.className = "reader-portrait-card";
+    card.dataset.anchorLine = lineId;
+    card.dataset.preferredSide = portrait.s || "c";
+    card.dataset.gameX = portrait.x || "c";
+    card.dataset.gameY = portrait.y || "m";
+
+    const image = document.createElement("img");
+    image.src = portrait.u;
+    image.alt = "";
+    image.decoding = "async";
+    image.loading = "lazy";
+    image.width = 720;
+    image.height = 900;
+    card.append(image);
+    return card;
+  }
+
+  function nearestOpenTop(desired, size, limit, occupied) {
+    const gap = 18;
+    const clamped = Math.max(0, Math.min(desired, limit));
+    const candidates = [clamped];
+    for (const interval of occupied) {
+      candidates.push(interval.top - size - gap, interval.bottom + gap);
+    }
+    const open = candidates
+      .filter((top) => top >= 0 && top <= limit)
+      .filter((top) => occupied.every((interval) => (
+        top + size + gap <= interval.top || top >= interval.bottom + gap
+      )))
+      .sort((a, b) => Math.abs(a - desired) - Math.abs(b - desired));
+    return open.length ? open[0] : clamped;
+  }
+
   let portraitFrame = 0;
-  const portraitSignatures = { l: "", r: "" };
 
-  function updatePortraitStage() {
+  function layoutPortraitStage() {
     portraitFrame = 0;
-    const slots = {
-      l: elements.portraitStage.querySelector('[data-portrait-side="l"]'),
-      r: elements.portraitStage.querySelector('[data-portrait-side="r"]'),
-    };
-    if (state.mode !== "english" || elements.scriptLines.hidden) {
-      for (const side of ["l", "r"]) {
-        portraitSignatures[side] = "";
-        slots[side].replaceChildren();
-        slots[side].dataset.count = "0";
-      }
-      return;
-    }
+    if (state.mode !== "english" || elements.scriptLines.hidden) return;
+    const cards = [...elements.portraitStage.querySelectorAll(".reader-portrait-card")];
+    if (!cards.length || !cards[0].offsetWidth) return;
 
-    const articles = [...elements.scriptLines.querySelectorAll(".script-line")];
-    if (!articles.length) {
-      for (const side of ["l", "r"]) {
-        portraitSignatures[side] = "";
-        slots[side].replaceChildren();
-        slots[side].dataset.count = "0";
-      }
-      return;
-    }
-    const focusLine = window.innerHeight * 0.48;
-    let active = articles[0];
-    for (const article of articles) {
-      if (article.getBoundingClientRect().top > focusLine) break;
-      active = article;
-    }
-    const portraits = active?.readerPortraits || [];
-    const marginPortraits = {
-      l: portraits.filter((portrait) => portrait.s === "l"),
-      r: portraits.filter((portrait) => portrait.s === "r"),
-    };
-    // The game can use a true center-stage anchor, while the reader deliberately
-    // keeps art out of the prose column. Put center art in the freer margin; the
-    // source x/y coordinates remain preserved in the chapter data and DOM.
-    for (const portrait of portraits.filter((candidate) => candidate.s === "c")) {
-      const side = marginPortraits.l.length <= marginPortraits.r.length ? "l" : "r";
-      marginPortraits[side].push(portrait);
-    }
-    const shellTop = elements.portraitStage.parentElement.getBoundingClientRect().top;
-    const anchorTop = Math.max(0, active.getBoundingClientRect().top - shellTop);
-    for (const side of ["l", "r"]) {
-      const sidePortraits = marginPortraits[side];
-      const signature = JSON.stringify(sidePortraits);
-      slots[side].style.top = `${anchorTop}px`;
-      if (signature !== portraitSignatures[side]) {
-        portraitSignatures[side] = signature;
-
-        const images = sidePortraits.map((portrait) => {
-          const image = document.createElement("img");
-          image.src = portrait.u;
-          image.alt = "";
-          image.decoding = "async";
-          image.loading = "eager";
-          image.width = 720;
-          image.height = 900;
-          image.dataset.gameX = portrait.x || side;
-          image.dataset.gameY = portrait.y || "m";
-          return image;
-        });
-        slots[side].dataset.count = String(images.length);
-        slots[side].replaceChildren(...images);
-      }
+    const shellRect = elements.portraitStage.parentElement.getBoundingClientRect();
+    const stageHeight = elements.portraitStage.parentElement.scrollHeight;
+    const occupied = { l: [], r: [] };
+    for (const card of cards) {
+      const anchor = document.getElementById(card.dataset.anchorLine);
+      if (!anchor) continue;
+      const size = card.offsetWidth;
+      const limit = Math.max(0, stageHeight - size);
+      const verticalBias = card.dataset.gameY === "t"
+        ? -size * 0.25
+        : card.dataset.gameY === "b" ? size * 0.25 : 0;
+      const desired = anchor.getBoundingClientRect().top - shellRect.top + verticalBias;
+      const preferred = card.dataset.preferredSide;
+      const sides = preferred === "c" ? ["l", "r"] : [preferred === "r" ? "r" : "l"];
+      const choices = sides.map((side) => {
+        const top = nearestOpenTop(desired, size, limit, occupied[side]);
+        return { side, top, distance: Math.abs(top - desired) };
+      }).sort((a, b) => a.distance - b.distance || occupied[a.side].length - occupied[b.side].length);
+      const choice = choices[0];
+      card.classList.toggle("reader-portrait-left", choice.side === "l");
+      card.classList.toggle("reader-portrait-right", choice.side === "r");
+      card.style.top = `${choice.top}px`;
+      occupied[choice.side].push({ top: choice.top, bottom: choice.top + size });
     }
   }
 
   function schedulePortraitUpdate() {
     if (portraitFrame) return;
-    portraitFrame = requestAnimationFrame(updatePortraitStage);
+    portraitFrame = requestAnimationFrame(layoutPortraitStage);
   }
 
   function makeChapterDivider(meta, count) {
@@ -414,6 +419,7 @@
 
   function renderGroups(groups, terms, allScope) {
     const fragment = document.createDocumentFragment();
+    const portraitFragment = document.createDocumentFragment();
     let shown = 0;
     let total = 0;
 
@@ -422,22 +428,27 @@
       if (!group.lines.length || shown >= MAX_ALL_RESULTS) continue;
       const remaining = allScope ? MAX_ALL_RESULTS - shown : group.lines.length;
       const visibleLines = group.lines.slice(0, remaining);
+      let previousPortraits = [];
       if (allScope) fragment.append(makeChapterDivider(group.meta, group.lines.length));
       for (const line of visibleLines) {
         if (line.bg) fragment.append(makeBackgroundFigure(line.bg, line.id));
         fragment.append(makeLineArticle(line, group.meta, terms, allScope));
+        const currentPortraits = Array.isArray(line.p) ? line.p : [];
+        for (const portrait of changedPortraits(currentPortraits, previousPortraits)) {
+          portraitFragment.append(makePortraitCard(portrait, `line-${line.id.replace(":", "-")}`));
+        }
+        previousPortraits = currentPortraits;
       }
       shown += visibleLines.length;
     }
 
     elements.scriptLines.replaceChildren(fragment);
+    elements.portraitStage.replaceChildren(portraitFragment);
     elements.emptyState.hidden = total !== 0;
     elements.scriptLines.hidden = total === 0;
     elements.resultStatus.textContent = total > shown
       ? `${number.format(total)} matches · first ${number.format(shown)} shown`
       : `${number.format(total)} ${total === 1 ? "line" : "lines"}`;
-    portraitSignatures.l = "";
-    portraitSignatures.r = "";
     schedulePortraitUpdate();
   }
 
@@ -641,7 +652,6 @@
         elements.search.focus();
       }
     });
-    window.addEventListener("scroll", schedulePortraitUpdate, { passive: true });
     window.addEventListener("resize", schedulePortraitUpdate);
   }
 
