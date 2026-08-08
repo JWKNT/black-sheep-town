@@ -186,7 +186,7 @@
       "se": "",
       "jp": "　パジャマにも着替えず、ブラウスとスカートのままである。",
       "en": "She never even changed into pajamas. She is still in her blouse and skirt.",
-      "bg": "assets/vn/backgrounds/bg-86d0e638dd3e.webp"
+      "bg": "assets/vn/backgrounds/background-e7-a-mask-b.webp"
     },
     {
       "id": "E7:0034",
@@ -358,7 +358,7 @@
       "se": "",
       "jp": "「あ……」",
       "en": "“Ah...”",
-      "bg": "assets/vn/backgrounds/bg-6df014bca3e3.webp"
+      "bg": "assets/vn/backgrounds/background-e7-b-mask-b.webp"
     },
     {
       "id": "E7:0057",
@@ -710,10 +710,10 @@
       "se": "Hikari Miyoshi",
       "jp": "「とても、信じられません……」",
       "en": "“I... can hardly believe it.”",
-      "bg": "assets/vn/backgrounds/bg-476c4706066d.webp",
+      "bg": "assets/vn/backgrounds/background-三芳の部屋.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -728,7 +728,7 @@
       "en": "<tips=49>Miyoshi</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -743,7 +743,7 @@
       "en": "Other than the identities of <tips=55>Matsuko Shio</tips> and <tips=31>Elly White</tips>, I tell her almost everything.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -758,7 +758,7 @@
       "en": "This was not <tips=20>Koschei</tips>’s first visit to the City. He was apparently here in the days of the <tips=18>Rose Club</tips>, creating immortal women and marking them with crescent tattoos. The person who gave me blood also seems to have some connection to the club.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -773,7 +773,7 @@
       "en": "Immortal does not mean unkillable. When the <tips=18>Rose Club</tips> fell, every one of the Crescent women was murdered.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -788,7 +788,7 @@
       "en": "“The immortal women were probably killed by someone inside the <tips=18>Rose Club</tips>—by <tips=20>Koschei</tips>. I don’t know why. Perhaps he wanted to keep this strange power from spreading beyond the club. ...Whatever the reason, <tips=20>Koschei</tips> knows an easy way to kill an immortal. Some kind of poison, it seems. Frankly, I’m relieved to know I don’t necessarily have to live forever.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -803,7 +803,7 @@
       "en": "“Then it should work on <tips=20>Koschei</tips> too, shouldn’t it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -818,7 +818,7 @@
       "en": "“If we can find out what it is. ...Either way, next time <tips=20>Koschei</tips> comes for me, he’ll probably bring that poison. I won’t get off as lightly as I did this time. But we have the <tips=43>APTG</tips>, and if it comes to that, we can disperse the drug as a gas. Our odds aren’t terrible.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -833,7 +833,7 @@
       "en": "“...So now <tips=20>Koschei</tips> is working with the <tips=21>Dragon Club</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -848,7 +848,7 @@
       "en": "<tips=49>Miyoshi</tips> murmurs, her face darkening.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -863,7 +863,7 @@
       "en": "“By the way, did the hospital cameras catch the attack?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -878,7 +878,7 @@
       "en": "“Yes. ...The blond girl was there with members of the <tips=21>Dragon Club</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -893,7 +893,7 @@
       "en": "“As expected. Anyone else worth noting?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -908,7 +908,7 @@
       "en": "“We’ve identified some of the people whose faces were visible. A few are completely unknown to us, but we confirmed that <tips=10>Michio Mido</tips> and <tips=67>Camilla Northam</tips>, among others, were giving orders.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -923,7 +923,7 @@
       "en": "“So the <tips=21>Dragon Club</tips> sent its rising stars.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -938,7 +938,7 @@
       "en": "The names <tips=49>Miyoshi</tips> gives me belong to young members rumored to be the <tips=21>Dragon Club</tips>’s future leaders. That suggests the <tips=47>Dragon Liberation Army</tips> is not some expendable unit for dirty work, but part of the organization’s mainstream.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -953,7 +953,7 @@
       "en": "“Sounds like they’re serious about starting a war. ...What are the police going to do?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -968,7 +968,7 @@
       "en": "“We can’t simply do nothing now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -983,7 +983,7 @@
       "en": "“Granted. But do you really mean to take on the <tips=21>Dragon Club</tips>? Can you fight a secret <tips=17>Type B</tips> organization embedded throughout society? Or will the police fall back on their old specialty—make a show of investigating, then look the other way?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -998,7 +998,7 @@
       "en": "“That isn’t what I’ve heard, at least. An armed group attacking a national institution is an unprecedented act of terrorism. Nothing has been decided, but a large-scale deployment of special forces is under consideration.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1013,7 +1013,7 @@
       "en": "<tips=49>Miyoshi</tips> delivers the answer haltingly, with little conviction.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1028,7 +1028,7 @@
       "en": "“Well, that would be a first for this City. Police special forces and the City’s <tips=17>Type B</tips> people and psychics, killing each other. How do they plan to fight in a place where there’s barely a line between gangsters and ordinary citizens? Assassinating a few leaders won’t end it. Are the police ready to turn the whole City into a battlefield?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1043,7 +1043,7 @@
       "en": "<tips=49>Miyoshi</tips> says nothing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1058,7 +1058,7 @@
       "en": "“It’ll end the way it always does. When the <tips=18>Rose Club</tips> fell, the police stood by while <tips=7>YS</tips> carried out an armed raid. They even sent their brass to <tips=3>Chris Xie</tips>’s birthday parties. I hear they showed up at the reception for the second <tips=81>Longtou</tips> too. Why not make use of that cozy relationship and have <tips=7>YS</tips> deal with the <tips=21>Dragon Club</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1073,7 +1073,7 @@
       "en": "“You know an impressive amount about this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1088,7 +1088,7 @@
       "en": "“Of course I do.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1103,7 +1103,7 @@
       "en": "“I know the police have a bad reputation right now—corruption, falling clearance rates, all of it. But that doesn’t mean every officer has lost the will to act. The crimes have gone completely beyond what ordinary methods can handle... Psychics, <tips=17>Type B</tips> people—we can’t possibly keep up with it all. That helplessness in the face of cases no one can explain has spread through the entire force...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1118,7 +1118,7 @@
       "en": "“Spare me the speech. I want to know where the police stand with <tips=7>YS</tips> now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1133,7 +1133,7 @@
       "en": "“...They’ve had almost no contact with the third <tips=81>Longtou</tips>, <tips=1>Xie Liang</tips>. After <tips=3>Chris Xie</tips> died, there was apparently some turmoil inside <tips=7>YS</tips>. At the moment, we’re still trying to determine what kind of man <tips=1>Xie Liang</tips> is and what direction he intends to take <tips=7>YS</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1148,7 +1148,7 @@
       "en": "“I see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1163,7 +1163,7 @@
       "en": "I sigh and lie back down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "l"
         }
       ]
@@ -1302,7 +1302,7 @@
       "se": "",
       "jp": "　彼女が用意してくれた食事は一人用土鍋に入った粥だった。黄色い溶き卵が混じって味付けは塩だけ。付け合わせの小鉢には梅干しと、数きれの漬物が用意されている。",
       "en": "She brings me rice porridge in a small clay pot. Threads of beaten egg run through it, with nothing but salt for seasoning. A small side dish holds a pickled plum and a few slices of pickled vegetables.",
-      "bg": "assets/vn/backgrounds/bg-60ccaaf676e2.webp"
+      "bg": "assets/vn/backgrounds/background-im-005.webp"
     },
     {
       "id": "E7:0164",
@@ -1323,7 +1323,7 @@
       "en": "“Try this first. If it sits well, we can go out for a proper lunch.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1338,7 +1338,7 @@
       "en": "She will not budge.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1353,7 +1353,7 @@
       "en": "I reluctantly pick up the spoon—and find the porridge surprisingly good.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1368,7 +1368,7 @@
       "en": "“Did you use some special ingredient?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1383,7 +1383,7 @@
       "en": "“Not at all. It’s ordinary food from the supermarket. It tastes good because your body needs it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1398,7 +1398,7 @@
       "en": "“Is that all it is...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1413,7 +1413,7 @@
       "en": "Warm and mild, the nourishing porridge seems to seep straight into me, carrying strength to every last cell.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1426,7 +1426,7 @@
       "se": "",
       "jp": "　食べ終わってみれば、はじめの食欲の割には十分な満足を感じられた。",
       "en": "By the time I finish, the modest bowl has satisfied me far more than my initial appetite suggested it could.",
-      "bg": "assets/vn/backgrounds/bg-476c4706066d.webp"
+      "bg": "assets/vn/backgrounds/background-三芳の部屋.webp"
     },
     {
       "id": "E7:0179",
@@ -1463,7 +1463,7 @@
       "se": "",
       "jp": "　目が覚めるとカーテンが朱色に染まっており、黄昏時を報せてくれる。",
       "en": "When I wake, the curtains are stained red with evening light.",
-      "bg": "assets/vn/backgrounds/bg-476c4706066d.webp"
+      "bg": "assets/vn/backgrounds/background-三芳の部屋.webp"
     },
     {
       "id": "E7:0194",
@@ -1502,7 +1502,7 @@
       "en": "“What did you usually eat when you were sick?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1517,7 +1517,7 @@
       "en": "“Meat, mostly. Yakiniku, steak. Sometimes the old woman out back brought me a softshell turtle.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1532,7 +1532,7 @@
       "en": "“Goodness. How did you manage to eat things like that while you were ill?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1547,7 +1547,7 @@
       "en": "“I forced it down even when I felt sick. I figured anything that nutritious would cure me in no time.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1562,7 +1562,7 @@
       "en": "My description of this pitiful treatment regimen appalls <tips=49>Miyoshi</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1575,7 +1575,7 @@
       "se": "",
       "jp": "　<tips=49>三芳</tips>の住まいは<tips=9>Y地区</tips>の隣のT市にあった。",
       "en": "<tips=49>Miyoshi</tips> lives in T City, next door to <tips=9>Y District</tips>.",
-      "bg": "assets/vn/backgrounds/bg-df3ad7d188ac.webp"
+      "bg": "assets/vn/backgrounds/background-町の端の交差点.webp"
     },
     {
       "id": "E7:0216",
@@ -1675,7 +1675,7 @@
       "se": "",
       "jp": "「<tips=5>太刀川</tips>先生への別れの酒だよ」",
       "en": "“One for Dr. <tips=5>Tachikawa</tips>.”",
-      "bg": "assets/vn/backgrounds/bg-adecce25acc0.webp"
+      "bg": "assets/vn/backgrounds/background-im-006.webp"
     },
     {
       "id": "E7:0231",
@@ -1705,7 +1705,7 @@
       "en": "“Given who we’re dealing with, they’re still discussing how to respond. But as I said, information on individual members is starting to come together.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1720,7 +1720,7 @@
       "en": "<tips=49>Miyoshi</tips> drinks red wine, and a faint flush rises in her cheeks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1735,7 +1735,7 @@
       "en": "“What about Dr. <tips=5>Tachikawa</tips>'s case?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1750,7 +1750,7 @@
       "en": "I ask while turning a slice of loin on the grill.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1765,7 +1765,7 @@
       "en": "“It isn’t being treated as anything unusual. The police don’t know Dr. <tips=5>Tachikawa</tips> once worked with a gang, and they haven’t uncovered the connection between <tips=20>Koschei</tips> and the <tips=18>Rose Club</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1780,7 +1780,7 @@
       "en": "“I see. ...This one’s done.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1795,7 +1795,7 @@
       "en": "I lift a slice of loin from the grill and place it on <tips=49>Miyoshi</tips>’s plate.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-571c48e6b689.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-06.webp",
           "s": "l"
         }
       ]
@@ -1810,7 +1810,7 @@
       "en": "“S-sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1825,7 +1825,7 @@
       "en": "<tips=49>Miyoshi</tips> gives an embarrassed little bow, dabs the meat in a spicy doubanjiang sauce, and eats it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1840,7 +1840,7 @@
       "en": "I drown mine in a garlic-heavy sauce until it drips, lay it over white rice, shovel it in, and wash it down with beer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1855,7 +1855,7 @@
       "en": "“...Mr. <tips=50>Roji</tips>, are you really going to keep investigating?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1870,7 +1870,7 @@
       "en": "“Of course. Why would I stop?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -1885,7 +1885,7 @@
       "en": "“There are plenty of reasons. This isn’t a simple murder case anymore. Whole organizations are involved, and even the highest-ranking police officials have come down to deal with the uproar. This isn’t your job, Mr. <tips=50>Roji</tips>. We can pay you for your cooperation, but the danger hardly seems worth it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1900,7 +1900,7 @@
       "en": "<tips=49>Miyoshi</tips> lowers her chopsticks and looks down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1915,7 +1915,7 @@
       "en": "“It’s worth enough. My life isn’t all that valuable.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1930,7 +1930,7 @@
       "en": "I answer while turning the meat and dividing the cooked pieces between our plates.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1945,7 +1945,7 @@
       "en": "“You’re doing this for the people who died, aren’t you? I think that’s remarkable, Mr. <tips=50>Roji</tips>. You became a detective when you were young and stood up for people who couldn’t protect themselves... You were doing for the City what the police should have done, and then we took that power away from <tips=50>Roji</tips> himself...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1960,7 +1960,7 @@
       "en": "“You’ve got me wrong.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -1975,7 +1975,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -1990,7 +1990,7 @@
       "en": "“I’m no saint.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2005,7 +2005,7 @@
       "en": "I sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2020,7 +2020,7 @@
       "en": "“I’ve never thought of it as doing anything for the dead. You can’t, for one thing. Nothing I do will make a dead man happy or sad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2035,7 +2035,7 @@
       "en": "“That may be true, but...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2050,7 +2050,7 @@
       "en": "“If I were a kind man, none of this would have happened. <tips=53>Miyuki</tips> died because I slept with a woman I had no business sleeping with and told her things I had no business telling her. Then Mr. <tips=48>Doujima</tips> died, and Dr. <tips=5>Tachikawa</tips> died. I might have saved them both. Yet here I sit, leaving the dead behind while I drink beer and eat fine meat with the fat running off it. Delicious meat, too. If I truly felt something for the dead, do you think I could do this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2065,7 +2065,7 @@
       "en": "“...I don’t think that’s true.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2080,7 +2080,7 @@
       "en": "“It is. I’m not hunting him for the dead. I’m hunting him because I’m angry and want the satisfaction of settling it. I’ve always done whatever my feelings told me to do. Even as a detective, every child or woman crying in the street made me furious. Every piece of scum I saw preying on someone made my blood boil. So I decided that I, the chosen psychic, would knock them down. It felt good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2095,7 +2095,7 @@
       "en": "I stuff another piece of meat into my mouth. This one is slightly underdone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2110,7 +2110,7 @@
       "en": "“Isn’t that what a conscience is? You make it sound ugly, Mr. <tips=50>Roji</tips>, but it’s nothing to belittle yourself over. You could hold your head high and be proud of it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2125,7 +2125,7 @@
       "en": "“Nonsense. I just have no patience. I’ve spent my life doing only what I wanted. I never quietly did my duty like <tips=48>Doujima</tips>, gave up sleep to treat the sick like <tips=5>the doctor</tips>, or devoted myself to someone the way <tips=53>Miyuki</tips> did. If I had been born with a heart that took pleasure in killing women, I’d probably have ended up like <tips=20>Koschei</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2140,7 +2140,7 @@
       "en": "I clean out the bowl of rice and drain my beer, then use the panel beside the table to order more of both.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2155,7 +2155,7 @@
       "en": "“I’ve heard psychic abilities take the shape of a person’s heart. Maybe because you’ve lived so freely, Mr. <tips=50>Roji</tips>, the world became a place without locks for you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2170,7 +2170,7 @@
       "en": "After a long silence, <tips=49>Miyoshi</tips> says it almost to herself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2185,7 +2185,7 @@
       "en": "“It’s not as grand as all that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2200,7 +2200,7 @@
       "en": "Just then, a server brings my order.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2215,7 +2215,7 @@
       "en": "The fresh bowl of rice smells wonderful. This morning, a little porridge was enough to satisfy me. Perhaps it set my organs right, because now I could eat forever and still be hungry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2230,7 +2230,7 @@
       "en": "The same ravenous appetite lingered for a while after I woke from receiving <tips=55>Shio</tips>’s blood.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2245,7 +2245,7 @@
       "en": "Immortal or not, the body must replace what it loses, and food appears to be how.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2260,7 +2260,7 @@
       "en": "“Becoming a police officer was my dream from the time I was a child.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2275,7 +2275,7 @@
       "en": "Once the server leaves, <tips=49>Miyoshi</tips> begins again, the melancholy still in her face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2290,7 +2290,7 @@
       "en": "“When I was little, I got lost on a trip... I chased a cat through a parking lot and couldn’t find my way back. I was standing there crying, completely lost, when a policewoman in a little patrol car drove by and picked me up.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2305,7 +2305,7 @@
       "en": "Without asking, I keep piling cooked meat onto <tips=49>Miyoshi</tips>’s untouched plate.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2320,7 +2320,7 @@
       "en": "“She gave me a strawberry candy to calm me down, figured out where my parents were from what I told her, and drove me back to them. She was a <tips=16>Type A</tips>, apparently. Her Trait Mutation was pronounced, so she looked quite different. She was the first <tips=16>Type A</tips> person I had ever seen, but I wasn’t afraid at all. I thought she was incredibly cool. That’s why I began admiring the police and studied as hard as I did.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2335,7 +2335,7 @@
       "en": "“A little too hard, perhaps.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2350,7 +2350,7 @@
       "en": "“You can say that again. I wanted to be a uniformed officer... Instead, I feel as if I’ve been put somewhere I never wanted to be.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2365,7 +2365,7 @@
       "en": "<tips=49>Miyoshi</tips> smiles ruefully.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2380,7 +2380,7 @@
       "en": "“Well, it could be worse. Your parents must be proud. Bound for the police bureaucracy, are you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2395,7 +2395,7 @@
       "en": "As I speak, I eat more rice with the grilled meat. This bowl must be freshly cooked; each grain tastes plump and moist.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2410,7 +2410,7 @@
       "en": "“Who knows? ...I’ve started thinking I might resign when this case is over.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2425,7 +2425,7 @@
       "en": "“If you don’t want the job, quit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2440,7 +2440,7 @@
       "en": "I lay the salted beef tongue I ordered with the beer and rice across the grill. The slices are thick and look excellent.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2455,7 +2455,7 @@
       "en": "<tips=49>Miyoshi</tips> sighs at my answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2470,7 +2470,7 @@
       "en": "“Whatever happens, let’s get through this case safely. We can’t let <tips=20>Koschei</tips> commit any more crimes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2485,7 +2485,7 @@
       "en": "“Don’t overdo it. To you, this is supposed to be just a job. Here. I cooked that for you, so eat.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2500,7 +2500,7 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2515,7 +2515,7 @@
       "en": "<tips=49>Miyoshi</tips> still does not touch the meat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2530,7 +2530,7 @@
       "en": "“And while I’m being honest, I have no intention of arresting <tips=20>Koschei</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2545,7 +2545,7 @@
       "en": "I dip a slice of grilled tongue into the dish of lemon juice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2560,7 +2560,7 @@
       "en": "“What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2575,7 +2575,7 @@
       "en": "I wash it down with beer, then glance at her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2590,7 +2590,7 @@
       "en": "“I’m going to kill him. The police may want a psychic like that for research, but I’m going to kill him. I won’t hand him over.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2605,7 +2605,7 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -2620,7 +2620,7 @@
       "en": "“Even if you caught him, he’d only escape in the end. Don’t you think that would be a rotten reward for everything? For his victims, and for the investigators he killed...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -2635,7 +2635,7 @@
       "en": "<tips=49>Miyoshi</tips> falls silent and bows her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -2650,7 +2650,7 @@
       "en": "“If you’re full, I’ll have it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -2665,7 +2665,7 @@
       "en": "She still makes no move to eat, so I pluck a cooling piece of meat from her plate with my chopsticks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "l"
         }
       ]
@@ -2678,7 +2678,7 @@
       "se": "",
       "jp": "　<tips=49>三芳</tips>が会計を済ませるのを、一足先に外に出て、路上で待っていた。",
       "en": "I go outside first and wait in the street while <tips=49>Miyoshi</tips> pays.",
-      "bg": "assets/vn/backgrounds/bg-1dcc8adb4995.webp"
+      "bg": "assets/vn/backgrounds/background-月夜のイメージ.webp"
     },
     {
       "id": "E7:0312",
@@ -2708,7 +2708,7 @@
       "en": "“Sorry to keep you waiting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2723,7 +2723,7 @@
       "en": "<tips=49>Miyoshi</tips> emerges on slightly unsteady feet. She did not seem to drink much. She must be a lightweight.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2738,7 +2738,7 @@
       "en": "“Are you really going back to the City now?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2753,7 +2753,7 @@
       "en": "“I am. I’d rather not spend another night in a woman’s home when she lives alone, and I want to get back to the investigation.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bc3176a396c.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-01.webp",
           "s": "l"
         }
       ]
@@ -2768,7 +2768,7 @@
       "en": "“All right. Please be careful. ...I think I may have said more than I should today. Please forget it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2783,7 +2783,7 @@
       "en": "“Forget what? I didn’t hear a thing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2798,7 +2798,7 @@
       "en": "I shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2813,7 +2813,7 @@
       "en": "“Thank you for the meal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2828,7 +2828,7 @@
       "en": "I start to leave, then suddenly remember something.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2843,7 +2843,7 @@
       "en": "“I nearly forgot. I have a proposal for you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2858,7 +2858,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2873,7 +2873,7 @@
       "en": "“Soon, I intend to visit <tips=7>YS</tips> at <tips=41>Grand Tower</tips>, meet <tips=1>Xie Liang</tips>, and tell him about <tips=20>Koschei</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "l"
         }
       ]
@@ -2888,7 +2888,7 @@
       "en": "“<tips=7>YS</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2903,7 +2903,7 @@
       "en": "“Yes. <tips=20>Koschei</tips> is connected to the <tips=18>Rose Club</tips>, and now he’s working with the <tips=21>Dragon Club</tips>. I think we can draw <tips=7>YS</tips> into this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2918,7 +2918,7 @@
       "en": "I have not told <tips=49>Miyoshi</tips> about <tips=31>Elly White</tips>. I expect she will take my side in this as well.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2933,7 +2933,7 @@
       "en": "“I’d appreciate it if you came with me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2948,7 +2948,7 @@
       "en": "“Me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2963,7 +2963,7 @@
       "en": "<tips=49>Miyoshi</tips> is visibly shaken. To her, the notion of walking into <tips=7>YS</tips> headquarters must be frightening before it is anything else.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2978,7 +2978,7 @@
       "en": "“Yes. Tell your superiors, or come on your own. That’s up to you. The police would probably like to make use of <tips=7>YS</tips> too. If you’re afraid, I won’t force—”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3c1507081cc9.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
           "s": "l"
         }
       ]
@@ -2993,7 +2993,7 @@
       "en": "“I-I'll go!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -3008,7 +3008,7 @@
       "en": "<tips=49>Miyoshi</tips> cuts me off with a shout.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -3023,7 +3023,7 @@
       "en": "“All right. I’ll contact you later.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3b681382a4e8.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
           "s": "l"
         }
       ]
@@ -3045,7 +3045,7 @@
       "se": "",
       "jp": "　夜空に浮かんだ月を見上げながらゆっくり歩いて<tips=9>Y地区</tips>へ向かう。",
       "en": "I walk slowly toward <tips=9>Y District</tips>, gazing up at the moon.",
-      "bg": "assets/vn/backgrounds/bg-f0411927f116.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上夜.webp"
     },
     {
       "id": "E7:0345",
@@ -3165,7 +3165,7 @@
       "en": "“<tips=53>Miyuki</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3180,7 +3180,7 @@
       "en": "The name slips from my lips.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3195,7 +3195,7 @@
       "en": "Yes. The woman smiling before me is <tips=53>Miyuki</tips> herself—the same woman I saw lying dismembered in our apartment.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3210,7 +3210,7 @@
       "en": "Cold runs down my spine, and my skin prickles.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3225,7 +3225,7 @@
       "en": "“Mr. <tips=50>Kuniaki</tips>... You must be so very tired...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3240,7 +3240,7 @@
       "en": "<tips=53>Miyuki</tips> speaks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3255,7 +3255,7 @@
       "en": "Standing face-to-face with her, I can even smell that indescribable sweetness that was hers alone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3270,7 +3270,7 @@
       "en": "The dead do not come back. I know she is a hallucination. Yet however closely I study her, she is indistinguishable from <tips=53>Miyuki</tips> in the flesh. If anything, she seems more like <tips=53>Miyuki</tips> than the real <tips=53>Miyuki</tips> ever did.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3285,7 +3285,7 @@
       "en": "My mind created her to suit itself. Perhaps that is only natural.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3300,7 +3300,7 @@
       "en": "“I came back to life too, just like you, Mr. <tips=50>Kuniaki</tips>... Now we can be together forever.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3315,7 +3315,7 @@
       "en": "Impossible. She was torn completely apart. Even if someone gave her blood in that condition, surely she could not come back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3330,7 +3330,7 @@
       "en": "—Then again, I do not know everything. Could there be some special method? Or what if I misunderstood what I saw in the apartment?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3345,7 +3345,7 @@
       "en": "I study the <tips=53>Miyuki</tips> before me and search for some way this could be real. However I turn it over, I can find no rational explanation that convinces me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]
@@ -3360,7 +3360,7 @@
       "en": "As I reason, I notice how calm I am. The first shock has already passed. I am not frightened. If anything, I am glad to see once more the woman I thought I would never see again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-e0b80e2de60a.webp",
+          "u": "assets/vn/portraits/portrait-miyuki-f075-01.webp",
           "s": "c"
         }
       ]

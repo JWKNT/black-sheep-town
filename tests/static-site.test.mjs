@@ -240,6 +240,7 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /elements\.endNextChapter\.addEventListener/);
   assert.match(app, /function makeBackgroundFigure/);
   assert.match(app, /function updatePortraitStage/);
+  assert.doesNotMatch(app, /\bportraitSignature\b/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
@@ -266,12 +267,15 @@ test("reader visual data resolves to exported game artwork", async () => {
     for (const line of payload.lines) {
       if (line.bg) {
         backgroundChanges += 1;
-        assert.match(line.bg, /^assets\/vn\/backgrounds\/bg-[a-f0-9]{12}\.webp$/);
+        assert.match(line.bg, /^assets\/vn\/backgrounds\/background-[^/]+\.webp$/);
         artworkPaths.add(line.bg);
       }
       for (const portrait of line.p || []) {
         portraitStates += 1;
-        assert.match(portrait.u, /^assets\/vn\/portraits\/portrait-[a-f0-9]{12}\.webp$/);
+        assert.match(
+          portrait.u,
+          /^assets\/vn\/portraits\/portrait-[a-z0-9-]+-f\d{3}-[^/]+\.webp$/,
+        );
         assert.ok(["l", "r", "c"].includes(portrait.s));
         artworkPaths.add(portrait.u);
       }

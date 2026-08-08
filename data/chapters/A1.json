@@ -96,7 +96,7 @@
       "se": "",
       "jp": "　平日の昼間にもかかわらず<tips=57>滑走路通り</tips>は活気で満ちている。",
       "en": "It's the middle of a weekday, but <tips=57>Runway Street</tips> is bustling.",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp"
     },
     {
       "id": "A1:0019",
@@ -421,7 +421,7 @@
       "se": "",
       "jp": "　いよいよ嘔気がたまらないものとなってきた。",
       "en": "By now, the nausea is unbearable.",
-      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
+      "bg": "assets/vn/backgrounds/background-東南アジア風喫茶店.webp"
     },
     {
       "id": "A1:0071",
@@ -530,7 +530,7 @@
       "se": "",
       "jp": "　ウェイターの声で顔をあげる。",
       "en": "At the waiter's voice, I lift my head.",
-      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
+      "bg": "assets/vn/backgrounds/background-東南アジア風喫茶店.webp"
     },
     {
       "id": "A1:0094",
@@ -972,7 +972,7 @@
       "se": "",
       "jp": "　お茶を半分ほど飲んだところで、人混みの向こうから、一人の少女がやってくるのが目にはいる。",
       "en": "When I have drunk about half my tea, I notice a girl approaching from beyond the crowd.",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp"
     },
     {
       "id": "A1:0151",
@@ -1459,7 +1459,7 @@
       "se": "",
       "jp": "　――いつの間にか僕は目を閉じていたらしい。ハッとして、すぐに時計を見る。",
       "en": "—At some point, I must have closed my eyes. I jolt awake and check the time.",
-      "bg": "assets/vn/backgrounds/bg-1cc0933a4809.webp"
+      "bg": "assets/vn/backgrounds/background-東南アジア風喫茶店.webp"
     },
     {
       "id": "A1:0224",
@@ -1496,7 +1496,7 @@
       "se": "",
       "jp": "　会計を済ませ、路上に戻ったところで<tips=4>馬明</tips>に電話をかけた。",
       "en": "After settling the bill and returning to the street, I call <tips=4>Ma Ming</tips>.",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp"
     },
     {
       "id": "A1:0231",
@@ -1679,7 +1679,7 @@
       "en": "“Well, look at you! It's been ages. Have you lost some weight? You never call, so I'm always wondering how you're doing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1694,7 +1694,7 @@
       "en": "“It's none of your business whether I'm doing well.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1709,7 +1709,7 @@
       "en": "“Isn't it? I can't help wondering about all sorts of things. Are you eating properly? Have you made any new friends at school?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1724,7 +1724,7 @@
       "en": "“...Why are you worrying about any of that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1739,7 +1739,7 @@
       "en": "“Because you look like you've got it all together, but you can be pretty scatterbrained.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1754,7 +1754,7 @@
       "en": "I fall silent. He has no interest at all in why.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1769,7 +1769,7 @@
       "en": "“Funny, I've been talking about you a lot lately. Maybe some part of me knew we'd run into each other today. Anyway, I'm glad we did.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1784,7 +1784,7 @@
       "en": "Straddling a city bicycle with a large load lashed to its rear rack, <tips=10>Michio</tips> pats me on the shoulder with an easy smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1799,7 +1799,7 @@
       "en": "He was once the leader of the boys in this City, and he is a close friend of mine.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1814,7 +1814,7 @@
       "en": "“What, did you get homesick and come running back? Sitting around studying can't be that much fun.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1829,7 +1829,7 @@
       "en": "“I was invited to a wedding. I only came for a short visit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1844,7 +1844,7 @@
       "en": "“Oh, good for them. Whose wedding? If I didn't hear about it, was it someone from your other family?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1859,7 +1859,7 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1874,7 +1874,7 @@
       "en": "I nod. <tips=10>Michio</tips> is one of the very few people in this City I chose to tell about my background.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -1889,7 +1889,7 @@
       "en": "“Huh. You always hated showing your face at family gatherings. Look at you, all grown up.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1904,7 +1904,7 @@
       "en": "<tips=10>Michio</tips> nods as though impressed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1919,7 +1919,7 @@
       "en": "“...Never mind that. What's all the cargo? Did you become a deliveryman while I wasn't looking?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1934,7 +1934,7 @@
       "en": "“Oh, this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1949,7 +1949,7 @@
       "en": "<tips=10>Michio</tips> smiles bashfully and taps the cardboard box on the rack, then unties the cord to show me what's inside.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1964,7 +1964,7 @@
       "en": "Rows of what appear to be black-sesame-coated sweets sit inside, each individually wrapped in clear film.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1979,7 +1979,7 @@
       "en": "“What are these? <ruby=チーマーカオ>Sesame balls</ruby>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -1994,7 +1994,7 @@
       "en": "“Here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2009,7 +2009,7 @@
       "en": "<tips=10>Michio</tips> tosses me one. I catch it and, at his urging, take a bite. Under the sesame coating is chewy white dough wrapped around a black filling. Sweetness floods my mouth, followed by the rich fragrance of toasted sesame.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2024,7 +2024,7 @@
       "en": "“It's good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2039,7 +2039,7 @@
       "en": "“Isn't it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -2054,7 +2054,7 @@
       "en": "“But isn't it really just a variation on a sesame ball?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -2069,7 +2069,7 @@
       "en": "“Nope. That's where you're wrong. For someone so fussy about food, you really don't know what you're tasting, do you? They may look like Chinese sesame balls, but the ingredients and method are completely different. They aren't even fried, and the dough is closer to manju. My friends and I invented the process ourselves. We call them <tips=71>Great Hole Manju</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2084,7 +2084,7 @@
       "en": "“Hey, stop slapping me on the shoulder. It goes straight to my head. I drank too much, and now there's an orchestra raising hell inside my skull.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2099,7 +2099,7 @@
       "en": "“Ha ha! Not my problem! More importantly, listen, <tips=1>Ryou</tips>. This is serious business. I'm betting my life on it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -2114,7 +2114,7 @@
       "en": "“You bet your life on something every other day.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c3e7911ee791.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-04.webp",
           "s": "c"
         }
       ]
@@ -2129,7 +2129,7 @@
       "en": "“That’s right. I can’t stand doing anything halfway.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2144,7 +2144,7 @@
       "en": "<tips=10>Michio</tips> flashes his white teeth in a bright, open smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2159,7 +2159,7 @@
       "en": "“Listen, <tips=1>Ryou</tips>. Don't you think this City has far too many young men—and grown men, for that matter—wandering around without doing an honest day's work? They commit some petty crime or join your father's organization. At the same time, there are plenty of <tips=17>Type B</tips> and <tips=16>Type A</tips> people who want to work but can't. They join your father's organization too. Basically, anyone with nowhere else to go ends up there. You can't tell me that's good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2174,7 +2174,7 @@
       "en": "He really shouldn't be saying all this at the top of his lungs in the middle of the street.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2189,7 +2189,7 @@
       "en": "“No, it isn't good. If they're joining that organization, it definitely isn't good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2204,7 +2204,7 @@
       "en": "“Exactly! I'm going to turn these into a new <tips=9>Y District</tips> specialty, sell them by the cartload, and give all those people jobs. Manju are perfect, don't you think? Something sweet just makes you feel peaceful. This City—no, the whole world—is far too grim and violent. Sell people peaceful food, make everyone happier. That's my goal in life now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2219,7 +2219,7 @@
       "en": "<tips=10>Michio</tips>'s eyes sparkle as he launches into his grand vision.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2234,7 +2234,7 @@
       "en": "He sounds so supremely confident that I try another bite of the <tips=71>Great Hole Manju</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2249,7 +2249,7 @@
       "en": "Has he mixed dried persimmon and perhaps sesame oil into the smooth red-bean paste? Is that the innovation <tips=10>Michio</tips> was talking about? It tastes that way.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2264,7 +2264,7 @@
       "en": "It is good. Whether it's any better than other sweets, I couldn't say.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2279,7 +2279,7 @@
       "en": "“It's your life, <tips=10>Michio</tips>. Do what you want. But <tips=71>Great Hole Manju</tips>? That's really the name?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2294,7 +2294,7 @@
       "en": "“It suits the City, and you remember it, right? One of the world's few mysterious giant holes is right next door. How could I not use the <tips=8>Great Hole</tips> in the name? Actually, I thought of the name first and invented a product to match. Pretty clever, huh? Even a hard man to please like you has to give me that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2309,7 +2309,7 @@
       "en": "“Hm.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2324,7 +2324,7 @@
       "en": "“Is that all?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2339,7 +2339,7 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2354,7 +2354,7 @@
       "en": "“That's it? Cold, man.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
           "s": "c"
         }
       ]
@@ -2369,7 +2369,7 @@
       "en": "<tips=10>Michio</tips> frowns in dissatisfaction.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5dcf24dad24b.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-02.webp",
           "s": "c"
         }
       ]
@@ -2384,7 +2384,7 @@
       "en": "“Listen, <tips=1>Ryou</tips>. I want to change this City. <tips=9>Y District</tips> is a good place. It's free, and all kinds of wonderful people live here. But there's far too much misery, too. I never understood why this City made you so angry, but lately I'm starting to. And I want to do something about it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2399,7 +2399,7 @@
       "en": "He looks at me as if asking for an answer. I give him none, so he goes on:",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2414,7 +2414,7 @@
       "en": "“...So, well, will you help me? With the business?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2429,7 +2429,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2444,7 +2444,7 @@
       "en": "I say it flatly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2459,7 +2459,7 @@
       "en": "“Don't say that. You can always go back to university later, can't you? People like us were born in this City. Shouldn't changing it come first?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2474,7 +2474,7 @@
       "en": "“You've got to be joking. I'm not interested.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2489,7 +2489,7 @@
       "en": "“You're cold.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-04.webp",
           "s": "c"
         }
       ]
@@ -2504,7 +2504,7 @@
       "en": "<tips=10>Michio</tips>'s shoulders slump.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-04.webp",
           "s": "c"
         }
       ]
@@ -2519,7 +2519,7 @@
       "en": "Well, of course not. Why in the world would I sell manju?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-04.webp",
           "s": "c"
         }
       ]
@@ -2534,7 +2534,7 @@
       "en": "He could sell a million of them and never change the City.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-04.webp",
           "s": "c"
         }
       ]
@@ -2549,7 +2549,7 @@
       "en": "<tips=10>Michio</tips> wins other people over with this routine as if casting a spell. It doesn't work on me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-00815cf5d3c6.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-04.webp",
           "s": "c"
         }
       ]
@@ -2564,7 +2564,7 @@
       "en": "“Well, maybe that's just where you are in life right now. Someday you'll realize this City—the place that made you—matters more than whatever you're studying or all those huge, complicated questions you think about. Tell me when you change your mind. I'll let you join us.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2579,7 +2579,7 @@
       "en": "<tips=10>Michio</tips> smiles as serenely as ever. No matter how I explain myself, he'll never understand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2594,7 +2594,7 @@
       "en": "I sigh. Then I notice that a message has arrived on my phone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2609,7 +2609,7 @@
       "en": "“Finally. The address of tonight's hotel.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2624,7 +2624,7 @@
       "en": "“Where are you staying?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2639,7 +2639,7 @@
       "en": "“I'm not telling you. You'd come wandering over whenever the mood struck. Still, it was good to hear what you've been up to. See you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2654,7 +2654,7 @@
       "en": "I try to bring the conversation to an end.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f09e8797ea7a.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f007-01.webp",
           "s": "c"
         }
       ]
@@ -2669,7 +2669,7 @@
       "en": "“Tell me—you're really not coming back to this City?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2684,7 +2684,7 @@
       "en": "He looks at me with a serious expression.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2699,7 +2699,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2714,7 +2714,7 @@
       "en": "“Come back. We can do this together. I know it would be fun.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2729,7 +2729,7 @@
       "en": "“Maybe it would be fun. But that part of my life is over.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2744,7 +2744,7 @@
       "en": "I answer firmly, then add:",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2759,7 +2759,7 @@
       "en": "“By now, I'm far too cold toward all the chaos in this City. A drug addict could appear in front of me this instant and start knifing everyone on <tips=57>Runway Street</tips>, and I'd probably just nod and keep walking.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2774,7 +2774,7 @@
       "en": "“Nah. That's a lie.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2789,7 +2789,7 @@
       "en": "“It isn't. I've grown up too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f77fa7abac14.webp",
+          "u": "assets/vn/portraits/portrait-michio-mido-f094-02.webp",
           "s": "c"
         }
       ]
@@ -2892,7 +2892,7 @@
       "se": "",
       "jp": "　<tips=4>馬明</tips>の使いは見たことのないブラジル人だった。",
       "en": "The man <tips=4>Ma Ming</tips> sends for me is a Brazilian I have never seen before.",
-      "bg": "assets/vn/backgrounds/bg-d6fb04408fb6.webp"
+      "bg": "assets/vn/backgrounds/background-ブラジル人の運転する車内.webp"
     },
     {
       "id": "A1:0368",
@@ -3091,7 +3091,7 @@
       "se": "",
       "jp": "『<tips=41>グランドタワー</tips>』と呼ばれるその建物は３５階建てであり、特別高層というわけでもないが、<tips=9>Y地区</tips>には他に巨大なビルがないのでよく目立つ。",
       "en": "<tips=41>Grand Tower</tips> stands thirty-five stories tall. Nothing exceptional elsewhere, but with no other enormous buildings in <tips=9>Y District</tips>, it dominates the skyline.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "A1:0404",
@@ -3407,7 +3407,7 @@
       "se": "",
       "jp": "　僕はまたエレベーターに乗って少し階を下りる。",
       "en": "I get back into the elevator and descend a few floors.",
-      "bg": "assets/vn/backgrounds/bg-a119ef071cac.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー廊下.webp"
     },
     {
       "id": "A1:0451",
@@ -3516,7 +3516,7 @@
       "se": "",
       "jp": "　彼女の住まいとなった部屋はちょっとした家のリビングルームくらい広く、向こうにはベランダへ続くガラス戸も見られる。",
       "en": "Her residence is as spacious as the living room of a modest house. Across the room, I can see glass doors opening onto a balcony.",
-      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
+      "bg": "assets/vn/backgrounds/background-筱喬の部屋.webp"
     },
     {
       "id": "A1:0467",
@@ -3555,7 +3555,7 @@
       "en": "“Big brother!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3570,7 +3570,7 @@
       "en": "Her features aren't especially childish. But perhaps because she has lived cut off from the world, both her speech and expressions seem far younger than her real age.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3585,7 +3585,7 @@
       "en": "“I heard you were coming today, so I've been looking forward to it. It's been so long! Are you having fun at school?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3600,7 +3600,7 @@
       "en": "She tilts her head like a little girl.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3615,7 +3615,7 @@
       "en": "“Yeah. Have you been well, <tips=44>Siu</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3630,7 +3630,7 @@
       "en": "“I have! ...You went to <ruby=メイメイ><tips=24>Meimei</tips></ruby>'s wedding yesterday, didn't you? <tips=44>Siu</tips> wanted to go too... Father went, and you went, and only <tips=44>Siu</tips> had to stay home. It's no fun.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3645,7 +3645,7 @@
       "en": "She pouts.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3660,7 +3660,7 @@
       "en": "“You didn't miss anything interesting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3675,7 +3675,7 @@
       "en": "“I wanted to see <tips=24>Meimei</tips> in her wedding dress. ...And it had to be more fun than sitting in this room, right? I wanted to see <tips=36>Aurora</tips> and the others and talk again. I want to see the church too. It's been so long since I've seen anything but the view from this house...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3690,7 +3690,7 @@
       "en": "“They hardly ever let you out?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3705,7 +3705,7 @@
       "en": "“Y-yes...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "c"
         }
       ]
@@ -3720,7 +3720,7 @@
       "en": "I catch a flicker of unease in <tips=44>Xiaoqiao</tips> as she nods. Something strikes me as odd, but I choose not to ask and pretend I noticed nothing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "c"
         }
       ]
@@ -3735,7 +3735,7 @@
       "en": "“I'll tell the <tips=81>Longtou</tips> to let you go out more often.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "c"
         }
       ]
@@ -3750,7 +3750,7 @@
       "en": "“N-no, that's all right! I know Father only worries about <tips=44>Siu</tips>! I don't want to be selfish.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "c"
         }
       ]
@@ -3765,7 +3765,7 @@
       "en": "“Then I won't say anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "c"
         }
       ]
@@ -3780,7 +3780,7 @@
       "en": "At my answer, <tips=44>Xiaoqiao</tips> sighs with relief.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "c"
         }
       ]
@@ -3795,7 +3795,7 @@
       "en": "“Thank you. ...So, big brother, there's something I want to ask. Is that all right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3810,7 +3810,7 @@
       "en": "<tips=44>Xiaoqiao</tips> looks up at me, searching my expression as she asks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3825,7 +3825,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3840,7 +3840,7 @@
       "en": "I tense slightly. <tips=44>Xiaoqiao</tips> can be uncannily perceptive—or perhaps she simply has excellent instincts. She sees straight through any clumsy evasion.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3855,7 +3855,7 @@
       "en": "“Father called you here today, didn't he?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3870,7 +3870,7 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3885,7 +3885,7 @@
       "en": "“That's never happened before, has it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3900,7 +3900,7 @@
       "en": "“Was it? I only came here because of the wedding.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3915,7 +3915,7 @@
       "en": "Sensing the question now forming in my sister's mind, I deliberately play dumb.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3930,7 +3930,7 @@
       "en": "“That's right. And you almost never do what Father says so readily. Usually, that would never happen...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3945,7 +3945,7 @@
       "en": "<tips=44>Xiaoqiao</tips> seems convinced of it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3960,7 +3960,7 @@
       "en": "“That's not true. Sometimes the mood strikes me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3975,7 +3975,7 @@
       "en": "An excuse this feeble won't fool <tips=44>Xiaoqiao</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -3990,7 +3990,7 @@
       "en": "She proves me right at once.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "c"
         }
       ]
@@ -4005,7 +4005,7 @@
       "en": "“Big brother... is Father going to die soon?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4020,7 +4020,7 @@
       "en": "<tips=44>Xiaoqiao</tips> asks with solemn eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4035,7 +4035,7 @@
       "en": "“No one tells me anything when I ask about Father's health, but everything is too different from usual. Even someone as stupid as me can tell...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4050,7 +4050,7 @@
       "en": "“All right. I'll tell you plainly. Are you sure?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4065,7 +4065,7 @@
       "en": "“Y-yes...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4080,7 +4080,7 @@
       "en": "“First, I don't know the details of Father's condition either. But I expect the same thing <tips=44>Xiaoqiao</tips> just imagined. ...I think I first sensed something was wrong when they told me to come to the wedding.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "c"
         }
       ]
@@ -4095,7 +4095,7 @@
       "en": "“I knew it...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "c"
         }
       ]
@@ -4108,7 +4108,7 @@
       "se": "",
       "jp": "　<tips=44>筱喬</tips>は糸の切れた操り人形のように全身を脱力させて、床にぺたりと座り込む。そして急に大粒の涙をボロボロとこぼして泣き始めた。",
       "en": "Like a puppet with its strings cut, <tips=44>Xiaoqiao</tips> goes limp and crumples to the floor. Then huge tears spill from her eyes and she begins to sob.",
-      "bg": "assets/vn/backgrounds/bg-b9b977e09bbf.webp"
+      "bg": "assets/vn/backgrounds/background-a1-mask-a.webp"
     },
     {
       "id": "A1:0533",
@@ -4703,7 +4703,7 @@
       "se": "",
       "jp": "「ばかっ！」",
       "en": "“Idiot!”",
-      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
+      "bg": "assets/vn/backgrounds/background-筱喬の部屋.webp"
     },
     {
       "id": "A1:0606",
@@ -4794,7 +4794,7 @@
       "se": "",
       "jp": "　他の階は良くも悪くもオフィスビルを思わせる近代的でシンプルな内装であったけれど、<tips=81>龍頭</tips>の居住となるその場所は、それに相応しい装飾があしらわれ、絢爛と言うべきだろう。",
       "en": "For better or worse, the other floors are modern and plain, much like any office building. This one is the <tips=81>Longtou</tips>'s home, decorated to match. Resplendent is the word.",
-      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー最上階廊下.webp"
     },
     {
       "id": "A1:0630",
@@ -4824,7 +4824,7 @@
       "en": "“Brother still jokes as much as ever, but it's all bravado. He's in bad shape. Very bad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4839,7 +4839,7 @@
       "en": "The uncharacteristically grave voice of <tips=4>Ma Ming</tips>, walking beside me, echoes down the corridor.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4854,7 +4854,7 @@
       "en": "I'm still deciding what face to wear in that first instant after the door opens.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4869,7 +4869,7 @@
       "en": "“The doctor says he probably won't die tomorrow or the day after. Ten days from now, though? That's another matter.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4884,7 +4884,7 @@
       "en": "This is more urgent than I expected. From a distance yesterday, Father was in a wheelchair, but he was talking and seemed lively enough.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4899,7 +4899,7 @@
       "en": "That complicates things.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4914,7 +4914,7 @@
       "en": "People who know the circumstances probably believe that I hate my father.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4929,7 +4929,7 @@
       "en": "It is true that <tips=3>Chris Xie</tips> and I have been estranged for years and barely speak. Neither of us knows how to act naturally around the other.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4944,7 +4944,7 @@
       "en": "But that is not the whole of it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -4959,7 +4959,7 @@
       "en": "“Listen, <tips=2>Ah Liang</tips>. I know you two have history. But today, put it aside and hear Brother out.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -4974,7 +4974,7 @@
       "en": "Even now, enough distance lies between us that I behave like a stranger. As a boy, I always felt there was something about him I could never get used to.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -4989,7 +4989,7 @@
       "en": "I wasn't blind to Father's reasons. But after he left us entirely to ourselves, I could never shake the suspicion that he had abandoned our family.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -5004,7 +5004,7 @@
       "en": "The way the world praised and feared <tips=3>Chris Xie</tips> inspired no respect in me. It only made him feel farther away. I envied friends whose fathers patched their torn soccer balls or showed them how to tie knots that wouldn't come loose.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -5019,7 +5019,7 @@
       "en": "So although I couldn't quite say I hated <tips=3>Chris Xie</tips>, as a boy I couldn't stop my heart from going cold whenever I thought of him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -5034,7 +5034,7 @@
       "en": "“He's behind this door. ...Are you ready?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "r"
         }
       ]
@@ -5137,7 +5137,7 @@
       "se": "",
       "jp": "　<tips=4>馬明</tips>がノックをすると、音もなくドアは開いた。",
       "en": "When <tips=4>Ma Ming</tips> knocks, the door opens without a sound.",
-      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー最上階廊下.webp"
     },
     {
       "id": "A1:0684",
@@ -5147,7 +5147,7 @@
       "se": "",
       "jp": "　広い部屋の中央にベッドが設置され、その脇に<tips=39>ジェフリー・ウォン</tips>と、父の身のまわりの世話をする役目であろう女の従者が立っている。",
       "en": "A bed stands in the center of a spacious room. Beside it are <tips=39>Jeffrey Wong</tips> and a female attendant whose role must be to see to my father's daily needs.",
-      "bg": "assets/vn/backgrounds/bg-ac3eb4995358.webp"
+      "bg": "assets/vn/backgrounds/background-evbst-02-a.webp"
     },
     {
       "id": "A1:0693",
@@ -5868,7 +5868,7 @@
       "se": "",
       "jp": "　彼は目を閉じる。",
       "en": "He closes his eyes.",
-      "bg": "assets/vn/backgrounds/bg-f1031c2ebc8d.webp"
+      "bg": "assets/vn/backgrounds/background-evbst-02-b.webp"
     },
     {
       "id": "A1:0779",
@@ -6229,7 +6229,7 @@
       "se": "",
       "jp": "　どうにか言うと、僕は父の顔を睨み付けた。彼は案の定、ニヤニヤと笑っている。",
       "en": "When I finally manage it, I glare at Father. Just as I expected, he is grinning.",
-      "bg": "assets/vn/backgrounds/bg-ac3eb4995358.webp"
+      "bg": "assets/vn/backgrounds/background-evbst-02-a.webp"
     },
     {
       "id": "A1:0833",
@@ -6284,7 +6284,7 @@
       "se": "",
       "jp": "　地下の駐車場までやって来ると、くつろいで煙草を吸っていたブラジル人運転手を促し、ドアを開けさせた。",
       "en": "In the underground garage, I find the Brazilian driver relaxing with a cigarette. I hurry him along and have him open the door.",
-      "bg": "assets/vn/backgrounds/bg-d6fb04408fb6.webp"
+      "bg": "assets/vn/backgrounds/background-ブラジル人の運転する車内.webp"
     },
     {
       "id": "A1:0854",
@@ -6377,7 +6377,7 @@
       "en": "“...Hey. Stop by my office.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6392,7 +6392,7 @@
       "en": "“Oh, Master <tips=4>Ma Ming</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6407,7 +6407,7 @@
       "en": "The driver looks bewildered by <tips=4>Ma Ming</tips>'s sudden arrival and order.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6422,7 +6422,7 @@
       "en": "“Take another car back. I want to be alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6437,7 +6437,7 @@
       "en": "“Come on, don't be like that. I have something important to discuss. ...My office, driver.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6452,7 +6452,7 @@
       "en": "Without giving me a chance to object, he repeats the destination to the driver.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6467,7 +6467,7 @@
       "en": "“Still, that was... Well, that was something.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6482,7 +6482,7 @@
       "en": "As the car pulls away, <tips=4>Ma Ming</tips> struggles to hold in a chuckle.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6497,7 +6497,7 @@
       "en": "“If you want to laugh, go ahead and laugh.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6512,7 +6512,7 @@
       "en": "I speak irritably.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6527,7 +6527,7 @@
       "en": "“Sorry, sorry! But I never imagined Brother would say something like that. I was certain he meant to tell <tips=2>Ah Liang</tips> to join the organization. To think that was his greatest wish! Well, I suppose that's a father's heart for you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-04.webp",
           "s": "l"
         }
       ]
@@ -6542,7 +6542,7 @@
       "en": "“Of course it wasn't. He meant to talk about the organization's future at first. Then I walked in, he saw he'd never persuade me, and he invented the whole thing on the spot to make a fool of me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-04.webp",
           "s": "l"
         }
       ]
@@ -6557,7 +6557,7 @@
       "en": "“Even Brother isn't that cruel.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-04.webp",
           "s": "l"
         }
       ]
@@ -6572,7 +6572,7 @@
       "en": "“He is. Even on his deathbed.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3701da5e3817.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-04.webp",
           "s": "l"
         }
       ]
@@ -6587,7 +6587,7 @@
       "en": "“Hmmm.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6602,7 +6602,7 @@
       "en": "<tips=4>Ma Ming</tips> folds his arms.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6617,7 +6617,7 @@
       "en": "“I don't know what Brother truly intends. But given the state of <tips=7>YS</tips>, <tips=2>Ah Liang</tips> is the only suitable successor. Once Brother dies, nothing but his eldest son taking over will hold the organization together.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6632,7 +6632,7 @@
       "en": "“Of course there are other choices. You have plenty of capable people. Promote one of them. That's the sensible thing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6647,7 +6647,7 @@
       "en": "“The <tips=81>Longtou</tips>'s position passes to his blood relatives. That is tradition.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6662,7 +6662,7 @@
       "en": "“That is the tradition of <tips=69>Yi Shen</tips>, not <tips=7>YS</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6677,7 +6677,7 @@
       "en": "“Same thing. The old rules from <tips=69>Yi Shen</tips> still stand. And in this world, nothing is thicker than blood.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6692,7 +6692,7 @@
       "en": "“That's archaic. Only the <tips=76>Hong Kong Faction</tips> still thinks that way. The other executives will never accept it. The <tips=81>Longtou</tips> himself just said so.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6707,7 +6707,7 @@
       "en": "“Was that really what he thinks? Either way, someone with a close connection to <tips=3>Chris Xie</tips> has to succeed him. There's no other choice.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6722,7 +6722,7 @@
       "en": "Here <tips=4>Ma Ming</tips> lowers his voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -6737,7 +6737,7 @@
       "en": "“As Brother weakens and death draws closer, the old feeling is returning to this City.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6752,7 +6752,7 @@
       "en": "“The old feeling?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6767,7 +6767,7 @@
       "en": "“That's right. The days before <tips=7>YS</tips>, when every organization fought the others. Men who have kept quiet until now are thinking about the balance of power after Brother dies, moving to gain whatever advantage they can. Something ugly is in the air. Didn't you notice at the wedding? They were huddled in little groups everywhere, talking only among themselves. They could hardly make it more obvious.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6782,7 +6782,7 @@
       "en": "“I did notice. I hadn't realized the <tips=81>Longtou</tips>'s influence had weakened so much.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6797,7 +6797,7 @@
       "en": "“Exactly. So that was why <tips=2>Ah Liang</tips> was so irritated.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6812,7 +6812,7 @@
       "en": "“That had nothing to do with it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6827,7 +6827,7 @@
       "en": "I reply sullenly, and he laughs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6842,7 +6842,7 @@
       "en": "“Anyway, if we simply take the boss of another faction and install him as <tips=81>Longtou</tips>, the organization will split and we'll go straight back to the old warring days. That's plain as day. <tips=7>YS</tips> was never tightly knit. It held together because the City's hero, <tips=3>Chris Xie</tips>, was in charge and every faction benefited. We need a successor who can carry that legend forward.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6857,7 +6857,7 @@
       "en": "“If blood is all that matters, choose one of the relatives in <tips=76>Old Yi Shen</tips>. There are plenty. Personally, I'd throw out the bloodline rule and let <tips=39>Jeffrey</tips> or <tips=4>Ma Ming</tips> do it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6872,7 +6872,7 @@
       "en": "“Neither <tips=39>Jeffrey</tips> nor I could satisfy our own people, never mind all of <tips=7>YS</tips>. ...You really understand nothing. Sharing Brother's blood isn't enough. The relatives in the organization are all older than he is. With all due respect, none of them managed a thing before Brother rose to power. No one expects anything from them. ...That's why we need a young heir bursting with promise.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6887,7 +6887,7 @@
       "en": "“And I'm the poor fool who gets stuck with it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6902,7 +6902,7 @@
       "en": "“Why are you so against it? It's worthwhile work.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6917,7 +6917,7 @@
       "en": "“You've got to be joking. This isn't a traditional art. Children don't automatically inherit their parents' jobs. From inside your world, maybe I'm nothing but <tips=3>Chris Xie</tips>'s son. But I have a life of my own. I've never thought of myself as his successor. That's why I worked so hard to become a student. Why should I come this far only to get dragged into a criminal organization?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6932,7 +6932,7 @@
       "en": "“Then you'll have to change your thinking. I know you have a life of your own. But to the people of this City, carrying <tips=3>Chris Xie</tips>'s blood means more than you understand. You can't simply ignore it and walk away. ...Listen. If you refuse to succeed him, someone else with the same blood will. Do you understand?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6947,7 +6947,7 @@
       "en": "“Do you mean...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6962,7 +6962,7 @@
       "en": "A dreadful suspicion crosses my mind.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6977,7 +6977,7 @@
       "en": "“Are you talking about <tips=44>Siu</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -6992,7 +6992,7 @@
       "en": "<tips=4>Ma Ming</tips> looks at me in silence.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7007,7 +7007,7 @@
       "en": "“<tips=4>Ma Ming</tips>, that's impossible. You said it yourself—the people of <tips=76>Old Yi Shen</tips> are terrifyingly conservative. They'd never accept a child like <tips=44>Siu</tips>, a girl and <tips=17>Type B</tips> besides, as <tips=81>Longtou</tips>. They may not even accept me because I'm half Japanese. There was tremendous opposition when Mother married the <tips=81>Longtou</tips>, wasn't there?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7022,7 +7022,7 @@
       "en": "“The blood of <tips=3>Chris Xie</tips> carries more weight than you realize. You have no idea how special Brother is within <tips=69>Yi Shen</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7037,7 +7037,7 @@
       "en": "<tips=4>Ma Ming</tips>'s face is utterly serious.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7052,7 +7052,7 @@
       "en": "“If you step aside, someone will put <tips=44>Siu</tips> forward. Being a woman and a child won't matter. Some will see that as an advantage—she'll be easier to use. Even if they can't make her <tips=81>Longtou</tips>, think how much they'd gain by pulling her into their camp.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7067,7 +7067,7 @@
       "en": "“Using <tips=44>Siu</tips> against me is cowardly.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7082,7 +7082,7 @@
       "en": "“I'm only telling you the truth.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7097,7 +7097,7 @@
       "en": "His face shows no sign of a lie. Then again, he has always been a terrible liar.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7112,7 +7112,7 @@
       "en": "“You want me to sacrifice myself for my sister?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7127,7 +7127,7 @@
       "en": "“That's not what I'm saying. You have what it takes to be <tips=81>Longtou</tips>. I just don't want to see it wasted. ...Besides, is student life really that much fun? I can't picture you sitting quietly at a desk doing your homework.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7142,7 +7142,7 @@
       "en": "“It is fun.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7157,7 +7157,7 @@
       "en": "“No, no. Can't be. You must be getting bored by now. Think about it. There's a special path waiting for you, something no ordinary person gets. Plenty of people in the organization hope you'll join us. Especially the women. My daughter and all three Fernandez girls are fans of yours, aren't they? Handsome men have all the luck. I wish I'd been born with a face like that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7172,7 +7172,7 @@
       "en": "“You have a face with character too, <tips=4>Ma Ming</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7187,7 +7187,7 @@
       "en": "“And that's supposed to be a compliment?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "l"
         }
       ]
@@ -7202,7 +7202,7 @@
       "en": "<tips=4>Ma Ming</tips> says sourly, then claps me on the shoulder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "l"
         }
       ]
@@ -7217,7 +7217,7 @@
       "en": "“Listen, <tips=2>Ah Liang</tips>. Brother said what he did today, but I know he wants the same thing I do. Once he's gone, no one but you can hold our organization together. Will you at least think about that? Stay in the City a little longer. Brother didn't raise the subject, so I can't press you for an answer. But even if you never become <tips=81>Longtou</tips> of <tips=7>YS</tips>, you're still heir to the Xie family. You have a duty to see this through.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7232,7 +7232,7 @@
       "en": "I remain silent.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7247,7 +7247,7 @@
       "en": "I show no sign of answering, so <tips=4>Ma Ming</tips> speaks again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -7262,7 +7262,7 @@
       "en": "“Changing the subject—my wife is apparently planning a reception. I won't be there, but the <tips=35>Fernandez</tips> girls I mentioned are coming, and so is <tips=28>Tommy</tips>. I'm sure she'll invite <tips=2>Ah Liang</tips>. Why not go and catch up with your old friends?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7277,7 +7277,7 @@
       "en": "“Doesn't sound like my kind of gathering.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7292,7 +7292,7 @@
       "en": "“Take care of your childhood friends. If Brother and I hadn't grown up together, I'd never have lived this life. I'd still be some worthless thug.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7307,7 +7307,7 @@
       "en": "“You don't have to put yourself down that much.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7322,7 +7322,7 @@
       "en": "Beside my father, a born leader, and the calm, clever <tips=39>Jeffrey</tips>, <tips=4>Ma Ming</tips> tends to see himself as nothing but muscle.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7337,7 +7337,7 @@
       "en": "He always had that tendency. Now that years as an executive have weakened even the strength he once took pride in, he must feel it more keenly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7352,7 +7352,7 @@
       "en": "“Fine. I'll think about it. He really doesn't have long, after all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7367,7 +7367,7 @@
       "en": "“Good. If you've got time, walk around the City. See for yourself what it's become.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "l"
         }
       ]
@@ -7416,7 +7416,7 @@
       "se": "",
       "jp": "　<tips=4>馬明</tips>の言葉に感化された訳じゃない。ふと、昨日歩いている時に嗅いだコシーニャを揚げるにおいを思い出しただけだ。",
       "en": "<tips=4>Ma Ming</tips> hasn't won me over. I simply remember the smell of coxinhas frying as I walked yesterday.",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp"
     },
     {
       "id": "A1:0951",
@@ -7534,7 +7534,7 @@
       "se": "",
       "jp": "　ここで<tips=57>滑走路通り</tips>に混乱が訪れた。",
       "en": "Then chaos comes to <tips=57>Runway Street</tips>.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     },
     {
       "id": "A1:0973",

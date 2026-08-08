@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　今は栄える<tips=57>滑走路通り</tips>も、北の端まで行けば、かつての面影そのままの狭く小汚い飲食店が建ち並んでいる。",
       "en": "<tips=57>Runway Street</tips> may be thriving now, but up at its northern end, the same cramped, grimy little eateries from the old days still stand shoulder to shoulder.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     },
     {
       "id": "E1:0008",
@@ -61,10 +61,10 @@
       "se": "Carlotta",
       "jp": "「クニちゃん。何も食べずにお酒ばっかり続けて飲んだら身体に毒よ」",
       "en": "“Kuni, you'll poison yourself drinking on an empty stomach like that.”",
-      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp",
+      "bg": "assets/vn/backgrounds/background-スペイン風のバル.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -79,7 +79,7 @@
       "en": "Carlotta, the owner of “<ruby=プエルト>Puerto</ruby>,” gives me the same lecture every time I order another tequila.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -94,7 +94,7 @@
       "en": "I suppose you would call the place a Spanish-style bar. It is small but busy, with every seat at the counter and every table occupied.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -109,7 +109,7 @@
       "en": "In <tips=9>Y District</tips>, a place like this is usually run by someone from the country whose food it serves. But for all her suitably Spanish name, Carlotta is Thai through and through. She studied in Spain as a student, fell in love with the food, and came back to open this bar in the City.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -124,7 +124,7 @@
       "en": "Carlotta is extraordinarily tall for a woman. More precisely, she was born male. She tells me it never felt right; after a long series of operations, she became the woman she is now.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -139,7 +139,7 @@
       "en": "I once slept with her myself, just to see. She certainly felt a little different from other women, but not enough that I would have noticed if she hadn't told me. The result was remarkably convincing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -154,7 +154,7 @@
       "en": "“All you ever order is liquor. Once in a while, I'd like you to try the food I'm so proud of.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -169,7 +169,7 @@
       "en": "At that, I glance at the chalkboard on the wall and the words TODAY'S SPECIALS written across it in white chalk.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -184,7 +184,7 @@
       "en": "The menu mixes Spanish dishes such as ajillo with food lavishly spiced in the style of Carlotta's native Thailand. Her cooking has quite a reputation. I have never ordered a bite.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -199,7 +199,7 @@
       "en": "I look back at her without a word. Carlotta sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -214,7 +214,7 @@
       "en": "“When I drink, I drink. I don't eat.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -229,7 +229,7 @@
       "en": "She refuses even to dignify that feeble excuse.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -244,7 +244,7 @@
       "en": "“Should you really be drinking while the sun's still up?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -259,7 +259,7 @@
       "en": "“What are you talking about? You're the one selling liquor at this hour.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -274,7 +274,7 @@
       "en": "“That's not what I mean. Weren't you supposed to be writing?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -289,7 +289,7 @@
       "en": "“...I already turned in this month's article.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -304,7 +304,7 @@
       "en": "“I mean that thing you're writing for yourself. The one that's going to win some documentary prize or other. You never stop telling me what you'll do with this part and that part, but it doesn't look as if you've started at all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -319,7 +319,7 @@
       "en": "“I gave myself the day off. You can't just dash off a masterpiece.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -334,7 +334,7 @@
       "en": "Carlotta answers with another sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -349,7 +349,7 @@
       "en": "“Isn't it about time you found a real job? Those writing fees of yours are barely pocket money. Find somewhere respectable, settle down, and make life a little easier for poor <tips=53>Miyuki</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -364,7 +364,7 @@
       "en": "“Does this bar offer career counseling with the drinks now?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -379,7 +379,7 @@
       "en": "Carlotta has grown remarkably brazen with age.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -394,7 +394,7 @@
       "en": "I twist my annoyance into a crooked, sardonic smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -409,7 +409,7 @@
       "en": "I am built rather more powerfully than most men, and a little menace from me will make almost anyone quake. It seems an old friend like her is immune.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -424,7 +424,7 @@
       "en": "“Of course. Jobs, love, anything at all—we handle every kind of problem here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -439,7 +439,7 @@
       "en": "She knows perfectly well that I am annoyed and keeps her face serenely blank.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -454,7 +454,7 @@
       "en": "I click my tongue, dig into my trouser pocket, and pull out several crumpled bills. I slap them onto the counter with deliberate force.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -469,7 +469,7 @@
       "en": "“Keep the change. You've spoiled my drink.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3f36fbd9af6a.webp",
+          "u": "assets/vn/portraits/portrait-carlotta-f076-01.webp",
           "s": "c"
         }
       ]
@@ -572,10 +572,10 @@
       "se": "Ken'ichi Doujima",
       "jp": "「<tips=50>路地</tips>君」",
       "en": "“Mr. <tips=50>Roji</tips>.”",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp",
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -590,7 +590,7 @@
       "en": "The voice catches me just outside, as I am lighting a cigarette.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -605,7 +605,7 @@
       "en": "It belongs to a police officer named <tips=48>Doujima</tips>—though no one would take him for a human being at first glance. What rises from the collar of his one good, cheap, threadbare suit is not a human head but a dog's. He looks like a man in a werewolf costume, but that is no mask or headpiece. It is the face he was born with.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -620,7 +620,7 @@
       "en": "That body is the price of the psychic power he was born with.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -635,7 +635,7 @@
       "en": "“Nothing good has happened all day.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -650,7 +650,7 @@
       "en": "I make no effort to hide my scowl or the click of my tongue.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -665,7 +665,7 @@
       "en": "He is the special investigator charged with <tips=16>Type A</tips> crime in <tips=9>Y District</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -680,7 +680,7 @@
       "en": "He is also the man who once arrested me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -695,7 +695,7 @@
       "en": "“I escape one of Carlotta's sermons and run straight into you, Detective. I had better go home, crawl under the blankets, and stay there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -710,7 +710,7 @@
       "en": "“We didn't run into each other. I asked Ms. <tips=53>Miyuki</tips> where you were, and she said I would probably find you here. I came because I need a favor.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -725,7 +725,7 @@
       "en": "I blow smoke at his muzzle. He wrinkles his nose in disgust. The reek of tobacco must be torture to him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -740,7 +740,7 @@
       "en": "“Blankets won't be enough. I'll need incense and heaps of salt to ward this off. You coming to ask me a favor is beyond a bad omen. I can only think I've been possessed.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -755,7 +755,7 @@
       "en": "“If you're possessed by anyone, it would be Ms. <tips=53>Miyuki</tips>'s living spirit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -770,7 +770,7 @@
       "en": "“Not bad for an old stick-in-the-mud.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -785,7 +785,7 @@
       "en": "I snort.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -800,7 +800,7 @@
       "en": "“Every so often, you come asking me for a favor, and it is always rotten work. When are you going to understand? I don't owe you any cooperation. Thanks to you, my life is damned inconvenient. My power is gone, the <tips=77>Trait Mutation</tips> is still here... Now I'm just some freak with a horn.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -815,7 +815,7 @@
       "en": "“You are blaming the wrong man. Your power is suppressed because you abused it, not because I arrested you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -830,7 +830,7 @@
       "en": "“I know that. You people took the precious gift I was born with and sealed it away in the name of social justice or some such thing. Thanks to you, I gave up detective work. Now I scrape together a living writing vice reports and gossip about this City for trash magazines that pay next to nothing. And after all that, you still think you can make use of me whenever it suits you. Isn't that a little much?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -845,7 +845,7 @@
       "en": "“We pay you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -860,7 +860,7 @@
       "en": "“That isn't the point. I'm talking about common decency. There is a limit to how badly you can insult a man.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -875,7 +875,7 @@
       "en": "I put my face close to <tips=48>Doujima</tips>'s as I say it. He does not so much as blink—though his face was never built for the range of expression a human face enjoys. Instead, he takes a notebook and pen from his coat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -890,7 +890,7 @@
       "en": "“This time, I can pay you this much.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -905,7 +905,7 @@
       "en": "He scribbles down a number and shows it to me. It is at least twice his usual rate, and painfully attractive to a man who is hardly living in comfort.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -920,7 +920,7 @@
       "en": "Still, I have no wish to put on the cheap little performance of changing my tune the instant money appears. Even I have some pride.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -935,7 +935,7 @@
       "en": "“...Why so much? You usually offer pocket change.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -950,7 +950,7 @@
       "en": "I ask while doing my best not to let my face change.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -965,7 +965,7 @@
       "en": "“This case is special. If you want to hear about it, we should go inside. It isn't a conversation for the street.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -980,7 +980,7 @@
       "en": "<tips=48>Doujima</tips> glances around as he speaks. Even in this City's nightly parade of monsters, a dog-headed creature and a huge horned man holding a conference in the street draw the eye.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -993,7 +993,7 @@
       "se": "",
       "jp": "　そして今さっき後にしたばかりの『Ｐｕｅｒｔｏ』に舞い戻った。",
       "en": "So I march straight back into “Puerto,” which I had left only moments before.",
-      "bg": "assets/vn/backgrounds/bg-1f6b811632a9.webp"
+      "bg": "assets/vn/backgrounds/background-cutin02-mask-b.webp"
     },
     {
       "id": "E1:0108",
@@ -1354,7 +1354,7 @@
       "se": "",
       "jp": "　彼はスーツの胸元から電話を取り出し、席を立つ。",
       "en": "He draws the phone from inside his suit and leaves the table.",
-      "bg": "assets/vn/backgrounds/bg-9b126bf12339.webp"
+      "bg": "assets/vn/backgrounds/background-スペイン風のバル.webp"
     },
     {
       "id": "E1:0162",
@@ -1373,7 +1373,7 @@
       "se": "",
       "jp": "「いつも思うんですが、音はちゃんと切っておいてくださいよ。マナー違反ですよ」",
       "en": "“I've been meaning to tell you: put that thing on silent. Letting it ring is bad manners.”",
-      "bg": "assets/vn/backgrounds/bg-1f6b811632a9.webp"
+      "bg": "assets/vn/backgrounds/background-cutin02-mask-b.webp"
     },
     {
       "id": "E1:0172",
@@ -2328,7 +2328,7 @@
       "se": "",
       "jp": "「しかし、旦那はいつも一人で行動しているんですね。警察というのは、大抵二人以上で捜査するものだと聞いていましたが」",
       "en": "“You always work alone, don't you, Detective? I thought police investigations were generally conducted in pairs.”",
-      "bg": "assets/vn/backgrounds/bg-eb0a267d96b9.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り地上.webp"
     },
     {
       "id": "E1:0293",
@@ -2349,7 +2349,7 @@
       "en": "“The rules for ordinary officers don't apply to me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2364,7 +2364,7 @@
       "en": "<tips=48>Doujima</tips> answers without looking back. He never wastes words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2379,7 +2379,7 @@
       "en": "“Being a special investigator doesn't mean some rule forces you to work alone, does it? Even questioning witnesses must be hopeless. If someone like you turns up by himself, they will be too startled to tell you anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2394,7 +2394,7 @@
       "en": "“This is <tips=9>Y District</tips>, and our culprit is <tips=16>Type A</tips>. A Normal would only slow me down. Besides, I prefer to work alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2409,7 +2409,7 @@
       "en": "“Hm. I suppose I understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2424,7 +2424,7 @@
       "en": "I nod.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2439,7 +2439,7 @@
       "en": "“A lone wolf—or a lone dog, in your case.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2454,7 +2454,7 @@
       "en": "I toss the joke at <tips=48>Doujima</tips>'s retreating back. He pointedly ignores it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "c"
         }
       ]
@@ -2467,7 +2467,7 @@
       "se": "",
       "jp": "　そして私たちが辿り着いたのは、さきほど渡された携帯電話の持ち主が殺害された現場だった。",
       "en": "We arrive at the place where the owner of the phone was murdered.",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "E1:0310",
@@ -2506,7 +2506,7 @@
       "en": "“<tips=20>Koschei</tips> generally leaves his victims indoors. This one, unusually, was found here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2521,7 +2521,7 @@
       "en": "<tips=48>Doujima</tips> has no use for my sentiment. He continues in his flat, methodical way.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2536,7 +2536,7 @@
       "en": "“The dumping place changed, but the habit did not. The severed flesh had been packed neatly into several boxes—discarded aluminum confectionery tins from the scene.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2551,7 +2551,7 @@
       "en": "<tips=48>Doujima</tips> shows me a photograph.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2566,7 +2566,7 @@
       "en": "A confectionery tin of a kind seen everywhere in <tips=9>Y District</tips> is packed tight with something dark and red.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2581,7 +2581,7 @@
       "en": "“That told us it was the same killer. The victim was a university student from a town about thirty minutes away by train. She had no acquaintances here as far as we know, but she came to the City regularly to shop. She probably came for the same reason this time.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2596,7 +2596,7 @@
       "en": "“A university student. Lately, outsiders keep getting mixed up in trouble here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2611,7 +2611,7 @@
       "en": "“Probably because some singer or other became famous and drew attention to the area. They advertise <tips=57>Runway Street</tips> as fashionable, and young people come without knowing what sort of place it is. One of the younger detectives told me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2626,7 +2626,7 @@
       "en": "“And that was how she stumbled into this... Poor girl.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2641,7 +2641,7 @@
       "en": "I cannot keep the anger from my voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2656,7 +2656,7 @@
       "en": "“Detective, this is the kind of case I cannot forgive. She should have gone on living an ordinary life, with all sorts of happiness still ahead of her. Now she has lost every bit of it... What goes through a killer's head when he does something this cruel?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2671,7 +2671,7 @@
       "en": "“Every murderer is different. Some kill for pleasure, some from hatred, some for profit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2686,7 +2686,7 @@
       "en": "“Hmph. Whatever the reason, it is all worthless nonsense. Killing someone is the lowest act there is. Leave people alone and every last one of us will die eventually, so why go to the trouble? And this girl was only a university student... I have never been able to stomach the murder of a woman in particular. Perhaps that is simply how I am made. But surely even you feel a special anger when someone kills an innocent young woman with her whole future before her?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2701,7 +2701,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2716,7 +2716,7 @@
       "en": "“No difference at all?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2731,7 +2731,7 @@
       "en": "“None. Man, woman, or anything else—a victim is a victim to me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2746,7 +2746,7 @@
       "en": "<tips=48>Doujima</tips> shrugs as if my agitation has exhausted him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2761,7 +2761,7 @@
       "en": "“Fine. At least I understand what a sickening case this is... But the killer is a psychic, isn't he? You said you don't know his ability. Do you really know nothing?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2776,7 +2776,7 @@
       "en": "“Nothing. The Russian police who pursued him for years appear to know something, but no amount of prodding will make them send us anything. Psychics are a difficult matter in every country.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2791,7 +2791,7 @@
       "en": "“Facing a psychic whose power we know nothing about? You'd need nine lives, and even that wouldn't be enough.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2806,7 +2806,7 @@
       "en": "“That describes most of my work.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2821,7 +2821,7 @@
       "en": "“I finally know how you feel... Come to think of it, you said there was something strange about <tips=20>Koschei</tips>'s scent. What was it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2836,7 +2836,7 @@
       "en": "“Ah. That...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2851,7 +2851,7 @@
       "en": "“Tell me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2866,7 +2866,7 @@
       "en": "“...The scent I found belongs to a young man in his twenties or early thirties. If the killer truly is Koschei, that should be impossible. The records show that <tips=20>Koschei</tips> has been committing crimes for twenty years, and he was already a young man when the first occurred.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2881,7 +2881,7 @@
       "en": "<tips=48>Doujima</tips> cocks his head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2896,7 +2896,7 @@
       "en": "“Then perhaps it really is a copycat imitating <tips=20>Koschei</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2911,7 +2911,7 @@
       "en": "“It may be. Or my senses may be wrong. The scent was old and indistinct. I never caught it clearly. The man himself could pass us here now, and I might not notice.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2926,7 +2926,7 @@
       "en": "“Not much use, are you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2941,7 +2941,7 @@
       "en": "“None at all. Catch a murder scene while it is perfectly fresh, and I would know at once. As a police officer, however, I can hardly hope for that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2956,7 +2956,7 @@
       "en": "“Or as a human being... Still, noticing that much is pretty good for you. Listen, Detective. You had better find this <tips=20>Koschei</tips> before he kills again.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2971,7 +2971,7 @@
       "en": "“I hope to. There is one other thing about the scent that troubles me... though it may be my imagination.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -2986,7 +2986,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3001,7 +3001,7 @@
       "en": "“No. It is absurd. I must be thinking too much...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3016,7 +3016,7 @@
       "en": "For <tips=48>Doujima</tips>, this is a rare bout of hesitation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3031,7 +3031,7 @@
       "en": "“Never mind, then. Did you find anything besides the scent?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3046,7 +3046,7 @@
       "en": "“No physical evidence. In that respect, he knows his business.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3061,7 +3061,7 @@
       "en": "“Then stop turning up your nose at Normals. Bring your colleagues and try that old police favorite: sheer numbers.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3076,7 +3076,7 @@
       "en": "“The task force is doing what it can. But as you know, no one is less cooperative with the police than the people of this City. Finding a criminal here takes unusual methods and unusual abilities. That is how I have always made my arrests... but this time, I am not confident.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3091,7 +3091,7 @@
       "en": "<tips=48>Doujima</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3106,7 +3106,7 @@
       "en": "“You sound awfully defeated. Are your years finally catching up with you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3121,7 +3121,7 @@
       "en": "“Perhaps.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3136,7 +3136,7 @@
       "en": "His meek agreement takes all the wind out of me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3151,7 +3151,7 @@
       "en": "“Which brings me to the matter at hand, Mr. <tips=50>Roji</tips>. You have such a strong sense of justice that you sympathize with the victims and rage on their behalf. I have another favor to ask, beyond the phone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3166,7 +3166,7 @@
       "en": "“When you put it like that, nothing good can follow.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3181,7 +3181,7 @@
       "en": "“I doubt it will be so bad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3196,7 +3196,7 @@
       "en": "“We'll see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3211,7 +3211,7 @@
       "en": "“Hear me out first.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3226,7 +3226,7 @@
       "en": "<tips=48>Doujima</tips> clears his throat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3241,7 +3241,7 @@
       "en": "“I want your help with something more interesting than opening a phone—something that brings you into the investigation itself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3256,7 +3256,7 @@
       "en": "“What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3271,7 +3271,7 @@
       "en": "“Conduct your own investigation. Use your experience as a detective and your knowledge of this City to learn everything you can about <tips=20>Koschei</tips>. I will give you as much police information as I can. And while you are helping us, I will supply the neutralizer, so you can use your ability freely. What do you say?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3286,7 +3286,7 @@
       "en": "“I did not hear any mention of a fee.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3301,7 +3301,7 @@
       "en": "“We settled that at the bar.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3316,7 +3316,7 @@
       "en": "“That was payment for using my power once. For a proper investigation, you'll have to pay me separately.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3331,7 +3331,7 @@
       "en": "“I cannot pay more than that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3346,7 +3346,7 @@
       "en": "“Then there is nothing to discuss.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3361,7 +3361,7 @@
       "en": "“I could never persuade my superiors to pay someone like you to run an investigation outright. You just told me you cannot forgive this killer. And you enjoy this sort of case, don't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3376,7 +3376,7 @@
       "en": "“Now wait. If I investigate for you, I can't do my own work in the meantime. I can't take the job for nothing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3391,7 +3391,7 @@
       "en": "“Help me and I will owe you a favor. That could prove very useful. My opinions and reports carry considerable weight in deciding how you are treated from now on. By the same token, I can write an unfavorable report.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3406,7 +3406,7 @@
       "en": "“You really are a piece of work!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3421,7 +3421,7 @@
       "en": "I cannot keep my voice down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3436,7 +3436,7 @@
       "en": "The man is all but threatening me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3451,7 +3451,7 @@
       "en": "“Is that a firm refusal?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3466,7 +3466,7 @@
       "en": "“It is.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3481,7 +3481,7 @@
       "en": "“Very well. If your investigation proves decisive in <tips=20>Koschei</tips>'s arrest, I will ask my superiors to release your ability permanently.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3496,7 +3496,7 @@
       "en": "“You know you can't promise that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3511,7 +3511,7 @@
       "en": "“You don't believe me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3526,7 +3526,7 @@
       "en": "“Of course not.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3541,7 +3541,7 @@
       "en": "“Even if they refuse, I will share my supply of neutralizer with you for the rest of my life. You could hardly ask for a better offer.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3556,7 +3556,7 @@
       "en": "“How could I trust that? You aren't a man who would ever trust me that far.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3571,7 +3571,7 @@
       "en": "I say it with a perfectly straight face. <tips=48>Doujima</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3586,7 +3586,7 @@
       "en": "“The point is that I have high hopes for you. I have another engagement today, so I will leave you here. Call whenever you need information or have progress to report.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3601,7 +3601,7 @@
       "en": "“No. I'm not doing it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]
@@ -3616,7 +3616,7 @@
       "en": "“I look forward to your results.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-facb9ec96cd0.webp",
+          "u": "assets/vn/portraits/portrait-ken-ichi-doujima-f016-01.webp",
           "s": "r"
         }
       ]

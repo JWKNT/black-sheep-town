@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=41>グランドタワー</tips>最上階。<tips=81>龍頭</tips>の執務室であるその部屋の窓からは、<tips=9>Y地区</tips>の主要な地域を一望することが出来る。",
       "en": "The top floor of <tips=41>Grand Tower</tips>. From the windows of this room—the <tips=81>Longtou</tips>’s office—the principal districts of <tips=9>Y District</tips> lay open at a glance.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "X3-3:0011",
@@ -52,7 +52,7 @@
       "se": "",
       "jp": "　すると、背後でドアがノックされ、<tips=31>エリー・ホワイト</tips>が入って来る。",
       "en": "Then someone knocked behind him, and <tips=31>Elly White</tips> entered.",
-      "bg": "assets/vn/backgrounds/bg-69d51a3ccb4e.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室3.webp"
     },
     {
       "id": "X3-3:0017",
@@ -73,7 +73,7 @@
       "en": "“Your father often stood there and looked down over the City too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         }
       ]
@@ -88,7 +88,7 @@
       "en": "The young leader winced at <tips=31>Elly</tips>’s words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         }
       ]
@@ -103,7 +103,7 @@
       "en": "“He often laughed that when you held a position like this and looked down on the City, it was tempting to mistake yourself for a man of limitless power.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         }
       ]
@@ -118,11 +118,11 @@
       "en": "“I see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -137,11 +137,11 @@
       "en": "“Standing there, you are the very image of your father.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -156,11 +156,11 @@
       "en": "<tips=31>Elly</tips> approached <tips=1>Liang</tips>, touched his cheek, and studied his face. This close, he could see her bare features through the veil for the first time. She was younger and more beautiful than he had imagined, and full of sorrow.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -175,11 +175,11 @@
       "en": "“Perhaps you want to see him in me. But I can’t live as my predecessor did, and I don’t mean to imitate him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -194,11 +194,11 @@
       "en": "“I understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -213,11 +213,11 @@
       "en": "After whispering the words, <tips=31>Elly</tips> leaned close to <tips=1>Liang</tips> and touched her lips to his.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -232,11 +232,11 @@
       "en": "Surprise crossed <tips=1>Liang</tips>’s face for an instant. He neither pulled away nor answered the kiss, merely accepting in silence what the woman said to have been his father’s lover chose to do. His expression was distant and unreadable, reflecting no emotion. Even a gifted judge of people could not have guessed what he felt.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -251,11 +251,11 @@
       "en": "When <tips=31>Elly</tips> drew back, she searched <tips=1>Liang</tips>’s face and tried to speak. No words came. Tears slipped instead from the corners of her eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-de0bb0766337.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -270,11 +270,11 @@
       "en": "“Uh...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1022475241b.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -289,11 +289,11 @@
       "en": "Her face crumpled. She covered her mouth against an escaping sob.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1022475241b.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -308,11 +308,11 @@
       "en": "“<tips=31>Miss White</tips> shouldn’t cheapen herself like this. I’ll forget it happened.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1022475241b.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -327,11 +327,11 @@
       "en": "“Thank you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1022475241b.webp",
+          "u": "assets/vn/portraits/portrait-elly-white-f028-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -346,7 +346,7 @@
       "en": "<tips=31>Elly</tips> hurried from the room without another word.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -361,7 +361,7 @@
       "en": "<tips=31>Elly White</tips> was famed for dealing as an equal with gang bosses and men of every kind. Surely no one would have imagined her capable of showing such a face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "r"
         }
       ]
@@ -374,7 +374,7 @@
       "se": "",
       "jp": "　<tips=1>亮</tips>は深い溜息をつき、執務室の椅子に腰掛けた。これも、初代が残し、愛用した椅子である。",
       "en": "<tips=1>Liang</tips> sighed deeply and sank into the chair behind the desk. The first Longtou had left and loved this too.",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp"
     },
     {
       "id": "X3-3:0042",
@@ -512,7 +512,7 @@
       "en": "“Sorry. I dozed off.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -527,7 +527,7 @@
       "en": "<tips=1>Liang</tips> apologized through sleep-clouded eyes. The subordinate said:",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -542,7 +542,7 @@
       "en": "“We’re ready to leave.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -557,7 +557,7 @@
       "en": "The subordinate waited.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -572,7 +572,7 @@
       "en": "“All right. I’ll be right there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -587,7 +587,7 @@
       "en": "<tips=1>Liang</tips> rose on unsteady legs and took his mobile phone from a drawer in the desk.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -602,7 +602,7 @@
       "en": "A notification showed that a call had come in without his noticing. It was from <tips=54>Kenjirou Shio</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -617,7 +617,7 @@
       "en": "He stared at the name for a time without expression, then slipped the phone into his pocket.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -630,7 +630,7 @@
       "se": "",
       "jp": "　<tips=1>亮</tips>が向かったのは、<tips=57>滑走路通り</tips>の一角にある中華料理店「うまかしゅか」。",
       "en": "<tips=1>Liang</tips> was headed to Umaka Shuka, a Chinese restaurant on <tips=57>Runway Street</tips>.",
-      "bg": "assets/vn/backgrounds/bg-1f191acfcf59.webp"
+      "bg": "assets/vn/backgrounds/background-ys車内.webp"
     },
     {
       "id": "X3-3:0074",
@@ -667,7 +667,7 @@
       "se": "",
       "jp": "　店舗の地下は広めの貯蔵庫になっており、業務用冷蔵庫や、各種の棚が所狭しと並べられている。部屋の中央は少し広い作業場になっていて、そこで運び込まれた食材の荷ほどきや仕分けを行うのだが、いまはその作業台は取り払われ、かわりに一つ椅子が置かれ、そして一人の男がロープで縛り付けられていた。",
       "en": "The restaurant basement was a broad storeroom crowded with commercial refrigerators and shelves. Its open central space was normally used to unpack and sort deliveries. Today the worktable was gone. In its place stood a single chair with a man tied to it.",
-      "bg": "assets/vn/backgrounds/bg-48c63db54fd9.webp"
+      "bg": "assets/vn/backgrounds/background-うまかしゅか貯蔵庫.webp"
     },
     {
       "id": "X3-3:0091",
@@ -706,7 +706,7 @@
       "en": "“Did he talk?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -721,7 +721,7 @@
       "en": "<tips=1>Liang</tips> came down into the room without twitching an eyebrow at the carnage. In an everyday tone grotesquely out of place here, he addressed <tips=4>Ma Ming</tips>, the man directing it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -736,11 +736,11 @@
       "en": "“He did. Just as <tips=2>Ah Liang</tips> said. Fools, every one of them.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -755,11 +755,11 @@
       "en": "<tips=4>Ma Ming</tips> spoke bitterly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -774,11 +774,11 @@
       "en": "The man undergoing this treatment was Xie Haojun, age thirty-two. As the surname suggested, he was related to <tips=1>Xie Liang</tips>, and belonged to an old, powerful line within <tips=76>Old Yi Shen</tips>. His father, Xie Chaoya, was one of <tips=76>Old Yi Shen</tips>’s leading figures.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -793,11 +793,11 @@
       "en": "Two days after <tips=1>Liang</tips> became <tips=81>Longtou</tips>, Haojun sent an email to his confederates.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -812,11 +812,11 @@
       "en": "It declared that “<tips=1>Xie Liang</tips>, who joined hands with the hated Hakka, is no leader of ours,” and urged its recipients to kill <tips=1>Liang</tips> and install someone else.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -831,11 +831,11 @@
       "en": "That could not be tolerated. The previous night, <tips=25>Saiki</tips> and his men seized Haojun at his apartment and reduced him to this state.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -850,11 +850,11 @@
       "en": "“So your father, Chaoya, was involved too. Is that right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -869,11 +869,11 @@
       "en": "<tips=1>Liang</tips> addressed Haojun, but the man only bowed his head and breathed harshly, offering no response.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -888,11 +888,11 @@
       "en": "<tips=1>Liang</tips> had never been close to the man before him, but they had met several times since childhood. When <tips=1>Liang</tips> was seven and Haojun seventeen, the older boy had given him a few video games he no longer played.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -907,11 +907,11 @@
       "en": "“I’ve already arranged for Chaoya’s capture. <tips=25>Saiki</tips> went there himself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -926,11 +926,11 @@
       "en": "<tips=4>Ma Ming</tips> answered in place of the silent captive.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -945,11 +945,11 @@
       "en": "“Good work.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -964,11 +964,11 @@
       "en": "<tips=1>Liang</tips> reached inside his coat and drew the same soundless pistol he had used to shoot <tips=27>Liao Zhiming</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-39bdd035af64.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-03.webp",
           "s": "l"
         }
       ]
@@ -983,7 +983,7 @@
       "en": "“Your thinking was misguided, but I respect your endurance. You kept silent until they took six fingers. Our rules ordinarily call for traitors to be cut apart alive, but I’ll make a special exception and let you die easily. Any last words?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -998,7 +998,7 @@
       "en": "Haojun raised his face and looked at <tips=1>Liang</tips> through eyes squeezed narrow by the swollen lids.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1013,11 +1013,11 @@
       "en": "“Don’t get above yourself. ...If a man like you weren’t <tips=3>Chris</tips>’s son...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-88fd770cbb44.webp",
+          "u": "assets/vn/portraits/portrait-xie-haojun-f041-01.webp",
           "s": "c"
         }
       ]
@@ -1032,11 +1032,11 @@
       "en": "He spoke in a rasping voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-88fd770cbb44.webp",
+          "u": "assets/vn/portraits/portrait-xie-haojun-f041-01.webp",
           "s": "c"
         }
       ]
@@ -1051,11 +1051,11 @@
       "en": "“Pathetic. I’ll pretend I didn’t hear it, so think of something better. Give me a proper last message and I’ll pass it on to your wife and child.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-88fd770cbb44.webp",
+          "u": "assets/vn/portraits/portrait-xie-haojun-f041-01.webp",
           "s": "c"
         }
       ]
@@ -1070,11 +1070,11 @@
       "en": "He waited. But Haojun lowered his face again, refusing the chance he had been given.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-88fd770cbb44.webp",
+          "u": "assets/vn/portraits/portrait-xie-haojun-f041-01.webp",
           "s": "c"
         }
       ]
@@ -1089,11 +1089,11 @@
       "en": "<tips=1>Liang</tips> sighed, leveled the muzzle at Haojun’s head, and pulled the trigger without hesitation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-88fd770cbb44.webp",
+          "u": "assets/vn/portraits/portrait-xie-haojun-f041-01.webp",
           "s": "c"
         }
       ]
@@ -1108,7 +1108,7 @@
       "en": "Blood burst from Haojun’s head. He died instantly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1123,7 +1123,7 @@
       "en": "At <tips=4>Ma Ming</tips>’s signal, subordinates appeared and began putting the room back in order. They zipped Haojun’s body into a black bag, wiped the blood from the floor, and swept the severed fingers and bullet-blown fragments of flesh and bone into a dustpan for the trash.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1138,11 +1138,11 @@
       "en": "“That ended sooner than I expected. If we start preparing now, we can still open for dinner.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1157,11 +1157,11 @@
       "en": "<tips=4>Ma Ming</tips> said this while personally returning the chair and worktable to their proper places.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1176,11 +1176,11 @@
       "en": "“...But why make such a foolish plan? Even if they’d killed <tips=2>Ah Liang</tips>, what did they imagine would happen afterward?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1195,11 +1195,11 @@
       "en": "“Exactly what Haojun wrote to his associates. He resented my accepting the Hakka.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1214,11 +1214,11 @@
       "en": "<tips=1>Liang</tips> answered while sloshing water over his hands at a faucet in the corner.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1233,11 +1233,11 @@
       "en": "“Do you think so? I don’t believe that message tells the whole story. They weren’t men who would go this far over that alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1252,11 +1252,11 @@
       "en": "Some people in <tips=76>Old Yi Shen</tips> hated outsiders with something close to religious fervor and displayed it openly. But Xie Chaoya and his son had never shown any such tendency.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1271,11 +1271,11 @@
       "en": "“They are in debt to Hakka creditors.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1290,11 +1290,11 @@
       "en": "The pair had once forced restaurants to pay them “bodyguard fees” and lived on the proceeds. Lately, that arrangement had stopped paying and their finances had grown desperate. They tried running businesses of their own, failed at every one, and were left with nothing but debt.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1309,11 +1309,11 @@
       "en": "They refused to pay. The desperate creditors sold the claims.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1328,11 +1328,11 @@
       "en": "“And the buyers happened to be Hakka moneylenders.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1347,11 +1347,11 @@
       "en": "The pair kept delaying payment. The Hakka, wishing to avoid trouble with relatives of the <tips=81>Longtou</tips>, had so far refrained from making an issue of it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1366,11 +1366,11 @@
       "en": "But now that the Hakka were to become comrades within the same organization and <tips=27>Liao Zhiming</tips> had become <tips=1>Xie Liang</tips>’s guardian, the pair must have concluded that the old arrangement could no longer continue.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1385,11 +1385,11 @@
       "en": "The rules of <tips=76>Old Yi Shen</tips> required fair dealings between comrades according to contract. And <tips=1>Xie Liang</tips> had publicly declared that Hakka and Hong Kongers would now receive precisely the same treatment.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1404,11 +1404,11 @@
       "en": "If they repaid the debt as required, their finances collapsed. If they refused, the organization punished them under those same rules. Either way, ruin waited. They may not have cared what outsiders thought, but they feared losing face inside the organization beyond all reason.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1423,11 +1423,11 @@
       "en": "“Men like them have no special power. Blood alone keeps them in their positions. If their own kin make fools of them, they can’t go on living.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1442,11 +1442,11 @@
       "en": "“I see. ...Still, we were lucky to catch it so early. A later discovery might have caused a much greater uproar. Honestly, even I couldn’t accept <tips=27>Liao</tips>’s men as comrades without reservation. There’s <tips=39>Jeffrey</tips>, for one thing. I can’t be alone in feeling that way. ...You did remarkably well to stamp out the spark before it became a serious fire.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1461,11 +1461,11 @@
       "en": "<tips=4>Ma Ming</tips> kept emphasizing how dangerous the situation had been.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1480,11 +1480,11 @@
       "en": "<tips=1>Liang</tips> said nothing in response.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1499,11 +1499,11 @@
       "en": "Liang expected incidents like this to continue. Once he created an organization like <tips=7>YS</tips>, his father <tips=3>Chris</tips> too must have wanted to dismantle the separate families. But he never managed it. The reason lay in <tips=69>Yi Shen</tips>, which rejected outsiders absolutely.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1518,11 +1518,11 @@
       "en": "“Well, I knew the plot was there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1537,11 +1537,11 @@
       "en": "He said it as though the whole subject bored him, then sniffed his freshly washed hands.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1556,11 +1556,11 @@
       "en": "“The gunpowder stinks. And I’ve someone to meet.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1575,11 +1575,11 @@
       "en": "He frowned.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-5f0f0c1b7546.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-02.webp",
           "s": "r"
         }
       ]
@@ -1594,11 +1594,11 @@
       "en": "“I see. So you knew.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1613,11 +1613,11 @@
       "en": "Sounding impressed, <tips=4>Ma Ming</tips> handed <tips=1>Liang</tips> a towel.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1632,11 +1632,11 @@
       "en": "“Your father was a <tips=16>Type A</tips> with special eyes that saw through walls. You’re his son, but a Normal with no supernatural power at all. Yet you seem to share his gift for seeing what no one else can.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1651,11 +1651,11 @@
       "en": "<tips=1>Liang</tips> silently dried his hands in response to <tips=4>Ma Ming</tips>’s words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1670,11 +1670,11 @@
       "en": "“In any case, what you accomplished this time was remarkable.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1689,11 +1689,11 @@
       "en": "<tips=4>Ma Ming</tips> sighed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1708,11 +1708,11 @@
       "en": "“I never imagined you could bring <tips=27>Liao Zhiming</tips> to heel. ...You have the talent I saw in you after all. You’ve even learned how to handle <tips=25>Saiki</tips>. But don’t trust him. No one knows what that man thinks, and betrayal comes naturally to him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1727,11 +1727,11 @@
       "en": "He was always merciless when speaking of his son, <tips=25>Saiki</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1746,11 +1746,11 @@
       "en": "“<tips=25>Saiki</tips> isn’t the man <tips=4>Ma Ming</tips> imagines him to be.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1765,11 +1765,11 @@
       "en": "“Hmph. Never mind. I’m simply glad you’ve finally put your heart into this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1784,11 +1784,11 @@
       "en": "“It’s not as if I’ve put my heart into anything...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1803,11 +1803,11 @@
       "en": "<tips=1>Liang</tips> narrowed his eyes. Something empty crossed his face for an instant. Then he smiled as if wiping it away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1822,11 +1822,11 @@
       "en": "“Work is work. I keep it separate and do what needs doing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-15c36d02f58d.webp",
+          "u": "assets/vn/portraits/portrait-ma-ming-f015-01.webp",
           "s": "r"
         }
       ]
@@ -1839,10 +1839,10 @@
       "se": "Ma Meimei",
       "jp": "「ねえ見て、<tips=28>トミー</tips>。あと一週間くらいで生まれるんだって」",
       "en": "“Look, <tips=28>Tommy</tips>. They say the baby should come in about another week.”",
-      "bg": "assets/vn/backgrounds/bg-067eee83ec30.webp",
+      "bg": "assets/vn/backgrounds/background-馬美美邸庭.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         }
       ]
@@ -1857,7 +1857,7 @@
       "en": "Smiling with perfect happiness, <tips=24>Ma Meimei</tips> stroked her belly, swollen almost to bursting.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         }
       ]
@@ -1872,11 +1872,11 @@
       "en": "“Wow! That’s incredible! I still cannot believe <tips=24>Meimei</tips> is really going to be a mother.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         }
       ]
@@ -1891,11 +1891,11 @@
       "en": "<tips=28>Tomas Liao</tips> smiled as though sharing without reservation in her joy at becoming a mother.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         }
       ]
@@ -1910,11 +1910,11 @@
       "en": "“Here, try touching it. You can feel the baby moving inside.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         }
       ]
@@ -1929,11 +1929,11 @@
       "en": "“What? Ah—I couldn’t possibly...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         }
       ]
@@ -1948,11 +1948,11 @@
       "en": "When <tips=24>Meimei</tips> took his hand, <tips=28>Tomas</tips> became visibly flustered.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         }
       ]
@@ -1967,11 +1967,11 @@
       "en": "“Why are you blushing?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         }
       ]
@@ -1986,11 +1986,11 @@
       "en": "“Because... touching a woman’s stomach like that...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         }
       ]
@@ -2005,11 +2005,11 @@
       "en": "“My, now you’re making it into something strange. What a dirty mind you’ve. Oh, my breasts have grown larger too. Would you like to touch those instead?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         }
       ]
@@ -2024,11 +2024,11 @@
       "en": "“Ugh, you’re making fun of me. ...Listen, <tips=2>Ah Liang</tips>. <tips=24>Meimei</tips> says her baby will be born very soon.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         }
       ]
@@ -2043,11 +2043,11 @@
       "en": "At a loss, <tips=28>Tomas</tips> appealed to <tips=1>Xie Liang</tips>, seated some distance away, to rescue him. But—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         }
       ]
@@ -2062,15 +2062,15 @@
       "en": "“That’s good news.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2085,15 +2085,15 @@
       "en": "<tips=1>Liang</tips> merely went on drinking his tea without rising from his chair.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2108,15 +2108,15 @@
       "en": "It was a tea made from wild rice, which <tips=24>Meimei</tips> had recently begun ordering for her health. It might indeed have been wholesome, but it was unbearably difficult to drink.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2131,15 +2131,15 @@
       "en": "Grimacing, he forced it down his throat a little at a time.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2154,15 +2154,15 @@
       "en": "The mistake had been accepting <tips=4>Ma Ming</tips>’s invitation to this house after the events in the basement of “Umaka Shuka.” For reasons unknown, <tips=24>Meimei</tips> and <tips=28>Tomas</tips> had been drinking tea and talking at length in the garden. To make matters worse, <tips=4>Ma Ming</tips> was called away on urgent business, and by degrees Liang found himself absorbed into <tips=24>Meimei</tips> and Tomas’s gathering.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2177,15 +2177,15 @@
       "en": "<tips=1>Liang</tips> even found himself thinking that it was outrageous of <tips=4>Ma Ming</tips> to abandon him for a private errand when he was, technically, the <tips=81>Longtou</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2200,15 +2200,15 @@
       "en": "From <tips=1>Liang</tips>’s perspective, reconciliation with the Hakka could hardly erase all complicated feeling when one considered how it had come about. <tips=24>Meimei</tips> did not know the exact history, but it was difficult to understand how <tips=28>Tomas</tips> too appeared to suffer no conflict whatever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2223,15 +2223,15 @@
       "en": "<tips=1>Liang</tips> understood that Tomas was largely free of selfish desire. Yet to preserve that attitude even after his father was wounded—did it not make the man a kind of lunatic?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2246,15 +2246,15 @@
       "en": "—No, I have an unfortunate way with words. I should amend that to a saint, or perhaps a moralist.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2269,15 +2269,15 @@
       "en": "Such were <tips=1>Liang</tips>’s thoughts as he watched <tips=28>Tomas</tips> and <tips=24>Meimei</tips> together.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2292,15 +2292,15 @@
       "en": "“You have not changed at all, <tips=28>Tommy</tips>. Looking at you now, I can hardly believe you’ve actually succeeded your father.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2315,15 +2315,15 @@
       "en": "“I can hardly believe it myself. But as I was saying before, if I’m to do it, I mean to become a leader of whom I need not be ashamed. Perhaps we aren’t a lawful presence under the laws of Japan. But society says that the many immigrants and mutants in the City are themselves an undesirable presence. As their representative, and for the happiness of my subordinates and everyone in <tips=7>YS</tips>, I must do what is necessary.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2338,15 +2338,15 @@
       "en": "<tips=28>Tommy</tips> nodded solemnly along with his own words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2361,15 +2361,15 @@
       "en": "“That’s right, is it not, <tips=2>Ah Liang</tips>...? No—<tips=81>Longtou</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -2384,15 +2384,15 @@
       "en": "“Who can say?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2407,15 +2407,15 @@
       "en": "<tips=1>Liang</tips> shrugged.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2430,15 +2430,15 @@
       "en": "“Honestly, <tips=28>Tommy</tips>. <tips=2>Ah Liang</tips> simply does not want to discuss work in a place like this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2453,15 +2453,15 @@
       "en": "“It isn’t particularly that. ...More importantly, what were the two of you discussing here alone?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2476,15 +2476,15 @@
       "en": "“...A profound discussion of life.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2499,15 +2499,15 @@
       "en": "<tips=28>Tomas</tips> delivered this with an attempt at grandeur, whereupon—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2522,15 +2522,15 @@
       "en": "“Do not worry. Nothing improper happened.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2545,15 +2545,15 @@
       "en": "<tips=24>Meimei</tips> destroyed the effect with her joke.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2568,15 +2568,15 @@
       "en": "“O-of course it did not! You have a wonderful husband, and a baby is about to be born, so anything like that would...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2591,11 +2591,11 @@
       "en": "While <tips=28>Tomas</tips> was still stumbling over his words, a servant summoned <tips=24>Meimei</tips>, and she left the garden.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2610,11 +2610,11 @@
       "en": "Liang was left there alone with <tips=28>Tomas</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2629,11 +2629,11 @@
       "en": "It was the first opportunity the two had had to speak privately since their relationship became that of the third <tips=81>Longtou</tips> and the leader of the <tips=74>Liao Family</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2648,11 +2648,11 @@
       "en": "“She really is impossible. Always saying things like that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2667,11 +2667,11 @@
       "en": "<tips=28>Tomas</tips> sighed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2686,11 +2686,11 @@
       "en": "“But to speak seriously, <tips=2>Ah Liang</tips>, I’ve been terribly worried about what I should do in this position. There is so much to think about...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2705,11 +2705,11 @@
       "en": "He opened the serious subject with an appropriately grave expression.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2724,11 +2724,11 @@
       "en": "“I’ve thought for a long time that the City has to change. But there are problems everywhere, and I don’t know how to solve them... Oh! <tips=2>Ah Liang</tips>, do you know?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2743,11 +2743,11 @@
       "en": "“Know what?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2762,11 +2762,11 @@
       "en": "“I hear there is an underground organization of <tips=17>Type B</tips> people in the City. Three old men lead it, and all sorts of <tips=17>Type B</tips> people throughout the City belong to it in secret...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2781,11 +2781,11 @@
       "en": "“You mean ‘<tips=22>the Elders</tips>.’”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2800,11 +2800,11 @@
       "en": "“Yes. My subordinates say their activities have picked up considerably lately.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2819,11 +2819,11 @@
       "en": "“In what way?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2838,11 +2838,11 @@
       "en": "“Oh, <tips=2>Ah Liang</tips> didn’t know either. I’m so pleased! To think I might know something <tips=2>Ah Liang</tips> doesn’t.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2857,11 +2857,11 @@
       "en": "“Get on with it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2876,11 +2876,11 @@
       "en": "<tips=1>Liang</tips> urged him on, a crease forming between his eyebrows.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2895,11 +2895,11 @@
       "en": "“R-right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2914,11 +2914,11 @@
       "en": "<tips=28>Tommy</tips> cleared his throat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2933,11 +2933,11 @@
       "en": "“As you know, they are the only organization buying and selling drugs in the City. Apparently they’ve begun pushing a new drug on a grand scale—one with a special effect on <tips=17>Type B</tips> people...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -2952,11 +2952,11 @@
       "en": "“An effect upon <tips=17>Type B</tips>...? Something like ‘<tips=45>Rose</tips>’?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2971,11 +2971,11 @@
       "en": "At the words new drug, <tips=1>Liang</tips>’s gaze sharpened abruptly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2990,11 +2990,11 @@
       "en": "“No. It’s supposed to be a new drug improved from Rose. Apparently they call it ‘<tips=46>Neo-Rose</tips>.’”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3009,11 +3009,11 @@
       "en": "“‘<tips=46>Neo-Rose</tips>’? No, that can’t be...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3028,11 +3028,11 @@
       "en": "“You know about it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3047,11 +3047,11 @@
       "en": "“Only from rumors. If it’s real, it could indeed transform the lives of <tips=17>Type B</tips> people. It suppresses <tips=17>Type B</tips> attacks while leaving their extraordinary abilities intact, with few side effects. For a <tips=17>Type B</tips> person, it would be a dream drug. But dreams are best assumed to be dreams. The drug probably does not exist. Most products sold as <tips=46>Neo-Rose</tips> are counterfeits—ordinary <tips=45>Rose</tips> cut with something else. I expect this is the same. It seems ‘<tips=22>the Elders</tips>’ have entered a particularly dirty trade.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3066,11 +3066,11 @@
       "en": "“Do you think it’s fake? I keep hearing people say it really works...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3085,11 +3085,11 @@
       "en": "“I won’t rule it out completely, but I expect the reports are false. Still, the fact that they’ve begun trading so openly is interesting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3104,11 +3104,11 @@
       "en": "<tips=1>Liang</tips> folded his arms and thought.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3123,11 +3123,11 @@
       "en": "“What do you suppose they intend?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3142,11 +3142,11 @@
       "en": "“One thing is certain: <tips=7>YS</tips> means nothing to them. Since the first Longtou died, they’ve all but ignored us. They do whatever they please.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3161,11 +3161,11 @@
       "en": "“I see. Whatever they intend, I think we should find a way to work with them... Though I’m sure <tips=2>Ah Liang</tips> has considered that perfectly well without my advice. Still, <tips=17>Type B</tips> people are our allies, not our enemies. Most members of their secret society aren’t gangsters at all. They’re ordinary <tips=17>Type B</tips> people living in the City. We have to begin by helping them.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3180,11 +3180,11 @@
       "en": "“<tips=28>Tommy</tips>, I don’t mean to treat them unjustly. But I don’t mean to favor them either.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3199,11 +3199,11 @@
       "en": "“Truly? But your close friend <tips=10>Michio Mido</tips> is among them, is he not, <tips=2>Ah Liang</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3218,11 +3218,11 @@
       "en": "<tips=28>Tomas</tips> put the question to him, but <tips=1>Liang</tips> did not answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3237,11 +3237,11 @@
       "en": "“Speaking of <tips=10>Michio Mido</tips>, people have been saying for a long time that he will succeed <tips=22>the Elders</tips> and become the leader of the <tips=17>Type B</tips> people. Is that really true?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3256,11 +3256,11 @@
       "en": "“I don’t know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3275,11 +3275,11 @@
       "en": "<tips=1>Liang</tips> answered with a shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3294,11 +3294,11 @@
       "en": "“It would be wonderful if he did. If the leaders were childhood friends, surely they could work well together, couldn’t they? I think <tips=7>YS</tips> and their people should be much friendlier.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3313,11 +3313,11 @@
       "en": "“Well, if that were possible, it would be nice.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3332,11 +3332,11 @@
       "en": "“You see? It will be all right. Even the Liao and Xie houses have managed to become one.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3351,11 +3351,11 @@
       "en": "“It isn’t that simple. I doubt everything can be settled peacefully.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3370,11 +3370,11 @@
       "en": "“What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3389,11 +3389,11 @@
       "en": "“People will continue to die in one form or another. One wrong turn with your people and it would have become a fight to the death. Your father would have died, and you and <tips=29>Aisu</tips> with him. This may offend you, but I never thought we would lose.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3408,11 +3408,11 @@
       "en": "“...I’m sure <tips=2>Ah Liang</tips> is right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3427,11 +3427,11 @@
       "en": "<tips=28>Tomas</tips> nodded without protest. Perhaps hearing his own death discussed did not disturb him because he had reached the same conclusion and accepted it naturally. Even so, taking the words without insult and remaining perfectly calm said something fundamental about the man.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3446,11 +3446,11 @@
       "en": "“You knew all about <tips=29>Aisu</tips> too. You see through everything about the two of us.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3465,11 +3465,11 @@
       "en": "<tips=28>Tomas</tips> sighed in admiration.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3484,11 +3484,11 @@
       "en": "“I’m not afraid to make an enemy of anyone. <tips=28>Tommy</tips> may dislike that, but it’s how I work. Of course, if you’ve an opinion, I’ll hear it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3503,11 +3503,11 @@
       "en": "“It isn’t that I dislike it. I’m simply bewildered...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3522,11 +3522,11 @@
       "en": "“I see. But you don’t need to be bewildered by every little thing. Keep doing what you want, just as before. That’s what I expect from you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3541,11 +3541,11 @@
       "en": "“<tips=2>Ah Liang</tips>... I don’t understand what you’re trying to tell me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3560,11 +3560,11 @@
       "en": "<tips=28>Tomas</tips> looked confused as he spoke.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3579,11 +3579,11 @@
       "en": "“Anyway, what I meant was that besides our <tips=7>YS</tips>, the City is full of unfathomable forces, and lately they all seem to be growing more active. I wanted to tell you that <tips=2>Ah Liang</tips>’s father’s death may be changing not only us, but all sorts of other things.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3598,11 +3598,11 @@
       "en": "“I understand. I’ll keep it in mind. That settles this subject. ...Speaking of which, <tips=28>Tommy</tips>, this is completely unrelated, but there is something I wanted to ask you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3617,11 +3617,11 @@
       "en": "“Ask me anything. I know a surprising number of things myself, you know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3636,11 +3636,11 @@
       "en": "<tips=28>Tomas</tips> puffed out his chest.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3655,11 +3655,11 @@
       "en": "“How reassuring. Then I’ll ask directly.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3674,11 +3674,11 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3693,11 +3693,11 @@
       "en": "“The way you acted at Erica Billingham’s apartment—was that sincere? Did you truly agree with me from the bottom of your heart and act that way because of it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5edbb0df441.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3712,11 +3712,11 @@
       "en": "“That was...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3731,11 +3731,11 @@
       "en": "<tips=28>Tomas</tips> looked troubled.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3750,11 +3750,11 @@
       "en": "“It wasn’t a lie. It’s true that <tips=2>Ah Liang</tips>’s view was the same as mine.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3769,11 +3769,11 @@
       "en": "“Not a lie, but...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3788,11 +3788,11 @@
       "en": "<tips=28>Tomas</tips> hesitated for some time, working his mouth without producing words. When <tips=1>Liang</tips> continued to watch him, he sighed at last in surrender.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3807,11 +3807,11 @@
       "en": "“...Some part of me may have thought Father would definitely die unless I acted that way. Father was desperate, <tips=2>Ah Liang</tips> was about to give up on him, and the whole room felt so tense and hostile...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3826,11 +3826,11 @@
       "en": "“So you volunteered to play the fool.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3845,11 +3845,11 @@
       "en": "“...It wasn’t anything so admirable. It felt as though <tips=2>Ah Liang</tips> wouldn’t be satisfied unless I supported the merger, and Father wouldn’t be satisfied unless I said I’d succeed him... I couldn’t think of anything else. And agreeing that <tips=2>Ah Liang</tips>’s position matched mine wasn’t entirely a lie. It wasn’t a lie, but... I’m sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3864,11 +3864,11 @@
       "en": "When <tips=28>Tomas</tips> bowed his head, Liang answered:",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -3883,11 +3883,11 @@
       "en": "“No. It was a wise decision.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3902,11 +3902,11 @@
       "en": "“But <tips=2>Ah Liang</tips>, I can’t help wondering whether I sold out my own family...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3921,11 +3921,11 @@
       "en": "As <tips=28>Tomas</tips> began to say more, <tips=24>Meimei</tips> returned from the other room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -3940,15 +3940,15 @@
       "en": "“Sorry to interrupt just when things were getting interesting, but <tips=2>Ah Liang</tips> has a visitor.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -3963,15 +3963,15 @@
       "en": "She had returned with a hard expression, utterly unlike the one she wore moments before.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -3986,15 +3986,15 @@
       "en": "“To see me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -4009,15 +4009,15 @@
       "en": "“Yes. She has something important to discuss with you. Go to the sitting room. She’s waiting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a9868aac3f5e.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -4030,7 +4030,7 @@
       "se": "",
       "jp": "　促されるまま応接室に足を踏み入れると、そこで待っていたのはフェルナンデス三姉妹の末娘、<tips=38>リタ・フェルナンデス</tips>。",
       "en": "At Meimei’s urging, he entered the sitting room. Waiting inside was <tips=38>Rita Fernandez</tips>, youngest of the three Fernandez sisters.",
-      "bg": "assets/vn/backgrounds/bg-cc7b18f34e46.webp"
+      "bg": "assets/vn/backgrounds/background-馬美美邸応接室.webp"
     },
     {
       "id": "X3-3:0302",
@@ -4060,7 +4060,7 @@
       "en": "“I-I’m sorry I ended up summoning you here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         }
       ]
@@ -4075,7 +4075,7 @@
       "en": "Timid as ever, <tips=38>Rita</tips> bobbed her head in apology.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         }
       ]
@@ -4090,11 +4090,11 @@
       "en": "“I don’t mind.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4109,11 +4109,11 @@
       "en": "<tips=1>Liang</tips> seated himself opposite <tips=38>Rita</tips> as he answered.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4128,11 +4128,11 @@
       "en": "“Um... All of us sisters had actually been invited here today. But we decided that we should stop visiting <tips=24>Meimei</tips>’s home quite so casually... We do not know what will happen from now on. ...My family does not particularly welcome <tips=1>Liang</tips>’s becoming <tips=81>Longtou</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4147,11 +4147,11 @@
       "en": "“I seem to recall <tips=36>Aurora</tips> telling me before that I ought to succeed my father.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -4166,11 +4166,11 @@
       "en": "“U-um, I think my sisters expected you to carry on Lord <tips=3>Chris</tips>’s methods. But this time you effectively absorbed <tips=28>Tommy</tips>’s organization in that fashion, and then you spoke of making <tips=7>YS</tips> into a single body as well. They are terribly wary...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -4185,11 +4185,11 @@
       "en": "Though she plainly found it difficult to say, <tips=38>Rita</tips> gave him the candid answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -4204,11 +4204,11 @@
       "en": "At the sight of her struggle, <tips=1>Liang</tips> gave a wry smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-b58912dc0b57.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f090-03.webp",
           "s": "l"
         }
       ]
@@ -4223,11 +4223,11 @@
       "en": "“Well, I knew. I couldn’t see matters going any other way. It’s a perfectly natural response. ...Has your father said anything?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4242,11 +4242,11 @@
       "en": "“Father isn’t a man who discusses business in the home or permits it to show in his expression. But as far as I can tell, it would be difficult to say that he welcomes the situation either...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4261,11 +4261,11 @@
       "en": "“I thought so.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4280,11 +4280,11 @@
       "en": "<tips=1>Liang</tips> nodded.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4299,11 +4299,11 @@
       "en": "“But if your sisters refused, why did you come alone? Given your position, that was quite a bold decision.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4318,11 +4318,11 @@
       "en": "“Um, I meant to refuse as well. But <tips=24>Meimei</tips> told me that <tips=1>Liang</tips> would be here... S-so I thought there was something we needed to discuss.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4337,11 +4337,11 @@
       "en": "“Why?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4356,11 +4356,11 @@
       "en": "“I believe I see things a little differently from my elder sisters...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4375,11 +4375,11 @@
       "en": "Saying this, <tips=38>Rita</tips> lowered her eyes with a lonely expression.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-66d2b88899fe.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4394,11 +4394,11 @@
       "en": "“But I care for the family just as my sisters do. That’s why I came here: first to hear your views properly, and to discover whether my own way of thinking is right...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4413,11 +4413,11 @@
       "en": "At that, <tips=38>Rita</tips> raised her eyes and looked straight at <tips=1>Liang</tips>. Her gaze had strength in it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4432,11 +4432,11 @@
       "en": "She had not wandered in on a whim. She had come prepared.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4451,11 +4451,11 @@
       "en": "Perceiving it, <tips=1>Liang</tips> narrowed his eyes in surprise.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4470,11 +4470,11 @@
       "en": "The youngest and quietest of the three sisters, seemingly the least capable of acting for herself, had come to challenge him directly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4489,11 +4489,11 @@
       "en": "“How do you intend to deal with us from now on? Depending on your answer, I may have to reconsider my position as a member of the Fernandez family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4508,11 +4508,11 @@
       "en": "<tips=38>Rita</tips> said it firmly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4527,11 +4527,11 @@
       "en": "“Wonderful.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4546,11 +4546,11 @@
       "en": "<tips=1>Liang</tips> sighed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4565,11 +4565,11 @@
       "en": "“I expected <tips=36>Aurora</tips>, perhaps, to approach me about this. I never imagined you’d march in alone and say it to my face.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-65c7627ff4d5.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4584,11 +4584,11 @@
       "en": "“I-I didn’t truly wish to address <tips=1>Liang</tips> so directly either...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4603,11 +4603,11 @@
       "en": "She was clearly exerting herself in her own fashion, yet now and then the ordinarily fainthearted <tips=38>Rita</tips> showed through.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -4622,11 +4622,11 @@
       "en": "“No, I’m praising you. Whatever else one may say, you’re still that Fernandez’s daughter.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4641,11 +4641,11 @@
       "en": "When <tips=1>Liang</tips> said this with a perfectly straight face, she drew in her shoulders as though overawed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4660,11 +4660,11 @@
       "en": "<tips=35>Jose Fernandez</tips> was renowned as a man of iron will: once he decided upon something, he never bent. Countless stories testified to that strength of spirit, including one in which, as a young man, he had refused to utter a word under torture.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4679,11 +4679,11 @@
       "en": "“First, let me say this: I’ve no intention of fighting your family. To begin with, I could hardly wish for conflict within <tips=7>YS</tips> for its own sake.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4698,11 +4698,11 @@
       "en": "Relief softened <tips=38>Rita</tips> at those words. But the next words from <tips=1>Liang</tips>’s mouth immediately made her body rigid once more.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4717,11 +4717,11 @@
       "en": "“But as things stand, we may still end up fighting.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -4736,11 +4736,11 @@
       "en": "“What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -4755,11 +4755,11 @@
       "en": "“<tips=27>Liao</tips> wasn’t the only one who saw an opportunity in the first Longtou’s death. The young men in your organization must be thinking the same way. Unless we take the proper measures, turmoil will follow. I can’t imagine your father actively desiring war, but bloodshed remains possible, and events may drive him to it in the end.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -4774,11 +4774,11 @@
       "en": "“That can’t be. I don’t believe it...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -4793,11 +4793,11 @@
       "en": "<tips=38>Rita</tips> lowered her head. Presumably, she could not object with any force because she herself knew of circumstances that supported his warning.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-bb9141609a37.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-02.webp",
           "s": "l"
         }
       ]
@@ -4812,11 +4812,11 @@
       "en": "“That’s why I want to act before their ambition takes shape. I meant what I said about making <tips=7>YS</tips> one when I became <tips=81>Longtou</tips>. I’ve told your father the same. The walls called the <tips=75>Fernandez Family</tips> must come down, and your organization must become part of <tips=7>YS</tips>. I’ll visit him soon to discuss it formally.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4831,11 +4831,11 @@
       "en": "“...I don’t believe anyone in my family will accept that proposal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4850,11 +4850,11 @@
       "en": "“Not even you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4869,11 +4869,11 @@
       "en": "After faltering for a time, <tips=38>Rita</tips> nodded timidly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4888,11 +4888,11 @@
       "en": "“I understand how it feels. You think you’ll lose your independence and be taken over. That isn’t my intention. Even after you join us, I mean to respect your work supporting your countrymen and your father’s personal goals. Nor do I intend to dissolve the organization immediately, as I did with <tips=28>Tommy</tips>’s people. For a while, integration will exist in name alone. In practice, you can continue as before.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4907,11 +4907,11 @@
       "en": "“For a time.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4926,11 +4926,11 @@
       "en": "“Eventually, our people will probably blend together too. But I don’t mean to force it. Given time, it will happen naturally.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4945,11 +4945,11 @@
       "en": "Even after <tips=1>Liang</tips> finished, <tips=38>Rita</tips> remained silent, plainly unable to place complete faith in him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4964,11 +4964,11 @@
       "en": "“I understand why you can’t believe me. That’s why I’ve prepared a proposal for my next meeting with your father. I don’t know whether he’ll accept it, but if it becomes reality, your father and sisters should find it easier to accept the family joining <tips=7>YS</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4983,11 +4983,11 @@
       "en": "“D-does such a magical solution truly exist?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5002,11 +5002,11 @@
       "en": "“It does. It will be difficult, but with your cooperation there is a strong chance of success.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5021,11 +5021,11 @@
       "en": "“If there really is a way, and there’s something I can do, th-then I’ll do it!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5040,11 +5040,11 @@
       "en": "“Don’t agree before you’ve heard the proposal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5059,11 +5059,11 @@
       "en": "“B-but... then, will you please tell me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5078,11 +5078,11 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5097,11 +5097,11 @@
       "en": "<tips=1>Liang</tips> nodded with perfect ease.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5116,11 +5116,11 @@
       "en": "“You and I get married.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-24189156ab94.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5135,11 +5135,11 @@
       "en": "“Mar—”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5154,11 +5154,11 @@
       "en": "<tips=38>Rita</tips>’s eyes opened wide, and she fell speechless.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5173,11 +5173,11 @@
       "en": "“If the Fernandez and Xie families become one, there will be fewer obstacles to integration. Even if we can’t integrate at once, the marriage should bring us closer.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f40ff2ad5dec.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f022-04.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5192,11 +5192,11 @@
       "en": "“A-a political marriage?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5211,11 +5211,11 @@
       "en": "<tips=38>Rita</tips> said it with her face blazing red. <tips=1>Liang</tips>, by contrast, remained calm.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5230,11 +5230,11 @@
       "en": "“That’s right. Perhaps <tips=36>Aurora</tips>, as the eldest daughter, would be the proper choice. But I think you’re better suited.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5249,11 +5249,11 @@
       "en": "There was no levity in <tips=1>Liang</tips>’s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5268,11 +5268,11 @@
       "en": "“Don’t read anything extra into it. We may call it marriage, but we don’t have to do anything married couples do. It’s only for appearances. If you’ve a lover, keep seeing them. You’d be free to live together too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5287,11 +5287,11 @@
       "en": "“B-but I’ve no lover...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5306,11 +5306,11 @@
       "en": "“Is that so? Then what will you do? A moment ago, you said you’d do anything you could.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5325,11 +5325,11 @@
       "en": "“Ah...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5344,11 +5344,11 @@
       "en": "<tips=38>Rita</tips> lowered her head, her already red face flushing to a still deeper crimson.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5363,11 +5363,11 @@
       "en": "She thought desperately.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5382,11 +5382,11 @@
       "en": "Of the three sisters, <tips=38>Rita</tips> spoke least and drew the least notice. She was also the brightest.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5401,11 +5401,11 @@
       "en": "The completely unexpected proposal threatened to send her mind into panic. She struggled to find whatever true meaning might be hidden behind his words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5420,11 +5420,11 @@
       "en": "—He may be trying to use me. But he wants our families to unite peacefully, and I want that too. Then can I nod? Can I say yes? And get married? <tips=1>Liang</tips> and I, married?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5439,11 +5439,11 @@
       "en": "At the thought, all the moments alone with him she had quietly imagined in secret exploded through <tips=38>Rita</tips>’s mind as vivid scenes of newlywed life. She grew dizzy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5458,11 +5458,11 @@
       "en": "Her heart beat faster. Her head swam.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5477,11 +5477,11 @@
       "en": "He was only using her. It did not mean he liked her. And yet she could not shake the words: “I think you’re better suited.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5496,11 +5496,11 @@
       "en": "Could he have feelings for me? Objectively, I don’t think he could be madly in love with me... But he must like me enough to live as husband and wife, right? Otherwise he wouldn’t put it that way. Unless that’s part of his method too... Oh, what am I thinking? This is no time to wonder whether he likes me! That isn’t important. I’m here to represent the <tips=75>Fernandez Family</tips>!",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5515,11 +5515,11 @@
       "en": "She pressed a hand to her chest and tried to master her heart. But however hard her intelligent side fought, emotion kept luring her thoughts in ridiculous directions.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5534,11 +5534,11 @@
       "en": "Her face had passed through red and begun turning pale. Something was so obviously wrong that she looked like a patient with a serious heart or lung condition.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5553,11 +5553,11 @@
       "en": "“Are you all right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5572,11 +5572,11 @@
       "en": "Even <tips=1>Liang</tips>, it seemed, began to wonder whether <tips=38>Rita</tips> had genuinely fallen ill.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6a617f3f0000.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-02.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5591,11 +5591,11 @@
       "en": "“I-I’m fine!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5610,11 +5610,11 @@
       "en": "Still unable to meet his eyes, <tips=38>Rita</tips> shook her head from side to side.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5629,11 +5629,11 @@
       "en": "“Th-that subject—we should discuss it another time...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5648,11 +5648,11 @@
       "en": "Still unable to look <tips=1>Liang</tips> in the eye, <tips=38>Rita</tips> rose bolt upright.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5667,11 +5667,11 @@
       "en": "“That’s fine. I’m in no hurry. You can answer in a month or two.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5686,11 +5686,11 @@
       "en": "“I’ll contact you again!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5705,11 +5705,11 @@
       "en": "Still clutching her chest, she scurried from the room as if fleeing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-839b55d8d87e.webp",
+          "u": "assets/vn/portraits/portrait-rita-fernandez-f108-03.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5724,7 +5724,7 @@
       "en": "The heavily pregnant <tips=24>Meimei</tips> entered as though trading places with her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5739,11 +5739,11 @@
       "en": "“What happened? <tips=38>Rita</tips> just left looking dreadful. Is she sick?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -5758,11 +5758,11 @@
       "en": "As <tips=24>Meimei</tips> tilted her head in puzzlement, <tips=1>Liang</tips> answered with a shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -5777,11 +5777,11 @@
       "en": "“I was only talking business.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -5796,11 +5796,11 @@
       "en": "He said it with perfect composure.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c4a52b31a5dd.webp",
+          "u": "assets/vn/portraits/portrait-ma-meimei-f117-01.webp",
           "s": "r"
         }
       ]
@@ -5813,7 +5813,7 @@
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は<tips=29>アイス</tips>と共に車に乗り込み、<tips=41>グランドタワー</tips>へ帰って行った。",
       "en": "<tips=28>Tomas</tips> climbed into a car with <tips=29>Aisu</tips>, and the two returned to <tips=41>Grand Tower</tips>.",
-      "bg": "assets/vn/backgrounds/bg-1f191acfcf59.webp"
+      "bg": "assets/vn/backgrounds/background-ys車内.webp"
     },
     {
       "id": "X3-3:0414",
@@ -6113,7 +6113,7 @@
       "en": "“What happened?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6128,7 +6128,7 @@
       "en": "“When I questioned him, he drew a gun, so I shot him. Chaoya is dead.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6143,7 +6143,7 @@
       "en": "“Good work. Was he the only one?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6158,7 +6158,7 @@
       "en": "“Two of his men died too, I think. We’ve captured the whole family and have them under guard inside the house. Haojun’s four-year-old son is here as well. What shall we do?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6173,7 +6173,7 @@
       "en": "“Exile the boy from the City with the rest of the family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6188,7 +6188,7 @@
       "en": "“Are you sure? He may grow up and come back for revenge. And if we follow the rules, we should have no choice but to kill him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6203,7 +6203,7 @@
       "en": "“True. Under the family rules, trying to kill the <tips=81>Longtou</tips> means the extermination of your entire clan. But this was only an attempt. Isn’t this punishment fair enough?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6218,7 +6218,7 @@
       "en": "“The first Longtou would have slaughtered them all without mercy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6233,7 +6233,7 @@
       "en": "“Didn’t you know? I’m a more generous and fair-minded boss than <tips=3>Chris Xie</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6248,7 +6248,7 @@
       "en": "Laughter came through the telephone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6263,7 +6263,7 @@
       "en": "“Besides, even if a four-year-old takes revenge at the earliest possible age, that’s still ten years away. If I have to fear things that far off, I may as well take a machine gun in each hand and slaughter everyone in <tips=7>YS</tips>. Anyone might become an enemy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6278,7 +6278,7 @@
       "en": "“I didn’t say it was strange. I only thought it sounded like you. Very well. We’ll do that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6293,7 +6293,7 @@
       "en": "“Please.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6308,7 +6308,7 @@
       "en": "“...One other thing. Under <tips=7>YS</tips> rules, anyone who plots rebellion against his own boss has his body dumped in an alley. What about Chaoya and Haojun?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6323,7 +6323,7 @@
       "en": "“Follow the rules there.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6338,7 +6338,7 @@
       "en": "“Just to be sure—you know that even if it follows the rules, killing your own relatives may provoke resistance?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6353,7 +6353,7 @@
       "en": "“I know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6368,7 +6368,7 @@
       "en": "“All right. Understood.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6383,7 +6383,7 @@
       "en": "When the call ended, <tips=1>Liang</tips> sighed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6398,7 +6398,7 @@
       "en": "“Kin washing away kin’s blood with more blood is the way of this world. But it is difficult, and painful.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6413,7 +6413,7 @@
       "en": "The subordinate at the wheel spoke in a tone of sympathy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6428,7 +6428,7 @@
       "en": "The man had served as chauffeur to the <tips=81>Longtou</tips> since the generation of Liang’s father, <tips=3>Chris Xie</tips>. Until only recently he had served the second <tips=81>Longtou</tips>; when <tips=1>Liang</tips> became the third, the man came to drive his car.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6443,7 +6443,7 @@
       "en": "<tips=1>Liang</tips> had ridden in cars driven by the man since childhood. Yet the chauffeur was a mysterious figure whose appearance had scarcely changed from those days to the present. Judging from his history, he must have been a few years past sixty.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6458,7 +6458,7 @@
       "en": "He came from Guangdong Province in China and was said to have worked as a chef in restaurants throughout Japan before arriving in <tips=9>Y District</tips>. Yet no one in <tips=7>YS</tips> had ever seen him prepare food.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6473,7 +6473,7 @@
       "en": "<tips=1>Liang</tips> was surrounded by subordinates of this kind, inherited from his father’s generation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6488,7 +6488,7 @@
       "en": "They had all known <tips=1>Liang</tips> as a small child. Since he spent his boyhood away from his father, many still saw him as the child they remembered.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6503,7 +6503,7 @@
       "en": "“Well, it does make things difficult.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6518,7 +6518,7 @@
       "en": "<tips=1>Liang</tips> answered while turning his eyes toward the scenery outside the window.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6533,7 +6533,7 @@
       "en": "“The blood ties in an old organization like this run invisibly everywhere, like sweet-potato roots. And those ties aren’t simple; every one is colored by love or dislike. Disturb one, and the shock travels until something reacts in the last place you’d expect.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6548,7 +6548,7 @@
       "en": "“...Those structural complications must be difficult. But feelings are involved too, aren’t they? He was your childhood friend.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6563,7 +6563,7 @@
       "en": "“A childhood friend, certainly. But I feel no sentimentality.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6578,7 +6578,7 @@
       "en": "“I see. ...Well, perhaps that is so. Madam was Japanese and, moreover, <tips=17>Type B</tips>. The relatives in <tips=69>Yi Shen</tips> bullied her. The poor lady.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6593,7 +6593,7 @@
       "en": "The “Madam” of whom the old chauffeur spoke was the wife of the first <tips=81>Longtou</tips>, <tips=3>Chris Xie</tips>—in other words, <tips=1>Liang</tips>’s mother.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6608,7 +6608,7 @@
       "en": "“Even so, through her natural disposition and her own efforts, Madam somehow won their acceptance. Never once did she complain. She was a truly admirable lady.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6623,7 +6623,7 @@
       "en": "“You really are talkative.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6638,7 +6638,7 @@
       "en": "<tips=1>Liang</tips> sighed with evident irritation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6653,7 +6653,7 @@
       "en": "“Before my <tips=44>little sister</tips> was born, Father, Mother, and I took a trip. You talked from the driver’s seat the entire time then too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6668,7 +6668,7 @@
       "en": "“You remember that? You were still an infant.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6683,7 +6683,7 @@
       "en": "“People are always surprised when I tell them, but I remember lying around as a baby. So I didn’t miss the true feelings the adults around me revealed when they let their guard down in front of an infant.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6698,7 +6698,7 @@
       "en": "“A terrifying thought.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6713,7 +6713,7 @@
       "en": "“That doesn’t mean I resent or hate them. From the perspective of the people in <tips=69>Yi Shen</tips>, hating Mother and me was perfectly natural. It isn’t something to cling to forever. ...Though apparently they didn’t feel the same.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6728,7 +6728,7 @@
       "en": "“Surely you are thinking too deeply into it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6743,7 +6743,7 @@
       "en": "“Hmph.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6758,7 +6758,7 @@
       "en": "<tips=1>Liang</tips> did not say it, but he knew that Chaoya and his son had called <tips=1>Liang</tips> “that Japanese” in the emails arranging their conspiracy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6773,7 +6773,7 @@
       "en": "In the end, they had never truly thought of him as kin, though he had never thought of them any other way.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6788,7 +6788,7 @@
       "en": "“Still, blood matters. I treasure my <tips=44>little sister</tips>. My dead parents are special to me in a way no stranger could ever be. That’s simply human nature. Love and hate. We cannot help feeling one or the other toward those closest to us. And I think that, in itself, is a very good thing. In itself.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6803,7 +6803,7 @@
       "en": "<tips=1>Liang</tips> said this with a trace of excitement. The driver appeared at a loss.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6818,7 +6818,7 @@
       "en": "“...The world is a difficult place.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6833,7 +6833,7 @@
       "en": "It was a harmless platitude, neither poison nor medicine.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6848,7 +6848,7 @@
       "en": "“Is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6863,7 +6863,7 @@
       "en": "Even as <tips=1>Liang</tips> gave the sleepy reply, his mind had already begun to consider the next problem.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6878,7 +6878,7 @@
       "en": "What would happen after Chaoya and his son were disposed of? As the chauffeur and <tips=25>Saiki</tips> had warned, displaying his relatives’ bodies in the street would cause no small disturbance in the Hong Kong Faction.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6893,7 +6893,7 @@
       "en": "Some would be cowed by the severity of the punishment. Others might emerge as a second or third Chaoya. Liang already had specific people in mind.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6908,7 +6908,7 @@
       "en": "It was a kind of loyalty test. If his methods brought the wavering back into line, good. If not, he wanted the pus drawn out early. Every trace that emerged, he would kill. He could see no other way to control <tips=76>Old Yi Shen</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6923,7 +6923,7 @@
       "en": "Besides Chaoya and his son, <tips=76>Old Yi Shen</tips> contained many of Liang’s childhood friends and relatives.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6938,7 +6938,7 @@
       "en": "Their identification with the Hong Kong era ran deep. Some looked down upon him for having lived—even if only under a false identity—as the son of a set-meal restaurant owner in <tips=9>Y District</tips>, played the delinquent boy, and attended school. Many even appeared to think little of his father, <tips=3>Chris Xie</tips>. His father too had belonged to no especially powerful lineage within <tips=69>Yi Shen</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6953,7 +6953,7 @@
       "en": "Naturally, some gave him powerful support. Taking a hard line here would help him earn their trust as well. <tips=1>Liang</tips> felt that not only <tips=7>YS</tips> as a whole, but this body called <tips=76>Old Yi Shen</tips>, had to be made anew.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6968,7 +6968,7 @@
       "en": "—Even so, this is hell.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6983,7 +6983,7 @@
       "en": "The thought came suddenly to <tips=1>Liang</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -6998,7 +6998,7 @@
       "en": "He killed relatives he had known since childhood. He threatened and killed people he did not hate. He proposed marriage to a woman he did not love and sat like a king atop a tower. He had wanted none of it. Beyond all the killing, there was not a single thing he wished to gain.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7013,7 +7013,7 @@
       "en": "He had never imagined this life. Yet perhaps it was only natural. The man he had become stood on things his father had gained by killing people. And this was the place where he was born.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7028,7 +7028,7 @@
       "en": "“Even so, why do we keep killing each other?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7043,7 +7043,7 @@
       "en": "<tips=1>Liang</tips> put the question to the chauffeur from the back seat.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7058,7 +7058,7 @@
       "en": "“Before I began this work, I always thought humanity’s greatest act of wisdom was inventing supreme value for life, a thing with no intrinsic value at all. Since taking this job, I’ve done precisely the opposite. I spend lives like pocket change. Not because I want to. But whenever I choose the best course, that’s where it naturally leads.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7073,7 +7073,7 @@
       "en": "“...<tips=81>Longtou</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7088,7 +7088,7 @@
       "en": "“You don’t need to look so worried. I haven’t lost hope.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7103,7 +7103,7 @@
       "en": "<tips=1>Liang</tips> gave a wry smile, then continued.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7118,7 +7118,7 @@
       "en": "“I only feel this must be a kind of fieldwork too. Some things can’t be understood without living them. ...We’re extraordinarily primitive. There’s no reason or logic to it. We live in a world where everyone simply uses everything they have to beat each other down. It’s absurd, but tremendously exciting. Perhaps losing yourself as a player is closer to the essence of a living creature than standing outside, observing, and tying your thoughts into elaborate knots.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7133,7 +7133,7 @@
       "en": "The old chauffeur had no answer for the young master’s strange question, delivered with a smile. He only cast a troubled glance through the rearview mirror and said:",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7148,7 +7148,7 @@
       "en": "“I believe something greater than man exists... Surely it watches from above as we struggle so hideously. It knows the suffering and sorrow none of us can share with another. Otherwise, the world would be far too cruel...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7163,7 +7163,7 @@
       "en": "At that, <tips=1>Liang</tips> abruptly lost all interest.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7178,7 +7178,7 @@
       "en": "“Is that so? But that isn’t what I mean. I only... well...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7193,7 +7193,7 @@
       "en": "For once, he found himself at a loss for words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -7208,7 +7208,7 @@
       "en": "“I just wish I could like this situation a little more.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -7223,7 +7223,7 @@
       "en": "He smiled at the driver as he said it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -7238,7 +7238,7 @@
       "en": "But this only confused his older subordinate further. Unable to answer, the man kept stealing troubled glances at his master through the rearview mirror.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]

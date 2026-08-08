@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=9>Y地区</tips>の西側には朽ちかけたトタンやシミのついた板キレなど、あり合わせのもので作り上げた粗末な簡易住宅が並ぶ地域がある。",
       "en": "The west side of <tips=9>Y District</tips> held a neighborhood of ramshackle homes thrown together from whatever came to hand: rusting corrugated iron, stained scraps of board, and the like.",
-      "bg": "assets/vn/backgrounds/bg-3e917cd04648.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り.webp"
     },
     {
       "id": "X2-1:0012",
@@ -70,7 +70,7 @@
       "se": "",
       "jp": "　いかにも<tips=9>Y地区</tips>らしいこの地域の一角、雑木林に隔てられたところに、周囲の住宅とは一線を画す堅牢なコンクリートの壁で囲まれた城のように巨大な建築物があった。",
       "en": "In one corner of this quintessentially <tips=9>Y District</tips> neighborhood, cut off by a scrubby grove, stood an enormous castle of a building behind solid concrete walls, utterly unlike the houses around it.",
-      "bg": "assets/vn/backgrounds/bg-ae71ed754465.webp"
+      "bg": "assets/vn/backgrounds/background-巻河原病院.webp"
     },
     {
       "id": "X2-1:0019",
@@ -422,7 +422,7 @@
       "se": "",
       "jp": "　その日、<tips=83>美紗</tips>は夜勤明けの朝を迎えていた。",
       "en": "That morning, <tips=83>Misa</tips> was finishing a night shift.",
-      "bg": "assets/vn/backgrounds/bg-3107c7fbc4c0.webp"
+      "bg": "assets/vn/backgrounds/background-病院看護室.webp"
     },
     {
       "id": "X2-1:0064",
@@ -882,10 +882,10 @@
       "se": "Yuuichi Hayashida",
       "jp": "「<tips=82>ヒロちゃん</tips>、どうしたんだい？」",
       "en": "“<tips=82>Hiro-chan</tips>, what's going on?”",
-      "bg": "assets/vn/backgrounds/bg-2100cbae17c6.webp",
+      "bg": "assets/vn/backgrounds/background-病院デイルーム.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c599aa3e7a73.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-02.webp",
           "s": "l"
         }
       ]
@@ -900,7 +900,7 @@
       "en": "<tips=93>Hayashida</tips> called to the agitated <tips=82>U</tips> by her nickname.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c599aa3e7a73.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-02.webp",
           "s": "l"
         }
       ]
@@ -915,7 +915,7 @@
       "en": "<tips=82>U</tips> was still in her teens, thin and pallid. Her medication made her unsteady and prone to falls, so she wore the kind of padded head guard used in boxing. Her features were fine; properly groomed, she might have been a pretty girl. But she was completely unkempt. Her hair stuck out in wild tufts, wispy hairs curled over her lip—and her eyes shone gold.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c599aa3e7a73.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-02.webp",
           "s": "l"
         }
       ]
@@ -930,7 +930,7 @@
       "en": "“Hey now. Your eyes have gone gold.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -945,7 +945,7 @@
       "en": "<tips=93>Hayashida</tips> put himself between <tips=82>U</tips> and F, still smiling as if to calm her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -960,11 +960,11 @@
       "en": "“Hey, <tips=82>Hiromi</tips>, calm down. Did you do something to Fuku?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -979,11 +979,11 @@
       "en": "As <tips=83>Misa</tips> approached, she saw <tips=93>Hayashida</tips> fixed in <tips=82>U</tips>'s threatening glare.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -998,11 +998,11 @@
       "en": "<tips=83>Misa</tips> was the nurse assigned to her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1017,11 +1017,11 @@
       "en": "<tips=83>Misa</tips> had three patients under her care. Of them, <tips=82>U</tips> was the youngest and the most difficult.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1036,11 +1036,11 @@
       "en": "She suffered from delusions of poisoning and often threw away her meals untouched, insisting someone had put poison in them. Let that continue and she quickly approached malnutrition, leaving the staff no choice but to restrain her to a bed and feed her through an IV.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1055,11 +1055,11 @@
       "en": "At night she stayed awake, roaming the ward and digging through other patients' belongings.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1074,11 +1074,11 @@
       "en": "She could not ration toilet paper. Give her a roll like anyone else and she flushed it whole, clogging the toilet. Refuse her one and she grew agitated, her voices becoming louder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1093,11 +1093,11 @@
       "en": "She was restless even on ordinary days and often angered other patients by hounding them with the same question again and again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1112,11 +1112,11 @@
       "en": "But she had never grown agitated enough to hurt someone. <tips=83>Misa</tips> was surprised, and the other staff must have been too. Troublesome as she was, the girl had charm. Being the youngest on the ward, she was doted on by patients and staff alike.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1131,11 +1131,11 @@
       "en": "“Are you okay? Are you hearing something?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1150,11 +1150,11 @@
       "en": "<tips=82>U</tips>'s eyes were empty. She looked toward <tips=83>Misa</tips> but did not answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1169,11 +1169,11 @@
       "en": "She was difficult to reach even at the best of times and showed little response to speech. Now she seemed duller still.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1188,11 +1188,11 @@
       "en": "“Why don't we sit down over there for now?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1207,11 +1207,11 @@
       "en": "When <tips=93>Hayashida</tips> reached for her hand, <tips=82>U</tips> violently shook him off.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1226,11 +1226,11 @@
       "en": "“Ms. <tips=83>Noumi</tips>, this isn't working. Think we should give her a PRN?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1245,11 +1245,11 @@
       "en": "<tips=93>Hayashida</tips> looked back at <tips=83>Misa</tips> with a rueful smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         }
       ]
@@ -1264,11 +1264,11 @@
       "en": "“She doesn't have a PRN ordered right now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "r"
         }
       ]
@@ -1283,11 +1283,11 @@
       "en": "<tips=83>Misa</tips> shook her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "r"
         }
       ]
@@ -1302,11 +1302,11 @@
       "en": "“Oh, right. Dr. Yasuda took over as her attending, didn't he?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "r"
         }
       ]
@@ -1321,11 +1321,11 @@
       "en": "<tips=93>Hayashida</tips> nodded. Among the staff, Dr. Yasuda was notorious for refusing to prescribe much of anything.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "r"
         }
       ]
@@ -1340,11 +1340,11 @@
       "en": "Behind them, the nurses examined F where she had fallen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "r"
         }
       ]
@@ -1359,7 +1359,7 @@
       "en": "“Doesn't look like there's any bleeding or swelling.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "r"
         }
       ]
@@ -1374,7 +1374,7 @@
       "en": "Nurse Furukawa had pulled back F's clothes to check the skin. She gave her report in the same easygoing tone as ever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "r"
         }
       ]
@@ -1389,11 +1389,11 @@
       "en": "“Blood pressure and pulse are normal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-03.webp",
           "s": "l"
         }
       ]
@@ -1408,11 +1408,11 @@
       "en": "<tips=92>Nurse Mizumura</tips> reported it calmly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-023b2b7ea605.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-03.webp",
           "s": "l"
         }
       ]
@@ -1427,7 +1427,7 @@
       "en": "“Does anything hurt?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1442,7 +1442,7 @@
       "en": "F did not respond even to <tips=94>Chief Nurse Yoshida</tips>. She sat staring, eyes wide with shock. A short woman over forty, F was normally talkative and quick to react—quite unlike <tips=82>U</tips>. The shock plainly had not worn off yet.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1457,7 +1457,7 @@
       "en": "“Fuku, what happened? That was a terrible crash. You frightened everyone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1472,7 +1472,7 @@
       "en": "<tips=94>Chief Nurse Yoshida</tips> crouched in front of F and spoke gently. F's words came pouring out as if a dam had broken.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1487,7 +1487,7 @@
       "en": "“Th-this stupid bitch! She came at me out of nowhere and shoved me! Look, her eyes are shining gold, aren't they? She used to follow me around all the time too. She scares the hell out of me! She's killed someone, hasn't she? That's why she's locked up here, right? Come on, <tips=94>Chief Nurse</tips>, put her in seclusion!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1502,7 +1502,7 @@
       "en": "“Fuku, I don't know where you heard that, but it's only a rumor. And I tell you all the time: you mustn't talk about people that way.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-02.webp",
           "s": "c"
         }
       ]
@@ -1517,7 +1517,7 @@
       "en": "“But it's true, ain't it? ...God, I hate this! I hate this crazy hospital! <tips=94>Chief Nurse</tips>, when are you letting me out? I'm sick of you locking me up in here. Can't you at least have another hospital look at me? This place is full of quacks. You're the ones making me sick. You're keeping me here till I die so you can steal my fortune...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-02.webp",
           "s": "c"
         }
       ]
@@ -1532,7 +1532,7 @@
       "en": "F had no insight into her illness—in other words, no awareness that she was ill at all. At every opportunity she claimed the staff had tricked her into the hospital. Naturally, the fortune she said they were after did not exist anywhere in the world.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-02.webp",
           "s": "c"
         }
       ]
@@ -1547,7 +1547,7 @@
       "en": "“We'll talk about that later.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-02.webp",
           "s": "c"
         }
       ]
@@ -1562,7 +1562,7 @@
       "en": "<tips=94>Chief Nurse Yoshida</tips> gave her a troubled look and continued.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ceae25d79731.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-02.webp",
           "s": "c"
         }
       ]
@@ -1577,7 +1577,7 @@
       "en": "“Fuku, can you stand? If you can, go back to your room for a while. But take your medicine first, please. You're worked up too. If you stay like this, you'll only make yourself worse again.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1592,7 +1592,7 @@
       "en": "“I don’t need any damn medicine.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1607,7 +1607,7 @@
       "en": "F refused at first. When <tips=92>Nurse Mizumura</tips> offered her a PRN tablet and a glass of water, however, she grudgingly swallowed it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1622,7 +1622,7 @@
       "en": "She gave <tips=82>U</tips> one deliberately loud click of the tongue, then left the dayroom.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-49d8af19d481.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-05.webp",
           "s": "c"
         }
       ]
@@ -1637,7 +1637,7 @@
       "en": "“Did you really push Ms. Fukuzawa?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "r"
         }
       ]
@@ -1652,7 +1652,7 @@
       "en": "Once F was gone, <tips=83>Misa</tips> questioned <tips=82>U</tips>, who still stood rooted to the spot. <tips=82>U</tips>'s lips trembled and opened as if to speak, then closed again without a sound. Saliva slipped from one corner and ran down her chin.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "r"
         }
       ]
@@ -1667,7 +1667,7 @@
       "en": "“Why did you do that? Of course Ms. Fukuzawa got scared when you pushed her. Can you tell me why?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "r"
         }
       ]
@@ -1682,7 +1682,7 @@
       "en": "<tips=82>U</tips>'s lips trembled once more. This time, words emerged.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "r"
         }
       ]
@@ -1697,11 +1697,11 @@
       "en": "“...Sh-shut up.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         }
       ]
@@ -1716,11 +1716,11 @@
       "en": "“Oh!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         }
       ]
@@ -1735,11 +1735,11 @@
       "en": "<tips=83>Misa</tips> froze, struck speechless. <tips=93>Hayashida</tips> casually slipped an arm around <tips=82>U</tips>'s shoulders.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         }
       ]
@@ -1754,15 +1754,15 @@
       "en": "“<tips=82>Hiro-chan</tips>, you're awfully worked up. Or do you get shy around young nurses? Why don't you come sit over there and have a nice quiet talk with Mr. <tips=93>Hayashida</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -1777,15 +1777,15 @@
       "en": "After all her stubbornness toward <tips=83>Misa</tips>, <tips=82>U</tips> nodded at once.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -1800,15 +1800,15 @@
       "en": "“Good. Let's go.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -1823,15 +1823,15 @@
       "en": "<tips=93>Hayashida</tips> caught <tips=83>Misa</tips>'s eye, then walked <tips=82>U</tips> to a bench across the dayroom with his arm still around her shoulders.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-184ab13ab1e4.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -1844,7 +1844,7 @@
       "se": "",
       "jp": "「ふう……」",
       "en": "“Whew...”",
-      "bg": "assets/vn/backgrounds/bg-3107c7fbc4c0.webp"
+      "bg": "assets/vn/backgrounds/background-病院看護室.webp"
     },
     {
       "id": "X2-1:0182",
@@ -1946,7 +1946,7 @@
       "en": "“Honestly, did you see Fuku's attitude? That pointed little click of the tongue at the end. She pulls that sort of thing all the time, then lands herself in trouble with everyone. I wonder if she really did nothing this time. Ms. Yoshida only smacked her on the head the other day because she said something nasty, remember? Such a mean old hag.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         }
       ]
@@ -1961,7 +1961,7 @@
       "en": "F belonged to the ward's so-called “capable” group: patients who could hold an ordinary conversation and retained nearly normal intelligence. That did not make her easy to care for.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         }
       ]
@@ -1976,7 +1976,7 @@
       "en": "Patients who had lost their intellect, personality, and ability to look after themselves demanded endless physical care. Patients who kept their intelligence presented troubles of their own.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         }
       ]
@@ -1991,7 +1991,7 @@
       "en": "F was quick-tongued, endlessly argumentative, and abusive even toward the female nurses. When her condition worsened, delusions such as “I am God” took hold. She became more imperious than ever and ordered everyone around; refuse her, and she screamed abuse in a piercing voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         }
       ]
@@ -2006,7 +2006,7 @@
       "en": "Once she reached that state, no one could manage her outside seclusion. She had been a regular there for years.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         }
       ]
@@ -2021,11 +2021,11 @@
       "en": "“Maybe her loud voice sets the other patients off easily. Still, Ms. <tips=82>Uchida</tips> surprised me. She's been a little worse lately, but I never expected her to push someone...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2040,11 +2040,11 @@
       "en": "“Think she'll wind up in seclusion too?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2059,11 +2059,11 @@
       "en": "To say there was no violence on this ward was only a comparison. Put people together under one roof and something still happened now and then.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2078,11 +2078,11 @@
       "en": "<tips=82>U</tips> demanded time and caused no end of trouble, but underneath it she was an obedient, quiet girl. In conflicts between patients, that usually made her the victim. Even now, when she had become the aggressor, the staff's sympathy lay with her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2097,11 +2097,11 @@
       "en": "In principle, staff were not supposed to have favorites, and their feelings rarely changed the care they gave. But they were human. Some patients they liked; others they did not.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2116,11 +2116,11 @@
       "en": "Most patients here had nothing—no family willing to keep them, no money, nothing but public assistance. Yet a sweet nature could still win a person love, even here. Get along well with the people around you, and your days could even be happy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2135,11 +2135,11 @@
       "en": "Since coming here, <tips=83>Misa</tips> had begun to think that character might be a person's last and greatest weapon. If she grew into the kind of old woman people could love, then perhaps even life in an institution would be happy.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2154,11 +2154,11 @@
       "en": "“I've got to grow up into a sweet old lady!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2173,11 +2173,11 @@
       "en": "Lately, <tips=83>Misa</tips> said it often.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-771e28b0652d.webp",
+          "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9476879be830.webp",
+          "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-01.webp",
           "s": "r"
         }
       ]
@@ -2210,7 +2210,7 @@
       "en": "“Boy, she's lost in those delusions. What a mess.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -2225,7 +2225,7 @@
       "en": "He said it with a smile that looked anything but troubled. It was so open and refreshing that female patients caused a commotion whenever he walked through another ward. He had quiet admirers among the female staff too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -2240,7 +2240,7 @@
       "en": "He had apparently once worked at a marine-sports shop in Tokyo. No one knew what had brought him to this facility in this City, but everyone here relied on him now.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -2255,7 +2255,7 @@
       "en": "“The usual <tips=8>Great Hole</tips> business is back. ‘The <tips=8>Great Hole</tips> is calling me,’ ‘I have to go home to the <tips=8>Great Hole</tips>’—that's all she'll say. Now Ms. Fukazawa is some demon incarnate that crawled out of the <tips=8>Great Hole</tips>. I gave her the usual picture book and she settled down enough to read, but the way she is now, she'll only do it again, don't you think?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         }
       ]
@@ -2270,11 +2270,11 @@
       "en": "“I see. Thank you, as always, Mr. <tips=93>Hayashida</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-01.webp",
           "s": "r"
         }
       ]
@@ -2289,11 +2289,11 @@
       "en": "With her call to the doctor finished, <tips=94>Chief Nurse Yoshida</tips> thanked him for his work.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-01.webp",
           "s": "r"
         }
       ]
@@ -2308,11 +2308,11 @@
       "en": "“The doctor will be here to examine Ms. <tips=82>Uchida</tips> soon. I expect he'll put her in seclusion.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-01.webp",
           "s": "r"
         }
       ]
@@ -2327,11 +2327,11 @@
       "en": "“Yes, that sounds best to me. You've got my vote... I'll go get a room ready.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-01.webp",
           "s": "r"
         }
       ]
@@ -2346,11 +2346,11 @@
       "en": "“Please do.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-4927ee0f967f.webp",
+          "u": "assets/vn/portraits/portrait-chief-nurse-yoshida-f064-01.webp",
           "s": "r"
         }
       ]
@@ -2372,7 +2372,7 @@
       "se": "",
       "jp": "　そして<tips=83>美紗</tips>は今日最後の仕事として<tips=82>Ｕ</tips>を保護室に連れて行く。",
       "en": "For her last task of the day, <tips=83>Misa</tips> took <tips=82>U</tips> to the seclusion rooms.",
-      "bg": "assets/vn/backgrounds/bg-f13a8a8657ff.webp"
+      "bg": "assets/vn/backgrounds/background-病院保護室-zルーム.webp"
     },
     {
       "id": "X2-1:0225",
@@ -2465,7 +2465,7 @@
       "en": "“Ms. Tobikawa, no talking like that. Keep it up and they won't let you out. Ms. Ushino, you've been drinking too much water. We measure out exactly what you're allowed. I'll mention it to your nurse today, but if she says no, you mustn't get angry. All right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         }
       ]
@@ -2480,7 +2480,7 @@
       "en": "<tips=83>Misa</tips> raised her voice toward the far end of the corridor.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         }
       ]
@@ -2495,7 +2495,7 @@
       "en": "“Nooo! Fujita's looking after me today, remember? She never gives me any. I'm so thirsty. You can sneak me some. Come on, give me a drink now, pleeease.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         }
       ]
@@ -2510,11 +2510,11 @@
       "en": "“That poor-little-me voice won't work. You remember why you're in there, don't you? They can't let you out until you learn to go without water... All right, <tips=82>Hiromi</tips>. In you go.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2529,11 +2529,11 @@
       "en": "At his prompting, <tips=82>U</tips> entered the corridor. <tips=93>Hayashida</tips> followed and locked the door to the dayroom behind them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2548,15 +2548,15 @@
       "en": "Being told she was going into seclusion caused <tips=82>U</tips> no distress. She went meekly. Her eyes remained gold, but the agitation and tension from before were gone. In their place floated an empty smile with no cause behind it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a1e5c7ea90a1.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-05.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2571,15 +2571,15 @@
       "en": "“Shoes and socks off here... There you go. You did it without me even asking. You're getting used to this, aren't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2594,15 +2594,15 @@
       "en": "<tips=83>Misa</tips> reached into <tips=82>U</tips>'s trouser pockets and searched her for anything forbidden in seclusion. All the while, <tips=82>U</tips> swayed and giggled at nothing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2617,15 +2617,15 @@
       "en": "“Okay, all clear. Now get some rest in here, <tips=82>Hiromi</tips>. Let yourself settle down.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2640,15 +2640,15 @@
       "en": "As <tips=83>Misa</tips>'s words sent <tips=82>U</tips> lumbering off to obey, <tips=93>Hayashida</tips> patted her lightly on the shoulder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2663,15 +2663,15 @@
       "en": "“<tips=82>Hiromi</tips>, tell her what you told me before. In your own words.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2686,15 +2686,15 @@
       "en": "<tips=82>U</tips> stopped laughing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2709,15 +2709,15 @@
       "en": "<tips=93>Hayashida</tips> repeated himself. She studied <tips=93>Hayashida</tips>'s face for a while, then turned to <tips=83>Misa</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2732,15 +2732,15 @@
       "en": "“Ms. Nomi. I'm sorry about before.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2755,15 +2755,15 @@
       "en": "She dipped her head in a bow.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-5bec2e4ea717.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-09.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2778,15 +2778,15 @@
       "en": "“<tips=82>Hiromi</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2801,15 +2801,15 @@
       "en": "Leaving <tips=83>Misa</tips> round-eyed and speechless, <tips=82>U</tips> entered the room by herself and flopped onto the mattress with her gaunt back to them. Now and then her shoulders gave a tiny shake. She was laughing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fd37f825105.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f120-03.webp",
           "s": "c"
         }
       ]
@@ -2824,11 +2824,11 @@
       "en": "<tips=93>Hayashida</tips> shut and locked the door. The bolt landed with a hard clack.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2843,11 +2843,11 @@
       "en": "“Come on, then.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2862,11 +2862,11 @@
       "en": "He turned to <tips=83>Misa</tips>, looked briefly surprised by her face, then smiled.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2881,11 +2881,11 @@
       "en": "“Ms. <tips=83>Noumi</tips>, having a little emotional incontinence?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2900,11 +2900,11 @@
       "en": "<tips=83>Misa</tips> could think of no clever answer to his joke. She shook her head frantically.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-f7a88586fad7.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-08.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2919,11 +2919,11 @@
       "en": "“I am noooot.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2938,11 +2938,11 @@
       "en": "Then she scrubbed both hands over her bare, makeup-free face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2957,11 +2957,11 @@
       "en": "She laughed to hide her embarrassment.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-937846d3e47d.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-10.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2976,11 +2976,11 @@
       "en": "“It's moments like this that make it impossible to hate them...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -2995,11 +2995,11 @@
       "en": "The words came almost as a murmur to herself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ce476e5a6c7e.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-11.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-fd115660037b.webp",
+          "u": "assets/vn/portraits/portrait-yuuichi-hayashida-f059-01.webp",
           "s": "r"
         }
       ]
@@ -3012,7 +3012,7 @@
       "se": "",
       "jp": "　<tips=83>美紗</tips>は<tips=9>Y地区</tips>のすぐ側の住宅地にアパートを借りて一人暮らしをしている。",
       "en": "<tips=83>Misa</tips> lives alone in a rented apartment in a residential neighborhood just outside <tips=9>Y District</tips>.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     },
     {
       "id": "X2-1:0280",
@@ -3103,7 +3103,7 @@
       "se": "",
       "jp": "　アパートに戻るとシャワーを浴び、<tips=57>滑走路通り</tips>で買ったハンバーガーを食べながら勉強をする。そのハンバーガーの味付けは、<tips=83>美紗</tips>の好みからすると少し濃かったが、なかなかの美男子が販売しており、いつでもさわやかな笑顔で挨拶をしてくれるため、それが理由でしばしば購入している。",
       "en": "Back at the apartment, she showers and studies over a hamburger from <tips=57>Runway Street</tips>. It is seasoned a little too heavily for <tips=83>Misa</tips>'s taste. The man selling it, however, is handsome and always greets her with a bright smile. That is why she buys one so often.",
-      "bg": "assets/vn/backgrounds/bg-35b29f8aabec.webp"
+      "bg": "assets/vn/backgrounds/background-美紗のアパート.webp"
     },
     {
       "id": "X2-1:0295",
@@ -3140,7 +3140,7 @@
       "se": "",
       "jp": "　まず<tips=17>タイプB</tips>というのは、<tips=16>タイプA</tips>と同じ、ミュータントの一種である。",
       "en": "First, <tips=17>Type B</tips> people are mutants, just as <tips=16>Type A</tips> people are.",
-      "bg": "assets/vn/backgrounds/bg-c18f248eff37.webp"
+      "bg": "assets/vn/backgrounds/background-x2-1b.webp"
     },
     {
       "id": "X2-1:0305",
@@ -3195,7 +3195,7 @@
       "se": "",
       "jp": "　そして、<tips=16>タイプA</tips>のもう一つの特徴として『<tips=77>特質変異</tips>』がある。",
       "en": "<tips=16>Type A</tips> people have another defining feature: the “<tips=77>Trait Mutation</tips>.”",
-      "bg": "assets/vn/backgrounds/bg-94b01af3eaa6.webp"
+      "bg": "assets/vn/backgrounds/background-x2-1a.webp"
     },
     {
       "id": "X2-1:0313",
@@ -3259,7 +3259,7 @@
       "se": "",
       "jp": "　<tips=17>タイプB</tips>もかつては<tips=16>タイプA</tips>の一種だと考えられていた。",
       "en": "<tips=17>Type B</tips> people were once thought to be a variety of <tips=16>Type A</tips>.",
-      "bg": "assets/vn/backgrounds/bg-c18f248eff37.webp"
+      "bg": "assets/vn/backgrounds/background-x2-1b.webp"
     },
     {
       "id": "X2-1:0325",
@@ -3413,7 +3413,7 @@
       "se": "",
       "jp": "　――本の冒頭に記述されたこれらの事柄は、<tips=83>美紗</tips>は今更言われなくともよく知っている話であり、看護学校の教科書にも記載されていた。",
       "en": "—Nothing in the book's opening was new to <tips=83>Misa</tips>. Her nursing-school textbooks had covered it all.",
-      "bg": "assets/vn/backgrounds/bg-35b29f8aabec.webp"
+      "bg": "assets/vn/backgrounds/background-美紗のアパート.webp"
     },
     {
       "id": "X2-1:0350",
@@ -3504,7 +3504,7 @@
       "se": "",
       "jp": "　携帯電話の着信音で目が覚める。相手は、田舎の母親であった。",
       "en": "Her phone woke her. It was her mother calling from the country.",
-      "bg": "assets/vn/backgrounds/bg-35b29f8aabec.webp"
+      "bg": "assets/vn/backgrounds/background-美紗のアパート.webp"
     },
     {
       "id": "X2-1:0375",

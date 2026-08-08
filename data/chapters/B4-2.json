@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　もうすぐ日付が変わろうという時刻、その電話は何の前触れもなくかかってきた。",
       "en": "It is almost midnight when the call comes out of nowhere.",
-      "bg": "assets/vn/backgrounds/bg-49fef8e3e8c0.webp"
+      "bg": "assets/vn/backgrounds/background-見土マンション自室.webp"
     },
     {
       "id": "B4-2:0012",
@@ -421,7 +421,7 @@
       "se": "",
       "jp": "　――まったく、大変なことになった。",
       "en": "—God, what a mess.",
-      "bg": "assets/vn/backgrounds/bg-cd789d505607.webp"
+      "bg": "assets/vn/backgrounds/background-道路に走っているバイクの灯.webp"
     },
     {
       "id": "B4-2:0073",
@@ -494,7 +494,7 @@
       "se": "",
       "jp": "　街のなかでもずば抜けて背の高い<tips=41>グランドタワー</tips>は、暗い夜空にとけそうな真っ黒な巨大な壁となってそびえている。この時間でもいくつかの窓には明かりが灯り、まるで街を監視しているみたいだ。",
       "en": "Far taller than anything else in the City, <tips=41>Grand Tower</tips> looms like a vast black wall melting into the night sky. Even at this hour, lights burn in a handful of windows, as though the tower itself were watching the City.",
-      "bg": "assets/vn/backgrounds/bg-f636942c383b.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観夜.webp"
     },
     {
       "id": "B4-2:0086",
@@ -567,7 +567,7 @@
       "se": "",
       "jp": "　自分の場所を説明すると、ビルの上の方の窓から黒い豆粒みたいなものが飛び出したのが見える。それはもの凄い速度でこちらの方へ飛んで来たんだけれども、正確な位置がわからないのか頭上をぐるぐるとまわっている。",
       "en": "After I tell her where I am, a black speck shoots from a window high above. It hurtles toward me, then circles overhead, apparently unable to pinpoint my location.",
-      "bg": "assets/vn/backgrounds/bg-fecd544d5289.webp"
+      "bg": "assets/vn/backgrounds/background-雨雲の夜.webp"
     },
     {
       "id": "B4-2:0106",
@@ -615,7 +615,7 @@
       "en": "“Thank you for coming.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -630,7 +630,7 @@
       "en": "<tips=51>Sakura</tips> doesn’t play along. She looks at me, taut with worry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -645,7 +645,7 @@
       "en": "She is wearing a gray raincoat, but with the hood down, her hair is soaked through. Whether from the cold of flying or the tension, her face has gone pale. She has no crutch with her, but stands firmly on her prosthetic leg.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -660,7 +660,7 @@
       "en": "“How is she?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -675,7 +675,7 @@
       "en": "“She’s still in the closet, crying and talking to herself. I was afraid I’d say the wrong thing, so I just kept watch... Maybe I should have done something...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -690,7 +690,7 @@
       "en": "“No, you did exactly right. Can you take me to her room? Or would you rather I just give you the medicine?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -705,7 +705,7 @@
       "en": "“I want you to come. I’m scared to do it alone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -720,7 +720,7 @@
       "en": "She takes my hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -735,7 +735,7 @@
       "en": "“Can you carry me? I’m not nearly as light as <tips=44>Siu</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -750,7 +750,7 @@
       "en": "“It’s fine. Get on.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -765,7 +765,7 @@
       "en": "She turns her back the instant she says it. She cannot stand leaving <tips=44>Siu</tips> alone any longer than necessary.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -780,7 +780,7 @@
       "en": "Climbing onto the back of a slight girl with a bad leg feels wrong, but there is no time to hesitate. I ease myself onto her back and hold tight.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -795,7 +795,7 @@
       "en": "“Ngh.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -810,7 +810,7 @@
       "en": "<tips=51>Sakura</tips> staggers for an instant, almost buckling under my weight. Then we float gently off the ground.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -825,7 +825,7 @@
       "en": "“Incredible.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -840,7 +840,7 @@
       "en": "Floating in midair feels so strange that the word slips out before I can stop it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "c"
         }
       ]
@@ -855,7 +855,7 @@
       "en": "“Hold on tightly.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "c"
         }
       ]
@@ -870,7 +870,7 @@
       "en": "The moment she says it, we rocket upward.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "c"
         }
       ]
@@ -930,7 +930,7 @@
       "en": "“Are you all right? Your face is completely white.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -945,7 +945,7 @@
       "en": "When I slide off her back and put my feet down, I sway badly enough to make <tips=51>Sakura</tips> worry about me too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -960,7 +960,7 @@
       "en": "“I-I’m fine. Just got a little cold.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -975,7 +975,7 @@
       "en": "I force a brave smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -990,7 +990,7 @@
       "en": "“So where is <tips=44>Siu</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -1005,7 +1005,7 @@
       "en": "“...This way.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -1020,7 +1020,7 @@
       "en": "I follow <tips=51>Sakura</tips> through the glass door.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-99064b0a5d83.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-01.webp",
           "s": "l"
         }
       ]
@@ -1033,7 +1033,7 @@
       "se": "",
       "jp": "　そこは広いリビングルームで、照明に照らされた部屋のなかは明るかった。家庭的な温かみのあるその柔らかな光は、あちこちに飾られた兎や猫の置物や、家具の上に敷かれた色鮮やかなクロスなどを照らし出し、普段だったらとても可愛らしい女の子の部屋だと思えるのだろうが、今は壁紙の一部が剥がれたり、床の上に割れたティーカップなどが散乱したりと、可愛らしさを台無しにするミスマッチな光景が同居している。",
       "en": "We enter a spacious living room filled with warm, gentle light. It shines on rabbit and cat figurines arranged everywhere and bright cloths draped over the furniture. Under ordinary circumstances, it would be an adorable girl’s room. Tonight, strips of torn wallpaper and shattered teacups across the floor jar horribly against all that sweetness.",
-      "bg": "assets/vn/backgrounds/bg-ab34acd4aeb0.webp"
+      "bg": "assets/vn/backgrounds/background-筱喬の部屋.webp"
     },
     {
       "id": "B4-2:0160",
@@ -1054,7 +1054,7 @@
       "en": "“Yes. She said someone was inside the walls, and that the patterns on them were moving...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-04.webp",
           "s": "l"
         }
       ]
@@ -1069,7 +1069,7 @@
       "en": "“I see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-04.webp",
           "s": "l"
         }
       ]
@@ -1084,7 +1084,7 @@
       "en": "Apparently, <tips=44>Siu</tips> tore through this room, then ran into the bedroom and hid in the closet to cry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-88d3454f9a62.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-04.webp",
           "s": "l"
         }
       ]
@@ -1097,7 +1097,7 @@
       "se": "",
       "jp": "　おれは<tips=51>さくら</tips>のあとをついて、その部屋に足を踏み入れる。",
       "en": "I follow <tips=51>Sakura</tips> into the bedroom.",
-      "bg": "assets/vn/backgrounds/bg-04150a418d52.webp"
+      "bg": "assets/vn/backgrounds/background-筱喬の部屋クローゼット前.webp"
     },
     {
       "id": "B4-2:0170",
@@ -1260,7 +1260,7 @@
       "se": "",
       "jp": "　するとすぐ目の前に、膝小僧を抱えてパジャマ姿で小さく座っている<tips=44>シウ</tips>がいた。",
       "en": "<tips=44>Siu</tips> is sitting directly in front of me, tiny and huddled in her pajamas with her knees hugged to her chest.",
-      "bg": "assets/vn/backgrounds/bg-940f5db5ccaa.webp"
+      "bg": "assets/vn/backgrounds/background-cutin17-mask-b.webp"
     },
     {
       "id": "B4-2:0199",
@@ -1594,7 +1594,7 @@
       "se": "",
       "jp": "「もう終わったよ」",
       "en": "“It’s over now.”",
-      "bg": "assets/vn/backgrounds/bg-04150a418d52.webp"
+      "bg": "assets/vn/backgrounds/background-筱喬の部屋クローゼット前.webp"
     },
     {
       "id": "B4-2:0250",
@@ -1642,7 +1642,7 @@
       "en": "“...What did you inject her with?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1657,7 +1657,7 @@
       "en": "“Something to calm her down. ...More precisely, it suppresses the symptoms of <tips=17>Type B</tips> manifestation. After some rest, she’ll be back to her usual self. Though right now, <tips=44>Siu</tips> may not even remember what her usual self feels like.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1672,7 +1672,7 @@
       "en": "<tips=44>Siu</tips> says nothing. She only stares at me. I don’t know how much she understood, but at least she no longer seems inclined to fight.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1687,7 +1687,7 @@
       "en": "She plants her hands on the floor and tries to stand, then sways and nearly collapses. I catch her with one arm.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1702,7 +1702,7 @@
       "en": "“You’re exhausted. You couldn’t hold your strength back, so you used it all up. Let’s get you into bed. Have a good sleep, and the world will look better when you wake up.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1717,7 +1717,7 @@
       "en": "I lift her and lay her on the bed. <tips=51>Sakura</tips> pulls the covers over her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1732,7 +1732,7 @@
       "en": "“It’s all right now. Trust us.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1747,7 +1747,7 @@
       "en": "<tips=51>Sakura</tips> says it with grave sincerity.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1762,7 +1762,7 @@
       "en": "<tips=44>Siu</tips> gazes blankly at <tips=51>Sakura</tips> for a moment, then quietly closes her eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1777,7 +1777,7 @@
       "en": "“All right. Let’s go into the other room.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1792,7 +1792,7 @@
       "en": "Once <tips=44>Siu</tips>’s breathing settles into the gentle rhythm of sleep, I whisper to <tips=51>Sakura</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1807,7 +1807,7 @@
       "en": "“How long will the injection take to work?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1822,7 +1822,7 @@
       "en": "She whispers the question back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1837,7 +1837,7 @@
       "en": "“Five minutes if it’s fast, thirty at most. Once it takes effect, it lasts for two weeks. ...Come on. She’s safe now. While she sleeps, there’s something I need to tell you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1852,7 +1852,7 @@
       "en": "<tips=51>Sakura</tips> is reluctant to leave, but I coax her toward the door. Then—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1867,7 +1867,7 @@
       "en": "“Good night.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]
@@ -1882,7 +1882,7 @@
       "en": "I turn off the light and close the door.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ffb110e66f4.webp",
+          "u": "assets/vn/portraits/portrait-sakura-noshida-f012-03.webp",
           "s": "l"
         }
       ]

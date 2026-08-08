@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=7>ＹＳ</tips>に入れて貰ってしばらく経ったけれども、なんの仕事も与えて貰えないので、はっきり言って腐っている。腐敗している。",
       "en": "It’s been a while since they let me into <tips=7>YS</tips>, but nobody will give me any work. Frankly, I’m starting to rot. I’m decomposing.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "D5:0011",
@@ -81,7 +81,7 @@
       "en": "“Oh, do you? The windows in Leonardo’s family quarters are dirty. Could you clean them?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -96,7 +96,7 @@
       "en": "The <tips=81>Longtou</tips> says it without batting an eye.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -111,7 +111,7 @@
       "en": "Yes, I told him I’d do anything, even clean. But he couldn’t honestly have thought I meant I wanted to clean. That was self-promotion. It was my way of showing how motivated I am. If my heart’s one true desire were to clean things, I would’ve applied to a cleaning company in the first place.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -126,7 +126,7 @@
       "en": "Though I suppose the pay here beats a cleaning company. <tips=7>YS</tips> pays us monthly, with a choice of cash or direct deposit. Mine goes into a secret account nobody in my family knows about. My base salary comes with a special psychic allowance and all sorts of extras, adding up to far more than any normal cleaning company would pay. I can do a sloppier job than a real cleaner, too, and nobody complains if I get tired and quit halfway through. Truly, this is labor on the easiest possible setting.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -141,7 +141,7 @@
       "en": "So yes, the terms are much better than at your average cleaning company. But I will not be bought off so easily. I want fulfillment.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -156,7 +156,7 @@
       "en": "The <tips=81>Longtou</tips> is a clever man. He knows perfectly well what I want. Still, no orders.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -171,7 +171,7 @@
       "en": "What a mean little tease. Besides, the <tips=81>Longtou</tips> told me they hired cleaners. Was that a lie?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -186,7 +186,7 @@
       "en": "And yet, even as I curse the <tips=81>Longtou</tips>’s placid face in the privacy of my mind—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -201,7 +201,7 @@
       "en": "“Yes, understood.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -216,7 +216,7 @@
       "en": "—I say it like a good girl and wipe, wipe, wipe away with my rag. Ah, the rot. I can feel the rot. My heart is putrefying.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -231,7 +231,7 @@
       "en": "Fine, maybe I’m just some young girl. But I more than make up for it with my unique psychic power, the courage I was born with, the combat instincts I developed in games where people shoot each other to death, and the fact that I went one-on-one with the psychic who plunged all of <tips=41>Grand Tower</tips> into terror.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "r"
         }
       ]
@@ -955,7 +955,7 @@
       "se": "",
       "jp": "　トイレに行った後もまだ十分には足りなかったので、ビルのなかをふわふわとうろついている。",
       "en": "Even after a trip to the bathroom, I still have time to kill, so I drift aimlessly through the building.",
-      "bg": "assets/vn/backgrounds/bg-38a7d9a6ad4d.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー最上階廊下.webp"
     },
     {
       "id": "D5:0122",
@@ -1082,10 +1082,10 @@
       "se": "Xie Liang",
       "jp": "「今日はひとつニュースがあった」",
       "en": "“We received some news today.”",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp",
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1100,7 +1100,7 @@
       "en": "At the appointed time, I enter his office. The <tips=81>Longtou</tips> is back at his usual desk. Without saying one word about my spying, he dives straight in.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1115,7 +1115,7 @@
       "en": "“I thought you should know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1130,7 +1130,7 @@
       "en": "“Wh-what is it? I-if you called me all the way here to tell me, does it have something to do with me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1145,7 +1145,7 @@
       "en": "My guilty conscience has me acting wildly suspicious before he’s even accused me of anything.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1160,7 +1160,7 @@
       "en": "The other executives have already left. Aside from the <tips=81>Longtou</tips> and me, only the <tips=40>Wong sisters</tips> and <tips=30>Reirei</tips> remain.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1175,7 +1175,7 @@
       "en": "The faint scent of coffee lingers in the room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1190,7 +1190,7 @@
       "en": "“It concerns our organization, so in that sense it concerns you too. It may concern you personally as well. That part depends on you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1205,7 +1205,7 @@
       "en": "For the <tips=81>Longtou</tips>, that’s an unusually roundabout answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1220,7 +1220,7 @@
       "en": "So this really has nothing to do with my spying. Something entirely different—and important—is going on.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1235,7 +1235,7 @@
       "en": "I have a bad feeling. This tension is different from bracing myself for a scolding. I ask again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1250,7 +1250,7 @@
       "en": "“What happened?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1265,7 +1265,7 @@
       "en": "“The leader of the <tips=47>Liberation Army</tips>, <tips=10>Michio Mido</tips>, was murdered.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1280,7 +1280,7 @@
       "en": "The <tips=81>Longtou</tips> says it quietly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1295,7 +1295,7 @@
       "en": "“What...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1310,7 +1310,7 @@
       "en": "I must have heard him wrong.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1325,7 +1325,7 @@
       "en": "“Yesterday he succeeded the <tips=22>Elders</tips> as leader of the <tips=21>Dragon Club</tips> and held a party to announce it. Apparently, he was killed in the middle of the celebration. We received a report immediately afterward, and our follow-up confirmed it. The killer is said to be a teenage girl—one of the patients freed during the hospital raid. She entered the party and shot him with a gun hidden inside a bouquet. She killed two pursuers as she fled and has since disappeared. A professional is probably helping her. We don’t yet know which faction, and depending on who is behind her, the situation may become even more complicated. That was what the meeting you were spying on was about.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1340,7 +1340,7 @@
       "en": "He tells me all this in an even voice. The words refuse to go into my head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1355,7 +1355,7 @@
       "en": "I haven’t seen Mr. <tips=10>Mido</tips> lately, not since my position changed. But <tips=44>Xiaoqiao</tips> keeps me informed. What they talked about that day, which dish he praised. Just the other day she sent me a picture of the two of them. It was so full of unbearable happiness that, yes, I muttered ‘Die’ out loud. But I didn’t mean I wanted reality to listen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1370,7 +1370,7 @@
       "en": "Given his line of work, perhaps I should’ve known something this sudden could happen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1385,7 +1385,7 @@
       "en": "“H-he’s dead?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1400,7 +1400,7 @@
       "en": "Even to my own ears, I sound thoroughly shaken.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1415,7 +1415,7 @@
       "en": "The <tips=81>Longtou</tips> nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1430,7 +1430,7 @@
       "en": "“It appears that the former second-in-command of the <tips=47>Liberation Army</tips>, <tips=67>Camilla Northam</tips>, will take temporary command of the entire <tips=21>Dragon Club</tips>. She is more aggressive than <tips=10>Michio Mido</tips>, so she will likely rely on direct action more than he did. That makes her easier for us to handle. But now that bloodshed is unavoidable, there is little to celebrate.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1445,7 +1445,7 @@
       "en": "He looks as calm as ever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1460,7 +1460,7 @@
       "en": "He just called him ‘<tips=10>Michio Mido</tips>,’ as if he were a stranger. But I’ve heard they were friends from childhood.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1475,7 +1475,7 @@
       "en": "Does his death mean nothing to him? I suppose they both knew this could happen once they ended up on opposing sides. It could’ve ended much worse. Maybe this is better than having to kill each other themselves.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1490,7 +1490,7 @@
       "en": "Even so, now that the man is actually dead, he must feel something. The two looked close when they met in my hospital room. I honestly can’t tell whether this man feels little or is holding everything in. But never letting his calm facade slip—not even now—is impressive.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1505,7 +1505,7 @@
       "en": "I am not doing nearly so well.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1520,7 +1520,7 @@
       "en": "My whole body is sweating strangely. Yes, I’m always slick and wet, but this is cold sweat on top of the usual. The room spins. Mr. <tips=10>Mido</tips>. Mr. <tips=10>Mido</tips>. The useless words repeat inside my head. My blood pressure must be through the roof.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1535,7 +1535,7 @@
       "en": "“Are you all right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1550,7 +1550,7 @@
       "en": "I must look awful, because the <tips=81>Longtou</tips> regards me with puzzled concern.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1565,7 +1565,7 @@
       "en": "“I-I’m fine!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1580,7 +1580,7 @@
       "en": "I press a hand to my chest, where my heart is beating all wrong, and take a deep breath.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1595,7 +1595,7 @@
       "en": "Yes. Calm down. What am I so upset about? If a dead man came back to life, that would be surprising. A living person dying is perfectly natural. Somewhere on Earth, people are dropping dead every minute of every day, from tiny children to old men and women. This one simply happened close to me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1610,7 +1610,7 @@
       "en": "Yes, I spoke with Mr. <tips=10>Mido</tips>. He helped me with all sorts of things, and I liked him. But do I have any right to fall apart like this? Were we truly that close?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1625,7 +1625,7 @@
       "en": "Mr. <tips=10>Mido</tips> himself was involved in plenty of deaths as leader of the <tips=47>Liberation Army</tips>. If somebody from the hospital he attacked killed him, then cause and consequence only came full circle. It makes far more sense than some absurd accident, like dying because the house next door caught fire.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1640,7 +1640,7 @@
       "en": "And it wasn’t only the hospital. He led the attack on the Fernandez house too. From what I’ve heard, he personally killed at least four people there. Even if those were his only kills, four kills to one death is an excellent K/D ratio. The real number is probably higher. Look at it statistically and his score deserves praise, not mourning. I did quite well in last year’s clan match and mine was only 1.8. —What in God’s name am I talking about?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1655,7 +1655,7 @@
       "en": "This is no time to lose my head. Mr. <tips=10>Mido</tips>’s death must mean things more important than grief or sentiment. I need to think about those.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1670,7 +1670,7 @@
       "en": "After universalizing it, shifting the focus, and trying every other mental trick I know, I finally start to calm down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1685,7 +1685,7 @@
       "en": "My breathing evens out. My mind returns.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1700,7 +1700,7 @@
       "en": "Thank goodness I was born coldhearted. It is sad that the lovely, smiling Mr. <tips=10>Mido</tips> is dead. But there is something more important I need to think about first: <tips=44>Xiaoqiao</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1715,7 +1715,7 @@
       "en": "Mr. <tips=10>Mido</tips>’s death must have devastated her. And that’s not all. Mr. <tips=10>Mido</tips> was her greatest protector. This isn’t only about grief.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1730,7 +1730,7 @@
       "en": "“Um, that reminds me, <tips=81>Longtou</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1745,7 +1745,7 @@
       "en": "I look up at him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1760,7 +1760,7 @@
       "en": "The <tips=81>Longtou</tips> has his cheek propped on one hand like Osamu Dazai in a schoolbook photograph. He watches me pensively.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1775,7 +1775,7 @@
       "en": "“Before, I told you I didn’t know where <tips=44>Xiaoqiao</tips> went after I took her outside. The truth is... I do.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1790,7 +1790,7 @@
       "en": "The <tips=81>Longtou</tips> narrows his eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1805,7 +1805,7 @@
       "en": "“She fell in love with Mr. <tips=10>Mido</tips>, and, um, s-so... she’s been living at Mr. <tips=10>Mido</tips>’s place.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1820,7 +1820,7 @@
       "en": "As I trip helplessly over the words, the <tips=81>Longtou</tips> knits his brow.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1835,7 +1835,7 @@
       "en": "“So I was right...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1850,7 +1850,7 @@
       "en": "He murmurs it under his breath. He’s much less surprised than I expected. And more importantly—he was right?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -1865,7 +1865,7 @@
       "en": "“Start at the beginning and tell me everything in order.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1880,7 +1880,7 @@
       "en": "The <tips=81>Longtou</tips>’s voice is calm.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1895,7 +1895,7 @@
       "en": "“Y-yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1910,7 +1910,7 @@
       "en": "I put my thoughts in order and begin again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1925,7 +1925,7 @@
       "en": "“The truth is, her symptoms had already manifested. She suddenly started acting strange when the two of us were alone. I’d heard it would be dangerous if the <tips=81>Longtou</tips>’s sister suffered an onset and people in <tips=7>YS</tips> learned about it, so I went to Mr. <tips=10>Mido</tips>... I knew Mr. <tips=10>Mido</tips> belonged to the <tips=21>Dragon Club</tips>, but he wasn’t an executive then, and I thought he would know a lot about <tips=17>Type B</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1940,7 +1940,7 @@
       "en": "The <tips=81>Longtou</tips> listens without moving a muscle. I can’t tell what he makes of the shocking news that his sister’s symptoms had already appeared.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1955,7 +1955,7 @@
       "en": "I go on.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1970,7 +1970,7 @@
       "en": "“Mr. <tips=10>Mido</tips> agreed to look at her. So I flew through the rain and brought him straight to <tips=44>Xiaoqiao</tips>’s room...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -1985,7 +1985,7 @@
       "en": "I explain how he gave her ‘<tips=46>Neo-Rose</tips>’ and brought <tips=44>Xiaoqiao</tips> back to herself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2000,7 +2000,7 @@
       "en": "“That was when she fell in love with Mr. <tips=10>Mido</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2015,7 +2015,7 @@
       "en": "“I see. Then the two of you staged that little performance, flew out of this building, and she moved in with him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2030,7 +2030,7 @@
       "en": "“Just as you say.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2045,7 +2045,7 @@
       "en": "I shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2060,7 +2060,7 @@
       "en": "“In effect, I handed <tips=7>YS</tips>’s <tips=81>Longtou</tips>’s own sister over to a man from our enemy, the <tips=21>Dragon Club</tips>. I know how terrible that was. If I’m to be punished, I’ll accept anything.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2075,7 +2075,7 @@
       "en": "“It would be a serious matter if a member of <tips=7>YS</tips> had done it. But at the time, you had nothing to do with our organization. You were only <tips=44>Xiaoqiao</tips>’s friend, helping her fulfill a wish. It is not my place to punish you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2090,7 +2090,7 @@
       "en": "That is the Longtou’s answer. With <tips=44>Xiaoqiao</tips> and others close to him, he calls himself ‘boku.’ Here he uses the formal ‘watashi.’ He is speaking as the <tips=81>Longtou</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2105,7 +2105,7 @@
       "en": "“And now that you do belong to <tips=7>YS</tips>, you have come forward on your own. I will consider the matter closed. But if anyone else learned the truth, it would create difficulties. I will keep it to myself, and you must never speak of it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2120,7 +2120,7 @@
       "en": "“Understood... But earlier you said, ‘So I was right.’ Did you already think she might be with Mr. <tips=10>Mido</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2135,7 +2135,7 @@
       "en": "“Of course. I considered the possibility. That is why I summoned you and made a point of telling you about <tips=10>Mido</tips>’s death.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2150,7 +2150,7 @@
       "en": "He sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2165,7 +2165,7 @@
       "en": "“Any <tips=17>Type B</tips> person trying to live in this City would inevitably come into contact with the <tips=21>Dragon Club</tips>, and through them with <tips=10>Michio Mido</tips>. Given his nature, if she asked him for help, he would insist on sheltering her himself. And you showed no concern at all when <tips=44>Xiaoqiao</tips> disappeared. That told me you knew where <tips=44>Xiaoqiao</tips> was and believed she was exceptionally safe there. It was not difficult to imagine. I only wished I were wrong.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2180,7 +2180,7 @@
       "en": "The <tips=81>Longtou</tips> gives an exasperated shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2195,7 +2195,7 @@
       "en": "“So <tips=44>Xiaoqiao</tips> moved in with him. How exactly has she been living there? Surely she hasn’t been openly announcing that she is the <tips=81>Longtou</tips>’s sister.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2210,7 +2210,7 @@
       "en": "I explain <tips=44>Xiaoqiao</tips>’s situation as he questions me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2225,7 +2225,7 @@
       "en": "There isn’t much to tell. She changed her name, hid her background, and lived as a Japanese <tips=17>Type B</tips> woman in Mr. <tips=10>Mido</tips>’s home. She had little to do with the other <tips=21>Dragon Club</tips> members beyond exchanging greetings when they passed in the building. Recently, they had begun to recognize her as Mr. <tips=10>Mido</tips>’s lover. The two were as affectionate as could be. It showed in every message she sent me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2240,7 +2240,7 @@
       "en": "“Like newlyweds?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2255,7 +2255,7 @@
       "en": "I nod when the <tips=81>Longtou</tips> repeats my words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2270,7 +2270,7 @@
       "en": "“Unbelievable. Not a care in the world.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2285,7 +2285,7 @@
       "en": "He presses his fingers to his temple as if nursing a headache.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2300,7 +2300,7 @@
       "en": "“She must be terribly upset. If there’s nothing else, I’d like to go to her immediately... May I?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2315,7 +2315,7 @@
       "en": "“Of course. I expected you to say that. And I have one thing I would like to ask of you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2330,7 +2330,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2345,7 +2345,7 @@
       "en": "I ask, still marveling at how calm he is.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2360,7 +2360,7 @@
       "en": "“Formally, this is an order from the <tips=81>Longtou</tips>. In truth, it may be closer to a personal request. You are free to refuse.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2375,7 +2375,7 @@
       "en": "“Understood. I’m listening.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2390,7 +2390,7 @@
       "en": "“Good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2405,7 +2405,7 @@
       "en": "He nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2420,7 +2420,7 @@
       "en": "“Take <tips=44>Xiaoqiao</tips> out of <tips=10>Michio</tips>’s apartment. Bring her here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2435,7 +2435,7 @@
       "en": "“...Understood. So <tips=44>Xiaoqiao</tips> will live here again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2450,7 +2450,7 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2465,7 +2465,7 @@
       "en": "He shakes his head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2480,7 +2480,7 @@
       "en": "“She will live outside the City.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2495,7 +2495,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2510,7 +2510,7 @@
       "en": "My voice comes out much too loud. I lower it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2525,7 +2525,7 @@
       "en": "“Is this... some kind of exile?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2540,7 +2540,7 @@
       "en": "“No. I already believed that living in this building was bad for her. She should live outside the City, with no connection to the organization.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2555,7 +2555,7 @@
       "en": "“But where...?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2570,7 +2570,7 @@
       "en": "“I have chosen a place. I will tell you later.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2585,7 +2585,7 @@
       "en": "The <tips=81>Longtou</tips>’s voice sounds cold. Could he care less about his sister than I thought?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2600,7 +2600,7 @@
       "en": "“Perhaps I ought to persuade her myself. But if I speak to her, it will probably have the opposite effect. Even normally, everything I say seems to rub her the wrong way. She may listen to you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2615,7 +2615,7 @@
       "en": "“I don’t know if she’ll listen to me either... She’s stubborn.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2630,7 +2630,7 @@
       "en": "“I know. But there is no one else I can ask.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2645,7 +2645,7 @@
       "en": "The <tips=81>Longtou</tips> lets out a sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2660,7 +2660,7 @@
       "en": "I stare at him, wondering what he really intends, and notice the skin beneath his eyes is an unnatural color. Is he wearing foundation there?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2675,7 +2675,7 @@
       "en": "Is he hiding dark circles? Now that I look, his whole face seems a little worn.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2690,7 +2690,7 @@
       "en": "He looks much the same as always, but perhaps even someone as strong as the <tips=81>Longtou</tips> is exhausted. The glimpse of unexpected weakness gives my heart a small jolt.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -2705,7 +2705,7 @@
       "en": "“<tips=44>Siu</tips> has <tips=44>Siu</tips>’s own life. I don’t want to dictate everything she does. But please, persuade her. She is stubborn, so it may be difficult.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2720,7 +2720,7 @@
       "en": "The <tips=81>Longtou</tips>’s voice is as calm as ever, but the request itself lacks his usual clean certainty. For him to ask me like this, it must be serious.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2735,7 +2735,7 @@
       "en": "Ah. His sister really is special to him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2750,7 +2750,7 @@
       "en": "I’ve never seen him speak this way before. Now I understand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2765,7 +2765,7 @@
       "en": "“All right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2780,7 +2780,7 @@
       "en": "I nod, then add—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2795,7 +2795,7 @@
       "en": "“There is one thing I’d like to discuss first...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2810,7 +2810,7 @@
       "en": "And I tell him the idea that has just occurred to me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -2823,7 +2823,7 @@
       "se": "",
       "jp": "　<tips=81>龍頭</tips>との会談が終わると、私はすぐに<tips=41>グランドタワー</tips>の屋上から飛び立った。",
       "en": "The moment my meeting with the <tips=81>Longtou</tips> ends, I take off from the roof of <tips=41>Grand Tower</tips>.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "D5:0269",
@@ -3220,10 +3220,10 @@
       "se": "Xie Xiaoqiao",
       "jp": "「ごめん、寝てたわけじゃないんだけど、少しぼうっとしてて……」",
       "en": "“Sorry. I wasn’t asleep. I was just... staring into space.”",
-      "bg": "assets/vn/backgrounds/bg-acd468ca7e3b.webp",
+      "bg": "assets/vn/backgrounds/background-見土マンションリビング.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3238,7 +3238,7 @@
       "en": "When <tips=44>Xiaoqiao</tips> lets me in, the skin around her eyes is red and swollen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3253,7 +3253,7 @@
       "en": "The curtains are shut, the lights are off, and the apartment lies in gloom. Sitting alone like this will only drag her deeper. I flip the switch and chase the shadows away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3268,7 +3268,7 @@
       "en": "“There’s iced coffee. Sit down and wait.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3283,7 +3283,7 @@
       "en": "She smiles. The effort it costs her is painful to see.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3298,7 +3298,7 @@
       "en": "“I don’t want coffee. Pack your things. We’re leaving.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3313,7 +3313,7 @@
       "en": "Even I can hear the panic in my voice. I haven’t so much as sat down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3328,7 +3328,7 @@
       "en": "But my manner and my words blow right past <tips=44>Xiaoqiao</tips>. Still smiling, she drifts toward the kitchen on slow, unsteady feet and starts preparing drinks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3343,7 +3343,7 @@
       "en": "“Listen, <tips=44>Xiaoqiao</tips>. Now that Mr. <tips=10>Mido</tips> is gone this way, it isn’t safe for you here. He was assassinated. They’re sure to suspect a spy. They’ll investigate the woman who only recently moved in with him, and then they’ll learn who you really are...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3358,7 +3358,7 @@
       "en": "“<tips=51>Sakura</tips>, this is cold brew. Mr. <tips=10>Mido</tips> bought the equipment a long time ago, but it was too much trouble, so he never used it. I dug it out.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3373,7 +3373,7 @@
       "en": "As if she can’t hear me, <tips=44>Xiaoqiao</tips> returns wearing that smile, a glass of black coffee in her hands.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3388,7 +3388,7 @@
       "en": "“It takes hours to make. But Mr. <tips=10>Mido</tips> would say it was delicious and gulp it down, so it disappeared right away.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3403,7 +3403,7 @@
       "en": "“<tips=44>Xiaoqiao</tips>, I know you’re in shock, but...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3418,7 +3418,7 @@
       "en": "“That isn’t my name.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3433,7 +3433,7 @@
       "en": "<tips=44>Xiaoqiao</tips> is smiling. Her words are gentle. There is no feeling in them at all.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3448,7 +3448,7 @@
       "en": "She has never used that voice with me. It feels like ice pressed to the back of my neck. But I’m not backing down. I came prepared too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3463,7 +3463,7 @@
       "en": "“...You can’t keep living here as <tips=44>Shiyuko</tips>. I know you don’t want to abandon the place Mr. <tips=10>Mido</tips> tried to make for you, but Mr. <tips=10>Mido</tips> wouldn’t want you to stay like this either.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3478,7 +3478,7 @@
       "en": "I say it with a straight face. <tips=44>Xiaoqiao</tips> looks troubled.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -3493,7 +3493,7 @@
       "en": "“<tips=51>Sakura</tips> came because my brother sent her. Didn’t she?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3508,7 +3508,7 @@
       "en": "I falter. What am I supposed to say? If I lie now, she’ll learn the truth soon enough.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3523,7 +3523,7 @@
       "en": "When I can’t answer, she goes on.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3538,7 +3538,7 @@
       "en": "“<tips=51>Sakura</tips>, I’m staying here. I won’t run back and forth every time one side becomes inconvenient... I’m going to live here as <tips=44>Shiyuko</tips>. I made that decision when I left <tips=41>Grand Tower</tips>. I won’t rely on <tips=7>YS</tips> or my brother anymore. I won’t rely on <tips=51>Sakura</tips> either. I had meant to tell you that clearly... I just never thought it would happen this way.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3553,7 +3553,7 @@
       "en": "<tips=44>Xiaoqiao</tips> tries to smile. A tear spills out, and she hurriedly wipes it away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3568,7 +3568,7 @@
       "en": "“Tell me, <tips=51>Sakura</tips>... Why does everyone I love die so soon?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3583,7 +3583,7 @@
       "en": "She lowers her head, her face twisted tight.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3598,7 +3598,7 @@
       "en": "“Listen, <tips=44>Xiaoqiao</tips>. Think clearly. Maybe you don’t want to change your mind once you’ve decided something, but right now your safety comes first. Like I said, you’re in a dangerous position. Mr. <tips=66>Konta</tips> will probably suspect you too. He knows who <tips=44>Xiaoqiao</tips> really is. If, as Mr. <tips=10>Mido</tips> suggested, you had formally joined the <tips=21>Dragon Club</tips>, things might be different. But you hadn’t, had you? You’re an outsider. The <tips=21>Dragon Club</tips> can call you an enemy without hesitation.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3613,7 +3613,7 @@
       "en": "<tips=44>Xiaoqiao</tips> won’t nod. She wipes her tears and shakes her head hard, almost like a child.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3628,7 +3628,7 @@
       "en": "“If Mr. <tips=66>Konta</tips> comes, I’ll tell him everything. If he still won’t believe me, then there’s nothing I can do. I truly haven’t done anything... And if I run now, won’t that only make me look guilty? Everyone will think I was a spy. That would disgrace Mr. <tips=10>Mido</tips>, the man who brought me here.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3643,7 +3643,7 @@
       "en": "“Mr. <tips=10>Mido</tips> wouldn’t care about that. He would want you to choose the safe path.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3658,7 +3658,7 @@
       "en": "It’s cowardly to put words in a dead man’s mouth. I know that. Right now, it’s all I have.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3673,7 +3673,7 @@
       "en": "“Mr. <tips=10>Mido</tips> did so much to protect you. You have to honor what he was trying to do...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3688,7 +3688,7 @@
       "en": "“If Mr. <tips=10>Mido</tips> were alive, I’m sure he wouldn’t want me to stay.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3703,7 +3703,7 @@
       "en": "“Then...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3718,7 +3718,7 @@
       "en": "“But I want to. No matter what Mr. <tips=10>Mido</tips> would want. Mr. <tips=10>Mido</tips> is dead, and I have my pride.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3733,7 +3733,7 @@
       "en": "The strength in <tips=44>Xiaoqiao</tips>’s voice surprises me. The argument reminds me a little of Mr. <tips=1>Ryou</tips>. Ah. However she may look, she truly is a daughter of the Xie family.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3748,7 +3748,7 @@
       "en": "I find myself seeing her differently. But I can’t give in.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3763,7 +3763,7 @@
       "en": "“...Do you think your brother had Mr. <tips=10>Mido</tips> killed?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3778,7 +3778,7 @@
       "en": "I hold her gaze. <tips=44>Xiaoqiao</tips> chokes on her answer.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3793,7 +3793,7 @@
       "en": "“You’re angry at him for it, aren’t you? Is that why you won’t listen now that I work for him?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3808,7 +3808,7 @@
       "en": "I hit the mark.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3823,7 +3823,7 @@
       "en": "<tips=44>Xiaoqiao</tips> opens her mouth, looking lost.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3838,7 +3838,7 @@
       "en": "“In a situation like this, it’s possible. Can <tips=51>Sakura</tips> promise me it isn’t?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3853,7 +3853,7 @@
       "en": "I can’t shake my head. The possibility had crossed my mind too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3868,7 +3868,7 @@
       "en": "“...Don’t misunderstand. Even if he did it, I don’t blame my brother. But I still can’t do what he says.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3883,7 +3883,7 @@
       "en": "“<tips=44>Xiaoqiao</tips>, we don’t know that. When I spoke to Mr. <tips=1>Ryou</tips> earlier, he sounded as though he had no idea who the killer was.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -3898,7 +3898,7 @@
       "en": "“<tips=51>Sakura</tips>, even if my brother said that, it doesn’t mean it was true...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3913,7 +3913,7 @@
       "en": "<tips=44>Xiaoqiao</tips>’s face crumples as she looks down. I have to admit she’s right.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3928,7 +3928,7 @@
       "en": "<tips=44>Xiaoqiao</tips> isn’t crying, but pain fills her face. Her brother must be precious to her too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3943,7 +3943,7 @@
       "en": "Her expression tells me her heart is tearing in two. But I have never lived through anything like it, so I can’t feel the pain as concretely as an ordinary wound—a cut fingertip, a hand scalded by boiling water.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3958,7 +3958,7 @@
       "en": "But what am I supposed to do when she refuses me like this?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3973,7 +3973,7 @@
       "en": "Perhaps she could stay and somehow make a life in the <tips=21>Dragon Club</tips>. But if all-out war with <tips=7>YS</tips> begins, no one knows what dangers await her. And <tips=44>Xiaoqiao</tips> seems to know staying is more dangerous. She may be choosing it because it is. Is she defying her brother? Has Mr. <tips=10>Mido</tips>’s death made her reckless? Both?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -3988,7 +3988,7 @@
       "en": "Whatever the reason, I agree with Mr. <tips=1>Ryou</tips>: she can’t stay. In the worst case, <tips=66>Konta Tanaka</tips> could already be telling his comrades about <tips=44>Xiaoqiao</tips> and coming here armed. Nothing good will come from wasting time.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -4003,7 +4003,7 @@
       "en": "I have to persuade <tips=44>Xiaoqiao</tips>, but her mind is made up. I can’t find words strong enough to change it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -4018,7 +4018,7 @@
       "en": "“Listen, <tips=51>Sakura</tips>. I betrayed my brother and everyone else when I left <tips=7>YS</tips>. I forced Mr. <tips=10>Mido</tips> to help me too. I can’t run back to my brother and ask him to save me just because Mr. <tips=10>Mido</tips> is dead. You understand, don’t you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4033,7 +4033,7 @@
       "en": "I do.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4048,7 +4048,7 @@
       "en": "She’s absolutely right. I’d feel the same way. And if I’m honest, I’m glad <tips=44>Xiaoqiao</tips> understands how serious it was to betray Mr. <tips=1>Ryou</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4063,7 +4063,7 @@
       "en": "Even so, I want her to run away with me. However you look at it, staying is dangerous.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4078,7 +4078,7 @@
       "en": "“Please, <tips=44>Xiaoqiao</tips>. I understand how you feel. But listen to me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4093,7 +4093,7 @@
       "en": "One final method remains. If reason won’t move her, I’ll have to tell her how I truly feel.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4108,7 +4108,7 @@
       "en": "I don’t usually like this approach. I hate baring my emotions and throwing them at someone else. It’s inelegant. Worse, it’s frightening.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4123,7 +4123,7 @@
       "en": "Look at me. My eyes are damp as I stare into <tips=44>Xiaoqiao</tips>’s. My voice trembles a little. Do you think it’s an act? Something I’m doing to persuade her? It isn’t. I’m genuinely nervous. I’ve never tried this method before, and I’m terrified.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4138,7 +4138,7 @@
       "en": "“I need you to be safe, even if it means hurting or betraying something else. I can’t bear the thought of losing you! Mr. <tips=1>Ryou</tips> must feel the same. That’s why he secretly asked me to do this. If something happened to you, I don’t know what I’d become. Mr. <tips=10>Mido</tips> was so full of life only days ago, and now he’s dead. The thought of the same thing happening to you terrifies me. So please. Listen to me. If nothing else, do it for me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4153,7 +4153,7 @@
       "en": "I stare at her with a seriousness almost unimaginable in me. I keep staring.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4168,7 +4168,7 @@
       "en": "<tips=44>Xiaoqiao</tips> looks away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4183,7 +4183,7 @@
       "en": "“I’m sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4198,7 +4198,7 @@
       "en": "That is all she says.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4213,7 +4213,7 @@
       "en": "See? I knew it wouldn’t work! Hurling my feelings at someone has never moved anybody!",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4228,7 +4228,7 @@
       "en": "My face burns red with humiliation. All the strength drains out of me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4243,7 +4243,7 @@
       "en": "No. This will not do. I must use my own methods. Moving people by striking them with honest emotion is a technique for beautiful souls who inhabit the world of love. I, on the other hand, am a creature of the desert. In my merciless habitat, survival demands that I use every scrap of intelligence and observation with perfect cunning. —I knew that. So why did I try this just now?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4258,7 +4258,7 @@
       "en": "I coolly rebuild my collapsing heart and open my mouth again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4273,7 +4273,7 @@
       "en": "New tactic. Something I’m good at this time.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4288,7 +4288,7 @@
       "en": "“You’re wrong.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4303,7 +4303,7 @@
       "en": "Good. My voice is cold and steady now, as though another woman has taken my place. A voice properly under my control.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4318,7 +4318,7 @@
       "en": "The sudden change in tone startles <tips=44>Xiaoqiao</tips>. She looks back at me and searches my face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4333,7 +4333,7 @@
       "en": "She should find an iron mask.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4348,7 +4348,7 @@
       "en": "“You’ve suddenly decided you get to choose your own life. But you don’t have that right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4363,7 +4363,7 @@
       "en": "The force of it shocks <tips=44>Xiaoqiao</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4378,7 +4378,7 @@
       "en": "“Think. You talk as if you steeled yourself and made some grand decision. All you really did was take advantage of everyone’s kindness and act selfishly. You don’t get to refuse us now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4393,7 +4393,7 @@
       "en": "“...What do you mean?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -4408,7 +4408,7 @@
       "en": "“For one thing, the <tips=81>Longtou</tips> knew. He knew our escape was a performance and that I helped you. He knew I knew where you were. He had even more or less guessed you were staying with Mr. <tips=10>Mido</tips>. And still he never forced me to confirm any of it—not until now. Only after Mr. <tips=10>Mido</tips> died did he call me in and ask. He must have decided long ago that if your situation ever became dangerous, he would help you. Even after you betrayed him.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -4423,7 +4423,7 @@
       "en": "<tips=44>Xiaoqiao</tips> says nothing, but the shock is obvious. She must have believed she fooled her brother completely.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -4438,7 +4438,7 @@
       "en": "“I’ll be honest. You were right: the <tips=81>Longtou</tips> sent me. He’s worried and asked me to get you somewhere safe. He said you might listen to me. He went so far as to say I was the only person he could ask. The <tips=81>Longtou</tips> said that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -4453,7 +4453,7 @@
       "en": "“Even if my brother said that, I...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4468,7 +4468,7 @@
       "en": "<tips=44>Xiaoqiao</tips> speaks weakly and lowers her head again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4483,7 +4483,7 @@
       "en": "“Enough.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4498,7 +4498,7 @@
       "en": "I cut her off and keep going.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4513,7 +4513,7 @@
       "en": "“Mr. <tips=1>Ryou</tips> has always treasured you. Mr. <tips=10>Mido</tips> did all sorts of things for you too, even though you belonged to an enemy faction. When your symptoms appeared, he carried medicine into enemy territory at <tips=41>Grand Tower</tips>. When you ran away, he gave you a home. They did it because they wanted you safe. You’ve spent all this time leaning on their feelings and having your own way. And now you want to betray both Mr. <tips=1>Ryou</tips> and Mr. <tips=10>Mido</tips> again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -4528,7 +4528,7 @@
       "en": "“No... That’s not true!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-04.webp",
           "s": "l"
         }
       ]
@@ -4543,7 +4543,7 @@
       "en": "A faint spark of hostility enters <tips=44>Xiaoqiao</tips>’s eyes when she shouts.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-04.webp",
           "s": "l"
         }
       ]
@@ -4558,7 +4558,7 @@
       "en": "My heart hurts. I bury the pain under more words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-04.webp",
           "s": "l"
         }
       ]
@@ -4573,7 +4573,7 @@
       "en": "“It is true. You dressed your decision up in grand arguments, but those aren’t your real feelings. You can’t fool me. You’ve given up. You can’t bear the shock of Mr. <tips=10>Mido</tips>’s death, so you’ve decided you might as well die and follow Mr. <tips=10>Mido</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c09c7287c740.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-04.webp",
           "s": "l"
         }
       ]
@@ -4588,7 +4588,7 @@
       "en": "“<tips=51>Sakura</tips> has it wrong! I don’t mean that!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4603,7 +4603,7 @@
       "en": "“No more excuses.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4618,7 +4618,7 @@
       "en": "I snap at the tearful <tips=44>Xiaoqiao</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4633,7 +4633,7 @@
       "en": "“You owe Mr. <tips=1>Ryou</tips>. Why do you think Mr. <tips=1>Ryou</tips> became the <tips=81>Longtou</tips> when he never wanted the job? Because of you. Because of you, he’s had to kill so many people. Mr. <tips=4>Ma Ming</tips> too. I’m sure Mr. <tips=1>Ryou</tips> left the City because he hated all of that. He only came back because once your father died, no one else would protect you. ...You know that, don’t you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4648,7 +4648,7 @@
       "en": "The color drains from <tips=44>Xiaoqiao</tips>’s face. She bites her lip and looks down.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4663,7 +4663,7 @@
       "en": "I know that was cruel. No. I said it because it was cruel.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4678,7 +4678,7 @@
       "en": "I don’t know why the <tips=81>Longtou</tips> really inherited the organization. What I just said was only something <tips=44>Xiaoqiao</tips> once guessed and tortured herself over. She trusted me with it, so I turned it into a knife and held it to her throat. I knew it would make <tips=44>Xiaoqiao</tips> unable to defy Mr. <tips=1>Ryou</tips>. What an ugly trick. I disgust myself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4693,7 +4693,7 @@
       "en": "“Mr. <tips=1>Ryou</tips> will suffer again and again from now on, and that will be because of you too. He never complains. Even now he’s asking me to save you. Earlier he looked ready to cry. I’ve never seen Mr. <tips=1>Ryou</tips> in so much pain. And you’re going to repay him with this cruelty? Nobody is asking you to betray Mr. <tips=10>Mido</tips>’s <tips=21>Dragon Club</tips> and join <tips=7>YS</tips>. You only have to leave the City and stay out of both sides. Remaining here is trouble for Mr. <tips=1>Ryou</tips> too. He’s about to fight the <tips=21>Dragon Club</tips>. If you die, perhaps that ends it. Or perhaps they’ll use you against him... If you can’t even understand that, I’m disappointed in you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4708,7 +4708,7 @@
       "en": "I give an exaggerated shrug and sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4723,7 +4723,7 @@
       "en": "<tips=44>Xiaoqiao</tips>’s face has gone white.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4738,7 +4738,7 @@
       "en": "Her mouth opens slowly, as if to speak, then freezes. At last it moves again. The words come out weak and trembling.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-235a1145c4a0.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-01.webp",
           "s": "l"
         }
       ]
@@ -4753,7 +4753,7 @@
       "en": "“...<tips=51>Sakura</tips> is right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4768,7 +4768,7 @@
       "en": "Her brow knots into an expression of pure anguish.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4783,7 +4783,7 @@
       "en": "“If I stay here, I’ll only be trouble for my brother...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4798,7 +4798,7 @@
       "en": "She has always been haunted by the fear that she has nowhere to belong and no reason to exist. Tell <tips=44>Xiaoqiao</tips> that she is unwanted here—that her existence is a burden—and however much it hurts, she can only obey. That helpless mechanism is soaked too deep into her heart.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4813,7 +4813,7 @@
       "en": "It’s exactly the response I set out to produce. Exactly what I expected. Still, seeing the pain on her face hurts.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4828,7 +4828,7 @@
       "en": "“Then... will you come with me?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4843,7 +4843,7 @@
       "en": "<tips=44>Xiaoqiao</tips> nods without a word.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4858,7 +4858,7 @@
       "en": "“Good girl. Very good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4873,7 +4873,7 @@
       "en": "I give her my brightest smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -4904,7 +4904,7 @@
       "se": "",
       "jp": "　背中の<tips=44>筱喬</tips>は、さっきからずっと黙っていて何一つ口にしない。でも何も言わなくとも、相変わらずのこわばった表情が全部を物語っている。何も言いたくない気持ちはよくわかる。かといって私は彼女の気持ちをほぐすような言葉を口にするでもなく、彼女と同じように黙っていた。",
       "en": "<tips=44>Xiaoqiao</tips> has been silent on my back from the moment we left. She doesn’t need words; her rigid face tells me everything. I understand why she doesn’t want to speak. But I say nothing to ease her heart. I stay as silent as she does.",
-      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp"
+      "bg": "assets/vn/backgrounds/background-曇り空.webp"
     },
     {
       "id": "D5:0456",
@@ -4932,7 +4932,7 @@
       "se": "",
       "jp": "　すっかり自罰的になってしまった<tips=44>筱喬</tips>はあわせる顔がないからと屋上に留まることを選んだので、私は一人で<tips=81>龍頭</tips>に報告に行った。",
       "en": "<tips=44>Xiaoqiao</tips> has fallen deep into self-punishment. She says she can’t face her brother and stays on the roof while I go alone to report to the <tips=81>Longtou</tips>.",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp"
     },
     {
       "id": "D5:0465",
@@ -4944,7 +4944,7 @@
       "en": "“Thank you. Have you told her what happens next?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4959,7 +4959,7 @@
       "en": "After I finish my report, the <tips=81>Longtou</tips> asks from his usual chair.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4974,7 +4974,7 @@
       "en": "“Yes. She agreed.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -4989,7 +4989,7 @@
       "en": "“But are you certain this is what you want?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5004,7 +5004,7 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5019,7 +5019,7 @@
       "en": "I nod. The <tips=81>Longtou</tips> means my proposal to have my family take <tips=44>Xiaoqiao</tips> into our home.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5034,7 +5034,7 @@
       "en": "That was the idea I offered after the <tips=81>Longtou</tips> explained his original plan.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5049,7 +5049,7 @@
       "en": "The <tips=81>Longtou</tips> hesitated to entrust <tips=44>Xiaoqiao</tips> to an ordinary family, so I explained why I thought mine was the better choice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5064,7 +5064,7 @@
       "en": "First, if she stayed at my house, anyone from <tips=9>Y District</tips> who searched for <tips=44>Xiaoqiao</tips> later would have an extremely difficult time finding her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5079,7 +5079,7 @@
       "en": "I may have joined <tips=7>YS</tips>, but I’ve done nothing except wash windows. Most of the people in <tips=7>YS</tips> don’t even know someone like me belongs to <tips=7>YS</tips>. And if I take her away now, only the Longtou and I will know where <tips=44>Xiaoqiao</tips> went. Reaching her from there should be nearly impossible. If the <tips=81>Longtou</tips> prepared a place himself, he would have to use people from <tips=7>YS</tips>. Maintaining a false identity afterward would involve still more. At my house, only my parents and I need to agree. I’ll persuade them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5094,7 +5094,7 @@
       "en": "And if she stays with me, I can protect her. Mr. <tips=1>Ryou</tips> must know that nobody will protect her more seriously than I will.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5109,7 +5109,7 @@
       "en": "I don’t know whether my reasoning convinced him. Mr. <tips=1>Ryou</tips> asked only one thing: ‘Are you truly certain this is what you want?’ Naturally, I put my chest out and nodded.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5124,7 +5124,7 @@
       "en": "—And he accepted my proposal.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5139,7 +5139,7 @@
       "en": "“Are you truly sure too, <tips=81>Longtou</tips>? You’re willing to entrust your precious sister to my family?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5154,7 +5154,7 @@
       "en": "The question slips out as my confidence wavers.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5169,7 +5169,7 @@
       "en": "“Of course.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5184,7 +5184,7 @@
       "en": "He nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5199,7 +5199,7 @@
       "en": "“You said it yourself. Nobody would protect <tips=44>Siu</tips> more seriously than you. What better place could there be for <tips=44>Siu</tips> than beside someone who can say that?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -5214,7 +5214,7 @@
       "en": "I nearly cry again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -5229,7 +5229,7 @@
       "en": "“If danger ever approaches, I will personally guarantee her safety.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5244,7 +5244,7 @@
       "en": "“I trust you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5259,7 +5259,7 @@
       "en": "“But are you quite sure I shouldn’t explain the situation to your parents myself?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5274,7 +5274,7 @@
       "en": "“It’ll be fine. I’ll manage somehow. If the <tips=81>Longtou</tips> showed up, they’d be so startled that none of the explanation would reach their brains... More importantly, she’s worried about her illness...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5289,7 +5289,7 @@
       "en": "“She needn’t worry. We’ll procure <tips=46>Neo-Rose</tips> here and arrange regular deliveries.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5304,7 +5304,7 @@
       "en": "“And...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5319,7 +5319,7 @@
       "en": "I start, then lose my nerve.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5334,7 +5334,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5349,7 +5349,7 @@
       "en": "At his prompting, I continue.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5364,7 +5364,7 @@
       "en": "“...Are you really going to let me take <tips=44>Xiaoqiao</tips> away like this? You don’t want to see her?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ba6e122657f8.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
           "s": "l"
         }
       ]
@@ -5379,7 +5379,7 @@
       "en": "“It’s all right. Better this way. The man in this room right now isn’t her brother. He is the third <tips=81>Longtou</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -5394,7 +5394,7 @@
       "en": "“I don’t think that’s true.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1d308a26b245.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-03.webp",
           "s": "l"
         }
       ]
@@ -5409,7 +5409,7 @@
       "en": "“It’s all right. Besides, I don’t need to see her to know exactly how she feels.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -5424,7 +5424,7 @@
       "en": "The <tips=81>Longtou</tips> smiles a little. I have never seen such gentleness on his face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -5439,7 +5439,7 @@
       "en": "These siblings really must be bound by a powerful love. The thought makes my chest ache again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7f54a1cfe439.webp",
+          "u": "assets/vn/portraits/portrait-xie-liang-f002-04.webp",
           "s": "l"
         }
       ]
@@ -5454,7 +5454,7 @@
       "en": "“Ms. <tips=51>Sakura</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         }
       ]
@@ -5469,7 +5469,7 @@
       "en": "I finish with the <tips=81>Longtou</tips> and turn to leave. The <tips=40>Wong sisters</tips> hurry over.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         }
       ]
@@ -5484,11 +5484,11 @@
       "en": "“You won’t be coming back for a while, will you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "r"
         }
       ]
@@ -5503,11 +5503,11 @@
       "en": "I nod. Once I take responsibility for hiding <tips=44>Xiaoqiao</tips>, I’ll have to stay out of <tips=9>Y District</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "r"
         }
       ]
@@ -5522,11 +5522,11 @@
       "en": "“Then take this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "r"
         }
       ]
@@ -5541,11 +5541,11 @@
       "en": "<tips=40>Tianxiang</tips> holds out a small cloth pouch on a cord.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "r"
         }
       ]
@@ -5560,11 +5560,11 @@
       "en": "“It’s a protective charm.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5579,11 +5579,11 @@
       "en": "<tips=40>Tianming</tips> smiles as I take it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5598,11 +5598,11 @@
       "en": "“There is a piece of sacred wood inside. It protects you from misfortune. Father bought them long ago when he and Mother went on a trip. He bought one for everyone in the family. This one belonged to our mother.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5617,11 +5617,11 @@
       "en": "“I-I can’t take that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5636,11 +5636,11 @@
       "en": "I try to press it back into their hands. The sisters smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5655,11 +5655,11 @@
       "en": "“It’s all right. Leaving it here without an owner won’t help anyone.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5674,11 +5674,11 @@
       "en": "“Please take it. <tips=51>Sakura</tips> is our friend.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5693,11 +5693,11 @@
       "en": "“B-but...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5712,11 +5712,11 @@
       "en": "“You’re the first friend we’ve ever had.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5731,11 +5731,11 @@
       "en": "“If you don’t mind it, please keep it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5750,11 +5750,11 @@
       "en": "With one sister on either side asking me, how can I refuse? I slip the charm into my pocket.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-433f353b4095.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-02.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-0b52a982b67a.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-02.webp",
           "s": "r"
         }
       ]
@@ -5767,7 +5767,7 @@
       "se": "",
       "jp": "　屋上に戻ると<tips=44>筱喬</tips>は膝を抱えてしゃがみ込んで空を見上げている。",
       "en": "When I return to the roof, <tips=44>Xiaoqiao</tips> is crouched with her arms around her knees, looking up at the sky.",
-      "bg": "assets/vn/backgrounds/bg-32a243ffcc53.webp"
+      "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
       "id": "D5:0525",
@@ -5813,10 +5813,10 @@
       "se": "Xie Xiaoqiao",
       "jp": "「お兄ちゃんは私についてなにか言ってた？」",
       "en": "“Did my brother say anything about me?”",
-      "bg": "assets/vn/backgrounds/bg-5a0768003eb0.webp",
+      "bg": "assets/vn/backgrounds/background-曇り空.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5831,7 +5831,7 @@
       "en": "She doesn’t speak until we’re in the air, her voice small against my back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5846,7 +5846,7 @@
       "en": "“He said he understood how <tips=44>Xiaoqiao</tips> felt.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5861,7 +5861,7 @@
       "en": "“Anything else?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5876,7 +5876,7 @@
       "en": "“That was all. He said it and smiled, like he was happy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5891,7 +5891,7 @@
       "en": "“I see...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5906,7 +5906,7 @@
       "en": "Then silence again. I twist my neck, trying to see her face, but <tips=44>Xiaoqiao</tips>’s expression stays hidden behind me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5921,7 +5921,7 @@
       "en": "Did the <tips=81>Longtou</tips>’s feelings fail to reach her? Is she only coming from a sense of duty, her heart still trapped in the darkness my words forced on her?",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5936,7 +5936,7 @@
       "en": "As I drift through those thoughts—",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5951,7 +5951,7 @@
       "en": "“Next time, I need to face my brother properly.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5966,7 +5966,7 @@
       "en": "<tips=44>Xiaoqiao</tips> murmurs it almost to herself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5981,7 +5981,7 @@
       "en": "Whatever else happens, these siblings understand each other. In the end, Mr. <tips=10>Mido</tips>’s feelings reached <tips=44>Xiaoqiao</tips> too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -5996,7 +5996,7 @@
       "en": "“That would be good.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6011,7 +6011,7 @@
       "en": "That is all I say.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6026,7 +6026,7 @@
       "en": "Even to me, my voice sounds empty. But surely I can be forgiven this much. I worked hard too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6041,7 +6041,7 @@
       "en": "I fly toward the edge of the City. The <tips=81>Longtou</tips> has stationed people along the ground in this direction, so the route should be safe.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6056,7 +6056,7 @@
       "en": "Once we leave <tips=9>Y District</tips>, <tips=44>Xiaoqiao</tips> will be away from danger and live in peace. The <tips=81>Longtou</tips> can concentrate on fighting the <tips=21>Dragon Club</tips>. Every result is good. Therefore, what I did was good.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6071,7 +6071,7 @@
       "en": "And yet, suddenly I feel empty. Why? I put that as a question, but of course I know.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6086,7 +6086,7 @@
       "en": "Emotions crowd through my chest. My sight blurs, and my flight wobbles.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8d1642b06d2f.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f088-03.webp",
           "s": "l"
         }
       ]
@@ -6101,7 +6101,7 @@
       "en": "“<tips=51>Sakura</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6116,7 +6116,7 @@
       "en": "<tips=44>Xiaoqiao</tips> sounds startled behind me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6131,7 +6131,7 @@
       "en": "“Are you crying?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6146,7 +6146,7 @@
       "en": "“Of course I’m crying!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6161,7 +6161,7 @@
       "en": "That is the limit. I can’t hold my feelings in any longer. They burst.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6176,7 +6176,7 @@
       "en": "“Because this is horrible...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6191,7 +6191,7 @@
       "en": "Even I can hear the sob in my voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6206,7 +6206,7 @@
       "en": "“Everyone else seems so close. They trust each other. They understand each other. Why can’t I understand anyone? Why can’t anyone understand me? I truly wanted <tips=44>Xiaoqiao</tips> to run away and be safe. But I couldn’t make you understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6221,7 +6221,7 @@
       "en": "“<tips=51>Sakura</tips>...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6236,7 +6236,7 @@
       "en": "“That’s why I had to say those things. I had to corner you. I never wanted to hurt <tips=44>Xiaoqiao</tips>... but I didn’t have another way...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6251,7 +6251,7 @@
       "en": "Revealing the trick now may ruin everything. But once the feelings and words begin pouring out, I can’t stop them. Everything I couldn’t contain spills from my body as tears and sobs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6266,7 +6266,7 @@
       "en": "I’m already covered in slippery slime. Now tears and snot are running down my face too. I look awful. Hideous.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6281,7 +6281,7 @@
       "en": "My power grows unstable when my emotions do. I weave through the air like a drunk, and <tips=44>Xiaoqiao</tips> clings tightly to my back.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6296,7 +6296,7 @@
       "en": "“Sorry I’m wobbling. Don’t worry, I won’t drop you...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2245edaa3023.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-02.webp",
           "s": "l"
         }
       ]
@@ -6311,7 +6311,7 @@
       "en": "“That isn’t why.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6326,7 +6326,7 @@
       "en": "<tips=44>Xiaoqiao</tips> tightens her arms around me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6341,7 +6341,7 @@
       "en": "“I’m sorry, <tips=51>Sakura</tips>. I made you go that far...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6356,7 +6356,7 @@
       "en": "<tips=44>Xiaoqiao</tips> is crying now too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6371,7 +6371,7 @@
       "en": "“But I understood before long. <tips=51>Sakura</tips> had run out of every other choice. She was desperate, and she said those things for me. I understood that. I’m sorry it took me so long...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6386,7 +6386,7 @@
       "en": "“...Apologize more. My heart hurts because I said so many horrible things to <tips=44>Xiaoqiao</tips>, and I love her.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6401,7 +6401,7 @@
       "en": "My nose still blocked, I sulk.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a65f75369c5b.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-03.webp",
           "s": "l"
         }
       ]
@@ -6416,7 +6416,7 @@
       "en": "“I’m sorry. I’m so sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6431,7 +6431,7 @@
       "en": "<tips=44>Xiaoqiao</tips> says it tenderly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6462,7 +6462,7 @@
       "se": "",
       "jp": "　私たちは国道のそばにやって来た。この道の向こうは<tips=9>Y地区</tips>の外だ。ここから先は、白昼堂々能力を使うわけにはいかない。私の家までは歩いて行かなければいけないのだ。",
       "en": "We come to the national highway. The far side lies outside <tips=9>Y District</tips>. Beyond this point, I can’t use my power openly in broad daylight. We’ll have to walk home.",
-      "bg": "assets/vn/backgrounds/bg-d4d85da6b20f.webp"
+      "bg": "assets/vn/backgrounds/background-町の端の交差点2.webp"
     },
     {
       "id": "D5:0593",
@@ -6474,7 +6474,7 @@
       "en": "“I’ve never left <tips=9>Y District</tips> without an adult before.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -6489,7 +6489,7 @@
       "en": "<tips=44>Xiaoqiao</tips> murmurs while we wait at the crosswalk for the traffic to clear.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -6504,7 +6504,7 @@
       "en": "Across the highway is a convenience store with a broad parking lot.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-0ca20e939887.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-04.webp",
           "s": "l"
         }
       ]
@@ -6519,7 +6519,7 @@
       "en": "“I’m going to borrow their restroom.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6615,7 +6615,7 @@
       "en": "“What is it? What are you looking at?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6630,7 +6630,7 @@
       "en": "I shake my head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6645,7 +6645,7 @@
       "en": "“Nothing. Let’s go.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6660,7 +6660,7 @@
       "en": "I stand, forget one leg is prosthetic, and push off the way I used to. My body lurches sideways.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6675,7 +6675,7 @@
       "en": "<tips=44>Xiaoqiao</tips> catches me in alarm.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]
@@ -6690,7 +6690,7 @@
       "en": "I laugh, embarrassed, steady myself under my own power, then pat the grit from the seat of my clothes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-92f05ee9ba67.webp",
+          "u": "assets/vn/portraits/portrait-xie-xiaoqiao-f001-01.webp",
           "s": "l"
         }
       ]

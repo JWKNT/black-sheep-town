@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　<tips=9>Y地区</tips>の憂鬱な曇り空に慣れた<tips=82>広美</tips>にとって、その青空と太陽の輝きはあまりにも鮮やかに目に沁みた。",
       "en": "After the endless gray over <tips=9>Y District</tips>, the blue sky and blazing sun strike <tips=82>Hiromi</tips>'s eyes with almost painful brightness.",
-      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
+      "bg": "assets/vn/backgrounds/background-青空雲あり.webp"
     },
     {
       "id": "X15-2:0011",
@@ -187,7 +187,7 @@
       "se": "",
       "jp": "　誰もいなかったその部屋に、奥のキッチンから一人の人物が現れた。",
       "en": "Someone enters the empty room from the kitchen.",
-      "bg": "assets/vn/backgrounds/bg-2080289f1944.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2b.webp"
     },
     {
       "id": "X15-2:0036",
@@ -233,7 +233,7 @@
       "se": "",
       "jp": "　そしてすぐにもう一人の人物が別のドアを開けて部屋のなかに入って来た。",
       "en": "A moment later, another door opens and someone else comes in.",
-      "bg": "assets/vn/backgrounds/bg-455b66d38c9b.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2d.webp"
     },
     {
       "id": "X15-2:0043",
@@ -342,7 +342,7 @@
       "se": "",
       "jp": "　<tips=82>広美</tips>は閉め出されたような格好でしばらくそこに立っていたが、すぐに移動して部屋のなかを見られる場所を探す。",
       "en": "For a moment, <tips=82>Hiromi</tips> stands outside as though the curtains have shut her out. Then she hurries along the wall, searching for another way to see inside.",
-      "bg": "assets/vn/backgrounds/bg-2543b6fc708d.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2a.webp"
     },
     {
       "id": "X15-2:0057",
@@ -388,7 +388,7 @@
       "se": "",
       "jp": "「あっ」",
       "en": "“Ah.”",
-      "bg": "assets/vn/backgrounds/bg-5906083a64e1.webp"
+      "bg": "assets/vn/backgrounds/background-青空雲あり.webp"
     },
     {
       "id": "X15-2:0075",
@@ -542,7 +542,7 @@
       "se": "",
       "jp": "　それから先自分がどこをどう行動したのか覚えていない。",
       "en": "She remembers nothing of where she went or what she did after that.",
-      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り雨.webp"
     },
     {
       "id": "X15-2:0105",
@@ -606,7 +606,7 @@
       "se": "",
       "jp": "「ノミさん、ノミさん」",
       "en": "“Nomi... Nomi...”",
-      "bg": "assets/vn/backgrounds/bg-924f7ec1adb3.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2d-mask-e.webp"
     },
     {
       "id": "X15-2:0127",
@@ -706,7 +706,7 @@
       "se": "",
       "jp": "　それを何度か繰り返していると、医師の<tips=5>太刀川</tips>が病室までやって来た。そうして、興奮状態の<tips=82>広美</tips>の目をチラリと見ると、",
       "en": "After this happens several times, Dr. <tips=5>Tachikawa</tips> comes to the ward. He takes one glance at the agitated <tips=82>Hiromi</tips>'s eyes.",
-      "bg": "assets/vn/backgrounds/bg-f13a8a8657ff.webp"
+      "bg": "assets/vn/backgrounds/background-病院保護室-zルーム.webp"
     },
     {
       "id": "X15-2:0146",
@@ -718,7 +718,7 @@
       "en": "“No. This won't do. Prepare the restraints.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4fe8ebeedee5.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-17.webp",
           "s": "r"
         }
       ]
@@ -733,7 +733,7 @@
       "en": "He gives the order to his assistant, <tips=93>Hayashida</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4fe8ebeedee5.webp",
+          "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-17.webp",
           "s": "r"
         }
       ]
@@ -764,7 +764,7 @@
       "se": "",
       "jp": "　観察室は患者たちの居住するスペースとは鍵の付いたドアで隔てられており、看護室のすぐ隣にある。",
       "en": "A locked door separates the observation room from the patients' living area. It sits right beside the nurses' station.",
-      "bg": "assets/vn/backgrounds/bg-f13a8a8657ff.webp"
+      "bg": "assets/vn/backgrounds/background-病院保護室-zルーム.webp"
     },
     {
       "id": "X15-2:0161",
@@ -794,7 +794,7 @@
       "en": "“Thank you, Nomi...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         }
       ]
@@ -809,7 +809,7 @@
       "en": "When <tips=82>Hiromi</tips> thanks her,",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         }
       ]
@@ -824,11 +824,11 @@
       "en": "“You look much better now. I'm glad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-06.webp",
           "s": "r"
         }
       ]
@@ -843,11 +843,11 @@
       "en": "<tips=83>Noumi</tips> smiles, plainly relieved.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-06.webp",
           "s": "r"
         }
       ]
@@ -862,11 +862,11 @@
       "en": "“Nomi. I'm thirsty. I want juice.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-06.webp",
           "s": "r"
         }
       ]
@@ -881,11 +881,11 @@
       "en": "“Oh, so the moment you calm down, you start making demands. ...We don't have any juice. Is water okay?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -900,11 +900,11 @@
       "en": "<tips=82>Hiromi</tips> nods, and <tips=83>Noumi</tips> fills a feeding cup and helps her drink.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -919,11 +919,11 @@
       "en": "“<tips=82>Hiromi</tips>, can I ask you for one thing?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -938,11 +938,11 @@
       "en": "When <tips=82>Hiromi</tips> finishes drinking, <tips=83>Noumi</tips> looks into her face and begins in a gentle, storytelling voice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -957,11 +957,11 @@
       "en": "“A long, long time from now, after I've grown into an old woman and died... will you come to my funeral and cry for me? And will you tell everyone Ms. <tips=83>Noumi</tips> was a good person who worked really, really hard? You can lie.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -976,11 +976,11 @@
       "en": "<tips=83>Noumi</tips> has never said anything like this before.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -995,11 +995,11 @@
       "en": "<tips=82>Hiromi</tips> only blinks at her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -1014,11 +1014,11 @@
       "en": "“You see, Ms. <tips=83>Noumi</tips>'s family isn't very happy about this job. So if <tips=82>Hiromi</tips> cries and tells them how hard I worked, maybe they'll think, ‘Oh. She was doing something worthwhile after all.’”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -1033,11 +1033,11 @@
       "en": "<tips=83>Noumi</tips> says it with a smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -1052,11 +1052,11 @@
       "en": "“I think taking care of all of you is wonderful work. My family has the wrong idea about it... I just want them to understand a little.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -1071,11 +1071,11 @@
       "en": "Then she studies <tips=82>Hiromi</tips>'s face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-0fa44528e81a.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-01.webp",
           "s": "r"
         }
       ]
@@ -1090,11 +1090,11 @@
       "en": "“Ahaha. That's a lot to ask, isn't it? But I spent all day looking after <tips=82>Hiromi</tips>, so I'm allowed to ask for this much.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-06.webp",
           "s": "r"
         }
       ]
@@ -1109,11 +1109,11 @@
       "en": "She gives <tips=82>Hiromi</tips> one last pat on the head and leaves the room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ccc76d79a315.webp",
+          "u": "assets/vn/portraits/portrait-hiromi-uchida-f112-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-f161a94718c4.webp",
+          "u": "assets/vn/portraits/portrait-misa-noumi-f060-06.webp",
           "s": "r"
         }
       ]
@@ -1126,7 +1126,7 @@
       "se": "",
       "jp": "　彼女は仕事だったから優しくしてくれたのかもしれない。でも、あんな状態になった自分のことは、家族だって見捨てたんだ。学校でもいじめられた。",
       "en": "Maybe she was only kind because it was her job. But even Hiromi's own family had abandoned her after she became like that. The children at school bullied her too.",
-      "bg": "assets/vn/backgrounds/bg-3104f02cffef.webp"
+      "bg": "assets/vn/backgrounds/background-雨雲の空.webp"
     },
     {
       "id": "X15-2:0196",
@@ -1163,7 +1163,7 @@
       "se": "",
       "jp": "　<tips=82>広美</tips>はよろめくような足取りで街の外れまで歩き、病院を見た。入り口は閉鎖されて入れなくなっている。人気はなく、灰色の建物がじっと雨に打たれている。",
       "en": "<tips=82>Hiromi</tips> staggers all the way to the edge of the City and looks up at the hospital. The entrance has been sealed. No one is there. Rain beats steadily against the silent gray building.",
-      "bg": "assets/vn/backgrounds/bg-2284bfc68a21.webp"
+      "bg": "assets/vn/backgrounds/background-巻河原病院雨.webp"
     },
     {
       "id": "X15-2:0207",
@@ -1173,7 +1173,7 @@
       "se": "",
       "jp": "　それをじっと見上げてから、また街の方へ戻った。",
       "en": "After gazing at it for a long time, she turns back toward the City.",
-      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り雨.webp"
     },
     {
       "id": "X15-2:0208",
@@ -1284,7 +1284,7 @@
       "en": "“I don't care if I catch cold. I feel like dying anyway.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1299,7 +1299,7 @@
       "en": "“I see. Sorry to bother you, then.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1314,7 +1314,7 @@
       "en": "To her surprise, the man gives up at once and walks away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1329,7 +1329,7 @@
       "en": "<tips=82>Hiromi</tips> lowers her head again. Soon she hears footsteps stop before her. She thinks the first man has come back, but this is someone else.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1344,7 +1344,7 @@
       "en": "“Come on. Up.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1359,7 +1359,7 @@
       "en": "Without warning, a hand clamps around her arm and yanks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1374,7 +1374,7 @@
       "en": "A tall man with dyed-blond hair has hold of her. The shock leaves <tips=82>Hiromi</tips> unable to speak. Thick muscle shows even beneath his clothes. <tips=82>Hiromi</tips> is <tips=17>Type B</tips>, and <tips=46>Neo-Rose</tips> has unlocked her strength. But she grew up thin and frail in a hospital, and now she is exhausted as well. She is far stronger than she looks, but still no match for this man's arms. More than anything, she no longer has the will to summon all her strength.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "r"
         }
       ]
@@ -1389,7 +1389,7 @@
       "en": "“No...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -1404,7 +1404,7 @@
       "en": "She tries to cry out. His arm swings like a log and smashes into <tips=82>Hiromi</tips>'s cheek.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -1417,7 +1417,7 @@
       "se": "",
       "jp": "「声を出したら殺すぞ」",
       "en": "“Make one sound and I'll kill you.”",
-      "bg": "assets/vn/backgrounds/bg-1c571ee4ba8f.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2b-mask-h.webp"
     },
     {
       "id": "X15-2:0245",
@@ -1571,7 +1571,7 @@
       "se": "",
       "jp": "「ちょっと待ちな」",
       "en": "“Hold it.”",
-      "bg": "assets/vn/backgrounds/bg-060e9ad50773.webp"
+      "bg": "assets/vn/backgrounds/background-x15-2c-mask-g.webp"
     },
     {
       "id": "X15-2:0277",
@@ -1644,7 +1644,7 @@
       "se": "",
       "jp": "　その言葉が終わるのも待たずに、またその太い腕を振り回して相手に襲い掛かる。",
       "en": "Before the other man even finishes, he swings his thick arm and charges.",
-      "bg": "assets/vn/backgrounds/bg-a1f162c49a8b.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り雨.webp"
     },
     {
       "id": "X15-2:0292",
@@ -1674,7 +1674,7 @@
       "en": "“Whoops. He's not dead, is he?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -1734,7 +1734,7 @@
       "en": "“Lucky day, little lady. Normally I don't bother with this sort of thing. There'd be no end to it, and I was born without that kind of conscience. Today's special. I just happened to feel like being nice to somebody. Happens about once a month, for some reason. ...No need to look so frightened. Relax. I'll take you somewhere warm, with a proper mommy and daddy waiting for you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -1749,7 +1749,7 @@
       "en": "As it turns out, <tips=82>Hiromi</tips> really has been lucky. The man smiles and introduces himself as <tips=23>Elliott Ness</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -1764,7 +1764,7 @@
       "en": "The name means nothing to <tips=82>Hiromi</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -1779,7 +1779,7 @@
       "en": "She bows her head and starts crying again. She has shed so many tears since seeing her family, yet still they have not run dry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -1794,7 +1794,7 @@
       "en": "“I don't have anywhere to go back to...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -1809,7 +1809,7 @@
       "en": "Her voice trembles. Then she breaks down and sobs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "c"
         }
       ]
@@ -2020,7 +2020,7 @@
       "se": "",
       "jp": "　さて、泣きじゃくる<tips=82>広美</tips>は<tips=23>エリオット</tips>に誘われるまま彼の住まいへと向かった。",
       "en": "And so the sobbing <tips=82>Hiromi</tips> lets <tips=23>Elliott</tips> lead her home.",
-      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
+      "bg": "assets/vn/backgrounds/background-エリオットの家ダイニングルーム.webp"
     },
     {
       "id": "X15-2:0346",
@@ -2059,7 +2059,7 @@
       "en": "“Sorry, but you'll have to clean this.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2074,7 +2074,7 @@
       "en": "To the dumbfounded <tips=82>Hiromi</tips>, <tips=23>Elliott</tips> bluntly hands over a vacuum cleaner.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2089,7 +2089,7 @@
       "en": "The staff used vacuum cleaners at the hospital. <tips=82>Hiromi</tips> never handled one herself, but she remembers watching them. By the time she has sucked up the last of the dust, <tips=23>Elliott</tips> returns with a blanket.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2104,7 +2104,7 @@
       "en": "<tips=82>Hiromi</tips> assumes the blanket is for her, but",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2119,7 +2119,7 @@
       "en": "“I changed the sheets. You take the bed. I'll sleep in here tonight.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2134,7 +2134,7 @@
       "en": "He tosses the brown blanket onto the floor.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2149,7 +2149,7 @@
       "en": "“You're soaked through. Bathroom's over there. Take a shower. Throw your clothes in the washer and push the button; they'll be dry by morning. Put them on then and get out.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -2164,11 +2164,11 @@
       "en": "“Y-Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2183,11 +2183,11 @@
       "en": "“I ordered a pizza. It should be here by the time you're done showering. Real Italian pizza, not that chain-store crap. Eat it, then get some sleep.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2202,11 +2202,11 @@
       "en": "He shows her the bathroom, explains how the shower works, and points out the clean towels.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2221,11 +2221,11 @@
       "en": "After years of living by other people's instructions, <tips=82>Hiromi</tips> listens obediently and nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2328,7 +2328,7 @@
       "se": "",
       "jp": "　バスルームを出るとダイニングのテーブルの上にはピザがもう届いている。<tips=23>エリオット</tips>の姿が見えなかったが、<tips=82>広美</tips>のたてた物音を聞きつけたのか向こうの部屋からやって来た。手にはウイスキーの入ったグラスがあり、その顔は赤く染まっていた。",
       "en": "When she comes out, a pizza is already waiting on the dining table. <tips=23>Elliott</tips> is nowhere in sight. Perhaps he hears <tips=82>Hiromi</tips> moving, because he soon emerges from another room with a whiskey glass in hand and his face flushed red.",
-      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
+      "bg": "assets/vn/backgrounds/background-エリオットの家ダイニングルーム.webp"
     },
     {
       "id": "X15-2:0381",
@@ -2340,7 +2340,7 @@
       "en": "“Eat it before it gets cold. You don't hate pizza, do you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2355,7 +2355,7 @@
       "en": "<tips=82>Hiromi</tips> shakes her head and sits at the table.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2370,7 +2370,7 @@
       "en": "She isn't sure whether she is allowed to open the box, so she sits perfectly still. <tips=23>Elliott</tips> only drinks and idly taps at his phone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2385,7 +2385,7 @@
       "en": "She inches out one hand. When he shows no sign of objecting, she lifts the lid.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2400,7 +2400,7 @@
       "en": "The smell of tomato sauce and cheese fills the room. Inside is a round pizza heaped with toppings.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2415,7 +2415,7 @@
       "en": "She hadn't noticed feeling hungry. But at the hospital she always ate when told, and now <tips=82>Hiromi</tips> obeys almost mechanically. She lifts a slice, strings of cheese trailing from it, takes one bite, and swallows. Then an appetite greater than she knew she had surges up inside her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2430,7 +2430,7 @@
       "en": "Her heart has been battered by the day, but her body is young and full of life. Exhaustion demands to be fed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -2445,11 +2445,11 @@
       "en": "“Aren’t you eating?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2464,11 +2464,11 @@
       "en": "In no time, <tips=82>Hiromi</tips> has eaten half the pizza. Remembering her manners, she asks <tips=23>Elliott</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2483,11 +2483,11 @@
       "en": "“I only need liquor at night. Haven't trained worth a damn lately, and the weight keeps piling on. ...You can really put it away, can't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2502,11 +2502,11 @@
       "en": "<tips=23>Elliott</tips> was supposed to be looking at his phone, but at some point <tips=82>Hiromi</tips>'s appetite captured all his attention. He sounds almost impressed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2521,11 +2521,11 @@
       "en": "“It's so good...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2540,11 +2540,11 @@
       "en": "She feels ashamed to be eating like this after crying so hard. She ducks her head—and burps, which makes it infinitely worse.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2559,11 +2559,11 @@
       "en": "The bottle of cola beside the pizza is probably to blame.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2578,11 +2578,11 @@
       "en": "Pizza and cola were rare treats at the hospital.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2597,11 +2597,11 @@
       "en": "“You said you had nowhere to go back to. I'm sure you have your reasons. I won't ask, and that's better for both of us. Like I told you, you can sleep here tonight. Tomorrow morning, you leave. Decide what you're going to do before then.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2616,11 +2616,11 @@
       "en": "<tips=23>Elliott</tips> doesn't smile. He doesn't seem to regret bringing <tips=82>Hiromi</tips> here, but his cool expression makes one thing clear: just as he says, he has no intention of becoming any more involved.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "r"
         }
       ]
@@ -2635,11 +2635,11 @@
       "en": "“Yes. I understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2654,11 +2654,11 @@
       "en": "<tips=82>Hiromi</tips> never meant to impose on him in the first place. The answer comes naturally, and she nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2673,11 +2673,11 @@
       "en": "Her ready agreement seems to take <tips=23>Elliott</tips> slightly aback.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2692,11 +2692,11 @@
       "en": "One might expect a miserable girl, dismissed so coldly, either to cling to him or sink into visible despair. <tips=82>Hiromi</tips> does neither. She accepts the terms with startling ease, then reaches for another slice of pizza.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2711,11 +2711,11 @@
       "en": "<tips=23>Elliott</tips> sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2730,11 +2730,11 @@
       "en": "“Eating all you can whenever food's there—that's what survivors do. You'll probably live to a hundred.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -2749,11 +2749,11 @@
       "en": "With that, he leaves the room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3074,7 +3074,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -3089,11 +3089,11 @@
       "en": "“I'm hungry...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3108,11 +3108,11 @@
       "en": "“There's food in the fridge. Use whatever you want and make something.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3127,11 +3127,11 @@
       "en": "“In the fridge?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3146,11 +3146,11 @@
       "en": "“Should be eggs in there. Bacon too, maybe. You can fry an egg, can't you? I left the pan out in the kitchen.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3165,11 +3165,11 @@
       "en": "Even <tips=23>Elliott</tips> seems to have overdone it last night. Talking makes his head pound, and he winces.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3184,11 +3184,11 @@
       "en": "“Oh...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3203,11 +3203,11 @@
       "en": "“Once you've eaten, go wherever you want. Don't bother saying goodbye. I'm going back to sleep.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3222,11 +3222,11 @@
       "en": "<tips=23>Elliott</tips> delivers the words bluntly, rolls over, and wraps himself in the blanket again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -3275,7 +3275,7 @@
       "se": "",
       "jp": "　そして部屋を出たところで彼は焦げ臭いにおいを感じる。キッチンの方から音がする。",
       "en": "The moment he steps from the room, he smells something burning. Noise comes from the kitchen.",
-      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp"
+      "bg": "assets/vn/backgrounds/background-エリオットの家ダイニングルーム.webp"
     },
     {
       "id": "X15-2:0471",
@@ -3395,7 +3395,7 @@
       "en": "“I-I’m sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         }
       ]
@@ -3410,11 +3410,11 @@
       "en": "“It's all right. My fault.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3429,11 +3429,11 @@
       "en": "With a bitter look, <tips=23>Elliott</tips> expertly scrapes the burned crust from the pan and puts it back on the stove.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3448,11 +3448,11 @@
       "en": "“So you really can't cook.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3467,11 +3467,11 @@
       "en": "<tips=23>Elliott</tips> drinks a glass of water, sighs, and finally says it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3486,11 +3486,11 @@
       "en": "<tips=82>Hiromi</tips> nods, nibbling at toast piled with bacon and scrambled eggs. Elliott salvaged the eggs she meant to fry by picking out the shells and scrambling them instead.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3505,11 +3505,11 @@
       "en": "“I've never done it before. I just followed instructions and ate whatever they gave me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3524,11 +3524,11 @@
       "en": "“Never watched your mom cook?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -3543,11 +3543,11 @@
       "en": "“...When I lived with my mother, I wasn't allowed in the kitchen. After that, finished food always came to me on a tray.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -3562,11 +3562,11 @@
       "en": "“I see. Still, I've never seen anyone do that much damage trying to fry an egg.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -3581,11 +3581,11 @@
       "en": "<tips=23>Elliott</tips> lights a cigarette and gives her an incredulous smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -3600,11 +3600,11 @@
       "en": "“I-I’m sorry.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -3619,11 +3619,11 @@
       "en": "“I thought you were an ordinary runaway. Seems I had that wrong. ...I know I said yesterday I wouldn't ask, but if you don't mind, will you tell me what happened?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -3638,11 +3638,11 @@
       "en": "<tips=82>Hiromi</tips> nods without a word.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -3657,11 +3657,11 @@
       "en": "Putting the story in order is difficult for her. With <tips=23>Elliott</tips> guiding her through it with questions, she manages to explain her whole life.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -3676,11 +3676,11 @@
       "en": "“I see. You were a patient at that hospital.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3695,11 +3695,11 @@
       "en": "<tips=23>Elliott</tips> has heard about the recent hospital attack. Everyone in the City has. This was no clash between gangs or other denizens of the underworld, but an attack on a government institution. Not entirely unprecedented, perhaps, but nothing like it has happened since <tips=7>YS</tips> took control.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3714,11 +3714,11 @@
       "en": "No official announcement named the perpetrators as the <tips=47>Dragon Liberation Army</tips>, whose soldiers have lately strutted through the City as though it belongs to them. By now, however, the truth is too obvious to count as a secret.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3733,11 +3733,11 @@
       "en": "People whisper that the <tips=21>Dragon Club</tips> is serious about making an enemy of everyone who is not <tips=17>Type B</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3752,11 +3752,11 @@
       "en": "<tips=23>Elliott</tips> has heard the same talk in bars.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3771,11 +3771,11 @@
       "en": "He knows few details. The <tips=21>Dragon Club</tips> tried to recruit him, but that is the extent of his involvement.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3790,11 +3790,11 @@
       "en": "The City has changed violently over the past few months. Elliott knows that even the information he gathered while working for <tips=27>Liao Zhiming</tips> is already stale.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3809,11 +3809,11 @@
       "en": "“So what are you going to do? You had all night to think. Put yourself in the <tips=21>Dragon Club</tips>'s hands? Work up the nerve to see your family again? I think you ought to sit down and talk to them properly, myself. ...Damn thing's damp.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3828,11 +3828,11 @@
       "en": "He finishes one cigarette, pulls out another, then grimaces and crushes the new one into the ashtray.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b37df6cec4bd.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-04.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3847,11 +3847,11 @@
       "en": "“I'm not going back to my family.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3866,11 +3866,11 @@
       "en": "<tips=82>Hiromi</tips> lifts her face and says it without hesitation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3885,11 +3885,11 @@
       "en": "“They've found a new happiness. Protecting it is the best thing I can do to repay them now. ...Whatever the reason, I hurt them. And I don't think hurting another person is something that can be forgiven.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3904,11 +3904,11 @@
       "en": "“That so?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3923,11 +3923,11 @@
       "en": "<tips=23>Elliott</tips> discovers that every cigarette left in the pack is damp. He clicks his tongue, crushes the lot, and tosses them aside, then pulls a fresh pack from the open carton lying carelessly on the table.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3942,11 +3942,11 @@
       "en": "“Then you'll go back to the <tips=21>Dragon Club</tips>?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3961,11 +3961,11 @@
       "en": "“I want that even less.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3980,11 +3980,11 @@
       "en": "<tips=82>Hiromi</tips> shakes her head, her voice suddenly fierce.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -3999,11 +3999,11 @@
       "en": "“I can't forgive those people. ...They murdered everyone like that. The staff were only living ordinary lives. They had families they loved too. And they were so kind to me...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4018,11 +4018,11 @@
       "en": "“I see. Well, staying clear of the <tips=21>Dragon Club</tips> is probably the smart choice.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4037,11 +4037,11 @@
       "en": "<tips=23>Elliott</tips> lights the fresh cigarette and draws the smoke deep into his lungs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4056,11 +4056,11 @@
       "en": "“They've got a monopoly on the drug they gave you, but it won't last. Sooner or later, it'll spread beyond them. ...Until then, life could get rough. Even if you don't join the <tips=21>Dragon Club</tips>, you'd better keep some way of getting the medicine.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4075,11 +4075,11 @@
       "en": "“I don't care about the medicine. ...Losing the symptoms didn't make anything better.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4094,11 +4094,11 @@
       "en": "<tips=82>Hiromi</tips> bites her lip and looks down. <tips=23>Elliott</tips> smokes in silence.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4113,11 +4113,11 @@
       "en": "“If you're planning to move in here, we've got a problem.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4132,11 +4132,11 @@
       "en": "“I'm not.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4151,11 +4151,11 @@
       "en": "“Then what are you going to do?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4170,11 +4170,11 @@
       "en": "At <tips=23>Elliott</tips>'s idle question, <tips=82>Hiromi</tips> raises her face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4189,11 +4189,11 @@
       "en": "“I'm going to avenge the people who were killed at the hospital.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4208,11 +4208,11 @@
       "en": "“Come again?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4227,11 +4227,11 @@
       "en": "“I'm going to take down the people who call themselves the <tips=47>Liberation Army</tips>. That's what I have to do. They worried about me right to the end. They changed my diaper with guns pointed at them... That couldn't have been just a job. I have to answer what they did for me...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4246,11 +4246,11 @@
       "en": "“Whoa, now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4265,11 +4265,11 @@
       "en": "The cigarette nearly drops from <tips=23>Elliott</tips>'s mouth. He snatches it out of the air and sticks it back between his lips.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4284,11 +4284,11 @@
       "en": "“What exactly do you mean by ‘avenge’? What are you planning to do when you ‘take them down’?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4303,11 +4303,11 @@
       "en": "“A knife, or anything... I'll do to them what they did to the people at the hospital. I'll risk my life. It's the one thing I have to do now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4322,11 +4322,11 @@
       "en": "Tears gather in <tips=82>Hiromi</tips>'s eyes as she speaks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4341,11 +4341,11 @@
       "en": "“I might fail. They might kill me instead. That's all right. I've decided. What matters is that I try.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4360,11 +4360,11 @@
       "en": "“You're serious?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4379,11 +4379,11 @@
       "en": "“I am.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4398,11 +4398,11 @@
       "en": "“Well, I'll be damned.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4417,11 +4417,11 @@
       "en": "<tips=23>Elliott</tips> shrugs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4436,11 +4436,11 @@
       "en": "“Is it completely impossible?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4455,11 +4455,11 @@
       "en": "“I could tell you it is, but I don't like lying. ...So here's the truth. I don't know who you want dead, but with the right method, you can manage almost anyone. Killing people is easy. The <tips=21>Dragon Club</tips> would never dream that you were coming to kill one of them. And when it comes down to it, they're amateurs.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4474,11 +4474,11 @@
       "en": "“Really? Then please teach me how! If there's anything I can do for you, I'll do it. Anything...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4493,11 +4493,11 @@
       "en": "<tips=82>Hiromi</tips> looks straight into <tips=23>Elliott</tips>'s eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4512,11 +4512,11 @@
       "en": "From any objective standpoint, <tips=23>Elliott</tips>'s claim sounds almost as mad as her plan. But the idea of doubting someone barely exists in her. She takes him at his word.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4531,11 +4531,11 @@
       "en": "<tips=23>Elliott</tips> grimaces.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4550,11 +4550,11 @@
       "en": "“For the record, killing is a stupid business. Even if you pull it off, nothing good comes of it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4569,11 +4569,11 @@
       "en": "“But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4588,11 +4588,11 @@
       "en": "“Listen. Kill someone in this society, and you become the kind of person anyone else is free to kill. The moment you murder, your own life isn't worth garbage. That's what being a killer means.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4607,11 +4607,11 @@
       "en": "“...Even if the reason is right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4626,11 +4626,11 @@
       "en": "“Right, wrong—makes no difference. You could kill to save your own skin. They could hail you as a hero for it. This isn't about morals. Even if you had no choice, the moment you learn your own hands can take a life, something at the core of you changes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4645,11 +4645,11 @@
       "en": "“I don't really understand.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-35c6a2b88c36.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-02.webp",
           "s": "r"
         }
       ]
@@ -4664,11 +4664,11 @@
       "en": "“Didn't think you would. By the time you do, it'll be too late.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4683,11 +4683,11 @@
       "en": "“...Have you killed people?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4702,11 +4702,11 @@
       "en": "“Plenty. That makes me murderous garbage too. ...And from where I'm standing, your life looks bright enough to blind me. You ought to hang on to it. The <tips=47>Liberation Army</tips> will keep dying whether you lift a finger or not. This City is full of garbage. Let the garbage kill each other forever. You go live quietly somewhere and laugh at their stupid little war. Isn't that revenge enough?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4721,11 +4721,11 @@
       "en": "“I don't want that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4740,11 +4740,11 @@
       "en": "<tips=82>Hiromi</tips> plainly has no intention of taking <tips=23>Elliott</tips>'s advice.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4759,11 +4759,11 @@
       "en": "Nothing he says will shake her determination to take revenge.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4778,11 +4778,11 @@
       "en": "“It doesn't matter. Even if you're right, my life never had any value to begin with.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4797,11 +4797,11 @@
       "en": "Her eyes fill as she reaches the final words.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -4816,11 +4816,11 @@
       "en": "“Don't talk like an idiot. Nobody comes into this world worthless.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4835,11 +4835,11 @@
       "en": "<tips=23>Elliott</tips> crushes the cigarette he has only just lit into the ashtray.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4854,11 +4854,11 @@
       "en": "“Fine. Do what you want. But as you are now, all you'd be doing is committing suicide.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4873,11 +4873,11 @@
       "en": "“But you said I might be able to...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4892,11 +4892,11 @@
       "en": "“If you prepare properly. Let a professional make the plan and give you a few days of basic training, and it won't be hard. ...Got a professional handy? Didn't think so.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4911,11 +4911,11 @@
       "en": "“...But...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4930,11 +4930,11 @@
       "en": "<tips=82>Hiromi</tips> looks at <tips=23>Elliott</tips> through eyes bright with tears. He grins.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "r"
         }
       ]
@@ -4949,11 +4949,11 @@
       "en": "“Then I suppose the professional sitting right here could train you. Do you trust this foreign stranger? Or don't you? The choice is—”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -4968,11 +4968,11 @@
       "en": "“Please!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -4987,11 +4987,11 @@
       "en": "Before <tips=23>Elliott</tips> can finish, <tips=82>Hiromi</tips> bows until her forehead nearly touches the table.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -5049,7 +5049,7 @@
       "se": "",
       "jp": "　さて、久しぶりに酒を飲んで寝る以外の行動をすることとなった<tips=23>エリオット</tips>は、まず情報集めを行った。",
       "en": "And so, for the first time in years, <tips=23>Elliott</tips> does something besides drink and sleep. He begins by gathering information.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     },
     {
       "id": "X15-2:0592",
@@ -5104,7 +5104,7 @@
       "se": "",
       "jp": "　一方、<tips=82>広美</tips>への教育も同時に行った。",
       "en": "At the same time, he trains <tips=82>Hiromi</tips>.",
-      "bg": "assets/vn/backgrounds/bg-00b49b7339de.webp"
+      "bg": "assets/vn/backgrounds/background-雑木林.webp"
     },
     {
       "id": "X15-2:0604",
@@ -5134,7 +5134,7 @@
       "en": "“Good. You've got the basics. This is more than enough. The plan will put you much closer than this, so hitting the target won't be the hard part. ...But calmly putting a bullet through a human being takes practice. From here on, we'll train you to get used to that.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -5149,7 +5149,7 @@
       "en": "<tips=82>Hiromi</tips> is almost giddy with success, but <tips=23>Elliott</tips>'s words sober her. From the next session on, he replaces the cans with boards painted like human figures and has her shoot through the center.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "l"
         }
       ]
@@ -5171,7 +5171,7 @@
       "se": "",
       "jp": "　酒場で飲んで情報収集をしている時のことである。ターゲットである<tips=10>見土道夫</tips>の方が仲間を引き連れてやって来た。",
       "en": "It happens while Elliott is drinking in a bar and quietly gathering information. His target, <tips=10>Michio Mido</tips>, walks in with several companions.",
-      "bg": "assets/vn/backgrounds/bg-c125a6e41665.webp"
+      "bg": "assets/vn/backgrounds/background-英国式のバー.webp"
     },
     {
       "id": "X15-2:0625",
@@ -5235,10 +5235,10 @@
       "se": "Elliott",
       "jp": "「狙いは<tips=10>見土道夫</tips>ただ一人だ。病院襲撃のリーダー、つまり、あんたの大好きなノウミさんとやらの死はこいつに全責任がある。現場には他にもむかつくやつがいるかもしれないが、それには目もくれるな。標的を仕留めたらすぐに脱出しろ。でなければお前が生還することは不可能だ」",
       "en": "“Your target is <tips=10>Michio Mido</tips>. Nobody else. He led the hospital attack, so the death of this beloved Ms. Noumi of yours is entirely on him. You may see other people there who make your blood boil. Ignore them. The instant the target is down, get out. If you don't, you will not come back alive.”",
-      "bg": "assets/vn/backgrounds/bg-197a0b94cd98.webp",
+      "bg": "assets/vn/backgrounds/background-エリオットの家ダイニングルーム.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5253,7 +5253,7 @@
       "en": "<tips=23>Elliott</tips> spreads out the floor plan and walks <tips=82>Hiromi</tips> through the operation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5268,7 +5268,7 @@
       "en": "Their agreement is that he will train her and devise the plan, but provide no help on the day itself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5283,7 +5283,7 @@
       "en": "“It's an ordinary house without special security. There are several tall buildings nearby. Normally, the cleanest option would be a sniper shot from one of them, but you don't have the skill. Your best chance is to get inside and shoot him at point-blank range.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5298,7 +5298,7 @@
       "en": "Hearing a real plan for the first time, <tips=82>Hiromi</tips> swallows hard.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5313,7 +5313,7 @@
       "en": "“The <tips=21>Dragon Club</tips> can't track people once they leave the City. They have no idea what happened to the patients who went home. So your story is that you made it safely back to your family, and you've come to thank <tips=10>Michio Mido</tips> with a bouquet. The gun goes inside the flowers.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5328,7 +5328,7 @@
       "en": "<tips=82>Hiromi</tips> sits rigid with nerves. <tips=23>Elliott</tips> speaks with his usual lazy ease, cigarette smoke curling around him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5343,7 +5343,7 @@
       "en": "“If anyone offers to take the bouquet for you, insist on giving it to <tips=10>Michio Mido</tips> yourself. These are your heartfelt thanks to a cherished benefactor, after all. When you go to hand it over, pull the trigger. Drop the gun with the flowers. I'll get it through one of my own channels, so even if they recover it, it won't lead back to us.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5358,7 +5358,7 @@
       "en": "Then his finger moves across the floor plan, tracing the escape routes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5373,7 +5373,7 @@
       "en": "“Getting into a place this loose won't be hard. Getting out is the dangerous part. No fixed security rules means more chaos and more ways for something unexpected to happen. You've got several routes. You'll have to judge which one is best on the spot. Between now and then, I'm going to drill the rules for each situation into your head. ...Once you're outside, leave the City immediately. I've arranged someone I trust. They'll take you somewhere safe. After that, live however you want.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         }
       ]
@@ -5388,11 +5388,11 @@
       "en": "“Where is somewhere safe?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5407,11 +5407,11 @@
       "en": "“You'll find out when it's time.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5426,11 +5426,11 @@
       "en": "“...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5445,11 +5445,11 @@
       "en": "“On the day, I'll watch <tips=10>Mido</tips> from somewhere overlooking the venue and tell you when to go in. That's as far as my help goes. After that, you're alone. If you fail, I do nothing. It's your revenge.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5464,11 +5464,11 @@
       "en": "“I'll be all right. Thank you for doing so much for me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5483,11 +5483,11 @@
       "en": "<tips=82>Hiromi</tips> bows with perfect manners. <tips=23>Elliott</tips> scratches his nose without changing expression.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5502,11 +5502,11 @@
       "en": "“Last chance. Fail and you die. Succeed and you gain nothing but the name ‘murderer.’ It's a stupid plan. I wouldn't do it. You still want to go through with this?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5521,11 +5521,11 @@
       "en": "“Yes.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5540,11 +5540,11 @@
       "en": "<tips=82>Hiromi</tips> meets <tips=23>Elliott</tips>'s eyes and answers without a heartbeat's pause.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5559,11 +5559,11 @@
       "en": "“All this for nothing. You'll regret it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5578,11 +5578,11 @@
       "en": "“That's funny, coming from you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5597,11 +5597,11 @@
       "en": "<tips=82>Hiromi</tips> tilts her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5616,11 +5616,11 @@
       "en": "“What is?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5635,11 +5635,11 @@
       "en": "“You aren't getting anything out of this either, Mr. <tips=23>Elliott</tips>. But you've done all this for me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5654,11 +5654,11 @@
       "en": "“Hmph.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5673,11 +5673,11 @@
       "en": "<tips=23>Elliott</tips> gives a bored shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5692,11 +5692,11 @@
       "en": "“I'm different. Drinking from morning till night, helping you kill yourself—doesn't make much difference to me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-76860d0ce0ad.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-9ccb35e74543.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-01.webp",
           "s": "r"
         }
       ]
@@ -5790,7 +5790,7 @@
       "se": "",
       "jp": "　建物に入るころまでは心臓がバクバクし、目眩がしそうだったが、実際<tips=10>道夫</tips>の目の前に立つと思いのほか冷静だった。",
       "en": "Until she entered the building, her heart pounded so violently she thought she might faint. Now that she is standing before <tips=10>Michio</tips>, she is strangely calm.",
-      "bg": "assets/vn/backgrounds/bg-2f08946f7a7f.webp"
+      "bg": "assets/vn/backgrounds/background-八龍会別室.webp"
     },
     {
       "id": "X15-2:0697",
@@ -5890,7 +5890,7 @@
       "se": "",
       "jp": "　階段を下りたところで、<tips=47>解放軍</tips>の女幹部であり、あの日も病院にいた人物――<tips=67>カミラ</tips>が立っていた。",
       "en": "At the foot of the stairs stands an executive of the <tips=47>Liberation Army</tips>, one of the people who was at the hospital that day: <tips=67>Camilla</tips>.",
-      "bg": "assets/vn/backgrounds/bg-6e94f4771693.webp"
+      "bg": "assets/vn/backgrounds/background-八龍会リビングルーム.webp"
     },
     {
       "id": "X15-2:0720",
@@ -5902,7 +5902,7 @@
       "en": "“Did you deliver the flowers?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5917,7 +5917,7 @@
       "en": "<tips=67>Camilla</tips> asks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5932,7 +5932,7 @@
       "en": "“Yes. He loved them.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5947,7 +5947,7 @@
       "en": "<tips=82>Hiromi</tips> answers with an easy smile.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5962,7 +5962,7 @@
       "en": "No one looking at her could imagine she had just killed a man.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5977,7 +5977,7 @@
       "en": "No study of her face would reveal the lie. But <tips=82>Hiromi</tips> has made one mistake. She has not noticed <tips=10>Michio</tips>'s blood on the hem of her white skirt.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -5992,7 +5992,7 @@
       "en": "The instant <tips=67>Camilla</tips> sees it, her face changes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -6007,7 +6007,7 @@
       "en": "<tips=82>Hiromi</tips> sees the change, follows her gaze to the blood, and breaks into a run.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4783f643a908.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-02.webp",
           "s": "l"
         }
       ]
@@ -6022,7 +6022,7 @@
       "en": "“Someone grab that girl!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-55cca8f85439.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-04.webp",
           "s": "l"
         }
       ]
@@ -6037,7 +6037,7 @@
       "en": "After shouting the order, <tips=67>Camilla</tips> races upstairs toward <tips=10>Michio</tips>.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-55cca8f85439.webp",
+          "u": "assets/vn/portraits/portrait-camilla-northam-f115-04.webp",
           "s": "l"
         }
       ]
@@ -6068,7 +6068,7 @@
       "se": "",
       "jp": "　けれど、通りに出て直線になるとそれもかなわない。",
       "en": "The moment she reaches the street and the chase becomes a straight line, that advantage disappears.",
-      "bg": "assets/vn/backgrounds/bg-3145e599ee72.webp"
+      "bg": "assets/vn/backgrounds/background-裏路地.webp"
     },
     {
       "id": "X15-2:0747",
@@ -6098,7 +6098,7 @@
       "en": "“Let go!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6113,7 +6113,7 @@
       "en": "<tips=82>Hiromi</tips> tries to wrench free. The second man catches her hand, and together they pin her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6128,7 +6128,7 @@
       "en": "“Hey, you...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6143,7 +6143,7 @@
       "en": "The man turns bloodshot eyes on <tips=82>Hiromi</tips>. Blood bursts from his face.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6158,7 +6158,7 @@
       "en": "An instant later, blood sprays from the other man and he falls too.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6173,7 +6173,7 @@
       "en": "Both bodies hit the ground with heavy thuds.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         }
       ]
@@ -6188,11 +6188,11 @@
       "en": "“Not bad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6207,11 +6207,11 @@
       "en": "She looks toward the voice. <tips=23>Elliott</tips> has appeared from nowhere, smiling with a pistol in his hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-ed9282c37da0.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-03.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6226,11 +6226,11 @@
       "en": "“Mr. <tips=23>Elliott</tips>, I did it! I really did it!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6245,11 +6245,11 @@
       "en": "<tips=82>Hiromi</tips> runs to <tips=23>Elliott</tips>, leaps up, and throws her arms around him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6264,11 +6264,11 @@
       "en": "“I've never succeeded at anything before in my life!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6283,11 +6283,11 @@
       "en": "Blood spatters her face. Her smile is bright and utterly guileless, impossible for a girl who has just committed her first murder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6302,11 +6302,11 @@
       "en": "“Maybe you've got a knack for this after all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -6321,11 +6321,11 @@
       "en": "<tips=23>Elliott</tips> smiles ruefully. When <tips=82>Hiromi</tips> tries to nuzzle against him like a puppy, he plants his palm against her forehead and pushes her away.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-1b37271a688b.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-04.webp",
           "s": "r"
         }
       ]
@@ -6340,11 +6340,11 @@
       "en": "“Welcome to a world where nothing has value.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6359,11 +6359,11 @@
       "en": "Then he offers <tips=82>Hiromi</tips> his left hand once more.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6378,11 +6378,11 @@
       "en": "“Thank you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6397,11 +6397,11 @@
       "en": "Still smiling, she lays her slender fingers in his palm.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-7aa1fad722ba.webp",
+          "u": "assets/vn/portraits/portrait-u-f066-02.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c0c409fca7f7.webp",
+          "u": "assets/vn/portraits/portrait-elliott-f046-01.webp",
           "s": "r"
         }
       ]
@@ -6414,7 +6414,7 @@
       "se": "",
       "jp": "　そしてそのまま二人は歩き出し、<tips=9>Y地区</tips>の雑踏のなかへ消えて行った。",
       "en": "Together they walk away and disappear into the crowds of <tips=9>Y District</tips>.",
-      "bg": "assets/vn/backgrounds/bg-27d8a14addf6.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り.webp"
     }
   ]
 }

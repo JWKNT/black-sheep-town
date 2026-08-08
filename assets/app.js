@@ -325,7 +325,7 @@
   }
 
   let portraitFrame = 0;
-  let portraitSignature = "";
+  const portraitSignatures = { l: "", r: "" };
 
   function updatePortraitStage() {
     portraitFrame = 0;
@@ -334,9 +334,11 @@
       r: elements.portraitStage.querySelector('[data-portrait-side="r"]'),
     };
     if (state.mode !== "english" || elements.scriptLines.hidden) {
-      portraitSignature = "";
-      slots.l.replaceChildren();
-      slots.r.replaceChildren();
+      for (const side of ["l", "r"]) {
+        portraitSignatures[side] = "";
+        slots[side].replaceChildren();
+        slots[side].dataset.count = "0";
+      }
       return;
     }
 
@@ -352,17 +354,24 @@
       ...portrait,
       side: portrait.s === "c" ? (index % 2 ? "r" : "l") : portrait.s,
     }));
-    const signature = JSON.stringify(normalized);
-    if (signature === portraitSignature) return;
-    portraitSignature = signature;
-    slots.l.replaceChildren();
-    slots.r.replaceChildren();
-    for (const portrait of normalized) {
-      const image = document.createElement("img");
-      image.src = portrait.u;
-      image.alt = "";
-      image.decoding = "async";
-      slots[portrait.side]?.append(image);
+    for (const side of ["l", "r"]) {
+      const sidePortraits = normalized.filter((portrait) => portrait.side === side);
+      const signature = JSON.stringify(sidePortraits);
+      if (signature === portraitSignatures[side]) continue;
+      portraitSignatures[side] = signature;
+
+      const images = sidePortraits.map((portrait) => {
+        const image = document.createElement("img");
+        image.src = portrait.u;
+        image.alt = "";
+        image.decoding = "async";
+        image.loading = "eager";
+        image.width = 720;
+        image.height = 900;
+        return image;
+      });
+      slots[side].dataset.count = String(images.length);
+      slots[side].replaceChildren(...images);
     }
   }
 
@@ -406,7 +415,8 @@
     elements.resultStatus.textContent = total > shown
       ? `${number.format(total)} matches · first ${number.format(shown)} shown`
       : `${number.format(total)} ${total === 1 ? "line" : "lines"}`;
-    portraitSignature = "";
+    portraitSignatures.l = "";
+    portraitSignatures.r = "";
     schedulePortraitUpdate();
   }
 

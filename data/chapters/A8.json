@@ -15,7 +15,7 @@
       "se": "",
       "jp": "　画面には自室で椅子に座る<tips=34>ダリオ・ボネット</tips>の姿が捉えられている。",
       "en": "On the screen, <tips=34>Dario Bonetto</tips> sits in a chair in his private room.",
-      "bg": "assets/vn/backgrounds/bg-60f86b95fbd9.webp"
+      "bg": "assets/vn/backgrounds/background-a8-mask-e.webp"
     },
     {
       "id": "a8:0015",
@@ -376,7 +376,7 @@
       "se": "",
       "jp": "　パンと音と共に銃口とこめかみの間が光って、頭の反対側から血が噴き出した。身体全体からだらんと力が抜け、仰向けにそった身体は一旦は背もたれの上でとどまりかけるが、摩擦はその体勢を保持するほどの力を持てず、結局ズルリと椅子の上から崩れ落ちて画面から消える。",
       "en": "The pistol cracks. Light flashes between muzzle and temple, and blood bursts from the other side of his head. His whole body goes slack. He arches backward and almost catches on the chair, then slides off the seat and out of frame.",
-      "bg": "assets/vn/backgrounds/bg-80c9feb0bcbc.webp"
+      "bg": "assets/vn/backgrounds/background-a8-2-mask-e.webp"
     },
     {
       "id": "a8:0075",
@@ -406,7 +406,7 @@
       "en": "“Fifteen minutes later, his wife enters and screams. Then the servants and subordinates rush in, and the commotion continues for some time.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -421,7 +421,7 @@
       "en": "Jean gives me the report.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -436,7 +436,7 @@
       "en": "“All right. Stop there. For the public version, take only the moments just before and after the suicide.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -451,7 +451,7 @@
       "en": "“Understood.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -466,7 +466,7 @@
       "en": "“Make sure they see his face as he dies in misery. It should cure anyone else of wanting to defy me.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -481,7 +481,7 @@
       "en": "“Yes, sir.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b467d77110d6.webp",
+          "u": "assets/vn/portraits/portrait-jean-balasco-f071-02.webp",
           "s": "r"
         }
       ]
@@ -494,7 +494,7 @@
       "se": "",
       "jp": "　そしてジャンは部屋を出て行った。彼がうまく動画を編集してくれたら、それを<tips=7>ＹＳ</tips>のメンバーに送りつける。本来だったら反逆による死は全てのメンバーに告知されるところだが、今回は一応潔く自決という形をとったので一定の階級以上のものでいいだろう。",
       "en": "Jean leaves the room. Once he finishes editing the video, we will send it to the members of <tips=7>YS</tips>. Ordinarily, every death for treason is announced to the entire organization. Since Dario at least had the decency to kill himself, we need send this one only to members above a certain rank.",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp"
     },
     {
       "id": "a8:0095",
@@ -684,10 +684,10 @@
       "se": "Mr. Arnold",
       "jp": "「やあ諸君、元気ですか？」",
       "en": "“Hello, everyone. Keeping well?”",
-      "bg": "assets/vn/backgrounds/bg-a2e15d2fa200.webp",
+      "bg": "assets/vn/backgrounds/background-グランドタワー別室.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         }
       ]
@@ -702,7 +702,7 @@
       "en": "The pallid <tips=89>Mr. Arnold</tips> addresses the camera with an imposing face cut by wrinkles as deep as canyon walls.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         }
       ]
@@ -717,11 +717,11 @@
       "en": "“We're doing very well. Fit as fiddles. You may have heard that we stepped down because of poor health, but that was a bald-faced lie. Don't you believe it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         }
       ]
@@ -736,11 +736,11 @@
       "en": "The yellow-skinned <tips=90>Mr. Chen</tips> smiles without the slightest warmth in his eyes.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         }
       ]
@@ -755,15 +755,15 @@
       "en": "“...We arranged this recording because we have something important to tell you all.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -778,15 +778,15 @@
       "en": "The pitch-black <tips=91>Mr. Smith</tips> speaks with a sullen air that makes him look angry.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -801,15 +801,15 @@
       "en": "The recording proceeds this way, the three men taking turns.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -824,15 +824,15 @@
       "en": "First comes the truth behind the <tips=22>Elders</tips>' supposed resignation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -847,15 +847,15 @@
       "en": "“It was a coup by the <tips=47>Liberation Army</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -870,15 +870,15 @@
       "en": "With a grim expression, <tips=89>Mr. Arnold</tips> recounts everything that happened the day the <tips=47>Liberation Army</tips>'s executives entered their mansion carrying guns.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -893,15 +893,15 @@
       "en": "“They threatened us at gunpoint and forced us to leave the Club. They said if we refused, they would spread the ridiculous lie that we were Normals, not <tips=17>Type B</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -916,15 +916,15 @@
       "en": "<tips=90>Mr. Chen</tips> shrugs and sighs.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -939,15 +939,15 @@
       "en": "“Some of you may have heard that rumor. But it was a bald-faced lie meant to ruin us. We are your comrades now, we were your comrades then, and we always will be.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -962,15 +962,15 @@
       "en": "What anguish <tips=90>Mr. Chen</tips> manages to put on his face. If I did not know the truth, I might almost believe him.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -985,15 +985,15 @@
       "en": "“We were shocked, of course. Heartbroken. We cherished <tips=10>Michio</tips> and raised him like our own child from the time he was small, only for him to make such a terrible mistake. If he had done nothing, he would eventually have become the rightful leader of the <tips=21>Dragon Club</tips>. What could have possessed him? ...We know <tips=10>Michio</tips> was not an evil man. Temptation must have overtaken him for a moment. Perhaps dying as he did was the price he paid... In any case, it is terribly sad.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1008,15 +1008,15 @@
       "en": "“What the <tips=47>Liberation Army</tips> did can only be called usurpation—a vile seizure of power. We condemn it in the strongest possible terms.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1031,15 +1031,15 @@
       "en": "Anger enters <tips=89>Mr. Arnold</tips>'s slow delivery. Like <tips=90>Mr. Chen</tips>, the <tips=22>Elders</tips> are remarkably good actors. Every performance is thoroughly convincing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1054,15 +1054,15 @@
       "en": "“Do not trust <tips=67>Camilla</tips>, leader of the Liberation Army. The <tips=21>Dragon Club</tips> is now controlled by her <tips=47>Liberation Army</tips>, but their rule has no legitimate foundation. It is a false power built by traitors. They are bloodthirsty beasts, nothing more. They mean to deceive you and lead you all to ruin.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1077,15 +1077,15 @@
       "en": "<tips=89>Mr. Arnold</tips> looks directly into the camera with his blue eyes, as though staring at every viewer through the screen.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1100,15 +1100,15 @@
       "en": "“To everyone watching this video: stop obeying them, this very moment. Does it not pain you to be driven into taking up arms against <tips=7>YS</tips>, with whom you lived in peace until only recently? ...We have returned to the City. Come with us once more, and let us seek a life of peace and prosperity together.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1123,15 +1123,15 @@
       "en": "The <tips=21>Dragon Club</tips> had taken its militant course on orders from these very <tips=22>Elders</tips>. Their nerve is impressive.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1146,15 +1146,15 @@
       "en": "“But perhaps you think losing our position left us powerless? No, no. That is where you are mistaken.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1169,15 +1169,15 @@
       "en": "<tips=90>Mr. Chen</tips> adopts his clownish tone.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1192,15 +1192,15 @@
       "en": "“No matter how wrong the <tips=47>Liberation Army</tips> may be, we could do nothing without power. We knew that, which is why we kept quiet until now. But now we have found the means to act. That is why we have appeared before you today.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1215,15 +1215,15 @@
       "en": "<tips=90>Mr. Chen</tips> grins.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1238,15 +1238,15 @@
       "en": "“We have decided to cooperate with <tips=7>YS</tips>. No, no, that does not mean changing the way we have always done things. Recently, we had a very thorough discussion with the honorable <tips=81>Longtou</tips>. It became clear that there had been a grave misunderstanding between us. So now there is no reason for us to hate one another. We worked together for many years, after all. We are only returning to the way things were... But let the man himself explain the details.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-bbad0ce46cc6.webp",
+          "u": "assets/vn/portraits/portrait-mr-arnold-f055-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-73a3d0bdfa9f.webp",
+          "u": "assets/vn/portraits/portrait-mr-chen-f054-01.webp",
           "s": "c"
         },
         {
-          "u": "assets/vn/portraits/portrait-0ba9aa1caf18.webp",
+          "u": "assets/vn/portraits/portrait-mr-smith-f056-01.webp",
           "s": "c"
         }
       ]
@@ -1259,7 +1259,7 @@
       "se": "",
       "jp": "　その言葉のあと、カメラが右へパンして、隣で椅子に腰掛けて座っていた僕を写し出す。",
       "en": "The camera pans right and reveals me sitting beside them.",
-      "bg": "assets/vn/backgrounds/bg-2fba5a049a5a.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室.webp"
     },
     {
       "id": "a8:0169",
@@ -1487,7 +1487,7 @@
       "en": "“What a splendid video. Such accomplished performers, every one of you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1502,7 +1502,7 @@
       "en": "<tips=25>Saiki</tips>, standing nearby, delivers the compliment with a teasing edge.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1517,7 +1517,7 @@
       "en": "“It was a farce.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1532,7 +1532,7 @@
       "en": "I shrug, let the tension out of my back, and sink into the chair.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1547,7 +1547,7 @@
       "en": "Later, we will set up a large screen on <tips=57>Runway Street</tips> and show the video to the crowd. At the same time, we will hand out leaflets summarizing its contents.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1562,7 +1562,7 @@
       "en": "—The thought of everyone watching me speak that way makes my skin crawl, but work is work.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1577,7 +1577,7 @@
       "en": "“Still, I'm amazed those proud <tips=22>Elders</tips> agreed to your proposal.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1592,7 +1592,7 @@
       "en": "<tips=25>Saiki</tips> looks genuinely incredulous.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1607,7 +1607,7 @@
       "en": "“In practice, isn't this the same as surrendering to <tips=7>YS</tips>? The old men know that perfectly well, don't they? Doesn't it humiliate them? Besides, the data that brought them down—the <tips=72>Type B Tendency Index</tips> figures—were given to the <tips=47>Liberation Army</tips> by...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1622,7 +1622,7 @@
       "en": "“<tips=25>Saiki</tips>, that never happened.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1637,7 +1637,7 @@
       "en": "<tips=25>Saiki</tips> gives me a puzzled look.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1652,7 +1652,7 @@
       "en": "“The truth is exactly what the old men said in the video. <tips=10>Michio Mido</tips> fabricated false data, framed the <tips=22>Elders</tips> as Normals, and drove them out. Nothing else happened. That was the old men's own suggestion, so why argue with them?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1667,7 +1667,7 @@
       "en": "“Honestly, you're all terrible people.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1682,7 +1682,7 @@
       "en": "<tips=25>Saiki</tips> sighs in exasperation.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1697,7 +1697,7 @@
       "en": "“Don't be ridiculous. This will destroy the <tips=47>Liberation Army</tips> and save lives that would otherwise have been lost. Nothing is more precious than human life. Who could be more virtuous than I am?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75a1094aaabf.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-02.webp",
           "s": "l"
         }
       ]
@@ -1712,7 +1712,7 @@
       "en": "“All right... But <tips=81>Longtou</tips>, isn't joining forces with the <tips=22>Elders</tips> dangerous? Bringing them into <tips=41>Grand Tower</tips> makes them easier to watch, but we don't know what they might do to us. They could steal the formula for ‘<tips=46>Neo-Rose</tips>’ at any time. Then they'd have no reason to stay bound to us.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         }
       ]
@@ -1727,7 +1727,7 @@
       "en": "“They have no desire to pick a fight with <tips=7>YS</tips> now.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         }
       ]
@@ -1742,7 +1742,7 @@
       "en": "“I hope you're right.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         }
       ]
@@ -1757,7 +1757,7 @@
       "en": "<tips=25>Saiki</tips> grimaces.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-a276c70679a5.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-01.webp",
           "s": "l"
         }
       ]
@@ -1772,7 +1772,7 @@
       "en": "“Now that they have ‘<tips=46>Neo-Rose</tips>,’ they look down on Normals completely. Physically, they really are our superiors. They'll never submit from the heart. I only hope we haven't welcomed a viper into our own house.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -1787,7 +1787,7 @@
       "en": "“The great <tips=25>Ma Saiki</tips> has become quite the worrier.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -1802,7 +1802,7 @@
       "en": "I smile wryly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -1817,7 +1817,7 @@
       "en": "“A Normal doesn't last long in this business unless he worries.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -1832,7 +1832,7 @@
       "en": "“It will be fine. Once we work together, the <tips=22>Elders</tips> will soon understand how reassuring it is to have us as allies—and how terrifying it is to have us as enemies.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-b5855fca8dd7.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-04.webp",
           "s": "l"
         }
       ]
@@ -1847,7 +1847,7 @@
       "en": "“Overconfident as ever. Oh, well. If you're that certain... I'll be going. I have to pay little Saul a visit.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -1862,7 +1862,7 @@
       "en": "<tips=25>Saiki</tips> smiles, then leaves the room and returns to his own work.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-6f9426ca8347.webp",
+          "u": "assets/vn/portraits/portrait-ma-saiki-f005-03.webp",
           "s": "l"
         }
       ]
@@ -2048,7 +2048,7 @@
       "en": "“Oh, I'm sorry. I'll bring you something else.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c51cb0129a91.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-01.webp",
           "s": "l"
         }
       ]
@@ -2153,7 +2153,7 @@
       "en": "“Are you tired?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2168,7 +2168,7 @@
       "en": "<tips=40>Tianxiang</tips> asks.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2183,7 +2183,7 @@
       "en": "“Not particularly...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2198,7 +2198,7 @@
       "en": "A yawn almost escapes me. I swallow it and shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2213,7 +2213,7 @@
       "en": "“Work has been such a nuisance lately.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2228,11 +2228,11 @@
       "en": "“You have been very busy.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2247,11 +2247,11 @@
       "en": "“That isn't quite it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2266,11 +2266,11 @@
       "en": "<tips=40>Tianming</tips> tilts her head.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2285,11 +2285,11 @@
       "en": "“I know this is an important time. I know I ought to concentrate. I simply can't make myself care... Tell me, do either of you eat natto?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2304,11 +2304,11 @@
       "en": "The question catches the <tips=40>Wong sisters</tips> completely off guard.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2323,11 +2323,11 @@
       "en": "“No.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2342,11 +2342,11 @@
       "en": "“Not very often...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2361,11 +2361,11 @@
       "en": "“I see. I've loved it since I was a child... Everyone stirs natto before eating it, of course, but I was terrible at controlling my strength when I was small. Whenever I stirred it in the Styrofoam container, my chopsticks punched straight through the bottom. So I always transferred it to a dish first.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2380,11 +2380,11 @@
       "en": "“Ah.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2399,11 +2399,11 @@
       "en": "The sisters give a vague reply, still visibly at a loss. I understand perfectly, but I feel like talking, so I carry on anyway.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2418,11 +2418,11 @@
       "en": "“Then one day, after I began living alone, I didn't want another dish to wash. So I tried stirring it in the container again. I couldn't remember the last time I'd done that. And you know, I managed it without punching through. I could never do it as a child, but for an adult being careful, it was not difficult at all. You've had experiences like that, haven't you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2437,11 +2437,11 @@
       "en": "“Yes, I suppose...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2456,11 +2456,11 @@
       "en": "“Probably.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2475,11 +2475,11 @@
       "en": "“But that didn't mean I stopped using a dish. A large dish is easier if you add condiments. More importantly, I discovered that I enjoy stirring with abandon. It feels much better than fussing carefully with the container. So from then on, I always had to decide. Did I feel like giving it a vigorous stir, or was avoiding one dirty dish more important? ...Now, of course, someone else washes every dish for me. If I ask, the chef will stir the natto beautifully and bring it to me. I could have someone spoon it into my mouth. I am the <tips=81>Longtou</tips>, after all. Here, I am practically a king. How stupid.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2494,11 +2494,11 @@
       "en": "I sigh in front of the bewildered sisters.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2513,11 +2513,11 @@
       "en": "“...For a while, I forgot the whole dilemma. Then recently, when I was alone and about to make natto over rice, it all came back. Should I mix it on a dish, or in the container? I must have spent two or three minutes deciding. Quite a long time, isn't it? I never hesitate that way over work. Don't you find that strange? I decide whether people live or die in an instant, yet agonize over a dish for my natto. Human values are fascinating. In the end, everything any of us does is...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2532,11 +2532,11 @@
       "en": "Halfway through the thought, I suddenly grow bored with it and sigh.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2551,11 +2551,11 @@
       "en": "“Oh, never mind.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-75f535eb84fa.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-03.webp",
           "s": "l"
         }
       ]
@@ -2570,11 +2570,11 @@
       "en": "“...Perhaps you really are tired?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-8ccb53031294.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-03.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2589,11 +2589,11 @@
       "en": "“Why not rest for a little while?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2608,11 +2608,11 @@
       "en": "Both sisters are worried about me.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2627,11 +2627,11 @@
       "en": "“Thank you, but that won't be necessary.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2646,11 +2646,11 @@
       "en": "Just as I decline, <tips=30>Reirei</tips> brings me another drink: an herbal tea with a fresh scent.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         }
       ]
@@ -2665,15 +2665,15 @@
       "en": "“They say this tea is good for your stomach.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2688,15 +2688,15 @@
       "en": "<tips=30>Reirei</tips> gives me a pointed look.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2711,15 +2711,15 @@
       "en": "She cared for Father through the final stages of this same disease. Perhaps she has noticed.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2734,15 +2734,15 @@
       "en": "I cannot hide it forever from the people closest to me. Sooner or later, I will have to tell her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2757,15 +2757,15 @@
       "en": "The sooner, the better. I know that. Yet something in me resists. As long as I keep it to myself and everyone around me treats me without knowing, it can still feel like a bad dream. The moment I speak it aloud and they begin to think about it too, it will become part of reality whether I want it to or not.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2780,15 +2780,15 @@
       "en": "That is weakness on my part.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2803,15 +2803,15 @@
       "en": "I take a sip.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2826,15 +2826,15 @@
       "en": "“You needn't worry. I am surely well suited to this work. I am <tips=3>Chris Xie</tips>'s son, after all. I work so hard that he must be delighted down in Hell.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2849,15 +2849,15 @@
       "en": "That is what I tell them.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         },
         {
-          "u": "assets/vn/portraits/portrait-6495d0db9fbd.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianming-f045-01.webp",
           "s": "l"
         },
         {
-          "u": "assets/vn/portraits/portrait-c02a8595f869.webp",
+          "u": "assets/vn/portraits/portrait-reirei-f051-02.webp",
           "s": "l"
         }
       ]
@@ -2870,7 +2870,7 @@
       "se": "",
       "jp": "　十九時まで執務を行うと乾いた咳が出た。",
       "en": "By the time I finish work at seven that evening, a dry cough escapes me.",
-      "bg": "assets/vn/backgrounds/bg-69d51a3ccb4e.webp"
+      "bg": "assets/vn/backgrounds/background-ys執務室3.webp"
     },
     {
       "id": "a8:0304",
@@ -2900,7 +2900,7 @@
       "en": "“Do you have a cold? You need to take care of yourself. If the <tips=81>Longtou</tips> goes down, there's no one to replace you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "l"
         }
       ]
@@ -2915,7 +2915,7 @@
       "en": "He sounds concerned. The deferential speech he once used so awkwardly with me has become remarkably natural.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-d3e407055ad2.webp",
+          "u": "assets/vn/portraits/portrait-tomas-liao-f025-03.webp",
           "s": "l"
         }
       ]
@@ -2939,7 +2939,7 @@
       "en": "“Are you going out again? Perhaps you ought to take someone with you...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2954,7 +2954,7 @@
       "en": "The <tips=40>Wong sisters</tips> worry when I try to leave alone, but I decline with a silent shrug.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2969,7 +2969,7 @@
       "en": "They know I dislike walking around at the head of a procession, so they say nothing more.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-3880bda4cda0.webp",
+          "u": "assets/vn/portraits/portrait-wong-tianxiang-f044-01.webp",
           "s": "r"
         }
       ]
@@ -2982,7 +2982,7 @@
       "se": "",
       "jp": "　雨は降っていなかったが、夜風が少ししめっている。",
       "en": "It is not raining, but the night air is damp.",
-      "bg": "assets/vn/backgrounds/bg-c772ac60853a.webp"
+      "bg": "assets/vn/backgrounds/background-暗闇通り夜.webp"
     },
     {
       "id": "a8:0326",
@@ -3028,7 +3028,7 @@
       "se": "",
       "jp": "　今日はそこへ訪れる前に、用事があって<tips=57>滑走路通り</tips>に寄った。",
       "en": "Before going there tonight, I stop on <tips=57>Runway Street</tips> for an errand.",
-      "bg": "assets/vn/backgrounds/bg-7872d9c29f75.webp"
+      "bg": "assets/vn/backgrounds/background-滑走路通り夜.webp"
     },
     {
       "id": "a8:0337",
@@ -3173,10 +3173,10 @@
       "se": "Kenjirou Shio",
       "jp": "「何か食うか？」",
       "en": "“Want something to eat?”",
-      "bg": "assets/vn/backgrounds/bg-2090935817ad.webp",
+      "bg": "assets/vn/backgrounds/background-汐家リビングルーム.webp",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3191,7 +3191,7 @@
       "en": "After silently letting me into the house, the president of <tips=70>Shio Clean</tips>, <tips=54>Kenjirou Shio</tips>, asks me this and nothing more.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3206,7 +3206,7 @@
       "en": "“I'm fine. I ate at a stall on <tips=57>Runway Street</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3221,7 +3221,7 @@
       "en": "I answer while putting my glasses in their case. The unfamiliar frames have made the bridge of my nose ache, and I pinch it between thumb and forefinger.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3236,7 +3236,7 @@
       "en": "Mr. <tips=54>Shio</tips> turns and starts down the hall. I follow.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3251,7 +3251,7 @@
       "en": "“Surprised no one spotted you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3266,7 +3266,7 @@
       "en": "Mr. <tips=54>Shio</tips> says it as we walk.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3281,7 +3281,7 @@
       "en": "“Everyone is too busy staring at the neon. No one studies a stranger's face that closely. More importantly, how is the ‘package’ I left with you?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3296,7 +3296,7 @@
       "en": "“Same as ever. Look at the data if you want details.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3311,7 +3311,7 @@
       "en": "Mr. <tips=54>Shio</tips> opens a door into the room at the back. I follow him inside.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3326,7 +3326,7 @@
       "en": "Now that one man lives here alone, the house is dirtier than before and clutter lies everywhere. Three whiskey bottles stand on the table; two are empty. He must have been drinking there until a moment ago. Amber liquor still waits in the glass.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3341,7 +3341,7 @@
       "en": "Beside it lies an open photograph album. The picture on the page was taken in front of this house. Mr. <tips=54>Shio</tips> wears a rare smile. <tips=55>Matsuko</tips> and I stare blankly at the camera. Still small, <tips=55>Matsuko</tips> and I hold hands, while Mr. <tips=54>Shio</tips> stands behind us with a hand on each shoulder.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3356,7 +3356,7 @@
       "en": "I cannot remember when the picture was taken, or why.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3371,7 +3371,7 @@
       "en": "Mr. <tips=54>Shio</tips> snaps the album shut, sits, and reaches for his glass again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3386,7 +3386,7 @@
       "en": "“I have to go out soon. Leave whenever you like.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3401,7 +3401,7 @@
       "en": "Mr. <tips=54>Shio</tips> digs into his pocket and tosses me a keycard. Drink spoils his aim, and the attached key chain throws off its balance. It sails wildly aside. I reach out and barely catch it in my right hand.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3416,7 +3416,7 @@
       "en": "“Put it in the mailbox when you leave... Want a drink?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3431,7 +3431,7 @@
       "en": "He is supposedly on his way to work, but his breath reeks of alcohol.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3446,7 +3446,7 @@
       "en": "“No. Can you work when you're that drunk?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3461,7 +3461,7 @@
       "en": "“I'll be fine. I'll drink there anyway. Tonight they're entertaining me. I don't want to go, but work is work. Apparently they'll have women ready for me, too. I'm sick of it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3476,7 +3476,7 @@
       "en": "<tips=70>Shio Clean</tips> has expanded steadily and apparently plans to move its headquarters outside <tips=9>Y District</tips>. Rumor says it may sell or contract out its operations in <tips=9>Y District</tips>. <tips=70>Shio Clean</tips> makes a considerable profit in this City alone. Anyone who inherits that business will join the region's wealthy overnight. Everyone with money to spare, respectable or underworld, is desperate to claim it.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3491,7 +3491,7 @@
       "en": "The implication occurs to me the moment I hear his story.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3506,7 +3506,7 @@
       "en": "As <tips=81>Longtou</tips>, I probably ought to say something. I cannot make myself care, so I let it pass.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3521,7 +3521,7 @@
       "en": "“Lately, every joint aches if I so much as move. Getting old is hell.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3536,7 +3536,7 @@
       "en": "Mr. <tips=54>Shio</tips> grimaces and thumps his lower back as he complains.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3551,7 +3551,7 @@
       "en": "“Why not drink a little less?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3566,7 +3566,7 @@
       "en": "He shakes his head without a word and lifts the glass to his lips.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3581,7 +3581,7 @@
       "en": "He has always loved alcohol. I heard that some drunken trouble was the immediate reason he left research in his youth. It was probably not work he could have continued even without the incident, so perhaps it did not truly change his fate.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3596,7 +3596,7 @@
       "en": "With <tips=55>Matsuko</tips> gone and no one left to stop him, he seems to drink more than ever.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3611,7 +3611,7 @@
       "en": "I do not know what her murder at work did to him. Since <tips=55>Matsuko</tips> disappeared, I have begun visiting as often as I once did. Neither of us has mentioned her even once.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3626,7 +3626,7 @@
       "en": "To him, <tips=55>Matsuko</tips> began as nothing more than a mysterious scrap of flesh he found. Circumstance made him pretend to be her father; he never asked for it. Yet beside <tips=55>Matsuko</tips>, he truly looked like a father. Now that she is gone, he does not look like one at all. He is only an aging bachelor again.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3641,7 +3641,7 @@
       "en": "“You're one to talk. Look at those shadows under your eyes. Haven't you been sleeping?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3656,7 +3656,7 @@
       "en": "“Of course I have. It's only the light.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3671,7 +3671,7 @@
       "en": "“I see.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3686,7 +3686,7 @@
       "en": "I leave Mr. <tips=54>Shio</tips> drinking in silence and head for the basement.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-75874445220d.webp",
+          "u": "assets/vn/portraits/portrait-kenjirou-shio-f043-01.webp",
           "s": "l"
         }
       ]
@@ -3843,7 +3843,7 @@
       "se": "",
       "jp": " ",
       "en": "​",
-      "bg": "assets/vn/backgrounds/bg-f74325abbc5c.webp"
+      "bg": "assets/vn/backgrounds/background-児童施設.webp"
     },
     {
       "id": "a8:0434",
@@ -3927,7 +3927,7 @@
       "en": "“...She seems to have a very strong sense of justice. After she returned to the room...”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "r"
         }
       ]
@@ -3942,7 +3942,7 @@
       "en": "“Enough. I'll hear the rest after I see it.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "r"
         }
       ]
@@ -3957,7 +3957,7 @@
       "en": "I cut her off. We have reached the reception room where the murder took place.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-1f395c7cd278.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-07.webp",
           "s": "r"
         }
       ]
@@ -3972,7 +3972,7 @@
       "en": "“Please touch as little as possible. Forensics has begun examining the scene, but they have not finished.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "r"
         }
       ]
@@ -3987,7 +3987,7 @@
       "en": "<tips=49>Miyoshi</tips> hands me a flashlight and a pair of white gloves.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "r"
         }
       ]
@@ -4002,7 +4002,7 @@
       "en": "I say nothing. I put on the gloves, take her flashlight, and open the door myself.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-04c997ef63a0.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
           "s": "r"
         }
       ]
@@ -4015,7 +4015,7 @@
       "se": "",
       "jp": "　まっさきに目に飛び込んできたのは、部屋の中央のローテーブルの上で仰向けに倒れる女の姿だった。",
       "en": "The first thing I see is a woman lying on her back across the low table in the center of the room.",
-      "bg": "assets/vn/backgrounds/bg-62f8b0f5055f.webp"
+      "bg": "assets/vn/backgrounds/background-a8-mask-b.webp"
     },
     {
       "id": "a8:0462",
@@ -4423,7 +4423,7 @@
       "en": "“What is it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "r"
         }
       ]
@@ -4438,7 +4438,7 @@
       "en": "<tips=49>Miyoshi</tips> asks. I am the only one with a flashlight; she probably cannot see what I am doing.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "r"
         }
       ]
@@ -4453,7 +4453,7 @@
       "en": "“I lost a button.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "r"
         }
       ]
@@ -4468,7 +4468,7 @@
       "en": "I hide the truth, slip the syringe carefully into my pocket without pricking myself, and leave the room.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-242504fdfcfa.webp",
+          "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
           "s": "r"
         }
       ]
@@ -4481,7 +4481,7 @@
       "se": "",
       "jp": "　僕はすぐに<tips=54>汐さん</tips>を訪ねた。",
       "en": "I go straight to Mr. <tips=54>Shio</tips>.",
-      "bg": "assets/vn/backgrounds/bg-2090935817ad.webp"
+      "bg": "assets/vn/backgrounds/background-汐家リビングルーム.webp"
     },
     {
       "id": "a8:0529",
@@ -4617,7 +4617,7 @@
       "se": "",
       "jp": "　その中に、彼はいた。いや、あるいは彼女と言おうか？　いくつもの姿をもつその人物の性別を問うのは無意味かもしれない。今は金色の髪とほっそりとした白い肌を持つ少年の姿で、胎児のように膝を抱えて丸くなった姿で培養器のなかで目を閉じている。",
       "en": "He is inside. Or should I say she? Perhaps sex is a meaningless question for someone with so many forms. At present, the figure is a slender, pale-skinned boy with golden hair. He floats curled like a fetus inside the culture vessel, knees to his chest, eyes closed.",
-      "bg": "assets/vn/backgrounds/bg-7291f6f29f56.webp"
+      "bg": "assets/vn/backgrounds/background-a8-4-mask-e.webp"
     },
     {
       "id": "a8:0563",
@@ -5131,7 +5131,7 @@
       "se": "",
       "jp": "　僕は、机にかじりついてパソコンのモニターに映るデータを眺めていた。特別な変化はないが、とにかく目がしょぼしょぼとして画面がにじむ。",
       "en": "I cling to the desk and stare at the data on the monitor. Nothing in particular has changed, but my smarting eyes make the screen blur.",
-      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
+      "bg": "assets/vn/backgrounds/background-汐の地下実験室.webp"
     },
     {
       "id": "a8:0644",
@@ -5213,7 +5213,7 @@
       "se": "",
       "jp": "「やあ」",
       "en": "“Hello.”",
-      "bg": "assets/vn/backgrounds/bg-4053c08c2966.webp"
+      "bg": "assets/vn/backgrounds/background-a8-8-mask-a.webp"
     },
     {
       "id": "a8:0663",
@@ -5565,7 +5565,7 @@
       "se": "",
       "jp": "　――警察に呼ばれ、<tips=55>松子</tips>の無惨な遺体を見たその場所で、僕は田辺という従業員に話を聞いた。",
       "en": "—At the scene where the police showed me <tips=55>Matsuko</tips>'s mutilated body, I questioned an employee named Tanabe.",
-      "bg": "assets/vn/backgrounds/bg-305dc1f27510.webp"
+      "bg": "assets/vn/backgrounds/background-児童施設事務室.webp"
     },
     {
       "id": "a8:0714",
@@ -5647,7 +5647,7 @@
       "se": "",
       "jp": "「これは……生きてるの？」",
       "en": "“Is this... alive?”",
-      "bg": "assets/vn/backgrounds/bg-7291f6f29f56.webp"
+      "bg": "assets/vn/backgrounds/background-a8-4-mask-e.webp"
     },
     {
       "id": "a8:0732",
@@ -5873,7 +5873,7 @@
       "se": "",
       "jp": "「それが<tips=55>汐松子</tips>だよ。<tips=1>菅原亮</tips>なら、そこからなんとか出来るんでしょ？」",
       "en": "“That is <tips=55>Matsuko Shio</tips>. You can do something with her from there, can't you, <tips=1>Ryou Sugawara</tips>?”",
-      "bg": "assets/vn/backgrounds/bg-4053c08c2966.webp"
+      "bg": "assets/vn/backgrounds/background-a8-8-mask-a.webp"
     },
     {
       "id": "a8:0768",
@@ -6486,7 +6486,7 @@
       "se": "",
       "jp": "　培養器の排水口を開けてカプセルを満たす液体を抜き、<tips=20>コシチェイ</tips>を出してやった。",
       "en": "I open the drain on the culture vessel, empty the capsule, and take <tips=20>Koschei</tips> out.",
-      "bg": "assets/vn/backgrounds/bg-60672692545d.webp"
+      "bg": "assets/vn/backgrounds/background-汐の地下実験室.webp"
     },
     {
       "id": "a8:0849",
@@ -6507,7 +6507,7 @@
       "en": "“He's completely limp. Is he all right?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2fea6d23316e.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-07.webp",
           "s": "r"
         }
       ]
@@ -6522,7 +6522,7 @@
       "en": "“He'll wake soon. ...More importantly, he won't be able to use any of his powers for a while. He cannot transform or regenerate.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-2fea6d23316e.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-07.webp",
           "s": "r"
         }
       ]
@@ -6537,7 +6537,7 @@
       "en": "“Why?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6552,7 +6552,7 @@
       "en": "“<tips=46>Neo-Rose</tips> takes away the special abilities of a <tips=17>Type B</tips> person for a time. If <tips=20>Koschei</tips>'s blood brought you back, you should be careful too.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6567,7 +6567,7 @@
       "en": "<tips=12>Eriko</tips> grins.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6582,7 +6582,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6597,7 +6597,7 @@
       "en": "“<tips=1>Ryou Sugawara</tips> still has a nasty mouth, but he's kind.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6612,7 +6612,7 @@
       "en": "“Ridiculous.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6627,7 +6627,7 @@
       "en": "I grimace.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6642,7 +6642,7 @@
       "en": "“I don't want anyone to die either. I've always felt that way.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6657,7 +6657,7 @@
       "en": "“We know.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4415affbea52.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-08.webp",
           "s": "r"
         }
       ]
@@ -6672,7 +6672,7 @@
       "en": "<tips=12>Eriko</tips> nods.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-4415affbea52.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-08.webp",
           "s": "r"
         }
       ]
@@ -6687,7 +6687,7 @@
       "en": "“Goodbye.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-264711d3e572.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
           "s": "r"
         }
       ]
@@ -6702,7 +6702,7 @@
       "en": "With that casual farewell, she turns to go.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-264711d3e572.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
           "s": "r"
         }
       ]
@@ -6717,7 +6717,7 @@
       "en": "“<tips=12>Eriko</tips>.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-264711d3e572.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
           "s": "r"
         }
       ]
@@ -6732,7 +6732,7 @@
       "en": "I call her name and stop her.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-264711d3e572.webp",
+          "u": "assets/vn/portraits/portrait-eriko-haigami-f021-05.webp",
           "s": "r"
         }
       ]
@@ -6747,7 +6747,7 @@
       "en": "“What?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6762,7 +6762,7 @@
       "en": "“One day. I will wait exactly twenty-four hours. Until then, I will give no one any orders. If you are still in the City after that, I will do my duty as <tips=81>Longtou</tips>. The sedative should wear off around noon tomorrow. He will be able to move then. His transformations and the rest of his powers will take about three days to return.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-c10f07f356f3.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-06.webp",
           "s": "r"
         }
       ]
@@ -6777,7 +6777,7 @@
       "en": "“That's more than enough.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6792,7 +6792,7 @@
       "en": "“Tell <tips=20>Koschei</tips> never to set foot in <tips=9>Y District</tips> again. If he tries to take revenge on me, we know all his abilities now. They will not work twice. And you should return to the housing complex. As long as you live there, no one will touch you.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6807,7 +6807,7 @@
       "en": "“Thank you. This much kindness is creepy. But we'll decide what to do together after this child wakes. We'll tell him what you said. Goodbye.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6822,7 +6822,7 @@
       "en": "“Wait. One more thing.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6837,7 +6837,7 @@
       "en": "I stop <tips=12>Eriko</tips> a second time.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6852,7 +6852,7 @@
       "en": "“A witness told me that when you saw <tips=55>Matsuko</tips>'s body, both of you cried for her.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-cde77fcea7ce.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-05.webp",
           "s": "r"
         }
       ]
@@ -6867,7 +6867,7 @@
       "en": "“Wh-what about it?”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfd52d438e1f.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
           "s": "r"
         }
       ]
@@ -6882,7 +6882,7 @@
       "en": "Her face reddens slightly.",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfd52d438e1f.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
           "s": "r"
         }
       ]
@@ -6897,7 +6897,7 @@
       "en": "“Thank you. I was so glad when I heard.”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfd52d438e1f.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
           "s": "r"
         }
       ]
@@ -6912,7 +6912,7 @@
       "en": "“I-idiot! Besides, <tips=55>Matsuko Shio</tips> isn't dead! She's alive right there!”",
       "p": [
         {
-          "u": "assets/vn/portraits/portrait-dfd52d438e1f.webp",
+          "u": "assets/vn/portraits/portrait-haigami-sisters-f101-08.webp",
           "s": "r"
         }
       ]
