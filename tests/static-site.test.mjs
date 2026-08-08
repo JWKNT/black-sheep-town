@@ -239,13 +239,13 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /function currentChapterOrder/);
   assert.match(app, /elements\.endNextChapter\.addEventListener/);
   assert.match(app, /function makeBackgroundFigure/);
-  assert.match(app, /function updatePortraitStage/);
-  assert.match(app, /portrait\.s === "l"/);
-  assert.match(app, /portrait\.s === "r"/);
-  assert.match(app, /candidate\.s === "c"/);
-  assert.match(app, /if \(!articles\.length\)/);
-  assert.doesNotMatch(app, /portrait\.s === "c" \? \(index % 2/);
-  assert.doesNotMatch(app, /\bportraitSignature\b/);
+  assert.match(app, /function makePortraitCard/);
+  assert.match(app, /function changedPortraits/);
+  assert.match(app, /function layoutPortraitStage/);
+  assert.match(app, /dataset\.anchorLine/);
+  assert.match(app, /function nearestOpenTop/);
+  assert.doesNotMatch(app, /window\.addEventListener\("scroll", schedulePortraitUpdate/);
+  assert.doesNotMatch(app, /\bportraitSignatures\b/);
   assert.doesNotMatch(app, /innerHTML\s*=/);
 
   const glossary = await readFile(new URL("assets/glossary.js", root), "utf8");
