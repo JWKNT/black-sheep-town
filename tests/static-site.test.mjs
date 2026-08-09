@@ -270,7 +270,10 @@ test("dark mode follows the system and preserves an explicit preference", async 
   assert.match(theme, /localStorage\.setItem/);
   assert.match(theme, /root\.dataset\.theme/);
   assert.match(theme, /aria-pressed/);
+  assert.match(theme, /"☀"/);
+  assert.match(theme, /"☾"/);
   assert.match(theme, /meta\[name="theme-color"\]/);
+  assert.match(styles, /\.theme-toggle\s*\{[^}]*border-radius:\s*50%/s);
   assert.match(styles, /:root\[data-theme="dark"\]/);
   assert.match(styles, /:root:not\(\[data-theme\]\)/);
   assert.match(styles, /color-scheme: dark/);
