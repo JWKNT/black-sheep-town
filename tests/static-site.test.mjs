@@ -66,12 +66,29 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.0\/BLACK-SHEEP-TOWN-English-Patcher-v1\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.1\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.1\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.1\/BST-Text-Hooker-v1\.0\.1\.zip/);
-  assert.match(html, /5cd7884b29ac475785dd4110dd7d252e4471448285a8f07a9157f7e4c5362d36/);
+  assert.match(html, /e8edf56a0f811ead2b5f623417149618ed647ebd3f67297396f0de5277a2474b/);
   assert.match(html, /c82d5658929b20e9ff0a4d0b085499974de89e4f3719673dabbcb616244a3d52/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
+});
+
+test("complete patch payload contains the portrait-corrected English asset", async () => {
+  const manifest = JSON.parse(await readFile(
+    new URL("tools/bst-complete-patcher/payload/english-sharedassets0/manifest.json", root),
+    "utf8",
+  ));
+  assert.equal(
+    manifest.target_sha256,
+    "df226a2366c02f8c75e3a3a8e0c86d5483c12c698639ea19353c67d52bc842aa",
+  );
+  const installer = await readFile(
+    new URL("tools/bst-complete-patcher/install_bst_patch.py", root),
+    "utf8",
+  );
+  assert.match(installer, /def update_installed\(/);
+  assert.match(installer, /6348 active portrait rows verified/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

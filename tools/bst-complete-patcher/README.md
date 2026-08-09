@@ -9,6 +9,11 @@ the current fan-translation build. It installs:
 - the immediate EN/JP control in Settings;
 - the native Player.log hook used by the BST text-hooker.
 
+Version 1.0.1 corrects the internal character-name keys used by UTAGE, restoring
+portraits throughout the English script while keeping the visible English
+speaker names. All 6,348 active portrait-bearing rows are checked against the
+game's Character table.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The installer verifies the source release
 and every rebuilt file before modifying the game.
@@ -17,12 +22,18 @@ and every rebuilt file before modifying the game.
 
 1. Download this entire `bst-complete-patcher` folder (the `payload` folder is
    required).
-2. Start with a fresh Japanese game folder containing `Bst.exe`,
-   `GameAssembly.dll`, and `Bst_Data`.
+2. Use either a fresh Japanese game folder containing `Bst.exe`,
+   `GameAssembly.dll`, and `Bst_Data`, or a folder previously patched with
+   v1.0.0.
 3. On macOS/CrossOver, double-click **Install BST English Patch.command**. On
    Windows, double-click **Install BST English Patch.bat**.
 4. Drag the fresh game folder into the terminal window when prompted and press
    Return. You can also drag the folder onto the launcher itself.
+
+For an existing v1.0.0 installation, running the same launcher automatically
+updates the English asset pack in place. The selected EN/JP language is
+preserved, and the replaced English pack is retained under
+`BSTLanguage/backup`.
 
 The rebuild needs roughly 1.7 GB of temporary/free space because both complete
 language packs are retained. When it finishes, launch `Bst.exe`. The language
@@ -36,6 +47,13 @@ BepInEx, .NET SDK, or external binary-patching tool is needed.
 
 ```sh
 python3 install_bst_patch.py "/path/to/BLACK SHEEP TOWN"
+```
+
+The installer auto-detects an existing bilingual installation. You may also
+request that mode explicitly:
+
+```sh
+python3 install_bst_patch.py --update "/path/to/BLACK SHEEP TOWN"
 ```
 
 To restore the original Japanese executable and data layout:

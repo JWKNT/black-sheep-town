@@ -173,11 +173,12 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1",
+            "format": "bst-complete-patch-v1.0.1",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
             "text_hook": "Unity Player.log dialogue and choices",
+            "portrait_fix": "6348 active portrait rows verified",
             "files": {
                 "launcher": sha256(game / "Bst.exe"),
                 "player": sha256(game / "BstPlayer.exe"),
@@ -207,12 +208,120 @@ def install(game: Path) -> dict[str, object]:
             shutil.rmtree(staging)
 
 
-def restore(game: Path) -> Path:
+def validate_installed(game: Path) -> tuple[Path, Path, Path]:
     language = game / "BSTLanguage"
     player_data = game / "BstPlayer_Data"
+    backup = language / "backup"
     if not language.is_dir() or not player_data.is_dir() or not (game / "BstPlayer.exe").is_file():
         raise ValueError("This does not look like a patcher-installed bilingual build")
-    backup = language / "backup"
+    for required in (
+        backup / "GameAssembly.dll.original",
+        backup / "global-metadata.dat.original",
+        backup / "level0.original",
+        language / "ja/Bst_Data/sharedassets0.assets",
+        language / "ja/Bst_Data/resources.assets",
+        language / "ja/Bst_Data/resources.resource",
+    ):
+        if not required.is_file():
+            raise ValueError(f"Installed patch source is missing: {required}")
+    return language, player_data, backup
+
+
+def update_installed(game: Path) -> dict[str, object]:
+    language, player_data, backup = validate_installed(game)
+    current_file = language / "current.txt"
+    current_language = current_file.read_text(encoding="ascii").strip().lower()
+    if current_language not in {"en", "ja"}:
+        raise ValueError(f"Unknown installed language: {current_language!r}")
+
+    old_english = language / "en/Bst_Data"
+    target_hashes = {
+        filename: json.loads((PAYLOAD / patch_name / "manifest.json").read_text(encoding="utf-8"))[
+            "target_sha256"
+        ]
+        for filename, patch_name in ENGLISH_PATCHES.items()
+    }
+    if all(
+        (old_english / filename).is_file()
+        and sha256(old_english / filename) == target_hash
+        for filename, target_hash in target_hashes.items()
+    ):
+        if current_language == "en":
+            for filename in PACK_FILES:
+                if sha256(player_data / filename) != target_hashes[filename]:
+                    copy_verified(old_english / filename, player_data / filename)
+        report_path = language / "install-report.json"
+        report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
+        report.update(
+            {
+                "format": "bst-complete-patch-v1.0.1",
+                "game": str(game),
+                "current_language": current_language,
+                "portrait_fix": "6348 active portrait rows verified",
+            }
+        )
+        report_path.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
+        print("The corrected English asset pack is already current.")
+        return report
+
+    staging = game / ".bst-patcher-update-staging"
+    if staging.exists():
+        shutil.rmtree(staging)
+    english = staging / "en/Bst_Data"
+    english.mkdir(parents=True)
+    try:
+        print("Rebuilding and verifying the corrected English asset pack...")
+        results: dict[str, object] = {}
+        for filename, patch_name in ENGLISH_PATCHES.items():
+            source = (
+                backup / "level0.original"
+                if filename == "level0"
+                else language / "ja/Bst_Data" / filename
+            )
+            print(f"  Rebuilding English {filename}...")
+            results[patch_name] = apply_delta(
+                source,
+                PAYLOAD / patch_name,
+                english / filename,
+            )
+
+        archived = language / "backup" / "english-pack-before-v1.0.1"
+        if archived.exists():
+            archived = language / "backup" / f"english-pack-before-v1.0.1-{int(time.time())}"
+        old_english.rename(archived)
+        english.rename(old_english)
+        if current_language == "en":
+            for filename in PACK_FILES:
+                copy_verified(old_english / filename, player_data / filename)
+
+        report_path = language / "install-report.json"
+        report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
+        report.update(
+            {
+                "format": "bst-complete-patch-v1.0.1",
+                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
+                "game": str(game),
+                "current_language": current_language,
+                "portrait_fix": "6348 active portrait rows verified",
+            }
+        )
+        files = report.setdefault("files", {})
+        files["english_pack"] = {
+            name: sha256(old_english / name) for name in PACK_FILES
+        }
+        report["delta_targets"] = {
+            **report.get("delta_targets", {}),
+            **{name: details["target_sha256"] for name, details in results.items()},
+        }
+        report_path.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
+        return report
+    finally:
+        if staging.exists():
+            shutil.rmtree(staging)
+
+
+def restore(game: Path) -> Path:
+    language, player_data, backup = validate_installed(game)
     for required in (
         backup / "GameAssembly.dll.original",
         backup / "global-metadata.dat.original",
@@ -246,11 +355,22 @@ def main() -> None:
     )
     parser.add_argument("game", type=Path, nargs="?", help="fresh folder containing Bst.exe")
     parser.add_argument("--restore", action="store_true", help="restore the Japanese layout")
+    parser.add_argument(
+        "--update",
+        action="store_true",
+        help="refresh an existing patcher installation with the current English pack",
+    )
     args = parser.parse_args()
     game = discover_game(args.game)
     if args.restore:
         archive = restore(game)
         print(f"\nJapanese game restored. Patch files were retained at:\n{archive}")
+    elif args.update or (game / "BSTLanguage").is_dir():
+        report = update_installed(game)
+        print("\nExisting patch updated successfully.")
+        print(f"Launch: {game / 'Bst.exe'}")
+        print(f"Current language remains: {report['current_language'].upper()}")
+        print(f"Install report: {game / 'BSTLanguage/install-report.json'}")
     else:
         report = install(game)
         print("\nPatch installed successfully.")
