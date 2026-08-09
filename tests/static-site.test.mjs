@@ -32,6 +32,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /assets\/app\.js\?v=/);
   assert.match(html, /assets\/theme\.js\?v=/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
+  assert.match(html, /id="result-status"[^>]*hidden/);
 });
 
 test("glossary HTML exposes progress, search, and entry regions", async () => {
@@ -253,6 +254,8 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /function layoutPortraitStage/);
   assert.match(app, /dataset\.anchorLine/);
   assert.match(app, /function nearestOpenTop/);
+  assert.match(app, /chapterTitle\.textContent = meta\.title/);
+  assert.match(app, /resultStatus\.hidden = terms\.length === 0/);
   assert.doesNotMatch(app, /window\.addEventListener\("scroll", schedulePortraitUpdate/);
   assert.doesNotMatch(app, /\bportraitSignatures\b/);
   assert.doesNotMatch(app, /innerHTML\s*=/);

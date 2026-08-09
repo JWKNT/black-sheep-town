@@ -280,7 +280,7 @@
 
   function setChapterHeading(meta) {
     const complete = meta.translatedLines === meta.totalLines;
-    elements.chapterTitle.textContent = `Chapter ${meta.title}`;
+    elements.chapterTitle.textContent = meta.title;
     elements.chapterProgress.textContent = complete
       ? `${number.format(meta.translatedLines)} translated lines`
       : `${number.format(meta.translatedLines)} of ${number.format(meta.totalLines)} lines translated`;
@@ -456,6 +456,7 @@
     const token = ++state.searchToken;
     const terms = queryTerms();
     const allScope = state.scope === "all" && terms.length > 0;
+    elements.resultStatus.hidden = terms.length === 0;
     elements.resultStatus.textContent = allScope ? "Searching all chapters…" : "Loading script…";
     elements.clearSearch.hidden = !state.query;
     elements.search.placeholder = state.scope === "all" ? "Search all chapters" : "Search this chapter";
@@ -484,6 +485,7 @@
         requestAnimationFrame(() => document.querySelector(window.location.hash)?.scrollIntoView());
       }
     } catch (error) {
+      elements.resultStatus.hidden = false;
       elements.resultStatus.textContent = "Could not load the script.";
       elements.scriptLines.replaceChildren();
       elements.emptyState.hidden = false;
