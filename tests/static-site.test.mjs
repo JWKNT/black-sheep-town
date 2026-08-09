@@ -30,7 +30,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
-  assert.match(html, /https:\/\/jwknt\.github\.io\/site-theme\/v1\/theme\.js/);
+  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
@@ -53,7 +53,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
-  assert.match(html, /https:\/\/jwknt\.github\.io\/site-theme\/v1\/theme\.js/);
+  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
