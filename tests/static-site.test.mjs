@@ -30,7 +30,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
-  assert.match(html, /assets\/theme\.js\?v=/);
+  assert.match(html, /https:\/\/jwknt\.github\.io\/site-theme\/v1\/theme\.js/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
@@ -53,7 +53,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
-  assert.match(html, /assets\/theme\.js\?v=/);
+  assert.match(html, /https:\/\/jwknt\.github\.io\/site-theme\/v1\/theme\.js/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
@@ -269,22 +269,17 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 
-test("dark mode follows the system and preserves an explicit preference", async () => {
-  const theme = await readFile(new URL("assets/theme.js", root), "utf8");
+test("pages use the shared theme controller and retain portrait dark tokens", async () => {
+  const reader = await readFile(new URL("index.html", root), "utf8");
+  const glossary = await readFile(new URL("glossary.html", root), "utf8");
   const styles = await readFile(new URL("assets/styles.css", root), "utf8");
 
-  assert.match(theme, /prefers-color-scheme: dark/);
-  assert.match(theme, /localStorage\.getItem/);
-  assert.match(theme, /localStorage\.setItem/);
-  assert.match(theme, /root\.dataset\.theme/);
-  assert.match(theme, /aria-pressed/);
-  assert.doesNotMatch(theme, /textContent/);
-  assert.match(theme, /meta\[name="theme-color"\]/);
-  assert.match(styles, /\.theme-toggle\s*\{[^}]*border-radius:\s*3px/s);
+  assert.match(reader, /site-theme\/v1\/theme\.js/);
+  assert.match(glossary, /site-theme\/v1\/theme\.js/);
+  assert.match(reader, /data-theme-toggle[^>]*>◐<\/button>/);
+  assert.match(glossary, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(styles, /:root\[data-theme="dark"\]/);
-  assert.match(styles, /:root:not\(\[data-theme\]\)/);
-  assert.match(styles, /color-scheme: dark/);
-  assert.match(styles, /--paper: #121416/);
+  assert.match(styles, /--portrait-start: rgb\(28 31 35 \/ 82%\)/);
 });
 
 test("reader visual data resolves to exported game artwork", async () => {
