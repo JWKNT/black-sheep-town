@@ -23,12 +23,14 @@ test("reader HTML exposes the required controls and regions", async () => {
     "english-mode",
     "glossary-link",
     "reader-portrait-stage",
+    "theme-toggle",
   ]) {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
+  assert.match(html, /assets\/theme\.js\?v=/);
 });
 
 test("glossary HTML exposes progress, search, and entry regions", async () => {
@@ -44,10 +46,12 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     "glossary-list",
     "glossary-entry-template",
     "glossary-empty",
+    "theme-toggle",
   ]) {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
+  assert.match(html, /assets\/theme\.js\?v=/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
   assert.doesNotMatch(html, /class="glossary-id"/);
@@ -255,6 +259,22 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(glossary, /\.glossary-id/);
   assert.doesNotMatch(glossary, /unlockLabel|glossary-unlock|glossary-back-link/);
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
+});
+
+test("dark mode follows the system and preserves an explicit preference", async () => {
+  const theme = await readFile(new URL("assets/theme.js", root), "utf8");
+  const styles = await readFile(new URL("assets/styles.css", root), "utf8");
+
+  assert.match(theme, /prefers-color-scheme: dark/);
+  assert.match(theme, /localStorage\.getItem/);
+  assert.match(theme, /localStorage\.setItem/);
+  assert.match(theme, /root\.dataset\.theme/);
+  assert.match(theme, /aria-pressed/);
+  assert.match(theme, /meta\[name="theme-color"\]/);
+  assert.match(styles, /:root\[data-theme="dark"\]/);
+  assert.match(styles, /:root:not\(\[data-theme\]\)/);
+  assert.match(styles, /color-scheme: dark/);
+  assert.match(styles, /--paper: #121416/);
 });
 
 test("reader visual data resolves to exported game artwork", async () => {
