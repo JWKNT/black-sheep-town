@@ -212,6 +212,20 @@ def read_glossary_titles(path: Path) -> dict[int, str]:
     return titles
 
 
+def read_scenario_titles(translation_root: Path) -> dict[str, str]:
+    path = translation_root / "support" / "scenario_buttons_en.tsv"
+    if not path.is_file():
+        raise SystemExit(f"Translated scenario titles not found: {path}")
+
+    titles: dict[str, str] = {}
+    for row in read_tsv(path):
+        slug = (row.get("name") or "").strip().upper()
+        title = (row.get("en_title") or "").strip()
+        if slug and title:
+            titles[slug] = title
+    return titles
+
+
 def sync_scenario_progression(translation_root: Path, output_root: Path) -> None:
     workspace_root = translation_root.parent
     order_path = workspace_root / "notes" / "chapter_unlock_and_editorial_reading_order.md"
@@ -311,6 +325,7 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     sync_scenario_progression(translation_root, output_root)
 
     visual_states = load_visual_states(translation_root)
+    scenario_titles = read_scenario_titles(translation_root)
     chapters: list[dict[str, object]] = []
     translated_total = 0
 
@@ -343,10 +358,13 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
 
         sheet = manifest_row["sheet"]
         slug = sheet.upper()
+        title = scenario_titles.get(slug)
+        if not title:
+            raise SystemExit(f"Missing translated scenario title for {sheet}")
         total_lines = int(manifest_row["text_rows"])
         metadata = {
             "slug": slug,
-            "title": sheet,
+            "title": title,
             "part": sheet[0].upper(),
             "translatedLines": len(translated),
             "totalLines": total_lines,

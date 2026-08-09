@@ -67,6 +67,9 @@ test("generated chapter index agrees with its chapter files", async () => {
 
   assert.equal(index.chapters.length, 63);
   assert.equal(files.filter((name) => name.endsWith(".json")).length, index.chapters.length);
+  assert.equal(index.chapters[0].title, "YS's Successor");
+  assert.equal(index.chapters.find((chapter) => chapter.slug === "X10").title, "The Adventures of Tomas Liao");
+  assert.ok(index.chapters.every((chapter) => chapter.title !== chapter.slug));
 
   let translatedLines = 0;
   const seenIds = new Set();
