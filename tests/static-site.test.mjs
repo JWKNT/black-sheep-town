@@ -61,6 +61,19 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
   assert.doesNotMatch(html, /glossary-entry-footer|glossary-unlock|glossary-back-link/);
 });
 
+test("tools page exposes verified patch and hooker downloads", async () => {
+  const html = await readFile(new URL("tools.html", root), "utf8");
+  assert.match(html, /href="\.\/">Reader<\/a>/);
+  assert.match(html, /href="glossary\.html">Glossary<\/a>/);
+  assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
+  assert.match(html, /bst-english-patcher-v1\.0\.0\/BLACK-SHEEP-TOWN-English-Patcher-v1\.zip/);
+  assert.match(html, /bst-text-hooker-v1\.0\.0\/BST-Text-Hooker-v1\.0\.0\.zip/);
+  assert.match(html, /5cd7884b29ac475785dd4110dd7d252e4471448285a8f07a9157f7e4c5362d36/);
+  assert.match(html, /a96e946c29ac328aaba4186f2aedb0e4fc5fc3f71859537d5d08adfd67d389fc/);
+  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
+  assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
+});
+
 test("generated chapter index agrees with its chapter files", async () => {
   const dataRoot = new URL("data/", root);
   const index = JSON.parse(await readFile(new URL("index.json", dataRoot), "utf8"));
@@ -272,12 +285,15 @@ test("client rendering treats script text as text, not HTML", async () => {
 test("pages use the shared theme controller and retain portrait dark tokens", async () => {
   const reader = await readFile(new URL("index.html", root), "utf8");
   const glossary = await readFile(new URL("glossary.html", root), "utf8");
+  const tools = await readFile(new URL("tools.html", root), "utf8");
   const styles = await readFile(new URL("assets/styles.css", root), "utf8");
 
   assert.match(reader, /site-theme\/v1\/theme\.js/);
   assert.match(glossary, /site-theme\/v1\/theme\.js/);
+  assert.match(tools, /site-theme\/v1\/theme\.js/);
   assert.match(reader, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(glossary, /data-theme-toggle[^>]*>◐<\/button>/);
+  assert.match(tools, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(styles, /:root\[data-theme="dark"\]/);
   assert.match(styles, /--portrait-start: rgb\(28 31 35 \/ 82%\)/);
 });
