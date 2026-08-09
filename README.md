@@ -6,6 +6,8 @@ Chapter navigation defaults to VN order: the editorial read-through reconstructe
 
 The site is plain HTML, CSS, JavaScript, and chapter-split JSON. It has no runtime dependencies and is ready to serve from GitHub Pages.
 
+The repository also includes a [BST-specific text hooker](tools/bst-text-hooker/README.md) for the original Windows release under CrossOver or Wine. It captures UTAGE dialogue, narration, and selection text that generic Windows text hooks miss.
+
 ## Update the translation
 
 Run the data builder against the translation workspace:
