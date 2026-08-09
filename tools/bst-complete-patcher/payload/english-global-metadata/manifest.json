@@ -1,0 +1,32 @@
+{
+  "format": "bst-delta-v1",
+  "source_size": 5528636,
+  "source_sha256": "148d5fd72d5437b9a58e6ebc1053c07e14c1b04e6ad98bf5a859e1183e059c04",
+  "target_size": 5528636,
+  "target_sha256": "ed60c264b94d9c50ed0a5718caf6cd31ff78829d89e749ce7ed97844bb02ccda",
+  "operations": [
+    [
+      "copy",
+      0,
+      181385
+    ],
+    [
+      "literal",
+      126153
+    ],
+    [
+      "copy",
+      307538,
+      5221098
+    ]
+  ],
+  "literal_bytes": 126153,
+  "copied_bytes": 5402483,
+  "parts": [
+    {
+      "name": "literals.zlib.001",
+      "size": 44713,
+      "sha256": "4407ae10323ba1c77f71d1d4ae41c9f6f2c5db4061ee2ba8b104c047def02438"
+    }
+  ]
+}
