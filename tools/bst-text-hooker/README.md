@@ -8,7 +8,7 @@ text-rendering APIs.
 The macOS hook follows a small, game-side Unity log channel installed for BST.
 It does not inject into CrossOver (macOS blocks that attachment). It captures:
 
-- finished dialogue and narration pages;
+- the most recently progressed dialogue or narration entry (not the whole page);
 - selection text.
 
 ## Install the game hook
@@ -54,12 +54,14 @@ Pass options to either launcher after its filename:
 --json                      print JSONL
 --raw                       keep UTAGE display tags
 --pid 1234                  attach to a specific process
---process OtherName.exe     override Bst.exe
+--process OtherName.exe     override automatic BstPlayer.exe / Bst.exe detection
 --wait 180                  wait longer for the game
 --log /path/to/Player.log   override automatic CrossOver-log discovery
 --frida                     use the legacy injection backend
 ```
 
-The companion reads only newly appended hook records from Unity's `Player.log`.
+The companion reads only newly appended hook records from Unity's `Player.log`
+and reduces each cumulative UTAGE page snapshot to its newest progressed entry.
 On CrossOver it automatically follows the newest BST log under the active
-bottle. Use `--log` when several BST bottles are running at once.
+bottle. On Windows the Frida backend detects either `BstPlayer.exe` or
+`Bst.exe`. Use `--log` when several BST bottles are running at once.

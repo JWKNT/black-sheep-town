@@ -12,16 +12,19 @@ import subprocess
 import sys
 import threading
 import time
+from collections.abc import Sequence
 from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
 
 ROOT = Path(__file__).resolve().parent
+DEFAULT_PROCESS_NAMES = ("BstPlayer.exe", "Bst.exe")
 RUBY_RE = re.compile(r"<ruby=[^>]*>(.*?)</ruby>", re.DOTALL | re.IGNORECASE)
 HTML_RE = re.compile(r"</?(?:b|i|u|size|color|font)(?:=[^>]*)?>", re.IGNORECASE)
 TAG_RE = re.compile(r"<[^>]+>")
 UTAGE_BREAK_RE = re.compile(r"\[(?:r|l|p)\]", re.IGNORECASE)
+LEADING_UTAGE_BREAK_RE = re.compile(r"^(?:\s|\[(?:r|l|p)\])+", re.IGNORECASE)
 
 
 def clean_text(value: str) -> str:
@@ -34,6 +37,20 @@ def clean_text(value: str) -> str:
     value = TAG_RE.sub("", value)
     value = UTAGE_BREAK_RE.sub("\n", value)
     return value.replace("\r\n", "\n").replace("\r", "\n").strip()
+
+
+def latest_progressed_text(previous: str, current: str) -> str:
+    """Extract only the newest entry from UTAGE's cumulative page text."""
+    if not current or current == previous:
+        return ""
+    appended = (
+        current[len(previous):]
+        if previous and current.startswith(previous)
+        else current
+    )
+    entries = UTAGE_BREAK_RE.split(appended)
+    newest = next((entry for entry in reversed(entries) if entry.strip()), "")
+    return LEADING_UTAGE_BREAK_RE.sub("", newest).strip()
 
 
 def copy_to_clipboard(value: str) -> None:
@@ -56,17 +73,22 @@ class Output:
     json_only: bool
     history: Path | None
     last: tuple[str, str, str, str] | None = None
+    dialogue_page: str = ""
 
     def text(self, payload: dict[str, Any]) -> None:
         kind = str(payload.get("kind", "dialogue"))
         speaker = str(payload.get("speaker", ""))
         text = str(payload.get("text", ""))
         scenario = str(payload.get("scenario", ""))
+        if kind == "dialogue":
+            page_text = text
+            text = latest_progressed_text(self.dialogue_page, page_text)
+            self.dialogue_page = page_text
         if not self.raw:
             speaker = clean_text(speaker)
             text = clean_text(text)
         record = (kind, speaker, text, scenario)
-        if not text or record == self.last:
+        if not text or (kind != "dialogue" and record == self.last):
             return
         self.last = record
 
@@ -87,22 +109,32 @@ class Output:
                 stream.write(serialized + "\n")
 
 
-def find_process(device: Any, process_name: str, wait_seconds: float) -> int:
+def find_process(
+    device: Any, process_names: str | Sequence[str], wait_seconds: float
+) -> int:
+    names = (process_names,) if isinstance(process_names, str) else tuple(process_names)
+    folded_names = tuple(name.casefold() for name in names)
     deadline = time.monotonic() + max(0.0, wait_seconds)
     announced = False
     while True:
         matches = [
             process
             for process in device.enumerate_processes()
-            if process.name.casefold() == process_name.casefold()
-            or process.name.casefold().endswith("/" + process_name.casefold())
+            if any(
+                process.name.casefold() == name
+                or process.name.casefold().endswith("/" + name)
+                or process.name.casefold().endswith("\\" + name)
+                for name in folded_names
+            )
         ]
         if matches:
             return max(matches, key=lambda process: process.pid).pid
         if time.monotonic() >= deadline:
-            raise RuntimeError(f"Could not find {process_name!r}")
+            raise RuntimeError(
+                "Could not find " + " or ".join(repr(name) for name in names)
+            )
         if not announced:
-            print(f"Waiting for {process_name}…", flush=True)
+            print(f"Waiting for {' or '.join(names)}…", flush=True)
             announced = True
         time.sleep(0.5)
 
@@ -111,6 +143,11 @@ def self_test() -> None:
     sample = '<ruby=ひつじ>羊</ruby>[r]<color=red>黒い</color>'
     assert clean_text(sample) == "羊\n黒い"
     assert clean_text("普通の文章") == "普通の文章"
+    assert latest_progressed_text("", "最初[r]の行") == "の行"
+    assert latest_progressed_text("最初", "最初[l]次の行") == "次の行"
+    assert latest_progressed_text("最初", "最初[r]続き[l]最新") == "最新"
+    assert latest_progressed_text("同じ", "同じ") == ""
+    assert latest_progressed_text("前のページ", "新しいページ") == "新しいページ"
     dialogue = parse_unity_log_record([
         "誰もが、ここからいなくなる。",
         "UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)",
@@ -234,7 +271,13 @@ def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description="Hook dialogue and choices from the Japanese BLACK SHEEP TOWN release."
     )
-    parser.add_argument("--process", default="BstPlayer.exe", help="Frida process name")
+    parser.add_argument(
+        "--process", action="append", metavar="NAME",
+        help=(
+            "Frida process name; may be repeated "
+            "(default: auto-detect BstPlayer.exe or Bst.exe)"
+        ),
+    )
     parser.add_argument("--pid", type=int, help="attach to an exact process ID")
     parser.add_argument(
         "--wait", type=float, default=90.0, metavar="SECONDS",
@@ -276,7 +319,9 @@ def main() -> int:
         return 2
 
     device = frida.get_local_device()
-    pid = args.pid or find_process(device, args.process, args.wait)
+    pid = args.pid or find_process(
+        device, args.process or DEFAULT_PROCESS_NAMES, args.wait
+    )
     print(f"Attaching to PID {pid}…", flush=True)
     session = device.attach(pid)
     script = session.create_script((ROOT / "agent.js").read_text(encoding="utf-8"))
