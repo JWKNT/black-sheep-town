@@ -31,6 +31,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
   assert.match(html, /assets\/theme\.js\?v=/);
+  assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
 });
 
 test("glossary HTML exposes progress, search, and entry regions", async () => {
@@ -52,6 +53,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
   assert.match(html, /assets\/theme\.js\?v=/);
+  assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
   assert.doesNotMatch(html, /class="glossary-id"/);
@@ -270,10 +272,9 @@ test("dark mode follows the system and preserves an explicit preference", async 
   assert.match(theme, /localStorage\.setItem/);
   assert.match(theme, /root\.dataset\.theme/);
   assert.match(theme, /aria-pressed/);
-  assert.match(theme, /"☀"/);
-  assert.match(theme, /"☾"/);
+  assert.doesNotMatch(theme, /textContent/);
   assert.match(theme, /meta\[name="theme-color"\]/);
-  assert.match(styles, /\.theme-toggle\s*\{[^}]*border-radius:\s*50%/s);
+  assert.match(styles, /\.theme-toggle\s*\{[^}]*border-radius:\s*3px/s);
   assert.match(styles, /:root\[data-theme="dark"\]/);
   assert.match(styles, /:root:not\(\[data-theme\]\)/);
   assert.match(styles, /color-scheme: dark/);

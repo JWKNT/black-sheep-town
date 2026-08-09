@@ -19,7 +19,6 @@
     for (const button of document.querySelectorAll("[data-theme-toggle]")) {
       const isDark = theme === "dark";
       const label = isDark ? "Use light theme" : "Use dark theme";
-      button.textContent = isDark ? "☀" : "☾";
       button.setAttribute("aria-pressed", String(isDark));
       button.setAttribute("aria-label", label);
       button.title = label;
