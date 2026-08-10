@@ -94,6 +94,19 @@ def main() -> None:
                 current / "GameAssembly.dll",
                 destination,
             )
+
+    # Optional native-layout deltas may already have been generated during a
+    # previous compatibility pass. Keep them represented in the aggregate
+    # report when this run only refreshes translated assets.
+    for name in (
+        "patched-game-assembly-existing-hook",
+        "patched-game-assembly-v1.0.3",
+        "patched-game-assembly-exact-hook",
+        "patched-game-assembly-exact-hook-switch",
+    ):
+        manifest = output / name / "manifest.json"
+        if name not in report and manifest.is_file():
+            report[name] = json.loads(manifest.read_text(encoding="utf-8"))
     (output / "build-report.json").write_text(
         json.dumps(report, indent=2) + "\n", encoding="utf-8"
     )

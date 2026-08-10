@@ -1,4 +1,36 @@
 {
+  "english-global-metadata": {
+    "format": "bst-delta-v1",
+    "source_size": 5528636,
+    "source_sha256": "148d5fd72d5437b9a58e6ebc1053c07e14c1b04e6ad98bf5a859e1183e059c04",
+    "target_size": 5528636,
+    "target_sha256": "ed60c264b94d9c50ed0a5718caf6cd31ff78829d89e749ce7ed97844bb02ccda",
+    "operations": [
+      [
+        "copy",
+        0,
+        181385
+      ],
+      [
+        "literal",
+        126153
+      ],
+      [
+        "copy",
+        307538,
+        5221098
+      ]
+    ],
+    "literal_bytes": 126153,
+    "copied_bytes": 5402483,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 44713,
+        "sha256": "4407ae10323ba1c77f71d1d4ae41c9f6f2c5db4061ee2ba8b104c047def02438"
+      }
+    ]
+  },
   "english-level0": {
     "format": "bst-delta-v1",
     "source_size": 1637772,
@@ -36,206 +68,6 @@
         "name": "literals.zlib.001",
         "size": 191536,
         "sha256": "c25d8837752de526d02b95e9b4af06d7f5d2e9265a53a1d7d977bcc307b08db4"
-      }
-    ]
-  },
-  "english-sharedassets0": {
-    "format": "bst-delta-v1",
-    "source_size": 126313228,
-    "source_sha256": "3246bf3b15e275eacbcb2dc2c89d3e00a7d256d5ba52d9401159bed1f0102cb8",
-    "target_size": 176416728,
-    "target_sha256": "df226a2366c02f8c75e3a3a8e0c86d5483c12c698639ea19353c67d52bc842aa",
-    "operations": [
-      [
-        "literal",
-        47568988
-      ],
-      [
-        "copy",
-        215300,
-        22275377
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        22569621,
-        36082552
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        58731117,
-        41802
-      ],
-      [
-        "copy",
-        35081047,
-        204976
-      ],
-      [
-        "copy",
-        58977895,
-        20684105
-      ],
-      [
-        "copy",
-        58125136,
-        142210
-      ],
-      [
-        "copy",
-        79804210,
-        375375
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80258529,
-        134272
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80471745,
-        134612
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80685301,
-        145916
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80910161,
-        134556
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        81123661,
-        11310156
-      ],
-      [
-        "copy",
-        34387647,
-        21396
-      ],
-      [
-        "copy",
-        92455213,
-        67620
-      ],
-      [
-        "copy",
-        34476661,
-        137495
-      ],
-      [
-        "copy",
-        92660328,
-        24392
-      ],
-      [
-        "copy",
-        34638676,
-        235347
-      ],
-      [
-        "copy",
-        92920067,
-        299314
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        93298325,
-        138708
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        93515977,
-        41694
-      ],
-      [
-        "copy",
-        35081047,
-        204976
-      ],
-      [
-        "copy",
-        93762647,
-        23310492
-      ],
-      [
-        "copy",
-        58177203,
-        90143
-      ],
-      [
-        "copy",
-        117163282,
-        1230935
-      ],
-      [
-        "literal",
-        10429960
-      ],
-      [
-        "copy",
-        126057457,
-        61334
-      ],
-      [
-        "literal",
-        177529
-      ]
-    ],
-    "literal_bytes": 58176477,
-    "copied_bytes": 118240251,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 3752853,
-        "sha256": "c3f429c4880d1e8a7df913216e6f0b0a0c9e4c1b028cd764b58493126a64877a"
       }
     ]
   },
@@ -566,35 +398,261 @@
       }
     ]
   },
-  "english-global-metadata": {
+  "english-sharedassets0": {
     "format": "bst-delta-v1",
-    "source_size": 5528636,
-    "source_sha256": "148d5fd72d5437b9a58e6ebc1053c07e14c1b04e6ad98bf5a859e1183e059c04",
-    "target_size": 5528636,
-    "target_sha256": "ed60c264b94d9c50ed0a5718caf6cd31ff78829d89e749ce7ed97844bb02ccda",
+    "source_size": 126313228,
+    "source_sha256": "3246bf3b15e275eacbcb2dc2c89d3e00a7d256d5ba52d9401159bed1f0102cb8",
+    "target_size": 176452488,
+    "target_sha256": "d0300b1dac0eaefff2b5161d757aa5e61b7c53b3b5c45089d4fb6e756e5364f4",
     "operations": [
       [
+        "literal",
+        47568988
+      ],
+      [
         "copy",
-        0,
-        181385
+        215300,
+        22275377
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        22569621,
+        36082552
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        58731117,
+        41802
+      ],
+      [
+        "copy",
+        35081047,
+        204976
+      ],
+      [
+        "copy",
+        58977895,
+        20684105
+      ],
+      [
+        "copy",
+        58125136,
+        142210
+      ],
+      [
+        "copy",
+        79804210,
+        375375
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80258529,
+        134272
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80471745,
+        134612
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80685301,
+        145916
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80910161,
+        134556
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        81123661,
+        11310156
+      ],
+      [
+        "copy",
+        34387647,
+        21396
+      ],
+      [
+        "copy",
+        92455213,
+        67620
+      ],
+      [
+        "copy",
+        34476661,
+        137495
+      ],
+      [
+        "copy",
+        92660328,
+        24392
+      ],
+      [
+        "copy",
+        34638676,
+        235347
+      ],
+      [
+        "copy",
+        92920067,
+        299314
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        93298325,
+        138708
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        93515977,
+        41694
+      ],
+      [
+        "copy",
+        35081047,
+        204976
+      ],
+      [
+        "copy",
+        93762647,
+        23310492
+      ],
+      [
+        "copy",
+        58177203,
+        90143
+      ],
+      [
+        "copy",
+        117163282,
+        1230935
       ],
       [
         "literal",
-        126153
+        10465720
       ],
       [
         "copy",
-        307538,
-        5221098
+        126057457,
+        61334
+      ],
+      [
+        "literal",
+        177529
       ]
     ],
-    "literal_bytes": 126153,
-    "copied_bytes": 5402483,
+    "literal_bytes": 58212237,
+    "copied_bytes": 118240251,
     "parts": [
       {
         "name": "literals.zlib.001",
-        "size": 44713,
-        "sha256": "4407ae10323ba1c77f71d1d4ae41c9f6f2c5db4061ee2ba8b104c047def02438"
+        "size": 3758606,
+        "sha256": "efeb76aafe1ea5fcc5e54759c15ffed9b6d5fcc9de8de7de3ff931275d40dd1d"
+      }
+    ]
+  },
+  "japanese-level0": {
+    "format": "bst-delta-v1",
+    "source_size": 1637772,
+    "source_sha256": "6df0616cdd7aa69c32046cfd4c02de2ce194b18f87019594ad8f5e0d18d69464",
+    "target_size": 1637760,
+    "target_sha256": "2adcda3c27f764a292dd4bda598f748124ed0018a4760bca7b8c88b61fe34e81",
+    "operations": [
+      [
+        "literal",
+        420817
+      ],
+      [
+        "copy",
+        420833,
+        47920
+      ],
+      [
+        "literal",
+        344262
+      ],
+      [
+        "copy",
+        813015,
+        241350
+      ],
+      [
+        "literal",
+        105618
+      ],
+      [
+        "copy",
+        1159983,
+        131072
+      ],
+      [
+        "literal",
+        131072
+      ],
+      [
+        "copy",
+        1422127,
+        131072
+      ],
+      [
+        "literal",
+        84577
+      ]
+    ],
+    "literal_bytes": 1086346,
+    "copied_bytes": 551414,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 166456,
+        "sha256": "5ad9b1bb3300b579000b0ea9817d2807d648b5e15b6c62c774e22070c4cf2862"
       }
     ]
   },
@@ -657,61 +715,76 @@
       }
     ]
   },
-  "japanese-level0": {
+  "patched-game-assembly-exact-hook": {
     "format": "bst-delta-v1",
-    "source_size": 1637772,
-    "source_sha256": "6df0616cdd7aa69c32046cfd4c02de2ce194b18f87019594ad8f5e0d18d69464",
-    "target_size": 1637760,
-    "target_sha256": "2adcda3c27f764a292dd4bda598f748124ed0018a4760bca7b8c88b61fe34e81",
+    "source_size": 52463616,
+    "source_sha256": "2570f44e714018566000e548aa9bc2a9a5e92f6b8bdae7e753ddcc41c5b2d8b6",
+    "target_size": 52463616,
+    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
     "operations": [
       [
+        "copy",
+        0,
+        10190310
+      ],
+      [
         "literal",
-        420817
+        62767
       ],
       [
         "copy",
-        420833,
-        47920
+        10253077,
+        3472152
       ],
       [
         "literal",
-        344262
+        117831
       ],
       [
         "copy",
-        813015,
-        241350
-      ],
-      [
-        "literal",
-        105618
-      ],
-      [
-        "copy",
-        1159983,
-        131072
-      ],
-      [
-        "literal",
-        131072
-      ],
-      [
-        "copy",
-        1422127,
-        131072
-      ],
-      [
-        "literal",
-        84577
+        13843060,
+        38620556
       ]
     ],
-    "literal_bytes": 1086346,
-    "copied_bytes": 551414,
+    "literal_bytes": 180598,
+    "copied_bytes": 52283018,
     "parts": [
       {
         "name": "literals.zlib.001",
-        "size": 166456,
-        "sha256": "5ad9b1bb3300b579000b0ea9817d2807d648b5e15b6c62c774e22070c4cf2862"
+        "size": 61667,
+        "sha256": "9e03b41581ad77d3bbda681de8fa2edf733cf98b7874df2bf9693bcf6740cc0d"
+      }
+    ]
+  },
+  "patched-game-assembly-exact-hook-switch": {
+    "format": "bst-delta-v1",
+    "source_size": 52463616,
+    "source_sha256": "df0b5984a00e20dffc6052514a36af40c32d0905d857f244bad660a3605c9418",
+    "target_size": 52463616,
+    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
+    "operations": [
+      [
+        "copy",
+        0,
+        10190310
+      ],
+      [
+        "literal",
+        62767
+      ],
+      [
+        "copy",
+        10253077,
+        42210539
+      ]
+    ],
+    "literal_bytes": 62767,
+    "copied_bytes": 52400849,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 22170,
+        "sha256": "a0f41e381285de8e58b887f63f5e0509cb41e11af061706e40ba5d5096c19139"
       }
     ]
   },
@@ -803,79 +876,6 @@
         "name": "literals.zlib.001",
         "size": 52111,
         "sha256": "69aa34f4c885bac908153b37455addb39ed94f95ab86757d0a1e3f1196feee5b"
-      }
-    ]
-  },
-  "patched-game-assembly-exact-hook": {
-    "format": "bst-delta-v1",
-    "source_size": 52463616,
-    "source_sha256": "2570f44e714018566000e548aa9bc2a9a5e92f6b8bdae7e753ddcc41c5b2d8b6",
-    "target_size": 52463616,
-    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
-    "operations": [
-      [
-        "copy",
-        0,
-        10190310
-      ],
-      [
-        "literal",
-        62767
-      ],
-      [
-        "copy",
-        10253077,
-        3472152
-      ],
-      [
-        "literal",
-        117831
-      ],
-      [
-        "copy",
-        13843060,
-        38620556
-      ]
-    ],
-    "literal_bytes": 180598,
-    "copied_bytes": 52283018,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 61667,
-        "sha256": "9e03b41581ad77d3bbda681de8fa2edf733cf98b7874df2bf9693bcf6740cc0d"
-      }
-    ]
-  },
-  "patched-game-assembly-exact-hook-switch": {
-    "format": "bst-delta-v1",
-    "source_size": 52463616,
-    "source_sha256": "df0b5984a00e20dffc6052514a36af40c32d0905d857f244bad660a3605c9418",
-    "target_size": 52463616,
-    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
-    "operations": [
-      [
-        "copy",
-        0,
-        10190310
-      ],
-      [
-        "literal",
-        62767
-      ],
-      [
-        "copy",
-        10253077,
-        42210539
-      ]
-    ],
-    "literal_bytes": 62767,
-    "copied_bytes": 52400849,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 22170,
-        "sha256": "a0f41e381285de8e58b887f63f5e0509cb41e11af061706e40ba5d5096c19139"
       }
     ]
   }

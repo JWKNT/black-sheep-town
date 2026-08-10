@@ -40,6 +40,14 @@ Unknown layouts are rejected unless that callback is found exactly once.
 Running 1.0.5 over an existing installation migrates it in place and preserves
 the selected language.
 
+Version 1.0.6 incorporates the final terminology, capitalization, grammar,
+speaker-label, and UTAGE-tag audit. English pagination is now checked across
+every numbered message window, including the alternate full-page layouts: all
+30,759 compiled dialogue rows fit their page budgets, with portrait-bearing
+pages retaining the stricter four-line limit. Running 1.0.6 over an existing
+installation rebuilds only the changed English pack and preserves the selected
+language.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables

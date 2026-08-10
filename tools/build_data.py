@@ -8,7 +8,9 @@ import csv
 import json
 import os
 import re
+from collections import defaultdict
 from datetime import datetime, timezone
+from difflib import SequenceMatcher
 from pathlib import Path
 
 
@@ -24,6 +26,170 @@ GAME_SPEAKER_EN_OVERRIDES = {
 }
 TAG_RE = re.compile(r"<[^>]+>")
 
+# Reader-only speaker attribution.  The game frequently omits Arg1 after a
+# portrait is already on screen and lets the following narration identify the
+# speaker.  That works in motion but leaves a static transcript ambiguous.
+# Only infer a name from an explicit positive attribution on the next row; do
+# not guess from portrait presence or dialogue alternation, and never label the
+# route narrator.
+SPEAKER_BY_TIPS_ID = {
+    1: ("謝亮", "Xie Liang"),
+    3: ("クリス・ツェー", "Chris Xie"),
+    4: ("馬明", "Ma Ming"),
+    5: ("太刀川良馬", "Ryouma Tachikawa"),
+    10: ("見土道夫", "Michio Mido"),
+    11: ("灰上璃映子", "Rieko Haigami"),
+    12: ("灰上江梨子", "Eriko Haigami"),
+    14: ("深沢聡", "Satoshi Fukazawa"),
+    23: ("エリオット", "Elliott"),
+    24: ("馬美美", "Ma Meimei"),
+    25: ("馬世傑", "Ma Saiki"),
+    26: ("劉建志", "Kenshi Ryuu"),
+    27: ("廖志明", "Liao Zhiming"),
+    28: ("トーマス・リャオ", "Tomas Liao"),
+    29: ("アイス", "Aisu"),
+    30: ("レイレイ", "Reirei"),
+    31: ("エリー・ホワイト", "Elly White"),
+    32: ("アサヒ", "Asahi"),
+    33: ("壬生屋タカシ", "Takashi Mibuya"),
+    34: ("ダリオ・ボネット", "Dario Bonetto"),
+    35: ("ジョゼ・フェルナンデス", "Jose Fernandez"),
+    36: ("アウロラ・フェルナンデス", "Aurora Fernandez"),
+    37: ("アナ・クララ・フェルナンデス", "Anna Clara Fernandez"),
+    38: ("リタ・フェルナンデス", "Rita Fernandez"),
+    39: ("ジェフリー・ウォン", "Jeffrey Wong"),
+    44: ("謝筱喬", "Xie Xiaoqiao"),
+    48: ("堂島謙一", "Ken'ichi Doujima"),
+    49: ("三芳星", "Hikari Miyoshi"),
+    50: ("路地邦昭", "Kuniaki Roji"),
+    51: ("熨田さくら", "Sakura Noshida"),
+    52: ("ミアオ", "Miao"),
+    53: ("ミユキ", "Miyuki"),
+    54: ("汐健慈朗", "Kenjirou Shio"),
+    55: ("汐松子", "Matsuko Shio"),
+    56: ("菅原和美", "Kazumi Sugawara"),
+    60: ("ロジャー・アダムス", "Roger Adams"),
+    61: ("ヒトミ", "Hitomi"),
+    62: ("マリア", "Maria"),
+    63: ("サーシェンカ", "Sashen'ka"),
+    64: ("アレクセイ", "Alexey"),
+    65: ("エフゲニ・ヘス", "Evgenij Hess"),
+    66: ("田中紺太", "Konta Tanaka"),
+    67: ("カミラ・ノーサム", "Camilla Northam"),
+    73: ("リュウカ", "Ryuka"),
+    82: ("内田広美", "Hiromi Uchida"),
+    83: ("能見美紗", "Misa Noumi"),
+    84: ("マイケル・ツェー", "Michael Xie"),
+    87: ("ベルーハ", "Beluha"),
+    88: ("アンドリュー・マオ", "Andrew Mao"),
+    89: ("ミスター・アーノルド", "Mr. Arnold"),
+    90: ("ミスター・チェン", "Mr. Chen"),
+    91: ("ミスター・スミス", "Mr. Smith"),
+    92: ("水村舞子", "Maiko Mizumura"),
+    93: ("林田雄一", "Yuuichi Hayashida"),
+    94: ("吉田主任", "Chief Nurse Yoshida"),
+    96: ("エンゾ・アラーニャ・エ・シウバ", "Enzo Aranha e Silva"),
+    98: ("アレクサンドル", "Alexander Jakovlevich Chernjaev"),
+}
+UNTAGGED_SPEAKER_CUES = {
+    "Jennifer": ("ジェニファー", "Jennifer"),
+    "Barbara": ("バーバラ", "Barbara"),
+    "Carlotta": ("カルロッタ", "Carlotta"),
+    "Hashimoto": ("ハシモト", "Hashimoto"),
+    "Tanabe": ("タナベ", "Tanabe"),
+    "Shimizu": ("シミズ", "Shimizu"),
+    "Nancy": ("ナンシー・リュー", "Nancy Liu"),
+    "Furukawa": ("フルカワ", "Furukawa"),
+    "Nurse Mita": ("箕田", "Nurse Mita"),
+    "Fujiwara": ("藤原", "Fujiwara"),
+}
+POSITIVE_SPEECH_VERB = (
+    r"(?:says?|said|asks?|asked|answers?|answered|repl(?:y|ies|ied)|"
+    r"whispers?|whispered|murmurs?|murmured|shouts?|shouted|cries?|cried|"
+    r"calls? (?:out|after|back|to)|called (?:out|after|back|to)|"
+    r"declares?|declared|speaks?|spoke|snaps?|snapped|"
+    r"continues?|continued|adds?|added|remarks?|remarked|responds?|responded|"
+    r"retorts?|retorted|demands?|demanded|insists?|insisted|groans?|groaned|"
+    r"stammers?|stammered)"
+)
+NEGATIVE_ATTRIBUTION_RE = re.compile(
+    r"\b(?:says? nothing|said nothing|does not answer|doesn't answer|"
+    r"did not answer|didn't answer|silent nod|without (?:saying|a word))\b",
+    re.IGNORECASE,
+)
+TIPS_SUBJECT_ATTRIBUTION_RE = re.compile(
+    rf"<tips=(\d+)>[^<]+</tips>(?![’']s)"
+    rf"(?:,\s*[^,.!?<>]{{1,55}},)?\s+"
+    rf"(?:(?:finally|quietly|softly|simply|only|still|then|also|suddenly|"
+    rf"immediately|flatly|calmly|brusquely|timidly|hoarsely)\s+){{0,2}}"
+    rf"\b{POSITIVE_SPEECH_VERB}\b",
+    re.IGNORECASE,
+)
+SPEAKER_INFERENCE_EXCLUSIONS = {
+    # The following narration names somebody other than the speaker, refers to
+    # an earlier statement, or introduces the next line of dialogue.
+    "A5:0068",
+    "B1:0718",
+    "E4:0255",
+    "E5:0438",
+    "G2:0410",
+    "X3-2:0842",
+    "x12:0152",
+    "X13:0605",
+    "X15-1:0162",
+}
+
+
+def route_narrator_tip_ids(sheet: str) -> set[int]:
+    family = sheet[:1].upper()
+    return {
+        "A": {1},
+        "B": {10},
+        "C": {5},
+        "D": {51},
+        "E": {50},
+        "F": {11, 12, 86},
+        "G": {55},
+    }.get(family, set())
+
+
+def inferred_speaker_from_following_attribution(
+    row: dict[str, str],
+    following: dict[str, str] | None,
+) -> tuple[str, str] | None:
+    if row["line_id"] in SPEAKER_INFERENCE_EXCLUSIONS:
+        return None
+    if following is None:
+        return None
+    japanese = (row.get("jp_text") or "").lstrip()
+    if not japanese.startswith(("「", "『")):
+        return None
+    narration = (following.get("en_text") or "").strip()
+    if not narration or (following.get("jp_text") or "").lstrip().startswith(("「", "『")):
+        return None
+    if NEGATIVE_ATTRIBUTION_RE.search(narration):
+        return None
+
+    match = TIPS_SUBJECT_ATTRIBUTION_RE.search(narration)
+    if match:
+        tips_id = int(match.group(1))
+        if tips_id in route_narrator_tip_ids(row["sheet"]):
+            return None
+        return SPEAKER_BY_TIPS_ID.get(tips_id)
+
+    for visible_name, speaker in UNTAGGED_SPEAKER_CUES.items():
+        pattern = re.compile(
+            rf"\b{re.escape(visible_name)}\b(?![’']s)"
+            rf"(?:,\s*[^,.!?<>]{{1,55}},)?\s+"
+            rf"(?:(?:finally|quietly|softly|simply|only|still|then|also|"
+            rf"suddenly|immediately|flatly|calmly|brusquely|timidly|hoarsely)\s+){{0,2}}"
+            rf"\b{POSITIVE_SPEECH_VERB}\b",
+            re.IGNORECASE,
+        )
+        if pattern.search(narration):
+            return speaker
+    return None
+
 
 def read_tsv(path: Path) -> list[dict[str, str]]:
     with path.open("r", encoding="utf-8-sig", newline="") as handle:
@@ -33,7 +199,11 @@ def read_tsv(path: Path) -> list[dict[str, str]]:
 def resolve_speaker(
     source_row: dict[str, str],
     target_row: dict[str, str],
+    inferred_speaker: tuple[str, str] | None = None,
+    corrected_speaker: tuple[str, str] | None = None,
 ) -> tuple[str, str]:
+    if corrected_speaker is not None:
+        return corrected_speaker
     game_speaker = (source_row.get("speaker") or "").strip()
     if game_speaker:
         translated_speaker = GAME_SPEAKER_EN_OVERRIDES.get(
@@ -45,7 +215,7 @@ def resolve_speaker(
             translated_speaker,
         )
 
-    return ("", "")
+    return inferred_speaker or ("", "")
 
 
 def compact_line(
@@ -53,8 +223,15 @@ def compact_line(
     target_row: dict[str, str],
     sequence: int,
     visual: dict[str, object] | None = None,
+    inferred_speaker: tuple[str, str] | None = None,
+    corrected_speaker: tuple[str, str] | None = None,
 ) -> dict[str, object]:
-    speaker_jp, speaker_en = resolve_speaker(source_row, target_row)
+    speaker_jp, speaker_en = resolve_speaker(
+        source_row,
+        target_row,
+        inferred_speaker=inferred_speaker,
+        corrected_speaker=corrected_speaker,
+    )
     result: dict[str, object] = {
         "id": target_row["line_id"],
         "i": sequence,
@@ -67,6 +244,85 @@ def compact_line(
     if visual:
         result.update(visual)
     return result
+
+
+def load_speaker_corrections(translation_root: Path) -> dict[str, tuple[str, str]]:
+    path = translation_root.parent / "editorial" / "speaker_label_corrections.tsv"
+    if not path.is_file():
+        return {}
+    corrections: dict[str, tuple[str, str]] = {}
+    for row in read_tsv(path):
+        corrections[row["line_id"]] = (
+            (row.get("corrected_speaker_jp") or "").strip(),
+            (row.get("corrected_speaker_en") or "").strip(),
+        )
+    return corrections
+
+
+def load_historic_speaker_attributions(
+    translation_root: Path,
+) -> dict[str, tuple[str, str]]:
+    """Recover production speaker markers omitted by the compact export.
+
+    The original text-asset audit retained UTAGE's preceding speaker command
+    on sustained conversations. The compact compiled master keeps fewer of
+    those commands. Align the two Japanese text streams by sheet and import
+    only exact text matches carrying a non-empty production speaker marker.
+    """
+    workspace_root = translation_root.parent
+    historic_path = workspace_root / "textassets_export/source_script_master.tsv"
+    current_path = workspace_root / "compiled_export/master_script.tsv"
+    manifest_path = translation_root / "chapter_manifest.tsv"
+    if not historic_path.is_file() or not current_path.is_file():
+        return {}
+
+    english_names: dict[str, str] = {}
+    for chapter in read_tsv(manifest_path):
+        for row in read_tsv(translation_root / chapter["target_file"]):
+            japanese = (row.get("speaker_jp") or "").strip()
+            english = (row.get("speaker_en") or "").strip()
+            if japanese and english:
+                previous = english_names.setdefault(japanese, english)
+                if previous != english:
+                    raise SystemExit(
+                        f"Conflicting standardized speaker name for {japanese!r}: "
+                        f"{previous!r} / {english!r}"
+                    )
+
+    historic_by_sheet: dict[str, list[dict[str, str]]] = defaultdict(list)
+    current_by_sheet: dict[str, list[dict[str, str]]] = defaultdict(list)
+    for row in read_tsv(historic_path):
+        if row.get("line_type") in {"dialogue", "narrative"}:
+            historic_by_sheet[row["asset"]].append(row)
+    for row in read_tsv(current_path):
+        if row.get("line_type") == "text":
+            current_by_sheet[row["sheet"]].append(row)
+
+    attributions: dict[str, tuple[str, str]] = {}
+    for sheet, current_rows in current_by_sheet.items():
+        historic_rows = historic_by_sheet.get(sheet, [])
+        matcher = SequenceMatcher(
+            None,
+            [row.get("jp_source", "") for row in historic_rows],
+            [row.get("jp_text", "") for row in current_rows],
+            autojunk=False,
+        )
+        for historic_start, current_start, length in matcher.get_matching_blocks():
+            for offset in range(length):
+                historic = historic_rows[historic_start + offset]
+                speaker = (historic.get("speaker") or "").strip()
+                if not speaker:
+                    continue
+                normalized = re.split(r"\s+[Aa]rg[23]=", speaker, maxsplit=1)[0]
+                english = english_names.get(normalized)
+                if not english:
+                    raise SystemExit(
+                        f"Historic speaker label lacks a standardized name: {speaker!r}"
+                    )
+                english = GAME_SPEAKER_EN_OVERRIDES.get(normalized, english)
+                current = current_rows[current_start + offset]
+                attributions[current["line_id"]] = (normalized, english)
+    return attributions
 
 
 def portrait_position(position: str) -> tuple[str, str, str]:
@@ -325,6 +581,8 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
     sync_scenario_progression(translation_root, output_root)
 
     visual_states = load_visual_states(translation_root)
+    speaker_corrections = load_speaker_corrections(translation_root)
+    historic_speakers = load_historic_speaker_attributions(translation_root)
     scenario_titles = read_scenario_titles(translation_root)
     chapters: list[dict[str, object]] = []
     translated_total = 0
@@ -344,15 +602,28 @@ def build(translation_root: Path, output_root: Path) -> dict[str, object]:
             for row in read_tsv(target_path)
             if (row.get("en_text") or "").strip()
         ]
-        translated = [
-            compact_line(
-                source_rows[row["line_id"]],
-                row,
-                sequence,
-                visual_states.get(row["line_id"]),
+        translated = []
+        for sequence, row in enumerate(translated_rows, start=1):
+            following = (
+                translated_rows[sequence]
+                if sequence < len(translated_rows)
+                else None
             )
-            for sequence, row in enumerate(translated_rows, start=1)
-        ]
+            inferred_speaker = inferred_speaker_from_following_attribution(
+                row,
+                following,
+            )
+            inferred_speaker = historic_speakers.get(row["line_id"], inferred_speaker)
+            translated.append(
+                compact_line(
+                    source_rows[row["line_id"]],
+                    row,
+                    sequence,
+                    visual_states.get(row["line_id"]),
+                    inferred_speaker=inferred_speaker,
+                    corrected_speaker=speaker_corrections.get(row["line_id"]),
+                )
+            )
         if not translated:
             continue
 

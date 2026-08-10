@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.5\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.5\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.6\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.6\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
-  assert.match(html, /10bb77b696691051f3bce25c4974c59c92d68274d3aaf3623773effb4eb567d4/);
+  assert.match(html, /4c90594e57adc57305dffaf2e7fe10ce44ab4d4a4a725c9b89b94186ed7a344d/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -81,7 +81,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   ));
   assert.equal(
     manifest.target_sha256,
-    "df226a2366c02f8c75e3a3a8e0c86d5483c12c698639ea19353c67d52bc842aa",
+    "d0300b1dac0eaefff2b5161d757aa5e61b7c53b3b5c45089d4fb6e756e5364f4",
   );
   const existingHookManifest = JSON.parse(await readFile(
     new URL(
@@ -119,6 +119,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(installer, /legacy_layout/);
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
+  assert.match(installer, /30759 dialogue rows verified/);
   assert.match(installer, /ExitProcess\(42\)/);
   assert.match(installer, /BSTGame\.exe/);
   assert.match(installer, /build-resolved-language-switch/);
@@ -194,7 +195,36 @@ test("generated chapter index agrees with its chapter files", async () => {
   assert.equal(lineById.get("A1:0258")?.se, "Michio Mido");
   assert.equal(lineById.get("A6:0801")?.se, "Wong Tianxiang");
   assert.equal(lineById.get("A6:0802")?.se, "Wong Tianming");
-  assert.equal(lineById.get("F1:0312")?.se, "Sashen'ka");
+  assert.equal(lineById.get("F1:0312")?.se, "");
+  assert.equal(
+    [...lineById.values()].filter((line) => line.se).length,
+    9104,
+  );
+
+  assert.equal(
+    lineById.get("x1:0156")?.en,
+    "A single groove ran across his exposed forehead.",
+  );
+  assert.match(lineById.get("x1:0157")?.en || "", /no ordinary groove/);
+  assert.match(lineById.get("x1:0159")?.en || "", /<tips=16>Type A<\/tips>/);
+  assert.match(lineById.get("E1:0024")?.en || "", /At birth, however, she was biologically male/);
+
+  assert.equal(lineById.get("A2-2:0299")?.se, "Kenjirou Shio");
+  assert.equal(lineById.get("A3:0040")?.se, "Xie Liang");
+  assert.equal(lineById.get("A3:0051")?.se, "Xie Liang");
+  assert.equal(lineById.get("B1:0718")?.se, "Kenjirou Shio");
+  assert.equal(lineById.get("X3-2:0842")?.se, "Liao Zhiming");
+  assert.equal(lineById.get("x12:0152")?.se, "Konta Tanaka");
+  assert.equal(lineById.get("X15-1:0162")?.se, "Honda");
+  assert.equal(lineById.get("A5:0068")?.se, "Xie Liang");
+  assert.equal(lineById.get("E4:0255")?.se, "Kuniaki Roji");
+  for (const narratorOrAmbiguous of [
+    "E5:0438",
+    "G2:0410",
+    "X13:0605",
+  ]) {
+    assert.equal(lineById.get(narratorOrAmbiguous)?.se, "");
+  }
 });
 
 test("repository JSON is pretty-printed for review", async () => {
