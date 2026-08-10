@@ -18,14 +18,14 @@ internal static class BstPackLauncher
     private static int Main(string[] args)
     {
         string root = AppDomain.CurrentDomain.BaseDirectory;
-        string player = Path.Combine(root, "BstPlayer.exe");
+        string player = Path.Combine(root, "BSTGame.exe");
         string languageRoot = Path.Combine(root, "BSTLanguage");
         string log = Path.Combine(languageRoot, "switch.log");
 
         try
         {
             if (!File.Exists(player))
-                throw new FileNotFoundException("The original BST player is missing.", player);
+                throw new FileNotFoundException("The internal BST Unity player is missing.", player);
 
             while (true)
             {
@@ -70,7 +70,7 @@ internal static class BstPackLauncher
     private static void InstallPack(string root, string languageRoot, string target)
     {
         string sourceData = Path.Combine(languageRoot, target, "Bst_Data");
-        string targetData = Path.Combine(root, "BstPlayer_Data");
+        string targetData = Path.Combine(root, "BSTGame_Data");
         foreach (string name in PackFiles)
         {
             string source = Path.Combine(sourceData, name);
@@ -100,7 +100,7 @@ internal static class BstPackLauncher
 
     private static string DetectCurrentPack(string root, string languageRoot)
     {
-        string active = Path.Combine(root, "BstPlayer_Data", "level0");
+        string active = Path.Combine(root, "BSTGame_Data", "level0");
         long activeLength = new FileInfo(active).Length;
         foreach (string code in new[] { "en", "ja" })
         {

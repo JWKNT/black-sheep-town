@@ -30,9 +30,21 @@ exit with an immediate native `ExitProcess(42)` request, so the launcher sees
 and restarts EN/JP switches reliably on Windows as well as CrossOver. Running
 1.0.4 over an existing install updates these native fixes in place.
 
+Version 1.0.5 removes two storefront-specific assumptions. Both `Bst.exe` and
+the legacy `BstPlayer.exe` entry point now pass through the pack launcher, while
+the internal Unity player runs as `BSTGame.exe`; Steam and direct shortcuts can
+therefore no longer bypass the restart handoff. The native patcher also locates
+`SystemUiDebugMenu.OnClickChangeLanguage` and the Windows `ExitProcess` import
+from each binary instead of assuming the original release's fixed addresses.
+Unknown layouts are rejected unless that callback is found exactly once.
+Running 1.0.5 over an existing installation migrates it in place and preserves
+the selected language.
+
 The repository contains binary differences, not the original game. You must
-own the Japanese Windows release. The installer verifies the source release
-and every rebuilt file before modifying the game.
+own the Japanese Windows release. The translated asset deltas still require
+compatible Japanese game data, but equivalent storefront/player executables
+and native layouts may vary. Every rebuilt file is verified before the game is
+modified.
 
 ## One-click installation
 

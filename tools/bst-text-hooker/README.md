@@ -59,7 +59,7 @@ Pass options to either launcher after its filename:
 --json                      print JSONL
 --raw                       keep UTAGE display tags
 --pid 1234                  attach to a specific process
---process OtherName.exe     override automatic BstPlayer.exe / Bst.exe detection
+--process OtherName.exe     override automatic BSTGame.exe / BstPlayer.exe / Bst.exe detection
 --wait 180                  wait longer for the game
 --log /path/to/Player.log   override automatic CrossOver-log discovery
 --frida                     use the legacy injection backend
@@ -68,5 +68,6 @@ Pass options to either launcher after its filename:
 The companion reads only newly appended exact-line records from Unity's
 `Player.log`.
 On CrossOver it automatically follows the newest BST log under the active
-bottle. On Windows the Frida backend detects either `BstPlayer.exe` or
-`Bst.exe`. Use `--log` when several BST bottles are running at once.
+bottle. On Windows the Frida backend detects the patcher's `BSTGame.exe` as
+well as legacy `BstPlayer.exe` and `Bst.exe` processes. Use `--log` when
+several BST bottles are running at once.

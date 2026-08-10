@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import hashlib
+import importlib.util
 import json
 import shlex
 import shutil
@@ -17,8 +18,11 @@ from delta_codec import apply_delta, sha256
 
 PATCHER = Path(__file__).resolve().parent
 PAYLOAD = PATCHER / "payload"
-ORIGINAL_PLAYER_SHA256 = "3c0e2eb91c2dcd5e52c6c21f38c8483a72eef45b670b32c3aa28bd7b73ea69b0"
-LAUNCHER_SHA256 = "9fd1c632581a0da899ce527e020453ac4c1f25cf1a597410e4f2e0e86bd852c0"
+# Updated by the maintainer build after compiling BstPackLauncher.cs.
+LAUNCHER_SHA256 = "e0573d0a24837e7c00c89c4cbfc7e980809da1ac5f14ebc1b1831401d62100e5"
+RUNTIME_EXE = "BSTGame.exe"
+RUNTIME_DATA = "BSTGame_Data"
+PUBLIC_EXES = ("Bst.exe", "BstPlayer.exe")
 PACK_FILES = (
     "level0",
     "sharedassets0.assets",
@@ -70,30 +74,47 @@ def discover_game(argument: Path | None) -> Path:
     return normalized_game_path(parse_dragged_path(input("> ")))
 
 
-def apply_compatible_delta(
-    source: Path,
-    patch_names: tuple[str, ...],
-    destination: Path,
-) -> dict[str, object]:
+def load_native_patcher():
+    path = PATCHER / "patch_native_runtime.py"
+    spec = importlib.util.spec_from_file_location("bst_patch_native_runtime", path)
+    if spec is None or spec.loader is None:
+        raise RuntimeError(f"Could not load {path}")
+    module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(module)
+    return module
+
+
+def build_native_runtime(source: Path, destination: Path) -> dict[str, object]:
+    """Use a verified full delta, or preserve an unknown build and patch its switch.
+
+    The full known-release deltas include the native Player.log hook.  Alternate
+    storefront players are accepted when their OnClickChangeLanguage callback
+    can be identified unambiguously; their existing native code is otherwise
+    left intact, so the separate Windows text hook remains usable.
+    """
     source_hash = sha256(source)
-    for patch_name in patch_names:
+    for patch_name in ASSEMBLY_PATCHES:
         manifest_path = PAYLOAD / patch_name / "manifest.json"
         if not manifest_path.is_file():
             continue
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         if manifest.get("source_sha256") == source_hash:
-            return apply_delta(source, PAYLOAD / patch_name, destination)
-    supported = ", ".join(
-        json.loads((PAYLOAD / name / "manifest.json").read_text(encoding="utf-8"))[
-            "source_sha256"
-        ][:12]
-        for name in patch_names
-        if (PAYLOAD / name / "manifest.json").is_file()
-    )
-    raise ValueError(
-        f"{source.name} is not a supported original or existing-hook build "
-        f"(found {source_hash[:12]}, expected one of {supported})"
-    )
+            result = apply_delta(source, PAYLOAD / patch_name, destination)
+            result["mode"] = "verified-full-runtime"
+            result["patch"] = patch_name
+            return result
+
+    native = load_native_patcher()
+    data = bytearray(source.read_bytes())
+    details = native.patch_language_switch(data)
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    destination.write_bytes(data)
+    return {
+        "source_sha256": source_hash,
+        "target_sha256": sha256(destination),
+        "mode": "build-resolved-language-switch",
+        **details,
+    }
 
 
 def validate_fresh(game: Path) -> None:
@@ -105,9 +126,9 @@ def validate_fresh(game: Path) -> None:
             f"{game} is not a fresh Windows BLACK SHEEP TOWN installation "
             "(Bst.exe, GameAssembly.dll, and Bst_Data are required)"
         )
-    if sha256(player) != ORIGINAL_PLAYER_SHA256:
-        raise ValueError("Bst.exe does not match the supported Japanese release")
-    if (game / "BstPlayer_Data").exists() or (game / "BSTLanguage").exists():
+    if player.read_bytes()[:2] != b"MZ":
+        raise ValueError("Bst.exe is not a Windows executable")
+    if any((game / name).exists() for name in ("BstPlayer_Data", RUNTIME_DATA, "BSTLanguage")):
         raise ValueError("This folder already contains the bilingual runtime")
 
 
@@ -147,9 +168,8 @@ def build_staging(game: Path, staging: Path) -> dict[str, object]:
         copy_verified(source_data / filename, japanese / filename)
 
     print("  Rebuilding native runtime hooks...")
-    results["patched-game-assembly"] = apply_compatible_delta(
+    results["patched-game-assembly"] = build_native_runtime(
         game / "GameAssembly.dll",
-        ASSEMBLY_PATCHES,
         staging / "GameAssembly.dll",
     )
     print("  Rebuilding localized runtime metadata...")
@@ -171,7 +191,7 @@ def build_staging(game: Path, staging: Path) -> dict[str, object]:
 
 def rollback_partial(game: Path) -> None:
     language = game / "BSTLanguage"
-    player_data = game / "BstPlayer_Data"
+    player_data = game / RUNTIME_DATA
     legacy_data = game / "Bst_Data"
     try:
         if language.is_dir() and player_data.is_dir():
@@ -184,7 +204,7 @@ def rollback_partial(game: Path) -> None:
         original_assembly = language / "backup/GameAssembly.dll.original"
         if original_assembly.is_file():
             shutil.copy2(original_assembly, game / "GameAssembly.dll")
-        original_player = game / "BstPlayer.exe"
+        original_player = game / RUNTIME_EXE
         if original_player.is_file():
             shutil.copy2(original_player, game / "Bst.exe")
         if player_data.is_dir() and not legacy_data.exists():
@@ -204,22 +224,23 @@ def install(game: Path) -> dict[str, object]:
         print("Building and verifying the complete patch (the large assets take a moment)...")
         results = build_staging(game, staging)
         data = game / "Bst_Data"
-        player_data = game / "BstPlayer_Data"
+        player_data = game / RUNTIME_DATA
         language = game / "BSTLanguage"
 
         print("Installing the verified bilingual runtime...")
-        shutil.copy2(game / "Bst.exe", game / "BstPlayer.exe")
+        shutil.copy2(game / "Bst.exe", game / RUNTIME_EXE)
         data.rename(player_data)
         (staging / "BSTLanguage").rename(language)
         for filename in PACK_FILES:
             shutil.copy2(language / "en/Bst_Data" / filename, player_data / filename)
         shutil.copy2(staging / "global-metadata.dat", player_data / METADATA_RELATIVE)
         shutil.copy2(staging / "GameAssembly.dll", game / "GameAssembly.dll")
-        shutil.copy2(PAYLOAD / "BstPackLauncher.exe", game / "Bst.exe")
+        for executable in PUBLIC_EXES:
+            shutil.copy2(PAYLOAD / "BstPackLauncher.exe", game / executable)
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.4",
+            "format": "bst-complete-patch-v1.0.5",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
@@ -228,7 +249,8 @@ def install(game: Path) -> dict[str, object]:
             "native_switch": "ExitProcess(42)",
             "files": {
                 "launcher": sha256(game / "Bst.exe"),
-                "player": sha256(game / "BstPlayer.exe"),
+                "legacy_launcher": sha256(game / "BstPlayer.exe"),
+                "player": sha256(game / RUNTIME_EXE),
                 "assembly": sha256(game / "GameAssembly.dll"),
                 "metadata": sha256(player_data / METADATA_RELATIVE),
                 "english_pack": {
@@ -260,9 +282,12 @@ def validate_installed(
     require_rollback: bool = False,
 ) -> tuple[Path, Path, Path]:
     language = game / "BSTLanguage"
-    player_data = game / "BstPlayer_Data"
+    player_data = game / RUNTIME_DATA
+    if not player_data.is_dir():
+        player_data = game / "BstPlayer_Data"
     backup = language / "backup"
-    if not language.is_dir() or not player_data.is_dir() or not (game / "BstPlayer.exe").is_file():
+    has_player = (game / RUNTIME_EXE).is_file() or (game / "BstPlayer.exe").is_file()
+    if not language.is_dir() or not player_data.is_dir() or not has_player:
         raise ValueError("This does not look like a supported bilingual build")
     required_files = [
         language / "current.txt",
@@ -285,8 +310,34 @@ def validate_installed(
     return language, player_data, backup
 
 
+def migrate_runtime_layout(game: Path, player_data: Path) -> Path:
+    """Make every public BST executable pass through the language launcher."""
+    runtime_player = game / RUNTIME_EXE
+    runtime_data = game / RUNTIME_DATA
+    if not runtime_player.is_file():
+        legacy_player = game / "BstPlayer.exe"
+        if not legacy_player.is_file() or sha256(legacy_player) == LAUNCHER_SHA256:
+            raise ValueError(
+                "The original Unity player is unavailable; cannot create the "
+                "direct-launch-safe runtime"
+            )
+        copy_verified(legacy_player, runtime_player)
+    if player_data != runtime_data:
+        if runtime_data.exists():
+            raise ValueError(f"Cannot migrate while {runtime_data} already exists")
+        player_data.rename(runtime_data)
+    launcher = PAYLOAD / "BstPackLauncher.exe"
+    if sha256(launcher) != LAUNCHER_SHA256:
+        raise ValueError("The language launcher payload is corrupt")
+    for executable in PUBLIC_EXES:
+        destination = game / executable
+        if not destination.is_file() or sha256(destination) != LAUNCHER_SHA256:
+            copy_verified(launcher, destination)
+    return runtime_data
+
+
 def refresh_native_runtime(game: Path) -> str:
-    """Install the current exact-line logger and reliable language exit."""
+    """Install the current exact-line logger/reliable exit when available."""
     assembly = game / "GameAssembly.dll"
     target_hash = json.loads(
         (PAYLOAD / "patched-game-assembly/manifest.json").read_text(encoding="utf-8")
@@ -294,20 +345,23 @@ def refresh_native_runtime(game: Path) -> str:
     if sha256(assembly) != target_hash:
         temporary = game / ".bst-patcher-runtime.dll"
         try:
-            apply_compatible_delta(assembly, ASSEMBLY_PATCHES, temporary)
+            build_native_runtime(assembly, temporary)
             temporary.replace(assembly)
         finally:
             temporary.unlink(missing_ok=True)
     launcher = PAYLOAD / "BstPackLauncher.exe"
     if sha256(launcher) != LAUNCHER_SHA256:
         raise ValueError("The language launcher payload is corrupt")
-    if sha256(game / "Bst.exe") != LAUNCHER_SHA256:
-        copy_verified(launcher, game / "Bst.exe")
-    return target_hash
+    for executable in PUBLIC_EXES:
+        destination = game / executable
+        if not destination.is_file() or sha256(destination) != LAUNCHER_SHA256:
+            copy_verified(launcher, destination)
+    return sha256(assembly)
 
 
 def update_installed(game: Path) -> dict[str, object]:
     language, player_data, backup = validate_installed(game)
+    player_data = migrate_runtime_layout(game, player_data)
     legacy_layout = not all(
         path.is_file()
         for path in (
@@ -342,7 +396,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.4",
+                "format": "bst-complete-patch-v1.0.5",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
@@ -403,7 +457,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.4",
+                "format": "bst-complete-patch-v1.0.5",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,
@@ -430,6 +484,7 @@ def update_installed(game: Path) -> dict[str, object]:
 
 def restore(game: Path) -> Path:
     language, player_data, backup = validate_installed(game, require_rollback=True)
+    player_data = migrate_runtime_layout(game, player_data)
 
     print("Restoring the verified Japanese runtime...")
     shutil.copy2(backup / "level0.original", player_data / "level0")
@@ -437,11 +492,18 @@ def restore(game: Path) -> Path:
         shutil.copy2(language / "ja/Bst_Data" / filename, player_data / filename)
     shutil.copy2(backup / "global-metadata.dat.original", player_data / METADATA_RELATIVE)
     shutil.copy2(backup / "GameAssembly.dll.original", game / "GameAssembly.dll")
-    shutil.copy2(game / "BstPlayer.exe", game / "Bst.exe")
+    shutil.copy2(game / RUNTIME_EXE, game / "Bst.exe")
     restored_data = game / "Bst_Data"
     if restored_data.exists():
         raise ValueError(f"Cannot restore while {restored_data} already exists")
     player_data.rename(restored_data)
+
+    # Retain the patcher-only executables with the other rollback material,
+    # leaving the root folder in the original one-player layout.
+    for name in ("BstPlayer.exe", RUNTIME_EXE):
+        source = game / name
+        if source.is_file():
+            source.rename(backup / f"{name}.patcher")
 
     archive = game / "BSTLanguage.patcher-backup"
     if archive.exists():

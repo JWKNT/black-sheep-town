@@ -19,7 +19,7 @@ from typing import Any
 
 
 ROOT = Path(__file__).resolve().parent
-DEFAULT_PROCESS_NAMES = ("BstPlayer.exe", "Bst.exe")
+DEFAULT_PROCESS_NAMES = ("BSTGame.exe", "BstPlayer.exe", "Bst.exe")
 RUBY_RE = re.compile(r"<ruby=[^>]*>(.*?)</ruby>", re.DOTALL | re.IGNORECASE)
 HTML_RE = re.compile(r"</?(?:b|i|u|size|color|font)(?:=[^>]*)?>", re.IGNORECASE)
 TAG_RE = re.compile(r"<[^>]+>")
@@ -290,7 +290,7 @@ def parse_args() -> argparse.Namespace:
         "--process", action="append", metavar="NAME",
         help=(
             "Frida process name; may be repeated "
-            "(default: auto-detect BstPlayer.exe or Bst.exe)"
+            "(default: auto-detect BSTGame.exe, BstPlayer.exe, or Bst.exe)"
         ),
     )
     parser.add_argument("--pid", type=int, help="attach to an exact process ID")

@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.4\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.4\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.5\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.5\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.2\/BST-Text-Hooker-v1\.0\.2\.zip/);
-  assert.match(html, /2fd987bf132a4f4042a23a4e848a8950116d988db3f878139e48df4790cc57c8/);
+  assert.match(html, /10bb77b696691051f3bce25c4974c59c92d68274d3aaf3623773effb4eb567d4/);
   assert.match(html, /5a90d8592d1387f2101967ddc70d77899e4ec3153edac2d1c8a0435dce01174e/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -120,6 +120,14 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
   assert.match(installer, /ExitProcess\(42\)/);
+  assert.match(installer, /BSTGame\.exe/);
+  assert.match(installer, /build-resolved-language-switch/);
+  const nativePatcher = await readFile(
+    new URL("tools/bst-complete-patcher/patch_native_runtime.py", root),
+    "utf8",
+  );
+  assert.match(nativePatcher, /find_language_callback_tail/);
+  assert.match(nativePatcher, /find_import_iat_va/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

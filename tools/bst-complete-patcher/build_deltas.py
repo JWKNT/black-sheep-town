@@ -12,13 +12,13 @@ from delta_codec import create_delta
 
 
 FILES = {
-    "english-level0": ("Bst_Data/level0", "BstPlayer_Data/level0"),
-    "english-sharedassets0": ("Bst_Data/sharedassets0.assets", "BstPlayer_Data/sharedassets0.assets"),
-    "english-resources-assets": ("Bst_Data/resources.assets", "BstPlayer_Data/resources.assets"),
-    "english-resources-resource": ("Bst_Data/resources.resource", "BstPlayer_Data/resources.resource"),
+    "english-level0": ("Bst_Data/level0", "BSTGame_Data/level0"),
+    "english-sharedassets0": ("Bst_Data/sharedassets0.assets", "BSTGame_Data/sharedassets0.assets"),
+    "english-resources-assets": ("Bst_Data/resources.assets", "BSTGame_Data/resources.assets"),
+    "english-resources-resource": ("Bst_Data/resources.resource", "BSTGame_Data/resources.resource"),
     "english-global-metadata": (
         "Bst_Data/il2cpp_data/Metadata/global-metadata.dat",
-        "BstPlayer_Data/il2cpp_data/Metadata/global-metadata.dat",
+        "BSTGame_Data/il2cpp_data/Metadata/global-metadata.dat",
     ),
     "patched-game-assembly": ("GameAssembly.dll", "GameAssembly.dll"),
 }
