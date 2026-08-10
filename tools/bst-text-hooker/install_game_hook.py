@@ -19,6 +19,7 @@ SCENARIO_PAGE_GET_PAGE_NO_VA = 0x18098C740
 PAGE_SET_TEXT_VA = 0x182232570
 ADV_SELECTION_SET_TEXT_VA = 0x1801C9B10
 ADV_SELECTION_SET_EXPRESSION_VA = 0x1801C89F0
+ADV_COMMAND_PARSE_LOCALIZED_TEXT_VA = 0x180E2C600
 
 DIALOGUE_PATCH_VA = 0x1809897CA
 CHOICE_PATCH_VA = 0x180BAA26B
@@ -74,7 +75,7 @@ def rel32(opcode_va: int, target_va: int) -> bytes:
     return b"\xE8" + struct.pack("<i", target_va - (opcode_va + 5))
 
 
-def dialogue_hook() -> bytes:
+def cumulative_dialogue_hook() -> bytes:
     code = bytearray()
     code += bytes.fromhex("33 d2 48 8b 8c 24 d0 00 00 00")
     code += rel32(DIALOGUE_PATCH_VA + len(code), ADV_PAGE_GET_CURRENT_DATA_VA)
@@ -85,6 +86,31 @@ def dialogue_hook() -> bytes:
     code += rel32(DIALOGUE_PATCH_VA + len(code), ADV_PAGE_GET_TEXT_DATA_VA)
     code += bytes.fromhex("48 89 c1 33 d2")
     code += rel32(DIALOGUE_PATCH_VA + len(code), TEXT_DATA_GET_ORIGINAL_VA)
+    code += bytes.fromhex("48 89 c1 33 d2")
+    code += rel32(DIALOGUE_PATCH_VA + len(code), DEBUG_LOG_VA)
+    code += bytes.fromhex(
+        "33 c0 48 89 44 24 20 41 89 f9 "
+        "4c 8b 84 24 a8 00 00 00 "
+        "48 8b 94 24 a0 00 00 00 "
+        "48 8b 8c 24 98 00 00 00"
+    )
+    code += rel32(DIALOGUE_PATCH_VA + len(code), PAGE_SET_TEXT_VA)
+    code += b"\x90" * (len(DIALOGUE_ORIGINAL) - len(code))
+    if len(code) != len(DIALOGUE_ORIGINAL):
+        raise RuntimeError("Dialogue hook size mismatch")
+    return bytes(code)
+
+
+def dialogue_hook() -> bytes:
+    """Log the exact AdvCommandText being advanced, not the cumulative page."""
+    code = bytearray()
+    code += bytes.fromhex("33 d2 48 8b 8c 24 d0 00 00 00")
+    code += rel32(DIALOGUE_PATCH_VA + len(code), ADV_PAGE_GET_CURRENT_DATA_VA)
+    code += bytes.fromhex("48 89 c1 33 d2")
+    code += rel32(DIALOGUE_PATCH_VA + len(code), SCENARIO_PAGE_GET_PAGE_NO_VA)
+    code += bytes.fromhex("89 c7")
+    code += bytes.fromhex("48 8b 8c 24 d8 00 00 00 33 d2")
+    code += rel32(DIALOGUE_PATCH_VA + len(code), ADV_COMMAND_PARSE_LOCALIZED_TEXT_VA)
     code += bytes.fromhex("48 89 c1 33 d2")
     code += rel32(DIALOGUE_PATCH_VA + len(code), DEBUG_LOG_VA)
     code += bytes.fromhex(
@@ -117,11 +143,16 @@ def choice_hook() -> bytes:
 
 
 def patch_region(
-    data: bytearray, va: int, original: bytes, replacement: bytes, label: str
+    data: bytearray,
+    va: int,
+    originals: bytes | tuple[bytes, ...],
+    replacement: bytes,
+    label: str,
 ) -> None:
     offset = va_to_offset(data, va)
-    current = bytes(data[offset : offset + len(original)])
-    if current not in (original, replacement):
+    supported = (originals,) if isinstance(originals, bytes) else originals
+    current = bytes(data[offset : offset + len(replacement)])
+    if current not in (*supported, replacement):
         raise RuntimeError(
             f"Unsupported GameAssembly.dll: unexpected {label} bytes at {va:#x}"
         )
@@ -135,7 +166,13 @@ def install(game: Path) -> dict[str, object]:
         raise FileNotFoundError(f"GameAssembly.dll was not found in {game}")
 
     data = bytearray(assembly.read_bytes())
-    patch_region(data, DIALOGUE_PATCH_VA, DIALOGUE_ORIGINAL, dialogue_hook(), "dialogue")
+    patch_region(
+        data,
+        DIALOGUE_PATCH_VA,
+        (DIALOGUE_ORIGINAL, cumulative_dialogue_hook()),
+        dialogue_hook(),
+        "dialogue",
+    )
     patch_region(data, CHOICE_PATCH_VA, CHOICE_ORIGINAL, choice_hook(), "choice")
 
     backup = assembly.with_name("GameAssembly.dll.pre-bst-text-hook")

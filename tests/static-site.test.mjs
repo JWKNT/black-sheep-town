@@ -66,10 +66,10 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.3\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.3\.zip/);
-  assert.match(html, /bst-text-hooker-v1\.0\.1\/BST-Text-Hooker-v1\.0\.1\.zip/);
-  assert.match(html, /2e64aadc27b43ab056fea25578d03454b6880378c2635e7764546b494f423418/);
-  assert.match(html, /c82d5658929b20e9ff0a4d0b085499974de89e4f3719673dabbcb616244a3d52/);
+  assert.match(html, /bst-english-patcher-v1\.0\.4\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.4\.zip/);
+  assert.match(html, /bst-text-hooker-v1\.0\.2\/BST-Text-Hooker-v1\.0\.2\.zip/);
+  assert.match(html, /2fd987bf132a4f4042a23a4e848a8950116d988db3f878139e48df4790cc57c8/);
+  assert.match(html, /5a90d8592d1387f2101967ddc70d77899e4ec3153edac2d1c8a0435dce01174e/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
 });
@@ -96,8 +96,20 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   );
   assert.equal(
     existingHookManifest.target_sha256,
+    "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
+  );
+  const previousPatchManifest = JSON.parse(await readFile(
+    new URL(
+      "tools/bst-complete-patcher/payload/patched-game-assembly-v1.0.3/manifest.json",
+      root,
+    ),
+    "utf8",
+  ));
+  assert.equal(
+    previousPatchManifest.source_sha256,
     "71af44505f02ee81c97f81806be283d61b8f59174aba82b1ad17f4f99dda469d",
   );
+  assert.equal(previousPatchManifest.target_sha256, existingHookManifest.target_sha256);
   const installer = await readFile(
     new URL("tools/bst-complete-patcher/install_bst_patch.py", root),
     "utf8",
@@ -107,6 +119,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(installer, /legacy_layout/);
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
+  assert.match(installer, /ExitProcess\(42\)/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

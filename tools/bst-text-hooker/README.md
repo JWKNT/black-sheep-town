@@ -11,6 +11,11 @@ It does not inject into CrossOver (macOS blocks that attachment). It captures:
 - the most recently progressed dialogue or narration entry (not the whole page);
 - selection text.
 
+Version 1.0.2 reads the current `AdvCommandText` directly. Earlier builds read
+UTAGE's aggregate page buffer, which could send a whole page to the hooker at
+once. Re-run `install_game_hook.py`, or update to complete patcher 1.0.4, before
+using the macOS log backend.
+
 ## Install the game hook
 
 Make a backup of the game, close it completely, and run this once from the
@@ -60,8 +65,8 @@ Pass options to either launcher after its filename:
 --frida                     use the legacy injection backend
 ```
 
-The companion reads only newly appended hook records from Unity's `Player.log`
-and reduces each cumulative UTAGE page snapshot to its newest progressed entry.
+The companion reads only newly appended exact-line records from Unity's
+`Player.log`.
 On CrossOver it automatically follows the newest BST log under the active
 bottle. On Windows the Frida backend detects either `BstPlayer.exe` or
 `Bst.exe`. Use `--log` when several BST bottles are running at once.

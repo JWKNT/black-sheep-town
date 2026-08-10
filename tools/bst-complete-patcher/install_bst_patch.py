@@ -34,6 +34,9 @@ ENGLISH_PATCHES = {
 ASSEMBLY_PATCHES = (
     "patched-game-assembly",
     "patched-game-assembly-existing-hook",
+    "patched-game-assembly-v1.0.3",
+    "patched-game-assembly-exact-hook",
+    "patched-game-assembly-exact-hook-switch",
 )
 METADATA_RELATIVE = Path("il2cpp_data/Metadata/global-metadata.dat")
 
@@ -216,12 +219,13 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.3",
+            "format": "bst-complete-patch-v1.0.4",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
             "text_hook": "Unity Player.log dialogue and choices",
             "portrait_fix": "6348 active portrait rows verified",
+            "native_switch": "ExitProcess(42)",
             "files": {
                 "launcher": sha256(game / "Bst.exe"),
                 "player": sha256(game / "BstPlayer.exe"),
@@ -281,6 +285,27 @@ def validate_installed(
     return language, player_data, backup
 
 
+def refresh_native_runtime(game: Path) -> str:
+    """Install the current exact-line logger and reliable language exit."""
+    assembly = game / "GameAssembly.dll"
+    target_hash = json.loads(
+        (PAYLOAD / "patched-game-assembly/manifest.json").read_text(encoding="utf-8")
+    )["target_sha256"]
+    if sha256(assembly) != target_hash:
+        temporary = game / ".bst-patcher-runtime.dll"
+        try:
+            apply_compatible_delta(assembly, ASSEMBLY_PATCHES, temporary)
+            temporary.replace(assembly)
+        finally:
+            temporary.unlink(missing_ok=True)
+    launcher = PAYLOAD / "BstPackLauncher.exe"
+    if sha256(launcher) != LAUNCHER_SHA256:
+        raise ValueError("The language launcher payload is corrupt")
+    if sha256(game / "Bst.exe") != LAUNCHER_SHA256:
+        copy_verified(launcher, game / "Bst.exe")
+    return target_hash
+
+
 def update_installed(game: Path) -> dict[str, object]:
     language, player_data, backup = validate_installed(game)
     legacy_layout = not all(
@@ -312,17 +337,20 @@ def update_installed(game: Path) -> dict[str, object]:
             for filename in PACK_FILES:
                 if sha256(player_data / filename) != target_hashes[filename]:
                     copy_verified(old_english / filename, player_data / filename)
+        runtime_hash = refresh_native_runtime(game)
         report_path = language / "install-report.json"
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.3",
+                "format": "bst-complete-patch-v1.0.4",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
                 "legacy_layout": legacy_layout,
+                "native_switch": "ExitProcess(42)",
             }
         )
+        report.setdefault("files", {})["assembly"] = runtime_hash
         report_path.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
         print("The corrected English asset pack is already current.")
         return report
@@ -369,19 +397,23 @@ def update_installed(game: Path) -> dict[str, object]:
             for filename in PACK_FILES:
                 copy_verified(old_english / filename, player_data / filename)
 
+        runtime_hash = refresh_native_runtime(game)
+
         report_path = language / "install-report.json"
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.3",
+                "format": "bst-complete-patch-v1.0.4",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
                 "legacy_layout": legacy_layout,
+                "native_switch": "ExitProcess(42)",
             }
         )
         files = report.setdefault("files", {})
+        files["assembly"] = runtime_hash
         files["english_pack"] = {
             name: sha256(old_english / name) for name in PACK_FILES
         }

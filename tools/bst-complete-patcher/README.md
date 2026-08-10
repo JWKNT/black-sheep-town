@@ -24,6 +24,12 @@ pack or selectively rebuild changed English assets from the retained Japanese
 pack. Full `--restore` remains available only when the original rollback files
 exist.
 
+Version 1.0.4 changes the hook from UTAGE's cumulative page buffer to the exact
+text command advanced on each click. It also makes the Settings language button
+exit with an immediate native `ExitProcess(42)` request, so the launcher sees
+and restarts EN/JP switches reliably on Windows as well as CrossOver. Running
+1.0.4 over an existing install updates these native fixes in place.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The installer verifies the source release
 and every rebuilt file before modifying the game.

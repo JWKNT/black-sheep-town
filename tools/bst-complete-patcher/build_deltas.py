@@ -30,6 +30,9 @@ def main() -> None:
     parser.add_argument("current", type=Path)
     parser.add_argument("--pristine-assembly", type=Path)
     parser.add_argument("--existing-hook-assembly", type=Path)
+    parser.add_argument("--previous-patched-assembly", type=Path)
+    parser.add_argument("--exact-hook-assembly", type=Path)
+    parser.add_argument("--exact-hook-switch-assembly", type=Path)
     parser.add_argument("--output", type=Path, default=Path(__file__).with_name("payload"))
     args = parser.parse_args()
     japanese = args.japanese.resolve()
@@ -69,6 +72,28 @@ def main() -> None:
             current / "GameAssembly.dll",
             destination,
         )
+    if args.previous_patched_assembly:
+        destination = output / "patched-game-assembly-v1.0.3"
+        if destination.exists():
+            shutil.rmtree(destination)
+        report["patched-game-assembly-v1.0.3"] = create_delta(
+            args.previous_patched_assembly.resolve(),
+            current / "GameAssembly.dll",
+            destination,
+        )
+    for name, source in (
+        ("patched-game-assembly-exact-hook", args.exact_hook_assembly),
+        ("patched-game-assembly-exact-hook-switch", args.exact_hook_switch_assembly),
+    ):
+        if source:
+            destination = output / name
+            if destination.exists():
+                shutil.rmtree(destination)
+            report[name] = create_delta(
+                source.resolve(),
+                current / "GameAssembly.dll",
+                destination,
+            )
     (output / "build-report.json").write_text(
         json.dumps(report, indent=2) + "\n", encoding="utf-8"
     )

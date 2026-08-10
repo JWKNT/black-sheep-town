@@ -1,23 +1,14 @@
 {
   "format": "bst-delta-v1",
   "source_size": 52463616,
-  "source_sha256": "02259b4974560eca2de6e49d0837ab0dbd56c0b3fdbdf84ddf6d85bd9cebf66c",
+  "source_sha256": "2570f44e714018566000e548aa9bc2a9a5e92f6b8bdae7e753ddcc41c5b2d8b6",
   "target_size": 52463616,
   "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
   "operations": [
     [
       "copy",
       0,
-      9986064
-    ],
-    [
-      "literal",
-      38794
-    ],
-    [
-      "copy",
-      10024858,
-      165452
+      10190310
     ],
     [
       "literal",
@@ -38,13 +29,13 @@
       38620556
     ]
   ],
-  "literal_bytes": 219392,
-  "copied_bytes": 52244224,
+  "literal_bytes": 180598,
+  "copied_bytes": 52283018,
   "parts": [
     {
       "name": "literals.zlib.001",
-      "size": 73494,
-      "sha256": "a987626f0ed22e33beb05e8ff51fd71452626b7cab6770ab7034eaa3c4072a02"
+      "size": 61667,
+      "sha256": "9e03b41581ad77d3bbda681de8fa2edf733cf98b7874df2bf9693bcf6740cc0d"
     }
   ]
 }

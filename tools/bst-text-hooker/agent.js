@@ -31,9 +31,11 @@ function readIl2CppString(value) {
   return value.add(0x14).readUtf16String(length) || '';
 }
 
-function emitText(kind, speaker, text, scenario) {
+function emitText(kind, speaker, text, scenario, cumulative) {
   if (!text) return;
-  const payload = JSON.stringify([kind, speaker || '', text, scenario || '']);
+  const payload = JSON.stringify([
+    kind, speaker || '', text, scenario || '', cumulative === true
+  ]);
   if (payload === lastPayload) return;
   lastPayload = payload;
   send({
@@ -41,7 +43,8 @@ function emitText(kind, speaker, text, scenario) {
     kind: kind,
     speaker: speaker || '',
     text: text,
-    scenario: scenario || ''
+    scenario: scenario || '',
+    cumulative: cumulative === true
   });
 }
 
@@ -139,27 +142,49 @@ function installHooks(gameAssembly) {
   }
 
   const pageClass = getClass('Utage', 'AdvPage');
+  const commandClass = getClass('Utage', 'AdvCommand');
   const textDataClass = getClass('Utage', 'TextData');
   const updatePage = method(pageClass, 'UpdatePageTextData', 1, 'AdvCommandText');
   const pageTextData = getter(pageClass, 'get_TextData');
   const pageNameText = getter(pageClass, 'get_NameText');
   const pageScenario = getter(pageClass, 'get_ScenarioLabel');
   const originalText = getter(textDataClass, 'get_OriginalText');
+  const commandText = getter(commandClass, 'ParseCellLocalizedText');
 
   Interceptor.attach(updatePage.pointer, {
     onEnter(args) {
       this.page = args[0];
+      this.text = '';
+      try {
+        const command = args[1];
+        if (!command.isNull()) {
+          this.text = readIl2CppString(commandText.invoke(command, commandText.info));
+        }
+      } catch (error) {
+        failure(error);
+      }
     },
     onLeave() {
       try {
         if (!this.page || this.page.isNull()) return;
-        const data = pageTextData.invoke(this.page, pageTextData.info);
-        if (data.isNull()) return;
+        // UpdatePageTextData receives the exact AdvCommandText being advanced.
+        // Reading the page's TextData here returns every command accumulated on
+        // that page, which is useful for rendering but wrong for a text hook.
+        // Retain the aggregate lookup only as a compatibility fallback.
+        let text = this.text;
+        let cumulative = false;
+        if (!text) {
+          const data = pageTextData.invoke(this.page, pageTextData.info);
+          if (data.isNull()) return;
+          text = readIl2CppString(originalText.invoke(data, originalText.info));
+          cumulative = true;
+        }
         emitText(
           'dialogue',
           readIl2CppString(pageNameText.invoke(this.page, pageNameText.info)),
-          readIl2CppString(originalText.invoke(data, originalText.info)),
-          readIl2CppString(pageScenario.invoke(this.page, pageScenario.info))
+          text,
+          readIl2CppString(pageScenario.invoke(this.page, pageScenario.info)),
+          cumulative
         );
       } catch (error) {
         failure(error);
@@ -175,7 +200,7 @@ function installHooks(gameAssembly) {
       try {
         // Native IL2CPP instance methods receive `this` first.  AddSelection's
         // first declared argument is its jump label, and the second is its text.
-        emitText('choice', '', readIl2CppString(args[2]), '');
+        emitText('choice', '', readIl2CppString(args[2]), '', false);
       } catch (error) {
         failure(error);
       }

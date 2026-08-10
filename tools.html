@@ -35,50 +35,50 @@
         <article class="tool-card">
           <header class="tool-card-heading">
             <div>
-              <p class="tool-version">v1.0.3 · 69.6 MB</p>
+              <p class="tool-version">v1.0.4 · 69.7 MB</p>
               <h2>English / Japanese patch</h2>
             </div>
             <span class="tool-status">Complete build</span>
           </header>
-          <p>Converts a verified Japanese installation into the current translated build. It includes the final script, glossary, menus, images, verified character portraits, text-hook support, and immediate full-game EN/JP switching. Version 1.0.3 accepts current and legacy bilingual builds, the supported text-hooked Japanese layout, and paths dragged into macOS Terminal.</p>
+          <p>Converts a verified Japanese installation into the current translated build. It includes the final script, glossary, menus, images, verified character portraits, text-hook support, and immediate full-game EN/JP switching. Version 1.0.4 captures one text command per advance and makes native Windows language-switch restarts reliable; it updates existing bilingual installs in place.</p>
           <ol class="tool-steps">
             <li>Extract the archive beside a Japanese game folder or an existing patcher installation.</li>
             <li>Run <code>Install BST English Patch.command</code> on macOS or the <code>.bat</code> launcher on Windows.</li>
             <li>Drag the game folder into the prompt. Launch <code>Bst.exe</code> when it finishes.</li>
           </ol>
           <div class="tool-actions">
-            <a class="primary-action" href="https://github.com/JWKNT/black-sheep-town/releases/download/bst-english-patcher-v1.0.3/BLACK-SHEEP-TOWN-English-Patcher-v1.0.3.zip">Download patcher</a>
-            <a href="https://github.com/JWKNT/black-sheep-town/releases/tag/bst-english-patcher-v1.0.3">Release notes</a>
+            <a class="primary-action" href="https://github.com/JWKNT/black-sheep-town/releases/download/bst-english-patcher-v1.0.4/BLACK-SHEEP-TOWN-English-Patcher-v1.0.4.zip">Download patcher</a>
+            <a href="https://github.com/JWKNT/black-sheep-town/releases/tag/bst-english-patcher-v1.0.4">Release notes</a>
           </div>
           <details class="tool-details">
             <summary>Verification and rollback</summary>
             <p>The installer checks the Japanese source and every rebuilt file before changing the game. Run it with <code>--restore</code> to return to the original Japanese executable and data layout.</p>
-            <p class="tool-hash"><span>SHA-256</span> <code>2e64aadc27b43ab056fea25578d03454b6880378c2635e7764546b494f423418</code></p>
+            <p class="tool-hash"><span>SHA-256</span> <code>2fd987bf132a4f4042a23a4e848a8950116d988db3f878139e48df4790cc57c8</code></p>
           </details>
         </article>
 
         <article class="tool-card">
           <header class="tool-card-heading">
             <div>
-              <p class="tool-version">v1.0.1 · 11.2 KB</p>
+              <p class="tool-version">v1.0.2 · 11.8 KB</p>
               <h2>BST text hooker</h2>
             </div>
             <span class="tool-status">JP or EN</span>
           </header>
-          <p>Captures finished dialogue, narration, and choices that ordinary text hookers miss. On CrossOver it follows BST’s Unity log and copies each new line to the clipboard.</p>
+          <p>Captures dialogue, narration, and choices that ordinary text hookers miss. Version 1.0.2 reads the exact UTAGE command advanced on each click instead of returning the full page.</p>
           <ol class="tool-steps">
             <li>The complete patch above already includes the game-side hook. For an untouched Japanese build, run <code>install_game_hook.py</code> once while the game is closed.</li>
             <li>Start the game, then run <code>Run BST Text Hooker.command</code> or <code>Run BST Text Hooker.bat</code>.</li>
             <li>Advance normally; captured lines appear in the terminal and clipboard.</li>
           </ol>
           <div class="tool-actions">
-            <a class="primary-action" href="https://github.com/JWKNT/black-sheep-town/releases/download/bst-text-hooker-v1.0.1/BST-Text-Hooker-v1.0.1.zip">Download text hooker</a>
-            <a href="https://github.com/JWKNT/black-sheep-town/releases/tag/bst-text-hooker-v1.0.1">Release notes</a>
+            <a class="primary-action" href="https://github.com/JWKNT/black-sheep-town/releases/download/bst-text-hooker-v1.0.2/BST-Text-Hooker-v1.0.2.zip">Download text hooker</a>
+            <a href="https://github.com/JWKNT/black-sheep-town/releases/tag/bst-text-hooker-v1.0.2">Release notes</a>
           </div>
           <details class="tool-details">
             <summary>Compatibility and options</summary>
             <p>No BepInEx installation is needed. The hooker supports readable output, JSONL history, raw UTAGE markup, clipboard-free mode, and an explicit Player.log path.</p>
-            <p class="tool-hash"><span>SHA-256</span> <code>c82d5658929b20e9ff0a4d0b085499974de89e4f3719673dabbcb616244a3d52</code></p>
+            <p class="tool-hash"><span>SHA-256</span> <code>5a90d8592d1387f2101967ddc70d77899e4ec3153edac2d1c8a0435dce01174e</code></p>
           </details>
         </article>
       </section>

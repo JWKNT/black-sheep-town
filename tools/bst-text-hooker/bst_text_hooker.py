@@ -80,10 +80,12 @@ class Output:
         speaker = str(payload.get("speaker", ""))
         text = str(payload.get("text", ""))
         scenario = str(payload.get("scenario", ""))
-        if kind == "dialogue":
+        if kind == "dialogue" and bool(payload.get("cumulative", False)):
             page_text = text
             text = latest_progressed_text(self.dialogue_page, page_text)
             self.dialogue_page = page_text
+        elif kind == "dialogue":
+            self.dialogue_page = ""
         if not self.raw:
             speaker = clean_text(speaker)
             text = clean_text(text)
@@ -154,14 +156,26 @@ def self_test() -> None:
         "UnityEngine.Debug:Log(Object)",
         "Utage.AdvPage:UpdatePageTextData()",
     ])
-    assert dialogue == {"kind": "dialogue", "speaker": "", "text": "誰もが、ここからいなくなる。", "scenario": ""}
+    assert dialogue == {
+        "kind": "dialogue",
+        "speaker": "",
+        "text": "誰もが、ここからいなくなる。",
+        "scenario": "",
+        "cumulative": False,
+    }
     choice = parse_unity_log_record([
         "進む",
         "UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)",
         "UnityEngine.Debug:Log(Object)",
         "Utage.AdvSelectionManager:AddSelection(String)",
     ])
-    assert choice == {"kind": "choice", "speaker": "", "text": "進む", "scenario": ""}
+    assert choice == {
+        "kind": "choice",
+        "speaker": "",
+        "text": "進む",
+        "scenario": "",
+        "cumulative": False,
+    }
     assert parse_unity_log_record([
         "BloodEffects Save:True",
         "UnityEngine.DebugLogHandler:Internal_Log(LogType, LogOption, String, Object)",
@@ -170,7 +184,7 @@ def self_test() -> None:
     print("BST Text Hooker self-test passed")
 
 
-def parse_unity_log_record(lines: list[str]) -> dict[str, str] | None:
+def parse_unity_log_record(lines: list[str]) -> dict[str, Any] | None:
     """Return only records emitted by BST's two patched text call sites."""
     stack_start = next(
         (index for index, item in enumerate(lines)
@@ -190,6 +204,7 @@ def parse_unity_log_record(lines: list[str]) -> dict[str, str] | None:
         "speaker": "",
         "text": message,
         "scenario": "",
+        "cumulative": False,
     }
 
 
