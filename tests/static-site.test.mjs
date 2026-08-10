@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.2\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.2\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.3\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.3\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.1\/BST-Text-Hooker-v1\.0\.1\.zip/);
-  assert.match(html, /7492818907506265a11bd707ad2797aef7e0c7badd4b30ed02b5d95543250386/);
+  assert.match(html, /2e64aadc27b43ab056fea25578d03454b6880378c2635e7764546b494f423418/);
   assert.match(html, /c82d5658929b20e9ff0a4d0b085499974de89e4f3719673dabbcb616244a3d52/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -103,6 +103,8 @@ test("complete patch payload contains the portrait-corrected English asset", asy
     "utf8",
   );
   assert.match(installer, /def update_installed\(/);
+  assert.match(installer, /require_rollback/);
+  assert.match(installer, /legacy_layout/);
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
 });

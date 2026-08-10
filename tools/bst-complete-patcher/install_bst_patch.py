@@ -216,7 +216,7 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.2",
+            "format": "bst-complete-patch-v1.0.3",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
@@ -251,20 +251,31 @@ def install(game: Path) -> dict[str, object]:
             shutil.rmtree(staging)
 
 
-def validate_installed(game: Path) -> tuple[Path, Path, Path]:
+def validate_installed(
+    game: Path,
+    require_rollback: bool = False,
+) -> tuple[Path, Path, Path]:
     language = game / "BSTLanguage"
     player_data = game / "BstPlayer_Data"
     backup = language / "backup"
     if not language.is_dir() or not player_data.is_dir() or not (game / "BstPlayer.exe").is_file():
-        raise ValueError("This does not look like a patcher-installed bilingual build")
-    for required in (
-        backup / "GameAssembly.dll.original",
-        backup / "global-metadata.dat.original",
-        backup / "level0.original",
+        raise ValueError("This does not look like a supported bilingual build")
+    required_files = [
+        language / "current.txt",
+        *(language / "en/Bst_Data" / name for name in PACK_FILES),
         language / "ja/Bst_Data/sharedassets0.assets",
         language / "ja/Bst_Data/resources.assets",
         language / "ja/Bst_Data/resources.resource",
-    ):
+    ]
+    if require_rollback:
+        required_files.extend(
+            (
+                backup / "GameAssembly.dll.original",
+                backup / "global-metadata.dat.original",
+                backup / "level0.original",
+            )
+        )
+    for required in required_files:
         if not required.is_file():
             raise ValueError(f"Installed patch source is missing: {required}")
     return language, player_data, backup
@@ -272,6 +283,14 @@ def validate_installed(game: Path) -> tuple[Path, Path, Path]:
 
 def update_installed(game: Path) -> dict[str, object]:
     language, player_data, backup = validate_installed(game)
+    legacy_layout = not all(
+        path.is_file()
+        for path in (
+            backup / "GameAssembly.dll.original",
+            backup / "global-metadata.dat.original",
+            backup / "level0.original",
+        )
+    )
     current_file = language / "current.txt"
     current_language = current_file.read_text(encoding="ascii").strip().lower()
     if current_language not in {"en", "ja"}:
@@ -297,10 +316,11 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.2",
+                "format": "bst-complete-patch-v1.0.3",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
+                "legacy_layout": legacy_layout,
             }
         )
         report_path.write_text(json.dumps(report, indent=2) + "\n", encoding="utf-8")
@@ -316,21 +336,33 @@ def update_installed(game: Path) -> dict[str, object]:
         print("Rebuilding and verifying the corrected English asset pack...")
         results: dict[str, object] = {}
         for filename, patch_name in ENGLISH_PATCHES.items():
+            destination = english / filename
+            if (
+                (old_english / filename).is_file()
+                and sha256(old_english / filename) == target_hashes[filename]
+            ):
+                copy_verified(old_english / filename, destination)
+                continue
             source = (
                 backup / "level0.original"
                 if filename == "level0"
                 else language / "ja/Bst_Data" / filename
             )
+            if not source.is_file():
+                raise ValueError(
+                    f"Cannot rebuild legacy {filename}: verified source is missing: {source}"
+                )
             print(f"  Rebuilding English {filename}...")
             results[patch_name] = apply_delta(
                 source,
                 PAYLOAD / patch_name,
-                english / filename,
+                destination,
             )
 
-        archived = language / "backup" / "english-pack-before-v1.0.1"
+        backup.mkdir(parents=True, exist_ok=True)
+        archived = backup / "english-pack-before-v1.0.3"
         if archived.exists():
-            archived = language / "backup" / f"english-pack-before-v1.0.1-{int(time.time())}"
+            archived = backup / f"english-pack-before-v1.0.3-{int(time.time())}"
         old_english.rename(archived)
         english.rename(old_english)
         if current_language == "en":
@@ -341,11 +373,12 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.2",
+                "format": "bst-complete-patch-v1.0.3",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
+                "legacy_layout": legacy_layout,
             }
         )
         files = report.setdefault("files", {})
@@ -364,14 +397,7 @@ def update_installed(game: Path) -> dict[str, object]:
 
 
 def restore(game: Path) -> Path:
-    language, player_data, backup = validate_installed(game)
-    for required in (
-        backup / "GameAssembly.dll.original",
-        backup / "global-metadata.dat.original",
-        backup / "level0.original",
-    ):
-        if not required.is_file():
-            raise ValueError(f"Rollback backup is missing: {required}")
+    language, player_data, backup = validate_installed(game, require_rollback=True)
 
     print("Restoring the verified Japanese runtime...")
     shutil.copy2(backup / "level0.original", player_data / "level0")

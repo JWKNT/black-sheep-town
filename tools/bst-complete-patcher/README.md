@@ -18,6 +18,12 @@ Version 1.0.2 accepts shell-escaped paths produced when a game folder is
 dragged into macOS Terminal. It also recognizes the supported Japanese layout
 when the BST game-side text logger has already been installed.
 
+Version 1.0.3 recognizes legacy bilingual builds created before the public
+patcher added its rollback-backup directory. It can verify an already-current
+pack or selectively rebuild changed English assets from the retained Japanese
+pack. Full `--restore` remains available only when the original rollback files
+exist.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The installer verifies the source release
 and every rebuilt file before modifying the game.
@@ -28,7 +34,7 @@ and every rebuilt file before modifying the game.
    required).
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
-   previously patched with v1.0.0 or v1.0.1.
+   previously patched with an earlier public or legacy bilingual build.
 3. On macOS/CrossOver, double-click **Install BST English Patch.command**. On
    Windows, double-click **Install BST English Patch.bat**.
 4. Drag the game folder into the terminal window when prompted and press
