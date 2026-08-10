@@ -16,6 +16,10 @@ UTAGE's aggregate page buffer, which could send a whole page to the hooker at
 once. Re-run `install_game_hook.py`, or update to complete patcher 1.0.4, before
 using the macOS log backend.
 
+Version 1.0.3 adds the complete patcher 1.0.5 runtime name (`BSTGame.exe`) to
+Windows auto-detection. Legacy `BstPlayer.exe` and `Bst.exe` installs remain
+supported.
+
 ## Install the game hook
 
 Make a backup of the game, close it completely, and run this once from the

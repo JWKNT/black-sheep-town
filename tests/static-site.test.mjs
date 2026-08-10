@@ -67,9 +67,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
   assert.match(html, /bst-english-patcher-v1\.0\.5\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.5\.zip/);
-  assert.match(html, /bst-text-hooker-v1\.0\.2\/BST-Text-Hooker-v1\.0\.2\.zip/);
+  assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
   assert.match(html, /10bb77b696691051f3bce25c4974c59c92d68274d3aaf3623773effb4eb567d4/);
-  assert.match(html, /5a90d8592d1387f2101967ddc70d77899e4ec3153edac2d1c8a0435dce01174e/);
+  assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
 });
