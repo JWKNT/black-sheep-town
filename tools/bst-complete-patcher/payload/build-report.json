@@ -714,5 +714,46 @@
         "sha256": "5ad9b1bb3300b579000b0ea9817d2807d648b5e15b6c62c774e22070c4cf2862"
       }
     ]
+  },
+  "patched-game-assembly-existing-hook": {
+    "format": "bst-delta-v1",
+    "source_size": 52463616,
+    "source_sha256": "02259b4974560eca2de6e49d0837ab0dbd56c0b3fdbdf84ddf6d85bd9cebf66c",
+    "target_size": 52463616,
+    "target_sha256": "71af44505f02ee81c97f81806be283d61b8f59174aba82b1ad17f4f99dda469d",
+    "operations": [
+      [
+        "copy",
+        0,
+        10190310
+      ],
+      [
+        "literal",
+        62767
+      ],
+      [
+        "copy",
+        10253077,
+        3472152
+      ],
+      [
+        "literal",
+        117831
+      ],
+      [
+        "copy",
+        13843060,
+        38620556
+      ]
+    ],
+    "literal_bytes": 180598,
+    "copied_bytes": 52283018,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 61663,
+        "sha256": "893149719b5fdb1759d7b621e617c7dd678e99b8972511e08a7f651d19d26e10"
+      }
+    ]
   }
 }

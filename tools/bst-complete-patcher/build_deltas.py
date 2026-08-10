@@ -29,6 +29,7 @@ def main() -> None:
     parser.add_argument("japanese", type=Path)
     parser.add_argument("current", type=Path)
     parser.add_argument("--pristine-assembly", type=Path)
+    parser.add_argument("--existing-hook-assembly", type=Path)
     parser.add_argument("--output", type=Path, default=Path(__file__).with_name("payload"))
     args = parser.parse_args()
     japanese = args.japanese.resolve()
@@ -59,6 +60,15 @@ def main() -> None:
         current / "BSTLanguage/ja/Bst_Data/level0",
         destination,
     )
+    if args.existing_hook_assembly:
+        destination = output / "patched-game-assembly-existing-hook"
+        if destination.exists():
+            shutil.rmtree(destination)
+        report["patched-game-assembly-existing-hook"] = create_delta(
+            args.existing_hook_assembly.resolve(),
+            current / "GameAssembly.dll",
+            destination,
+        )
     (output / "build-report.json").write_text(
         json.dumps(report, indent=2) + "\n", encoding="utf-8"
     )

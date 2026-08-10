@@ -6,6 +6,7 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import shlex
 import shutil
 import sys
 import time
@@ -30,6 +31,10 @@ ENGLISH_PATCHES = {
     "resources.assets": "english-resources-assets",
     "resources.resource": "english-resources-resource",
 }
+ASSEMBLY_PATCHES = (
+    "patched-game-assembly",
+    "patched-game-assembly-existing-hook",
+)
 METADATA_RELATIVE = Path("il2cpp_data/Metadata/global-metadata.dat")
 
 
@@ -40,14 +45,52 @@ def normalized_game_path(value: str | Path) -> Path:
     return path
 
 
+def parse_dragged_path(value: str, platform: str | None = None) -> str:
+    value = value.strip()
+    if not value:
+        raise ValueError("No game folder was supplied")
+    if (platform or sys.platform) == "win32":
+        return value.strip('"').strip("'")
+    try:
+        values = shlex.split(value)
+    except ValueError as error:
+        raise ValueError(f"Could not read the dragged game path: {error}") from error
+    if len(values) != 1:
+        raise ValueError("Please drag exactly one game folder into the prompt")
+    return values[0]
+
+
 def discover_game(argument: Path | None) -> Path:
     if argument is not None:
         return normalized_game_path(argument)
-    print("Drag the fresh BLACK SHEEP TOWN game folder here, then press Return:")
-    value = input("> ").strip().strip('"').strip("'")
-    if not value:
-        raise ValueError("No game folder was supplied")
-    return normalized_game_path(value)
+    print("Drag the BLACK SHEEP TOWN game folder here, then press Return:")
+    return normalized_game_path(parse_dragged_path(input("> ")))
+
+
+def apply_compatible_delta(
+    source: Path,
+    patch_names: tuple[str, ...],
+    destination: Path,
+) -> dict[str, object]:
+    source_hash = sha256(source)
+    for patch_name in patch_names:
+        manifest_path = PAYLOAD / patch_name / "manifest.json"
+        if not manifest_path.is_file():
+            continue
+        manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+        if manifest.get("source_sha256") == source_hash:
+            return apply_delta(source, PAYLOAD / patch_name, destination)
+    supported = ", ".join(
+        json.loads((PAYLOAD / name / "manifest.json").read_text(encoding="utf-8"))[
+            "source_sha256"
+        ][:12]
+        for name in patch_names
+        if (PAYLOAD / name / "manifest.json").is_file()
+    )
+    raise ValueError(
+        f"{source.name} is not a supported original or existing-hook build "
+        f"(found {source_hash[:12]}, expected one of {supported})"
+    )
 
 
 def validate_fresh(game: Path) -> None:
@@ -101,9 +144,9 @@ def build_staging(game: Path, staging: Path) -> dict[str, object]:
         copy_verified(source_data / filename, japanese / filename)
 
     print("  Rebuilding native runtime hooks...")
-    results["patched-game-assembly"] = apply_delta(
+    results["patched-game-assembly"] = apply_compatible_delta(
         game / "GameAssembly.dll",
-        PAYLOAD / "patched-game-assembly",
+        ASSEMBLY_PATCHES,
         staging / "GameAssembly.dll",
     )
     print("  Rebuilding localized runtime metadata...")
@@ -173,7 +216,7 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.1",
+            "format": "bst-complete-patch-v1.0.2",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
@@ -254,7 +297,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.1",
+                "format": "bst-complete-patch-v1.0.2",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
@@ -298,7 +341,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.1",
+                "format": "bst-complete-patch-v1.0.2",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,

@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.1\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.1\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.2\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.2\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.1\/BST-Text-Hooker-v1\.0\.1\.zip/);
-  assert.match(html, /e8edf56a0f811ead2b5f623417149618ed647ebd3f67297396f0de5277a2474b/);
+  assert.match(html, /7492818907506265a11bd707ad2797aef7e0c7badd4b30ed02b5d95543250386/);
   assert.match(html, /c82d5658929b20e9ff0a4d0b085499974de89e4f3719673dabbcb616244a3d52/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -83,11 +83,27 @@ test("complete patch payload contains the portrait-corrected English asset", asy
     manifest.target_sha256,
     "df226a2366c02f8c75e3a3a8e0c86d5483c12c698639ea19353c67d52bc842aa",
   );
+  const existingHookManifest = JSON.parse(await readFile(
+    new URL(
+      "tools/bst-complete-patcher/payload/patched-game-assembly-existing-hook/manifest.json",
+      root,
+    ),
+    "utf8",
+  ));
+  assert.equal(
+    existingHookManifest.source_sha256,
+    "02259b4974560eca2de6e49d0837ab0dbd56c0b3fdbdf84ddf6d85bd9cebf66c",
+  );
+  assert.equal(
+    existingHookManifest.target_sha256,
+    "71af44505f02ee81c97f81806be283d61b8f59174aba82b1ad17f4f99dda469d",
+  );
   const installer = await readFile(
     new URL("tools/bst-complete-patcher/install_bst_patch.py", root),
     "utf8",
   );
   assert.match(installer, /def update_installed\(/);
+  assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
 });
 

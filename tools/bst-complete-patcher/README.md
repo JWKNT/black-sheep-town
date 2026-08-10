@@ -9,10 +9,14 @@ the current fan-translation build. It installs:
 - the immediate EN/JP control in Settings;
 - the native Player.log hook used by the BST text-hooker.
 
-Version 1.0.1 corrects the internal character-name keys used by UTAGE, restoring
+Version 1.0.1 corrected the internal character-name keys used by UTAGE, restoring
 portraits throughout the English script while keeping the visible English
 speaker names. All 6,348 active portrait-bearing rows are checked against the
 game's Character table.
+
+Version 1.0.2 accepts shell-escaped paths produced when a game folder is
+dragged into macOS Terminal. It also recognizes the supported Japanese layout
+when the BST game-side text logger has already been installed.
 
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The installer verifies the source release
@@ -22,15 +26,15 @@ and every rebuilt file before modifying the game.
 
 1. Download this entire `bst-complete-patcher` folder (the `payload` folder is
    required).
-2. Use either a fresh Japanese game folder containing `Bst.exe`,
-   `GameAssembly.dll`, and `Bst_Data`, or a folder previously patched with
-   v1.0.0.
+2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
+   and `Bst_Data` (untouched or with the supported BST text logger), or a folder
+   previously patched with v1.0.0 or v1.0.1.
 3. On macOS/CrossOver, double-click **Install BST English Patch.command**. On
    Windows, double-click **Install BST English Patch.bat**.
-4. Drag the fresh game folder into the terminal window when prompted and press
+4. Drag the game folder into the terminal window when prompted and press
    Return. You can also drag the folder onto the launcher itself.
 
-For an existing v1.0.0 installation, running the same launcher automatically
+For an existing patcher installation, running the same launcher automatically
 updates the English asset pack in place. The selected EN/JP language is
 preserved, and the replaced English pack is retained under
 `BSTLanguage/backup`.
