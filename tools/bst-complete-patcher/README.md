@@ -70,6 +70,12 @@ compiler also removes its earlier synthetic continuation rows before rebuilding
 pagination, preventing duplicated page tails when an existing English asset is
 refreshed.
 
+Version 1.0.10 extends the Tips pager's word-boundary protection to apostrophes
+and hyphens, so contractions and compound words cannot be divided between
+pages. It also ships the verified Tips close/input-restoration fallback in the
+primary runtime delta itself and reapplies it idempotently on updates. This
+prevents the null-animation close path from leaving story input disabled.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -78,10 +84,10 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.9 Core and Full Payload
+1. Extract both the v1.0.10 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
-   updates, because v1.0.9 replaces the translated scenario payload.
+   updates, because v1.0.10 refreshes the English and native runtime payloads.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.

@@ -97,7 +97,7 @@ footer { width: min(1120px, calc(100% - 44px)); margin-inline: auto; }
 .language-label { display: none; color: var(--faint); font: 9px/1.3 var(--mono); letter-spacing: .4px; }
 .speaker { display: block; min-height: 17px; margin-bottom: 2px; color: var(--blue-dark); font-size: 11px; font-weight: 600; }
 .speaker:empty::after { content: "\00a0"; }
-.line-text { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; }
+.line-text { margin: 0; white-space: pre-wrap; overflow-wrap: normal; word-break: normal; }
 .japanese .line-text { line-height: 1.7; }
 mark { padding: 0; background: var(--mark); color: inherit; }
 .reader-background,
@@ -163,7 +163,7 @@ mark { padding: 0; background: var(--mark); color: inherit; }
 .glossary-comparison { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
 .glossary-language { display: flex; min-width: 0; align-items: center; padding: 15px 18px; }
 .glossary-language.english { border-left: 1px solid var(--line-strong); }
-.glossary-language p { margin: 0; font-size: 14px; line-height: 1.75; white-space: pre-line; overflow-wrap: anywhere; }
+.glossary-language p { margin: 0; font-size: 14px; line-height: 1.75; white-space: pre-line; overflow-wrap: normal; word-break: normal; }
 .glossary-language.japanese p { line-height: 1.85; }
 
 .tools-shell { width: min(940px, calc(100% - 44px)); margin-inline: auto; }

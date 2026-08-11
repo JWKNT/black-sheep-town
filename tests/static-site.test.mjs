@@ -66,8 +66,8 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.9\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.9-Core\.zip/);
-  assert.match(html, /bst-english-patcher-v1\.0\.9\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.9-Full-Payload\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.10\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.10-Core\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.10\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.10-Full-Payload\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
   assert.doesNotMatch(html, /HASH_PENDING/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
@@ -111,6 +111,17 @@ test("complete patch payload contains the portrait-corrected English asset", asy
     "71af44505f02ee81c97f81806be283d61b8f59174aba82b1ad17f4f99dda469d",
   );
   assert.equal(previousPatchManifest.target_sha256, existingHookManifest.target_sha256);
+  const primaryRuntimeManifest = JSON.parse(await readFile(
+    new URL(
+      "tools/bst-complete-patcher/payload/patched-game-assembly/manifest.json",
+      root,
+    ),
+    "utf8",
+  ));
+  assert.equal(
+    primaryRuntimeManifest.target_sha256,
+    "0c41f57ff8b4943fba15cef3ab810b84f978f76f74f03081f2107475fb4708af",
+  );
   const installer = await readFile(
     new URL("tools/bst-complete-patcher/install_bst_patch.py", root),
     "utf8",
@@ -131,7 +142,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(nativePatcher, /find_language_callback_tail/);
   assert.match(nativePatcher, /find_import_iat_va/);
   assert.match(nativePatcher, /patch_tips_close_fallback/);
-  assert.match(installer, /bst-complete-patch-v1\.0\.9/);
+  assert.match(installer, /bst-complete-patch-v1\.0\.10/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
@@ -493,6 +504,7 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.english-reader-mode \.language-label \{ display: none; \}/);
   assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);
   assert.match(css, /\.english-reader-mode \.line-text \{[^}]*font-size: 18px[^}]*text-wrap: pretty/s);
+  assert.match(css, /\.line-text \{[^}]*overflow-wrap: normal[^}]*word-break: normal/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
   assert.match(css, /\.glossary-comparison \{[^}]*grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/s);
   assert.match(css, /\.glossary-language\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
