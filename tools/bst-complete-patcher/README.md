@@ -48,6 +48,14 @@ pages retaining the stricter four-line limit. Running 1.0.6 over an existing
 installation rebuilds only the changed English pack and preserves the selected
 language.
 
+Version 1.0.7 incorporates the complete English prose-flow reread. It rebuilds
+the English scenario asset from the untouched Japanese base before applying
+pagination, preventing continuation rows from accumulating when maintainers
+refresh an existing build. All 29,755 translated source rows and 30,777
+compiled dialogue rows are verified, including the stricter portrait-safe
+pages. Running 1.0.7 over an existing installation preserves the selected
+language and replaces only the updated English pack.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables

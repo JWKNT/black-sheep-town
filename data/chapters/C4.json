@@ -33,7 +33,7 @@
       "sj": "",
       "se": "",
       "jp": "　C棟の若い患者が不穏で、病棟に呼び出されたが大したことはなく、薬を与えて少し話を聞けば収まった。他には一時診察の依頼もなく、緊急入院もなく、いたって平和な夜だった。",
-      "en": "A young patient in Building C grew agitated and I was called to the ward, but it was nothing serious. Medication and a little conversation settled him. No one else needed an urgent examination, and there were no emergency admissions. It was an entirely peaceful night."
+      "en": "A young patient in Building C grew agitated, so I was called to the ward, but it was nothing serious. Medication and a little conversation settled him. No one else needed an urgent examination, and there were no emergency admissions. It was an entirely peaceful night."
     },
     {
       "id": "C4:0013",
@@ -60,7 +60,7 @@
       "sj": "",
       "se": "",
       "jp": "　この<tips=6>巻河原病院</tips>では緊急性が求められる状況は少ない。仮にあったとして、その結果患者が死亡したとしても、責任を問われることはまれだ。",
-      "en": "At <tips=6>Makigawara Hospital</tips>, few situations demand immediate action. Even when one does and a patient dies as a result, someone is rarely held responsible."
+      "en": "At <tips=6>Makigawara Hospital</tips>, few situations demand immediate action. Even when a crisis does arise and a patient dies as a result, someone is rarely held responsible."
     },
     {
       "id": "C4:0016",
@@ -69,7 +69,7 @@
       "sj": "",
       "se": "",
       "jp": "　患者は症状のせいで家族に迷惑をかけているのが普通で、犯罪者も多い。社会から追い出されて、この病院にやって来た人々なのだ。その生活や医療の費用は家族が支払うか、それが出来なければ税金でまかなわれており、言い方は悪いが周囲に死を望まれている患者も少なくない。",
-      "en": "Most patients have burdened their families through their symptoms, and many have committed crimes. Society cast them out and sent them here. Their families pay their living and medical expenses, or taxes do when the families cannot. To put it cruelly, more than a few have people around them who wish they would die."
+      "en": "Most patients have burdened their families through their symptoms, and many have committed crimes. Society cast them out and sent them here. Their families pay their medical and living expenses, or taxes do when the families cannot. To put it cruelly, more than a few have people around them who wish they would die."
     },
     {
       "id": "C4:0017",
@@ -464,7 +464,7 @@
       "sj": "クリス・ツェー（過去・青年）",
       "se": "Chris Xie",
       "jp": "「おれをただの幻覚として片付けたいならそれでもいいさ。でもあんたにそれは出来ないね。現実を捨てて、心の世界に逃げ込んだあんたには、たとえおれが幻だとしても否定することは出来ない。それもまた、今のドクターにとっては現実だからさ。あんたが<tips=52>ミアオ</tips>を目の前に蘇らせようとしているのは、つまりこういうことなんだぜ？」",
-      "en": "“Write me off as a hallucination if you like. But you can’t. You abandoned reality and fled into the mind. Even if I am an illusion, you cannot deny me, because to the Doctor you are now, I’m every bit as real. That is exactly what you’re doing when you try to bring <tips=52>Miao</tips> back to life before your eyes.”",
+      "en": "“Write me off as a hallucination if you like. But you can’t. You abandoned reality and fled into the mind. Even if I am an illusion, you cannot deny me, because I am every bit as real to the Doctor you are now. That is exactly what you’re doing when you try to bring <tips=52>Miao</tips> back to life before your eyes.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-chris-xie-f010-02.webp",
@@ -515,7 +515,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼の言葉はどうということのないありふれた批判のはずだが、なぜか鋭く私の胸をえぐった。私は全身に冷や汗を掻き、ガタガタと歯の根が合わぬほど震える。この過剰な精神の反応も、夢の世界ならではだろう。",
-      "en": "His words should be no more than commonplace criticism, yet somehow they gouge deep into my chest. Cold sweat covers me, and I shake until my teeth chatter. This excessive reaction must be another peculiarity of dreams.",
+      "en": "His words should be no more than commonplace criticism, yet somehow they cut deep into my heart. Cold sweat covers me, and I shake until my teeth chatter. This excessive reaction must be another peculiarity of dreams.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-chris-xie-f010-02.webp",
@@ -621,7 +621,7 @@
       "sj": "",
       "se": "",
       "jp": "　全身にぐっしょりと汗を掻いている。時計は十八時半を過ぎており、もう日が落ちていた。夢だったか、と溜息をつくと、おかしなことに気がついた。遮光カーテンが開き、その外側の白いレースのカーテンが風に揺れているのである。そして雨の音が聞こえる。どうして開いているのだろう？　私は、必ずカーテンを閉めてから寝るはずなのに。そして間違っても窓など開けるはずがないのに。",
-      "en": "I am drenched in sweat. The clock reads past six thirty in the evening, and the sun is down. I sigh at what was only a dream, then notice something strange. The blackout curtains are open, and the white lace beyond them ripples in the wind. I hear rain. Why are they open? I always close them before sleeping. Under no circumstances would I leave the window open."
+      "en": "I am drenched in sweat. The clock reads past six thirty in the evening, and the sun is down. I sigh at the realization that it was only a dream, then notice something strange. The blackout curtains are open, and the white lace beyond them ripples in the wind. I hear rain. Why are they open? I always close them before sleeping. Under no circumstances would I leave the window open."
     },
     {
       "id": "C4:0078",
@@ -811,7 +811,7 @@
       "sj": "",
       "se": "",
       "jp": "　街の様々な場所で暮らす<tips=17>タイプB</tips>たちを結びつける秘密結社――私が知っている彼らは、あくまでも影の組織であって、表立った行動は避けていたはずだ。それが、武装してこのような事件を起こすとは。",
-      "en": "A secret society connecting <tips=17>Type B</tips> people throughout the City—the organization I knew kept strictly to the shadows and avoided overt action. Now it has armed itself and committed this atrocity."
+      "en": "A secret society connecting <tips=17>Type B</tips> people throughout the City—the organization I knew kept strictly to the shadows and avoided overt action. That it should now arm itself and commit such an atrocity..."
     },
     {
       "id": "C4:0106",
@@ -820,7 +820,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=47>解放軍</tips>は患者に『<tips=46>ネオ・ローズ</tips>』を投与し、症状を取り除いて彼らを連れ去ったらしい。館内放送で<tips=17>タイプB</tips>を解放すると宣言したそうだ。B棟にいた職員全部と、C棟の六人、管理棟では事務員が一人と院長が射殺されていた。さらに、建物の近辺では四人の警備員と、面会に来ていた患者の両親がバラバラ遺体となり雨ざらしとなっていたのを発見されている。",
-      "en": "The <tips=47>Liberation Army</tips> apparently administered ‘<tips=46>Neo-Rose</tips>’ to the patients, removed their symptoms, and took them away. Over the public-address system, they proclaimed that they were liberating the <tips=17>Type B</tips>. Every employee in Building B was shot dead, as were six in Building C, an administration clerk, and the hospital director. Near the buildings, police found four guards and the visiting parents of a patient dismembered and exposed to the rain."
+      "en": "The <tips=47>Liberation Army</tips> apparently administered ‘<tips=46>Neo-Rose</tips>’ to the patients, removed their symptoms, and took them away. Over the public-address system, they proclaimed that they were liberating the <tips=17>Type B</tips>. Every employee in Building B was shot dead, as were six in Building C, an administration clerk, and the hospital director. Near the buildings, police found the dismembered bodies of four guards and a patient’s visiting parents, all left exposed to the rain."
     },
     {
       "id": "C4:0107",
@@ -965,7 +965,7 @@
       "sj": "",
       "se": "",
       "jp": "　そのコートの内側には拳銃を取り付けることが出来る輪っかがある。私はそれに拳銃をしまい、マスクのゴム紐を新しいものに取り替えてから、再び杖を手に取って外に出た。",
-      "en": "A loop inside the coat holds a pistol. I secure the weapon, replace the mask’s ruined elastic, take up my cane, and leave."
+      "en": "A loop sewn inside the coat is meant to hold a pistol. I slide the weapon into it, replace the mask’s ruined elastic, take up my cane, and leave."
     },
     {
       "id": "C4:0143",
@@ -993,7 +993,7 @@
       "sj": "",
       "se": "",
       "jp": "　血が逆流しそうなほどの憤りであり、そのあたりの壁を素手で殴りつけたくなる衝動を抑えるのが精一杯だった。こんな激情がまだ自分の心に残っているとは。思いのほかに、病院のスタッフたちに対して愛着がわいていたのだろうか。殺すことはなかった。襲撃者たちは患者たちに怪しげな薬を投与して解放するというやりかたを正義だと信じて行ったのだろうが、医師である私からすれば患者のためにさえなっていない。そんな独善的な正義のために、愛情あるスタッフたちは殺されたのだ。",
-      "en": "Rage makes my blood feel as though it runs backward. It takes all my restraint not to strike the nearest wall barehanded. I had not known such passion remained in me. Had I grown more attached to the staff than I realized? There was no reason to kill them. The attackers may call dosing patients with some dubious drug and setting them loose justice, but to me as a physician, it does not even serve those patients. Caring members of staff were murdered for that self-righteous justice."
+      "en": "Rage makes my blood feel as though it runs backward. It takes all my restraint not to strike the nearest wall barehanded. I had not known such passion remained in me. Had I grown more attached to the staff than I realized? There was no reason to kill them. The attackers may believe that dosing patients with some dubious drug and setting them loose is justice, but to me as a physician, it does not even help those patients. Caring members of staff were murdered for that self-righteous justice."
     },
     {
       "id": "C4:0146",
@@ -1345,7 +1345,7 @@
       "sj": "",
       "se": "",
       "jp": "　そう笑う女の心に、黒雲のように殺意がわき上がる。それは非常に具体的なもので、まさに目の前の私を殺そうというものだった。",
-      "en": "She smiles. Murderous intent rises in her mind like black clouds, exceptionally specific: she means to kill the man before her—me."
+      "en": "She smiles. Murderous intent rises in her mind like black clouds, its object unmistakably specific: the man before her—me."
     },
     {
       "id": "C4:0185",
@@ -1462,7 +1462,7 @@
       "sj": "",
       "se": "",
       "jp": "　女が二発目の射撃をするときに浮かんだ具体的なイメージ。それは、どこかあたたかく、おだやかな感情に包まれた一つの場面だった。赤を基調とした高級な内装の部屋で、一人の男性が微笑みを浮かべている。",
-      "en": "The concrete image that rose from the woman as she fired carried strangely warm, tranquil emotion: a man smiling in a luxurious room decorated mostly in red."
+      "en": "The clear image that rose from the woman as she fired carried strangely warm, tranquil emotion: a man smiling in a luxurious room decorated mostly in red."
     },
     {
       "id": "C4:0202",
@@ -1587,7 +1587,7 @@
       "sj": "",
       "se": "",
       "jp": "　マスクを取れば痛みで脂汗が浮かんだ顔を彼女に見せてしまうだろう。そうすれば、腕の傷を気づかれることになる。私は無用の心配をかけたくもなかったし、騒ぎにもしたくなかった。",
-      "en": "If I remove the mask, she will see the greasy sweat pain has drawn across my face and realize my arm is wounded. I wish neither to worry her nor cause a commotion.",
+      "en": "If I remove the mask, she will see the clammy sweat pain has drawn across my face and realize my arm is wounded. I wish neither to worry her nor cause a commotion.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
@@ -1655,7 +1655,7 @@
       "sj": "",
       "se": "",
       "jp": "　かつてこの屋敷の主人だった年老いた<tips=31>エリー・ホワイト</tips>と全く同じ黒い喪服を着た<tips=31>エリー</tips>は言葉通り童女じみたはしゃいだ表情を浮かべて、厚いヴェールの向こうから私を見ている。私はその感情を盗むのを失礼に思い、彼女の顔から視線をそらしている。",
-      "en": "<tips=31>Elly</tips> wears a black mourning dress identical to that of the old <tips=31>Elly White</tips> who once owned the estate. True to her words, she watches me through a heavy veil with a little girl’s delight. It would be discourteous to steal her feelings, so I keep my gaze from her face.",
+      "en": "<tips=31>Elly</tips> wears a black mourning dress identical to that of the old <tips=31>Elly White</tips> who once owned the estate. Just as she said, she watches me through a heavy veil with a little girl’s delight. It would be discourteous to steal her feelings, so I keep my gaze from her face.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-02.webp",
@@ -2403,7 +2403,7 @@
       "sj": "太刀川良馬ペスト仮面",
       "se": "Ryouma Tachikawa",
       "jp": "「とにかく、<tips=47>解放軍</tips>のことなども含めて、あの<tips=20>コシチェイ</tips>をマークすることが必要です。あなたはこの情報を<tips=3>クリス</tips>の息子に伝えてください」",
-      "en": "“In any event, particularly where the <tips=47>Liberation Army</tips> is concerned, we must keep <tips=20>Koschei</tips> under observation. Please give this information to <tips=3>Chris</tips>’s son.”",
+      "en": "“In any event, the <tips=47>Liberation Army</tips> gives us one more reason to keep <tips=20>Koschei</tips> under observation. Please give this information to <tips=3>Chris</tips>’s son.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-04.webp",
@@ -2454,7 +2454,7 @@
       "sj": "太刀川良馬ペスト仮面",
       "se": "Ryouma Tachikawa",
       "jp": "「私は私のやりかたで<tips=20>コシチェイ</tips>を追い詰めます。あれは不死身だそうですが、まず、その身体の秘密を解き明かすことが必要でしょう。そして、幸い私は医者です。そしてサイキックの専門家です。研究機関のツテもある。サンプルを手に入れれば、何かしら有益な結果が引き出せるでしょう。……彼らをこのままにはさせませんよ」",
-      "en": "“I will hunt <tips=20>Koschei</tips> in my own way. He is said to be immortal, but first I must uncover the secret of his body. Fortunately, I am a physician and an expert on psychics. I also have contacts at research institutions. If I can obtain a sample, I should be able to learn something useful. ...I will not leave them free to continue.”",
+      "en": "“I will hunt <tips=20>Koschei</tips> in my own way. He is said to be immortal, but first I must uncover the secret of his body. Fortunately, I am a physician and an expert on psychics. I also have contacts at research institutions. If I can obtain a sample, I should be able to learn something useful. ...I will not let them carry on like this.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-01.webp",
@@ -2471,7 +2471,7 @@
       "sj": "",
       "se": "",
       "jp": "　痛みはもう限界だった。私はそう言って立ち上がる。",
-      "en": "The pain has reached the limit of my endurance. Having said that, I stand.",
+      "en": "The pain has reached the limit of my endurance. With that, I stand.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-01.webp",
@@ -2573,7 +2573,7 @@
       "sj": "",
       "se": "",
       "jp": "　名前を口にしたので、私はさっき見た<tips=3>クリス</tips>の幻影を思い出した。",
-      "en": "Hearing his name recalls the apparition of <tips=3>Chris</tips> from earlier.",
+      "en": "Hearing his name reminds me of the apparition of <tips=3>Chris</tips> from earlier.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-01.webp",
@@ -2590,7 +2590,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼がおおげさな言い方で、私には「やるべきこと」があると言ったのは、自分の息子を守れという意味だったのか？",
-      "en": "When he grandly announced that I still had ‘work to do,’ did he mean that I should protect his son?",
+      "en": "When he announced so dramatically that I still had ‘work to do,’ did he mean that I should protect his son?",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-01.webp",
@@ -2641,7 +2641,7 @@
       "sj": "太刀川良馬ペスト仮面",
       "se": "Ryouma Tachikawa",
       "jp": "「<tips=3>クリス</tips>のことを考えれば協力してやりたいところですが、それは出来ません。私は一人で行動します。……その方がいいでしょう。今更『ドクター』がうろちょろしたら、<tips=1>亮</tips>君にしてもやりにくいでしょうし、私もギャングの争いに組み込まれるのは気が進まない。これは私的な復讐でしかないのですから」",
-      "en": "“For <tips=3>Chris</tips>’s sake, I would like to help. But I cannot. I will act alone. ...That is best. If the ‘Doctor’ begins prowling again after all these years, it will only make things awkward for young <tips=1>Liang</tips>. Nor do I care to be drawn into a war between gangs. This is only a private revenge.”",
+      "en": "“For <tips=3>Chris</tips>’s sake, I would like to help. But I cannot. I will act alone. ...That is best. If the ‘Doctor’ begins prowling again after all these years, it will only make things awkward for young <tips=1>Liang</tips>. Nor do I care to be drawn into a war between gangs. This is nothing more than a private vendetta.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-elly-white-f028-01.webp",
@@ -2758,7 +2758,7 @@
       "sj": "",
       "se": "",
       "jp": "　私には、まだ彼女のために出来ることがある。――そう思うと、体中に充満していた黒いガスが抜け、代わりに光が差し込むような喜びがあった。もう認めなくてはいけない。――私はずっと何かを彼女にしてやりたくて、してやりたくて仕方なかったのだ。病院で見た患者たちに、施設で見た子供たちに、どこか<tips=52>ミアオ</tips>の面影を見ていた。<tips=60>ロジャー・アダムス</tips>を殺し、クラブを燃やし、そしてもう彼女のためにすることがなくなってしまったのを受け入れがたくて、ずっとしがみついていた。",
-      "en": "There is still something I can do for her. —At that thought, the black vapor filling me drains away and joy pours in like light. I must admit it now. —All these years, I have desperately wanted to do something for her. Anything. In the hospital patients and the children at the homes, I searched for some trace of <tips=52>Miao</tips>. I killed <tips=60>Roger Adams</tips> and burned the club, then could not accept that nothing remained for me to do for her. So I clung to them."
+      "en": "There is still something I can do for her. —At that thought, the black vapor filling me drains away and joy pours in like light. I must admit it now. —All these years, I have desperately wanted to do something for her. Anything. In the hospital patients and the children at the homes, I searched for some trace of <tips=52>Miao</tips>. I killed <tips=60>Roger Adams</tips> and burned the club, then could not accept that nothing remained for me to do for her. So I kept clinging to that search."
     },
     {
       "id": "C4:0310",
@@ -2767,7 +2767,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=52>ミアオ</tips>、お前の仇はまだ生き残っていた。今度こそ息の根をとめてやる。きっとそのために私は今日まで生きていたのだ。<tips=3>クリス</tips>の言葉を借りれば、「半分死んだようになって」。",
-      "en": "<tips=52>Miao</tips>, your enemy was still alive. This time I will finish it. Surely this is why I lived until today—‘half dead,’ as <tips=3>Chris</tips> said."
+      "en": "<tips=52>Miao</tips>, your enemy was still alive. This time I will finish the job. Surely this is why I lived until today—‘half dead,’ as <tips=3>Chris</tips> said."
     },
     {
       "id": "C4:0311",
@@ -3047,7 +3047,7 @@
       "sj": "",
       "se": "",
       "jp": "　驚くべきことに、この空へ移動したのは私の上半身だけだったのだ。",
-      "en": "Only the upper half of my body was transported."
+      "en": "Only the upper half of my body has been transported."
     },
     {
       "id": "C4:0353",
@@ -3110,7 +3110,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=3>クリス</tips>のように手際よく欲しいものに手を伸ばすことなんか出来ない。うじうじ考えて、やっと少し動けるだけの男なのだ。復讐を果たせないのは残念だが、もしそれをしたって、何もかえってこないのはわかっている。<tips=52>ミアオ</tips>がとっくに死んでいることには変わらないのだから。",
-      "en": "I could never reach for what I wanted with <tips=3>Chris</tips>’s deft certainty. I brood and hesitate until I can finally manage one small step. I regret that I cannot have my revenge, but even if I did, it would restore nothing. <tips=52>Miao</tips> would still have been dead all these years."
+      "en": "I could never reach for what I wanted as swiftly and surely as <tips=3>Chris</tips>. I brood and hesitate until I can finally manage one small step. I regret that I cannot have my revenge, but even if I did, it would restore nothing. <tips=52>Miao</tips> would still have been dead all these years."
     },
     {
       "id": "C4:0360",
@@ -3291,7 +3291,7 @@
       "sj": "",
       "se": "",
       "jp": "　――ああ、違うな。これは全然違う。私の死の感情は、彼女が死ぬ時に心を満たしていたその感情と、全然違う。",
-      "en": "—No. That is wrong. This is nothing alike. What I feel in death is nothing like what filled her mind when she died."
+      "en": "—No. That is wrong. This is not the same at all. What I feel in death is nothing like what filled her mind when she died."
     },
     {
       "id": "C4:0402",

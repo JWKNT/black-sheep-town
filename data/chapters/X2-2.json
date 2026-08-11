@@ -33,7 +33,7 @@
       "sj": "",
       "se": "",
       "jp": "　ドアの外であくびをしてから看護室の隣の休憩室に足を踏み入れると、すでに先輩ナースたちが出勤しており、長椅子に座って談笑をしている。",
-      "en": "She yawned outside the door, then entered the break room beside the nurses' station. The senior nurses were already there on the bench, talking and laughing.",
+      "en": "She yawned outside the door, then entered the break room beside the nurses' station. The senior nurses were already there, sitting on the bench and talking and laughing.",
       "bg": "assets/vn/backgrounds/background-病院休憩室.webp"
     },
     {
@@ -319,7 +319,7 @@
       "sj": "箕田",
       "se": "Nurse Mita",
       "jp": "「私も忍野さんもエンゼルケアやるの久しぶりで、いろいろ忘れちゃってたから、二階に電話してやり方聞きながらやったりね。まあとにかく大変だったけど、家族とすぐに連絡がついたから良かったわ。朝一で遺体を引き取りに来てくれたのよ。矢沢さんのときなんか、家族がごちゃごちゃしてて結局二ヶ月も預かってたでしょ？　<tips=83>能見</tips>ちゃん、あの時の遺体見た？」",
-      "en": "“It had been ages since Oshino or I did postmortem care, and we'd forgotten half of it. We had to phone the second floor and have them talk us through the procedure. It was a lot of work, anyway, but thank goodness we reached the family right away. They collected the body first thing this morning. Remember Yazawa? Her family was such a mess that we kept the body for two whole months. <tips=83>Noumi</tips>, did you see it then?”",
+      "en": "“It had been ages since Oshino or I performed postmortem care, and we'd forgotten half of it. We had to phone the second floor and have them talk us through the procedure. It was a lot of work, anyway, but thank goodness we reached the family right away. They collected the body first thing this morning. Remember Yazawa? Her family was such a mess that we kept the body for two whole months. <tips=83>Noumi</tips>, did you see it then?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-nurse-furukawa-f062-01.webp",
@@ -739,7 +739,7 @@
       "sj": "",
       "se": "",
       "jp": "　患者たちは午前は作業療法で歌を歌い、午後は二日に一度のおやつである焼きプリンを食べて喜んでいた。それはいつもと何も変わらない日常だった。",
-      "en": "In the morning they sang during occupational therapy. In the afternoon they happily ate baked custard, their every-other-day treat. Nothing in the day differed from any other."
+      "en": "In the morning they sang during occupational therapy. In the afternoon they happily ate baked custard, their every-other-day treat. The day went on exactly as usual."
     },
     {
       "id": "X2-2:0053",
@@ -905,7 +905,7 @@
       "sj": "",
       "se": "",
       "jp": "　窓の近くにいた<tips=92>水村ナース</tips>が尋ねると、",
-      "en": "<tips=92>Nurse Mizumura</tips>, nearest the window, answered.",
+      "en": "<tips=92>Nurse Mizumura</tips>, nearest the window, called back.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-03.webp",
@@ -1362,7 +1362,7 @@
       "sj": "",
       "se": "",
       "jp": "　医者には個性がある。この病院の医者も、それぞれ個性、というか癖がある。しかも強い癖だ。他にいくらでも診療科があるだろうにわざわざ<tips=17>タイプB</tips>専門医となるのだから、その時点でよほど変わりものに決まっている、というのが看護師たちの共通した認識だ。",
-      "en": "Doctors had personalities. At this hospital they had personalities—or rather, quirks. Powerful ones. With so many specialties available, anyone who deliberately chose <tips=17>Type B</tips> medicine had to be an eccentric from the start. The nurses all agreed on that."
+      "en": "Doctors had personalities. At this hospital they had personalities—or rather, quirks. Powerful ones. With so many other specialties to choose from, anyone who deliberately went into <tips=17>Type B</tips> medicine had to be an eccentric from the start. The nurses all agreed on that."
     },
     {
       "id": "X2-2:0125",
@@ -1398,7 +1398,7 @@
       "sj": "",
       "se": "",
       "jp": "　が、いくら傾聴対応、つまりその話に耳を傾けたって<tips=17>タイプB</tips>はそう簡単に落ち着かない。この人手不足のなかで、看護師がまるまる一人とられてしまうのは現場にとっても苦しいし、妄想まみれで会話が成立しない相手に長時間対応するのは消耗が激しい。",
-      "en": "But listen as attentively as one pleased, and a <tips=17>Type B</tips> patient did not simply calm down. On an understaffed ward, losing one nurse entirely to the task was painful. Spending hours with someone so lost in delusion that no conversation could take shape was exhausting too."
+      "en": "But no amount of attentive listening would make a <tips=17>Type B</tips> patient simply calm down. On an understaffed ward, losing one nurse entirely to the task was painful. Spending hours with someone so lost in delusion that no conversation could take shape was exhausting too."
     },
     {
       "id": "X2-2:0129",
@@ -1443,7 +1443,7 @@
       "sj": "",
       "se": "",
       "jp": "　というのが、看護室でよく聞かれる愚痴だ。",
-      "en": "The nurses' station heard that complaint often."
+      "en": "It was a common complaint around the nurses' station."
     },
     {
       "id": "X2-2:0134",
@@ -1632,7 +1632,7 @@
       "sj": "",
       "se": "",
       "jp": "　名だたる大学を出たというわけでもなく、むしろこの病院のメンバーのなかでは劣った学歴であるらしいが、おそらく臨床医師としての能力は最も高い。処方も指示も的確で、はじめはどうかと思われるような常識外れの指示でも、投薬でも、実際行ってみるとぴたりと当たる。",
-      "en": "He had not attended a famous university. His academic pedigree was apparently among the weakest in the hospital. As a clinician, however, he was probably the finest. His orders and prescriptions were exact. Even some unorthodox treatment that first made everyone doubt him turned out to be exactly right."
+      "en": "He had not attended a famous university. His academic pedigree was apparently among the weakest in the hospital. As a clinician, however, he was probably the finest. His orders and prescriptions were unerringly precise. Even unorthodox treatments that made everyone doubtful at first proved to be exactly right."
     },
     {
       "id": "X2-2:0155",
@@ -1695,7 +1695,7 @@
       "sj": "",
       "se": "",
       "jp": "　白衣を肩に引っかけていなければどう見ても不審人物で、初めてこの医師の姿を見た者は誰でもぎょっとするに違いない。",
-      "en": "Without the white coat hanging from his shoulders, he would have looked thoroughly suspicious. Anyone seeing him for the first time was bound to stare."
+      "en": "Without the white coat hanging from his shoulders, he would have looked thoroughly suspicious. Anyone seeing him for the first time was bound to recoil."
     },
     {
       "id": "X2-2:0162",
@@ -1713,7 +1713,7 @@
       "sj": "",
       "se": "",
       "jp": "　人柄も変わっている。口調こそ丁寧で、患者のみならず看護師や助手、清掃員にまで敬語を使うのだが、愛想というものがない。いつも簡潔に用件だけを伝え、余計なことは全く言わない。挨拶さえもしない。無駄を省略するという一種の合理性なのだ。",
-      "en": "His manner was peculiar too. His language was unfailingly polite, even to nurses, aides, and cleaners, but he had no charm. He stated his business briefly and said nothing else. He did not even greet people. It was a kind of rationality that cut away every waste."
+      "en": "His manner was peculiar too. His language was unfailingly polite, even to nurses, aides, and cleaners, but he had no charm. He stated his business briefly and said nothing else. He did not even greet people. It was a kind of rationality that eliminated anything superfluous."
     },
     {
       "id": "X2-2:0164",
@@ -1722,7 +1722,7 @@
       "sj": "",
       "se": "",
       "jp": "　自分の担当外の患者を無断で診るのだって、普通の医者ならやりはしないが、自分の方がより適切な診断を下せるのだから診るという、ただそれだけの理由であろう。他の医者に対する面当てだとか、自分の能力を示すだとかいった様子はなく、ただただ患者第一主義で淡々としている。日中は医局にこもることなくあちこちの病棟を歩き回って多くの患者を診ている。当直をするときは、どんな時間に電話をかけても乱れのない身だしなみで病棟へやって来る。",
-      "en": "An ordinary doctor would never examine someone else's patient without permission. Tachikawa presumably did it for one reason: he could diagnose the patient better. There was no sign of a slight toward another doctor or a desire to show off. He put the patient first, calmly and absolutely. By day he roamed the wards instead of hiding in the doctors' office and saw more patients than anyone. On call, he appeared impeccably groomed at any hour of the night."
+      "en": "An ordinary doctor would never examine someone else's patient without permission. Tachikawa presumably did it for one reason: he could diagnose the patient better. There was no sign of a slight toward another doctor or a desire to show off. He simply put the patient first, with calm and single-minded devotion. By day he roamed the wards instead of hiding in the doctors' office and saw more patients than anyone. On call, he appeared impeccably groomed at any hour of the night."
     },
     {
       "id": "X2-2:0165",
@@ -1749,7 +1749,7 @@
       "sj": "",
       "se": "",
       "jp": "　この<tips=5>太刀川</tips>を、業務を終えてロッカールームへ向かうところだった<tips=83>美紗</tips>はB棟の前で見かけた。",
-      "en": "Outside Building B stood this same <tips=5>Tachikawa</tips>. <tips=83>Misa</tips> spotted him on her way to the locker room after work.",
+      "en": "<tips=83>Misa</tips> spotted this same <tips=5>Tachikawa</tips> outside Building B on her way to the locker room after work.",
       "bg": "assets/vn/backgrounds/background-病院b棟の前.webp",
       "p": [
         {
@@ -2089,7 +2089,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>の洞察力に日頃から不思議なものを感じていたため、勢いでそう言ってしまったものの、言ってしまってからまっすぐ向かい合ってこのような質問をすることの不躾さに<tips=83>美紗</tips>は気付き、恥ずかしげに目をそらす。",
-      "en": "There was something uncanny in <tips=5>Tachikawa</tips>'s insight, and the question came out in a rush. Only afterward did <tips=83>Misa</tips> realize how presumptuous it was to confront him so directly. Embarrassed, she looked away.",
+      "en": "There was something uncanny in <tips=5>Tachikawa</tips>'s insight, and the question came out in a rush. Only afterward did <tips=83>Misa</tips> realize how presumptuous it was to ask him so directly. Embarrassed, she looked away.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-17.webp",
@@ -2158,7 +2158,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は<tips=83>美紗</tips>のとってつけたような言い訳を意に介さない。",
-      "en": "<tips=5>Tachikawa</tips> ignored <tips=83>Misa</tips>'s transparent excuse.",
+      "en": "<tips=5>Tachikawa</tips> ignored <tips=83>Misa</tips>'s hastily added justification.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-17.webp",
@@ -2573,7 +2573,7 @@
       "sj": "",
       "se": "",
       "jp": "　大人しそうな見かけによらず大変な酒豪で、いくら飲んでも少し赤くなるくらいでほとんど行動が乱れない。",
-      "en": "Her quiet appearance concealed a formidable drinker. However much she drank, she did little more than flush, and her behavior hardly changed.",
+      "en": "Her quiet appearance concealed a formidable capacity for alcohol. However much she drank, she did little more than flush, and her behavior hardly changed.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -2688,7 +2688,7 @@
       "sj": "",
       "se": "",
       "jp": "　テーブルの上には、フィッシュアンドチップスと茹でたソーセージが乗せられ、二人はそれをつまみながらグラスのビールを飲んでいる。そして彼女たちが口にするのは、もっぱら職場の愚痴であった。",
-      "en": "Fish and chips and boiled sausages covered the table. They picked at the food over glasses of beer and talked almost entirely about work.",
+      "en": "Fish and chips and boiled sausages sat on the table. They picked at the food over glasses of beer and talked almost entirely about work.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -2941,7 +2941,7 @@
       "sj": "",
       "se": "",
       "jp": "　その顔には今風の化粧がなされている。仕事中はほとんどノーメイクだったのに、いつの間にほどこしたのだろう？　それに気がつくと<tips=83>美紗</tips>は、眉毛と目しか手を加えていない仕事時のままの自分の顔が恥ずかしくなった。",
-      "en": "Her face now wore fashionable makeup. She had been almost bare-faced at work. When had she found the time? Noticing it made <tips=83>Misa</tips> ashamed of her own workday face, with only her brows and eyes done.",
+      "en": "Her face now wore fashionable makeup. She had been almost bare-faced at work. When had she found the time? Noticing it made <tips=83>Misa</tips> self-conscious about her own face, still made up for work with nothing but her brows and eyes done.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-02.webp",
@@ -2964,7 +2964,7 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「でたらめなサマリー書いて遠くの病院に転院させちゃうとか、任意入院に切り換えて本人のお望み通り退院させるとか、出来ないんですか？　あの人の生活がよくなるように一生懸命やってるのに、なんであんなに馬鹿にされたり、ちょっと考えられないような理不尽な悪意を持たれたりしなくちゃいけないのか……。受容的態度って言うけれど、なんでもかんでも受容しなくちゃいけないんですか？　我々は？　私だって人間なんですよ？」",
-      "en": "“Couldn't we invent a summary and ship her to some distant hospital? Or make her admission voluntary and let her walk out, just as she wants? We work ourselves raw trying to improve her life. Why should she get to sneer at us and pour out that insane, senseless malice? Everyone talks about an accepting attitude, but do we have to accept everything? Are we supposed to? I'm human too.”",
+      "en": "“Couldn't we fabricate a summary and ship her to some distant hospital? Or make her admission voluntary and let her walk out, just as she wants? We work ourselves raw trying to improve her life. Why should she get to sneer at us and pour out that insane, senseless malice? Everyone talks about an accepting attitude, but do we have to accept everything? Are we supposed to? I'm human too.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-02.webp",
@@ -3884,7 +3884,7 @@
       "sj": "水村",
       "se": "Maiko Mizumura",
       "jp": "「一時的になら、回復させる方法はあるんですよ」",
-      "en": "“There is a way, temporarily.”",
+      "en": "“There is a way—temporarily.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -3953,7 +3953,7 @@
       "sj": "能見美紗",
       "se": "Misa Noumi",
       "jp": "「それなら、学校で習ったことあるけど、実際どれくらい回復するのかしら？　たとえばうちの<tips=82>ヒロミ</tips>ちゃんみたいな子でも、発症する前の状態に戻るの？」",
-      "en": "“We learned about it in school, but how much can it really restore? Even a girl like our <tips=82>Hiromi</tips>—would she become who she was before the symptoms?”",
+      "en": "“We learned about it in school, but how much can it really restore? Even a girl like our <tips=82>Hiromi</tips>—would she go back to the way she was before the symptoms?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -4068,7 +4068,7 @@
       "sj": "",
       "se": "",
       "jp": "　これを<tips=17>タイプB</tips>に一定量以上投与すると、廃人同様になったような者でも発症前の人間性を取り戻すという話だ。",
-      "en": "Give a <tips=17>Type B</tips> person enough, the story went, and even someone reduced to a human shell regained the personality they had before onset.",
+      "en": "The claim was that if a <tips=17>Type B</tips> person received enough, even someone reduced to a human shell would regain the personality they had before onset.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -4252,7 +4252,7 @@
       "sj": "",
       "se": "",
       "jp": "　このような曰く付きのドラッグを、大量に投与しなくては<tips=17>タイプB</tips>は回復しない。これが何を意味するのかと言うと、たとえ薬効によって一時的に正気を取り戻したとしても、そのすぐ先に重い薬物依存が待っているということだ。",
-      "en": "A <tips=17>Type B</tips> person needed a massive dose of this notorious drug to recover. Even if it restored sanity for a time, severe addiction waited immediately beyond.",
+      "en": "A <tips=17>Type B</tips> person needed a massive dose of this notorious drug to recover. Even if it restored sanity for a time, severe addiction would follow close behind.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -4344,7 +4344,7 @@
       "sj": "",
       "se": "",
       "jp": "　こうした事情を踏まえた上で、<tips=83>美紗</tips>は、『<tips=45>ローズ</tips>』を投与することである程度回復はしたとしても、完全に発症前の状態を取り戻すというようなことはないだろうと考えていた。<tips=17>タイプB</tips>について医者が書いた本を何冊か読んだが、そこでも、発作を繰り返すごとに<tips=17>タイプB</tips>の脳は器質的に不可逆的な変化が起きているという考えが主流だったはずだ。つまり、発作を繰り返すごとに少しずつ壊れてゆくというのである。",
-      "en": "Given all this, <tips=83>Misa</tips> believed <tips=45>Rose</tips> might bring some recovery, but never restore someone completely. Books by doctors on <tips=17>Type B</tips> illness said repeated episodes caused irreversible organic changes in the brain. Each episode damaged a <tips=17>Type B</tips> brain a little further.",
+      "en": "Given all this, <tips=83>Misa</tips> believed <tips=45>Rose</tips> might bring some recovery, but never restore someone completely. The medical books she had read on <tips=17>Type B</tips> illness said repeated episodes caused irreversible organic changes in the brain. Each episode damaged a <tips=17>Type B</tips> brain a little further.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maiko-mizumura-f061-04.webp",
@@ -4699,7 +4699,7 @@
       "sj": "",
       "se": "",
       "jp": "　ネオンの氾濫する街で服やアクセサリーを物色し、その間に少し酔いが醒め、そしてもう少し飲み直そうと考えた。そこで、普段とは少し違う場所の店を選んでみようと、一人歩きなのに思ってしまったあたり、酔いが正常な判断力を奪っていたのだと思われる。",
-      "en": "She browsed clothes and jewelry beneath the flood of neon. Her head cleared a little, and she decided to have one more drink. The fact that she chose to seek out somewhere unfamiliar while walking alone was proof that the alcohol had already ruined her judgment."
+      "en": "She browsed clothes and jewelry beneath the flood of neon. Her head cleared a little, and she decided to have one more drink. Choosing an unfamiliar place when she was out alone should have told her how badly the alcohol had already impaired her judgment."
     },
     {
       "id": "X2-2:0332",
@@ -4745,7 +4745,7 @@
       "sj": "",
       "se": "",
       "jp": "　ここはちょっと違う。",
-      "en": "This was rather more different than she had intended."
+      "en": "This was more than a little outside her comfort zone."
     },
     {
       "id": "X2-2:0337",
@@ -4808,7 +4808,7 @@
       "sj": "",
       "se": "",
       "jp": "　どうやら落ちたものはカラーコンタクトレンズのようだ。そのコンタクトが落ちた方の瞳の色が、先ほどとは変わっている。真っ黒に見えていた瞳が、暗くてわかりにくかったが、何か明るい色になった。",
-      "en": "A colored contact lens. The uncovered eye was no longer the black she had seen before. Darkness hid the exact color, but it was bright."
+      "en": "A colored contact lens. The eye beneath was no longer the black she had seen before. Darkness hid the exact color, but it was bright."
     },
     {
       "id": "X2-2:0344",
@@ -4978,7 +4978,7 @@
       "sj": "",
       "se": "",
       "jp": "　背後から聞こえたその落ち着いた声には聞き覚えがある。そして振り返ると、やはり思った通りの、そして他の誰かと見間違いようのない人物が立っていた。",
-      "en": "She knew the calm voice behind her. When she turned, the man standing there was exactly whom she expected—and impossible to mistake for anyone else.",
+      "en": "She knew the calm voice behind her. When she turned, the man standing there was exactly who she expected—and impossible to mistake for anyone else.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-04.webp",
@@ -5649,7 +5649,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼は<tips=83>美紗</tips>を見て、妙な形に口を歪める。それは、いつも表情のないポーカーフェイスである<tips=5>太刀川</tips>にしては珍しい変化であった。",
-      "en": "He looked at <tips=83>Misa</tips> and twisted his mouth into a peculiar shape. On the normally expressionless <tips=5>Tachikawa</tips>, it was a startling change.",
+      "en": "He looked at <tips=83>Misa</tips>, his mouth twisting oddly. On the normally expressionless <tips=5>Tachikawa</tips>, it was a startling change.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-04.webp",
@@ -5792,7 +5792,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「ここが、今夜の診察所です」",
-      "en": "“This is tonight's clinic.”",
+      "en": "“This is where I am holding tonight's clinic.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-04.webp",
@@ -6113,7 +6113,7 @@
       "sj": "",
       "se": "",
       "jp": "　この感じからすると、<tips=5>太刀川</tips>がここで診察を行うのは一度や二度ではないようだ。",
-      "en": "From the ease of the reception, <tips=5>Tachikawa</tips> had plainly held clinics here many times before.",
+      "en": "Judging by how readily the staff accommodated him, <tips=5>Tachikawa</tips> had plainly held clinics here many times before.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6266,7 +6266,7 @@
       "sj": "",
       "se": "",
       "jp": "　自分とは価値の基準が大分異なっていて、そして、<tips=5>太刀川</tips>のそれの方がシビアで現実的であるような気がして、訳もなく恥ずかしくなった。",
-      "en": "His values seemed far removed from hers. <tips=5>Tachikawa</tips>'s were harsher and more realistic; beside them, her own made her ashamed for reasons she could not name.",
+      "en": "His values seemed far removed from hers. <tips=5>Tachikawa</tips>'s were harsher and more realistic, and their severity made her ashamed of her own for reasons she could not name.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6398,7 +6398,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「世間ではまだまだミステリアスなものとして認識されているようですし、雄大で恐ろしいイメージもありますから、患者からすれば格好の妄想の材料なのでしょう。他には何もないと思いますよ」",
-      "en": "“The public still considers it mysterious, and its image is vast and frightening. It is ideal material for delusion. I do not believe there is anything more.”",
+      "en": "“The public still considers it mysterious, and there is something grand and frightening about it. It is ideal material for delusion. I do not believe there is anything more.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6621,7 +6621,7 @@
       "sj": "",
       "se": "",
       "jp": "　そのままカルテに書かれた文章を読むと、少女は発症はしていないが、<tips=95>金眼</tips>があらわれやすく、それによる身体能力の向上度も高い。本人はそれを自覚しておらず、たびたび問題行動を起こすらしい。",
-      "en": "The chart said the girl's symptoms had not manifested, but the <tips=95>Golden-Eye state</tips> appeared easily and greatly increased her physical abilities. She had no awareness of the change and often caused trouble.",
+      "en": "The chart said the girl's symptoms had not manifested, but she entered the <tips=95>Golden-Eye state</tips> easily and underwent a dramatic increase in physical ability. She had no awareness of the change and often caused trouble.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6638,7 +6638,7 @@
       "sj": "",
       "se": "",
       "jp": "　こんな少女も、将来は不幸になってしまうのだろうかと<tips=83>美紗</tips>が暗い気持ちになっていると、",
-      "en": "Would this little girl also grow into an unhappy life? The thought darkened <tips=83>Misa</tips>'s mood.",
+      "en": "Was this little girl destined for misery too? The thought darkened <tips=83>Misa</tips>'s mood.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6706,7 +6706,7 @@
       "sj": "",
       "se": "",
       "jp": "　少女は親愛の情を示したつもりなのだろうが、彼女の身体は想像以上の筋力があるようで、腰の辺りからめきめきと音がする。",
-      "en": "She meant only to show affection. Her small body held unimaginable strength, however, and an ominous creak came from somewhere around Tachikawa's waist.",
+      "en": "She meant only to show affection. Her small body held far more strength than anyone would have imagined, however, and an ominous creak came from somewhere around Tachikawa's waist.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6723,7 +6723,7 @@
       "sj": "",
       "se": "",
       "jp": "　やはり<tips=95>金眼</tips>が発動した<tips=17>タイプＢ</tips>というのは、子供であっても凄い力があるものだ。",
-      "en": "Once the <tips=95>Golden-Eye state</tips> took hold, a <tips=17>Type B</tips> person possessed terrifying strength, even as a child.",
+      "en": "Even a <tips=17>Type B</tips> child in the <tips=95>Golden-Eye state</tips> possessed extraordinary strength.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-01.webp",
@@ -6843,7 +6843,7 @@
       "sj": "",
       "se": "",
       "jp": "　少女は悪びれもせずに屈託のない笑顔を浮かべている。",
-      "en": "The girl wore a carefree smile, entirely without remorse.",
+      "en": "The girl merely grinned, carefree and entirely unrepentant.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f006-02.webp",

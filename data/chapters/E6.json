@@ -585,7 +585,7 @@
       "sj": "",
       "se": "",
       "jp": "　だから私は、銃だとか、ロックを解除して使わなければならない危険な武器を持ち歩くのが好きではないのだが、さすがに今回ばかりはこれに頼らざるを得ない。",
-      "en": "That is why I dislike carrying guns and other dangerous weapons that normally require a safety to be released. This time, however, I have no choice.",
+      "en": "That is why I dislike carrying guns and other dangerous weapons that rely on a safety to prevent accidental use. This time, however, I have no choice.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -772,7 +772,7 @@
       "sj": "三芳",
       "se": "Hikari Miyoshi",
       "jp": "「あなたの探偵時代の経歴は一通り調べました。やり方はともかく、この街の貧しい人や、弱いもののために尽力して来た人です。逮捕された事件だって、依頼人のために行ったことです。警察にもそういう尊敬すべき人はいますが、少なくとも今<tips=9>Y地区</tips>を担当しているもののなかには……。私は経験が足りませんが、彼らには、<tips=9>Y地区</tips>をなんとかしようという情熱が足りません。<tips=48>堂島</tips>刑事は両方持っていた人だと思いますが……。だから、あなたに頼るしかないんです」",
-      "en": "“I looked through your entire career as a detective. Whatever your methods, you devoted yourself to the poor and vulnerable of this City. Even the crime that got you arrested was committed for a client. There are police officers worthy of the same respect, but among the people assigned to <tips=9>Y District</tips> now... I lack experience. They lack the passion to do anything for <tips=9>Y District</tips>. Detective <tips=48>Doujima</tips> had both, I think. ...That is why I have no one else to rely on.”",
+      "en": "“I looked through your entire career as a detective. Whatever your methods, you devoted yourself to the poor and vulnerable of this City. Even the crime that got you arrested was committed for a client. There are police officers worthy of the same respect, but among the people assigned to <tips=9>Y District</tips> now... I lack experience. They lack any passion for helping <tips=9>Y District</tips>. Detective <tips=48>Doujima</tips> had both, I think. ...That is why I have no one else to rely on.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -901,7 +901,7 @@
       "sj": "",
       "se": "",
       "jp": "　たんなる下働きで、<tips=31>エリー・ホワイト</tips>ほど核心的な情報を持っている可能性は低かったが、それでも何かしら<tips=20>コシチェイ</tips>の手がかりを得ることが出来るかもしれない。",
-      "en": "She was only a cleaner and is unlikely to know anything as central as <tips=31>Elly White</tips> did. Even so, she may offer some clue to <tips=20>Koschei</tips>."
+      "en": "She was only a cleaner and is unlikely to know anything as central as what <tips=31>Elly White</tips> told us. Even so, she may offer some clue to <tips=20>Koschei</tips>."
     },
     {
       "id": "E6:0086",
@@ -1046,7 +1046,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼女がそれをどの程度理解しているのかはわからないが、夢中になりすぎてバランスを欠いているのは明白だ。<tips=43>APTG</tips>をくすねて私に渡すなど、それだけでも懲戒免職ものじゃないか。",
-      "en": "I do not know how much of that she understands. It is obvious that obsession has already cost her balance. Stealing an <tips=43>APTG</tips> for me would be enough to get her dismissed.",
+      "en": "I do not know how much of that she understands. It is obvious that obsession has already cost her all sense of balance. Stealing an <tips=43>APTG</tips> for me would be enough to get her dismissed.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -1338,7 +1338,7 @@
       "sj": "",
       "se": "",
       "jp": "　しかし私たちが聞きたいのはその話ではない。清掃係として施設内のあちこちに入り込み、オーナーである<tips=60>ロジャー・アダムス</tips>や、その周辺で不死の儀式を行っていた『<tips=61>ヒトミ</tips>』についても詳しいと言うからここにやって来たのだ。",
-      "en": "But that is not why we came. As a cleaner, she entered every part of the facility, and she claimed to know a great deal about the owner, <tips=60>Roger Adams</tips>, and the woman around him who performed the immortality rites, <tips=61>Hitomi</tips>."
+      "en": "But that is not why we came. As a cleaner, she entered every part of the facility, and she claimed to know a great deal about the owner, <tips=60>Roger Adams</tips>, and the woman close to him who performed the immortality rites, <tips=61>Hitomi</tips>."
     },
     {
       "id": "E6:0123",
@@ -1572,7 +1572,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=49>三芳</tips>が呼び止めて、自分の携帯電話を取り出す。そして数語言葉を交わすにつれて、その顔が青ざめてゆく。",
-      "en": "<tips=49>Miyoshi</tips> stops me and answers her phone. With every few words, her face grows paler.",
+      "en": "<tips=49>Miyoshi</tips> stops me and answers her phone. As the conversation continues, her face grows paler by the moment.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -1692,7 +1692,7 @@
       "sj": "",
       "se": "",
       "jp": "「他の死亡者は、B棟に集中しています。こちらは出勤していた職員はみな三階のホールに集められて、そこで銃弾を浴びせられたようです。ほぼ皆殺しといって良い状態で、ホールが血の海になっていますよ……」",
-      "en": "“The remaining deaths are concentrated in Ward B. Every member of staff on duty there was apparently gathered in the third-floor hall and showered with bullets. One can call it near extermination. The hall is a sea of blood...”",
+      "en": "“The remaining deaths are concentrated in Ward B. Every member of staff on duty there was apparently gathered in the third-floor hall and showered with bullets. It was nearly a massacre. The hall is a sea of blood...”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -1743,7 +1743,7 @@
       "sj": "",
       "se": "",
       "jp": "「生き残った職員たちには、いま捜査員が手分けして聞き取りを行っています。何しろこれだけの事件ですし、あまりこの街に長時間留まって、じっくり捜査したくはないですからね。署で動けるやつを片っ端から連れてきましたが、人員も車両も応援が来る予定です。なるべく短い時間で現場での捜査を切り上げようって方針だそうです。それで、<tips=49>三芳</tips>さんは、どうしますか？」",
-      "en": "“Investigators are dividing the interviews with surviving staff among themselves. This is an enormous incident, and we do not wish to remain in the City conducting a leisurely investigation for long. We brought everyone available from the station; further personnel and vehicles are expected. The policy is to conclude work at the scene as quickly as possible. So, Ms. <tips=49>Miyoshi</tips>, what will you do?”",
+      "en": "“Investigators are dividing the interviews with surviving staff among themselves. This is an enormous incident, and we do not want to remain in the City taking our time over the investigation. We brought everyone available from the station, and further personnel and vehicles are expected. Our policy is to finish the work at the scene as quickly as possible. So, Ms. <tips=49>Miyoshi</tips>, what will you do?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -1845,7 +1845,7 @@
       "sj": "",
       "se": "",
       "jp": "　折りたたみの小さな傘に私を入れようとすると彼女の肩が濡れるので、私は傘のへりをぐいと押してその好意を断りつつ、",
-      "en": "Trying to admit me beneath so small a folding umbrella simply wets her shoulder. I push its edge firmly away, refusing the kindness.",
+      "en": "Trying to fit both of us under so small a folding umbrella only leaves her shoulder wet. I push its edge firmly away, refusing the kindness.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
@@ -2076,7 +2076,7 @@
       "sj": "",
       "se": "",
       "jp": "「担当捜査官は、<tips=21>八龍会</tips>の<tips=10>見土道夫</tips>という青年によるものだと考えているようです。彼も物を切断するサイキック能力を持っていますから」",
-      "en": "“The investigators responsible appear to believe the culprit is a young man from the <tips=21>Dragon Club</tips>, <tips=10>Michio Mido</tips>. He too possesses a psychic ability that cuts objects.”",
+      "en": "“The investigators assigned to the case appear to believe the culprit is a young man from the <tips=21>Dragon Club</tips>, <tips=10>Michio Mido</tips>. He too possesses a psychic ability that cuts objects.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -2229,7 +2229,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「まあ、<tips=10>見土</tips>がいたかどうかは、おれたちにとってはそんなに重要な問題じゃない。……<tips=21>八龍会</tips>と<tips=20>コシチェイ</tips>が組んで、何を狙っているのか……」",
-      "en": "“Either way, whether <tips=10>Mido</tips> was here doesn’t matter much to us. ...The question is what the <tips=21>Dragon Club</tips> and <tips=20>Koschei</tips> want from each other.”",
+      "en": "“Either way, whether <tips=10>Mido</tips> was here doesn’t matter much to us. ...The question is what the <tips=21>Dragon Club</tips> and <tips=20>Koschei</tips> hope to accomplish together.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -2342,7 +2342,7 @@
       "sj": "",
       "se": "",
       "jp": "　窓ガラスが割れ風が吹き込んでいるにもかかわらず、鼻を覆いたくなるようなどうしようもない臭気がむっと立ちこめている。腹に穴が空けば消化液や内臓のなかの糞も出て来るし、血液そのものも独特の臭いがある。血液に関して言えば、死体たちから夥しく流れ出てホールに赤く大きな水たまりを作っているのだから、それだけでも強烈な臭いだ。",
-      "en": "Even with wind blowing through the broken windows, a suffocating stench fills the hall. A torn abdomen releases digestive fluid and feces from the bowels, and blood has its own unmistakable odor. Here, so much has flowed from the bodies that it forms a vast red pool across the floor. The blood alone would be overpowering."
+      "en": "Even with wind blowing through the broken windows, a suffocating stench fills the hall. Torn abdomens spill digestive fluid and feces from the bowels, and blood has its own unmistakable odor. Here, so much has flowed from the bodies that it forms a vast red pool across the floor. The blood alone would be overpowering."
     },
     {
       "id": "E6:0225",
@@ -2540,7 +2540,7 @@
       "sj": "",
       "se": "",
       "jp": "「まだ全部の遺体を詳しく調べたわけじゃないですが、ざっと見たところ、そういった遺体はありませんね」",
-      "en": "“We have not yet examined every body in detail. At a glance, however, there is none.”"
+      "en": "“We have not yet examined every body in detail. At a glance, however, we have found none like that.”"
     },
     {
       "id": "E6:0247",
@@ -2577,7 +2577,7 @@
       "sj": "",
       "se": "",
       "jp": "　精神的ショックが強いものや、けが人などは早い段階で病院へ移送し、この時間まで残っていたのは自主的に協力を申し出た者だけらしいが、それでも五、六人はいる。",
-      "en": "Anyone badly injured or traumatized was transferred to another hospital earlier. Only volunteers remained to help this late, but there are still five or six of them."
+      "en": "Anyone badly injured or traumatized was transferred to another hospital earlier. Only those who volunteered to help remained this late, but there are still five or six of them."
     },
     {
       "id": "E6:0256",
@@ -2604,7 +2604,7 @@
       "sj": "",
       "se": "",
       "jp": "　私はそのうちの一人の事務服を着た女性職員を捕まえて、この病院に勤務しているはずの<tips=5>太刀川</tips>医師について尋ねた。",
-      "en": "I stop a woman in office clothes and ask about Dr. <tips=5>Tachikawa</tips>, who should work at this hospital."
+      "en": "I stop a woman in office clothes and ask about Dr. <tips=5>Tachikawa</tips>, who works at this hospital."
     },
     {
       "id": "E6:0259",
@@ -2665,7 +2665,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「まあね。古い知り合いだよ。今はここで働いているって、ふと思い出したんだ……。それにしても、腹が減ったな。向こうに定食屋があったはずだから、腹ごしらえしよう」",
-      "en": "“More or less. An old acquaintance. I happened to remember that he works here now. ...Anyway, I’m hungry. There should be a diner across the way. Let’s get some food in us.”",
+      "en": "“More or less. An old acquaintance. I happened to remember that he works here now. ...Anyway, I’m hungry. There should be a diner across the way. Let’s get something to eat.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-09.webp",
@@ -2888,7 +2888,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=53>ミユキ</tips>の件があってから食欲は失せていたが、施設で過ごした辺りから大分食事量が戻って来ている。いやむしろ、前よりも多く食べるようになったかもしれない。",
-      "en": "After <tips=53>Miyuki</tips>’s death, my appetite vanished. Around the time I began living at the facility, however, the quantity I ate largely returned. Indeed, perhaps I now eat more than before."
+      "en": "After <tips=53>Miyuki</tips>’s death, my appetite vanished. Around the time I began living at the facility, however, it largely returned. Indeed, perhaps I now eat more than before."
     },
     {
       "id": "E6:0292",
@@ -2897,7 +2897,7 @@
       "sj": "",
       "se": "",
       "jp": "　大怪我から回復するときに消費したエネルギーを取り戻すだけにしては、余りにも長く食欲が持続している。",
-      "en": "The appetite has persisted far too long simply to replace energy consumed in recovering from a grave wound."
+      "en": "My appetite has persisted far too long for this to be nothing more than replacing the energy I spent recovering from a grave wound."
     },
     {
       "id": "E6:0293",
@@ -2915,7 +2915,7 @@
       "sj": "",
       "se": "",
       "jp": "　料理は平凡で、別に旨いとも思わなかったが、単純に飢えを満たす欲求に動かされるまま私は運ばれて来た皿の上のものを胃の中に移した。",
-      "en": "The cooking is ordinary and not especially delicious. Moved solely by the desire to satisfy hunger, I transfer everything brought on the plates into my stomach."
+      "en": "The cooking is ordinary and not especially delicious. Driven solely by the need to satisfy my hunger, I shovel down everything they bring me."
     },
     {
       "id": "E6:0295",
@@ -2959,7 +2959,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「それもあるかも知れないが、そもそもね、今まではこういうことをしたくても出来なかったんだよ。<tips=17>タイプB</tips>ってのはもともと組織や規律のなかで働くのが不得意だからな。どこの国にも<tips=17>タイプB</tips>だけで編成された部隊はない。症状をコントロール出来る精鋭だけが隊に居られる。そもそも<tips=17>タイプB</tips>が軍隊に入れない国も多い。企業だって、喜んで採用したりはしないさ。心理的ストレスに長く晒されるような場面だと、<tips=17>タイプB</tips>の発症率はグンとあがるんだ。そうするとわけがわからなくなる。コントロール出来るやつもいるが、何かの拍子で一人でも発症したら隊は終わりだ。シビアなところじゃ使い物にならないんだよ」",
-      "en": "“Perhaps. More fundamentally, however, until now they could not have done this even had they wished. <tips=17>Type B</tips> people are naturally poor at working within organization and discipline. No country has a unit composed solely of <tips=17>Type B</tips> people. Only elite soldiers capable of controlling their symptoms may remain in one. Many countries prohibit <tips=17>Type B</tips> people from military service altogether. Companies do not employ them gladly either. Under prolonged psychological stress, the rate of manifestation rises sharply among <tips=17>Type B</tips> people. Then everything ceases to make sense. Some can retain control, but if even one person manifests at the wrong moment, the unit is finished. They are useless where conditions are severe.”",
+      "en": "“Perhaps. More fundamentally, however, until now they could not have done this even had they wished. <tips=17>Type B</tips> people are naturally ill-suited to working within organizations or under strict discipline. No country fields a unit composed solely of <tips=17>Type B</tips> people. Only elite soldiers capable of controlling their symptoms can remain in service. Many countries prohibit <tips=17>Type B</tips> people from military service altogether. Companies are reluctant to employ them too. Under prolonged psychological stress, the rate of manifestation rises sharply among <tips=17>Type B</tips> people. Then everything falls apart. Some can retain control, but if even one person manifests at the wrong moment, the unit is finished. They are useless under severe conditions.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
@@ -2993,7 +2993,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「そう。あの薬が、今回の襲撃を可能にしたんだろう。……以前古いほうの『<tips=45>ローズ</tips>』が流行したときも、そんな動きが起こりかけたんだ。だが、あの時は結局使い物になる薬じゃないってことがすぐにわかったからな。今回は違うのかもしれない。少なくともジジイどもはそう判断してるから、こんなことをしたんだ。……もしそうなら大変なことだぜ。症状さえなければ、優れた肉体をそのまま現場で活かせる。単純な喧嘩なら<tips=7>ＹＳ</tips>みたいなサイキックを擁するギャング組織とも張り合えるし、それに今まで培ったネットワークが加われば怖いものなしだ」",
-      "en": "“Correct. That drug presumably made this assault possible. ...When the old <tips=45>Rose</tips> became fashionable, a similar movement nearly began. People quickly learned then that the drug was unusable. This time may be different. At least, the old men judged it so; otherwise they would not have done this. ...If they are right, it is a grave matter. Without symptoms, superior bodies can be used freely in the field. In a simple fight, they can rival psychic gangs such as <tips=7>YS</tips>. Add the network built over so many years, and little can frighten them.”",
+      "en": "“Correct. That drug presumably made this assault possible. ...When the old <tips=45>Rose</tips> came into fashion, a similar movement nearly began. But people quickly learned that the drug was unfit for use. This time may be different. At least, the old men must believe it is; otherwise they would not have done this. ...If they are right, it is a grave matter. Without symptoms, their superior bodies can be put to full use in the field. In a simple fight, they can rival psychic gangs such as <tips=7>YS</tips>. Combine that with the network they have built over so many years, and they have little left to fear.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -3027,7 +3027,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「そんな簡単な話じゃないだろうが、その可能性はある。が、警察はどうするんだ？　今後<tips=7>ＹＳ</tips>との覇権争いが始まれば街は滅茶苦茶になる。昔の<tips=68>木下組</tips>との争いみたいにだんまりを通すつもりか？　あの時と違って、狭い箱のなかでモンスター同士が殺し合うだけじゃすまないんだぜ？　この街は今や立派な繁華街で、よそからの客もたくさん訪れる。普通の学生だって<tips=57>滑走路通り</tips>を食べ歩いたりしているんだ。ああいうのが死んだら見て見ぬフリは出来ないだろう」",
-      "en": "“It will not be so simple, but the possibility exists. What will the police do? If a struggle for supremacy with <tips=7>YS</tips> begins, the City will be ruined. Do you mean to remain silent as during the old conflict with the <tips=68>Kinoshita-gumi</tips>? Unlike then, this will not end with monsters killing one another inside a narrow box. The City is now a respectable entertainment district visited by many outsiders. Ordinary students eat their way along <tips=57>Runway Street</tips>. If such people die, the police cannot pretend not to see.”",
+      "en": "“It will not be so simple, but the possibility exists. What will the police do? If a struggle for supremacy with <tips=7>YS</tips> begins, the City will be ruined. Do you mean to remain silent as during the old conflict with the <tips=68>Kinoshita-gumi</tips>? Unlike then, this will not end with monsters killing one another inside a closed-off arena. The City is now a respectable entertainment district visited by many outsiders. Ordinary students eat their way along <tips=57>Runway Street</tips>. If such people die, the police cannot pretend not to see.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -3078,7 +3078,7 @@
       "sj": "",
       "se": "",
       "jp": "　それから今後の<tips=9>Y地区</tips>の情勢の予測などについて話しているうちに、思いのほか時間を過ごしてしまった。",
-      "en": "As we discuss predictions for the future of <tips=9>Y District</tips>, more time passes than expected."
+      "en": "As we discuss what may come next for <tips=9>Y District</tips>, more time passes than expected."
     },
     {
       "id": "E6:0315",
@@ -3133,7 +3133,7 @@
       "sj": "",
       "se": "",
       "jp": "　遺体の様子はひどい有様で、個人の特定さえ難しそうだったのに、どうしてこんなに早く名前が判明したのだろう？　何の気なしに警官に尋ねると、私たちが食事をしている間に<tips=5>太刀川</tips>がやって来て死者の名を教えてくれたのだと言った。",
-      "en": "The remains were so mutilated that even identifying individuals seemed difficult. How were the names discovered so quickly? When I casually ask an officer, he says <tips=5>Tachikawa</tips> arrived while we were eating and supplied the victims' names."
+      "en": "The remains were so mutilated that even identifying individuals seemed difficult. How were the names discovered so quickly? When I casually ask an officer, he says <tips=5>Tachikawa</tips> arrived while we were eating and supplied the victims’ names."
     },
     {
       "id": "E6:0321",
@@ -3151,7 +3151,7 @@
       "sj": "",
       "se": "",
       "jp": "　残念に思ったが、警官たちは私と<tips=5>太刀川</tips>の関係など知らないのだから仕方がない。",
-      "en": "I am disappointed, but the officers know nothing of my relationship with <tips=5>Tachikawa</tips>, so it cannot be helped."
+      "en": "I am disappointed, but the officers know nothing of my relationship with <tips=5>Tachikawa</tips>. They had no reason to tell me."
     },
     {
       "id": "E6:0323",
@@ -3178,7 +3178,7 @@
       "sj": "",
       "se": "",
       "jp": "　と警官が言うのは意外だった。",
-      "en": "The officer's answer surprises me."
+      "en": "The officer’s answer surprises me."
     },
     {
       "id": "E6:0326",
@@ -3248,7 +3248,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>のことは隠した方がいいのだろうが、私にまっすぐな視線を向ける<tips=49>三芳</tips>の姿を見ると、なんとなく教えたくなった。",
-      "en": "I should probably conceal <tips=5>Tachikawa</tips>'s identity, but seeing <tips=49>Miyoshi</tips>'s direct gaze makes me want to tell her.",
+      "en": "I should probably conceal <tips=5>Tachikawa</tips>’s identity, but something about <tips=49>Miyoshi</tips>’s direct gaze makes me want to tell her.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -3554,7 +3554,7 @@
       "sj": "",
       "se": "",
       "jp": "　そして通りに出てタクシーを捕まえ、<tips=5>太刀川</tips>のマンションの前に降りたところで<tips=49>三芳</tips>に説明をした。",
-      "en": "We reach the street, hail a taxi, and descend before <tips=5>Tachikawa</tips>’s apartment building. There I explain the matter to <tips=49>Miyoshi</tips>."
+      "en": "We reach the street, hail a taxi, and get out in front of <tips=5>Tachikawa</tips>’s apartment building. There I explain the matter to <tips=49>Miyoshi</tips>."
     },
     {
       "id": "E6:0357",
@@ -3563,7 +3563,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>は、かつて<tips=3>クリス・ツェー</tips>の相棒として『<tips=18>ローズ・クラブ</tips>』を崩壊に導き、<tips=7>ＹＳ</tips>の誕生にも深く関わった『ドクター』であること。",
-      "en": "<tips=5>Tachikawa</tips> was the ‘Doctor’ who, as <tips=3>Chris Xie</tips>’s partner, helped bring down the <tips=18>Rose Club</tips> and played a deep part in the birth of <tips=7>YS</tips>."
+      "en": "<tips=5>Tachikawa</tips> was the ‘Doctor’ who, as <tips=3>Chris Xie</tips>’s partner, helped bring down the <tips=18>Rose Club</tips> and played a central role in the birth of <tips=7>YS</tips>."
     },
     {
       "id": "E6:0358",
@@ -3683,7 +3683,7 @@
       "sj": "",
       "se": "",
       "jp": "　私がこんな言い方をしたことも<tips=49>三芳</tips>にとっては意外だったらしく、目を大きく見開いたままこちらを見つめる。",
-      "en": "Even this description from me appears to surprise <tips=49>Miyoshi</tips>. She stares with her eyes opened wide.",
+      "en": "Even this description from me appears to surprise <tips=49>Miyoshi</tips>. She stares at me with her eyes wide.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -3700,7 +3700,7 @@
       "sj": "",
       "se": "",
       "jp": "　その前で、私はパネルに<tips=5>太刀川</tips>の部屋番号を入力する。",
-      "en": "Before her, I enter <tips=5>Tachikawa</tips>’s room number into the panel."
+      "en": "With her watching, I enter <tips=5>Tachikawa</tips>’s room number into the panel."
     },
     {
       "id": "E6:0369",
@@ -3718,7 +3718,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「仕方ないな。勝手に入ろう」",
-      "en": "“It cannot be helped. We shall enter on our own.”"
+      "en": "“No answer. We’ll let ourselves in.”"
     },
     {
       "id": "E6:0371",
@@ -3727,7 +3727,7 @@
       "sj": "",
       "se": "",
       "jp": "　私は病院で彼の電話番号を調べなかったことを後悔しつつ、パネルの横の、奥へと通ずる自動ドアの前にたった。",
-      "en": "Regretting that I failed to learn his telephone number at the hospital, I stand before the automatic door beside the panel, which leads inward."
+      "en": "Regretting that I failed to learn his telephone number at the hospital, I step up to the automatic door beside the panel that leads into the building."
     },
     {
       "id": "E6:0372",
@@ -3832,7 +3832,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=5>太刀川</tips>の性格からして自室を散らかし放題にするタイプには思えないから、よほどドタバタとしていたのだろうか。",
-      "en": "Judging by <tips=5>Tachikawa</tips>’s character, he does not seem the sort to scatter his room. Was he in some tremendous haste?"
+      "en": "Judging by <tips=5>Tachikawa</tips>’s character, he does not seem the sort to leave his rooms in disarray. Was he in some tremendous haste?"
     },
     {
       "id": "E6:0383",
@@ -3875,7 +3875,7 @@
       "sj": "",
       "se": "",
       "jp": "　清潔で一人暮らしにしては広い部屋だが、家具や日用品は最小限しかなく、いかにも<tips=5>太刀川</tips>らしかった。",
-      "en": "The clean apartment is large for one occupant, but contains the minimum of furniture and necessities. It is thoroughly characteristic of <tips=5>Tachikawa</tips>.",
+      "en": "The clean apartment is large for one occupant, but contains only the bare minimum of furniture and necessities. It is thoroughly characteristic of <tips=5>Tachikawa</tips>.",
       "bg": "assets/vn/backgrounds/background-太刀川マンション.webp"
     },
     {
@@ -3885,7 +3885,7 @@
       "sj": "",
       "se": "",
       "jp": "　リビングには目を引くものがなく、わざわざ不法侵入した甲斐もない。玄関のところにメモでも挟んで帰ろうかと思いながら寝室に入る。",
-      "en": "Nothing in the living room attracts notice, leaving little reward for the unlawful entry. I enter the bedroom while considering whether to leave a note near the entrance."
+      "en": "Nothing in the living room catches my eye, leaving little reward for the unlawful entry. I enter the bedroom while considering whether to leave a note near the entrance."
     },
     {
       "id": "E6:0393",
@@ -3894,7 +3894,7 @@
       "sj": "",
       "se": "",
       "jp": "　そこも、やはり<tips=5>太刀川</tips>が慌ただしく行動した痕跡が残っていた。",
-      "en": "There too remain signs that <tips=5>Tachikawa</tips> acted in haste."
+      "en": "There too, I find signs that <tips=5>Tachikawa</tips> acted in haste."
     },
     {
       "id": "E6:0394",
@@ -3903,7 +3903,7 @@
       "sj": "",
       "se": "",
       "jp": "　ベッドの上の布団は起きた時の形のまま乱れ、その上に上着とサングラスが投げ捨ててある。上着の上には、携帯電話が置いてあった。",
-      "en": "The bedclothes retain the disorder in which he left them on rising. A jacket and sunglasses have been thrown on the bed; a mobile telephone lies on the jacket."
+      "en": "The bedclothes remain rumpled from when he rose. A jacket and sunglasses have been thrown on the bed, and a mobile telephone lies on top of the jacket."
     },
     {
       "id": "E6:0395",
@@ -3982,7 +3982,7 @@
       "sj": "",
       "se": "",
       "jp": "　油紙は長年何かを包んでいたせいで、包んでいた形に沿って折れ目がついている。ベッドの上でその折れ目をもとに包んでいたときの形を再現すると、それは直角三角形のようなかたちになった。",
-      "en": "Years around some object have creased the oiled paper according to its form. On the bed, I reconstruct the wrapped shape from those folds. It resembles a right triangle.",
+      "en": "The oiled paper has spent years wrapped around some object, and its shape remains impressed in the creases. I spread it on the bed and reconstruct the object from those folds. It resembles a right triangle.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
@@ -4016,7 +4016,7 @@
       "sj": "",
       "se": "",
       "jp": "　そうとしか見えない。",
-      "en": "It can appear no other way.",
+      "en": "No other shape fits.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
@@ -4084,7 +4084,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「胸騒ぎがする。先生を探そう」",
-      "en": "“I have an evil premonition. Let us find the doctor.”",
+      "en": "“I have a bad feeling. Let’s find the doctor.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -4118,7 +4118,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「<tips=21>八龍会</tips>のジジイどもの家に行く。先生は病院のことで頭に血が上って、あそこに向かったんだ。先生が直接会って話せば、いかなるものも真実を隠すことが出来ないからな」",
-      "en": "“We shall go to the old men’s house, headquarters of the <tips=21>Dragon Club</tips>. The hospital sent blood to his head, and he went there. When the doctor meets a person directly, nothing whatever can hide the truth from him.”",
+      "en": "“We’ll go to the old men’s house, the <tips=21>Dragon Club</tips> headquarters. What he saw at the hospital enraged him, and he went there. When the doctor meets someone face to face, nothing can hide the truth from him.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -4205,7 +4205,7 @@
       "sj": "",
       "se": "",
       "jp": "　本来<tips=21>八龍会</tips>は、そうした平和的なコミュニティだったはずなのだ。ノーマルたちとも交流をもち、うまくやって来たはずだ。間違っても、あの病院で見たような凄惨な殺人事件を起こす集団ではない。少なくとも、表立った場所では。",
-      "en": "Originally, the <tips=21>Dragon Club</tips> ought to have been such a peaceful community. It maintained relations with Normals and lived beside them successfully. Under no circumstances was it a group that committed the atrocious murder we saw at the hospital. At least, not in public."
+      "en": "Originally, the <tips=21>Dragon Club</tips> was meant to be that kind of peaceful community. It maintained relations with Normals and lived successfully beside them. It was never the sort of group to commit the atrocious murders we saw at the hospital. At least, not in public."
     },
     {
       "id": "E6:0420",
@@ -4223,7 +4223,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=35>フェルナンデス</tips>殺人事件の犯人の件で<tips=7>ＹＳ</tips>を非難したあたりでなんとなくきな臭い感じはしていた。が、今回の事件を想像出来たものはいなかったろう。",
-      "en": "When they denounced the perpetrators of the <tips=35>Fernandez murders</tips> and <tips=7>YS</tips>, I sensed the smell of danger. No one, however, could have imagined this incident."
+      "en": "When they denounced the perpetrators of the <tips=35>Fernandez murders</tips> and criticized <tips=7>YS</tips>, I sensed danger in the air. No one, however, could have imagined this incident."
     },
     {
       "id": "E6:0422",
@@ -4241,7 +4241,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼は<tips=9>Y地区</tips>内の児童施設に赴き、一銭にもならぬ深夜診療を続けていた。その彼でさえ、このような残酷な事件が起こるとは予期しなかっただろう。だから、病院で柄にもあわぬ憤りを見せ、銃などを持って雨の街へと飛び出した。",
-      "en": "He visited children’s facilities in <tips=9>Y District</tips> and continued late-night examinations that earned him nothing. Even he could not have anticipated such cruelty. Therefore he showed uncharacteristic anger at the hospital, took a gun, and flew into the rainy City."
+      "en": "He visited children’s facilities in <tips=9>Y District</tips> and continued late-night examinations that earned him nothing. Even he could not have anticipated such cruelty. Whatever he saw at the hospital must have driven him into an uncharacteristic rage. He took a gun and flew into the rainy City."
     },
     {
       "id": "E6:0424",
@@ -4250,7 +4250,7 @@
       "sj": "",
       "se": "",
       "jp": "　普段、誰よりも<tips=17>タイプB</tips>を気にかけていた彼が、愛する<tips=17>タイプB</tips>の組織に仲間を殺された気持ちは察するに余りある。",
-      "en": "He ordinarily cared for <tips=17>Type B</tips> people more than anyone. One can hardly imagine what he felt when an organization of the <tips=17>Type B</tips> people he loved killed his comrades."
+      "en": "He ordinarily cared for <tips=17>Type B</tips> people more than anyone. One can hardly imagine what he felt when an organization formed by the <tips=17>Type B</tips> people he loved murdered his colleagues."
     },
     {
       "id": "E6:0425",
@@ -4295,7 +4295,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=21>八龍会</tips>の<tips=22>老人たち</tips>と<tips=59>暗闇通り</tips>の中間の町並みは犯罪が頻発する危険地域で、地元の者でもこの時間は滅多に訪れない。",
-      "en": "The streets between the <tips=21>Dragon Club</tips>’s <tips=22>Elders</tips> and <tips=59>Darkness Street</tips> are dangerous and rife with crime. Even locals rarely venture there at night."
+      "en": "The streets between the <tips=21>Dragon Club</tips>’s <tips=22>Elders</tips>’ residence and <tips=59>Darkness Street</tips> are dangerous and rife with crime. Even locals rarely venture there at night."
     },
     {
       "id": "E6:0438",
@@ -4377,7 +4377,7 @@
       "sj": "",
       "se": "",
       "jp": "　青黒い皮膚はすっかり死人のものだ。サングラスのないその瞳は中空を見ている。",
-      "en": "The blue-black skin belongs completely to a dead man. Without sunglasses, his eyes gaze into empty space."
+      "en": "The blue-black skin is unmistakably that of a dead man. Without sunglasses, his eyes gaze into empty space."
     },
     {
       "id": "E6:0447",
@@ -4606,7 +4606,7 @@
       "sj": "",
       "se": "",
       "jp": "　男は手帳を確認するどころか、及び腰になって後ずさりしている。",
-      "en": "Instead of inspecting the identification, he cowers and backs away.",
+      "en": "Rather than come close enough to inspect the identification, he cowers and backs away.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -4759,7 +4759,7 @@
       "sj": "",
       "se": "",
       "jp": "　絶句する<tips=49>三芳</tips>に、中年男は手に握った拳銃を向ける。",
-      "en": "As <tips=49>Miyoshi</tips> stares speechlessly, the middle-aged man turns the handgun in his grip on her.",
+      "en": "As <tips=49>Miyoshi</tips> stares speechlessly, the middle-aged man swings the handgun in his grip toward her.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
@@ -4997,7 +4997,7 @@
       "sj": "",
       "se": "",
       "jp": "　そしてそのふらつきから回復するころには、すっかり別人に『変身』していた。",
-      "en": "By the time he regains his balance, he has ‘transformed’ into someone else entirely.",
+      "en": "By the time he recovers from the stagger, he has ‘transformed’ into someone else entirely.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-03.webp",
@@ -5307,7 +5307,7 @@
       "sj": "",
       "se": "",
       "jp": "　不死身と言えども体中を蜂の巣にされてはこたえるようだ。ふらふらとして、目眩がする。意識を失うのもそう遠くはないだろう。",
-      "en": "Even an immortal body feels being riddled with bullets. I sway with dizziness. I will not remain conscious much longer.",
+      "en": "Even an immortal body suffers when riddled with bullets. I sway with dizziness. I will not remain conscious much longer.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-05.webp",
@@ -5409,7 +5409,7 @@
       "sj": "",
       "se": "",
       "jp": "　喋った拍子に、腹からあがってきた血液が唇の端から漏れる。",
-      "en": "Speaking forces blood up from my belly and out through the corner of my mouth.",
+      "en": "Speaking makes blood well up from my abdomen and leak from the corner of my mouth.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -5803,7 +5803,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=43>APTG</tips>に使われている新型の注射薬はとにかく効果が現れるのが早いが、それでも完全に能力を押さえ込むには数十秒はかかると言われている。相手の身体は大分小さくなってくれたものの、それでも瞬間的に能力を封じ込めてはくれないだろう。",
-      "en": "The new drug fired by the <tips=43>APTG</tips> acts extraordinarily fast, but even it supposedly needs several dozen seconds to suppress an ability completely. Her body has already grown much smaller, but the drug cannot have sealed her power at once.",
+      "en": "The new drug fired by the <tips=43>APTG</tips> acts extraordinarily fast, but even it supposedly needs tens of seconds to suppress an ability completely. Her body has already grown much smaller, but the drug cannot have sealed her power at once.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maria-f024-09.webp",
@@ -6313,7 +6313,7 @@
       "sj": "",
       "se": "",
       "jp": "　私はそれをひったくるように奪い取ると、少女に狙いを定める。しかし、銃の重さに腕力がおよばず、銃口が泳いでいる。",
-      "en": "I almost snatch it from her and aim at the girl. But I no longer have the strength to hold up the weapon, and the muzzle wanders.",
+      "en": "I snatch it from her and aim at the girl. But I no longer have the strength to hold up the weapon, and the muzzle wanders.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maria-f024-13.webp",
@@ -6432,7 +6432,7 @@
       "sj": "",
       "se": "",
       "jp": "　急所を外したようだが、次は外さない。私は力が入りにくくなった足で三歩近づく。",
-      "en": "I missed anything vital. I will not miss again. On legs that barely answer me, I take three steps closer.",
+      "en": "I missed every vital spot. I will not miss again. On legs that barely answer me, I take three steps closer.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-maria-f024-10.webp",
@@ -6594,7 +6594,7 @@
       "sj": "",
       "se": "",
       "jp": "　私は視線を周囲にぐるりまわすと、右手の塀の上に、二人の人影があるのを見つけた。",
-      "en": "I sweep my gaze around and find two figures standing on the wall to our right."
+      "en": "I sweep my gaze around and find two figures standing atop the wall to our right."
     },
     {
       "id": "E6:0636",
@@ -6960,7 +6960,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=11>璃映子</tips>がそう言ったところで、<tips=49>三芳</tips>が<tips=43>APTG</tips>を構えて引き金を引いた。しかし、その直前で念動力の妨害を受けたのか、銃口は逸れ、注射筒は雨の降る夜の空に吸い込まれてゆく。",
-      "en": "As <tips=11>Rieko</tips> speaks, <tips=49>Miyoshi</tips> raises the <tips=43>APTG</tips> and fires. Telekinesis catches the muzzle an instant before the shot, and the syringe vanishes into the rainy night.",
+      "en": "As <tips=11>Rieko</tips> speaks, <tips=49>Miyoshi</tips> raises the <tips=43>APTG</tips> and fires. Telekinesis knocks the muzzle aside an instant before the shot, and the syringe vanishes into the rainy night.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-rieko-haigami-f020-03.webp",
@@ -7116,7 +7116,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=49>三芳</tips>はそんな私に駆けつけ、抱き起こしてくれた。",
-      "en": "<tips=49>Miyoshi</tips> runs to me and lifts me into her arms."
+      "en": "<tips=49>Miyoshi</tips> runs to me and lifts my upper body into her arms."
     },
     {
       "id": "E6:0686",

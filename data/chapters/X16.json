@@ -140,7 +140,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼は朦朧としていて、ぼんやりと目の前の空間を眺めながら微かに頷く。",
-      "en": "He stares vaguely into space through a daze and barely nods.",
+      "en": "He stares dazedly into space and gives the faintest nod.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-sashen-ka-f067-07.webp",
@@ -356,7 +356,7 @@
       "sj": "",
       "se": "",
       "jp": "　耳鳴りはやんでいる。一時的なものかもしれないが、私たちはほっとして立ち上がった。",
-      "en": "The ringing has stopped. It may be temporary, but relief gets us to our feet."
+      "en": "The ringing has stopped. It may be temporary, but the relief is enough to get us to our feet."
     },
     {
       "id": "X16:0075",
@@ -1433,7 +1433,7 @@
       "sj": "",
       "se": "",
       "jp": "　建物の周りに、何か物音を隠すように行動しているものがいる。",
-      "en": "Someone is moving around the building, trying very hard not to be heard.",
+      "en": "Someone is moving around outside the building, trying very hard not to be heard.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -1665,7 +1665,7 @@
       "sj": "",
       "se": "",
       "jp": "　ごく一般的な日本風住宅であるこの建物は、玄関もありきたりな広さだ。相手は建物の表と裏に、少し距離を置いて全ての入り口を見られるようにしながら待機している。おそらく増援を待っているんだと思う。",
-      "en": "It is an ordinary Japanese house with an ordinary little entryway. The people outside have spread around the front and back at enough distance to watch every exit. They are probably waiting for reinforcements.",
+      "en": "It is an ordinary Japanese house with an ordinary little entryway. The people outside have taken up positions around the front and back, far enough from the building to watch every exit. They are probably waiting for reinforcements.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -1753,7 +1753,7 @@
       "sj": "",
       "se": "",
       "jp": "　開けた瞬間に見えたのは一人。制服を着てはいないけれど、その服装や髪型の雰囲気はこの街の住人とは違うような気がする。やっぱり私服の警官だろう。",
-      "en": "The door opens on one man. He isn't in uniform, but his clothes and hair don't feel like they belong to anyone from the City. A plainclothes officer, then."
+      "en": "The door opens on one man. He isn't in uniform, but neither his clothes nor his hair looks like it belongs to anyone from the City. A plainclothes officer, then."
     },
     {
       "id": "X16:0190",
@@ -1789,7 +1789,7 @@
       "sj": "",
       "se": "",
       "jp": "　目覚める前だったらこんなに強い力を出すことは出来ない。単に出力があがっただけだけれど、前とは全く違う使い方が出来るようになったんだ。",
-      "en": "Before we awakened, we could never have produced this much force. The only difference is greater output, but it has opened entirely new ways to use our power."
+      "en": "Before we awakened, we could never have produced this much force. All that has changed is the power's output, yet that alone has opened entirely new ways to use it."
     },
     {
       "id": "X16:0195",
@@ -1925,7 +1925,7 @@
       "sj": "",
       "se": "",
       "jp": "　男は抵抗するが、彼はノーマルだろうか？　その力は幼児が暴れるほどにも感じない。",
-      "en": "The man struggles. Is he a Normal? His strength feels weaker than a toddler throwing a fit."
+      "en": "The man struggles. Is he a Normal? His resistance feels weaker than a toddler's tantrum."
     },
     {
       "id": "X16:0224",
@@ -2060,7 +2060,7 @@
       "sj": "",
       "se": "",
       "jp": "　関節以外の場所は少し固くて、掴んだ肉の方がずるっと剥けてしまった。",
-      "en": "Bone away from the joint is a little harder. The flesh under our fingers peels loose first."
+      "en": "Bone is a little harder to break away from a joint. The flesh under our fingers peels loose first."
     },
     {
       "id": "X16:0243",
@@ -2295,7 +2295,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「早いな。うまくいったか？」",
-      "en": "“That was fast. Go well?”",
+      "en": "“That was fast. Did it go well?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -2607,7 +2607,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>が指さしたのは、街の大人たちが『連れ込み宿』と言っている施設だった。今風に言えばラブホテルとかブティックホテルと言った方がいいのかもしれないが、とてもそういった言葉の似合わない旅館のような木造建築は連れ込み宿という言葉の方が相応しかった。",
-      "en": "<tips=64>Alexey</tips> points to what the City's adults call a “rendezvous inn.” A modern person might say love hotel or boutique hotel, but neither suits this wooden building that looks like an old Japanese inn. “Rendezvous inn” is exactly right.",
+      "en": "<tips=64>Alexey</tips> points to what the City's adults call a “rendezvous inn.” Today we might call it a love hotel or a boutique hotel, but neither term suits this wooden building, which looks like an old Japanese inn. “Rendezvous inn” is exactly right.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -2769,7 +2769,7 @@
       "sj": "",
       "se": "",
       "jp": "　建物は旅館風だが、システムは旅館とは違うらしい。部屋番号の入った鍵を貰って、私たちは玄関に靴を預け、ギシギシと音の鳴る廊下を歩く。",
-      "en": "The building looks like a traditional inn, but doesn't operate like one. We receive a numbered key, leave our shoes at the entrance, and follow a creaking corridor."
+      "en": "The building looks like a traditional inn, but it doesn't operate like one. We receive a numbered key, leave our shoes at the entrance, and follow a creaking corridor."
     },
     {
       "id": "X16:0342",
@@ -2795,7 +2795,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=64>アレクセイ</tips>は状況にそぐわないウキウキとした調子で言った。",
-      "en": "<tips=64>Alexey</tips> sounds positively delighted, in complete disregard of their situation.",
+      "en": "<tips=64>Alexey</tips> sounds positively delighted, completely heedless of our situation.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
@@ -3223,7 +3223,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……<tips=65>ヘス</tips>の爺さんは何かを築きたいって欲望にかられて、<tips=18>ローズ・クラブ</tips>のようなことをやったがね、あんなのは本当は我々のすることじゃない。本能に従って好きなように生き、野垂れ死ぬべきだった。生物っていうのは、本質的にそれだけでいいとは思わないかい？　おれみたいな場所に住む人間からすると、社会の連中は、どうして、無理矢理なにかのふりをして生きようとしているのか、理解に苦しむね。しかも、結局誰も何にもなりきれもせずに中途半端に本性を出すんだ」",
-      "en": "“...Old <tips=65>Hess</tips> had this urge to build something, so he created the <tips=18>Rose Club</tips>. But that was never what we were meant to do. We should've followed our instincts, lived however we liked, and died in a ditch. Isn't that all any creature really needs? From where I live, I can't understand why people in society force themselves to spend their lives pretending to be something. In the end, none of them manages to become it. Their true nature only leaks out in pathetic little spurts.”",
+      "en": "“...Old <tips=65>Hess</tips> had this urge to build something, so he created the <tips=18>Rose Club</tips>. But that was never what we were meant to do. We should've followed our instincts, lived however we liked, and died in a ditch. Isn't that all any creature really needs? From where I stand, I can't understand why people in society force themselves to spend their lives pretending to be something. In the end, none of them manages to become it. Their true nature only leaks out in pathetic little spurts.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-01.webp",
@@ -4345,7 +4345,7 @@
       "sj": "",
       "se": "",
       "jp": "　二人とも黙りこくってしまって生まれた長い長い静寂を破ったのは彼の言葉だった。",
-      "en": "Alexey breaks the long silence that has swallowed them both.",
+      "en": "Alexey breaks the long silence that has swallowed us both.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-02.webp",
@@ -4614,7 +4614,7 @@
       "sj": "",
       "se": "",
       "jp": "　つぎはぎだらけのアスファルトで覆われた細い路地。ベトナム人がやっていた時計屋は、みんなの腕時計をただ同然で直してくれる親切な人で、主に盗品の売買で暮らしていた。そのとなりのクリーニング店はいつもシャッターが下りていて、裏口から入って来る人に麻薬を売っていた。それから、おかみさんが残飯を煮直して貧しい人に無償で提供している定食屋さんや、新しい種類のお酒が出来ると路上に出したソファーで朝から飲み出す気の良い密造酒屋さんがいた。",
-      "en": "A narrow alley paved in patch on patch of asphalt. The Vietnamese watchmaker was a kind man who repaired everyone's watches for next to nothing and made most of his living fencing stolen goods. The laundry next door always had its shutter down and sold drugs through the back entrance. There was a diner where the proprietress reheated leftovers and fed the poor for free, and a cheerful moonshiner who brought a sofa into the street whenever he finished a new batch and started drinking at dawn."
+      "en": "A narrow alley covered in asphalt patches laid one over another. The Vietnamese watchmaker was a kind man who repaired everyone's watches for next to nothing and made most of his living fencing stolen goods. The laundry next door always had its shutter down and sold drugs through the back entrance. There was a diner where the proprietress reheated leftovers and fed the poor for free, and a cheerful moonshiner who brought a sofa into the street whenever he finished a new batch and started drinking at dawn."
     },
     {
       "id": "X16:0474",
@@ -4713,7 +4713,7 @@
       "sj": "",
       "se": "",
       "jp": "　自分を何よりも大事にしてくれて、自分たちも大好きだった相手を殺してしまった。そんな人間は誰にも愛される資格はないし、誰かを愛する資格もない。",
-      "en": "We killed the person who cherished us most, a person we loved. People like that have no right to be loved. We have no right to love anyone either."
+      "en": "We killed the person who cherished us most, a person we loved. People like us have no right to be loved. We have no right to love anyone either."
     },
     {
       "id": "X16:0485",
@@ -4877,7 +4877,7 @@
       "sj": "",
       "se": "",
       "jp": "　私の力は前よりも大分強くなったけれども、本格的に対サイキック装備で固めた警察と、この街の裏路地まで知り尽くした<tips=7>ＹＳ</tips>の両方を相手にまわすのは難しい。",
-      "en": "My power is far stronger than before. Even so, taking on both police outfitted for a serious psychic fight and <tips=7>YS</tips>, which knows every back alley in the City, would be difficult."
+      "en": "My power is far stronger than before. Even so, it would be difficult to take on both the police, outfitted for a serious fight with psychics, and <tips=7>YS</tips>, which knows every back alley in the City."
     },
     {
       "id": "X16:0524",
@@ -5229,7 +5229,7 @@
       "sj": "",
       "se": "",
       "jp": "　それにしても、こんな訊き方はなかったろう。これじゃ、<tips=63>サーシェンカ</tips>も意味がわからないに違いない。だって、彼はオリジナルもなにも、自分が変身していることなんか知らないんだ。",
-      "en": "Still, that was a terrible way to ask. <tips=63>Sashen'ka</tips> couldn't possibly understand. Original or not, he doesn't even know he transforms."
+      "en": "Still, that was a terrible way to ask. <tips=63>Sashen'ka</tips> cannot possibly understand. Original or not, he doesn't even know he transforms."
     },
     {
       "id": "X16:0565",
@@ -5450,7 +5450,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「大丈夫だよ。気分は爽快だ。なにしろおれは不死身の男だからな。……しかし、こいつら一応本庁から来たサイキック対策チームだろう？　こんな一方的にやられるもんかね。何か予想外の出来事があったのかな」",
-      "en": "“I'm fine. Never felt better. Immortal man, remember? ...But these were an anti-psychic team from headquarters, weren't they? How did they get slaughtered this one-sidedly? Something they didn't expect must've happened.”",
+      "en": "“I'm fine. Never felt better. Immortal man, remember? ...But these were an anti-psychic team from headquarters, weren't they? How did they get wiped out without putting up a fight? Something they didn't expect must've happened.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -5484,7 +5484,7 @@
       "sj": "三芳",
       "se": "Hikari Miyoshi",
       "jp": "「そうかもしれません。……いくつかの遺体のまわりには、足跡など、第三者が近づいた痕跡がありませんでした。つまり、遠隔から首をねじられて殺害されたんですよ。考えられるのは<tips=11>灰上璃映子</tips>のサイキック能力ですが、以前はこれほどの力はなかったはずなので」",
-      "en": "“Possibly. ...There are no footprints or other signs of anyone approaching several of the bodies. Their necks were twisted from a distance. The obvious explanation is <tips=11>Rieko Haigami</tips>'s psychic ability, but she never had anything close to this much power.”",
+      "en": "“Possibly. ...Several of the bodies had no footprints or any other sign that someone had approached them. Their necks were twisted from a distance. The obvious explanation is <tips=11>Rieko Haigami</tips>'s psychic ability, but she never had anything close to this much power.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-02.webp",
@@ -6637,7 +6637,7 @@
       "sj": "",
       "se": "",
       "jp": "　といっても、実際にそういう商売があるわけではない。有りようを言えば、路上で暮らすホームレスたちのことだ。",
-      "en": "There is no such profession, of course. Plainly put, these are homeless people."
+      "en": "There is no such profession, of course. To put it plainly, these are homeless people."
     },
     {
       "id": "X16:0696",
@@ -6664,7 +6664,7 @@
       "sj": "",
       "se": "",
       "jp": "　昔ほどではないにしろ、この街にはまだ日雇い労働の仕事が多い。私の知っているホームレスたちは主にそこで日銭を稼いでいる。",
-      "en": "The City has fewer day-labor jobs than it once did, but still plenty. Most of the homeless people I know earn their daily money that way."
+      "en": "The City has fewer day-labor jobs than it once did, but there are still plenty. Most of the homeless people I know earn their daily money that way."
     },
     {
       "id": "X16:0699",
@@ -6682,7 +6682,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼らには横の繋がりがあり、日雇いの仕事は労働現場などの一般的なものから、ギャングの下働きまでさまざまだ。安く、正規の手続きの要らない労働力は様々な場所で使われる。だから、思わぬ情報を知っていることがある。",
-      "en": "They have their own network. Their day jobs range from ordinary construction to dirty work for gangs. Cheap labor that requires no paperwork has uses everywhere. Consequently, they sometimes hear extraordinary things."
+      "en": "They have their own network. Their day jobs range from ordinary construction to dirty work for gangs. Cheap labor that requires no paperwork has uses everywhere. So they sometimes hear extraordinary things."
     },
     {
       "id": "X16:0701",
@@ -6700,7 +6700,7 @@
       "sj": "",
       "se": "",
       "jp": "　その顔を見かけたら連絡するように伝えてはいたが、彼らの多くは電話を持たず、持っていたとしてもそもそも怠惰であるために即座に連絡してくれるとは限らない。だから、確実な情報を手に入れるためには私の方から一々聞き出しに行く必要があった。",
-      "en": "I told them to contact me if they saw either face. Many have no phones. Even the ones who do are not guaranteed to make the effort immediately. If I want reliable information, I have to visit them one by one."
+      "en": "I told them to contact me if they saw either face. Many have no phones. Even those who do may not bother calling right away. If I want reliable information, I have to visit them one by one."
     },
     {
       "id": "X16:0703",
@@ -7186,7 +7186,7 @@
       "sj": "",
       "se": "",
       "jp": "　最後は、感情をそのままぶつけることにした。",
-      "en": "For the last push, I give him the truth without disguise.",
+      "en": "For the final push, I stop pretending this is merely business and show him how I truly feel.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -7220,7 +7220,7 @@
       "sj": "",
       "se": "",
       "jp": "　そして店主は話をしてくれた。",
-      "en": "And the manager talks.",
+      "en": "That gets the manager talking.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -7288,7 +7288,7 @@
       "sj": "",
       "se": "",
       "jp": "「そう言えば、ツレの男の方がちょっと変だったな」",
-      "en": "“Now you mention it, the man with her was acting strange.”",
+      "en": "“Now that you mention it, the man with her was acting strange.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -7577,7 +7577,7 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、街から外へ脱出する道や、他の大通りは警察の捜査員がしっかり固めている。ならば我々は別の可能性を潰すべきだろう。",
-      "en": "But investigators have sealed the roads out of the City and all the other main streets. We should eliminate the possibility no one else is covering.",
+      "en": "But investigators have sealed the roads out of the City and all the other main streets. We should check the one possibility no one else is covering.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-04.webp",
@@ -8047,7 +8047,7 @@
       "sj": "",
       "se": "",
       "jp": "　と、路上に三脚を立てている似顔絵描きの学生が教えてくれた。",
-      "en": "A student drawing portraits by a tripod points it out."
+      "en": "A student drawing portraits beside a tripod is the one who points out the restaurant."
     },
     {
       "id": "X16:0806",
@@ -8056,7 +8056,7 @@
       "sj": "",
       "se": "",
       "jp": "　時間を聞くと、まだそれほど過ぎてはいなかった。チェックアウトの時間と重ね合わせると遅すぎるから、他に違う場所に寄っていたのか、それとも人違いか。",
-      "en": "It wasn't long ago. Too recent to fit the checkout time. Did they stop somewhere else? Or has the student mistaken them?"
+      "en": "It wasn't long ago, but it was too late to line up with their checkout time. Did they stop somewhere else along the way? Or has the student mistaken them?"
     },
     {
       "id": "X16:0807",
@@ -8128,7 +8128,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=20>コシチェイ</tips>を撃つのにこれほどの威力が必要かというとそうでもないだろうが、今の私の筋力なら口径を小さくしても扱いやすさにさほど差がなかったのでこちらを選んだ。",
-      "en": "I probably don't need this much gun to kill <tips=20>Koschei</tips>. But at my current strength, a smaller caliber would be little easier to control. So I chose this one."
+      "en": "I probably don't need this much gun to kill <tips=20>Koschei</tips>. But at my current strength, a smaller caliber would be no easier to control. So I chose this one."
     },
     {
       "id": "X16:0816",
@@ -8323,7 +8323,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「出来るさ」",
-      "en": "“Sure I can.”",
+      "en": "“I do.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -8616,7 +8616,7 @@
       "sj": "",
       "se": "",
       "jp": "　警察は知らなかったが、<tips=55>汐松子</tips>は不死身の身体を持っている。彼女が殺されるというのは本来ありえないことだ。不死身の身体に詳しい<tips=20>コシチェイ</tips>が、なぜ<tips=55>汐松子</tips>にわざわざ『<tips=46>ネオ・ローズ</tips>』を使ったのか。つまりそれが不死の能力を消す方法なのだろう。",
-      "en": "The police didn't know <tips=55>Matsuko Shio</tips> was immortal. Her death should have been impossible. Why would <tips=20>Koschei</tips>, who understood immortal bodies, deliberately use something on <tips=55>Matsuko Shio</tips>—“<tips=46>Neo-Rose</tips>”? Because that drug destroys immortality."
+      "en": "The police didn't know <tips=55>Matsuko Shio</tips> was immortal. Her death should have been impossible. So why would <tips=20>Koschei</tips>, who understood immortal bodies, go out of his way to use something on <tips=55>Matsuko Shio</tips>—“<tips=46>Neo-Rose</tips>”? Because the drug destroys immortality."
     },
     {
       "id": "X16:0894",
@@ -8634,7 +8634,7 @@
       "sj": "",
       "se": "",
       "jp": "　無論、相手の能力を考えれば銃だけで仕留めなくてはならないが、もし弾丸を撃ち尽くしてしまった場合は、こんなものでも持っていた方がマシだろう。",
-      "en": "Against his powers, I need to finish this with the gun. If I empty it, a syringe is still better than bare hands."
+      "en": "Against his powers, I need to finish this with the gun. But if I empty the magazine, a syringe is still better than bare hands."
     },
     {
       "id": "X16:0896",
@@ -9833,7 +9833,7 @@
       "sj": "",
       "se": "",
       "jp": "　たとえ形だけの偽物だとしても、私に<tips=53>ミユキ</tips>を撃つことなど出来るだろうか？　今自分を動かしている全ての感情は、<tips=53>ミユキ</tips>によって生まれたものなのだ。<tips=53>ミユキ</tips>を壊させてしまった、後悔から生まれたものなのだ。",
-      "en": "False shape or not, can I shoot <tips=53>Miyuki</tips>? Every feeling that drove me here began with <tips=53>Miyuki</tips>—with the regret of letting <tips=53>Miyuki</tips> be destroyed."
+      "en": "False shape or not, can I shoot <tips=53>Miyuki</tips>? Every feeling that drove me here began with <tips=53>Miyuki</tips>—with the regret of having let <tips=53>Miyuki</tips> be destroyed."
     },
     {
       "id": "X16:1093",
@@ -9960,7 +9960,7 @@
       "sj": "",
       "se": "",
       "jp": "　そして左右の景色を落ち着きなくキョロキョロと見回しながら、ふわふわとした口調でこちらが何もこたえなくても一方的におしゃべりを続けている。",
-      "en": "His eyes dart restlessly over everything to either side. In a soft, drifting voice, he chatters on whether we answer or not.",
+      "en": "His eyes dart restlessly over everything to either side. In a soft, drifting voice, he chatters on whether we answer him or not.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
@@ -10402,7 +10402,7 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「人はそう言うけど、その言い方は好きじゃないな。もっといいものなんだよ。……よその子がよくやるように、友だちの家のドアをあけて『おいで、ここで一緒に遊ぼう！』って言うんだ。それだけなんだよ」",
-      "en": "“That's what people call it. I don't like the word. It was much nicer than that. ...You know how other children open a friend's door and call, ‘Come on! Let's play together in here!’ That's all I did.”",
+      "en": "“That's what people call it. I don't like the word. It was much nicer than that. ...You know how children open a friend's door and call, ‘Come on! Let's play in here together!’ That's all I did.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-sashen-ka-f067-06.webp",
@@ -11118,7 +11118,7 @@
       "sj": "",
       "se": "",
       "jp": "　狂った頭で私たちへのプレゼントと薔薇の花を大事に抱え、ただ喜ばせたくて追いかけて来てくれたんだ。",
-      "en": "Even after his mind broke, he held tight to our gifts and the rose. He chased us for no reason but to make us happy.",
+      "en": "Even after his mind broke, he held tight to the presents and rose he had brought us. He chased us for no reason but to make us happy.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-sashen-ka-f067-08.webp",
@@ -11575,7 +11575,7 @@
       "sj": "サーシェンカ白シャツ",
       "se": "Sashen'ka",
       "jp": "「みんな僕のことを悪魔のようにひどいやつだと思うだろうし、その通りではあるんだけど、でもこれでも頑張ったんだ。僕の力があれば、本当は世の中にとってもっと恐ろしいことや、危険なことだって出来たんだよ。僕には、全部滅茶苦茶にしたいって気持ちだってあったんだ。それを、なんとかこの程度で抑えたんだ。この世界には好きなものもあったから」",
-      "en": "“Everyone must think I'm as terrible as a demon. They're right. But I did try. With my power, I could've done far worse things to the world. Far more dangerous things. Part of me wanted to ruin everything. I held it down to this much. There were things in this world I loved.”",
+      "en": "“Everyone must think I'm as terrible as a demon. They're right. But I did try. With my power, I could've done far worse things to the world. Far more dangerous things. Part of me wanted to ruin everything. But there were things in this world I loved, so I managed to keep the damage to this.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-sashen-ka-f067-10.webp",
@@ -11949,7 +11949,7 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「ふふ、警察ってのも大変な仕事ですね。あんな、得体の知れないサイキックを追跡して逮捕しなくちゃいけないなんて」",
-      "en": "“Heh. Police work is difficult. Chasing down something as unknowable as that psychic and trying to arrest it.”"
+      "en": "“Heh. Police work is difficult. Imagine having to track down and arrest a psychic as unknowable as that one.”"
     },
     {
       "id": "X16:1316",
@@ -11976,7 +11976,7 @@
       "sj": "",
       "se": "",
       "jp": "『ふん、自信がありそうだな。あんたがそう言うなら、策があるんだろう。なんといっても宿敵<tips=21>八龍会</tips>の爺さんたちを傘下に収め、父親以上の勢力を築こうとしている<tips=81>龍頭</tips>さまだからな。実際大したもんだよ。<tips=27>廖志明</tips>を追放し、<tips=76>旧義勝</tips>の反対勢力を黙らせ、<tips=35>ジョゼ・フェルナンデス</tips>の離脱もものともせず、ここまでやって来たんだ』",
-      "en": "“Hmph. Confident. You must have a plan. Naturally—you brought the old men of the <tips=21>Dragon Club</tips>, your sworn enemies, under your command. The great <tips=81>Longtou</tips>, poised to surpass his own father. Impressive. You expelled <tips=27>Liao Zhiming</tips>, silenced the opposition in <tips=76>Old Yi Shen</tips>, and survived <tips=35>Jose Fernandez</tips>'s departure. Yet here you are.”"
+      "en": "“Hmph. Confident. You must have a plan. Naturally—you brought the old men of the <tips=21>Dragon Club</tips>, your sworn enemies, under your command. The great <tips=81>Longtou</tips>, poised to surpass his own father. Impressive. You expelled <tips=27>Liao Zhiming</tips>, silenced the opposition in <tips=76>Old Yi Shen</tips>, weathered <tips=35>Jose Fernandez</tips>'s departure, and still made it this far.”"
     },
     {
       "id": "X16:1319",
@@ -12165,7 +12165,7 @@
       "sj": "",
       "se": "",
       "jp": "　ブラシのかかった埃一つ付着していないスーツを着て、顔にはそれと不釣り合いな無精髭をはやしたその男は<tips=13>ヘドロ団地</tips>のリーダー、<tips=14>深沢</tips>であった。",
-      "en": "His suit has been brushed immaculate, without a speck of dust. The stubble on his face looks almost absurd against it. This is the leader of the <tips=13>Sludge Housing Complex</tips>, <tips=14>Fukazawa</tips>."
+      "en": "His suit has been brushed spotless, without a speck of dust. The stubble on his face looks almost absurd against it. This is the leader of the <tips=13>Sludge Housing Complex</tips>, <tips=14>Fukazawa</tips>."
     },
     {
       "id": "X16:1341",
@@ -12565,7 +12565,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=14>深沢</tips>は胸を張って薄笑いを浮かべると、そのまま部屋を去っていった。",
-      "en": "<tips=14>Fukazawa</tips> squares his chest and leaves with a faint smile."
+      "en": "<tips=14>Fukazawa</tips> squares his shoulders, gives a faint smile, and leaves."
     },
     {
       "id": "X16:1366",

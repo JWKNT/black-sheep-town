@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.6\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.6\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.7\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.7\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
-  assert.match(html, /4c90594e57adc57305dffaf2e7fe10ce44ab4d4a4a725c9b89b94186ed7a344d/);
+  assert.match(html, /95a2c47fff0e63e2946c2a90449024307d34d0a7f0199e90228c71169917480f/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -81,7 +81,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   ));
   assert.equal(
     manifest.target_sha256,
-    "d0300b1dac0eaefff2b5161d757aa5e61b7c53b3b5c45089d4fb6e756e5364f4",
+    "86035935d79958cb8aedf5898aaf53962e39c5c39edaac624ecfecbf40e2a5a2",
   );
   const existingHookManifest = JSON.parse(await readFile(
     new URL(
@@ -119,7 +119,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(installer, /legacy_layout/);
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
-  assert.match(installer, /30759 dialogue rows verified/);
+  assert.match(installer, /30777 dialogue rows verified/);
   assert.match(installer, /ExitProcess\(42\)/);
   assert.match(installer, /BSTGame\.exe/);
   assert.match(installer, /build-resolved-language-switch/);
@@ -198,7 +198,7 @@ test("generated chapter index agrees with its chapter files", async () => {
   assert.equal(lineById.get("F1:0312")?.se, "");
   assert.equal(
     [...lineById.values()].filter((line) => line.se).length,
-    9104,
+    9106,
   );
 
   assert.equal(
