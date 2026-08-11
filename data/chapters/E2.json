@@ -2785,7 +2785,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「やあ先生」",
-      "en": "“Why, hello, Doctor.”"
+      "en": "“Hey there, Doctor.”"
     },
     {
       "id": "E2:0260",
@@ -2803,7 +2803,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「久しぶりじゃないですか。元気ですか？」",
-      "en": "“It has been a while. Keeping well?”"
+      "en": "“Been a while, hasn't it? How have you been?”"
     },
     {
       "id": "E2:0262",
@@ -2821,7 +2821,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「<tips=5>太刀川</tips>先生！」",
-      "en": "“Doctor <tips=5>Tachikawa</tips>!”"
+      "en": "“Dr. <tips=5>Tachikawa</tips>!”"
     },
     {
       "id": "E2:0264",
@@ -2839,7 +2839,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「つれないじゃないですか。それなりに長いつき合いでしょうよ」",
-      "en": "“Don't be so cold. We've known each other a good many years.”"
+      "en": "“That's cold, Doctor. We've known each other a good long while.”"
     },
     {
       "id": "E2:0266",
@@ -2857,7 +2857,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「私は診察があるんですよ」",
-      "en": "“I have a patient waiting.”",
+      "en": "“I have patients to see.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -2874,7 +2874,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「こんな雨の日でも、貧乏人のところを回ってるんですか？　頭が下がる。……おっと、おれの目を見ないでくださいよ。心を覗かれちゃたまらない」",
-      "en": "“You make house calls to the poor even in this rain? My admiration... Ah, don't look me in the eye. I can't have you rummaging through my heart.”",
+      "en": "“Out making your rounds among the poor even in this rain? My hat's off to you. ...Whoa, now—don't look me in the eye. I can't have you poking around inside my heart.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3010,7 +3010,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「いちいちそんなことはしません。大体、あなたの心を覗いて私に何の得があるって言うんです？　<tips=16>タイプＡ</tips>がみだりに能力を使うのは違法行為だ。特に我々のような強い力を与えられた者は他の軽微な能力者よりも振る舞いに気をつけなくてはいけない。あなたは誰よりもそれをよくご存じのはずだ」",
-      "en": "“I do not use my power at every opportunity. What could I possibly gain by looking into your heart? It is illegal for <tips=16>Type A</tips> people to use their abilities recklessly. Those of us given powerful abilities must be more careful in our conduct than people with minor gifts. You should know that better than anyone.”",
+      "en": "“I do not use my ability indiscriminately. Besides, what would I gain by looking into your heart? It is illegal for a <tips=16>Type A</tips> person to use an ability recklessly. Those of us given particularly great power must be more careful in our conduct than people with lesser abilities. You should know that better than anyone.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3061,7 +3061,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「相変わらず先生は真面目な方だ。しかし、誰よりもよくご存じでってのは一本とられましたな。確かにおれは能力を濫用したらえらいことになるということについては、人よりもよく知っている」",
-      "en": "“Still as serious as ever, Doctor. You got me with ‘better than anyone.’ I certainly do know better than most what comes of abusing a power.”",
+      "en": "“As serious as ever, Doctor. But you got me with ‘better than anyone.’ It's true. I know better than most what happens when an ability is abused.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3095,7 +3095,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「しかし、病院のおつとめもあるのに、プライベートでまで<tips=78>金目</tips>の連中を診てやるとは、ご苦労なことです。でも、ほどほどにした方がいいですよ。先生の活発な慈善活動を『<tips=22>老人たち</tips>』はあまりよく思ってないって噂です」",
-      "en": "“Even with your duties at the hospital, you treat <tips=78>Gold-Eyes</tips> in your private time. Such devotion. But I would advise some restraint. I hear ‘<tips=22>the Elders</tips>’ are not pleased by all this energetic charity.”",
+      "en": "“Still, you put in a full day at the hospital, then spend your own time treating the <tips=78>Gold-Eye</tips> crowd. Admirable stuff. But I would not overdo it. Word is the <tips=22>Elders</tips> do not care for all this charity work of yours.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3282,7 +3282,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「……彼らに対して何かをした覚えはありませんが？」",
-      "en": "“...I don't recall doing anything to them.”",
+      "en": "“...I do not recall doing anything to them.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3367,7 +3367,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「あなたの慈善行為が、気に障るんです。……もちろん先生は純粋に善意から診察をしているのは私はよく知っています。しかし、世の中には善意による行動というものが存在することを信じず、利害関係でしか物事を解釈出来ない無粋な連中は多いですからね。『<tips=22>老人たち</tips>』も、わざわざそんな面倒なことをする先生には下心があると考えているようですよ。身よりがない<tips=17>タイプB</tips>の子供や大人を手なずけて、何か企んでいるのだろうってね」",
-      "en": "“It is your charity they dislike. I know perfectly well that you treat these people out of simple goodwill. But the world is full of boors who cannot believe in goodwill, who see nothing except advantage and self-interest. The ‘<tips=22>Elders</tips>’ think no one would go to such trouble without a scheme. They suspect you of taming <tips=17>Type B</tips> children and adults with no family of their own, all for some hidden purpose.”",
+      "en": "“The charity itself rubs them the wrong way. I know perfectly well that you treat these people out of pure goodwill. But plenty of boors refuse to believe goodwill even exists. They can only understand the world in terms of who stands to gain. The <tips=22>Elders</tips> seem to think anyone who goes to this much trouble must have an ulterior motive. They imagine you're taming <tips=17>Type B</tips> children and adults with no families, getting them ready for some scheme of yours.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3384,7 +3384,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「あきれたものです」",
-      "en": "“Absurd.”",
+      "en": "“Unbelievable.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3418,7 +3418,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「そうでしょう。先生のような奇特な聖人にとっては、ああいった俗物どもの考えは理解出来ますまい。でも、もっと行動には注意した方がいい。世の中というものは、そうした俗物どもの感情で動いているものですし、あなたの正体は、知っている人ならば知っています。ごく限られた人間ですがね。警戒されても仕方がないでしょう？」",
-      "en": "“Of course. A rare saint like you could never understand the minds of such vulgar men. Still, you ought to watch yourself. The world is moved by the feelings of vulgar men, and your true identity is no secret to the few who know where to look. You can hardly blame them for growing suspicious.”",
+      "en": "“I thought you would agree. A rare saint like you could never understand the minds of such vulgar creatures. Still, you should be more careful. The world runs on the feelings of vulgar creatures, and anyone who knows your true identity has reason to be wary of you. Very few people know, of course. But you can hardly blame them, can you?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3435,7 +3435,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「いや、あきれたというのは、そんなくだらない話を、この雨の中でながながと私に聞かせたあなたについてです」",
-      "en": "“No. What is absurd is your making me stand in the rain through that entire tedious speech.”",
+      "en": "“No. I meant that you are unbelievable, making me stand in this rain and listen to such nonsense at such length.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3452,7 +3452,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「これは、もう一本取られましたな」",
-      "en": "“You've got me again.”",
+      "en": "“That's twice you've got me.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3486,7 +3486,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「くだらないかもしれないですが、私にとっては重要でね。時は流れても変わらないものはあるんですよ。先生にとっては忘れかけた過去の話でも、街はしっかりと覚えています。……そういえば、<tips=3>クリス・ツェー</tips>が死の床に伏しているという話を知っていますか？　……おや、その様子だとご存じがないようだ。まあ、表の生活に戻られた先生には裏社会の噂など耳に入ることはないのでしょうね。しかし、一度くらい連絡をとってみたらいかがですかねえ？　彼も、最後にもう一度先生と会いたいと思っているでしょう。なんでも、死を目前にして既に意識も定かではないという話です」",
-      "en": "“Tedious it may be, but it matters to me. Time passes, yet some things do not change. To you, this may be a half-forgotten past. The City remembers it perfectly... Speaking of the past, did you know <tips=3>Chris Xie</tips> is on his deathbed? Ah. That expression says you did not. Now that you have returned to respectable society, I suppose underworld rumors no longer reach you. Why not contact him once? He may wish to see you one last time. I hear death is so near that he is hardly conscious.”",
+      "en": "“It may be nonsense to you, but it matters to me. Some things do not change with time. You may have nearly forgotten your past, but the City remembers it perfectly well. ...Speaking of which, have you heard that <tips=3>Chris Xie</tips> is on his deathbed? No? I suppose underworld gossip no longer reaches you now that you've returned to life in the open. Why not contact him, just once? He would probably like to see you one last time. They say death is very close now, and that he is barely conscious.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3520,7 +3520,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「それこそ、私には関係のない話です」",
-      "en": "“That has even less to do with me.”",
+      "en": "“That has nothing to do with me.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3588,7 +3588,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「いや、余談が長くなって申し訳ありません。これは話の成り行きで語っただけで、声をかけた本当の用事はまったく別の件なんです」",
-      "en": "“Forgive the long digression. That was simply where the conversation led us; I stopped you for an entirely different reason.”",
+      "en": "“Forgive me. I let the digression run away with me. That only came up in the course of conversation. My real reason for stopping you is something else entirely.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3622,7 +3622,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「まだ何か話すつもりですか？　どうしてあなたはそんな大きな身体をしているのに、そんなにおしゃべりなのでしょう」",
-      "en": "“You still have more to say? Why does a man with such an enormous body talk so much?”",
+      "en": "“You still have more to say? How can a man with a body that size talk so much?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3639,7 +3639,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「へえ、身体が大きいと、口数が少なくなるというような医学的根拠があるんですか？」",
-      "en": "“Is there some medical evidence that large bodies produce fewer words?”",
+      "en": "“Oh? Is there medical evidence that large men talk less?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3656,7 +3656,7 @@
       "sj": "太刀川良馬",
       "se": "Ryouma Tachikawa",
       "jp": "「とてもつき合いきれませんね」",
-      "en": "“I really cannot deal with you.”",
+      "en": "“I have had quite enough.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3690,7 +3690,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「次に殺されるのは、あなたの患者かもしれませんよ！」",
-      "en": "“Your patient may be the next one killed!”",
+      "en": "“One of your patients may be the next person killed!”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3724,7 +3724,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「先生、最近<tips=59>暗闇通り</tips>から<tips=58>パラシュート通り</tips>に行く辺りで、連続殺人事件が起こっているのをご存じですか？」",
-      "en": "“Doctor, have you heard about the serial murders between <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”",
+      "en": "“Doctor, have you heard about the string of murders around <tips=59>Darkness Street</tips> and <tips=58>Parachute Street</tips>?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3792,7 +3792,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「若い女がバラバラ死体にされるってやつですよ。観光客だったり、地元の若い子だったりね。あのあたりは先生が診てる患者もたくさん住んでるんじゃないですか？」",
-      "en": "“Young women cut to pieces. Some tourists, some local girls. A great many of your patients live in that quarter, don't they?”",
+      "en": "“Young women being cut up and left in pieces. Some tourists, some local girls. Plenty of your patients live around there, don't they?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",
@@ -3843,7 +3843,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「どういうわけか、私はその事件を調べるってことになってしまいましてね。途方に暮れていたんですが、先生が力を貸してくれれば百人力だ。ギャラは出ると思いますよ。引き受けていただけなければ明かすことは出来ないのですが、スポンサーはしっかりしたところなので安心してください。街の人々の命を守るために、是非とも、おれと一緒に……」",
-      "en": "“By some strange turn, I have found myself investigating the case. I was at my wits' end, but your help would be invaluable. There should be a fee in it for you. I cannot name the sponsor unless you accept, but they are entirely reputable, so do not worry. For the lives of the people in this City, please, join me and—”",
+      "en": "“Somehow, I have ended up investigating the case. I was at my wits' end, but with you beside me, I'd have the strength of a hundred men. There should be a fee in it. I cannot name the sponsor unless you take the job, but it is a solid organization, so you needn't worry. For the sake of every life in the City, Doctor, I beg you. Come with me and...”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-ryouma-tachikawa-f093-03.webp",

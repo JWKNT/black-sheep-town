@@ -799,7 +799,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「ど、どういうこと？」",
-      "en": "“W-What's happening?”"
+      "en": "“W-what is this?”"
     },
     {
       "id": "F3:0085",
@@ -1116,7 +1116,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「先に銃を撃ったのはあなただよ」",
-      "en": "“You fired first.”",
+      "en": "“You shot first.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1184,7 +1184,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「ここでおれを殺しても意味がないぞ」",
-      "en": "“Killing me here won't accomplish anything.”",
+      "en": "“Killing me here gets you nothing.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1218,7 +1218,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「警察は情報を掴んでいる。いくらでも素性を誤魔化せる<tips=20>コシチェイ</tips>はともかく、お前たちはこの先どこへも逃げられない。元々警察の監視対象だったから、多くの情報を掴まれているしな。捕まるのは時間の問題だ。ここで私を殺そうと、殺すまいとな」",
-      "en": "“The police have the information they need. <tips=20>Koschei</tips> can change his identity endlessly, but you two have nowhere left to run. You were already under surveillance. They know far too much about you, and catching you is only a matter of time—whether you kill me or not.”",
+      "en": "“The police know who you are. <tips=20>Koschei</tips> can change his identity endlessly, but you two have nowhere left to run. You were already under surveillance. They know far too much about you, and catching you is only a matter of time—whether you kill me or not.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1235,7 +1235,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「そんなことは、どうでもいいよ」",
-      "en": "“I don't care about any of that.”",
+      "en": "“I don't care.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1269,7 +1269,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「あなたが邪魔をするなら、あなたを殺す。それだけだよ」",
-      "en": "“If you get in our way, we kill you. That's all.”",
+      "en": "“If you get in our way, I'll kill you. That's all.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1354,7 +1354,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「あの人殺しがどんな甘言を弄したのか知らんが、お前たちは騙され、利用されているだけだよ。この街に住んでいて、それが理解出来ないほどうぶでもあるまい」",
-      "en": "“I don't know what honeyed lies that murderer fed you, but he's deceiving you. Using you. You've lived in this City too long to be naive enough not to see that.”",
+      "en": "“I don't know what honeyed lies that murderer fed you, but he's deceiving you and using you. You've lived in this City too long to be so naive that you can't see it.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-kuniaki-roji-f103-02.webp",
@@ -1741,7 +1741,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「うん」",
-      "en": "“Mm.”"
+      "en": "“Okay.”"
     },
     {
       "id": "F3:0205",
@@ -1786,7 +1786,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「そう」",
-      "en": "“All right.”"
+      "en": "“Good.”"
     },
     {
       "id": "F3:0210",

@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import shutil
 from pathlib import Path
@@ -22,6 +23,31 @@ FILES = {
     ),
     "patched-game-assembly": ("GameAssembly.dll", "GameAssembly.dll"),
 }
+
+
+def sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for chunk in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def create_or_reuse_delta(source: Path, target: Path, destination: Path) -> dict:
+    """Reuse a verified unchanged delta instead of rebuilding large payloads."""
+    manifest = destination / "manifest.json"
+    if manifest.is_file():
+        existing = json.loads(manifest.read_text(encoding="utf-8"))
+        if (
+            existing.get("source_size") == source.stat().st_size
+            and existing.get("target_size") == target.stat().st_size
+            and existing.get("source_sha256") == sha256(source)
+            and existing.get("target_sha256") == sha256(target)
+        ):
+            return existing
+    if destination.exists():
+        shutil.rmtree(destination)
+    return create_delta(source, target, destination)
 
 
 def main() -> None:
@@ -49,34 +75,26 @@ def main() -> None:
         )
         target = current / target_rel
         destination = output / name
-        if destination.exists():
-            shutil.rmtree(destination)
-        report[name] = create_delta(source, target, destination)
+        report[name] = create_or_reuse_delta(source, target, destination)
 
     # The Japanese pack differs from a clean install only in level0: it adds
     # the visible language button and the portrait-safe dialogue geometry.
     destination = output / "japanese-level0"
-    if destination.exists():
-        shutil.rmtree(destination)
-    report["japanese-level0"] = create_delta(
+    report["japanese-level0"] = create_or_reuse_delta(
         japanese / "Bst_Data/level0",
         current / "BSTLanguage/ja/Bst_Data/level0",
         destination,
     )
     if args.existing_hook_assembly:
         destination = output / "patched-game-assembly-existing-hook"
-        if destination.exists():
-            shutil.rmtree(destination)
-        report["patched-game-assembly-existing-hook"] = create_delta(
+        report["patched-game-assembly-existing-hook"] = create_or_reuse_delta(
             args.existing_hook_assembly.resolve(),
             current / "GameAssembly.dll",
             destination,
         )
     if args.previous_patched_assembly:
         destination = output / "patched-game-assembly-v1.0.3"
-        if destination.exists():
-            shutil.rmtree(destination)
-        report["patched-game-assembly-v1.0.3"] = create_delta(
+        report["patched-game-assembly-v1.0.3"] = create_or_reuse_delta(
             args.previous_patched_assembly.resolve(),
             current / "GameAssembly.dll",
             destination,
@@ -87,9 +105,7 @@ def main() -> None:
     ):
         if source:
             destination = output / name
-            if destination.exists():
-                shutil.rmtree(destination)
-            report[name] = create_delta(
+            report[name] = create_or_reuse_delta(
                 source.resolve(),
                 current / "GameAssembly.dll",
                 destination,

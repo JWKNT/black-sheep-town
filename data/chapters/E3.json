@@ -4837,7 +4837,7 @@
       "sj": "",
       "se": "",
       "jp": "「どういうことです？　<tips=20>コシチェイ</tips>は始末したんでしょう？」",
-      "en": "“What do you mean? You finished <tips=20>Koschei</tips>, didn't you?”"
+      "en": "“What do you mean? You dealt with <tips=20>Koschei</tips>, didn't you?”"
     },
     {
       "id": "E3:0434",
@@ -4846,7 +4846,7 @@
       "sj": "",
       "se": "",
       "jp": "「……そう思いたいんだがな」",
-      "en": "“...I would like to believe so.”"
+      "en": "“...I'd like to think so.”"
     },
     {
       "id": "E3:0435",
@@ -4864,7 +4864,7 @@
       "sj": "",
       "se": "",
       "jp": "「この現場の状況が、おかしいとは思わないか？」",
-      "en": "“Does nothing about this scene strike you as wrong?”"
+      "en": "“Don't you find the state of this crime scene strange?”"
     },
     {
       "id": "E3:0437",
@@ -4882,7 +4882,7 @@
       "sj": "",
       "se": "",
       "jp": "「これまでの<tips=20>コシチェイ</tips>の現場とは、大分違う」",
-      "en": "“It differs markedly from <tips=20>Koschei</tips>'s other scenes.”"
+      "en": "“It feels markedly different from <tips=20>Koschei</tips>'s other crime scenes.”"
     },
     {
       "id": "E3:0439",
@@ -4891,7 +4891,7 @@
       "sj": "",
       "se": "",
       "jp": "「どこがです。同じバラバラ死体じゃないですか。そりゃ綺麗に棚に仕舞われてはいませんが、これからそうするつもりだったんでしょう」",
-      "en": "“How? The body is in pieces, same as the rest. He hasn't arranged them neatly on shelves, but perhaps we interrupted him.”"
+      "en": "“How? It's the same kind of dismembered body. It hasn't been arranged neatly on the shelves, but he was probably going to do that next.”"
     },
     {
       "id": "E3:0440",
@@ -4927,7 +4927,7 @@
       "sj": "",
       "se": "",
       "jp": "「……単に理由の違いではないですか？　今までは本人の趣味嗜好での解体だったわけじゃないですか。今回はそうじゃない。主目的はこのアパートの調査で、解体はそのついでだから、いつもとは気分が違って……」",
-      "en": "“...Perhaps the purpose was different. Before, the dismemberment satisfied his tastes. Here he came to search the apartment and cut her up on the side. He may simply not have been in the mood for craftsmanship.”"
+      "en": "“...Couldn't the motive simply be different? Before, the dismemberment was for his own pleasure. Not this time. His real purpose was to search the apartment, and cutting up the body was incidental. Maybe he just wasn't in the same mood...”"
     },
     {
       "id": "E3:0444",
@@ -4945,7 +4945,7 @@
       "sj": "",
       "se": "",
       "jp": "「でも、実際に旦那はここで<tips=20>コシチェイ</tips>を撃ち殺したわけでしょう？」",
-      "en": "“But you shot <tips=20>Koschei</tips> here. Killed him.”"
+      "en": "“But you shot <tips=20>Koschei</tips> dead here, didn't you?”"
     },
     {
       "id": "E3:0446",
@@ -4963,7 +4963,7 @@
       "sj": "",
       "se": "",
       "jp": "「どういうことです？」",
-      "en": "“What are you saying?”"
+      "en": "“What do you mean?”"
     },
     {
       "id": "E3:0448",
@@ -5120,7 +5120,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「あなたたちのこと知ってる。サイキックばっかり逮捕するワンコロ刑事さんに、その手下の元探偵さんでしょ」",
-      "en": "“We know you two. The little doggy detective who only arrests psychics, and his washed-up detective lackey.”",
+      "en": "“We know you two: the little doggy detective who only arrests psychics and his ex-detective lackey.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-haigami-sisters-f101-02.webp",
@@ -5780,7 +5780,7 @@
       "sj": "灰上江梨子",
       "se": "Eriko Haigami",
       "jp": "「やったわね。これで私たちも、容赦する理由がなくなったみたいね……」",
-      "en": "“Now you've done it. I don't think we have any reason to hold back anymore...”",
+      "en": "“Now you've done it. It looks like we have no reason to spare you anymore...”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-03.webp",
@@ -5855,7 +5855,7 @@
       "sj": "堂島",
       "se": "Ken'ichi Doujima",
       "jp": "「おかしな真似をするな。それ以上能力を使って危害を加えようとするのならば、私の職権において射殺する」",
-      "en": "“Do not attempt anything further. Use your ability to threaten us again, and I will shoot you dead under my lawful authority.”",
+      "en": "“Do not try anything. Use your ability to harm us again, and I will shoot you dead under the authority of my office.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -6232,7 +6232,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「必要な警告はもうしたわ。あなたは自分の運命を自分で決めたのよ」",
-      "en": "“I gave you all the warning you needed. You chose what happens next.”",
+      "en": "“I gave you all the warning you needed. You chose your own fate.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -6626,7 +6626,7 @@
       "sj": "",
       "se": "",
       "jp": "「……<tips=20>コシチェイ</tips>……か？　そうなのか？」",
-      "en": "“...<tips=20>Koschei</tips>...? Is it really you?”",
+      "en": "“...<tips=20>Koschei</tips>...? Is that it? Is that what you are?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -6945,7 +6945,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうか。だが、ちょっと遅かったな」",
-      "en": "“I see. Took you a little too long, though.”",
+      "en": "“I see. But you're a little too late.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -7003,7 +7003,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「死んでやれればよかったんだが、気の毒だがおれは死なないんだ。<tips=20>コシチェイ</tips>という言葉は、不死身って意味なんだよ」",
-      "en": "“I'd have died for you if I could. Sorry, but I just don't die. That's what the name <tips=20>Koschei</tips> means: immortal.”",
+      "en": "“I'd have died for you if I could, but unfortunately, I can't. That's what <tips=20>Koschei</tips> means: ‘deathless.’”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -7061,7 +7061,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まったく、今日はツイてない。こんな下らない仕事をさせられた上に、こんな穴だらけにされちまって……」",
-      "en": "“Some luck I'm having today. First they saddle me with this idiotic job, then I get turned into a sieve...”",
+      "en": "“Honestly, this isn't my day. First I'm made to do this stupid job, and then I get shot full of holes...”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -7322,7 +7322,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「このっ」",
-      "en": "“You little—!”",
+      "en": "“You—!”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -7641,7 +7641,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「旦那っ！　上だっ！」",
-      "en": "“Sir! Above you!”",
+      "en": "“Boss! Above you!”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",
@@ -7709,7 +7709,7 @@
       "sj": "",
       "se": "",
       "jp": "「犬ころめ！　人間様に、従順に従えばいいものを！」",
-      "en": "“Miserable dog! You should've known your place and obeyed your human masters!”"
+      "en": "“Mongrel! You should've known your place and obeyed your human masters!”"
     },
     {
       "id": "E3:0597",
@@ -7745,7 +7745,7 @@
       "sj": "",
       "se": "",
       "jp": "「無駄よ」",
-      "en": "“It's useless.”"
+      "en": "“It's no use.”"
     },
     {
       "id": "E3:0601",
@@ -7763,7 +7763,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「まったく、ひどいケガだ」",
-      "en": "“Well, this is quite a wound.”",
+      "en": "“Well, this is a nasty wound.”",
       "bg": "assets/vn/backgrounds/background-路地のアパート血まみれ.webp",
       "p": [
         {
@@ -7798,7 +7798,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「しっかりしてよ。おかげで、こんなことをするハメになったわ……。あなたと同じ立場だね」",
-      "en": "“Pull yourself together. You've dragged me into this now... I suppose that puts me in the same boat as you.”",
+      "en": "“Pull yourself together. You made us go through all that... Now we're in the same boat.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -7890,7 +7890,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「しかし驚いたな。どうしてここがわかったんだ？」",
-      "en": "“This is a surprise, though. How did you find me?”",
+      "en": "“I must say, I'm surprised. How did you find this place?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -7913,7 +7913,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「探していたら、銃声がきこえてね。まだあなたとの話は終わってないわ」",
-      "en": "“We were looking for you when we heard the shots. You and I still have things to discuss.”",
+      "en": "“We were looking for you when we heard the shot. You and I still have things to discuss.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -7936,7 +7936,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……まあ、良いタイミングで現れてくれたものだよ。何を考えているのかわからないが、それに関しては、礼を言わなくちゃいけない」",
-      "en": "“...Well, you showed up at the right time. I don't know what you're after, but I do have to thank you for that much.”",
+      "en": "“...Well, your timing couldn't have been better. I don't know what you're after, but I ought to thank you for that much.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -7959,7 +7959,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「そうよ。素直になってくれればいいのよ」",
-      "en": "“There. Was that so hard? All you had to do was admit it.”",
+      "en": "“Exactly. All you had to do was be honest with us.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -7982,7 +7982,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「やれやれ」",
-      "en": "“Oh, please.”",
+      "en": "“Good grief.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -8442,7 +8442,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「……そりゃ、胸に風穴を開けられて弱らなかったら化け物だ」",
-      "en": "“...If having holes blown through my chest didn't weaken me, I'd be a monster.”",
+      "en": "“...If having a hole blown through my chest didn't weaken me, I'd really be a monster.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -8534,7 +8534,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「まったく」",
-      "en": "“Honestly...”",
+      "en": "“Honestly.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -8672,7 +8672,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「どうでもいいって……、彼らはあなたのことを嗅ぎ廻っているんじゃないの？」",
-      "en": "“You don't care...? Aren't they the ones sniffing around after you?”",
+      "en": "“You don't care...? Aren't they snooping around after you?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -8718,7 +8718,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「そうだろうね。でもどうだっていいさ。そもそもおれはこんな馬鹿馬鹿しいことはしたくなかった。疑われているからといって、こそこそと家を漁るだなんて、小物っぽくてみっともない話さ。そんなみっともないことをするから、こんなふうに余計な怪我を負ったりするのさ。……あの心配性のジジイのおかげで酷い目にあった。もうおれはやりたいようにやる。……それに、なんだいこのやたらと散らかった場所は？　おれはこういう場所にいると気が狂いそうになるんだ。さっさとここを離れて、どこかでゆっくりと横になって……ああ、つめたく冷やしたグレープフルーツジュースでも飲みたいな」",
-      "en": "“Probably. I don't care. I never wanted any part of this idiocy to begin with. Creeping through someone's house because they suspect me—it's petty. Undignified. And this is what comes of doing undignified things: I get shot full of needless holes... That fretful old man has made a misery of my day. I'm doing as I please from now on... And what is this place? Look at all this clutter. Rooms like this drive me out of my mind. I want to leave, lie down somewhere quiet... Ah. I could do with some grapefruit juice. Ice-cold.”",
+      "en": "“I suppose so. But I couldn't care less. I never wanted to do anything this ridiculous in the first place. Sneaking through a man's house because he suspects me—it's petty. Undignified. And undignified little errands are how one ends up with pointless wounds like these... That fretful old man has put me through quite enough. From now on, I'll do as I please. And what is this appalling mess? Rooms like this nearly drive me insane. I want to get out, lie down somewhere quiet... Ah, with an ice-cold glass of grapefruit juice.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -8879,7 +8879,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「なんで、猟奇殺人者にそんなこと言われているのかしら……」",
-      "en": "“Why is a deranged killer lecturing us about cruelty...?”",
+      "en": "“Why is a serial killer lecturing us about cruelty...?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -8925,7 +8925,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「ねえ、元探偵さん」",
-      "en": "“Hey, former detective.”",
+      "en": "“Hey, Mr. Former Detective.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -8994,7 +8994,7 @@
       "sj": "灰上璃映子",
       "se": "Rieko Haigami",
       "jp": "「あなたとこうして話すのは初めてだけど、その顔と名前は小さな時から知ってるわ。いつも、<tips=59>暗闇通り</tips>をその角で風を切って歩いていたものね」",
-      "en": "“This may be the first time we've spoken, but I've known your face and name since I was little. You were always striding down <tips=59>Darkness Street</tips>, those horns cutting through the crowd.”",
+      "en": "“This may be the first time we've spoken, but I've known your face and name since I was little. You were always striding down <tips=59>Darkness Street</tips>, those horns cutting through the wind.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -9446,7 +9446,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「……お前が<tips=20>コシチェイ</tips>ってやつか。資料でみた大昔の写真とまったく姿が変わらないが、どんな秘密があるんだい？」",
-      "en": "“...So you're this <tips=20>Koschei</tips>. You haven't aged a day since that ancient photograph in the file. What's the trick?”",
+      "en": "“...So you're <tips=20>Koschei</tips>. You haven't aged a day since that old photograph in the files. What's your secret?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -9562,7 +9562,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「なんだって、こんなところへやって来て、無関係な女を殺した。いや、こんな質問は頭のイカレた殺人鬼には無意味かな？　お前は狂った頭で、手当たり次第に女を殺し続けるのさ」",
-      "en": "“Why come here and murder a woman who had nothing to do with you? No, that's probably a stupid question to ask a lunatic killer. Your head's rotten. You kill any woman you can get your hands on.”",
+      "en": "“Why come here and kill a woman who had nothing to do with any of this? No, I suppose that's a pointless question for a lunatic murderer. You'll just keep killing every woman you can get your hands on.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-03.webp",
@@ -9620,7 +9620,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「失礼なやつだな。……そもそも、お前が調べたりするから、この女も死ぬことになった。この女は本来死ぬ必要はなかったんだ。おれはひどく心を痛めている」",
-      "en": "“What a rude man... She died because you went digging into my affairs. She wasn't supposed to die at all. The whole thing pains me deeply.”",
+      "en": "“How rude... She died because you went digging into my affairs. She never had to die at all. The whole thing pains me deeply.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -9649,7 +9649,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「……どうして胸を撃たれたのに生きている。それがお前の能力か？」",
-      "en": "“...How are you alive after two bullets through the chest? Is that your power?”",
+      "en": "“...How are you alive after being shot in the chest? Is that your ability?”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",
@@ -9678,7 +9678,7 @@
       "sj": "アレクセイ",
       "se": "Alexey",
       "jp": "「会話をするつもりがないのか？　なんだか、面倒だな……」",
-      "en": "“Are you even trying to have a conversation? What a nuisance...”",
+      "en": "“Are you even trying to have a conversation? How tiresome...”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-alexey-f029-04.webp",

@@ -43,8 +43,8 @@
     "format": "bst-delta-v1",
     "source_size": 126313228,
     "source_sha256": "3246bf3b15e275eacbcb2dc2c89d3e00a7d256d5ba52d9401159bed1f0102cb8",
-    "target_size": 176467448,
-    "target_sha256": "3977cb151dfc7d9dd30ec4eca23b357f18c66fad3130eff7cd4b79ff969e722d",
+    "target_size": 176472664,
+    "target_sha256": "658872db85edd82b2e39c08aabc2612f1ac7688fc4eafef32a32a5c514e057ee",
     "operations": [
       [
         "literal",
@@ -217,7 +217,7 @@
       ],
       [
         "literal",
-        10480680
+        10485896
       ],
       [
         "copy",
@@ -229,13 +229,13 @@
         177529
       ]
     ],
-    "literal_bytes": 58227197,
+    "literal_bytes": 58232413,
     "copied_bytes": 118240251,
     "parts": [
       {
         "name": "literals.zlib.001",
-        "size": 3761799,
-        "sha256": "fbb07a494478f220eb0a340155c1c8c3497cdc03d03ae35698dd01e642b86120"
+        "size": 3762542,
+        "sha256": "aadb96bdd2e201b8bcc6ce1b324bddf55cad4d4bda906b9896ffb65053043148"
       }
     ]
   },
@@ -601,23 +601,14 @@
   "patched-game-assembly": {
     "format": "bst-delta-v1",
     "source_size": 52463616,
-    "source_sha256": "0c55d38cf56f707d8770d5cb0d15d7e21ea7afba6854b932cb7854b2b2ae8e46",
+    "source_sha256": "df0b5984a00e20dffc6052514a36af40c32d0905d857f244bad660a3605c9418",
     "target_size": 52463616,
-    "target_sha256": "0c41f57ff8b4943fba15cef3ab810b84f978f76f74f03081f2107475fb4708af",
+    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
     "operations": [
       [
         "copy",
         0,
-        9986064
-      ],
-      [
-        "literal",
-        38794
-      ],
-      [
-        "copy",
-        10024858,
-        165452
+        10190310
       ],
       [
         "literal",
@@ -626,43 +617,16 @@
       [
         "copy",
         10253077,
-        1949584
-      ],
-      [
-        "literal",
-        74472
-      ],
-      [
-        "copy",
-        12277133,
-        1448096
-      ],
-      [
-        "literal",
-        117831
-      ],
-      [
-        "copy",
-        13843060,
-        22069258
-      ],
-      [
-        "literal",
-        60321
-      ],
-      [
-        "copy",
-        35972639,
-        16490977
+        42210539
       ]
     ],
-    "literal_bytes": 354185,
-    "copied_bytes": 52109431,
+    "literal_bytes": 62767,
+    "copied_bytes": 52400849,
     "parts": [
       {
         "name": "literals.zlib.001",
-        "size": 122374,
-        "sha256": "79c5fd4575f65d0efaab59b363c30dfe46379394fe5650613afe137ac7506418"
+        "size": 22170,
+        "sha256": "a0f41e381285de8e58b887f63f5e0509cb41e11af061706e40ba5d5096c19139"
       }
     ]
   },

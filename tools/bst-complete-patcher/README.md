@@ -63,6 +63,13 @@ restores the previous UI and story input immediately instead of leaving text
 advancement disabled. Fresh and existing installs receive both fixes while
 preserving the selected language.
 
+Version 1.0.9 reconciles dialogue repeated across different viewpoint chapters.
+Six replayed scenes now use the same English wording wherever the Japanese line
+is the same, while retaining genuine details that differ between accounts. The
+compiler also removes its earlier synthetic continuation rows before rebuilding
+pagination, preventing duplicated page tails when an existing English asset is
+refreshed.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -71,10 +78,10 @@ modified.
 
 ## One-click installation
 
-1. For a fresh installation, extract both the v1.0.8 Core and Full Payload
+1. Extract both the v1.0.9 Core and Full Payload
    archives into the same location. They merge into one complete
-   `bst-complete-patcher` folder. When updating an extracted v1.0.7 patcher,
-   only the Core archive is needed; extract it over the existing folder.
+   `bst-complete-patcher` folder. This applies both to fresh installations and
+   updates, because v1.0.9 replaces the translated scenario payload.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.

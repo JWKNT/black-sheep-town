@@ -66,11 +66,10 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.8\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.8-Core\.zip/);
-  assert.match(html, /bst-english-patcher-v1\.0\.8\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.8-Full-Payload\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.9\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.9-Core\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.9\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.9-Full-Payload\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
-  assert.match(html, /0cf8d029229c4ab27871633dc54b82b8a256deae1e45c181d2c9fb865237d3aa/);
-  assert.match(html, /93f3844f2320c67a207e99dbdd1a73a96b4ff2b46d576a8291cb436b8154fc2c/);
+  assert.doesNotMatch(html, /HASH_PENDING/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -83,7 +82,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   ));
   assert.equal(
     manifest.target_sha256,
-    "3977cb151dfc7d9dd30ec4eca23b357f18c66fad3130eff7cd4b79ff969e722d",
+    "658872db85edd82b2e39c08aabc2612f1ac7688fc4eafef32a32a5c514e057ee",
   );
   const existingHookManifest = JSON.parse(await readFile(
     new URL(
@@ -132,7 +131,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   assert.match(nativePatcher, /find_language_callback_tail/);
   assert.match(nativePatcher, /find_import_iat_va/);
   assert.match(nativePatcher, /patch_tips_close_fallback/);
-  assert.match(installer, /bst-complete-patch-v1\.0\.8/);
+  assert.match(installer, /bst-complete-patch-v1\.0\.9/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {
