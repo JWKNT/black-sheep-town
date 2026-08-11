@@ -301,7 +301,14 @@ test("glossary versions follow the game's scenario dependency graph", async () =
   }
   assert.equal(progression.vnOrder.length, Object.keys(progression.chapters).length);
   assert.equal(new Set(progression.vnOrder).size, progression.vnOrder.length);
-  assert.deepEqual(progression.vnOrder.slice(0, 5), ["X1", "A1", "B1", "A2-1", "A2-2"]);
+  assert.deepEqual(progression.vnOrder, [
+    "X1", "A1", "B1", "A2-1", "A2-2", "E1", "E2", "X2-1", "X2-2", "C1",
+    "A3", "B2", "E3", "A4", "D1", "F1", "F2", "F3", "E4", "A5", "D2",
+    "X3-1", "X3-2", "X3-3", "C2", "X6-1", "X6-2", "X7", "X4", "G1", "G2",
+    "G3", "X8", "X9", "X10", "A6", "C3", "E5", "B3-1", "B3-2", "F4", "B4-1",
+    "B4-2", "X11", "C4", "E6", "E7", "D3", "A7", "B5", "X14", "X19", "X12",
+    "B6", "X15-1", "X15-2", "X18", "D5", "F5", "A8", "X13", "X16", "X17",
+  ]);
   const orderPosition = new Map(progression.vnOrder.map((chapter, position) => [chapter, position]));
   for (const [chapter, requirements] of Object.entries(progression.chapters)) {
     for (const required of requirements) {
@@ -430,10 +437,11 @@ test("reader visual data resolves to exported game artwork", async () => {
   await Promise.all([...artworkPaths].map((path) => readFile(new URL(path, root))));
 });
 
-test("data builder synchronizes the editorial VN order", async () => {
+test("data builder preserves and validates the site-owned editorial VN order", async () => {
   const builder = await readFile(new URL("tools/build_data.py", root), "utf8");
-  assert.match(builder, /chapter_unlock_and_editorial_reading_order\.md/);
   assert.match(builder, /def sync_scenario_progression/);
+  assert.match(builder, /progression\.get\("vnOrder", \[\]\)/);
+  assert.doesNotMatch(builder, /chapter_unlock_and_editorial_reading_order\.md/);
   assert.match(builder, /positions\[requirement\] >= positions\[chapter\]/);
 });
 

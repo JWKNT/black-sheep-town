@@ -483,23 +483,13 @@ def read_scenario_titles(translation_root: Path) -> dict[str, str]:
 
 
 def sync_scenario_progression(translation_root: Path, output_root: Path) -> None:
-    workspace_root = translation_root.parent
-    order_path = workspace_root / "notes" / "chapter_unlock_and_editorial_reading_order.md"
     progression_source = REPOSITORY_ROOT / "data" / "scenario-progression.json"
-    if not order_path.is_file() or not progression_source.is_file():
+    if not progression_source.is_file():
         raise SystemExit("Scenario progression sources were not found")
-
-    note = order_path.read_text(encoding="utf-8")
-    try:
-        order_section = note.split("## Default editorial read-through", 1)[1].split(
-            "This sequence", 1
-        )[0]
-    except IndexError as error:
-        raise SystemExit("The editorial reading-order section could not be parsed") from error
-    vn_order = [slug.upper() for slug in re.findall(r"`([^`]+)`", order_section)]
 
     progression = json.loads(progression_source.read_text(encoding="utf-8"))
     chapters = progression["chapters"]
+    vn_order = [str(slug).upper() for slug in progression.get("vnOrder", [])]
     if len(vn_order) != len(chapters) or set(vn_order) != set(chapters):
         raise SystemExit("The editorial reading order does not contain every scenario once")
     positions = {slug: position for position, slug in enumerate(vn_order)}
@@ -511,8 +501,8 @@ def sync_scenario_progression(translation_root: Path, output_root: Path) -> None
                 )
 
     progression["vnOrderSource"] = (
-        "Default editorial read-through reconstructed from "
-        "ScenarioButton.requireScenarios; concurrent choices follow the game's button order"
+        "Content-optimized editorial reading order constrained by the shipped game's "
+        "ScenarioButton.requireScenarios prerequisites"
     )
     progression["vnOrder"] = vn_order
     write_json(output_root / "scenario-progression.json", progression)
