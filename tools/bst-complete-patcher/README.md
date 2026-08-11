@@ -76,6 +76,11 @@ pages. It also ships the verified Tips close/input-restoration fallback in the
 primary runtime delta itself and reapplies it idempotently on updates. This
 prevents the null-animation close path from leaving story input disabled.
 
+Version 1.0.11 refreshes the final scenario asset after a complete semantic
+referent audit. It corrects the genders of Jeffrey Wong's children and restores
+all three Fernandez daughters to a pre-attack family passage. No runtime or
+save-format behavior changed.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -84,10 +89,10 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.10 Core and Full Payload
+1. Extract both the v1.0.11 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
-   updates, because v1.0.10 refreshes the English and native runtime payloads.
+   updates, because v1.0.11 refreshes the translated scenario payload.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.
