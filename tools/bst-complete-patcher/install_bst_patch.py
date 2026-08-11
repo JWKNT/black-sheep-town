@@ -100,6 +100,11 @@ def build_native_runtime(source: Path, destination: Path) -> dict[str, object]:
         manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
         if manifest.get("source_sha256") == source_hash:
             result = apply_delta(source, PAYLOAD / patch_name, destination)
+            native = load_native_patcher()
+            data = bytearray(destination.read_bytes())
+            result.update(native.patch_tips_close_fallback(data))
+            destination.write_bytes(data)
+            result["target_sha256"] = sha256(destination)
             result["mode"] = "verified-full-runtime"
             result["patch"] = patch_name
             return result
@@ -107,6 +112,7 @@ def build_native_runtime(source: Path, destination: Path) -> dict[str, object]:
     native = load_native_patcher()
     data = bytearray(source.read_bytes())
     details = native.patch_language_switch(data)
+    details.update(native.patch_tips_close_fallback(data))
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(data)
     return {
@@ -240,7 +246,7 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.7",
+            "format": "bst-complete-patch-v1.0.8",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
@@ -340,16 +346,13 @@ def migrate_runtime_layout(game: Path, player_data: Path) -> Path:
 def refresh_native_runtime(game: Path) -> str:
     """Install the current exact-line logger/reliable exit when available."""
     assembly = game / "GameAssembly.dll"
-    target_hash = json.loads(
-        (PAYLOAD / "patched-game-assembly/manifest.json").read_text(encoding="utf-8")
-    )["target_sha256"]
-    if sha256(assembly) != target_hash:
-        temporary = game / ".bst-patcher-runtime.dll"
-        try:
-            build_native_runtime(assembly, temporary)
+    temporary = game / ".bst-patcher-runtime.dll"
+    try:
+        build_native_runtime(assembly, temporary)
+        if sha256(temporary) != sha256(assembly):
             temporary.replace(assembly)
-        finally:
-            temporary.unlink(missing_ok=True)
+    finally:
+        temporary.unlink(missing_ok=True)
     launcher = PAYLOAD / "BstPackLauncher.exe"
     if sha256(launcher) != LAUNCHER_SHA256:
         raise ValueError("The language launcher payload is corrupt")
@@ -397,7 +400,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.7",
+                "format": "bst-complete-patch-v1.0.8",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
@@ -459,7 +462,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.7",
+                "format": "bst-complete-patch-v1.0.8",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,

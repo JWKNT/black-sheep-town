@@ -45,6 +45,18 @@ LANGUAGE_CALLBACK_MASK = (
     b"\xff" * 17 + b"\x00" * 4 + b"\xff" * 20 + b"\x00" * 4
 )
 
+# TipsDialog.Close normally restores the previous UI state from an animation
+# completion callback.  Its null-animation branch skips that callback and
+# leaves the story input disabled.  Long English entries enter the expanded
+# layout often enough to expose the race.  The patch below turns only that
+# null-animation branch into an immediate OnCloseAnimationEnd call.
+TIPS_CLOSE_FALLBACK_PREFIX = bytes.fromhex(
+    "48 89 44 24 48 48 83 7c 24 48 00 75 0a"
+)
+TIPS_ON_CLOSE_PREFIX = bytes.fromhex(
+    "48 89 54 24 10 48 89 4c 24 08 57 48 83 ec 40 0f b6 05"
+)
+
 
 def immediate_exit_patch(tail_va: int, exit_process_iat_va: int) -> bytes:
     # push 42; pop rcx; call [ExitProcess]; nop; original function epilogue.
@@ -144,6 +156,84 @@ def masked_equal(data: bytes, offset: int, pattern: bytes, mask: bytes) -> bool:
                for index, keep in enumerate(mask))
 
 
+def find_all(data: bytes, pattern: bytes) -> list[int]:
+    matches: list[int] = []
+    cursor = 0
+    while True:
+        offset = data.find(pattern, cursor)
+        if offset < 0:
+            return matches
+        matches.append(offset)
+        cursor = offset + 1
+
+
+def is_tips_on_close(data: bytes, offset: int) -> bool:
+    """Match the stable control flow of TipsDialog.OnCloseAnimationEnd."""
+    return (
+        data[offset : offset + len(TIPS_ON_CLOSE_PREFIX)] == TIPS_ON_CLOSE_PREFIX
+        and data[offset + 22 : offset + 28] == bytes.fromhex("85 c0 75 12 8b 0d")
+        and data[offset + 32] == 0xE8
+        and data[offset + 37 : offset + 39] == bytes.fromhex("c6 05")
+        and data[offset + 43] == 0x01
+        and data[offset + 44 : offset + 50] == bytes.fromhex("48 8b 4c 24 50 e8")
+        and data[offset + 54 : offset + 72]
+        == bytes.fromhex("88 44 24 20 0f b6 44 24 20 85 c0 74 04 eb 07 eb 05 e9")
+    )
+
+
+def patch_tips_close_fallback(data: bytearray) -> dict[str, int | bool]:
+    fallback_matches: list[int] = []
+    for offset in find_all(data, TIPS_CLOSE_FALLBACK_PREFIX):
+        branch = offset + len(TIPS_CLOSE_FALLBACK_PREFIX)
+        if branch + 10 > len(data) or data[branch] not in (0xE8, 0xE9):
+            continue
+        if data[branch + 5] != 0xE9:
+            continue
+        first_target = branch + 5 + struct.unpack_from("<i", data, branch + 1)[0]
+        method_end = branch + 10 + struct.unpack_from("<i", data, branch + 6)[0]
+        if not 0 < method_end - offset < 0x1000:
+            continue
+        # In the retail code both jumps converge on the method epilogue.  In
+        # an already-fixed runtime, the first instruction is our call and the
+        # second jump still identifies the same nearby epilogue.
+        if data[branch] == 0xE9 and first_target != method_end:
+            continue
+        fallback_matches.append(offset)
+    on_close_matches = [
+        offset
+        for offset in find_all(data, TIPS_ON_CLOSE_PREFIX)
+        if is_tips_on_close(data, offset)
+    ]
+    pairs = [
+        (fallback, on_close)
+        for fallback in fallback_matches
+        for on_close in on_close_matches
+        if 0 < on_close - fallback < 0x4000
+    ]
+    if len(pairs) != 1:
+        raise ValueError(
+            "Could not uniquely pair TipsDialog.Close with OnCloseAnimationEnd "
+            f"(found {len(pairs)} pairs from {len(fallback_matches)} fallbacks "
+            f"and {len(on_close_matches)} completion methods)"
+        )
+    fallback, on_close = pairs[0]
+    branch = fallback + len(TIPS_CLOSE_FALLBACK_PREFIX)
+    branch_va = offset_to_va(data, branch)
+    on_close_va = offset_to_va(data, on_close)
+    replacement = b"\xe8" + struct.pack("<i", on_close_va - (branch_va + 5))
+    current = bytes(data[branch : branch + 5])
+    changed = current != replacement
+    if current[0] not in (0xE8, 0xE9):
+        raise ValueError("Tips close fallback has an unexpected branch opcode")
+    data[branch : branch + 5] = replacement
+    return {
+        "tips_fallback_file_offset": branch,
+        "tips_fallback_va": branch_va,
+        "tips_on_close_va": on_close_va,
+        "tips_fallback_changed": changed,
+    }
+
+
 def find_language_callback_tail(data: bytes) -> tuple[int, int]:
     if len(LANGUAGE_CALLBACK_ANCHOR) != len(LANGUAGE_CALLBACK_MASK):
         raise AssertionError("Language callback signature mask is malformed")
@@ -206,6 +296,7 @@ def patch(source: Path, destination: Path) -> None:
         "choice logger",
     )
     patch_language_switch(data)
+    patch_tips_close_fallback(data)
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(data)
 

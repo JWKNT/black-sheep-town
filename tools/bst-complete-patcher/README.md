@@ -56,6 +56,13 @@ compiled dialogue rows are verified, including the stricter portrait-safe
 pages. Running 1.0.7 over an existing installation preserves the selected
 language and replaces only the updated English pack.
 
+Version 1.0.8 prevents titles and abbreviations such as “Ms.”, “Mr.”, and
+“Dr.” from being mistaken for sentence-ending page boundaries. It also repairs
+the Tips close fallback: if the close animation is unavailable, the game now
+restores the previous UI and story input immediately instead of leaving text
+advancement disabled. Fresh and existing installs receive both fixes while
+preserving the selected language.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables

@@ -1,36 +1,4 @@
 {
-  "english-global-metadata": {
-    "format": "bst-delta-v1",
-    "source_size": 5528636,
-    "source_sha256": "148d5fd72d5437b9a58e6ebc1053c07e14c1b04e6ad98bf5a859e1183e059c04",
-    "target_size": 5528636,
-    "target_sha256": "ed60c264b94d9c50ed0a5718caf6cd31ff78829d89e749ce7ed97844bb02ccda",
-    "operations": [
-      [
-        "copy",
-        0,
-        181385
-      ],
-      [
-        "literal",
-        126153
-      ],
-      [
-        "copy",
-        307538,
-        5221098
-      ]
-    ],
-    "literal_bytes": 126153,
-    "copied_bytes": 5402483,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 44713,
-        "sha256": "4407ae10323ba1c77f71d1d4ae41c9f6f2c5db4061ee2ba8b104c047def02438"
-      }
-    ]
-  },
   "english-level0": {
     "format": "bst-delta-v1",
     "source_size": 1637772,
@@ -68,6 +36,206 @@
         "name": "literals.zlib.001",
         "size": 191536,
         "sha256": "c25d8837752de526d02b95e9b4af06d7f5d2e9265a53a1d7d977bcc307b08db4"
+      }
+    ]
+  },
+  "english-sharedassets0": {
+    "format": "bst-delta-v1",
+    "source_size": 126313228,
+    "source_sha256": "3246bf3b15e275eacbcb2dc2c89d3e00a7d256d5ba52d9401159bed1f0102cb8",
+    "target_size": 176467448,
+    "target_sha256": "3977cb151dfc7d9dd30ec4eca23b357f18c66fad3130eff7cd4b79ff969e722d",
+    "operations": [
+      [
+        "literal",
+        47568988
+      ],
+      [
+        "copy",
+        215300,
+        22275377
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        22569621,
+        36082552
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        58731117,
+        41802
+      ],
+      [
+        "copy",
+        35081047,
+        204976
+      ],
+      [
+        "copy",
+        58977895,
+        20684105
+      ],
+      [
+        "copy",
+        58125136,
+        142210
+      ],
+      [
+        "copy",
+        79804210,
+        375375
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80258529,
+        134272
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80471745,
+        134612
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80685301,
+        145916
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        80910161,
+        134556
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        81123661,
+        11310156
+      ],
+      [
+        "copy",
+        34387647,
+        21396
+      ],
+      [
+        "copy",
+        92455213,
+        67620
+      ],
+      [
+        "copy",
+        34476661,
+        137495
+      ],
+      [
+        "copy",
+        92660328,
+        24392
+      ],
+      [
+        "copy",
+        34638676,
+        235347
+      ],
+      [
+        "copy",
+        92920067,
+        299314
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        93298325,
+        138708
+      ],
+      [
+        "copy",
+        22269177,
+        78944
+      ],
+      [
+        "copy",
+        93515977,
+        41694
+      ],
+      [
+        "copy",
+        35081047,
+        204976
+      ],
+      [
+        "copy",
+        93762647,
+        23310492
+      ],
+      [
+        "copy",
+        58177203,
+        90143
+      ],
+      [
+        "copy",
+        117163282,
+        1230935
+      ],
+      [
+        "literal",
+        10480680
+      ],
+      [
+        "copy",
+        126057457,
+        61334
+      ],
+      [
+        "literal",
+        177529
+      ]
+    ],
+    "literal_bytes": 58227197,
+    "copied_bytes": 118240251,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 3761799,
+        "sha256": "fbb07a494478f220eb0a340155c1c8c3497cdc03d03ae35698dd01e642b86120"
       }
     ]
   },
@@ -398,203 +566,103 @@
       }
     ]
   },
-  "english-sharedassets0": {
+  "english-global-metadata": {
     "format": "bst-delta-v1",
-    "source_size": 126313228,
-    "source_sha256": "3246bf3b15e275eacbcb2dc2c89d3e00a7d256d5ba52d9401159bed1f0102cb8",
-    "target_size": 176467456,
-    "target_sha256": "86035935d79958cb8aedf5898aaf53962e39c5c39edaac624ecfecbf40e2a5a2",
+    "source_size": 5528636,
+    "source_sha256": "148d5fd72d5437b9a58e6ebc1053c07e14c1b04e6ad98bf5a859e1183e059c04",
+    "target_size": 5528636,
+    "target_sha256": "ed60c264b94d9c50ed0a5718caf6cd31ff78829d89e749ce7ed97844bb02ccda",
     "operations": [
       [
-        "literal",
-        47568988
-      ],
-      [
         "copy",
-        215300,
-        22275377
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        22569621,
-        36082552
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        58731117,
-        41802
-      ],
-      [
-        "copy",
-        35081047,
-        204976
-      ],
-      [
-        "copy",
-        58977895,
-        20684105
-      ],
-      [
-        "copy",
-        58125136,
-        142210
-      ],
-      [
-        "copy",
-        79804210,
-        375375
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80258529,
-        134272
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80471745,
-        134612
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80685301,
-        145916
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        80910161,
-        134556
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        81123661,
-        11310156
-      ],
-      [
-        "copy",
-        34387647,
-        21396
-      ],
-      [
-        "copy",
-        92455213,
-        67620
-      ],
-      [
-        "copy",
-        34476661,
-        137495
-      ],
-      [
-        "copy",
-        92660328,
-        24392
-      ],
-      [
-        "copy",
-        34638676,
-        235347
-      ],
-      [
-        "copy",
-        92920067,
-        299314
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        93298325,
-        138708
-      ],
-      [
-        "copy",
-        22269177,
-        78944
-      ],
-      [
-        "copy",
-        93515977,
-        41694
-      ],
-      [
-        "copy",
-        35081047,
-        204976
-      ],
-      [
-        "copy",
-        93762647,
-        23310492
-      ],
-      [
-        "copy",
-        58177203,
-        90143
-      ],
-      [
-        "copy",
-        117163282,
-        1230935
+        0,
+        181385
       ],
       [
         "literal",
-        10480688
+        126153
       ],
       [
         "copy",
-        126057457,
-        61334
-      ],
-      [
-        "literal",
-        177529
+        307538,
+        5221098
       ]
     ],
-    "literal_bytes": 58227205,
-    "copied_bytes": 118240251,
+    "literal_bytes": 126153,
+    "copied_bytes": 5402483,
     "parts": [
       {
         "name": "literals.zlib.001",
-        "size": 3761844,
-        "sha256": "b7992b2c7d01db3e68b2b576be978aa3e508ab711fddfcdad6d8ce369451eb03"
+        "size": 44713,
+        "sha256": "4407ae10323ba1c77f71d1d4ae41c9f6f2c5db4061ee2ba8b104c047def02438"
+      }
+    ]
+  },
+  "patched-game-assembly": {
+    "format": "bst-delta-v1",
+    "source_size": 52463616,
+    "source_sha256": "0c55d38cf56f707d8770d5cb0d15d7e21ea7afba6854b932cb7854b2b2ae8e46",
+    "target_size": 52463616,
+    "target_sha256": "0c41f57ff8b4943fba15cef3ab810b84f978f76f74f03081f2107475fb4708af",
+    "operations": [
+      [
+        "copy",
+        0,
+        9986064
+      ],
+      [
+        "literal",
+        38794
+      ],
+      [
+        "copy",
+        10024858,
+        165452
+      ],
+      [
+        "literal",
+        62767
+      ],
+      [
+        "copy",
+        10253077,
+        1949584
+      ],
+      [
+        "literal",
+        74472
+      ],
+      [
+        "copy",
+        12277133,
+        1448096
+      ],
+      [
+        "literal",
+        117831
+      ],
+      [
+        "copy",
+        13843060,
+        22069258
+      ],
+      [
+        "literal",
+        60321
+      ],
+      [
+        "copy",
+        35972639,
+        16490977
+      ]
+    ],
+    "literal_bytes": 354185,
+    "copied_bytes": 52109431,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 122374,
+        "sha256": "79c5fd4575f65d0efaab59b363c30dfe46379394fe5650613afe137ac7506418"
       }
     ]
   },
@@ -653,138 +721,6 @@
         "name": "literals.zlib.001",
         "size": 166456,
         "sha256": "5ad9b1bb3300b579000b0ea9817d2807d648b5e15b6c62c774e22070c4cf2862"
-      }
-    ]
-  },
-  "patched-game-assembly": {
-    "format": "bst-delta-v1",
-    "source_size": 52463616,
-    "source_sha256": "0c55d38cf56f707d8770d5cb0d15d7e21ea7afba6854b932cb7854b2b2ae8e46",
-    "target_size": 52463616,
-    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
-    "operations": [
-      [
-        "copy",
-        0,
-        9986064
-      ],
-      [
-        "literal",
-        38794
-      ],
-      [
-        "copy",
-        10024858,
-        165452
-      ],
-      [
-        "literal",
-        62767
-      ],
-      [
-        "copy",
-        10253077,
-        1949584
-      ],
-      [
-        "literal",
-        74472
-      ],
-      [
-        "copy",
-        12277133,
-        1448096
-      ],
-      [
-        "literal",
-        117831
-      ],
-      [
-        "copy",
-        13843060,
-        38620556
-      ]
-    ],
-    "literal_bytes": 293864,
-    "copied_bytes": 52169752,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 99771,
-        "sha256": "fe7490b2892dab0dea2604018fae4dda9aa1ee48d67226c28b02243a460fe606"
-      }
-    ]
-  },
-  "patched-game-assembly-exact-hook": {
-    "format": "bst-delta-v1",
-    "source_size": 52463616,
-    "source_sha256": "2570f44e714018566000e548aa9bc2a9a5e92f6b8bdae7e753ddcc41c5b2d8b6",
-    "target_size": 52463616,
-    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
-    "operations": [
-      [
-        "copy",
-        0,
-        10190310
-      ],
-      [
-        "literal",
-        62767
-      ],
-      [
-        "copy",
-        10253077,
-        3472152
-      ],
-      [
-        "literal",
-        117831
-      ],
-      [
-        "copy",
-        13843060,
-        38620556
-      ]
-    ],
-    "literal_bytes": 180598,
-    "copied_bytes": 52283018,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 61667,
-        "sha256": "9e03b41581ad77d3bbda681de8fa2edf733cf98b7874df2bf9693bcf6740cc0d"
-      }
-    ]
-  },
-  "patched-game-assembly-exact-hook-switch": {
-    "format": "bst-delta-v1",
-    "source_size": 52463616,
-    "source_sha256": "df0b5984a00e20dffc6052514a36af40c32d0905d857f244bad660a3605c9418",
-    "target_size": 52463616,
-    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
-    "operations": [
-      [
-        "copy",
-        0,
-        10190310
-      ],
-      [
-        "literal",
-        62767
-      ],
-      [
-        "copy",
-        10253077,
-        42210539
-      ]
-    ],
-    "literal_bytes": 62767,
-    "copied_bytes": 52400849,
-    "parts": [
-      {
-        "name": "literals.zlib.001",
-        "size": 22170,
-        "sha256": "a0f41e381285de8e58b887f63f5e0509cb41e11af061706e40ba5d5096c19139"
       }
     ]
   },
@@ -876,6 +812,79 @@
         "name": "literals.zlib.001",
         "size": 52111,
         "sha256": "69aa34f4c885bac908153b37455addb39ed94f95ab86757d0a1e3f1196feee5b"
+      }
+    ]
+  },
+  "patched-game-assembly-exact-hook": {
+    "format": "bst-delta-v1",
+    "source_size": 52463616,
+    "source_sha256": "2570f44e714018566000e548aa9bc2a9a5e92f6b8bdae7e753ddcc41c5b2d8b6",
+    "target_size": 52463616,
+    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
+    "operations": [
+      [
+        "copy",
+        0,
+        10190310
+      ],
+      [
+        "literal",
+        62767
+      ],
+      [
+        "copy",
+        10253077,
+        3472152
+      ],
+      [
+        "literal",
+        117831
+      ],
+      [
+        "copy",
+        13843060,
+        38620556
+      ]
+    ],
+    "literal_bytes": 180598,
+    "copied_bytes": 52283018,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 61667,
+        "sha256": "9e03b41581ad77d3bbda681de8fa2edf733cf98b7874df2bf9693bcf6740cc0d"
+      }
+    ]
+  },
+  "patched-game-assembly-exact-hook-switch": {
+    "format": "bst-delta-v1",
+    "source_size": 52463616,
+    "source_sha256": "df0b5984a00e20dffc6052514a36af40c32d0905d857f244bad660a3605c9418",
+    "target_size": 52463616,
+    "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
+    "operations": [
+      [
+        "copy",
+        0,
+        10190310
+      ],
+      [
+        "literal",
+        62767
+      ],
+      [
+        "copy",
+        10253077,
+        42210539
+      ]
+    ],
+    "literal_bytes": 62767,
+    "copied_bytes": 52400849,
+    "parts": [
+      {
+        "name": "literals.zlib.001",
+        "size": 22170,
+        "sha256": "a0f41e381285de8e58b887f63f5e0509cb41e11af061706e40ba5d5096c19139"
       }
     ]
   }

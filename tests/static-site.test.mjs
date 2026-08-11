@@ -66,9 +66,9 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.7\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.7\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.8\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.8\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
-  assert.match(html, /95a2c47fff0e63e2946c2a90449024307d34d0a7f0199e90228c71169917480f/);
+  assert.match(html, /d511308e104b3606ac21fb3137ab409255ca503a5d52d7d302912cd408c6aef2/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -81,7 +81,7 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   ));
   assert.equal(
     manifest.target_sha256,
-    "86035935d79958cb8aedf5898aaf53962e39c5c39edaac624ecfecbf40e2a5a2",
+    "3977cb151dfc7d9dd30ec4eca23b357f18c66fad3130eff7cd4b79ff969e722d",
   );
   const existingHookManifest = JSON.parse(await readFile(
     new URL(
@@ -129,6 +129,8 @@ test("complete patch payload contains the portrait-corrected English asset", asy
   );
   assert.match(nativePatcher, /find_language_callback_tail/);
   assert.match(nativePatcher, /find_import_iat_va/);
+  assert.match(nativePatcher, /patch_tips_close_fallback/);
+  assert.match(installer, /bst-complete-patch-v1\.0\.8/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

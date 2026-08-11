@@ -3,7 +3,7 @@
   "source_size": 52463616,
   "source_sha256": "0c55d38cf56f707d8770d5cb0d15d7e21ea7afba6854b932cb7854b2b2ae8e46",
   "target_size": 52463616,
-  "target_sha256": "533972af488cada3246333c5921d8e28d1e2c5ece7effe1b5cc9479dd2672abd",
+  "target_sha256": "0c41f57ff8b4943fba15cef3ab810b84f978f76f74f03081f2107475fb4708af",
   "operations": [
     [
       "copy",
@@ -44,16 +44,25 @@
     [
       "copy",
       13843060,
-      38620556
+      22069258
+    ],
+    [
+      "literal",
+      60321
+    ],
+    [
+      "copy",
+      35972639,
+      16490977
     ]
   ],
-  "literal_bytes": 293864,
-  "copied_bytes": 52169752,
+  "literal_bytes": 354185,
+  "copied_bytes": 52109431,
   "parts": [
     {
       "name": "literals.zlib.001",
-      "size": 99771,
-      "sha256": "fe7490b2892dab0dea2604018fae4dda9aa1ee48d67226c28b02243a460fe606"
+      "size": 122374,
+      "sha256": "79c5fd4575f65d0efaab59b363c30dfe46379394fe5650613afe137ac7506418"
     }
   ]
 }
