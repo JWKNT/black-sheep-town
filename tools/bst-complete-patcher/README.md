@@ -71,8 +71,10 @@ modified.
 
 ## One-click installation
 
-1. Download this entire `bst-complete-patcher` folder (the `payload` folder is
-   required).
+1. For a fresh installation, extract both the v1.0.8 Core and Full Payload
+   archives into the same location. They merge into one complete
+   `bst-complete-patcher` folder. When updating an extracted v1.0.7 patcher,
+   only the Core archive is needed; extract it over the existing folder.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.
