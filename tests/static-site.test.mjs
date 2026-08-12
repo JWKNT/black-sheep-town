@@ -40,6 +40,8 @@ test("hidden character quiz contains 50 four-choice questions and is not linked 
   const quizJs = await readFile(new URL("quiz/quiz.js", root), "utf8");
   const quizCss = await readFile(new URL("quiz/quiz.css", root), "utf8");
   assert.match(quizHtml, /Which <cite>Black Sheep Town<\/cite> character are you\?/);
+  assert.doesNotMatch(quizHtml, /scientifically dubious|Fifty questions|8 minutes|Spoiler-light|Enter the City/);
+  assert.match(quizHtml, />Start quiz<\/button>/);
   assert.match(quizHtml, /id="result-portrait"/);
   assert.match(quizJs, /questions\.length !== 50/);
   assert.match(quizJs, /question\.options\.length !== 4/);
