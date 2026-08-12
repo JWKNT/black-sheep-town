@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Take a 50-question personality quiz to discover which Black Sheep Town character you resemble.">
+    <meta name="theme-color" content="#ffffff">
+    <title>Which Black Sheep Town Character Are You?</title>
+    <script src="/site-theme/v1/theme.js"></script>
+    <link rel="stylesheet" href="/site-theme/v1/base.css">
+    <link rel="stylesheet" href="quiz.css?v=20260812.1">
+  </head>
+  <body>
+    <a class="skip-link" href="#quiz">Skip to quiz</a>
+
+    <header class="quiz-header">
+      <a class="site-title" href="../">Black Sheep Town</a>
+      <button class="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button>
+    </header>
+
+    <main id="quiz" class="quiz-shell">
+      <section class="quiz-card quiz-intro" id="intro-panel">
+        <p class="kicker">A definitive and scientifically dubious personality test</p>
+        <h1>Which <cite>Black Sheep Town</cite> character are you?</h1>
+        <p class="dek">Fifty questions. Sixteen possible characters. One deeply consequential result.</p>
+        <div class="quiz-facts" aria-label="Quiz details">
+          <span>50 questions</span>
+          <span>≈ 8 minutes</span>
+          <span>Spoiler-light</span>
+        </div>
+        <p class="intro-note">Answer for who you actually are—not who you would like the City to think you are.</p>
+        <button class="primary-button" id="start-quiz" type="button">Enter the City →</button>
+      </section>
+
+      <section class="quiz-card question-panel" id="question-panel" hidden aria-labelledby="question-text">
+        <div class="progress-row">
+          <span id="question-count">Question 1 of 50</span>
+          <span id="progress-percent">2%</span>
+        </div>
+        <div class="progress-track" aria-hidden="true"><span id="progress-fill"></span></div>
+        <p class="question-category" id="question-category"></p>
+        <h1 id="question-text"></h1>
+        <fieldset class="answer-list" id="answer-list">
+          <legend class="visually-hidden">Choose one answer</legend>
+        </fieldset>
+        <div class="question-actions">
+          <button class="secondary-button" id="previous-question" type="button">← Back</button>
+          <button class="primary-button" id="next-question" type="button" disabled>Next →</button>
+        </div>
+      </section>
+
+      <section class="quiz-card result-panel" id="result-panel" hidden aria-live="polite">
+        <p class="kicker">Your Black Sheep Town character is…</p>
+        <div class="result-grid">
+          <figure class="result-portrait-frame">
+            <img id="result-portrait" alt="">
+          </figure>
+          <div class="result-copy">
+            <h1 id="result-name"></h1>
+            <p class="result-tagline" id="result-tagline"></p>
+            <p id="result-description"></p>
+            <div class="result-notes">
+              <div><strong>Your strength</strong><span id="result-strength"></span></div>
+              <div><strong>Your blind spot</strong><span id="result-watch"></span></div>
+            </div>
+          </div>
+        </div>
+        <section class="trait-section" aria-labelledby="trait-heading">
+          <h2 id="trait-heading">What tipped the scales</h2>
+          <div class="trait-bars" id="trait-bars"></div>
+        </section>
+        <p class="runner-up" id="runner-up"></p>
+        <div class="result-actions">
+          <button class="primary-button" id="copy-result" type="button">Copy result</button>
+          <button class="secondary-button" id="restart-quiz" type="button">Take it again</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="quiz-footer">
+      <p>Unofficial, noncommercial fan project. Character portraits © BA-KU.</p>
+    </footer>
+
+    <script src="quiz.js?v=20260812.1"></script>
+  </body>
+</html>

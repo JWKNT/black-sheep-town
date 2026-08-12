@@ -35,6 +35,28 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
 
+test("hidden character quiz contains 50 four-choice questions and is not linked from the main site", async () => {
+  const quizHtml = await readFile(new URL("quiz/index.html", root), "utf8");
+  const quizJs = await readFile(new URL("quiz/quiz.js", root), "utf8");
+  const quizCss = await readFile(new URL("quiz/quiz.css", root), "utf8");
+  assert.match(quizHtml, /Which <cite>Black Sheep Town<\/cite> character are you\?/);
+  assert.match(quizHtml, /id="result-portrait"/);
+  assert.match(quizJs, /questions\.length !== 50/);
+  assert.match(quizJs, /question\.options\.length !== 4/);
+  assert.equal((quizJs.match(/\bq\("/g) || []).length, 50);
+  assert.equal((quizJs.match(/result\("/g) || []).length, 16);
+  assert.match(quizCss, /\.result-portrait-frame/);
+  const portraits = [...quizJs.matchAll(/"(assets\/vn\/portraits\/[^"']+\.webp)"/g)];
+  assert.equal(portraits.length, 16);
+  for (const [, portrait] of portraits) {
+    await readFile(new URL(portrait, root));
+  }
+  for (const page of ["index.html", "glossary.html", "tools.html"]) {
+    const html = await readFile(new URL(page, root), "utf8");
+    assert.doesNotMatch(html, /(?:href|src)=["'][^"']*quiz/i, `${page} links to the hidden quiz`);
+  }
+});
+
 test("glossary HTML exposes progress, search, and entry regions", async () => {
   const html = await readFile(new URL("glossary.html", root), "utf8");
   for (const id of [
