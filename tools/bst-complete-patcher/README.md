@@ -81,6 +81,11 @@ referent audit. It corrects the genders of Jeffrey Wong's children and restores
 all three Fernandez daughters to a pre-attack family passage. No runtime or
 save-format behavior changed.
 
+Version 1.0.12 refreshes the final scenario asset after another complete
+chapter-by-chapter technical-consistency audit. It removes a duplicated
+“Type B” glossary phrase in G1 and corrects three lingering English grammar
+and sentence-flow defects. No runtime or save-format behavior changed.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -89,10 +94,10 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.11 Core and Full Payload
+1. Extract both the v1.0.12 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
-   updates, because v1.0.11 refreshes the translated scenario payload.
+   updates, because v1.0.12 refreshes the translated scenario payload.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.
