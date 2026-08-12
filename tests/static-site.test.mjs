@@ -47,6 +47,8 @@ test("hidden character quiz contains 50 four-choice questions and is not linked 
   assert.match(quizJs, /question\.options\.length !== 4/);
   assert.equal((quizJs.match(/\bq\("/g) || []).length, 50);
   assert.equal((quizJs.match(/result\("/g) || []).length, 16);
+  assert.match(quizJs, /A group project is due tonight/);
+  assert.match(quizJs, /A family obligation and a close friend's important event/);
   assert.match(quizCss, /\.result-portrait-frame/);
   assert.match(quizCss, /--quiz-blue:\s*var\(--blue/);
   assert.match(quizCss, /\.question-panel h1\s*\{[^}]*font-size:\s*clamp\(21px/s);
