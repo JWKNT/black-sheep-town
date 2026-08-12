@@ -351,6 +351,32 @@
     return card;
   }
 
+  function makeMobilePortraitStrip(portraits) {
+    const strip = document.createElement("div");
+    strip.className = "reader-mobile-portraits";
+    strip.dataset.portraitCount = String(portraits.length);
+    if (portraits.length === 1) strip.dataset.portraitSide = portraits[0].s || "c";
+    strip.setAttribute("aria-hidden", "true");
+
+    for (const portrait of portraits) {
+      const card = document.createElement("figure");
+      card.className = "reader-mobile-portrait";
+      card.dataset.preferredSide = portrait.s || "c";
+      card.dataset.gameX = portrait.x || "c";
+      card.dataset.gameY = portrait.y || "m";
+      const image = document.createElement("img");
+      image.src = portrait.u;
+      image.alt = "";
+      image.decoding = "async";
+      image.loading = "lazy";
+      image.width = 720;
+      image.height = 900;
+      card.append(image);
+      strip.append(card);
+    }
+    return strip;
+  }
+
   function nearestOpenTop(desired, size, limit, occupied) {
     const gap = 18;
     const clamped = Math.max(0, Math.min(desired, limit));
@@ -432,9 +458,11 @@
       if (allScope) fragment.append(makeChapterDivider(group.meta, group.lines.length));
       for (const line of visibleLines) {
         if (line.bg) fragment.append(makeBackgroundFigure(line.bg, line.id));
-        fragment.append(makeLineArticle(line, group.meta, terms, allScope));
         const currentPortraits = Array.isArray(line.p) ? line.p : [];
-        for (const portrait of changedPortraits(currentPortraits, previousPortraits)) {
+        const enteringPortraits = changedPortraits(currentPortraits, previousPortraits);
+        if (enteringPortraits.length) fragment.append(makeMobilePortraitStrip(enteringPortraits));
+        fragment.append(makeLineArticle(line, group.meta, terms, allScope));
+        for (const portrait of enteringPortraits) {
           portraitFragment.append(makePortraitCard(portrait, `line-${line.id.replace(":", "-")}`));
         }
         previousPortraits = currentPortraits;

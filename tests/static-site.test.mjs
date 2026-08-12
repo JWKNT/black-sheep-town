@@ -524,6 +524,7 @@ test("plain script segments append without erasing glossary terms", async () => 
 
 test("script rows form a continuous bordered grid", async () => {
   const css = await readFile(new URL("assets/styles.css", root), "utf8");
+  const app = await readFile(new URL("assets/app.js", root), "utf8");
   assert.match(css, /\.script-line \{[^}]*border: 1px solid var\(--line-strong\)/s);
   assert.match(css, /\.script-line \+ \.script-line \{ border-top: 0; \}/);
   assert.match(css, /\.line-number \{[^}]*border-right: 1px solid var\(--line-strong\)/s);
@@ -536,6 +537,10 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(css, /\.english-reader-mode \.language-label \{ display: none; \}/);
   assert.match(css, /\.english-reader-mode \.script-lines \{[^}]*width: min\(780px,[^}]*padding: 32px/s);
   assert.match(css, /\.english-reader-mode \.line-text \{[^}]*font-size: 18px[^}]*text-wrap: pretty/s);
+  assert.match(css, /\.english-reader-mode \.reader-mobile-portraits \{[^}]*display: flex[^}]*min-height: 158px/s);
+  assert.match(css, /\.reader-mobile-portrait img \{[^}]*object-fit: contain[^}]*object-position: center bottom/s);
+  assert.match(app, /function makeMobilePortraitStrip\(portraits\)/);
+  assert.match(app, /if \(enteringPortraits\.length\) fragment\.append\(makeMobilePortraitStrip\(enteringPortraits\)\)/);
   assert.match(css, /\.line-text \{[^}]*overflow-wrap: normal[^}]*word-break: normal/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
   assert.match(css, /\.glossary-comparison \{[^}]*grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/s);
