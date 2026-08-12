@@ -86,6 +86,11 @@ chapter-by-chapter technical-consistency audit. It removes a duplicated
 “Type B” glossary phrase in G1 and corrects three lingering English grammar
 and sentence-flow defects. No runtime or save-format behavior changed.
 
+Version 1.0.13 fixes a runtime input lock after closing Tips. Tips now restore
+the story UI synchronously on every close instead of depending on a close-
+animation callback, so repeated Tips use cannot block keyboard input or text
+progression. It retains the final script and asset fixes from version 1.0.12.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -94,10 +99,10 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.12 Core and Full Payload
+1. Extract both the v1.0.13 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
-   updates, because v1.0.12 refreshes the translated scenario payload.
+   updates, because the patcher verifies the translated scenario payload.
 2. Use either a Japanese game folder containing `Bst.exe`, `GameAssembly.dll`,
    and `Bst_Data` (untouched or with the supported BST text logger), or a folder
    previously patched with an earlier public or legacy bilingual build.

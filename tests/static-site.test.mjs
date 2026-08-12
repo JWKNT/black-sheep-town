@@ -66,8 +66,8 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.12\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.12-Core\.zip/);
-  assert.match(html, /bst-english-patcher-v1\.0\.12\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.12-Full-Payload\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.13\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.13-Core\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.13\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.13-Full-Payload\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
   assert.doesNotMatch(html, /HASH_PENDING/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
@@ -142,7 +142,8 @@ test("complete patch payload contains the technically audited English asset", as
   assert.match(nativePatcher, /find_language_callback_tail/);
   assert.match(nativePatcher, /find_import_iat_va/);
   assert.match(nativePatcher, /patch_tips_close_fallback/);
-  assert.match(installer, /bst-complete-patch-v1\.0\.12/);
+  assert.match(nativePatcher, /Finalize every Tips close synchronously/);
+  assert.match(installer, /bst-complete-patch-v1\.0\.13/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

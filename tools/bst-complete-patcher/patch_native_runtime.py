@@ -45,14 +45,15 @@ LANGUAGE_CALLBACK_MASK = (
     b"\xff" * 17 + b"\x00" * 4 + b"\xff" * 20 + b"\x00" * 4
 )
 
-# TipsDialog.Close normally restores the previous UI state from an animation
-# completion callback.  Its null-animation branch skips that callback and
-# leaves the story input disabled.  Long English entries enter the expanded
-# layout often enough to expose the race.  The patch below turns only that
-# null-animation branch into an immediate OnCloseAnimationEnd call.
-TIPS_CLOSE_FALLBACK_PREFIX = bytes.fromhex(
-    "48 89 44 24 48 48 83 7c 24 48 00 75 0a"
-)
+# TipsDialog.Close restores the previous story UI state only from a DOTween
+# completion callback.  If that callback is skipped, delayed past a mode
+# change, or supplied no animation, the visible window closes but UTAGE stays
+# in menu mode and permanently ignores story input.  The close-path anchor is
+# split around the five-byte result store because the complete fix replaces
+# that store with a jump to the method epilogue.
+TIPS_CLOSE_RESULT_STORE = bytes.fromhex("48 89 44 24 48")
+TIPS_CLOSE_FLOW_SUFFIX = bytes.fromhex("48 83 7c 24 48 00 75 0a")
+TIPS_CLOSE_THIS_RELOAD = bytes.fromhex("48 8b 8c 24 90 00 00 00")
 TIPS_ON_CLOSE_PREFIX = bytes.fromhex(
     "48 89 54 24 10 48 89 4c 24 08 57 48 83 ec 40 0f b6 05"
 )
@@ -182,55 +183,85 @@ def is_tips_on_close(data: bytes, offset: int) -> bool:
 
 
 def patch_tips_close_fallback(data: bytearray) -> dict[str, int | bool]:
-    fallback_matches: list[int] = []
-    for offset in find_all(data, TIPS_CLOSE_FALLBACK_PREFIX):
-        branch = offset + len(TIPS_CLOSE_FALLBACK_PREFIX)
+    """Finalize every Tips close synchronously and restore story input.
+
+    Retail ``TipsDialog.Close`` reloads ``this``, fetches the close animation,
+    and schedules ``OnCloseAnimationEnd``.  We replace that getter call with a
+    direct completion call while ``this`` is still valid, then replace the
+    following result store with a jump to the existing method epilogue.  The
+    animation-dependent code becomes unreachable, preventing both the normal
+    callback race and the null-animation failure.  The signature also accepts
+    runtimes carrying the older null-branch-only repair.
+    """
+    close_matches: list[tuple[int, int]] = []
+    for suffix in find_all(data, TIPS_CLOSE_FLOW_SUFFIX):
+        result_slot = suffix - len(TIPS_CLOSE_RESULT_STORE)
+        getter_call = result_slot - 5
+        this_reload = getter_call - len(TIPS_CLOSE_THIS_RELOAD)
+        if this_reload < 0 or data[this_reload:getter_call] != TIPS_CLOSE_THIS_RELOAD:
+            continue
+        if data[getter_call] != 0xE8:
+            continue
+        current_result = bytes(data[result_slot:suffix])
+        if current_result != TIPS_CLOSE_RESULT_STORE and current_result[:1] != b"\xe9":
+            continue
+        branch = suffix + len(TIPS_CLOSE_FLOW_SUFFIX)
         if branch + 10 > len(data) or data[branch] not in (0xE8, 0xE9):
             continue
         if data[branch + 5] != 0xE9:
             continue
         first_target = branch + 5 + struct.unpack_from("<i", data, branch + 1)[0]
         method_end = branch + 10 + struct.unpack_from("<i", data, branch + 6)[0]
-        if not 0 < method_end - offset < 0x1000:
+        if not 0 < method_end - result_slot < 0x1000:
             continue
-        # In the retail code both jumps converge on the method epilogue.  In
-        # an already-fixed runtime, the first instruction is our call and the
-        # second jump still identifies the same nearby epilogue.
+        # In retail both null-branch jumps converge on the method epilogue. An
+        # older patched runtime has a completion call followed by the same
+        # identifying epilogue jump.
         if data[branch] == 0xE9 and first_target != method_end:
             continue
-        fallback_matches.append(offset)
+        close_matches.append((getter_call, result_slot))
     on_close_matches = [
         offset
         for offset in find_all(data, TIPS_ON_CLOSE_PREFIX)
         if is_tips_on_close(data, offset)
     ]
     pairs = [
-        (fallback, on_close)
-        for fallback in fallback_matches
+        (getter_call, result_slot, on_close)
+        for getter_call, result_slot in close_matches
         for on_close in on_close_matches
-        if 0 < on_close - fallback < 0x4000
+        if 0 < on_close - result_slot < 0x4000
     ]
     if len(pairs) != 1:
         raise ValueError(
             "Could not uniquely pair TipsDialog.Close with OnCloseAnimationEnd "
-            f"(found {len(pairs)} pairs from {len(fallback_matches)} fallbacks "
+            f"(found {len(pairs)} pairs from {len(close_matches)} close paths "
             f"and {len(on_close_matches)} completion methods)"
         )
-    fallback, on_close = pairs[0]
-    branch = fallback + len(TIPS_CLOSE_FALLBACK_PREFIX)
-    branch_va = offset_to_va(data, branch)
+    getter_call, result_slot, on_close = pairs[0]
+    suffix = result_slot + len(TIPS_CLOSE_RESULT_STORE)
+    branch = suffix + len(TIPS_CLOSE_FLOW_SUFFIX)
+    method_end = branch + 10 + struct.unpack_from("<i", data, branch + 6)[0]
+
+    getter_call_va = offset_to_va(data, getter_call)
+    result_slot_va = offset_to_va(data, result_slot)
     on_close_va = offset_to_va(data, on_close)
-    replacement = b"\xe8" + struct.pack("<i", on_close_va - (branch_va + 5))
-    current = bytes(data[branch : branch + 5])
-    changed = current != replacement
-    if current[0] not in (0xE8, 0xE9):
-        raise ValueError("Tips close fallback has an unexpected branch opcode")
-    data[branch : branch + 5] = replacement
+    method_end_va = offset_to_va(data, method_end)
+    completion_call = b"\xe8" + struct.pack("<i", on_close_va - (getter_call_va + 5))
+    epilogue_jump = b"\xe9" + struct.pack("<i", method_end_va - (result_slot_va + 5))
+
+    call_changed = bytes(data[getter_call:getter_call + 5]) != completion_call
+    jump_changed = bytes(data[result_slot:result_slot + 5]) != epilogue_jump
+    data[getter_call:getter_call + 5] = completion_call
+    data[result_slot:result_slot + 5] = epilogue_jump
     return {
-        "tips_fallback_file_offset": branch,
-        "tips_fallback_va": branch_va,
+        "tips_close_call_file_offset": getter_call,
+        "tips_close_call_va": getter_call_va,
+        "tips_close_jump_file_offset": result_slot,
+        "tips_close_jump_va": result_slot_va,
         "tips_on_close_va": on_close_va,
-        "tips_fallback_changed": changed,
+        "tips_close_epilogue_va": method_end_va,
+        "tips_close_call_changed": call_changed,
+        "tips_close_jump_changed": jump_changed,
     }
 
 
