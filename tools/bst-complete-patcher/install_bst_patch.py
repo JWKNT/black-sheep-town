@@ -103,6 +103,7 @@ def build_native_runtime(source: Path, destination: Path) -> dict[str, object]:
             native = load_native_patcher()
             data = bytearray(destination.read_bytes())
             result.update(native.patch_tips_close_fallback(data))
+            result.update(native.patch_tips_nested_open_guard(data))
             destination.write_bytes(data)
             result["target_sha256"] = sha256(destination)
             result["mode"] = "verified-full-runtime"
@@ -113,6 +114,7 @@ def build_native_runtime(source: Path, destination: Path) -> dict[str, object]:
     data = bytearray(source.read_bytes())
     details = native.patch_language_switch(data)
     details.update(native.patch_tips_close_fallback(data))
+    details.update(native.patch_tips_nested_open_guard(data))
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(data)
     return {
@@ -246,7 +248,7 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.13",
+            "format": "bst-complete-patch-v1.0.14",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
@@ -400,7 +402,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.13",
+                "format": "bst-complete-patch-v1.0.14",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
@@ -462,7 +464,7 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.13",
+                "format": "bst-complete-patch-v1.0.14",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,

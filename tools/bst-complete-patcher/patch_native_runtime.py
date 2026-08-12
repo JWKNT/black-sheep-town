@@ -58,6 +58,24 @@ TIPS_ON_CLOSE_PREFIX = bytes.fromhex(
     "48 89 54 24 10 48 89 4c 24 08 57 48 83 ec 40 0f b6 05"
 )
 
+# BstHelper.set_UiStatus stores the current UTAGE status in a single
+# ``previousUiStatus`` field before applying the requested status.  A glossary
+# hit can reach TipsDialog.Init more than once while the dialog is already
+# active.  The second call therefore replaces the real story status with
+# ShowMenu, and closing Tips faithfully restores the input-blocking ShowMenu
+# state.  This signature surrounds that save with the two stable calls in the
+# helper method; the relative call operands themselves vary by player build.
+TIPS_STATUS_SAVE_LEAD = bytes.fromhex(
+    "48 8b 54 24 28 b9 08 00 00 00 e8"
+)
+TIPS_STATUS_SAVE_ORIGINAL = bytes.fromhex(
+    "89 44 24 30 8b 54 24 30 48 8b 4c 24 60 e8"
+)
+TIPS_STATUS_SAVE_PATCHED_PREFIX = bytes.fromhex(
+    "83 f8 02 74 0d 89 c2 48 8b 4c 24 60 e8"
+)
+TIPS_STATUS_SAVE_SUFFIX = bytes.fromhex("48 8b 4c 24 60 e8")
+
 
 def immediate_exit_patch(tail_va: int, exit_process_iat_va: int) -> bytes:
     # push 42; pop rcx; call [ExitProcess]; nop; original function epilogue.
@@ -265,6 +283,68 @@ def patch_tips_close_fallback(data: bytearray) -> dict[str, int | bool]:
     }
 
 
+def patch_tips_nested_open_guard(data: bytearray) -> dict[str, int | bool]:
+    """Keep the original story status when a Tips link is clicked repeatedly.
+
+    ``BstHelper.set_UiStatus`` normally saves the current status and then sets
+    the requested one.  Its only callers request ShowMenu.  If the current
+    status is already ShowMenu, saving it again destroys the status that Tips
+    must restore on close.  Replace the save with an equal-size guard:
+
+    ``if (current != ShowMenu) previousUiStatus = current``.
+
+    The replacement is deliberately the same length as the original sequence,
+    uses the existing setter target, and is idempotently recognized on future
+    patcher updates.
+    """
+    matches: list[tuple[int, bool]] = []
+    for lead in find_all(data, TIPS_STATUS_SAVE_LEAD):
+        save = lead + len(TIPS_STATUS_SAVE_LEAD) + 4  # skip the lead call rel32
+        current = bytes(data[save : save + len(TIPS_STATUS_SAVE_ORIGINAL)])
+        original = current == TIPS_STATUS_SAVE_ORIGINAL
+        patched = current.startswith(TIPS_STATUS_SAVE_PATCHED_PREFIX)
+        if not (original or patched):
+            continue
+        call = save + (13 if original else 12)
+        end = save + 18
+        if data[call] != 0xE8 or data[end : end + len(TIPS_STATUS_SAVE_SUFFIX)] != TIPS_STATUS_SAVE_SUFFIX:
+            continue
+        matches.append((save, patched))
+    if len(matches) != 1:
+        raise ValueError(
+            "Could not uniquely locate BstHelper.set_UiStatus for the nested "
+            f"Tips guard (found {len(matches)} matches)"
+        )
+
+    save, already_patched = matches[0]
+    if already_patched:
+        return {
+            "tips_nested_guard_file_offset": save,
+            "tips_nested_guard_va": offset_to_va(data, save),
+            "tips_nested_guard_changed": False,
+        }
+
+    old_call = save + 13
+    target_va = offset_to_va(data, old_call + 5) + struct.unpack_from(
+        "<i", data, old_call + 1
+    )[0]
+    new_call = save + 12
+    new_call_va = offset_to_va(data, new_call)
+    replacement = (
+        TIPS_STATUS_SAVE_PATCHED_PREFIX
+        + struct.pack("<i", target_va - (new_call_va + 5))
+        + b"\x90"
+    )
+    if len(replacement) != 18:
+        raise AssertionError("Nested Tips guard changed the native method size")
+    data[save : save + len(replacement)] = replacement
+    return {
+        "tips_nested_guard_file_offset": save,
+        "tips_nested_guard_va": offset_to_va(data, save),
+        "tips_nested_guard_changed": True,
+    }
+
+
 def find_language_callback_tail(data: bytes) -> tuple[int, int]:
     if len(LANGUAGE_CALLBACK_ANCHOR) != len(LANGUAGE_CALLBACK_MASK):
         raise AssertionError("Language callback signature mask is malformed")
@@ -328,6 +408,7 @@ def patch(source: Path, destination: Path) -> None:
     )
     patch_language_switch(data)
     patch_tips_close_fallback(data)
+    patch_tips_nested_open_guard(data)
     destination.parent.mkdir(parents=True, exist_ok=True)
     destination.write_bytes(data)
 

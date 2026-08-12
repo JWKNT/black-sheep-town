@@ -91,6 +91,12 @@ the story UI synchronously on every close instead of depending on a close-
 animation callback, so repeated Tips use cannot block keyboard input or text
 progression. It retains the final script and asset fixes from version 1.0.12.
 
+Version 1.0.14 fixes the remaining repeated-link variant of that input lock.
+If a name or glossary link fires again while Tips is already open, the game no
+longer overwrites the saved story state with the input-blocking menu state.
+Closing Tips therefore restores gameplay correctly even after rapid or
+repeated clicks.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -99,7 +105,7 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.13 Core and Full Payload
+1. Extract both the v1.0.14 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
    updates, because the patcher verifies the translated scenario payload.
