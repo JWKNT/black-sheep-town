@@ -48,6 +48,9 @@ test("hidden character quiz contains 50 four-choice questions and is not linked 
   assert.equal((quizJs.match(/\bq\("/g) || []).length, 50);
   assert.equal((quizJs.match(/result\("/g) || []).length, 16);
   assert.match(quizCss, /\.result-portrait-frame/);
+  assert.match(quizCss, /--quiz-blue:\s*var\(--blue/);
+  assert.match(quizCss, /\.question-panel h1\s*\{[^}]*font-size:\s*clamp\(21px/s);
+  assert.doesNotMatch(quizCss, /--quiz-(?:red|gold)|#d83a52|#a91f38|#e5ad35/i);
   const portraits = [...quizJs.matchAll(/"(assets\/vn\/portraits\/[^"']+\.webp)"/g)];
   assert.equal(portraits.length, 16);
   for (const [, portrait] of portraits) {
