@@ -139,8 +139,10 @@
       return fragment;
     }
 
+    const term = document.createElement("span");
+    term.className = "glossary-term";
     const link = document.createElement("a");
-    link.className = "glossary-term";
+    link.className = "glossary-term-link";
     const orderQuery = state.order === "group" ? "&order=group" : "";
     link.href = `glossary.html?chapter=${encodeURIComponent(meta.slug)}${orderQuery}#tip-${entry.id}`;
     const tooltipId = `tip-preview-${meta.slug}-${entry.id}-${++state.tooltipCounter}`;
@@ -158,9 +160,22 @@
     description.className = "glossary-popover-description";
     description.lang = "en";
     description.textContent = shortened(entry.record.enDescription);
-    popover.append(title, description);
-    link.append(popover);
-    return link;
+    const close = document.createElement("button");
+    close.className = "glossary-popover-close";
+    close.type = "button";
+    close.setAttribute("aria-label", "Close glossary definition");
+    close.textContent = "×";
+    close.addEventListener("click", (event) => {
+      event.preventDefault();
+      event.stopPropagation();
+      term.classList.add("is-dismissed");
+      close.blur();
+      link.blur();
+    });
+    link.addEventListener("focus", () => term.classList.remove("is-dismissed"));
+    popover.append(close, title, description);
+    term.append(link, popover);
+    return term;
   }
 
   function appendRichText(element, text, terms, meta) {

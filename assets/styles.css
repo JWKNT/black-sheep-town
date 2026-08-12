@@ -104,11 +104,13 @@ mark { padding: 0; background: var(--mark); color: inherit; }
 .reader-portrait-stage,
 .reader-mobile-portraits { display: none; }
 
-.glossary-term { position: relative; color: var(--blue-dark); text-decoration-line: underline; text-decoration-style: dotted; text-decoration-thickness: 1px; text-underline-offset: 3px; }
+.glossary-term { position: relative; }
+.glossary-term-link { color: var(--blue-dark); text-decoration-line: underline; text-decoration-style: dotted; text-decoration-thickness: 1px; text-underline-offset: 3px; }
 .glossary-popover { position: absolute; bottom: calc(100% + 9px); left: 50%; z-index: 20; display: none; width: min(340px, calc(100vw - 36px)); padding: 12px 13px; border: 1px solid var(--line-strong); background: var(--paper); box-shadow: 0 8px 24px var(--shadow); color: var(--ink); font: 12px/1.5 var(--serif); text-align: left; text-decoration: none; transform: translateX(-50%); }
 .glossary-term:hover .glossary-popover,
-.glossary-term:focus .glossary-popover,
 .glossary-term:focus-within .glossary-popover { display: grid; gap: 4px; }
+.glossary-term.is-dismissed .glossary-popover { display: none; }
+.glossary-popover-close { display: none; }
 .glossary-popover strong { color: var(--blue-dark); font-size: 14px; }
 .glossary-popover-description { display: -webkit-box; overflow: hidden; -webkit-box-orient: vertical; -webkit-line-clamp: 5; }
 
@@ -261,6 +263,10 @@ footer p { margin: 3px 0; }
   .english-reader-mode .back-to-controls { padding-inline: 14px; }
   .english-reader-mode .chapter-end-navigation { padding-inline: 14px; }
   .glossary-popover { position: fixed; right: 14px; bottom: 14px; left: 14px; width: auto; transform: none; }
+  .english-reader-mode .glossary-popover { padding: 14px 44px 14px 15px; }
+  .english-reader-mode .glossary-popover-close { position: absolute; top: 7px; right: 7px; display: flex; width: 30px; height: 30px; align-items: center; justify-content: center; padding: 0; border: 1px solid var(--line); border-radius: 0; background: var(--paper); color: var(--muted-strong); font: 21px/1 var(--sans); cursor: pointer; }
+  .english-reader-mode .glossary-popover-close:hover,
+  .english-reader-mode .glossary-popover-close:focus-visible { border-color: var(--blue); color: var(--blue-dark); outline: none; }
   .glossary-intro { display: block; }
   .glossary-count { margin-top: 12px; }
   .glossary-controls { grid-template-columns: 1fr; }

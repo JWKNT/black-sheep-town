@@ -396,6 +396,8 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.match(app, /data\/scenario-progression\.json\?v=/);
   assert.match(app, /makeGlossaryTerm/);
   assert.match(app, /description\.textContent = shortened\(entry\.record\.enDescription\)/);
+  assert.match(app, /close\.className = "glossary-popover-close"/);
+  assert.match(app, /term\.classList\.add\("is-dismissed"\)/);
   assert.doesNotMatch(app, /glossary-popover-action/);
   assert.doesNotMatch(app, /glossary-popover-japanese/);
   assert.match(app, /function currentChapterOrder/);
@@ -543,6 +545,8 @@ test("script rows form a continuous bordered grid", async () => {
   assert.match(app, /if \(enteringPortraits\.length\) fragment\.append\(makeMobilePortraitStrip\(enteringPortraits\)\)/);
   assert.match(css, /\.line-text \{[^}]*overflow-wrap: normal[^}]*word-break: normal/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
+  assert.match(css, /\.english-reader-mode \.glossary-popover-close \{[^}]*top: 7px[^}]*right: 7px[^}]*display: flex/s);
+  assert.match(css, /\.glossary-term\.is-dismissed \.glossary-popover \{ display: none; \}/);
   assert.match(css, /\.glossary-comparison \{[^}]*grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/s);
   assert.match(css, /\.glossary-language\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
 });
