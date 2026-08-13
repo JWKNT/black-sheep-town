@@ -2168,7 +2168,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=13>ヘドロ団地</tips>は<tips=9>Y地区</tips>ではいくつか存在する危険な地域の一つであると言われているが、ことに警察にとっては、間違いなく最も危険な場所である。ここに調査のために足を踏み入れた警察官が何人も行方不明になっているといういわくつきの場所だ。死体さえ見つからない。",
-      "en": "The <tips=13>Sludge Housing Complex</tips> is one of several dangerous places in <tips=9>Y District</tips>. For police, it is without question the worst. Officers have entered on investigations and vanished. Not even their bodies returned.",
+      "en": "The <tips=13>Sludge Housing Complex</tips> is one of several dangerous places in <tips=9>District Y</tips>. For police, it is without question the worst. Officers have entered on investigations and vanished. Not even their bodies returned.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -2219,7 +2219,7 @@
       "sj": "三芳",
       "se": "Hikari Miyoshi",
       "jp": "「……リーダーの<tips=14>深沢</tips>に交渉しようとしているのですが、接触がとれていません。かといって、強行捜査となると反発が予想されるので、大がかりな装備などが必要になって来ますし……。しかし、そのかわり、<tips=9>Y地区</tips>から外へ出るすべての道路には人員とカメラを配置して、外部への逃亡を監視しています」",
-      "en": "“...We've tried to contact the leader, <tips=14>Fukazawa</tips>, and negotiate, but we can't reach him. A forced search would provoke resistance, which means extensive preparations and equipment... In the meantime, we've posted officers and cameras on every road out of <tips=9>Y District</tips> to watch for anyone fleeing.”",
+      "en": "“...We've tried to contact the leader, <tips=14>Fukazawa</tips>, and negotiate, but we can't reach him. A forced search would provoke resistance, which means extensive preparations and equipment... In the meantime, we've posted officers and cameras on every road out of <tips=9>District Y</tips> to watch for anyone fleeing.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -2236,7 +2236,7 @@
       "sj": "路地邦昭",
       "se": "Kuniaki Roji",
       "jp": "「それは賢明だ。きみらのような連中が手を出しても得られるものは何もない。きみらの上司はよく分かっている。きみらの最も重要な仕事は、犯人を捕まえることではなく<tips=9>Y地区</tips>の外に犯罪を持ち出させないことだ。そこに最大の人数を割くという判断はまったく正しいよ」",
-      "en": "“Sensible. People like you would gain nothing by barging in. Your superiors understand. Your most important job isn't to catch the killer. It's to keep his crimes inside <tips=9>Y District</tips>. Putting most of your people on the exits is exactly right.”",
+      "en": "“Sensible. People like you would gain nothing by barging in. Your superiors understand. Your most important job isn't to catch the killer. It's to keep his crimes inside <tips=9>District Y</tips>. Putting most of your people on the exits is exactly right.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-10.webp",
@@ -4042,7 +4042,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=13>ヘドロ団地</tips>は<tips=9>Y地区</tips>の外縁にある。",
-      "en": "The <tips=13>Sludge Housing Complex</tips> stands on the edge of <tips=9>Y District</tips>.",
+      "en": "The <tips=13>Sludge Housing Complex</tips> stands on the edge of <tips=9>District Y</tips>.",
       "bg": "assets/vn/backgrounds/background-ヘドロ団地夜.webp"
     },
     {
@@ -4052,7 +4052,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>にまだ基地があった頃は、ごく普通の市民が暮らす住宅として利用されていたが、基地がなくなり今の<tips=9>Y地区</tips>が形作られると、地域の治安の悪化によって、まともな住民は去った。そして代わりに、<tips=9>Y地区</tips>の中心部にも住むことが出来ないようなたちの悪い連中が集まり、もう十年以上不法占拠している。",
-      "en": "While the base still occupied <tips=9>Y District</tips>, ordinary families lived there. Then the base vanished, the modern <tips=9>Y District</tips> took shape, and worsening crime drove respectable residents out. Their replacements were people too vicious even for central <tips=9>Y District</tips>. They have occupied the complex illegally for more than ten years."
+      "en": "While the base still occupied <tips=9>District Y</tips>, ordinary families lived there. Then the base vanished, the modern <tips=9>District Y</tips> took shape, and worsening crime drove respectable residents out. Their replacements were people too vicious even for central <tips=9>District Y</tips>. They have occupied the complex illegally for more than ten years."
     },
     {
       "id": "E4:0282",
@@ -4079,7 +4079,7 @@
       "sj": "",
       "se": "",
       "jp": "　まともな人間ならば、遠くからその姿を見ただけでも、恐れをなして離れたくなるような場所であるが、今の<tips=9>Y地区</tips>の危険地域の多くが一見それほど危険とは気がつかない装いをしているのと比べると、見てそうとわかるだけまだマシなのだろう。",
-      "en": "A decent person would turn away at the sight from half a mile off. Still, many dangerous quarters in the modern <tips=9>Y District</tips> look harmless until they close around you. Perhaps this place deserves credit for honesty."
+      "en": "A decent person would turn away at the sight from half a mile off. Still, many dangerous quarters in the modern <tips=9>District Y</tips> look harmless until they close around you. Perhaps this place deserves credit for honesty."
     },
     {
       "id": "E4:0285",
@@ -5812,7 +5812,7 @@
       "sj": "",
       "se": "",
       "jp": "　我々は棚に積まれた<tips=9>Y地区</tips>の若者が発行しているミニコミ誌をめくったり、少女向けキャラクターのステッカーが貼られた棚を開けたりして部屋のあちこちを調べ、そしてテレビの脇に置かれたミント色のトートバッグのなかから、薄型のノートパソコンを見つけた。",
-      "en": "The three of us search the room. We leaf through zines published by young people in <tips=9>Y District</tips>, open cabinets covered in stickers of girls' characters, and finally find a slim laptop in a mint-green tote beside the television."
+      "en": "The three of us search the room. We leaf through zines published by young people in <tips=9>District Y</tips>, open cabinets covered in stickers of girls' characters, and finally find a slim laptop in a mint-green tote beside the television."
     },
     {
       "id": "E4:0458",
@@ -6124,7 +6124,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=9>Y地区</tips>内で営業する不動産管理会社の自社物件で、問い合わせてみると、音楽家の女に一ヶ月ほど前から貸しているのだと言う。",
-      "en": "A management company operating in <tips=9>Y District</tips> owns the house. It has been rented for a month to a woman musician.",
+      "en": "A management company operating in <tips=9>District Y</tips> owns the house. It has been rented for a month to a woman musician.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-hikari-miyoshi-f053-05.webp",
@@ -6536,7 +6536,7 @@
       "sj": "",
       "se": "",
       "jp": "　私たちは四台の車に分乗してそこへ向かった。もちろんサイレンなど鳴らしはしない。警察が多数集結しているということを、捜査対象はもとより、<tips=9>Y地区</tips>の住人たちにも出来れば知られたくはなかった。",
-      "en": "Four unmarked cars take us there. No sirens. We want neither the targets nor the residents of <tips=9>Y District</tips> to know the police are gathering in force."
+      "en": "Four unmarked cars take us there. No sirens. We want neither the targets nor the residents of <tips=9>District Y</tips> to know the police are gathering in force."
     },
     {
       "id": "E4:0558",
@@ -7642,7 +7642,7 @@
       "sj": "",
       "se": "",
       "jp": "　しかし、<tips=9>Y地区</tips>の裏路地はどこもそうだが雑然としていて、身を隠す場所は多い。相手はすぐに、こちらの居場所を特定することが出来ないようだった。すっかり金色になった瞳で辺りを見回している。",
-      "en": "Every <tips=9>Y District</tips> backstreet is cluttered with hiding places. She cannot pick out mine at once. Golden eyes sweep the alley.",
+      "en": "Every <tips=9>District Y</tips> backstreet is cluttered with hiding places. She cannot pick out mine at once. Golden eyes sweep the alley.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-eriko-haigami-f021-07.webp",

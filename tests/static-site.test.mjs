@@ -95,10 +95,12 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
   assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
-  assert.match(html, /bst-english-patcher-v1\.0\.14\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.14-Core\.zip/);
-  assert.match(html, /bst-english-patcher-v1\.0\.14\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.14-Full-Payload\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.15\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.15-Core\.zip/);
+  assert.match(html, /bst-english-patcher-v1\.0\.15\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.15-Full-Payload\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
   assert.doesNotMatch(html, /HASH_PENDING/);
+  assert.match(html, /f30af04a51e4e7d63891a6fbdc367bb9c16012b9dd78ab0de5f8fc565ce4fd8b/);
+  assert.match(html, /f3a61890f7042b8dc1881557b8035d5419b87733a5aca584159ae3e4038f10d5/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
   assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -111,7 +113,7 @@ test("complete patch payload contains the technically audited English asset", as
   ));
   assert.equal(
     manifest.target_sha256,
-    "1444a8aeea2333a449dbdb3ceb4baecc9cdbc806964b7b0443491b9e846ad3cc",
+    "18cff0c4c2173259d79366ffe94b7f7488e22f6724f23b0245c8cf0b733fed45",
   );
   const existingHookManifest = JSON.parse(await readFile(
     new URL(
@@ -160,7 +162,7 @@ test("complete patch payload contains the technically audited English asset", as
   assert.match(installer, /legacy_layout/);
   assert.match(installer, /def parse_dragged_path\(/);
   assert.match(installer, /6348 active portrait rows verified/);
-  assert.match(installer, /30777 dialogue rows verified/);
+  assert.match(installer, /30776 dialogue rows verified/);
   assert.match(installer, /ExitProcess\(42\)/);
   assert.match(installer, /BSTGame\.exe/);
   assert.match(installer, /build-resolved-language-switch/);
@@ -174,7 +176,7 @@ test("complete patch payload contains the technically audited English asset", as
   assert.match(nativePatcher, /Finalize every Tips close synchronously/);
   assert.match(nativePatcher, /patch_tips_nested_open_guard/);
   assert.match(nativePatcher, /Keep the original story status when a Tips link is clicked repeatedly/);
-  assert.match(installer, /bst-complete-patch-v1\.0\.14/);
+  assert.match(installer, /bst-complete-patch-v1\.0\.15/);
 });
 
 test("generated chapter index agrees with its chapter files", async () => {

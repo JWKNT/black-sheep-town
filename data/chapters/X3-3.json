@@ -14,7 +14,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=41>グランドタワー</tips>最上階。<tips=81>龍頭</tips>の執務室であるその部屋の窓からは、<tips=9>Y地区</tips>の主要な地域を一望することが出来る。",
-      "en": "The top floor of <tips=41>Grand Tower</tips>. From the windows of this room—the <tips=81>Longtou</tips>’s office—the principal districts of <tips=9>Y District</tips> lay open at a glance.",
+      "en": "The top floor of <tips=41>Grand Tower</tips>. From the windows of this room—the <tips=81>Longtou</tips>’s office—the principal districts of <tips=9>District Y</tips> lay open at a glance.",
       "bg": "assets/vn/backgrounds/background-グランドタワー外観.webp"
     },
     {
@@ -495,7 +495,7 @@
       "sj": "",
       "se": "",
       "jp": "　どことなくメランコリックに見えるうつろな表情だった。晴れて<tips=81>龍頭</tips>となり、ライバルであった<tips=74>廖ファミリー</tips>を吸収し、この<tips=9>Y地区</tips>においてかつてないほどの強大な権力を手に入れつつあるが、それで単純に喜ぶほど彼は愚かではなかったということだろう。",
-      "en": "His vacant expression looked vaguely melancholy. He was now formally <tips=81>Longtou</tips>, had absorbed the rival <tips=74>Liao Family</tips>, and was amassing power on a scale <tips=9>Y District</tips> had never seen. Perhaps he simply was not foolish enough to rejoice."
+      "en": "His vacant expression looked vaguely melancholy. He was now formally <tips=81>Longtou</tips>, had absorbed the rival <tips=74>Liao Family</tips>, and was amassing power on a scale <tips=9>District Y</tips> had never seen. Perhaps he simply was not foolish enough to rejoice."
     },
     {
       "id": "X3-3:0049",
@@ -4168,7 +4168,7 @@
       "sj": "謝亮",
       "se": "Xie Liang",
       "jp": "「これからも何らかのかたちで人死には出るだろう。きみのところだって、一つ間違えれば殺し合いになっていたよ。そうしたら、きみの父さんは死に、きみや<tips=29>アイス</tips>も死んでいたはずだ。気を悪くするかもしれないが、僕は負ける気はしていなかった」",
-      "en": "“People will continue to die in one form or another. One wrong turn with your people and it would have become a fight to the death. Your father would have died, and you and <tips=29>Aisu</tips> with him. This may offend you, but I never thought we would lose.”",
+      "en": "“People will continue to die in one form or another. One wrong turn with your people and it would have become a fight to the death. Your father would have died, and you and <tips=29>Ice</tips> with him. This may offend you, but I never thought we would lose.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
@@ -4237,7 +4237,7 @@
       "sj": "トーマス・リャオ",
       "se": "Tomas Liao",
       "jp": "「<tips=29>アイス</tips>のこともよく知ってたし、僕らのことなんか何でもお見通しなんだ」",
-      "en": "“You knew all about <tips=29>Aisu</tips> too. You see through everything about the two of us.”",
+      "en": "“You knew all about <tips=29>Ice</tips> too. You see through everything about the two of us.”",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
@@ -7124,7 +7124,7 @@
       "sj": "",
       "se": "",
       "jp": "　<tips=28>トーマス</tips>は<tips=29>アイス</tips>と共に車に乗り込み、<tips=41>グランドタワー</tips>へ帰って行った。",
-      "en": "<tips=28>Tomas</tips> climbed into a car with <tips=29>Aisu</tips>, and the two returned to <tips=41>Grand Tower</tips>.",
+      "en": "<tips=28>Tomas</tips> climbed into a car with <tips=29>Ice</tips>, and the two returned to <tips=41>Grand Tower</tips>.",
       "bg": "assets/vn/backgrounds/background-ys車内.webp"
     },
     {
@@ -7134,7 +7134,7 @@
       "sj": "",
       "se": "",
       "jp": "　一方<tips=1>亮</tips>は<tips=59>暗闇通り</tips>へ向かう。そこでこれから幹部の一人である<tips=34>ダリオ・ボネット</tips>と出会う予定があった。彼は<tips=9>Y地区</tips>のカジノ王で、<tips=3>クリス・ツェー</tips>が最後の面会のために幹部たちを招集したとき、誰よりも早く<tips=41>グランドタワー</tips>にあらわれて、意図せず<tips=27>廖志明</tips>を出し抜いた人物でもあった。",
-      "en": "<tips=1>Liang</tips>, meanwhile, set out for <tips=59>Darkness Street</tips> to meet one of the executives there, <tips=34>Dario Bonetto</tips>. Dario was the Casino King of <tips=9>Y District</tips>. When <tips=3>Chris Xie</tips> had summoned the executives for his final meetings, Dario had appeared at <tips=41>Grand Tower</tips> before anyone else and, without intending it, stolen a march on <tips=27>Liao Zhiming</tips>."
+      "en": "<tips=1>Liang</tips>, meanwhile, set out for <tips=59>Darkness Street</tips> to meet one of the executives there, <tips=34>Dario Bonetto</tips>. Dario was the Casino King of <tips=9>District Y</tips>. When <tips=3>Chris Xie</tips> had summoned the executives for his final meetings, Dario had appeared at <tips=41>Grand Tower</tips> before anyone else and, without intending it, stolen a march on <tips=27>Liao Zhiming</tips>."
     },
     {
       "id": "X3-3:0415",
@@ -7287,7 +7287,7 @@
       "sj": "",
       "se": "",
       "jp": "　せっかく<tips=7>ＹＳ</tips>を統合させても、その結果組織が荒廃し、<tips=9>Y地区</tips>外のギャングたちに侵略されたり、あるいは『<tips=21>八龍会</tips>』の<tips=22>老人たち</tips>に好き放題されてしまっては意味がない。",
-      "en": "There would be no meaning in integrating <tips=7>YS</tips> if the process devastated the organization and left it open to invasion by gangs from outside <tips=9>Y District</tips>, or allowed <tips=22>the Elders</tips> of the “<tips=21>Dragon Club</tips>” to do whatever they pleased."
+      "en": "There would be no meaning in integrating <tips=7>YS</tips> if the process devastated the organization and left it open to invasion by gangs from outside <tips=9>District Y</tips>, or allowed <tips=22>the Elders</tips> of the “<tips=21>Dragon Club</tips>” to do whatever they pleased."
     },
     {
       "id": "X3-3:0432",
@@ -7813,7 +7813,7 @@
       "sj": "",
       "se": "",
       "jp": "　中国の広東省の出身で、<tips=9>Y地区</tips>に来る前は日本のあちこちの料理店でシェフとして勤めていたというが、<tips=7>ＹＳ</tips>では誰も彼が調理しているところを見たことがない。",
-      "en": "He came from Guangdong Province in China and was said to have worked as a chef in restaurants throughout Japan before arriving in <tips=9>Y District</tips>. Yet no one in <tips=7>YS</tips> had ever seen him prepare food.",
+      "en": "He came from Guangdong Province in China and was said to have worked as a chef in restaurants throughout Japan before arriving in <tips=9>District Y</tips>. Yet no one in <tips=7>YS</tips> had ever seen him prepare food.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",
@@ -8357,7 +8357,7 @@
       "sj": "",
       "se": "",
       "jp": "　彼らは香港時代からの意識が強く、仮の姿とは言え<tips=9>Y地区</tips>の定食屋の息子として暮らし、不良少年として遊び、学校などに通った自分を軽んじているものもいる。そもそも、父の<tips=3>クリス・ツェー</tips>さえも軽く見ているような人間が多い。父も、けして<tips=69>義勝</tips>のなかで有力な家柄というわけではなかった。",
-      "en": "Their identification with the Hong Kong era ran deep. Some looked down on him for having lived—even if only under a false identity—as the son of a set-meal restaurant owner in <tips=9>Y District</tips>, run around as a delinquent, and attended school. Many even appeared to think little of his father, <tips=3>Chris Xie</tips>. His father too had belonged to no especially powerful lineage within <tips=69>Yi Shen</tips>.",
+      "en": "Their identification with the Hong Kong era ran deep. Some looked down on him for having lived—even if only under a false identity—as the son of a set-meal restaurant owner in <tips=9>District Y</tips>, run around as a delinquent, and attended school. Many even appeared to think little of his father, <tips=3>Chris Xie</tips>. His father too had belonged to no especially powerful lineage within <tips=69>Yi Shen</tips>.",
       "p": [
         {
           "u": "assets/vn/portraits/portrait-xie-liang-f002-01.webp",

@@ -97,6 +97,12 @@ longer overwrites the saved story state with the input-blocking menu state.
 Closing Tips therefore restores gameplay correctly even after rapid or
 repeated clicks.
 
+Version 1.0.15 refreshes the English scenario and glossary after the final
+proper-noun policy update. The character name is now **Ice**, recovering the
+English loan represented by Japanese アイス, and the place name is uniformly
+**District Y**. All 29,755 source rows and 30,776 compiled dialogue rows are
+verified; the v1.0.14 Tips/input runtime remains unchanged.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -105,7 +111,7 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.14 Core and Full Payload
+1. Extract both the v1.0.15 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
    updates, because the patcher verifies the translated scenario payload.

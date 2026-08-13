@@ -248,13 +248,13 @@ def install(game: Path) -> dict[str, object]:
         committed = True
 
         report = {
-            "format": "bst-complete-patch-v1.0.14",
+            "format": "bst-complete-patch-v1.0.15",
             "installed_at": time.strftime("%Y-%m-%d %H:%M:%S"),
             "game": str(game),
             "current_language": "en",
             "text_hook": "Unity Player.log dialogue and choices",
             "portrait_fix": "6348 active portrait rows verified",
-            "pagination_fix": "30777 dialogue rows verified across every numbered message window",
+            "pagination_fix": "30776 dialogue rows verified across every numbered message window",
             "native_switch": "ExitProcess(42)",
             "files": {
                 "launcher": sha256(game / "Bst.exe"),
@@ -402,11 +402,11 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.14",
+                "format": "bst-complete-patch-v1.0.15",
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
-                "pagination_fix": "30777 dialogue rows verified across every numbered message window",
+                "pagination_fix": "30776 dialogue rows verified across every numbered message window",
                 "legacy_layout": legacy_layout,
                 "native_switch": "ExitProcess(42)",
             }
@@ -464,12 +464,12 @@ def update_installed(game: Path) -> dict[str, object]:
         report = json.loads(report_path.read_text(encoding="utf-8")) if report_path.is_file() else {}
         report.update(
             {
-                "format": "bst-complete-patch-v1.0.14",
+                "format": "bst-complete-patch-v1.0.15",
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S"),
                 "game": str(game),
                 "current_language": current_language,
                 "portrait_fix": "6348 active portrait rows verified",
-                "pagination_fix": "30777 dialogue rows verified across every numbered message window",
+                "pagination_fix": "30776 dialogue rows verified across every numbered message window",
                 "legacy_layout": legacy_layout,
                 "native_switch": "ExitProcess(42)",
             }
