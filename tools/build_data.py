@@ -80,7 +80,7 @@ SPEAKER_BY_TIPS_ID = {
     82: ("内田広美", "Hiromi Uchida"),
     83: ("能見美紗", "Misa Noumi"),
     84: ("マイケル・ツェー", "Michael Xie"),
-    87: ("ベルーハ", "Beluha"),
+    87: ("ベルーハ", "Belukha"),
     88: ("アンドリュー・マオ", "Andrew Mao"),
     89: ("ミスター・アーノルド", "Mr. Arnold"),
     90: ("ミスター・チェン", "Mr. Chen"),
@@ -89,7 +89,7 @@ SPEAKER_BY_TIPS_ID = {
     93: ("林田雄一", "Yuuichi Hayashida"),
     94: ("吉田主任", "Chief Nurse Yoshida"),
     96: ("エンゾ・アラーニャ・エ・シウバ", "Enzo Aranha e Silva"),
-    98: ("アレクサンドル", "Alexander Jakovlevich Chernjaev"),
+    98: ("アレクサンドル", "Alexander Yakovlevich Chernykh"),
 }
 UNTAGGED_SPEAKER_CUES = {
     "Jennifer": ("ジェニファー", "Jennifer"),

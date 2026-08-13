@@ -103,6 +103,11 @@ English loan represented by Japanese アイス, and the place name is uniformly
 **District Y**. All 29,755 source rows and 30,776 compiled dialogue rows are
 verified; the v1.0.14 Tips/input runtime remains unchanged.
 
+Version 1.0.16 standardizes the two Russian names as **Belukha** and
+**Alexander Yakovlevich Chernykh**, including references to the **Chernykh
+family**. The longer spellings result in 30,777 verified compiled dialogue
+rows. No other names or runtime behavior changed.
+
 The repository contains binary differences, not the original game. You must
 own the Japanese Windows release. The translated asset deltas still require
 compatible Japanese game data, but equivalent storefront/player executables
@@ -111,7 +116,7 @@ modified.
 
 ## One-click installation
 
-1. Extract both the v1.0.15 Core and Full Payload
+1. Extract both the v1.0.16 Core and Full Payload
    archives into the same location. They merge into one complete
    `bst-complete-patcher` folder. This applies both to fresh installations and
    updates, because the patcher verifies the translated scenario payload.
