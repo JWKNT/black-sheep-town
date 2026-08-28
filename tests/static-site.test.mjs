@@ -30,7 +30,8 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
-  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
+  assert.match(html, /href="https:\/\/jehlp\.net\/site-theme\/v2\/reader\.css"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
@@ -82,7 +83,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
-  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
@@ -102,7 +103,7 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /ff03aa4e0f338f350974c465a086c7fa38d8bc9a7b37287f020bb22b7ca16965/);
   assert.match(html, /0be24fd11bae571c94852a54dca2f086cea653027e643d9cf7393dfcb62bdbe6/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
-  assert.match(html, /src="\/site-theme\/v1\/theme\.js"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
 });
 
@@ -425,15 +426,18 @@ test("client rendering treats script text as text, not HTML", async () => {
   assert.doesNotMatch(glossary, /innerHTML\s*=/);
 });
 
-test("pages use the shared theme controller and retain portrait dark tokens", async () => {
+test("pages use the shared reader system", async () => {
   const reader = await readFile(new URL("index.html", root), "utf8");
   const glossary = await readFile(new URL("glossary.html", root), "utf8");
   const tools = await readFile(new URL("tools.html", root), "utf8");
-  const styles = await readFile(new URL("assets/styles.css", root), "utf8");
+  const styles = await readFile(new URL("../site-theme/v2/reader.css", root), "utf8");
 
-  assert.match(reader, /site-theme\/v1\/theme\.js/);
-  assert.match(glossary, /site-theme\/v1\/theme\.js/);
-  assert.match(tools, /site-theme\/v1\/theme\.js/);
+  assert.match(reader, /site-theme\/v2\/theme\.js/);
+  assert.match(glossary, /site-theme\/v2\/theme\.js/);
+  assert.match(tools, /site-theme\/v2\/theme\.js/);
+  assert.match(reader, /site-theme\/v2\/reader\.css/);
+  assert.match(glossary, /site-theme\/v2\/reader\.css/);
+  assert.match(tools, /site-theme\/v2\/reader\.css/);
   assert.match(reader, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(glossary, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(tools, /data-theme-toggle[^>]*>◐<\/button>/);
@@ -526,13 +530,12 @@ test("plain script segments append without erasing glossary terms", async () => 
   ]);
 });
 
-test("script rows form a continuous bordered grid", async () => {
-  const css = await readFile(new URL("assets/styles.css", root), "utf8");
+test("script rows use the shared ruled layout", async () => {
+  const css = await readFile(new URL("../site-theme/v2/reader.css", root), "utf8");
   const app = await readFile(new URL("assets/app.js", root), "utf8");
-  assert.match(css, /\.script-line \{[^}]*border: 1px solid var\(--line-strong\)/s);
-  assert.match(css, /\.script-line \+ \.script-line \{ border-top: 0; \}/);
-  assert.match(css, /\.line-number \{[^}]*border-right: 1px solid var\(--line-strong\)/s);
-  assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: 13px/s);
+  assert.match(css, /\.script-line \{[^}]*border-top: 1px solid var\(--line\)/s);
+  assert.match(css, /\.script-lines \{[^}]*border-bottom: 1px solid var\(--line-strong\)/s);
+  assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: 11px/s);
   assert.match(css, /\.language-column \{[^}]*justify-content: center/s);
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
   assert.match(css, /\.chapter-menu-options \{[^}]*grid-template-columns: repeat\(3,/s);
