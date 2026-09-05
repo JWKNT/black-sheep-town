@@ -535,7 +535,7 @@ test("script rows use the shared ruled layout", async () => {
   const app = await readFile(new URL("assets/app.js", root), "utf8");
   assert.match(css, /\.script-line \{[^}]*border-top: 1px solid var\(--line\)/s);
   assert.match(css, /\.script-lines \{[^}]*border-bottom: 1px solid var\(--line-strong\)/s);
-  assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: 11px/s);
+  assert.match(css, /\.line-number \{[^}]*align-items: center[^}]*justify-content: center[^}]*font: var\(--text-meta, \.75rem\)/s);
   assert.match(css, /\.language-column \{[^}]*justify-content: center/s);
   assert.match(css, /\.language-column\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
   assert.match(css, /\.chapter-menu-options \{[^}]*grid-template-columns: repeat\(3,/s);
@@ -548,7 +548,7 @@ test("script rows use the shared ruled layout", async () => {
   assert.match(css, /\.reader-mobile-portrait img \{[^}]*object-fit: contain[^}]*object-position: center bottom/s);
   assert.match(app, /function makeMobilePortraitStrip\(portraits\)/);
   assert.match(app, /if \(enteringPortraits\.length\) fragment\.append\(makeMobilePortraitStrip\(enteringPortraits\)\)/);
-  assert.match(css, /\.line-text \{[^}]*overflow-wrap: normal[^}]*word-break: normal/s);
+  assert.match(css, /\.line-text \{[^}]*overflow-wrap: anywhere[^}]*word-break: normal/s);
   assert.match(css, /\.glossary-term:hover \.glossary-popover/);
   assert.match(css, /\.english-reader-mode \.glossary-popover-close \{[^}]*top: 7px[^}]*right: 7px[^}]*display: flex/s);
   assert.match(css, /\.glossary-term\.is-dismissed \.glossary-popover \{ display: none; \}/);
