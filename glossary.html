@@ -74,30 +74,32 @@
       <article class="glossary-entry">
         <div class="glossary-entry-main">
           <div class="glossary-entry-content">
-            <header class="glossary-title-pair">
-              <div class="glossary-title japanese">
-                <span class="glossary-language-label">JP</span>
-                <h2 class="glossary-jp-title" lang="ja"></h2>
-                <p class="glossary-reading" lang="ja"></p>
-              </div>
-              <div class="glossary-title english">
-                <span class="glossary-language-label">EN</span>
-                <h2 class="glossary-en-title"></h2>
-              </div>
-            </header>
-            <div class="glossary-comparison">
-              <div class="glossary-language japanese">
-                <p class="glossary-jp-description" lang="ja"></p>
-              </div>
-              <div class="glossary-language english">
-                <p class="glossary-en-description" lang="en"></p>
-              </div>
+            <div class="glossary-comparison glossary-comparison--grouped">
+              <section class="glossary-language japanese glossary-language--grouped" lang="ja">
+                <header class="glossary-title">
+                  <span class="glossary-language-label" lang="en">JP</span>
+                  <h2 class="glossary-jp-title" lang="ja"></h2>
+                  <p class="glossary-reading" lang="ja"></p>
+                </header>
+                <div class="glossary-definition">
+                  <p class="glossary-jp-description" lang="ja"></p>
+                </div>
+              </section>
+              <section class="glossary-language english glossary-language--grouped" lang="en">
+                <header class="glossary-title">
+                  <span class="glossary-language-label">EN</span>
+                  <h2 class="glossary-en-title"></h2>
+                </header>
+                <div class="glossary-definition">
+                  <p class="glossary-en-description" lang="en"></p>
+                </div>
+              </section>
             </div>
           </div>
         </div>
       </article>
     </template>
 
-    <script src="assets/glossary.js?v=20260806.7"></script>
+    <script src="assets/glossary.js?v=20260905.1"></script>
   </body>
 </html>

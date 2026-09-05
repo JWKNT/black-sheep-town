@@ -91,6 +91,23 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
   assert.doesNotMatch(html, /glossary-entry-footer|glossary-unlock|glossary-back-link/);
 });
 
+test("glossary language groups keep each heading before its matching definition in native reading order", async () => {
+  const html = await readFile(new URL("glossary.html", root), "utf8");
+  const template = html.match(/<template id="glossary-entry-template">([\s\S]*?)<\/template>/)?.[1];
+  assert.ok(template, "the glossary entry template exists");
+  const groups = [...template.matchAll(/<section class="glossary-language (japanese|english) glossary-language--grouped" lang="(ja|en)">([\s\S]*?)<\/section>/g)];
+  assert.deepEqual(groups.map(([, language, lang]) => [language, lang]), [["japanese", "ja"], ["english", "en"]]);
+  for (const [, language, , group] of groups) {
+    const prefix = language === "japanese" ? "jp" : "en";
+    const otherPrefix = prefix === "jp" ? "en" : "jp";
+    assert.match(group, new RegExp(`<header class="glossary-title">[\\s\\S]*class="glossary-${prefix}-title"[\\s\\S]*<\\/header>\\s*<div class="glossary-definition">\\s*<p class="glossary-${prefix}-description"`));
+    assert.doesNotMatch(group, new RegExp(`class="glossary-${otherPrefix}-(?:title|description)"`));
+  }
+  const css = await readFile(new URL("../site-theme/v2/reader.css", root), "utf8");
+  assert.match(css, /@supports \(grid-template-rows: subgrid\)\s*\{[^}]*\.glossary-comparison--grouped \{ grid-template-rows: auto 1fr; \}\s*\.glossary-language--grouped \{ grid-row: span 2; grid-template-rows: subgrid; \}/s);
+  assert.match(css, /\.glossary-language--grouped \{ grid-row: auto; grid-template-rows: auto 1fr; padding: 0; \}/);
+});
+
 test("tools page exposes verified patch and hooker downloads", async () => {
   const html = await readFile(new URL("tools.html", root), "utf8");
   assert.match(html, /href="\.\/">Reader<\/a>/);
