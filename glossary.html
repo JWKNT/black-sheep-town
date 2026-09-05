@@ -12,16 +12,15 @@
     <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/base.css">
     <link rel="stylesheet" href="https://jehlp.net/site-theme/v2/reader.css">
   </head>
-  <body>
+  <body data-site-tone="blue">
     <a class="skip-link" href="#glossary-list">Skip to glossary</a>
 
-    <header class="site-header">
-      <a class="site-title" href="./">Black Sheep Town</a>
+    <header class="site-header site-header--identity">
+      <div class="site-brand"><span class="site-mark" aria-hidden="true">⁂</span><a class="site-title" href="./">Black Sheep Town</a></div>
       <nav aria-label="Site links">
         <a href="./">Reader</a>
         <a href="glossary.html" aria-current="page">Glossary</a>
         <a href="tools.html">Tools</a>
-        <a href="https://jehlp.net/">Projects</a>
         <button class="theme-toggle" id="theme-toggle" type="button" data-theme-toggle aria-label="Use dark theme" aria-pressed="false">◐</button>
       </nav>
     </header>
@@ -30,7 +29,7 @@
       <section class="glossary-intro">
         <div>
           <h1>Glossary</h1>
-          <p>The game’s glossary as it exists after the selected chapter. Later definitions remain hidden.</p>
+          <p>Definitions unlocked through your selected chapter. Later entries stay hidden.</p>
         </div>
         <p class="glossary-count" id="glossary-count">Loading…</p>
       </section>
@@ -59,7 +58,6 @@
         </label>
       </section>
 
-      <p class="glossary-note">Original Japanese definitions are shown beside the current English machine-assisted fan translation.</p>
       <section class="glossary-list" id="glossary-list" aria-live="polite"></section>
 
       <div class="empty-state" id="glossary-empty" hidden>
@@ -69,7 +67,7 @@
     </main>
 
     <footer>
-      <p>Unofficial, noncommercial fan translation. Please support the creators and own a legal Japanese copy of <cite>Black Sheep Town</cite>.</p>
+      <p>Unofficial, noncommercial machine-assisted draft. Please support the creators and own a legal Japanese copy of <cite>Black Sheep Town</cite>.</p>
     </footer>
 
     <template id="glossary-entry-template">
