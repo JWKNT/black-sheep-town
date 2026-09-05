@@ -36,6 +36,15 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
 
+test("reader keeps one chapter-aware glossary link in the masthead", async () => {
+  const html = await readFile(new URL("index.html", root), "utf8");
+  const script = await readFile(new URL("assets/app.js", root), "utf8");
+  assert.equal((html.match(/href="glossary\.html"/g) || []).length, 1);
+  assert.match(html, /<header[^>]*>[\s\S]*<a href="glossary\.html" id="glossary-link">Glossary<\/a>[\s\S]*<\/header>/);
+  assert.doesNotMatch(html, /Glossary →/);
+  assert.match(script, /elements\.glossaryLink\.href = `glossary\.html\?chapter=\$\{encodeURIComponent\(state\.chapter\)\}\$\{glossaryOrder\}`/);
+});
+
 test("hidden character quiz contains 50 four-choice questions and is not linked from the main site", async () => {
   const quizHtml = await readFile(new URL("quiz/index.html", root), "utf8");
   const quizJs = await readFile(new URL("quiz/quiz.js", root), "utf8");
