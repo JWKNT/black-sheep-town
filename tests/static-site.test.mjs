@@ -30,8 +30,8 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="ja"/);
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
-  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
-  assert.match(html, /href="https:\/\/jehlp\.net\/site-theme\/v2\/reader\.css"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js\?v=20260930-home"/);
+  assert.match(html, /href="https:\/\/jehlp\.net\/site-theme\/v2\/reader\.css\?v=20260930-home"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
@@ -92,7 +92,7 @@ test("glossary HTML exposes progress, search, and entry regions", async () => {
     assert.match(html, new RegExp(`id=["']${id}["']`));
   }
   assert.match(html, /assets\/glossary\.js\?v=/);
-  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js\?v=20260930-home"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /class="glossary-jp-description" lang="ja"/);
   assert.match(html, /class="glossary-en-description" lang="en"/);
@@ -129,7 +129,7 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   assert.match(html, /ff03aa4e0f338f350974c465a086c7fa38d8bc9a7b37287f020bb22b7ca16965/);
   assert.match(html, /0be24fd11bae571c94852a54dca2f086cea653027e643d9cf7393dfcb62bdbe6/);
   assert.match(html, /a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf/);
-  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js"/);
+  assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js\?v=20260930-home"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
 });
 
