@@ -44,7 +44,7 @@
             </div>
             <span class="tool-status">Complete build</span>
           </header>
-          <p>Converts a verified Japanese installation into the current translated build. It includes the final script, glossary, menus, images, verified character portraits, text-hook support, and immediate full-game EN/JP switching. Version 1.0.16 standardizes Belukha and Alexander Yakovlevich Chernykh while retaining every earlier script and runtime fix.</p>
+          <p>This tool converts a verified Japanese installation into the current translated build. The build includes the final script, glossary, menus, images, and verified character portraits. It supports text hooks and immediate EN/JP switching throughout the game. Version 1.0.16 standardizes Belukha and Alexander Yakovlevich Chernykh. It retains every earlier script and runtime fix.</p>
           <ol class="tool-steps">
             <li>Download and extract both archives into the same location, whether this is a fresh install or an update.</li>
             <li>Run <code>Install BST English Patch.command</code> on macOS or the <code>.bat</code> launcher on Windows.</li>
@@ -71,7 +71,7 @@
             </div>
             <span class="tool-status">JP or EN</span>
           </header>
-          <p>Captures dialogue, narration, and choices that ordinary text hookers miss. Version 1.0.3 reads the exact UTAGE command advanced on each click and auto-detects the patcher's new <code>BSTGame.exe</code> runtime on Windows.</p>
+          <p>This tool captures dialogue, narration, and choices that ordinary text hookers miss. Version 1.0.3 reads the exact UTAGE command that each click advances. It automatically detects the patcher's new <code>BSTGame.exe</code> runtime on Windows.</p>
           <ol class="tool-steps">
             <li>The complete patch above already includes the game-side hook. For an untouched Japanese build, run <code>install_game_hook.py</code> once while the game is closed.</li>
             <li>Start the game, then run <code>Run BST Text Hooker.command</code> or <code>Run BST Text Hooker.bat</code>.</li>
@@ -83,7 +83,7 @@
           </div>
           <details class="tool-details">
             <summary>Compatibility and options</summary>
-            <p>No BepInEx installation is needed. The hooker supports readable output, JSONL history, raw UTAGE markup, clipboard-free mode, and an explicit Player.log path.</p>
+            <p>The hooker does not need BepInEx. The hooker supports readable output, JSONL history, raw UTAGE markup, clipboard-free mode, and an explicit Player.log path.</p>
             <p class="tool-hash"><span>SHA-256</span> <code>a5432fac05dd3b5076cb6c1f73ac35b361d2be24ff9612d1dbaad36c83200ecf</code></p>
           </details>
         </article>
@@ -91,7 +91,7 @@
 
       <aside class="tools-note">
         <h2>Before installing</h2>
-        <p>Keep your original download or a separate backup. Saves are shared between English and Japanese modes, but modified game files should not be mixed with another translation or mod.</p>
+        <p>Keep your original download or a separate backup. English and Japanese modes share saves. Do not mix modified game files with another translation or mod.</p>
       </aside>
     </main>
 
