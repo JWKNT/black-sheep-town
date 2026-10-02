@@ -745,7 +745,10 @@
       document.querySelector(`input[name="search-scope"][value="${state.scope}"]`).checked = true;
       elements.chapterCount.textContent = number.format(state.index.chapters.length);
       elements.lineCount.textContent = number.format(state.index.translatedLines);
-      elements.updatedAt.textContent = state.index.updated;
+      const updated = new Date(`${state.index.updated}T00:00:00Z`);
+      elements.updatedAt.textContent = Number.isNaN(updated.getTime())
+        ? state.index.updated
+        : new Intl.DateTimeFormat("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" }).format(updated);
       updateReadingMode();
       populateChapterMenu();
       bindEvents();
