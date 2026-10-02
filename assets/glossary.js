@@ -266,19 +266,20 @@
   }
 
   async function init() {
+    const params = new URLSearchParams(window.location.search);
+    elements.search.value = params.get("q") || "";
     try {
       [state.index, state.glossary, state.progression] = await Promise.all([
         fetchJson(`data/index.json?v=${Date.now()}`),
         fetchJson(`data/glossary.json?v=${Date.now()}`),
         fetchJson(`data/scenario-progression.json?v=${Date.now()}`),
       ]);
-      const params = new URLSearchParams(window.location.search);
       const requested = params.get("chapter");
       state.order = params.get("order") === "group" ? "group" : "vn";
       state.chapter = chapterPosition(requested) >= 0
         ? requested
         : currentChapterOrder().at(-1).slug;
-      state.query = params.get("q") || "";
+      state.query = elements.search.value;
       elements.search.value = state.query;
       populateChapters();
       bindEvents();

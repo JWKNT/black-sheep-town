@@ -196,14 +196,16 @@
     return response.json();
   }
 
-  async function loadChapter(slug) {
+  function loadChapter(slug) {
     if (!state.cache.has(slug)) {
-      state.cache.set(
-        slug,
-        fetchJson(
-          `data/chapters/${encodeURIComponent(slug)}.json?v=${encodeURIComponent(state.index.generatedAt)}`,
-        ),
-      );
+      const request = fetchJson(
+        `data/chapters/${encodeURIComponent(slug)}.json?v=${encodeURIComponent(state.index.generatedAt)}`,
+      ).catch((error) => {
+        // An interrupted request must not poison this chapter until a page reload.
+        if (state.cache.get(slug) === request) state.cache.delete(slug);
+        throw error;
+      });
+      state.cache.set(slug, request);
     }
     return state.cache.get(slug);
   }
@@ -524,10 +526,13 @@
         renderGroups([{ meta, lines: data.lines.filter((line) => matches(line, terms)) }], terms, false);
       }
 
+      elements.emptyState.querySelector("h2").textContent = "No matching lines";
+      elements.emptyState.querySelector("p").textContent = "Try a broader search or another chapter.";
       if (window.location.hash) {
         requestAnimationFrame(() => document.querySelector(window.location.hash)?.scrollIntoView());
       }
     } catch (error) {
+      if (token !== state.searchToken) return;
       elements.resultStatus.hidden = false;
       elements.resultStatus.textContent = "Could not load the script.";
       elements.scriptLines.replaceChildren();
@@ -701,6 +706,8 @@
   }
 
   async function init() {
+    const params = new URLSearchParams(window.location.search);
+    elements.search.value = params.get("q") || "";
     try {
       [state.index, state.glossary, state.progression] = await Promise.all([
         fetchJson(`data/index.json?v=${Date.now()}`),
@@ -710,10 +717,9 @@
       state.glossaryById = new Map(
         state.glossary.groups.map((group) => [group.id, group]),
       );
-      const params = new URLSearchParams(window.location.search);
       const requestedChapter = params.get("chapter");
       state.chapter = chapterMeta(requestedChapter) ? requestedChapter : state.index.chapters[0].slug;
-      state.query = params.get("q") || "";
+      state.query = elements.search.value;
       state.scope = params.get("scope") === "all" ? "all" : "chapter";
       state.mode = params.get("mode") === "en" ? "english" : "parallel";
       state.order = params.get("order") === "group" ? "group" : "vn";
