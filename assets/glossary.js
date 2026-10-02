@@ -100,6 +100,16 @@
     return article;
   }
 
+  function fragmentTarget() {
+    if (!window.location.hash) return null;
+    try {
+      return document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+    } catch {
+      // A malformed percent escape is an unknown address, not a loading failure.
+      return null;
+    }
+  }
+
   function updateUrl() {
     const url = new URL(window.location.href);
     url.searchParams.set("chapter", state.chapter);
@@ -122,7 +132,7 @@
     updateChapterPicker();
     updateUrl();
     if (window.location.hash) {
-      requestAnimationFrame(() => document.querySelector(window.location.hash)?.scrollIntoView());
+      requestAnimationFrame(() => fragmentTarget()?.scrollIntoView());
     }
   }
 

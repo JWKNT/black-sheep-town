@@ -223,8 +223,20 @@
     return ordered.concat(state.index.chapters.filter((chapter) => !included.has(chapter.slug)));
   }
 
+  function fragmentTarget() {
+    if (!window.location.hash) return null;
+    try {
+      return document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+    } catch {
+      // A malformed percent escape is an unknown address, not a loading failure.
+      return null;
+    }
+  }
+
   function updateUrl() {
     const url = new URL(window.location.href);
+    const previousChapter = url.searchParams.get("chapter");
+    if (previousChapter && previousChapter !== state.chapter) url.hash = "";
     url.searchParams.set("chapter", state.chapter);
     if (state.query) url.searchParams.set("q", state.query);
     else url.searchParams.delete("q");
@@ -529,7 +541,9 @@
       elements.emptyState.querySelector("h2").textContent = "No matching lines";
       elements.emptyState.querySelector("p").textContent = "Try a broader search or another chapter.";
       if (window.location.hash) {
-        requestAnimationFrame(() => document.querySelector(window.location.hash)?.scrollIntoView());
+        requestAnimationFrame(() => {
+          if (token === state.searchToken) fragmentTarget()?.scrollIntoView();
+        });
       }
     } catch (error) {
       if (token !== state.searchToken) return;
@@ -548,8 +562,10 @@
     const meta = chapterMeta(slug);
     updateChapterControls();
     setChapterHeading(meta);
-    await render();
-    if (scrollTo) document.querySelector(scrollTo).scrollIntoView();
+    const pending = render();
+    const token = state.searchToken;
+    await pending;
+    if (token === state.searchToken && scrollTo) document.querySelector(scrollTo).scrollIntoView();
   }
 
   function makeChapterMenuGroup(label, chapters, id) {
