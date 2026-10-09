@@ -31,7 +31,7 @@ test("reader HTML exposes the required controls and regions", async () => {
   assert.match(html, /lang="en"/);
   assert.match(html, /assets\/app\.js\?v=/);
   assert.match(html, /src="https:\/\/jehlp\.net\/site-theme\/v2\/theme\.js\?v=20260930-header-home"/);
-  assert.match(html, /href="https:\/\/jehlp\.net\/site-theme\/v2\/reader\.css\?v=20261009-folio-wrenfold"/);
+  assert.match(html, /href="https:\/\/jehlp\.net\/site-theme\/v2\/reader\.css\?v=20261009-reading-folio"/);
   assert.match(html, /data-theme-toggle[^>]*>◐<\/button>/);
   assert.match(html, /id="result-status"[^>]*hidden/);
 });
