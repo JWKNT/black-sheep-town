@@ -121,7 +121,7 @@ test("tools page exposes verified patch and hooker downloads", async () => {
   const html = await readFile(new URL("tools.html", root), "utf8");
   assert.match(html, /href="\.\/">Reader<\/a>/);
   assert.match(html, /href="glossary\.html">Glossary<\/a>/);
-  assert.match(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
+  assert.doesNotMatch(html, /href="tools\.html" aria-current="page">Tools<\/a>/);
   assert.match(html, /bst-english-patcher-v1\.0\.16\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.16-Core\.zip/);
   assert.match(html, /bst-english-patcher-v1\.0\.16\/BLACK-SHEEP-TOWN-English-Patcher-v1\.0\.16-Full-Payload\.zip/);
   assert.match(html, /bst-text-hooker-v1\.0\.3\/BST-Text-Hooker-v1\.0\.3\.zip/);
@@ -580,4 +580,18 @@ test("script rows use the shared ruled layout", async () => {
   assert.match(css, /\.glossary-term\.is-dismissed \.glossary-popover \{ display: none; \}/);
   assert.match(css, /\.glossary-comparison \{[^}]*grid-template-columns: minmax\(0, 1fr\) minmax\(0, 1fr\)/s);
   assert.match(css, /\.glossary-language\.english \{ border-left: 1px solid var\(--line-strong\); \}/);
+});
+
+
+test("mastheads identify the project without duplicate or current-page links", async () => {
+  for (const page of ["index.html", "tools.html", "glossary.html", "quiz/index.html"]) {
+    const html = await readFile(new URL(page, root), "utf8");
+    const header = html.match(/<header class="site-header[^>]*>[\s\S]*?<\/header>/)?.[0];
+    assert.ok(header, page);
+    assert.match(header, /<span class="site-title">[^<]+<\/span>/);
+    assert.doesNotMatch(header, /<a[^>]*class="site-title"/);
+    assert.doesNotMatch(header, /aria-current="page"/);
+    assert.match(header, /class="site-home"/);
+    if (page !== "index.html") assert.match(header, /href="\.\.?\/">Reader<\/a>/);
+  }
 });
